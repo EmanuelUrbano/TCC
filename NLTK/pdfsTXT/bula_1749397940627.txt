@@ -1,0 +1,751 @@
+®
+EMIBAZET
+ezetimiba
+MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS
+FARMACÊUTICOS LTDA
+Comprimido
+10 mg
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+EMIBAZET®
+ezetimiba
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA.
+APRESENTAÇÕES
+Comprimido de 10 mg. Embalagem contendo 10, 20, 30, 40, 60, 100* ou 500** unidades.
+*Embalagem fracionável
+**Embalagem hospitalar
+USO ORAL
+USO ADULTO E PEDIÁTRICO ACIMA DE 6 ANOS DE IDADE
+COMPOSIÇÃO
+Cada comprimido de 10 mg contém:
+ezetimiba................................................................................................................................................10 mg
+excipiente* q.s.p.....................................................................................................................................1 com
+*lactose monoidratada, celulose microcristalina, povidona, croscarmelose sódica, laurilsulfato de sódio,
+docusato de sódio, estearato de magnésio.
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Hipercolesterolemia Primária: EMIBAZET®, administrado em associação com um inibidor da enzima
+HMG-CoA redutase (estatina) ou isoladamente, é indicado como terapia adjuvante à dieta para a redução
+dos níveis elevados de colesterol total (C total), de colesterol da lipoproteína de baixa densidade (LDL-
+C), da apolipoproteína B (apo B) e dos triglicérides (TG) e para aumentar o colesterol da lipoproteína de
+alta densidade (HDL-C) em pacientes adultos e adolescentes (10 a 17 anos de idade) com
+hipercolesterolemia primária (familiar heterozigótica e não familiar).
+EMIBAZET®, administrado em combinação com o fenofibrato, é indicado como terapia adjuvante à
+dieta para redução de níveis elevados de colesterol total, LDL-C, Apo B, e não HDL-C em pacientes
+adultos com hiperlipidemia mista.
+Hipercolesterolemia Familiar Homozigótica (HFHo): EMIBAZET® administrado em associação com
+uma estatina é indicado para a redução dos níveis elevados de colesterol total e do LDL-C em pacientes
+adultos com HFHo. Os pacientes também poderão receber tratamentos adjuvantes (por exemplo, aférese
+de LDL).
+Sitosterolemia Homozigótica (Fitosterolemia): EMIBAZET® é indicado para a redução dos níveis
+elevados de sitosterol e campesterol em pacientes com sitosterolemia familiar homozigótica.
+2. RESULTADOS DE EFICÁCIA
+Hipercolesterolemia Primária
+Monoterapia: em dois estudos multicêntricos, duplos-cegos, controlados com placebo, com 12 semanas
+de duração e que envolveram 1.719 pacientes com hipercolesterolemia primária, ezetimiba 10 mg reduziu
+de forma significativa os níveis de colesterol total, LDL-C, apo B e TG e aumentou os níveis de HDL-C
+em comparação com o placebo (Tabela 1). A redução do LDL–C foi uniforme em todas as idades, sexos,
+etnias e níveis basais de LDL-C. Além disso, ezetimiba não exerceu efeito sobre a concentração
+plasmática das vitaminas lipossolúveis A, D e E ou sobre o tempo de protrombina e não comprometeu a
+produção de hormônios esteroides adrenocorticais.
+Tabela 1: Resposta média de pacientes com hipercolesterolemia primária (alteração % média em
+relação ao período basal) a ezetimiba
+Grupo de N C total LDL-C Apo B TGa HDL-C
+Tratamento
+Estudo 1 Placebo 205 +1 +1 -1 -1 -1
+ezetimiba 622 -12 -18 -15 -7 +1
+Estudo 2 Placebo 226 +1 +1 -1 +2 -2
+ezetimiba 666 -12 -18 -16 -9 +1
+Dados Placebo 431 0 +1 -2 0 -2
+combinados ezetimiba 1.288 -13 -18 -16 -8 +1
+(Estudos 1 e 2)
+aAlteração % mediana em relação ao período basal
+Coadministração com uma estatina
+A ezetimiba iniciada concomitantemente com uma estatina: em quatro estudos multicêntricos, duplos-
+cegos, controlados com placebo, com 12 semanas de duração e que envolveram 1.187 pacientes com
+hipercolesterolemia, ezetimiba 10 mg foi administrada isoladamente ou com várias doses de atorvastatina,
+sinvastatina, pravastatina ou lovastatina. Em geral, o efeito aumentado sobre a redução de LDL-C foi
+independente da dose ou estatina específica utilizada. Além disso, a redução do LDL-C com ezetimiba
+coadministrada com a dose mais baixa testada (10 mg) de qualquer uma das estatinas foi semelhante ou
+maior que a redução do LDL-C observada com a dose mais alta testada da estatina correspondente
+administrada isoladamente (Tabela 2).
+Tabela 2: Alteração % média em relação ao período basal na concentração plasmática do LDL-C
+calculado para ezetimiba administrada com estatinas
+Estudo Estudo Estudo Estudo
+atorvastatina sinvastatina pravastatina lovastatina
+Placebo +4 -1 -1 0
+ezetimiba -20 -19 -20 -19
+estatina 10 mg -37 -27 -21 -20
+ezetimiba + estatina -53 -46 -34 -34
+10 mg
+estatina 20 mg -42 -36 -23 -26
+ezetimiba + estatina -54 -46 -40 -41
+20 mg
+estatina 40 mg -45 -38 -31 -30
+ezetimiba + estatina -56 -56 -42 -46
+40 mg
+estatina 80 mg -54 -45 - -
+ezetimiba + estatina -61 -58 - -
+80 mg
+Dados combinados: -44 -36 -25 -25
+todas as doses de
+estatinas
+Dados combinados: -56 -51 -39 -40
+todas as doses de
+ezetimiba + estatina
+Em uma análise combinada de ezetimiba + todas as doses de estatina, ezetimiba exerceu efeito benéfico
+sobre o colesterol total, a apo B, os TG e o HDL-C (Tabela 3).
+Tabela 3: Análise combinada da alteração % média em relação ao período basal no Colesterol
+Total, Apo B, TG e HDL-C
+C total Apo B TGa HDL-C
+ezetimiba + -41 -45 -33 +7
+atorvastatina
+atorvastatina -32 -36 -24 +4
+isoladamente
+ezetimiba + -37 -41 -29 +9
+sinvastatina
+sinvastatina -26 -30 -20 +7
+isoladamente
+ezetimiba + -27 -30 -21 +8
+pravastatina
+pravastatina -17 -20 -14 +7
+isoladamente
+ezetimiba + -29 -33 -25 +9
+lovastatina
+lovastatina -18 -21 -12 +4
+isoladamente
+a Alteração % mediana
+A ezetimiba adicionada ao tratamento pré-existente com estatina: em um estudo multicêntrico, duplo-
+cego, controlado com placebo, com 8 semanas de duração, 769 pacientes com hipercolesterolemia que já
+recebiam monoterapia com estatina e cujos níveis de LDL-C não atendiam às metas estabelecidas pelo
+National Cholesterol Education Program (NCEP) (meta de LDL-C de 100 a 160 mg/dL, dependendo das
+características basais) foram distribuídos de modo randômico para receber ezetimiba 10 mg ou placebo,
+além do tratamento já em andamento com estatina.
+Entre os pacientes que recebiam estatina e cujos níveis basais de LDL-C não atendiam à meta (~82%),
+72% e 19% dos pacientes distribuídos de modo randômico para ezetimiba e placebo, respectivamente,
+atingiram a meta no final do estudo.
+A ezetimiba adicionada ao tratamento preexistente com estatina reduziu significativamente os níveis de
+colesterol total, LDL-C, apo B e TG e aumentou o nível de HDL-C em comparação com o placebo
+(Tabela 4). A redução de LDL-C foi uniforme entre todas as estatinas.
+Tabela 4: Resposta média de pacientes com hipercolesterolemia (alteração % média em relação ao
+período basal) à adição de ezetimiba ao tratamento pré-existente com estatinaa
+Tratamento N Col. LDL-C Apo B TGb HDL-C
+(Dose Diária) total
+estatina em 390 -2 -4 -3 -3 +1
+andamento (-6 mg/dLc)
++ placebo
+estatina em 379 -17 -25 -19 -14 +3
+andamento (-36 mg/dLc)
++ ezetimiba
+a Porcentagens de pacientes que recebiam cada estatina: 40% atorvastatina, 31% sinvastatina, 29%
+outras (pravastatina, fluvastatina, cerivastatina, lovastatina)
+b Alteração % mediana em relação ao período basal
+c Alteração do LDL-C a partir do período basal (138 mg/dL e 139 mg/dL para estatina + ezetimiba e
+estatina + placebo, respectivamente)
+A ezetimiba ou placebo adicionado ao tratamento com estatina reduziram a proteína C reativa em 10% ou
+0% em relação ao período basal, respectivamente (valores medianos).
+Em um estudo multicêntrico, duplo-cego, com 14 semanas de duração, 621 pacientes com
+hipercolesterolemia que recebiam 10 mg/dia de atorvastatina e cujos níveis de LDL-C estavam acima de
+130 mg/dL foram distribuídos de modo randômico para receber 20 mg de atorvastatina ou 10 mg de
+ezetimiba adicionada ao tratamento com atorvastatina 10 mg. A dose de atorvastatina poderia ser titulada
+até 80 mg no grupo da atorvastatina e até 40 mg no grupo da coadministração de ezetimiba mais
+atorvastatina, com base nos pacientes que não atingiram a meta de LDL-C (< 100 mg/dL). A média de
+LDL-C no período basal era de 187 mg/dL e aproximadamente 60% dos pacientes apresentavam
+hipercolesterolemia familiar heterozigótica (HFHe). Ao final do estudo, houve diferença significativa na
+obtenção da meta de LDL-C entre os pacientes que receberam a coadministração de ezetimiba (22%) e os
+que receberam monoterapia com atorvastatina (7%). Na 4ª semana houve diferença significativa nas
+reduções de LDL-C entre os pacientes que receberam a coadministração (24%; ezetimiba + atorvastatina
+10 mg) e os que receberam monoterapia (9%; atorvastatina 20 mg). No subgrupo de pacientes com HFHe,
+foram obtidos resultados semelhantes em termos de obtenção da meta de LDL-C e de redução dos níveis
+de LDL-C.
+Em um estudo delineado de forma semelhante que envolveu 100 pacientes com hipercolesterolemia que
+recebiam 20 mg de sinvastatina e cujos níveis de LDL-C não atendiam à meta, a adição de ezetimiba 10
+mg associada à titulação das doses da sinvastatina em comparação com a titulação da sinvastatina
+isoladamente resultou em vantagens semelhantes às observadas no estudo da atorvastatina descrito acima.
+Por exemplo, foram obtidas diferenças significativas em relação à obtenção da meta de LDL-C (27% para
+ezetimiba + sinvastatina vs. 3% para sinvastatina isoladamente) e à redução de LDL-C (24% para
+ezetimiba + sinvastatina vs. 11% para sinvastatina isoladamente).
+Coadministração com fenofibratos: em um estudo clínico multicêntrico, duplo-cego e controlado com
+placebo que incluiu pacientes com hiperlipidemia mista, 625 pacientes foram tratados por até 12 semanas
+e 576 por até 1 ano. Os pacientes foram distribuídos de forma randômica para receber placebo, ezetimiba
+apenas, 160 mg de fenofibrato apenas ou ezetimiba e 160 mg de fenofibrato.
+A ezetimiba coadministrada com fenofibrato diminuiu significativamente os níveis de colesterol total,
+LDL-C, apo B e não HDL-C em comparação com a administração de fenofibrato apenas. A redução
+percentual de TG e o aumento percentual de HDL-C para ezetimiba coadministrada com fenofibrato
+foram comparáveis aos da administração de fenofibrato apenas (Tabela 5).
+Tabela 5: Resposta de pacientes com hiperlipidemia mista (alteração % médiaa em relação ao
+período basalb sem tratamento em 12 semanas) a ezetimiba e ao fenofibrato iniciados
+concomitantemente
+Tratamento Não
+(Dose Diária) N C LDL-C Apo B TGa HDL-C HDL-C
+Total
+Placebo 63 0 0 -1 -9 +3 0
+ezetimiba 185 -12 -13 -11 -11 +4 -15
+fenofibrato 160 mg 188 -11 -6 -15 -43 +19 -16
+ezetimiba + +183 -22 -20 -26 -44 +19 -30
+fenofibrato 160 mg
+a Para triglicérides, alteração % mediana em relação ao período basal
+b Período basal sem nenhum medicamento hipolipemiante
+A melhora nos desfechos lipídicos após 1 ano de tratamento foi compatível com os dados de 12 semanas
+apresentados acima.
+Estudos clínicos em pacientes pediátricos (6 a 17 anos de idade)
+Em um estudo multicêntrico, duplo-cego, controlado, 138 pacientes [59 meninos (51 estágio de Tanner I
+e 6 estágio de Tanner II) e 79 meninas (52 estágio de Tanner I, 22 estágio de Tanner II e 1 estágio de
+Tanner III)], de 6 a 10 anos de idade (idade média de 8,3 anos) com hipercolesterolemia familiar
+heterozigótica ou não familiar foram randomizados para receber ezetimiba 10 mg ou placebo por 12
+semanas. A inclusão no estudo teve as seguintes exigências: 1) um nível de colesterol LDL no período
+basal > 159 e < 400 mg/dL e 2) um histórico médico e uma apresentação clínica compatíveis com HeFH.
+Na Semana 12, ezetimiba reduziu significativamente os níveis de colesterol total, colesterol LDL, Apo B,
+e colesterol não HDL em comparação com o placebo. Os resultados para TG e colesterol HDL foram
+similares para os dois grupos de tratamento.
+Tabela 6: Resposta a ezetimiba para pacientes pediátricos com hipercolesterolemia familiar
+heterozigótica (alteração % média
+a
+em relação ao período basal
+b
+sem tratamento)
+Tratamento N Colesterol Colesterol Apo B Colesterol TGa Colesterol
+(Dose Diária) Total LDL HDL não HDL
+Semana 12
+ezetimiba 85 -21 -28 -22 +2 -6 -26
+Placebo 42 0 -1 -1 +1 +8 0
+a
+Para triglicérides, média geométrica % em relação ao período basal
+b
+Período basal – sem receber fármaco hipolipemiante
+Estudos clínicos em pacientes pediátricos (10 a 17 anos de idade)
+Em um estudo multicêntrico, duplo-cego, controlado, 142 meninos e 106 meninas pós-menarca, de 10 a
+17 anos de idade (idade média de 14,2 anos) com hipercolesterolemia familiar heterozigótica (HeFH)
+foram randomizados para receber ezetimiba coadministrada com sinvastatina ou sinvastatina apenas. A
+inclusão no estudo teve as seguintes exigências: 1) um nível de colesterol LDL no período basal entre 160
+e 400 mg/dL e 2) um histórico médico e uma apresentação clínica compatíveis com HeFH. Os pacientes
+receberam ezetimiba coadministrada com sinvastatina (10 mg, 20 mg ou 40 mg) ou apenas sinvastatina
+(10 mg, 20 mg ou 40 mg) por 6 semanas, ezetimiba coadministrada com sinvastatina 40 mg ou apenas
+sinvastatina 40 mg pelas 27 semanas seguintes, e ezetimiba em regime aberto coadministrada com
+sinvastatina (10 mg, 20 mg ou 40 mg) pelas 20 semanas subsequentes.
+Na Semana 6, ezetimiba coadministrada com sinvastatina (todas as doses) reduziu os níveis de colesterol
+total, colesterol LDL, Apo B, e colesterol não HDL significativamente mais que a sinvastatina apenas
+(todas as doses). Os resultados para TG e colesterol HDL foram similares para os dois grupos de
+tratamento (vide tabela 7). Na Semana 33, ezetimiba coadministrada com sinvastatina reduziu os níveis
+de colesterol total, colesterol LDL, Apo B, TG, e colesterol não HDL significativamente mais do que a
+sinvastatina apenas. Os aumentos de colesterol HDL foram semelhantes para os dois grupos de
+tratamento. Além disso, na Semana 33, significativamente mais pacientes que receberam ezetimiba e
+sinvastatina 40 mg (63%) atingiram a meta ideal da American Academy of Pediatrics (AAP) (< 110
+mg/dL) para colesterol LDL em comparação com os que receberam sinvastatina 40 mg apenas (27%). Na
+Semana 53, as alterações percentuais médias em relação ao período basal para ezetimiba coadministrada
+com sinvastatina (todas as doses) foram: -39% (colesterol total); -49% (colesterol LDL); -23% (Apo B);
++3% (colesterol HDL); -17% (TG); e -46% (colesterol não HDL).
+Tabela 7: Resposta a ezetimiba coadministrada com sinvastatina em pacientes adolescentes com
+hipercolesterolemia familiar heterozigótica (alteração % média
+a
+em relação ao período basal
+b
+sem tratamento)
+Tratamento (dose N Colesterol Colesterol Apo B Colesterol TGa Colesterol
+diária) Total LDL HDL não HDL
+Semana 6
+Dados agrupados
+ezetimiba + todas as 126 -38 -49 -39 +7 -17 -47
+doses de sinvastatina
+Todas as doses de 120 -26 -34 -27 +6 -12 -33
+sinvastatina
+ezetimiba +
+sinvastatina por dose
+ezetimiba + 43 -37 -47 -37 +4 -18 -44
+sinvastatina 10 mg
+ezetimiba + 40 -37 -50 -39 +10 -17 -47
+sinvastatina 20 mg
+ezetimiba + 43 -40 -52 -41 +6 -13 -49
+sinvastatina 40 mg
+sinvastatina por dose
+10 mg 39 -23 -30 -23 +3 -4 -28
+20 mg 39 -26 -34 -27 +10 -12 -33
+40 mg 42 -30 -39 -29 +7 -20 -37
+Semana 33
+ezetimiba +
+sinvastatina 40 mg 126 -42 -54 -43 +5 -20 -51
+sinvastatina 40 mg 120 -29 -38 -28 +4 -13 -36
+a
+Para triglicérides, alteração % mediana em relação ao período basal
+b
+Período basal – sem receber fármaco hipolipemiante
+A segurança e a eficácia de ezetimiba coadministrada com doses de sinvastatina acima de 40 mg/dia não
+foram estudadas em crianças. A ezetimiba não foi estudo em pacientes menores do que 6 anos de idade. A
+eficácia a longo prazo da terapia com ezetimiba na infância para reduzir a morbidade e a mortalidade na
+idade adulta não foi estudada.
+Hipercolesterolemia Familiar Homozigótica (HFHo)
+Foi conduzido um estudo para avaliar a eficácia de ezetimiba no tratamento da HFHo. Nesse estudo
+duplo-cego, randômico, de 12 semanas de duração, foram admitidos 50 pacientes com diagnóstico clínico
+e/ou genotípico de HFHo, submetidos ou não à aférese concomitante de LDL, que já recebiam
+atorvastatina ou sinvastatina (40 mg). Os pacientes foram distribuídos de modo randômico para um de
+três grupos de tratamento: atorvastatina ou sinvastatina (80 mg), ezetimiba 10 mg administrada com
+atorvastatina ou sinvastatina (40 mg) ou ezetimiba 10 mg administrada com atorvastatina ou sinvastatina
+(80 mg). Os resultados são apresentados na tabela 8. A coadministração de ezetimiba e atorvastatina (40
+mg ou 80 mg) ou sinvastatina (40 mg ou 80 mg) reduziu significativamente o LDL-C em comparação
+com a titulação da dose da sinvastatina ou da atorvastatina em monoterapia (de 40 mg para 80 mg).
+Tabela 8: Resposta média de pacientes com HFHo (alteração % média em relação ao período basal)
+a ezetimiba
+Tratamento N LDL-C
+(Dose Diária)
+atorvastatina (80 mg) ou 17 -7
+sinvastatina (80 mg)
+ezetimiba + atorvastatina 33 -21
+(40 mg,80 mg) ou sinvastatina
+(40 mg, 80 mg)
+Análise de subgrupo: 17 -27
+ezetimiba + atorvastatina (80 mg)
+ou sinvastatina (80 mg)
+Sitosterolemia Homozigótica (Fitosterolemia)
+Foi conduzido um estudo para avaliar a eficácia de ezetimiba no tratamento de sitosterolemia
+homozigótica. Neste estudo multicêntrico, duplo-cego, controlado com placebo, com 8 semanas de
+duração, 37 pacientes com sitosterolemia homozigótica foram distribuídos de modo randômico para
+ezetimiba 10 mg (n= 30) ou placebo (n= 7). A ezetimiba reduziu de forma significativa os dois principais
+fitosteróis – o sitosterol e o campesterol – em 21% e 24% em relação ao período basal, respectivamente.
+Em contrapartida, os pacientes que receberam placebo apresentaram aumento do nível de sitosterol e de
+campesterol de 4% e 3% em relação ao período basal, respectivamente. Quanto aos pacientes que
+receberam ezetimiba, a redução dos níveis de fitosteróis foi progressiva ao longo do estudo.
+A redução dos níveis de sitosterol e de campesterol foi consistente entre os pacientes que receberam
+ezetimiba concomitantemente com sequestrantes de ácidos biliares (n= 8) e os pacientes que não
+receberam esses agentes (n= 21).
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Mecanismo de Ação: a ezetimiba pertence a uma nova classe de compostos hipolipemiantes que inibem
+de forma seletiva a absorção intestinal de colesterol e de fitosteróis relacionados.
+A ezetimiba é ativa e potente por via oral e apresenta mecanismo de ação exclusivo, que difere de outras
+classes de compostos redutores do colesterol (por exemplo, estatinas, sequestrantes de ácidos biliares
+[resinas], derivados do ácido fíbrico e fitosteróis). A meta molecular da ezetimiba é o transportador de
+esterol, Niemann-Pick C1-Like 1 (NPC1L1), responsável pela captação intestinal de colesterol e de
+fitosteróis.
+A ezetimiba localiza-se na borda em escova dos enterócitos do intestino delgado, onde inibe a absorção
+do colesterol, promovendo redução do aporte de colesterol do intestino para o fígado. Isto leva à redução
+do estoque de colesterol hepático e ao aumento da depuração do colesterol sanguíneo. A ezetimiba não
+aumenta a excreção de ácido biliar (como os sequestrantes de ácidos biliares) e não inibe a síntese
+hepática de colesterol (como as estatinas).
+Em um estudo clínico com duração de 2 semanas que envolveu 18 pacientes hipercolesterolêmicos,
+ezetimiba inibiu a absorção intestinal de colesterol em 54% em comparação ao placebo; ao inibir a
+absorção do colesterol intestinal, a ezetimiba reduz o aporte de colesterol para o fígado. As estatinas
+reduzem a síntese hepática de colesterol. Juntos, esses mecanismos distintos promovem redução
+complementar do colesterol. Administrada com uma estatina, ezetimiba reduz o colesterol total (C total),
+o colesterol da lipoproteína de baixa densidade (LDL-C), a apolipoproteína B (apo B) e os triglicérides
+(TG) e aumenta o colesterol da lipoproteína de alta densidade (HDL-C) em pacientes com
+hipercolesterolemia mais do que cada tratamento isoladamente. A administração de ezetimiba com
+fenofibrato é eficaz na melhora dos níveis séricos de colesterol total, LDL-C, apo B, TG, HDL-C e não
+HDL-C em pacientes com hiperlipidemia mista.
+Estudos clínicos demonstram que níveis elevados de colesterol total, LDL-C e apo B – o principal
+constituinte proteico da LDL – promovem a aterosclerose humana. Além disso, níveis reduzidos de HDL-
+C estão associados ao desenvolvimento de aterosclerose. Estudos epidemiológicos estabeleceram que a
+morbidade e a mortalidade cardiovasculares variam diretamente conforme o nível de colesterol total e de
+LDL-C e inversamente conforme o nível de HDL-C. A exemplo da LDL, lipoproteínas ricas em TG e
+enriquecidas com colesterol, incluindo as lipoproteínas de densidade muito baixa (VLDL) e as
+lipoproteínas de densidade intermediária (IDL) e remanescentes também podem causar aterosclerose.
+Inúmeros estudos pré-clínicos foram realizados para determinar a seletividade da ezetimiba na inibição da
+absorção do colesterol. A ezetimiba inibiu a absorção do [14C]-colesterol sem exercer efeito sobre a
+absorção de TG, ácidos graxos, ácidos biliares, progesterona, etinilestradiol ou vitaminas lipossolúveis A
+e D.
+Farmacocinética
+Absorção: após administração oral, a ezetimiba é rapidamente absorvida e extensivamente conjugada a
+um glicuronídeo fenólico farmacologicamente ativo (glicuronídeo da ezetimiba), cuja concentração
+plasmática máxima (C ) média ocorre em 1 a 2 horas; já para a ezetimiba, essa concentração é atingida
+máx
+em 4 a 12 horas. A biodisponibilidade absoluta da ezetimiba não pode ser determinada, já que o composto
+é praticamente insolúvel em meios aquosos próprios para injeção.
+A administração concomitante de alimentos (com altos teores de gorduras ou sem gordura) não exerceu
+efeito sobre a biodisponibilidade oral da ezetimiba presente nos comprimidos de 10 mg de ezetimiba.
+A ezetimiba pode ser administrada com ou sem alimentos.
+Distribuição: a ezetimiba e o glicuronídeo da ezetimiba estão 99,7% e 88% a 92% ligados às proteínas
+plasmáticas de seres humanos, respectivamente.
+Metabolismo: a ezetimiba é metabolizada principalmente no intestino delgado e no fígado, por meio da
+conjugação do glicuronídeo (uma reação de fase II) e da excreção biliar subsequente. Observou-se
+metabolismo oxidativo mínimo (uma reação de fase I) em todas as espécies avaliadas. A ezetimiba e o
+glicuronídeo da ezetimiba são os principais derivados do fármaco detectados no plasma, constituindo
+aproximadamente 10% a 20% e 80% a 90% do total, respectivamente. Tanto a ezetimiba quanto o
+glicuronídeo da ezetimiba são eliminados lentamente do plasma, com evidência de recirculação êntero-
+hepática significativa. A meia-vida da ezetimiba e do glicuronídeo da ezetimiba é de aproximadamente 22
+horas.
+Eliminação: após administração oral de [14C]-ezetimiba 20 mg a seres humanos, a ezetimiba total
+respondeu por cerca de 93% da radioatividade plasmática total. Aproximadamente 78% e 11% da carga
+radioativa administrada foi recuperada nas fezes e na urina, respectivamente, ao longo de um período de
+coleta de 10 dias. Após 48 horas, os níveis plasmáticos de radioatividade eram indetectáveis.
+4. CONTRAINDICAÇÕES
+Hipersensibilidade a qualquer componente desta medicação.
+Quando EMIBAZET® for administrado com uma estatina ou com fenofibrato, deve-se consultar a bula
+desse medicamento em particular.
+Este medicamento não deve ser usado por pessoas com síndrome de má-absorção de glicose
+galactose. Atenção: Contém lactose.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Enzimas Hepáticas: em estudos controlados para avaliar a coadministração de ezetimiba e uma estatina,
+foram observadas elevações consecutivas das transaminases (≥ 3 vezes o limite superior da normalidade
+[LSN]). Quando ezetimiba for coadministrada com uma estatina, deverão ser realizados testes de função
+hepática no início do tratamento e de acordo com as recomendações para a estatina (vide “REAÇÕES
+ADVERSAS”).
+Musculoesquelético: em estudos clínicos, não foi verificado excesso de miopatia ou rabdomiólise
+associados a ezetimiba em comparação com o braço controle (placebo ou estatina isoladamente).
+Entretanto, miopatia e rabdomiólise são reações adversas conhecidas das estatinas e de outros fármacos
+redutores de lípides. Em estudos clínicos, a incidência de CPK > 10 vezes o LSN foi de 0,2% para
+ezetimiba versus 0,1% para o placebo, e de 0,1% para ezetimiba coadministrada com uma estatina versus
+0,4% para as estatinas isoladamente.
+Na experiência pós-comercialização com EMIBAZET®, foram relatados casos de miopatia e
+rabdomiólise, independentemente da causalidade. A maioria dos pacientes que desenvolveram
+rabdomiólise recebiam uma estatina antes de iniciar o tratamento com EMIBAZET®.
+No entanto, a rabdomiólise foi relatada muito raramente com a monoterapia com EMIBAZET® ou com a
+adição de EMIBAZET® a agentes conhecidamente associados a risco aumentado de rabdomiólise. Todos
+os pacientes que iniciam tratamento com EMIBAZET® devem ser alertados sobre o risco de miopatia e
+instruídos a relatar imediatamente qualquer dor, sensibilidade ou fraqueza muscular inexplicada.
+EMIBAZET® e qualquer estatina que o paciente esteja tomando concomitantemente devem ser
+imediatamente descontinuados se houver suspeita de ou for comprovada a miopatia. A presença desses
+sintomas e um nível de creatina fosfoquinase (CPK) > 10 vezes o LSN indica miopatia.
+Insuficiência Hepática: uma vez que os efeitos da maior exposição ao EMIBAZET® em pacientes com
+insuficiência hepática moderada ou grave são desconhecidos, EMIBAZET® não é recomendado para
+esses pacientes.
+Após uma dose única de 10 mg de EMIBAZET®, a média da área sob a curva (AUC) para
+EMIBAZET® total aumentou aproximadamente 1,7 vez em pacientes com insuficiência hepática leve
+(escore Child-Pugh de 5 ou 6), em comparação com indivíduos saudáveis. Em um estudo de doses
+múltiplas de 14 dias de duração (10 mg/dia) em pacientes com insuficiência hepática moderada (escore de
+Child-Pugh de 7 a 9), a AUC média para ezetimiba total aumentou aproximadamente 4 vezes no 1º e no
+14º dia em comparação com indivíduos saudáveis. Não é necessário nenhum ajuste de dose para pacientes
+com insuficiência hepática leve. Em razão dos efeitos desconhecidos da exposição aumentada à ezetimiba
+em pacientes com insuficiência hepática moderada ou grave (escore de Child-Pugh > 9), a ezetimiba não
+é recomendada para esses pacientes.
+fibratos: a coadministração de EMIBAZET® com fibratos - exceto o fenofibrato - não foi estudada.
+Portanto, a coadministração de EMIBAZET® e fibratos (exceto o fenofibrato) não é recomendada (vide
+“INTERAÇÕES MEDICAMENTOSAS”).
+fenofibrato: se houver suspeita de colelitíase em um paciente que recebe EMIBAZET® e fenofibrato,
+são indicados estudos da vesícula biliar e um tratamento hipolipemiante alternativo deve ser considerado
+(vide “REAÇÕES ADVERSAS” e a bula do produto de fenofibrato).
+ciclosporina: deve-se ter cautela ao prescrever EMIBAZET® para pacientes que utilizam ciclosporina; a
+concentração de ciclosporina deve ser monitorada nesses pacientes (vide “INTERAÇÕES
+MEDICAMENTOSAS”).
+Anticoagulantes: se EMIBAZET® for acrescentado ao tratamento com varfarina, outro anticoagulante
+cumarínico ou fluindiona, a Razão Normalizada Internacional (International Normalized Ratio - INR)
+deve ser adequadamente monitorada (vide “INTERAÇÕES MEDICAMENTOSAS”).
+Gravidez e Lactação: Categoria de Risco de Gravidez C.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do
+cirurgião-dentista.
+Não há dados clínicos disponíveis sobre a exposição durante a gravidez. Estudos em animais sobre a
+administração isolada de ezetimiba não indicam efeitos nocivos, diretos ou indiretos, no que diz respeito à
+gravidez, ao desenvolvimento embrionário/fetal, ao parto ou ao desenvolvimento pós-natal, entretanto
+deve-se ter cautela ao prescrever o medicamento a gestantes.
+Quando se administrou ezetimiba com lovastatina, sinvastatina, pravastatina ou atorvastatina, não foram
+observados efeitos teratogênicos em estudos de desenvolvimento embriofetal conduzidos em ratas
+prenhas. Em coelhas prenhas, observou-se incidência baixa de malformações esqueléticas.
+Quando EMIBAZET® for administrado com uma estatina, a bula dessa estatina em particular
+deverá ser consultada.
+Estudos conduzidos em ratas demonstraram que a ezetimiba é excretada no leite. Não se sabe se a
+ezetimiba é excretada no leite de seres humanos, portanto EMIBAZET® não deverá ser administrado a
+nutrizes a não ser que o potencial benefício justifique o provável risco para o lactente.
+Uso pediátrico: a segurança e a eficácia de ezetimiba em pacientes com 6 a 10 anos de idade com
+hipercolesterolemia familiar heterozigótica ou não familiar foram avaliadas em um estudo clínico
+controlado de 12 semanas. Crianças tratadas com ezetimiba apresentaram um perfil de eventos adversos
+similar ao de pacientes adultos tratados com ezetimiba. Neste estudo, não houve, em geral, efeito
+detectável no crescimento ou maturação sexual de meninos ou meninas. Entretanto, o efeito da ezetimiba
+no crescimento ou maturação sexual, em um tratamento maior que 12 semanas não foi estudado (vide
+“POSOLOGIA E MODO DE USAR”, “REAÇÕES ADVERSAS” e “RESULTADOS DE EFICÁCIA -
+Estudos clínicos em pacientes pediátricos (6 a 17 anos de idade)”).
+A segurança e a eficácia de ezetimiba coadministrada com sinvastatina em pacientes com 10 a 17 anos de
+idade com hipercolesterolemia familiar heterozigótica foram avaliadas em um estudo clínico controlado
+em adolescentes do sexo masculino e do sexo feminino, que estavam há pelo menos um ano na pós-
+menarca. Pacientes adolescentes tratados com ezetimiba em até 40 mg/dia de sinvastatina apresentaram
+um perfil de eventos adversos similar ao de pacientes adultos tratados com ezetimiba e sinvastatina. Neste
+estudo controlado, não houve nenhum efeito detectável sobre o crescimento ou maturação sexual em
+adolescentes de ambos os sexos, ou qualquer efeito sobre a duração do ciclo menstrual em meninas (vide
+“POSOLOGIA E MODO DE USAR”, “REAÇÕES ADVERSAS” e “RESULTADOS DE EFICÁCIA -
+Estudos clínicos em pacientes pediátricos (6 a 17 anos de idade)”).
+Crianças: a absorção e o metabolismo de EMIBAZET® são semelhantes entre crianças, adolescentes (10
+a 18 anos) e adultos. Com base na ezetimiba total, não existem diferenças farmacocinéticas entre
+adolescentes e adultos. Não estão disponíveis dados farmacocinéticos na população pediátrica < 6 anos de
+idade. A experiência clínica em pacientes pediátricos e adolescentes (idade entre 9 e 17 anos) limitou-se a
+pacientes com HFHo ou sitosterolemia.
+Idosos: a concentração plasmática da ezetimiba total é, aproximadamente, 2 vezes mais elevada nos
+indivíduos idosos (≥ 65 anos de idade) em relação aos jovens (18 a 45 anos de idade). A redução de LDL-
+C e o perfil de segurança são comparáveis em indivíduos idosos e jovens que recebem EMIBAZET®.
+Não é necessário, portanto, ajuste posológico para pacientes idosos.
+Insuficiência Renal: após uma dose única de 10 mg de ezetimiba em pacientes com doença renal grave
+(n= 8; CrCl médio ≤ 30 mL/min/1,73 m2), a AUC média para ezetimiba total aumentou aproximadamente
+1,5 vez, em comparação com indivíduos saudáveis (n= 9). Esse resultado não é considerado clinicamente
+significativo. Não é necessário nenhum ajuste de dose para pacientes com insuficiência renal.
+Um outro paciente desse estudo (pós-transplante renal e sob administração de múltiplos medicamentos,
+incluindo ciclosporina) teve exposição 12 vezes maior à ezetimiba total.
+Sexo: a concentração plasmática de EMIBAZET® é pouco maior (< 20%) em mulheres do que em
+homens. A redução do LDL-C e do perfil de segurança é comparável entre homens e mulheres tratados
+com EMIBAZET®. Portanto, não é necessário nenhum ajuste de dose com base no sexo.
+Raça: com base em uma metanálise de estudos farmacocinéticos, não houve diferenças farmacocinéticas
+entre negros e caucasianos.
+Dirigir ou operar máquinas: não foram realizados estudos sobre os efeitos na capacidade de dirigir
+veículos e operar máquinas. Contudo, certas reações adversas que foram relatadas com EMIBAZET®
+podem afetar a capacidade de alguns pacientes para dirigir ou operar máquinas. As respostas individuais
+ao EMIBAZET® podem variar (vide “REAÇÕES ADVERSAS”).
+6. INTERAÇÕES MEDICAMENTOSAS
+Em estudos pré-clínicos, demonstrou-se que a ezetimiba não induz enzimas de metabolização do
+citocromo P-450. Não foram observadas interações farmacocinéticas clinicamente relevantes entre a
+ezetimiba e os medicamentos reconhecidamente metabolizados pelos citocromos P-450 1A2, 2D6, 2C8,
+2C9 e 3A4 ou N-acetiltransferase.
+A ezetimiba não exerceu efeito sobre a farmacocinética dos seguintes compostos: dapsona,
+dextrometorfano, digoxina, anticoncepcionais orais (etinilestradiol e levonorgestrel), glipizida,
+tolbutamida ou midazolam durante a coadministração. A cimetidina, coadministrada com a ezetimiba, não
+exerceu efeito sobre a biodisponibilidade da ezetimiba.
+Antiácidos: a administração concomitante de antiácidos reduziu a taxa de absorção da ezetimiba, embora
+não tenha exercido efeito sobre a biodisponibilidade. Essa redução da taxa de absorção não é considerada
+clinicamente relevante.
+colestiramina: a administração concomitante de colestiramina reduziu a AUC média da ezetimiba total
+(ezetimiba + glicuronídeo de ezetimiba) em aproximadamente 55%. A redução adicional do LDL-C pelo
+acréscimo da ezetimiba à colestiramina pode ser minimizada por essa interação.
+ciclosporina: em um estudo que envolveu oito pacientes submetidos a transplante renal, com clearance
+de creatinina > 50 mL/min e que estavam recebendo dose estável de ciclosporina, uma única dose de 10
+mg de ezetimiba resultou em aumento de 3,4 vezes (variação de 2,3 a 7,9 vezes) da AUC média da
+ezetimiba total em comparação com uma população de controle sadia de outro estudo (n= 17). Em um
+estudo diferente, um paciente submetido a transplante renal com insuficiência renal grave (clearance de
+creatinina de 13,2 mL/min/1,73 m2) que estava recebendo diversos medicamentos, inclusive ciclosporina,
+apresentou exposição 12 vezes maior à ezetimiba total em comparação com os controles de comparação.
+Em um estudo cruzado de dois períodos, a administração diária de 20 mg de ezetimiba durante 8 dias com
+uma única dose de 100 mg de ciclosporina no 7º dia a 20 indivíduos saudáveis resultou em aumento de
+15%, em média, na AUC da ciclosporina (variação de 10% de redução a 51% de aumento) em
+comparação a uma dose única de 100 mg de ciclosporina isoladamente (vide “ADVERTÊNCIAS E
+PRECAUÇÕES”).
+fibratos: a segurança e a eficácia da ezetimiba coadministrada com fenofibrato foram avaliadas em um
+estudo clínico (vide “REAÇOES ADVERSAS” e “RESULTADOS DE EFICÁCIA - Coadministração
+com fenofibratos”); a coadministração da ezetimiba com outros fibratos não foi estudada. Os fibratos
+podem aumentar a excreção biliar de colesterol, levando à colelitíase. Em um estudo pré-clínico
+conduzido em cães, a ezetimiba aumentou as concentrações de colesterol na vesícula biliar. Embora a
+importância desse achado pré-clínico seja desconhecida no caso do uso em humanos, a coadministração
+de EMIBAZET® com fibratos (exceto fenofibrato) não é recomendada até que o uso em pacientes seja
+estudado.
+fenofibratos: em um estudo farmacocinético, a administração concomitante do fenofibrato aumentou a
+concentração total da ezetimiba em aproximadamente 1,5 vezes. Esse aumento não é considerado
+clinicamente significativo.
+genfibrozila: em um estudo farmacocinético, a administração concomitante de genfibrozila aumentou a
+concentração total de ezetimiba em aproximadamente 1,7 vezes. Esse aumento não é considerado
+clinicamente significativo. Não há dados clínicos disponíveis.
+estatinas: não foram observadas interações farmacocinéticas clinicamente importantes quando a
+ezetimiba foi coadministrada com atorvastatina, sinvastatina, pravastatina, lovastatina, fluvastatina ou
+rosuvastatina.
+Anticoagulantes: a administração concomitante de ezetimiba (10 mg em dose única diária) não
+apresentou efeito significativo sobre a biodisponibilidade da varfarina e sobre o tempo de protrombina em
+um estudo que incluiu doze adultos saudáveis do sexo masculino. Houve relatos pós-comercialização de
+Razão Normalizada Internacional (INR) aumentada em pacientes para os quais a ezetimiba foi adicionada
+à varfarina ou à fluindiona. A maioria desses pacientes também estava recebendo outros medicamentos
+(vide “ADVERTÊNCIAS E PRECAUÇÕES”).
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar em temperatura ambiente (temperatura entre 15 e 30ºC). Proteger da luz e umidade.
+O prazo de validade do medicamento a partir da data de fabricação é de 24 meses.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características físicas e organolépticas:
+Comprimido na cor branca, circular, biconvexo e liso.
+Antes de usar, observe o aspecto do medicamento.
+TODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS.
+8. POSOLOGIA E MODO DE USAR
+O paciente deve estar sob dieta redutora de lípides adequada e deve continuá-la durante o tratamento com
+EMIBAZET®.
+A dose recomendada de EMIBAZET® é de 10 mg uma vez ao dia, isoladamente ou em associação com
+uma estatina ou com o fenofibrato.
+EMIBAZET® pode ser administrado em qualquer horário do dia, independentemente do horário de
+ingestão de alimentos.
+Este medicamento não deve ser partido ou mastigado.
+Uso em Idosos: não é necessário ajuste posológico para pacientes idosos (vide “ADVERTÊNCIAS E
+PRECAUÇÕES – Idosos”).
+Uso Pediátrico: crianças e adolescentes acima de 6 anos não é necessário ajuste posológico (vide
+“ADVERTÊNCIAS E PRECAUÇÕES - Uso pediátrico”).
+Uso em Crianças: crianças com menos de 6 anos: O tratamento com EMIBAZET® não é
+recomendado para crianças com menos de 6 anos de idade.
+Uso na Insuficiência Hepática: não é necessário ajuste posológico para pacientes com insuficiência
+hepática leve (escore de Child-Pugh de 5 a 6). O tratamento com EMIBAZET® não é recomendado para
+pacientes com insuficiência hepática moderada (escore de Child-Pugh de 7 a 9) ou grave (escore de
+Child-Pugh > 9) (vide “ADVERTÊNCIAS E PRECAUÇÕES - Insuficiência Hepática”).
+Uso na Insuficiência Renal: não é necessário ajuste posológico para pacientes com disfunção renal (vide
+“ADVERTÊNCIAS E PRECAUÇÕES - Insuficiência Renal”).
+Coadministração com Sequestrantes de Ácidos Biliares: EMIBAZET® deve ser administrado no
+mínimo duas horas antes ou no mínimo quatro horas depois da administração de sequestrantes de ácidos
+biliares.
+9. REAÇÕES ADVERSAS
+Estudos clínicos com até 112 semanas de duração, nos quais ezetimiba 10 mg/dia foi administrada
+isoladamente (n = 2.396), com uma estatina (n = 11.308) ou com fenofibrato (n = 185), demonstraram
+que ezetimiba foi bem tolerada de modo geral, as reações adversas foram usualmente leves e temporárias,
+a incidência global das reações adversas relatadas com o uso de ezetimiba foi semelhante àquela relatada
+com o placebo e a taxa de descontinuação por reações adversas foi comparável entre ezetimiba e o
+placebo.
+A seguir, as reações adversas comuns (≥ 1/100, < 1/10) ou incomuns (≥ 1/1.000, < 1/100) relacionadas à
+medicação, relatadas por pacientes que utilizavam ezetimiba isoladamente (n = 2.396) e com incidência
+maior que o placebo (n = 1.159), ou em pacientes que utilizavam ezetimiba com uma estatina (n =
+11.308) e com incidência maior que a estatina isolada (n = 9.361).
+A ezetimiba administrada isoladamente:
+Investigações
+Incomuns: aumento de ALT e/ou AST; aumento de CPK no sangue; aumento de gama-
+glutamiltransferase; teste anormal de função hepática.
+Distúrbios Respiratórios, Torácicos e do Mediastino
+Incomuns: tosse.
+Distúrbios Gastrintestinais
+Comuns: dor abdominal; diarreia; flatulência.
+Incomuns: dispepsia; doença do refluxo gastroesofágico; náusea.
+Distúrbios Musculoesqueléticos e do Tecido Conjuntivo
+Incomuns: artralgia; espasmos musculares; dor no pescoço.
+Distúrbios Metabólicos e Nutricionais
+Incomuns: diminuição do apetite.
+Distúrbios Vasculares
+Incomuns: fogacho; hipertensão.
+Distúrbios Gerais e Condições no Local de Aplicação
+Comuns: fadiga.
+Incomuns: dor torácica; dor.
+A ezetimiba coadministrada com uma estatina:
+Investigações
+Comuns: aumento de ALT e/ou AST.
+Distúrbios do Sistema Nervoso
+Comuns: cefaleia.
+Incomuns: parestesia.
+Distúrbios Gastrintestinais
+Incomuns: boca seca; gastrite.
+Distúrbios da Pele e Tecido Subcutâneo
+Incomuns: prurido; erupção cutânea; urticária.
+Distúrbios Musculoesqueléticos e do Tecido Conjuntivo
+Comuns: mialgia.
+Incomuns: lombalgia; fraqueza muscular; dor nas extremidades.
+Distúrbios Gerais e Condições no Local de Aplicação
+Incomuns: astenia; edema periférico.
+A ezetimiba coadministrada com fenofibrato:
+Distúrbios Gastrintestinais
+Comuns: dor abdominal.
+Em um estudo clínico multicêntrico, duplo-cego, controlado com placebo e que incluiu pacientes com
+hiperlipidemia mista, 625 pacientes foram tratados por até 12 semanas e 576 por até 1 ano. Esse estudo
+não foi delineado para comparar grupos de tratamento quanto a eventos infrequentes. As taxas de
+incidência (IC 95%) para elevações clinicamente importantes (> 3 X LSN, consecutivas) das
+transaminases séricas foram de 4,5% (1,9, 8,8) e 2,7% (1,2, 5,4) para monoterapia com fenofibrato e
+ezetimiba coadministrada com fenofibrato, respectivamente, ajustado para exposição ao tratamento. As
+taxas de incidência correspondentes para colecistectomia foram de 0,6% (0,0, 3,1) e 1,7% (0,6, 4,0) para
+monoterapia com fenofibrato e ezetimiba coadministrada com fenofibrato, respectivamente (vide
+“ADVERTÊNCIAS E PRECAUÇÕES”). Não ocorreram elevações de CPK > 10 vezes o LSN em
+nenhum dos grupos de tratamento desse estudo.
+Pacientes pediátricos (6 a 17 anos de idade)
+Em um estudo envolvendo pacientes pediátricos (6 a 10 anos de idade) com hipercolesterolemia familiar
+heterozigótica ou não familiar (n = 138), o perfil de segurança e tolerabilidade do grupo tratado com
+ezetimiba foi similar ao de pacientes adultos tratados com ezetimiba (vide “ADVERTÊNCIAS E
+PRECAUÇÕES” e “RESULTADOS DE EFICÁCIA - Estudos clínicos em pacientes pediátricos (6 a 17
+anos de idade)”).
+Em um estudo envolvendo pacientes adolescentes (10 a 17 anos de idade) com hipercolesterolemia
+familiar heterozigótica (n = 248), o perfil de segurança e tolerabilidade do grupo de ezetimiba
+coadministrada com sinvastatina foi similar ao de pacientes adultos coadministrados com ezetimiba e
+sinvastatina (vide “ADVERTÊNCIAS E PRECAUÇÕES” e “RESULTADOS DE EFICÁCIA - Estudos
+clínicos em pacientes pediátricos (6 a 17 anos de idade)”).
+Valores Laboratoriais
+Em estudos clínicos controlados nos quais utilizou-se monoterapia, a incidência de aumento clinicamente
+importante das transaminases séricas (ALT e/ou AST ≥ 3x LSN, consecutivas) foi semelhante entre
+ezetimiba (0,5%) e placebo (0,3%). Em estudos nos quais utilizou-se coadministração, a incidência foi de
+1,3% para pacientes que receberam ezetimiba em combinação com uma estatina e de 0,4% para pacientes
+que receberam estatina isoladamente. Esses aumentos em geral foram assintomáticos, não associados à
+colestase e retornaram aos valores do período basal após a descontinuação do tratamento ou mediante
+tratamento contínuo (vide “ADVERTÊNCIAS E PRECAUÇÕES”).
+Aumentos clinicamente importantes de CPK (≥ 10x LSN) em pacientes que receberam ezetimiba
+isoladamente ou coadministrada com uma estatina foram semelhantes aos observados com o placebo ou
+com uma estatina administrada isoladamente, respectivamente.
+Experiência Pós-comercialização
+Após a comercialização foram relatadas as seguintes reações adversas, independentemente da
+determinação de causalidade:
+Distúrbios do Sangue e Sistema Linfático: trombocitopenia.
+Distúrbios do Sistema Nervoso: tontura; parestesia.
+Distúrbios Gastrintestinais: pancreatite; constipação.
+Distúrbios da Pele e Tecido Subcutâneo: reações cutâneas graves adversas à droga (RCGAD),
+incluindo síndrome de Stevens-Johnson (SSJ), necrólise epidérmica tóxica (NET) e reação a drogas com
+eosinofilia e sintomas sistêmicos (DRESS) e eritema multiforme.
+Distúrbios Musculoesqueléticos e do Tecido Conjuntivo: mialgia; miopatia/rabdomiólise.
+Distúrbios Gerais e Condições no Local de Aplicação: astenia.
+Distúrbios do Sistema Imunológico: reações de hipersensibilidade, incluindo anafilaxia, angioedema,
+erupções cutâneas e urticária.
+Distúrbios Hepatobiliares: hepatite; colelitíase; colecistite; lesão hepática induzida por drogas.
+Distúrbios Psiquiátricos: depressão.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Em estudos clínicos, a administração de 50 mg/dia de ezetimiba a 15 indivíduos sadios durante até 14
+dias, 40 mg/dia a 18 pacientes com hipercolesterolemia primária por até 56 dias e 40 mg/dia a 27
+pacientes com sitosterolemia homozigótica durante 26 semanas foi, em geral, bem tolerada. Foram
+relatados poucos casos de superdosagem com ezetimiba, dos quais a maioria não foi associada a reações
+adversas. As reações adversas relatadas não foram graves. No caso de superdosagem deverão ser
+instituídas medidas sintomáticas e de suporte.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III - DIZERES LEGAIS
+MS-1.1819.0392
+Farm. Resp.: Dr. Carlos Alberto Fonseca de Moraes
+CRF-SP nº 14.546
+Registrado por: MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS
+LTDA
+Rod. Jornalista Francisco Aguirre Proença, KM 08
+Bairro Chácara Assay
+Hortolândia/SP - CEP: 13186-901
+CNPJ: 92.265.552/0009-05
+INDÚSTRIA BRASILEIRA
+Fabricado e embalado por: EMS S/A
+Hortolândia/SP
+Ou
+Fabricado por: NOVAMED FABRICAÇÃO DE PRODUTOS FARMACÊUTICOS LTDA
+Manaus/AM
+VENDA SOB PRESCRIÇÃO MÉDICA
+Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em 21/07/2023.
+bula-prof-065448-MUL-v1
+Histórico de alteração para a bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do Nº. Assunto Data do Nº. Assunto Data da Itens de bula Versões Apresentações relacionadas
+expediente expediente expediente expediente aprovação (VP/VPS)
+10457 - Embalagem contendo 10, 20,
+SIMILAR - Atualização de texto de bula 30, 40, 60, 100 (Emb. Frac.)
+Inclusão Inicial N/A N/A N/A N/A conforme bula padrão publicado VP ou 500 (Emb. Hosp.)
+23/01/2017 0120844/17-6
+de Texto de no bulário. comprimidos.
+Bula - RDC
+60/12
+I - IDENTIFICAÇÃO DO
+MEDICAMENTO
+1. INDICAÇÕES
+10450 - 2. RESULTADOS DE VPS Embalagem contendo 10, 20,
+SIMILAR - EFICÁCIA 30, 40, 60, 100 (Emb. Frac.)
+Notificação de 4. CONTRAINDICAÇÕES ou 500 (Emb. Hosp.)
+16/01/2020 0151060/20-6
+Alteração de 5. ADVERTÊNCIAS E comprimidos.
+N/A N/A N/A N/A
+Texto de Bula PRECAUÇÕES
+- RDC 60/12 8. POSOLOGIA E MODO DE
+USAR
+9. REAÇÕES ADVERSAS
+III - DIZERES LEGAIS
+10450 - Comprimido de 10 mg.
+SIMILAR - Embalagens contendo 10, 20,
+Notificação de 30, 40, 60, 100*e 500**
+10/05/2021 1797716/21-9 N/A N/A N/A N/A 9. REAÇÕES ADVERSAS VPS
+Alteração de unidades.
+Texto de Bula *Embalagem fracionável
+- RDC 60/12 **Embalagem hospitalar
+10450 - Comprimido de 10 mg.
+10507 -
+SIMILAR - Embalagens contendo 10, 20,
+SIMILAR -
+Notificação de 30, 40, 60, 100*e 500**
+28/09/2021 3832164/21-9 22/09/2021 3747958/21-0 Modificação Pós- 22/09/2021 III – DIZERES LEGAIS VP/VPS
+Alteração de unidades.
+Registro -
+Texto de Bula *Embalagem fracionável
+CLONE
+- RDC 60/12 **Embalagem hospitalar
+10756 -
+10450 - SIMILAR - Comprimido de 10 mg.
+SIMILAR - Embalagem contendo 10, 20,
+Notificação de
+Notificação de 30, 40, 60, 100* ou 500**
+22/09/2022 4729515/22-6 20/09/2022 4716867/22-6 alteração de texto 20/09/2022 DIZERES LEGAIS VP/VPS
+Alteração de unidades.
+de bula para
+Texto de Bula *Embalagem fracionável
+- RDC 60/12 adequação a **Embalagem hospitalar
+intercambialidade
+1995 - SIMILAR
+10450 - - Solicitação de Comprimido de 10 mg.
+SIMILAR - Embalagem contendo 10, 20,
+Transferência de
+Notificação de 30, 40, 60, 100* ou 500**
+06/01/2023 0014253/23-2 08/02/2022 0479757/22-4 Titularidade de 03/10/22 DIZERES LEGAIS VP/VPS
+Alteração de unidades.
+Registro
+Texto de Bula *Embalagem fracionável
+(Incorporação de
+- RDC 60/12 **Embalagem hospitalar
+Empresa)
+10450 - 8. QUAIS OS MALES QUE VP Comprimido de 10 mg.
+SIMILAR - ESTE MEDICAMENTO PODE Embalagem contendo 10, 20,
+Notificação de ME CAUSAR? 30, 40, 60, 100* ou 500**
+- - N/A N/A N/A N/A
+Alteração de unidades.
+Texto de Bula 9. REAÇÕES ADVERSAS VPS *Embalagem fracionável
+- RDC 60/12 **Embalagem hospitalar

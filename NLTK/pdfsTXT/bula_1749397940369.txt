@@ -1,0 +1,2120 @@
+ELOVIE®
+(bevacizumabe)
+Libbs Farmacêutica Ltda.
+Solução para diluição para infusão
+100 mg / 4 mL
+400 mg / 16 mL
+ELOVIE®
+bevacizumabe
+Antineoplásico
+APRESENTAÇÕES
+Solução para Diluição para Infusão. Embalagem com 1 frasco-ampola de dose única de 100 mg (4 mL) ou 400 mg (16 mL).
+USO INTRAVENOSO
+USO ADULTO
+COMPOSIÇÃO
+Cada ml da solução para diluição para infusão de Elovie® 100 mg/ 4 mL contém:
+bevacizumabe (anticorpo monoclonal anti-VEGF humanizado) .............................25 mg
+Excipientes: trealose di-hidratada, fosfato de sódio monobásico monoidratado, fosfato de sódio dibásico, polissorbato 20 e água
+para injetáveis.
+Cada ml da solução para diluição para infusão de Elovie® 400 mg/ 16 mL contém:
+bevacizumabe (anticorpo monoclonal anti-VEGF humanizado) ............................... 25 mg.
+Excipientes: trealose di-hidratada, fosfato de sódio monobásico monoidratado, fosfato de sódio dibásico, polissorbato 20 e água
+para injetáveis.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Câncer colorretal metastático (CCRm)
+Elovie®, em combinação com quimioterapia à base de fluoropirimidina, é indicado para o tratamento de pacientes com carcinoma
+colorretal metastático.
+Câncer de pulmão de não pequenas células localmente avançado, metastático ou recorrente
+Elovie®, em combinação com quimioterapia à base de platina, é indicado para o tratamento de primeira linha de pacientes com
+câncer de pulmão de não pequenas células, não escamoso, irressecável, localmente avançado, metastático ou recorrente.
+Elovie®, em combinação com erlotinibe, é indicado para o tratamento de primeira linha de pacientes com câncer de pulmão de
+não pequenas células, não escamoso, irressecável, avançado, metastático ou recorrente com mutações ativadoras de EGFR
+(receptor do fator de crescimento epidérmico).
+Câncer de mama metastático ou localmente recorrente (CMM)
+Elovie®, em combinação com paclitaxel, é indicado para o tratamento em primeira linha de pacientes com câncer de mama
+localmente recorrente ou metastático que não tenham recebido quimioterapia prévia para doença metastática ou localmente
+recorrente.
+Elovie®, em combinação com capecitabina, é indicado para o tratamento em primeira linha de pacientes com câncer de mama
+localmente recorrente ou metastático para os quais o tratamento com outras opções de quimioterapia, incluindo taxanos e
+antraciclinas, não seja considerado apropriado. Pacientes que tenham recebido regimes de tratamento adjuvante contendo
+taxanos e antraciclinas nos últimos 12 meses não são elegíveis ao tratamento com Elovie® em combinação com capecitabina.
+Câncer de células renais metastático e/ou avançado (mRCC)
+Elovie®, em combinação com alfainterferona 2a, é indicado para o tratamento de primeira linha de pacientes com câncer de
+células renais avançado e/ou metastático.
+Câncer epitelial de ovário, tuba uterina e peritoneal primário
+Elovie®, em combinação com carboplatina e paclitaxel, é indicado para o tratamento de primeira linha de pacientes com câncer
+epitelial de ovário, tuba uterina e peritoneal primário avançados (International Federation of Gynecology and Obstetrics – FIGO
+– III B, III C e IV).
+Elovie®, em combinação com carboplatina e gencitabina, é indicado para o tratamento de pacientes adultos com câncer epitelial
+de ovário, tuba uterina e peritoneal primário com primeira recorrência e sensível à platina, sem terapia prévia com bevacizumabe
+ou outros inibidores de VEGF ou agentes direcionados a receptores de VEGF.
+ELOV_V03-24 1
+Elovie®, em combinação com carboplatina e paclitaxel, é indicado para o tratamento de pacientes adultos com câncer epitelial
+primário de ovário, tuba uterina e peritônio, recorrente e sensível à platina.
+Elovie®, em combinação com paclitaxel, topotecana ou doxorrubicina lipossomal peguilada, é indicado para o tratamento de
+pacientes com câncer epitelial de ovário, tuba uterina e peritoneal primário, recorrentes e resistentes à platina, que não tenham
+recebido mais do que dois regimes prévios de quimioterapia e que não receberam terapia prévia com bevacizumabe ou outros
+inibidores de VEGF ou agentes direcionados a receptores de VEGF.
+Câncer de colo do útero
+Elovie®, em combinação com paclitaxel e cisplatina ou, alternativamente, paclitaxel e topotecana em pacientes que não podem
+receber terapia com platina, é indicado para o tratamento de câncer de colo do útero persistente, recorrente ou metastático.
+2. RESULTADOS DE EFICÁCIA
+O medicamento Elovie® (bevacizumabe) é um medicamento biológico desenvolvido pela via de comparabilidade (biossimilar).
+O programa de desenvolvimento do produto foi projetado para demonstrar a comparabilidade entre Elovie® e o medicamento
+comparador (Avastin®).
+Câncer colorretal metastático (CCRm)
+A segurança e a eficácia da dose recomendada de Avastin® (5 mg/kg de peso a cada duas semanas), em carcinoma metastático
+do cólon ou reto, foram observadas em três estudos clínicos randomizados, com controle ativo, avaliando a combinação de
+Avastin® com quimioterapia à base de fluoropirimidina em primeira linha de câncer colorretal metastático. Avastin® foi
+combinado com dois esquemas quimioterápicos:
+• Estudo AVF2107g: um esquema semanal de irinotecano / 5-fluorouracil e leucovorin em bolus (esquema IFL), durante o
+total de quatro semanas, dentro de cada ciclo de seis semanas.1
+• Estudo AVF0780g: em combinação com 5-fluorouracil / leucovorin (5-FU / LV) em bolus, durante o total de seis
+semanas, dentro de cada ciclo de oito semanas (esquema Roswell Park).2
+• Estudo AVF2192g: em combinação com 5-fluorouracil / leucovorin (5-FU / LV) em bolus, durante o total de seis
+semanas, dentro de cada ciclo de oito semanas (esquema Roswell Park), em pacientes que não eram candidatos ideais para o
+tratamento de primeira linha com irinotecano.3
+Três estudos clínicos adicionais com Avastin® foram conduzidos para o tratamento de câncer colorretal metastático: primeira
+linha (NO16966), segunda linha em pacientes que não tenham sido previamente tratados com Avastin® (E3200) e segunda linha
+em pacientes previamente tratados com Avastin® após a progressão da doença de primeira linha (ML18147). Nesses estudos,
+Avastin® foi administrado nos regimes a seguir descritos, em combinação com FOLFOX-4 (5-FU / LV / oxaliplatina), XELOX
+(capecitabina / oxaliplatina), fluoropirimidina / irinotecano e fluoropirimidina / oxaliplatina:
+• NO16966: Avastin® 7,5 mg/kg de peso, a cada três semanas, em combinação com capecitabina oral e oxaliplatina
+intravenosa (XELOX) ou Avastin® 5 mg/kg, a cada duas semanas, em combinação com leucovorin e 5-FU em bolus, seguido de
+5-FU infusional com oxaliplatina intravenosa (FOLFOX-4). 4
+• E3200: Avastin® 10 mg/kg de peso, a cada duas semanas, em combinação com leucovorin e 5-FU em bolus, seguido de
+5-FU infusional com oxaliplatina intravenosa (FOLFOX-4), em pacientes que não receberam tratamento prévio com Avastin®.5
+• ML18147: Avastin® 5,0 mg/kg de peso a cada duas semanas ou Avastin® 7,5 mg/kg de peso a cada três semanas em
+combinação com fluoropirimidina / irinotecano ou fluoropirimidina / oxaliplatina em pacientes com progressão da doença após
+a primeira linha de tratamento com Avastin®. Os regimes contendo irinotecano ou oxaliplatina foram trocados dependendo da
+utilização em primeira linha de oxaliplatina ou irinotecano21.
+AVF2107g: estudo fase III, randomizado, duplo-cego, com controle ativo, que avaliou Avastin® em combinação com IFL como
+tratamento de primeira linha para carcinoma colorretal metastático.1 Oitocentos e treze (813) pacientes foram randomizados
+para receber IFL + placebo (Braço 1) ou IFL + Avastin® (5 mg/kg a cada duas semanas, Braço 2). Um terceiro grupo de 110
+pacientes recebeu 5-FU em bolus / LV + Avastin® (Braço 3). A inclusão no Braço 3 foi interrompida, conforme predeterminado,
+depois de estabelecida e considerada aceitável a segurança de Avastin® combinado ao esquema IFL.
+O desfecho primário de eficácia do estudo foi a sobrevida global. A adição de Avastin® ao IFL resultou em aumento
+estatisticamente significativo da sobrevida global, sobrevida livre de progressão (SLP) e taxa de resposta global (Tabela 1). O
+benefício clínico de Avastin®, medido pela sobrevida, foi observado em todos os subgrupos predeterminados de pacientes,
+incluindo os definidos por idade, sexo, estado de desempenho (performance status), localização do tumor primário, número de
+órgãos envolvidos e duração da doença metastática.
+Os resultados de eficácia de Avastin® em combinação com quimioterapia IFL estão mostrados na Tabela 1.
+ELOV_V03-24 2
+Tabela 1. Resultados de eficácia: estudo AVF2107g
+AVF2107g
+Braço 1 Braço 2
+IFL + placebo IFL + Avastin® a
+Número de pacientes 411 402
+Sobrevida global
+Mediana (meses) 15,6 20,3
+Intervalo de confiança 95% 14,29 a 16,99 18,46 a 24,18
+b 0,660
+Razão de risco
+(p = 0,00004)
+Desfecho secundário: sobrevida livre de progressão (SLP)
+Mediana (meses) 6,2 10,6
+Razão de risco 0,54
+(p < 0,00001)
+Resposta global
+Taxa 34,8% 44,8%
+(p = 0,0036)
+a
+5 mg/kg a cada duas semanas.
+b
+Em relação ao grupo de controle.
+Antes da descontinuação do Braço 3 (5-FU / LV + Avastin®), entre os 110 pacientes randomizados, a mediana de sobrevida
+global foi de 18,3 meses, e a de sobrevida livre de progressão foi de 8,8 meses.
+AVF2192g: estudo clínico fase II, randomizado, duplo-cego, com controle ativo, que avaliou os efeitos de Avastin® em
+combinação com 5-FU / leucovorin como tratamento de primeira linha para câncer colorretal metastático em pacientes que não
+eram candidatos ideais para o tratamento de primeira linha com irinotecano. Cento e cinco (105) pacientes foram randomizados
+para 5-FU / LV + placebo, e 104 foram randomizados para 5-FU / LV + Avastin® (5 mg/kg a cada duas semanas). Todos os
+tratamentos foram mantidos até a progressão da doença.
+A adição de Avastin®, 5 mg/kg a cada duas semanas, ao 5-FU / LV resultou em maiores taxas de resposta objetiva, sobrevida
+livre de progressão significativamente mais prolongada e tendência a sobrevida mais prolongada, em comparação à
+quimioterapia 5-FU / LV apenas.
+NO16966: estudo clínico fase III, randomizado, duplo-cego (para bevacizumabe), que investigou Avastin®, 7,5 mg/kg, em
+combinação com capecitabina oral e oxaliplatina IV (XELOX), administrado em um esquema de três semanas; ou Avastin®, 5
+mg/kg, em combinação com leucovorin e 5-FU em bolus, seguido de 5-FU infusional com oxaliplatina IV (FOLFOX-4),
+administrado em esquema de duas semanas. Esse estudo continha duas partes: uma inicial, de dois braços (parte I), na qual os
+pacientes foram divididos em dois braços de tratamento diferentes (XELOX e FOLFOX-4); e outra, subsequente 2x2
+fatorial (parte II), na qual os pacientes foram divididos em quatro braços de tratamento (XELOX + placebo, FOLFOX-4 +
+placebo, XELOX + Avastin®, FOLFOX-4 + Avastin®). Na parte II, a inclusão ao tratamento foi duplo-cego em relação a
+Avastin®.
+Aproximadamente 350 pacientes foram randomizados para cada um dos quatro braços, na parte II, desse estudo.
+Tabela 2. Regimes de tratamento: estudo NO16966 (CCRm)
+Regime Dose inicial Esquema de tratamento
+Oxaliplatina 2
+85 mg/m , IV,
+Oxaliplatina, no dia 1 Leucovorin, nos dias 1 e 2 5-
+2 horas
+FOLFOX-4 FU, IV bolus / infusional, cada, nos dias 1 e 2
+Leucovorin 2
+200 mg/m , IV,
+ou
+2 horas
+FOLFOX-4 +
+Avastin® 400 mg/m 2 , IV
+5-FU
+bolus, 600 mg/m2,
+IV, 22 horas
+ELOV_V03-24 3
+Placebo ou 5 mg/kg, IV, Dia 1, antes de FOLFOX-4, a cada
+Avastin® 30 − 90 min duas semanas
+Oxaliplatina 2 Oxaliplatina, no dia 1 Capecitabina oral, 2x / dia,
+130 mg/m , IV,
+XELOX por duas semanas (seguido de uma semana livre de
+2 horas
+ou XELOX + tratamento)
+2
+Avastin® 1.000 mg/m , oral, 2x /
+Capecitabina
+dia
+Placebo ou 7,5 mg/kg, IV, Dia 1, antes de XELOX, a cada três semanas
+Avastin® 30 − 90 min
+5-FU: injeção em bolus IV imediatamente após leucovorin.
+O desfecho primário de eficácia desse estudo foi a duração da sobrevida livre de progressão. Existiam dois desfechos primários:
+demonstrar que XELOX não era inferior a FOLFOX-4 e que Avastin® em combinação com FOLFOX-4 ou XELOX era superior
+à quimioterapia somente. Os dois objetivos coprimários foram alcançados:
+a) A não inferioridade dos braços que continham XELOX em relação aos braços que continham FOLFOX-4, em
+comparação global, foi demonstrada em termos de sobrevida livre de progressão e sobrevida global na população elegível por
+protocolo;
+b) A superioridade dos braços que continham Avastin® versus quimioterapia sem adição de Avastin® foi demonstrada
+em comparação global, em termos de sobrevida livre de progressão, na população com intenção de tratamento (vide Tabela 3).
+A análise secundária de SLP, baseada no Comitê de Revisão Independente (CRI) e nas respostas baseadas no subgrupo em
+tratamento, confirmou, de maneira significativa, o benefício clínico superior para os pacientes tratados com Avastin® (análise
+de subgrupo na Tabela 3), compatível com o benefício estatisticamente significativo observado na análise combinada.
+Tabela 3. Resultados-chave de eficácia para a análise de superioridade (população intenção de tratamento, estudo
+NO16966)
+FOLFOX-4 ou FOLFOX-4 ou XELOX
+Desfecho (meses) XELOX + placebo (n = + p
+701) bevacizumabe (n = 699)
+Desfecho primário
+Mediana da sobrevida livre de 8,0 9,4 0,0023
+progressão*
+a 0,83 (0,72 – 0,95)
+Razão de risco (IC 97,5%)
+Desfechos secundários
+Mediana da sobrevida livre de 7,9 10,4 < 0,0001
+progressão (em tratamento)*
+Razão de risco (IC 97,5%) 0,63 (0,52 – 0,75)
+Mediana da sobrevida livre de
+progressão (Revisão 8,5 11,0 < 0,0001
+independente)*
+Razão de risco (IC 97,5%) 0,70 (0,58 – 0,83)
+Taxa de resposta global 49,2% 46,5%
+(Avaliação investigacional)*
+Taxa de resposta global 37,5% 37,5%
+(Revisão independente)*
+Mediana da sobrevida global** 19,9 21,2 0,0769
+Razão de risco (IC 97,5%) 0,89 (0,76 – 1,03)
+* Análise primária no corte clínico em 31 de janeiro de 2006.
+** Análise da sobrevida global no corte clínico em 31 de janeiro de 2007.
+a
+Em relação ao grupo de controle.
+ELOV_V03-24 4
+ECOG E3200: estudo clínico fase III, aberto, randomizado, com controle ativo, que investigou Avastin®, 10 mg/kg, em
+combinação com leucovorin e 5-FU em bolus, seguido de 5-FU infusional com oxaliplatina intravenosa (FOLFOX-4),
+administrado em um esquema de duas semanas em pacientes previamente tratados (segunda linha) com câncer colorretal
+avançado. Nos braços de quimioterapia, o regime FOLFOX-4 utilizou as mesmas doses e o mesmo modo de administração do
+esquema adotado no estudo NO16966, como mostra a Tabela 2.
+O desfecho primário de eficácia desse estudo foi a sobrevida global, definida como o tempo entre randomização e óbito por
+qualquer causa. Oitocentos e vinte e nove (829) pacientes foram selecionados aleatoriamente (292 FOLFOX-4, 293 Avastin® +
+FOLFOX-4 e 244 monoterapia com Avastin®). A adição de Avastin® a FOLFOX- 4 resultou no prolongamento estatisticamente
+significativo da sobrevida global. Melhoras estatisticamente significativas em sobrevida livre de progressão e taxa de resposta
+objetiva também foram observadas (vide Tabela 4).
+Tabela 4. Resultado de eficácia: estudo E3200
+E3200
+FOLFOX-4 ®a
+FOLFOX-4 + Avastin
+Número de pacientes 292 293
+Sobrevida global
+Mediana (meses) 10,8 13,0
+Intervalo de confiança 95% 10,2 – 11,86 12,09 – 14,03
+Razão de riscob 0,751
+(p = 0,0012)
+Sobrevida livre de progressão Mediana
+(meses) 4,5 7,5
+Razão de risco 0,518
+(p < 0,0001)
+Resposta objetiva Taxa
+8,6% 22,2%
+(p < 0,0001)
+a
+10 mg/kg a cada duas semanas.
+b
+Em relação ao grupo de controle.
+Não foi observada diferença significativa na duração de sobrevida global entre pacientes que receberam Avastin® em
+monoterapia comparados aos pacientes tratados com FOLFOX-4.
+A sobrevida livre de progressão e a taxa de resposta objetiva foram inferiores no braço de Avastin® em monoterapia, em
+comparação ao braço com FOLFOX-4.
+ML18147 21 : Estudo clínico de fase III, randomizado, controlado, aberto, que investigou Avastin® 5 mg/kg a cada 2 semanas
+ou 7,5 mg/kg a cada 3 semanas em combinação com quimioterapia à base de fluoropirimidina versus quimioterapia isolada à
+base de fluoropirimidina em pacientes com câncer colorretal metastático que progrediram após o regime de tratamento de
+primeira linha contendo Avastin®.
+Pacientes com confirmação histológica de câncer colorretal metastático e progressão da doença foram randomizados 1:1 em até
+3 meses após a descontinuação do tratamento de primeira linha com Avastin® para receber quimioterapia à base de
+fluoropirimidina/oxaliplatina ou fluoropirimidina/irinotecano (a quimioterapia foi substituída dependendo da quimioterapia
+utilizada na primeira linha), com ou sem Avastin®. O tratamento foi mantido até a progressão da doença ou toxicidade
+inaceitável. O desfecho primário foi a sobrevida global (SG) definido como o tempo desde a randomização até a morte por
+qualquer causa.
+Um total de 820 pacientes foi randomizado. A adição de Avastin® à quimioterapia à base de fluoropirimidina resultou em
+aumento estatisticamente significativo de sobrevida em pacientes com câncer colorretal metastático que tenham progredido após
+o regime de tratamento de primeira linha contendo Avastin® (ITT = 819) (vide Tabela 5).
+Tabela 5. Resultados de eficácia: estudo ML18147
+ML18147
+ELOV_V03-24 5
+Quimioterapia à base de Quimioterapia à base de
+fluoropirimidina / irinotecano ou fluoropirimidina / irinotecano ou
+fluoropirimidina / oxaliplatina fluoropirimidina / oxaliplatina +
+Avastin®a
+Número de pacientes 410 409
+Sobrevida global
+Mediana (meses) 9,8 11,2
+Intervalo de confiança 95% 9 11 10 12
+Razão de risco 0,81
+(p = 0,0062)
+Sobrevida livre de progressão
+Mediana (meses) 4,1 5,7
+Razão de risco 0,68
+(p <0,0001)
+Taxa de resposta objetiva (TRO)
+Taxa 3,9% 5,4%
+(p = 0,3113)
+a
+2,5 mg/kg/semana
+Também foi observada melhora estatisticamente significativa na sobrevida livre de progressão. A taxa de resposta objetiva foi
+baixa em ambos os braços de tratamento e não atingiu significância estatística.
+Câncer de pulmão de não pequenas células localmente avançado, metastático ou recorrente
+A segurança e a eficácia de Avastin® no tratamento de primeira linha de pacientes com câncer de pulmão de não pequenas
+células, excluindo histologia predominantemente escamosa, foram estudadas em associação com quimioterapia à base de platina
+nos estudos E4599 e BO17704.
+E4599 6 : estudo multicêntrico, aberto, randomizado, controlado para avaliação de Avastin® no tratamento de primeira linha de
+pacientes com câncer de pulmão de não pequenas células localmente avançado, metastático ou recorrente, excluindo histologia
+predominantemente escamosa.
+Os pacientes foram randomizados para receber quimioterapia à base de platina (paclitaxel 200 mg/m2 e carboplatina AUC =
+6,0), ambos administrados por infusão IV no dia 1 de cada ciclo de três semanas, até o total de seis ciclos; ou para o braço com
+carboplatina e paclitaxel em associação com Avastin®, na dose de 15 mg/kg, administrado por infusão IV no dia 1 de cada ciclo
+de três semanas. Após a conclusão dos seis ciclos de quimioterapia com carboplatina-paclitaxel ou após descontinuação prematura
+da quimioterapia, os pacientes no braço de Avastin® + carboplatina-paclitaxel continuaram a receber Avastin® em monoterapia
+a cada três semanas até progressão da doença. Foram randomizados para os dois braços de tratamento 878 pacientes.
+Durante o estudo, dos pacientes que receberam medicação de ensaio, 32,2% (136 / 422) receberam 7 – 12 administrações de
+Avastin® e 21,1% (89/ 422) receberam 13 ou mais administrações de Avastin®. O desfecho primário foi a sobrevida global. Os
+resultados estão apresentados na Tabela 6.
+Tabela 6. Resultados de eficácia: estudo E4599
+Braço 1 Carboplatina / paclitaxel Braço 2
+Carboplatina / paclitaxel + Avastin®
+15 mg/kg, a cada três semanas
+Número de pacientes 444 434
+Sobrevida global
+Mediana (meses) 10,3 12,3
+Razão de risco 0,80 (p = 0,003)
+IC 95% (0,69; 0,93)
+Sobrevida livre de progressão
+ELOV_V03-24 6
+Mediana (meses) 4,8 6,4
+Razão de risco 0,65 (p < 0,0001)
+IC 95% (0,56; 0,76)
+Resposta global
+Taxa 12,9% 29,0% (p < 0,0001)
+BO17704 7,8 : estudo de fase III, randomizado, duplo-cego, com Avastin® em associação à cisplatina e gencitabina versus
+placebo, cisplatina e gencitabina, em pacientes com câncer de pulmão de não pequenas células, não escamoso, localmente
+avançado, metastático ou recorrente e não previamente tratados com quimioterapia. O desfecho primário foi a sobrevida livre
+de progressão (SLP), e os desfechos secundários incluíram a duração da resposta, sobrevida global e segurança.
+2
+Os pacientes foram randomizados para o braço de quimioterapia à base de platina, cisplatina 80 mg/m , administrada por infusão
+2
+IV no dia 1, e 1.250 mg/m de gencitabina, administrada por infusão IV, nos dias 1 e 8 de cada ciclo, a cada três semanas, até
+o total de seis ciclos, (CG) com placebo ou para o braço de CG com Avastin®, na dose de 7,5 mg/kg ou 15 mg/kg, administrada
+por infusão IV, no dia 1 de cada ciclo, a cada três semanas. Nos braços que continham Avastin®, os pacientes receberam Avastin®
+em monoterapia a cada três semanas até progressão da doença ou toxicidade inaceitável.
+Os resultados do estudo mostraram que 94% (277 / 296) dos doentes elegíveis continuaram a receber bevacizumabe em
+monoterapia no ciclo 7. Uma elevada proporção de pacientes (aproximadamente 62%) continuou a receber uma variedade de
+terapias antineoplásicas não especificadas no protocolo, e isso pode ter impactado a análise da sobrevida global. Os resultados
+de eficácia estão apresentados na Tabela 7.
+Tabela 7. Resultados de eficácia: estudo BO17704
+Cisplatina / gencitabina Cisplatina / gencitabina
+Cisplatina / gencitabina ® ®
++ Avastin + Avastin
++ placebo
+7,5 mg/kg, a cada três 15 mg/kg, a cada três
+semanas semanas
+Número de pacientes 347 345 351
+Sobrevida livre de
+progressão
+Mediana (meses) 6,1 6,7 6,5
+(p = 0,0026) (p = 0,0301)
+Razão de risco 0,75 0,82
+[0,62; 0,91] [0,68; 0,98]
+Melhor taxa de resposta 20,1% 34,1% 30,4%
+a (p < 0,0001) (p = 0,0023)
+global
+a
+Pacientes com doença mensurável na avaliação basal.
+Sobrevida global
+13,6 13,4
+Mediana (meses) 13,1 (p = 0,4203) (p = 0,7613)
+Razão de risco 0,93 1,03
+[0,78; 1,11] [0,86; 1,23]
+24
+JO25567
+O estudo JO25567 foi um estudo fase II, multicêntrico, aberto, randomizado, conduzido no Japão para avaliar a segurança e
+eficácia de bevacizumabe utilizado em associação com erlotinibe em pacientes com câncer de pulmão de não pequenas células,
+não escamoso com mutações ativadoras de EGFR (com deleção do éxon 19 ou mutação L858R do éxon 21), que não receberam
+terapia sistêmica prévia para o estadio IIIB/IV ou doença recorrente.
+O desfecho primário foi a sobrevida livre de progressão (SLP) baseada na avaliação da revisão independente. Os desfechos
+secundários incluíram sobrevida global, taxa de resposta, taxa de controle da doença, duração da resposta, segurança e qualidade
+de vida relacionada à saúde (Health Related Quality of Life – HRQoL) baseada no questionário FACT-L (Functional Assessment
+of Cancer Therapy for Patients with Lung Cancer).
+ELOV_V03-24 7
+O status da mutação EGFR foi determinado para cada paciente antes da triagem dos pacientes e 154 pacientes foram
+randomizados para receber ambos erlotinibe + bevacizumabe [150 mg de erlotinibe oral diariamente + bevacizumabe (15 mg/kg
+IV a cada três semanas)] ou monoterapia de erlotinibe (150 mg oral diariamente) até a progressão da doença (PD) ou toxicidade
+inaceitável. Na ausência de PD, a descontinuação de um componente do tratamento em estudo no braço erlotinibe +
+bevacizumabe não levou à descontinuação do outro componente do tratamento em estudo, como especificado no protocolo do
+estudo. Os resultados de eficácia do estudo estão apresentados na Tabela 8.
+Tabela 8. Resultados de eficácia do estudo JO25567
+Erlotinibe N = 77# Erlotinibe + Bevacizumabe N
+= 75#
+Sobrevida livre de progressão^ (meses)
+Mediana 9,7 16,0
+Razão de Risco (IC 95%) 0,54 (0,36; 0,79)
+Valor de p 0,0015
+Taxa de resposta global
+Taxa 63,6% 69,3%
+Valor de p 0,4951
+Duração da resposta (meses)
+Mediana 9,3 13,3
+Razão de Risco (IC 95%) 0,68 (0,43; 1,10)
+Valor de p 0,118
+Taxa de controle da doença
+Taxa 88,3% 98,7%
+Valor de p 0,0177
+Sobrevida global* (meses)
+Mediana Não atingido Não atingido
+Razão de Risco (IC 95%) 1,04 (0,61- 1,77)
+Valor de p 0,8926
+# Um total de 154 pacientes foram randomizados. No entanto, 2 dos pacientes randomizados descontinuaram o estudo antes de
+receber qualquer um dos tratamentos em estudo.
+^ Revisão cega independente (análise primária definida no protocolo).
+* Análise exploratória; análise de sobrevida global atualizada na data de corte clínico em novembro de 2014,
+aproximadamente 35% dos pacientes tinham falecido e, portanto, a sobrevida global é considerada imatura. IC, intervalo de
+confiança; Razão de Risco a partir da análise de regressão Cox não estratificada.
+No estudo aberto JO25567, a qualidade de vida relacionada à saúde (Health Related Quality of Life – HRQoL) foi avaliada
+pelas pontuações FACT-L total, índice de resultado do teste (TOI) e pelos sintomas de câncer de pulmão, como avaliado pela
+sub-escala de sintomas de câncer de pulmão FACT-L (LCS). Durante o período livre de progressão, as pontuações FACT-L
+médias da linha de base foram mantidas em ambos braços de tratamento. Não houve diferenças clinicamente significativas na
+HRQoL FACT-L observadas entre os dois braços de tratamento. É importante notar que pacientes no braço erlotinibe +
+bevacizumabe foram tratados por mais tempo e receberam administração intravenosa de bevacizumabe, em oposição à
+monoterapia de erlotinibe oral no braço controle.
+9,10
+Câncer de mama metastático (CMM)
+ECOG E2100: estudo clínico multicêntrico, aberto, randomizado, com controle ativo, para avaliação de Avastin® em
+combinação com paclitaxel para câncer de mama metastático ou localmente recorrente em pacientes que não haviam recebido
+quimioterapia prévia para doença metastática ou localmente recorrente.
+Terapia hormonal prévia para o tratamento de doença metastática foi permitida. Terapia adjuvante prévia com
+ELOV_V03-24 8
+taxano foi permitida apenas se completada, pelo menos, 12 meses antes da inclusão no estudo.
+Pacientes foram randomizadas para receber paclitaxel em monoterapia (90 mg/m2, IV, em uma hora, uma vez por semana, por
+três a cada quatro semanas) ou em combinação com Avastin® (10 mg/kg, infusão IV, a cada duas semanas). As pacientes
+deveriam permanecer no estudo até a progressão da doença. Nos casos em que a quimioterapia foi descontinuada
+prematuramente, o tratamento com Avastin® em monoterapia foi mantido até a progressão da doença. O desfecho primário foi
+a sobrevida livre de progressão (SLP), avaliada pelos investigadores. Adicionalmente, uma revisão, independentemente do
+desfecho primário, foi realizada. Das 722 pacientes do estudo, a maioria tinha doença HER2 negativa (90%). Um pequeno
+número de pacientes tinha status HER2 desconhecido (8%) ou positivo (2%). Pacientes status positivo para HER2 haviam sido
+previamente tratadas com trastuzumabe ou foram consideradas inadequadas para trastuzumabe. A maioria, 65%, tinha recebido
+quimioterapia adjuvante, incluindo 19% que receberam terapia prévia com taxanos e 49% que receberam terapia prévia com
+antraciclinas. As características das pacientes eram similares entre os braços de estudo.
+Os resultados desse estudo estão apresentados na Tabela 9.
+Tabela 9. Resultados de eficácia do estudo E2100: pacientes elegíveis
+Sobrevida livre de progressão (SLP)
+Avaliação do investigador* Avaliação do IRF
+Paclitaxel ® Paclitaxel ®
+Paclitaxel / Avastin Paclitaxel / Avastin
+(n = 354) (n = 354)
+(n = 368) (n = 368)
+SLP mediana 5,8 11,4 5,8 11,3
+(meses)
+Razão de risco 0,421 0,483
+(IC 95%) (0,343; 0,516) (0,385; 0,607)
+p < 0,0001 < 0,0001
+Taxa de resposta (para pacientes com doença mensurável)
+Avaliação do investigador Avaliação do IRF
+Paclitaxel ® Paclitaxel ®
+Paclitaxel / Avastin Paclitaxel/Avastin
+(n = 273) (n = 243)
+(n = 252) (n = 229)
+% de pacientes com 23,4 48,0 22,2 49,8
+resposta objetiva
+p < 0,0001 < 0,0001
+* Análise primária.
+Sobrevida global
+Paclitaxel (n = 354) ®
+Paclitaxel /Avastin (n = 368)
+SG mediana (meses) 24,8 26,5
+Razão de risco 0,869 (0,722;
+(IC 95%) 1,046)
+p 0,1374
+Avastin® é indicado exclusivamente em combinação com paclitaxel e capecitabina para o tratamento de primeira linha em
+pacientes com câncer de mama localmente recorrente ou metastático. No contexto dessa indicação, a combinação de Avastin®
+com docetaxel não demonstrou a mesma magnitude de efeito, não sendo aprovada para uso.
+22,23
+AVF3694g : estudo de fase III, multicêntrico, randomizado, placebo controlado, desenhado para avaliar a eficácia e
+segurança de Avastin® em combinação com quimioterapia, comparado com quimioterapia mais placebo como tratamento de
+primeira linha para pacientes com câncer de mama metastático ou localmente recorrente HER2 negativo.
+A quimioterapia foi escolhida a critério do investigador, antes da randomização na proporção de 2:1 para receber quimioterapia +
+Avastin® ou quimioterapia + placebo. As escolhas de quimioterapia incluíram taxanos (paclitaxel, paclitaxel peguilhado ou
+docetaxel), os agentes antraciclínicos (doxorrubicina/ciclofosfamida, epirrubicina/ciclofosfamida, 5-
+fluorouracil/doxorrubicina/ciclofosfamida, 5-fluorouracil/epirrubicina/ ciclofosfamida) ou capecitabina administrados a cada
+três semanas. Avastin® ou placebo foram administrados na dose de 15 mg/kg a cada três semanas.
+ELOV_V03-24 9
+Esse estudo incluiu uma fase de tratamento cego, uma fase aberta opcional pós-progressão e uma nova fase para acompanhamento
+de sobrevida. Durante a fase de tratamento cego, os pacientes receberam quimioterapia e a droga do estudo (Avastin® ou
+placebo), a cada 3 semanas, até progressão da doença, toxicidade limitante do tratamento ou óbito.
+Na progressão documentada da doença, os pacientes que entraram na fase aberta opcional poderiam receber Avastin® juntamente
+com uma ampla variedade de terapias de segunda linha. A porcentagem de pacientes em cada braço que recebeu Avastin® de
+forma aberta foi a seguinte: taxano/antraciclina + placebo: 43,0%; taxano/ antraciclina + Avastin®: 29,6% e cap + placebo:
+51,9%; cap + Avastin®: 34,7%.
+Os pacientes foram analisados em duas coortes, dependendo do tratamento recebido, da seguinte forma:
+• Pacientes recebendo taxano/antraciclina + Avastin®/placebo – Coorte 1
+• Pacientes recebendo capecitabina + Avastin®/placebo – Coorte 2
+O desfecho primário foi a sobrevida livre de progressão (SLP), baseada na avaliação do investigador para:
+1) pacientes recebendo terapia com taxano ou baseada em antraciclina (Coorte 1), e
+2) pacientes que recebendo terapia com capecitabina (Coorte 2).
+Cada coorte teve poder independente. Além disso, uma análise independente do desfecho primário também foi realizada.
+Os resultados desse estudo, a partir das análises definidas no protocolo final para a sobrevida livre de progressão e taxas de
+resposta, são apresentados na Tabela 10 (Coorte 1) e Tabela 11 (Coorte 2). Resultados de uma análise exploratória de sobrevida
+global, que inclui um acompanhamento adicional de sete meses, também são apresentados para ambas as coortes. Nesse ponto,
+cerca de 45% dos pacientes em todos os braços de tratamento haviam ido a óbito.
+Tabela 10. Resultados de eficácia do estudo AVF3694g: Coorte 1 – taxano/antraciclina e Avastin®/placebo
+Sobrevida livre de progressão (SLP)*
+Avaliação do investigador Avaliação do comitê
+independente
+Taxano/Antr + Pl Taxano/Antr + Taxano/Antr + Pl Taxano/Antr +
+(n= 207) ® (n= 207) ®
+Avastin (n=415) Avastin (n=415)
+Mediana da SLP 8,0 9,2 8,3 10,7
+(meses)
+Razão de risco vs 0,64 (0,52; 0,80) 0,77 (0,60; 0,99)
+braço placebo (IC 95%)
+p < 0,0001 0,040
+Taxa de resposta (para pacientes com doença mensurável)*
+Taxano/Antr + Pl (n= 177) ®
+Taxano/Antr + Avastin (n=345)
+% pacientes com 37,9 51,3
+resposta objetiva
+p 0,0054
+Sobrevida global (SG)*
+Mediana da SG (meses) NA** 27,5
+ELOV_V03-24 10
+Razão de risco (IC 95%) 1,11 (0,86; 1,43)
+p (exploratório) 0,44
+* A análise estratificada incluiu todos os eventos de progressão e óbito, exceto aqueles em que terapias antineoplásicas fora de
+protocolo (TNP) foram iniciadas antes da progressão documentada: dados dessas pacientes foram censurados na última
+avaliação do tumor antes do início da TNP.
+** Não alcançado.
+Tabela 11. Resultados de eficácia do estudo AVF3694g: Coorte 2 – capecitabina e Avastin®/placebo (Cap
++ Avastin®/Pl)
+Sobrevida livre de progressão (SLP)*
+Avaliação do investigador Avaliação do comitê
+independente
+Cap + Pl Cap + Cap + Pl (n= ®
+Cap + Avastin
+(n= 206) ® 206)
+Avastin (n=409)
+(n=409)
+Mediana da SLP 5,7 8,6 6,2 9,8
+(meses)
+Razão de risco vs braço
+placebo (IC 95%) 0,69 (0,56; 0,84) 0,68 (0,54; 0,86)
+p 0,0002 0,0011
+Taxa de resposta (para pacientes com doença mensurável)*
+Cap + Pl (n= 161) ®
+Cap + Avastin (n=325)
+% pacientes com 23,6 35,4
+resposta objetiva
+p 0,0097
+Sobrevida global (SG)*
+Mediana da sobrevida
+global (meses) 22,8 25,7
+Razão de risco 0,88 (0,69; 1,13)
+(IC 95%)
+p (exploratório) 0,33
+* A análise estratificada incluiu todos os eventos de progressão e óbito, exceto aqueles em que terapias antineoplásicas fora de
+protocolo (TNP) foram iniciadas antes da progressão documentada; dados desses pacientes foram censurados na última
+avaliação do tumor antes do início da TNP.
+Para ambas as coortes, foram realizadas análises não estratificadas de SLP (avaliação do investigador), que não censuraram
+terapias fora do protocolo iniciadas previamente à progressão da doença. Os resultados dessas análises foram muito semelhantes
+aos resultados preliminares de SLP.
+11,12
+Câncer de células renais metastático e / ou avançado (mRCC)
+BO17705 foi um estudo de fase III, multicêntrico, randomizado, duplo-cego, conduzido para avaliar a eficácia e a segurança de
+Avastin® em combinação com alfainterferona 2a (Roferon ® ) versus alfainterferona 2a em monoterapia como tratamento de
+primeira linha em mRCC. Os 649 pacientes randomizados (641 tratados) tinham RCC de células claras metastático, desempenho
+Karnofsky ≥ 70%, ausência de metástases no sistema nervoso central e função orgânica adequada. O tratamento fornecido
+incluiu alfainterferona 2a (9 MUI, três vezes por semana) mais Avastin® (10 mg/kg a cada duas semanas) ou placebo,
+administrados até a progressão da doença. Os pacientes foram estratificados de acordo com o país e escore de Motzer, e os braços
+de tratamento mostraram ser equilibrados para os fatores de prognóstico.
+O desfecho primário foi a sobrevida global, com desfechos secundários para o estudo, que incluíam sobrevida livre de progressão
+(SLP). A adição de Avastin® à alfainterferona 2a aumentou significativamente a SLP e a taxa de resposta objetiva do tumor.
+ELOV_V03-24 11
+Esses resultados foram confirmados por meio de revisão radiológica independente. No entanto, o aumento no desfecho primário
+de sobrevida global em dois meses não foi significativo (HR = 0,91). Uma alta proporção de pacientes (aproximadamente 63%
+IFN / placebo, 55% Avastin® / IFN) recebeu uma série de terapias anticâncer pós-protocolo não especificadas, incluindo agentes
+antineoplásicos, que pode ter impactado na análise da sobrevida global.
+Tabela 12. Resultados de eficácia: estudo BO17705
+BO17705
+IFN + placebo ®
+IFN + Avastin
+Número de pacientes 322 327
+Sobrevida livre de progressão
+Mediana (meses) 5,4 10,2
+Razão de risco [IC 95%] 0,63 [0,52; 075]
+(p < 0,0001)
+Taxa de resposta objetiva (%) em
+pacientes com doença mensurável
+N 289 306
+Taxa de resposta 12,8% 31,4%
+(p < 0,0001)
+Sobrevida global
+Mediana (meses) 21,3 23,3
+Razão de risco [IC95%] 0,91 [0,76; 1,10]
+(p = 0,3360)
+Um modelo de regressão de Cox multivariada exploratória que utilizou seleção retrógada indicou que os seguintes fatores
+prognósticos basais estavam fortemente associados à sobrevida, independentemente do tratamento: sexo, contagem de glóbulos
+brancos, plaquetas, perda de peso nos seis meses antecedentes à entrada no estudo, número de sítios metastáticos, soma do maior
+diâmetro das lesões-alvo e escore de Motzer. O ajuste para esses fatores basais resultou em razão de risco de tratamento de 0,78
+(95% IC [0,63; 0,96], p = 0,0219), indicando redução de 22% no risco de morte para os pacientes do braço de Avastin® +
+alfainterferona 2a, em comparação com o braço de alfainterferona 2a.
+Noventa e sete (97) pacientes do braço de alfainterferona 2a e 131 pacientes do braço de Avastin® reduziram a dose de
+alfainterferona 2a de 9 MUI para 6 ou 3 MUI, três vezes por semana, como pré-especificado no protocolo. A redução da dose
+de alfainterferona 2a pareceu não afetar a eficácia do uso combinado de Avastin® e alfainterferona 2a, com base nas taxas de
+SLP livres de eventos ao longo do tempo, como mostrado por uma análise de subgrupo. Os 131 pacientes do braço de Avastin®
++ alfainterferona 2a que reduziram e mantiveram a dose de alfainterferona 2a em 6 ou 3 MUI durante o estudo exibiram, em 6,
+12 e 18 meses, taxas de SLP livres de eventos de 73%, 52% e 21%, respectivamente, em comparação a 61%, 43% e 17% na
+população total dos pacientes tratados com Avastin® + alfainterferona 2a.
+AVF2938: estudo clínico de fase II, randomizado, duplo-cego, para avaliar Avastin®, 10 mg/kg, em um esquema a cada duas
+semanas, com a mesma dose de Avastin® em combinação com 150 mg/dia de erlotinibe, em pacientes com RCC de células
+claras metastático. Foram randomizados 104 pacientes para o tratamento nesse estudo, 53 para 10 mg/kg de Avastin® a cada
+duas semanas, mais placebo e 51 para 10 mg/kg de Avastin® a cada duas semanas, mais erlotinibe 150 mg/dia. A análise do
+desfecho primário não mostrou diferença entre o braço de Avastin® + placebo e o de Avastin® + erlotinibe (mediana de SLP de
+8,5 versus 9,9 meses). Sete pacientes em cada braço apresentaram uma resposta objetiva.
+13,14,15,16,17
+Câncer epitelial de ovário, tuba uterina e peritoneal primário
+13,14,15
+Tratamento de primeira linha de câncer de ovário
+A segurança e a eficácia de Avastin® no tratamento de primeira linha de pacientes com câncer epitelial de ovário, tuba uterina
+e peritoneal primário foram avaliadas em dois estudos clínicos fase III (GOG-0218 e BO17707) que compararam o efeito de
+Avastin® associado à carboplatina e paclitaxel em relação ao regime quimioterápico isolado.
+13
+GOG-0218 : foi um estudo de fase III, multicêntrico, randomizado, duplo-cego, controlado por placebo, de três braços, para
+avaliar o efeito da adição de Avastin® a um regime quimioterápico padrão (carboplatina e paclitaxel) em pacientes com câncer
+epitelial de ovário, tuba uterina e peritoneal primário estadio III ou IV com citorredução ótima ou subótima.
+Um total de 1.873 pacientes foi randomizado em proporções iguais para os três braços descritos a seguir:
+ELOV_V03-24 12
+• Braço CPP: placebo em combinação com carboplatina (AUC 6) e paclitaxel (175 mg/m2) durante seis ciclos,
+seguido de placebo isolado, num total de até 15 meses de terapia;
+• Braço CPB15: cinco ciclos de Avastin® (15 mg/kg, a cada três semanas) em combinação com carboplatina (AUC
+6) e paclitaxel (175 mg/m2) por seis ciclos (Avastin® iniciado no ciclo dois da quimioterapia), seguido de placebo isolado, num
+total de até 15 meses de terapia;
+• Braço CPB15+: cinco ciclos de Avastin® (15 mg/kg, a cada três semanas) em combinação com carboplatina (AUC
+6) e paclitaxel (175 mg/m2) por seis ciclos (Avastin® iniciado no ciclo dois da quimioterapia), seguido pelo uso
+continuado de Avastin® (15 mg/kg, a cada três semanas) em monoterapia, num total de até 15 meses de terapia.
+O desfecho primário foi sobrevida livre de progressão (SLP) baseada na avaliação radiológica pelo investigador. Adicionalmente,
+uma revisão independente do desfecho primário foi realizada.
+Os resultados desse estudo são apresentados na Tabela 13.
+Tabela 13. Resultados de eficácia: estudo GOG-0218
+Sobrevida livre de progressão
+1 Avaliação do comitê de revisão independente
+Avaliação do investigador
+CPP CPB15 CPB15+ CPP CPB15 CPB15+
+(n =625) 2 2 (n = 625) 2 2
+(n = 1.248) (n =1.248) (n = 1.248) (n =1.248)
+SLP
+mediana 12,0 12,7 18,2 13,1 13,2 19,1
+(meses)
+Razão de 0,842 0,644 0,941 0,630
+risco [0,714; 0,993] [0,541; 0,766] [0,779; 1,138] [0,513; 0,773]
+3
+(IC 95%)
+4 0,02045 < 0,00015 0,2663 < 0,0001
+Valor p
+6
+Taxa de resposta objetiva
+Avaliação do investigador Avaliação do comitê de revisão
+independente
+CPP CPB15 CPB15+ CPP CPB15 CPB15+
+(n = 396) (n = 393) (n = 403) (n = 474) (n = 460) (n = 499)
+% de
+pacientes
+com resposta 63,4 66,2 66,0 68,8 75,4 77,4
+objetiva
+4 0,2341 0,2041 0,0106 0,0012
+Valor p
+7
+Sobrevida global
+ELOV_V03-24 13
+CPP CPB15 CPB15+
+(n = 625) 2 2
+(n =625) (n =623)
+SG mediana (meses) 40,6 38,8 43,8
+3 1,065 (0,908; 1,249) 0,879 (0,745; 1,038)
+Razão de risco (IC 95%)
+4 0,2197 0,0641
+Valor p
+1
+Análise primária de SLP.
+2
+Eventos anteriores ao ciclo 7 dos braços CPB15 e CPB15+ foram agrupados para as análises.
+3
+Relativo ao braço controle: razão de risco estratificada.
+4
+Valor p log-rank unicaudal.
+5
+Sujeito ao limite de p de 0,0116.
+6
+Pacientes com doença mensurável na avaliação basal.
+7
+Análise final de sobrevida global.
+O estudo atingiu o seu desfecho primário de melhora na SLP. Comparado aos pacientes tratados com quimioterapia isolada
+(carboplatina e paclitaxel), os pacientes que receberam bevacizumabe na primeira linha na dose de 15 mg/kg, a cada três
+semanas, em combinação com quimioterapia, seguido pelo uso continuado de bevacizumabe em monoterapia, apresentaram
+aumento clinicamente relevante e estatisticamente significativo da SLP. Embora os pacientes que receberam bevacizumabe na
+primeira linha em combinação com quimioterapia isolada, mas que não mantiveram o seu uso continuado, tenham apresentado
+aumento na SLP, este não foi clinicamente relevante nem estatisticamente significativo, em comparação aos pacientes que
+receberam apenas quimioterapia.
+14,15
+BO17707 (ICON7) : foi um estudo fase III, de dois braços, multicêntrico, randomizado, controlado, aberto comparando
+os efeitos da associação de Avastin® à carboplatina mais paclitaxel em pacientes com câncer epitelial de ovário, tuba uterina e
+peritoneal primário estadios FIGO I ou IIA (grau 3 ou histologia de células claras somente), ou estádios FIGO IIB – IV (todos
+os graus e todos os tipos histológicos), após cirurgia, ou naquelas pacientes em que nenhuma cirurgia estava planejada antes da
+progressão.
+Um total de 1.528 pacientes foi randomizado em proporções iguais para os dois braços descritos a seguir:
+• Braço CP: carboplatina (AUC 6) e paclitaxel (175 mg/m2) por seis ciclos;
+• Braço CPB7,5+: carboplatina (AUC 6) e paclitaxel (175 mg/m2) durante seis ciclos, mais Avastin® (7,5 mg, a cada
+três semanas) por até 18 ciclos.
+O desfecho primário foi sobrevida livre de progressão (SLP) avaliada pelo investigador. Os resultados desse estudo estão
+resumidos na Tabela 14.
+Tabela 14. Resultados de eficácia: estudo BO17707 (ICON7)
+Sobrevida livre de progressão
+CP (n = 764) CPB7,5+ (n = 764)
+SLP mediana (meses) 16,0 18,3
+Razão de risco [IC 95%] 0,79 [0,68; 0,91]
+(p = 0,0010)
+1
+Taxa de resposta objetiva
+CP (n = 277) CPB7,5+ (n = 272)
+Taxa de resposta 41,9% 61,8%
+(p < 0,0001)
+2
+Sobrevida global
+CP (n = 764) CPB7,5+ (n = 764)
+Mediana (meses) 58,0 57,4
+Razão de risco [IC 95%] 0,99 [0,85; 1,15]
+1 Em pacientes com doença mensurável na avaliação basal.
+2 Análise de sobrevida global final com 46,7% de óbitos.
+ELOV_V03-24 14
+O estudo atingiu o seu desfecho primário de aumento da SLP. Em comparação aos pacientes tratados com quimioterapia isolada
+(carboplatina e paclitaxel), os pacientes tratados com bevacizumabe na dose de 7,5 mg/kg, a cada três semanas, em combinação
+com quimioterapia, seguido pelo uso continuado de bevacizumabe por até 18 ciclos, tiveram melhora estatisticamente
+significativa da SLP.
+16,17,25
+Câncer de ovário recorrente
+GOG-0213: foi o estudo controlado fase III, que avaliou a segurança e eficácia de Avastin® no tratamento de pacientes com
+câncer epitelial de ovário, tuba uterina ou peritoneal primário, recorrente e sensível à platina que não receberam quimioterapia
+prévia para a doença recorrente. Não houve critério de exclusão para terapia prévia com anti-angiogênico.
+O estudo avaliou o efeito da combinação de Avastin® com carboplatina e paclitaxel e a continuação de Avastin® como agente
+único comparado somente com carboplatina e paclitaxel.
+Um total de 673 pacientes foram randomizados em proporções iguais para os seguintes dois braços de tratamento.
+• Braço CP: carboplatina (AUC5) e paclitaxel (175 mg/m2 IV no decorrer de 3 horas) a cada 3 semanas por 6 e até
+8 ciclos.
+• Braço CPB: carboplatina (AUC5) e paclitaxel (175 mg/m2 IV no decorrer de 3 horas) e Avastin® (15 mg/kg)
+concomitante a cada 3 semanas por 6 e até 8 ciclos, seguido por Avastin® (15 mg/kg a cada 3 semanas) como agente único até
+a progressão da doença ou toxicidade inaceitável.
+O desfecho primário de eficácia do estudo foi a sobrevida global (SG). O desfecho secundário de eficácia foi a sobrevida livre
+de progressão (SLP). As taxas de resposta objetiva (TRO) foram também examinadas. Resultados são apresentados na Tabela
+15.
+Tabela 15. Resultados de eficácia do estudo GOG-0213
+Desfecho primário
+Sobrevida Global (SG) CP CPB
+(n=336) (n=337)
+SG mediana (meses) 37,3 42,6
+Razão de risco [IC 95%] 0,823 (IC: 0,680; 0,996)
+Valor p 0,0447
+Desfechos secundários
+Sobrevida livre de progressão (SLP) CP (n=336) CPB (n=337)
+SLP mediana (meses) 10,2 13,8
+Razão de risco [IC 95%] 0,613 (IC: 0,521; 0,721)
+Valor p <0,0001
+Taxa de resposta objetiva CP* CPB*
+(n=286) (n=274)
+% de pacientes com resposta objetiva (RC, RP) 159 (55,6%) 213 (77,7%)
+Valor p <0,0001
+*População com intenção de tratamento com doença mensurável no início do estudo.
+Tratamento com Avastin® 15 mg/kg a cada 3 semanas em combinação com quimioterapia (carboplatina e paclitaxel) por 6 a até
+8 ciclos então seguidos por Avastin® como agente único, resultou em uma melhora estatisticamente significante na SG
+comparado ao tratamento somente com carboplatina e paclitaxel.
+No estudo GOG-0213 foram incluídos pacientes que receberam terapia anti-angiogênica prévia, incluindo o tratamento com
+bevacizumabe. A inclusão de pacientes previamente tratados com um regime contendo bevacizumabe no estudo GOG-0213
+permitiu que as análises de subgrupos fossem realizadas para explorar se os pacientes tratados com um regime contendo
+bevacizumabe na primeira linha apresentariam benefício clínico (ou seja, SG, SLP e TRO) quando tratados com outro regime
+contando bevacizumabe após recorrência.
+Houve 69 pacientes com câncer de ovário recorrente e sensível a platina que já haviam recebido tratamento com bevacizumabe
+anteriormente. Este subgrupo de pacientes em que bevacizumabe foi adicionado à combinação quimioterápica carboplatina +
+paclitaxel também apresentou melhora na SG e SLP em comparação com aqueles que receberam o tratamento de carboplatina +
+paclitaxel sem bevacizumabe, em linha com a população geral com intenção de tratamento (ITT). A razão de risco não
+ELOV_V03-24 15
+estratificada para SG foi 0,764 (IC 95% [0,436; 1,340]). A duração mediana da SG foi de 32,0 meses no braço de carboplatina
++ paclitaxel, e de 36,8 meses no braço de carboplatina + paclitaxel + bevacizumabe.
+Para SLP, a razão de risco não estratificada foi de 0,841 (IC 95%: [0,516; 1,373]). A duração mediana da SLP foi de 9,8 meses
+no braço de carboplatina + paclitaxel e de 10,7 meses no braço de carboplatina + paclitaxel + bevacizumabe.
+Uma melhora na TRO também foi observada nesses pacientes. A TRO no braço de carboplatina + paclitaxel + bevacizumabe
+foi de 82,1% e de 53,6% no braço de carboplatina + paclitaxel e a diferença na TRO foi de 28,6% (IC 95% [5,3; 51,9]).
+AVF4095g: a segurança e a eficácia de Avastin® no tratamento de pacientes com câncer epitelial de ovário, tuba uterina e
+peritoneal primário, recorrente e sensível à platina que não receberam quimioterapia prévia para a doença recorrente e não
+receberam tratamento com bevacizumabe prévio foram avaliadas em um estudo fase III, randomizado, duplo-cego, placebo
+controlado (AVF4095g). O estudo comparou o efeito da associação de Avastin® à quimioterapia com carboplatina e gencitabina
+e a continuação de Avastin® como agente único até a progressão da doença a somente carboplatina e gencitabina.
+Um total de 484 pacientes com doença mensurável foi randomizado em porções iguais:
+2
+• Carboplatina (AUC4, dia 1) e gencitabina (1.000 mg/m nos dias 1 e 8) e placebo concomitantemente a cada
+três semanas por 6 e até 10 ciclos, seguido de somente placebo até a progressão da doença ou toxicidade inaceitável.
+• Carboplatina (AUC4, dia 1) e gencitabina (1.000 mg/m 2 nos dias 1 e 8) e Avastin® (15 mg/kg, dia
+1) concomitantemente a cada três semanas por 6 e até 10 ciclos, seguido de somente Avastin® (15 mg/kg, a cada três
+semanas) até a progressão da doença ou toxicidade inaceitável.
+O desfecho primário foi a sobrevida livre de progressão (SLP) com base na avaliação do investigador, utilizando os critérios
+RECIST. Desfechos adicionais incluíram resposta objetiva, duração da resposta, segurança e sobrevida global. Uma revisão
+independente do desfecho primário foi conduzida também.
+Os resultados desse estudo estão resumidos na Tabela 16.
+Tabela 16. Resultados de eficácia: estudo AVF4095g
+Sobrevida livre de progressão
+Avaliação do investigador* Avaliação do comitê de revisão
+independente
+Placebo + C/G Avastin® + C/G Placebo + C/G Avastin® + C/G
+(n = 242) (n = 242) (n = 242) (n = 242)
+SLP mediana (meses) 8,4 12,4 8,6 12,3
+Razão de risco (IC 95%) 0,484 0,451
+[0,388; 0,605] [0,351; 0,580]
+p < 0,0001 < 0,0001
+ELOV_V03-24 16
+Taxa de resposta objetiva
+Avaliação do investigador Avaliação do comitê de revisão
+independente
+Placebo + C/G Avastin® + C/G Placebo + C/G Avastin® + C/G
+(n = 242) (n = 242) (n = 242) (n = 242)
+% de pacientes com 57,4% 78,5% 53,7% 74,8%
+resposta objetiva
+p < 0,0001
+< 0,0001
+Sobrevida global**
+Placebo + C/G Avastin® + C/G (n = 242)
+(n = 242)
+SG mediana (meses) 32,9 33,6
+Razão de risco (IC 95%) 0,952
+[0,771; 1,176]
+p 0,6479
+* Análise primária.
+** Análise final de sobrevida global realizada com, aproximadamente, 73% de óbitos.
+18,19
+MO22224 (AURELIA) : o estudo MO22224 avaliou a eficácia e a segurança de bevacizumabe em combinação com
+quimioterapia para câncer de ovário recorrente e resistente à platina. O MO22224 é um estudo de fase III, aberto, randomizado,
+de dois braços para avaliar bevacizumabe mais quimioterapia (QT + BV) versus quimioterapia isolada (QT).
+Um total de 361 pacientes foi randomizado neste estudo para receber quimioterapia (paclitaxel, topotecana ou doxorrubicina
+lipossomal peguilada) isolada ou em combinação com bevacizumabe:
+• Braço QT (quimioterapia isolada):
+Paclitaxel 80 mg/m2 via infusão intravenosa por 1 hora nos Dias 1, 8, 15, e 22 a cada 4 semanas.
+o
+Topotecana 4 mg/m2 via infusão intravenosa por 30 minutos nos Dias 1, 8, e 15 a cada 4 semanas. Como
+o
+alternativa, uma dose de 1,25 mg/m2 pode ser administrada por 30 minutos nos Dias 1-5 a cada 3 semanas.
+Doxorrubicina lipossomal peguilada 40 mg/m2 via infusão intravenosa 1 mg/min no Dia 1 somente a cada 4
+o
+semanas. Após o Ciclo 1, a droga pode ser administrada via infusão por 1 hora.
+• Braço QT + BV (quimioterapia mais bevacizumabe):
+A quimioterapia escolhida foi combinada com bevacizumabe 10 mg/kg IV a cada 2 semanas (ou
+o
+bevacizumabe 15 mg/kg a cada 3 semanas se usado em combinação com topotecana 1, 25 mg/m2 nos Dias
+1-5 a cada 3 semanas).
+As pacientes elegíveis tinham câncer de ovário que progrediu dentro de 6 meses da terapia anterior com platina. Se a paciente
+já havia sido incluída em um estudo cego com um agente anti- angiogênico, ela foi randomizada no mesmo estrato daquelas
+pacientes as quais era sabido que tinham recebido previamente um agente anti-angiogênico.
+As pacientes deveriam apresentar expectativa de vida ≥ 12 semanas e não ter recebido radioterapia prévia para pelve ou abdome.
+A maioria das pacientes apresentavam os estádios FIGO IIIC ou IV. A maioria das pacientes em ambos braços apresentaram
+status de desempenho (SD) ECOG de 0 (QT: 56,4% vs. QT + BV: 61,2%). A porcentagem de pacientes com SD ECOG de 1
+ou ≥ 2 foi 38,7% e 5,0% no braço QT, e 29,8% e 9,0% no braço QT + BV. Informação sobre raça existe para 29,3% das pacientes
+e quase todas eram brancas. A idade mediana das pacientes foi 61,0 (faixa: 25 – 84) anos. Um total de 16 pacientes (4,4%) tinha
+> 75 anos. As taxas globais de descontinuação devido aos eventos adversos foram 8,8% no braço QT e 43,6% no braço QT +
+BV (a maioria devido aos eventos adversos graus 2 – 3) e o tempo mediano para descontinuação no braço QT + BV foi 5,2
+meses, comparado com 2,4 meses no braço QT. As taxas de descontinuação devido aos eventos adversos no subgrupo de
+pacientes > 65 anos foram 8,8% no braço QT e 50,0% no braço QT + BV. A razão de risco de SLP foi 0,47 (IC 95%: 0,35;
+0,62) e 0,45 (IC 95%: 0,31; 0,67) para os subgrupos < 65 anos e ≥ 65 anos, respectivamente.
+O desfecho primário foi a sobrevida livre de progressão, incluindo desfechos secundários como a taxa de resposta objetiva e a
+sobrevida global. Os resultados são apresentados na Tabela 17.
+Tabela 17. Resultados de eficácia: estudo MO22224 (AURELIA)
+Desfecho primário
+Sobrevida livre de progressão
+ELOV_V03-24 17
+QT (n = 182) QT + BV (n = 179)
+Mediana (meses) 3,4 6,7
+Razão de risco [IC 95%] 0,379 (0,296, 0,485)
+Valor p < 0,0001
+Desfechos secundários
+Taxa de resposta objetiva*
+QT (n = 144) QT + BV (n = 142)
+% de pacientes com resposta objetiva 18 (12,5%) 40 (28,2%)
+Valor p 0,0007
+Sobrevida global (análise final)**
+QT (n = 182) QT + BV (n = 179)
+Sobrevida global mediana (meses) 13,3 16,6
+Razão de risco [IC 95%] 0,870 (0,678, 1,116)
+Valor p 0,2711
+Todas as análises apresentadas nessa tabela são análises estratificadas
+*Pacientes randomizadas com doença basal mensurável
+**No momento da análise final de sobrevida global (25 Janeiro 2013), 266 pacientes (73,7%) haviam falecido nos
+dois braços de tratamento.
+O estudo atingiu seu objetivo primário de melhora na SLP. Em comparação às pacientes tratadas com quimioterapia
+(paclitaxel, topotecana ou doxorrubicina lipossomal peguilada) isolada no regime recorrente e resistente à platina, as
+pacientes que receberam bevacizumabe na dose de 10 mg/kg a cada 2 semanas (ou bevacizumabe 15 mg/kg a cada 3 semanas,
+se usado em combinação com topotecana 1,25 mg/m2 nos Dias 1-5 a cada 3 semanas) em combinação com quimioterapia
+e continuaram a receber bevacizumabe até a progressão da doença ou toxicidade inaceitável, apresentaram melhora
+estatisticamente significante na SLP. As análises exploratórias de SLP e SG por coorte de quimioterapia (paclitaxel,
+topotecana ou doxorrubicina lipossomal peguilada) estão resumidas na Tabela 18.
+Tabela 18. Análises exploratórias de SLP e SG por coorte de quimioterapia
+QT QT+BV
+Paclitaxel n = 115
+SLP mediana (meses) 3,9 9,2
+Razão de risco (IC 95%) 0,47 (0,31; 0,72)
+SG mediana (meses) 13,2 22,4
+Razão de risco (IC 95%) 0,64 (0,41; 0,99)
+Topotecana n = 120
+SLP mediana (meses) 2,1 6,2
+Razão de risco (IC 95%) 0,28 (0,18; 0,44)
+SG mediana (meses) 13,3 13,8
+Razão de risco (IC 95%) 1,07 (0,70; 1,63)
+Doxorrubicina lipossomal peguilada n = 126
+SLP mediana (meses) 3,5 5,1
+Razão de risco (IC 95%) 0,53 (0,36; 0,77)
+SG mediana (meses) 14,1 13,7
+Razão de risco (IC 95%) 0,91 (0,61; 1,35)
+20
+Câncer de colo do útero
+GOG-0240: a eficácia e a segurança de bevacizumabe em combinação com quimioterapia (paclitaxel e cisplatina ou paclitaxel
+e topotecana), como tratamento de pacientes com câncer de colo do útero persistente, recorrente ou metastático, foram avaliadas
+no estudo GOG-0240, um estudo fase III, multicêntrico, randomizado, de quatro braços.
+Um total de 452 pacientes foi randomizado para receber:
+ELOV_V03-24 18
+● Paclitaxel 135 mg/m2 IV durante 24 horas no Dia 1 e cisplatina 50 mg/m2 IV no Dia 2, a cada três semanas; ou paclitaxel
+175 mg/m2 IV, durante 3 horas no Dia 1 e cisplatina 50 mg/m2 IV no Dia 2, a cada três semanas; ou paclitaxel 175 mg/m2 IV
+durante 3 horas no Dia 1 e cisplatina 50 mg/m2 IV no Dia 1, a cada três semanas.
+● Paclitaxel 135 mg/m2 IV durante 24 horas no Dia 1 e cisplatina 50 mg/m2 IV no Dia 2 + bevacizumabe 15 mg/kg IV
+no Dia 2, a cada três semanas; ou paclitaxel 175 mg/m2 IV durante 3 horas no Dia 1 e cisplatina 50 mg/m2 IV no Dia 2 +
+bevacizumabe 15 mg/kg IV no Dia 2, a cada três semanas; ou paclitaxel 175 mg/m2 IV durante 3 horas no Dia 1 e cisplatina
+50 mg/m2 IV no Dia 1 e bevacizumabe 15 mg/kg IV no Dia 1, a cada três semanas.
+● Paclitaxel 175 mg/m2 durante 3 horas no Dia 1 e topotecana 0,75 mg/m2 durante 30 minutos nos Dias 1 - 3, a cada três
+semanas.
+● Paclitaxel 175 mg/m2 durante 3 horas no Dia 1 e topotecana 0,75 mg/2 durante 30 minutos nos Dias 1 – 3 +
+bevacizumabe 15 mg/kg IV no Dia 1, a cada três semanas.
+Os pacientes elegíveis apresentavam carcinoma de células escamosas, carcinoma adenoescamoso ou adenocarcinoma cervical
+persistente, recorrente ou metastático não passível de tratamento curativo com cirurgia e/ou radioterapia.
+O desfecho de eficácia primário foi a sobrevida global (SG). Os desfechos de eficácia secundários incluíram a sobrevida livre
+de progressão (SLP) e a taxa de resposta objetiva (TRO). Os resultados estão apresentados na Tabela 19.
+Tabela 19. Eficácia geral do tratamento com bevacizumabe (população intenção de tratamento) a partir do estudo GOG-
+0240
+Quimioterapia Quimioterapia + bevacizumabe
+(n = 225) (n = 227)
+Desfecho primário
+6
+Sobrevida global – Análise primária
+1 12,9 16,8
+Mediana (meses)
+Razão de risco [IC 95%] 0,74 [0,58; 0,94]
+5
+(p = 0,0132)
+7
+Sobrevida global – Análise de acompanhamento
+1 13,3 16,8
+Mediana (meses)
+Razão de risco [IC 95%] 0,76 [0,62; 0,94]
+5,8
+(p = 0,0126)
+Desfechos secundários
+6
+Sobrevida livre de progressão – Análise primária
+1 6,0 8,3
+Mediana (meses)
+Razão de risco [IC 95%] 0,66 [0,54; 0,81]
+5
+(p = < 0,0001)
+6
+Melhor resposta global – Análise primária
+2 76 (33,8%) 103 (45,4%)
+Taxa de resposta
+3 [27,6; 40,4] [38,8; 52,1]
+IC 95% para as taxas de resposta
+Diferença nas taxas de resposta 11,60
+IC 95% para a diferença nas taxas de [2,4; 20,8]
+4
+resposta
+Valor p (teste qui-quadrado) 0,0117
+1 Estimativas de Kaplan-Meier.
+2 Pacientes com melhor taxa de resposta completa ou parcial confirmadas.
+3 IC 95% para uma amostra binomial, utilizando método Pearson-Clopper.
+4 Aproximadamente IC 95% para a diferença de duas taxas, utilizando métodoHauck-Anderson.
+5 Teste log-rank (estratificado).
+6 Análise primária realizada com a data de corte de 12/12/2012, a qual é considerada a análise final.
+7 Análise de acompanhamento realizada com a data de corte de 07/03/2014.
+8 Valor de p apresentado apenas com propósito descritivo.
+ELOV_V03-24 19
+Tabela 20. Resultado de eficácia: dupla com platina versus dupla sem platina
+Topotecana + Paclitaxel com ou sem Cisplatina + Paclitaxel com ou sem
+Avastin® Avastin®
+(n = 223) (n = 229)
+Sobrevida global
+a 13,3 15,5
+Mediana (meses)
+Razão de risco [IC 95%] 1,15 [0,91; 1,46]
+Valor p = 0,23
+a
+Estimativas de Kaplan-Meier.
+A razão de risco para SG com cisplatina + paclitaxel + Avastin® comparado com cisplatina + paclitaxel sozinho foi 0,72 (IC
+95%: 0,51;1,02). A razão de risco para SG com topotecana + paclitaxel + Avastin® comparado com topotecana + paclitaxel
+sozinho foi 0,76 (IC 95%: 0,55;1,06).
+Tabela 21. Análise estratificada de sobrevida global (SG) e livre de progressão (SLP) por tipo de tratamento
+Comparação do Outro fator SLP SG – SG - Análise de
+tratamento Razão de Risco (IC 1 2
+Análise primária acompanhamento
+95%) Mediana
+Razão de Risco (IC Razão de Risco (IC
+(meses); Valor de p
+95%) 95%) Mediana
+Mediana (meses); (meses); Valor de
+Valor de p p
+Com bevacizumabe Topotecana + 0,71 (0,53;0,95) 0,76 (0,55;1,06) 0,79 (0,59; 1,07)
+versus Paclitaxel 7,4 vs. 4,9; 14,9 vs. 11,9; 16,2 vs. 12,0;
+Sem bevacizumabe p = 0,0226 p = 0,1061 p = 0,1342
+Cisplatina + Paclitaxel 0,57 (0,42; 0,78) 0,72 (0,51;1,02) 0,75 (0,55; 1,01)
+9,1 vs. 6,9; 17,5 vs.14,3; 17,5 vs.15,0;
+ELOV_V03-24 20
+p = 0,0003 p = 0,0609 p = 0,0584
+Topotecana + Com bevacizumabe 1,34** (1,00;1,79) 1,15* (0,82;1,61) 1,15
+(0,85;1,56)
+Paclitaxel versus 7,4 vs. 9,1; 14,9 vs. 17,5; 16,2 vs. 17,5;
+Cisplatina + Paclitaxel p = 0,0513 p = 0,4146 p = 0,3769
+Sem bevacizumabe 1,20** (0,90;1,60) 1,13* (0,81;1,57) 1,08
+11,9 vs.14,3; (0,80; 1,45)
+4,9 vs. 6,9; p = 0,4825 12,0 vs. 15,0;
+p = 0,2135 p = 0,6267
+1Análise primária realizada com a data de corte de 12/12/2012, a qual é considerada a análise final.
+2Análise de acompanhamento realizada com a data de corte de 07/03/2014; todos os valores de p estão apresentados apenas com
+propósito descritivo.
+* Embora a mediana de SG tenha sido numericamente maior no grupo de quimioterapia contendo platina, comparado com o
+grupo de quimioterapia sem platina, para ambas comparações (com e sem a adição de bevacizumabe), os valores de p log-rank
+não foram estatisticamente significativos para ambas comparações, indicando que o regime de quimioterapia com topotecana
+não foi superior ao regime de platina.
+** A comparação das razões de risco Cis + Pac versus Top + Pac e Cis + Pac + Bv versus Top+ Pac+ Bv foram 1,20 (IC 95%:
+0,90; 1,60; valor de p = 0,2135) e 1,34 (IC 95%: 1,00; 1,79; valor de p = 0,0513),
+respectivamente, que não são estatisticamente significativos.
+A Tabela 21 apresenta uma redução de 24% no risco de morte no braço Top+ Pac+ Bv, comparado com o braço Top + Pac (RR
+= 0,76 [IC 95%: 0,55; 1,06]; 14,9 versus 11,9 meses, p = 0,1061), e foi observada uma redução de 28% no risco de morte no
+braço Cis+Pac+Bv, comparado com o braço Cis + Pac (RR = 0,72 [IC 95%: 0,51; 1,02]; 17,5 versus 14,3 meses, p = 0,0609).
+O aumento da SG para cada comparação não atingiu significância estatística, contudo o estudo não foi desenhado para essas
+comparações e as razões de risco para os braços Cis + Pac versus Cis+Pac+Bv e Top + Pac versus Top+Pac+Bv indicam que a
+adição de bevacizumabe teve magnitude semelhante de benefício, quando adicionado a qualquer um dos regimes
+quimioterápicos.
+Câncer de pulmão não pequenas células (CPNPC) não escamoso estadio IIIB/IV em primeira linha de tratamento e na
+recidiva: estudo de comparabilidade entre Elovie® (bevacizumabe) e o medicamento comparador (Avastin®).30
+Estudo STELLA: estudo multicêntrico, multinacional, duplo-cego, controlado, randomizado 1:1 e confirmatório, para
+confirmar a similaridade clínica entre Elovie® e o bevacizumabe referência (Avastin®), ambos combinados com carboplatina e
+paclitaxel, em pacientes com CPNPC não escamoso estadio IIIB/IV. Elovie® ou Avastin® associados a quimioterapia foram
+administrados a cada 3 semanas por 6 ciclos, exceto se houvesse progressão da doença ou intolerância ao tratamento do estudo.
+Após 6 ciclos de tratamento os pacientes poderiam continuar a receber Elovie® ou Avastin® a cada 3 semanas até evidência de
+progressão da doença ou até toxicidade inaceitável. O objetivo primário foi avaliar a eficácia por meio da taxa de resposta
+objetiva (TRO) na semana 18. Os objetivos secundários foram eficácia avaliada por SLP e SG e segurança nas semanas 18 e 52
+e imunogenicidade na semana 52. As doses das medicações foram Elovie® ou bevacizumabe referência 15 mg/kg IV a cada 3
+semanas no D1, paclitaxel 200 mg/m2IV a cada 3 semanas no D1 por 6 ciclos e carboplatina com dose calculada pela AUC IV
+a cada 3 semanas no D1 por 6 ciclos. Após o sexto ciclo, os pacientes receberam Elovie® ou bevacizumabe referência em
+monoterapia até progressão da doença, intolerância ao tratamento, morte, abandono do paciente ou fim do estudo na semana 52.
+Foram randomizados 627 pacientes, 315 no grupo Elovie® e 312 no grupo bevacizumabe referência. Destes, 598 pacientes
+(95,4%) tinham doença mensurável ao diagnóstico e receberam Elovie® (n=303) ou Avastin® (n=295). Na semana 18, a TRO
+foi comparável entre os grupos de tratamento com Elovie® ou bevacizumabe referência, com razão de risco (RR) 0,91 (IC90%,
+0,78 a 1,06) e diferença de risco (DR) -4,02 (IC90%, -10,51 a 2,47). O valor da RR está dentro da margem de similaridade
+preconizada pela FDA (0,73 a 1,36) e o valor da DR dentro da margem de similaridade preconizada pela EMA (-12%, +12%).
+Se considerar o IC95% 0,758 a 1,092 para RR e IC95% -11,76 a 3,71 para DR, estes valores também estão dentro da margem
+de similaridade preconizada pela FDA e pela EMA, respectivamente (Tabela 22).
+Tabela 22: Taxa de Resposta Objetiva na semana 18 – população com intenção de tratar
+® Elovie® Total
+Avastin
+n=315 n=627
+n=312
+Resposta global – Semana 18, n (%)
+Resposta completa 3 (1,0) 6 (1,9) 9 (1,4)
+ELOV_V03-24 21
+Resposta parcial 136 (43,6) 121 (38,4) 257 (41,0)
+Doença estável 53 (17,0) 54 (17,1) 107 (17,1)
+Doença progressina 23 (7,4) 19 (6,0) 42 (6,7)
+Não avaliado 0 1 (0,3) 1 (0,2)
+Descontinuação precoce 97 (31,1) 114 (36,2) 211 (33,6)
+Resposta objetiva – Semana 18
+Respondedor, n (%) 139 (44,6) 127 (40,3) 266 (42,4)
+IC95% (39,0, 50,3) (34,9, 46,0) (38,5, 46,4)
+Não-respondedor, n (%) 173 (55,4) 188 (59,7) 361 (57,6)
+TRO Razão de risco 0,910
+IC90% (0,780, 1,060)
+IC 95% (0,758, 1,092)
+TRO Diferença de Risco (%) -4,02
+IC90% (-10,51, 2,47)
+IC95% (-11,76, 3,71)
+Fonte: Adaptado de Clinical study report: final analysis. STELLA. 30
+Não houve diferença significante entre os braços de tratamento na SLP e na SG nas semanas 18 e 52. A SLP para o grupo
+Elovie® foi de 36 semanas (IC95% 33,00 a 36,43) e para o grupo Avastin® foi de 37,3 semanas (IC95% 36,14 a 45,14), RR
+1,199 (IC95% 0,986 a 1,459). A SG para o grupo Elovie® foi de 46,49 semanas e para o grupo Avastin® foi 48,51 semanas, RR
+1,118 (0,834 a 1,499). Ao final do estudo 71,1% dos pacientes do grupo Elovie® e 71,2% do grupo Avastin® estavam vivos
+(Figura 2).
+Figura 2. Sobrevida global - Curva de Kaplan-Meier - Conjunto de Intenção de Tratamento
+30
+Fonte: Adaptado de Clinical study report: final analysis. STELLA.
+Os resultados do estudo STELLA mostraram que o Elovie® e o bevacizumabe referência são altamente similares em termos de
+eficácia.
+Referências bibliográficas
+1. Hurwitz H, Fehrenbacher L, Novotny W et al. Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic
+colorectal cancer. NEJM 2004;350(23):2335-42.
+2. Kabbinavar FF, Hurwitz HI, Fehrenbacher L, et al. Phase II, randomized trial comparing bevacizumab plus fluorouracil
+(FU)/leucovorin(LV) with FV/LV alone in patients with metastatic colorectal cancer. JCO 2003;21:60-5.
+3. Kabbinavar FF, Schulz J, McCleod M, et al. Addition of bevacizumab to bolus fluorouracil and leucovorin in first-line
+metastatic colorectal cancer: results of a randomized phase II trial. JCO 2005;23(16):3697- 3705.
+ELOV_V03-24 22
+4. Saltz LB, Clarke S, Díaz-Rubio E, et al. Bevacizumab in combination with oxaliplatin-based chemotherapy as first-line
+therapy in metastatic colorectal cancer: a randomized phase III study. JCO 2008;26(12):2013- 19.
+5. Giantonio BJ, Catalano PJ, Meropol NJ et al. Bevacizumab in combination with oxaliplatin, fluorouracil, and leucovorin
+(FOLFOX4) for previously treated metastatic colorectal cancer: results from Eastern Cooperative Oncology Group Study
+E3200. JCO 2007;25(12):1539-44.
+6. Lyons B. & Raimes D. A.
+Clinical Study Report E4599. A randomised phase II/III trial of paclitaxel plus carboplatin with or without bevacizumab in
+patients with advanced nonsquamous NSCLC.
+7. Bourson A. Clinical Study Report – BO17704: A randomized, double-blind multicenter 2-stage phase III study of
+bevacizumab in combination with cisplatin and gemcitabine versus placebo, cisplatin and gemcitabine in patients with advanced
+or recurrent non-squamous non-small cell lung cancer, who have not received prior chemotherapy. Research Report 1023798.
+8. Clinical Study Report Addendum – BO17704 Report n° 1028245, September 2008.
+9. Zheng B., Klencke, B., Mackey H. & Hambleton J.
+Clinical Study Report E2100: A Randomized Phase lll Trial of Paclitaxel plus Bevacizumab (rhuMAb VEGF) as First-Line
+Therapy for Locally Recurrent or Metastatic Breast Cancer. May 2006.
+10. Updated Clinical Study Report E2100.
+11. Hainsworth JD, et al. Treatment of metastatic renal cell carcinoma with a combination of bevacizumab and erlotinib. JCO
+2005; 23:7889-7896.
+12. Board RE, et al. Anti-angiogenic therapy in the treatment of advanced renal cell cancer. Cancer Treatment Reviews 2007,
+33: 1-8.
+13. Clinical Study Report – GOG-0218: A phase III trial of carboplatin and paclitaxel plus placebo versus carboplatin and
+paclitaxel plus concurrent bevacizumab followed by placebo, versus carboplatin and paclitaxel plus concurrent and extended
+bevacizumab, in women with newly diagnosed, previously untreated, stage III or IV, epithelial ovarian, primary peritoneal or
+fallopian tube cancer. November 2010.
+14. Clinical Study Report – BO17707 (ICON7): A randomised, two-arm, multi-centre Gynaecologic Cancer InterGroup
+trial of adding bevacizumab to standard chemotherapy (carboplatin and paclitaxel) in patients with epithelial ovarian cancer.
+Report No. 1035868. November 2010.
+15. Updated Clinical Study Report - BO17707 (ICON7). Report No. 1057229. October 2013.
+16. Clinical Study Report AVF4095g: A Phase III, multicenter, randomized, blinded, placebo-controlled trial of carboplatin
+and gemcitabine plus bevacizumab in patients with platinum-sensitive recurrent ovary, primary peritoneal, or fallopian tube
+carcinoma. Genentech, Inc., Report No. CSR AVF4095g (OCEANS), July 2011.
+17. Updated Clinical Study Report – AVF4095g. Report No. 1057545. November 2013.
+18. Clinical Study Report MO22224: Open-label, randomized, two-arm Phase III evaluation of bevacizumab plus
+chemotherapy (CT+BV) versus chemotherapy (CT) alone. Report No. 1054737. July 2013.
+19. Research Report No. 1060440 – Erratum Clinical Study Report – M022224. May 2014.
+20. Krishnansu S. Tewari, Michael W. Sill, Harry J. Long, et al. Improved Survival with Bevacizumab in Advanced Cervical
+Cancer. N Engl J Med 2014;370:734-43.
+21. Clinical Study Report ML18147: A Randomized, Open-Label Phase III Intergroup Study: Effect of Adding Bevacizumab
+to Cross over Fluoropyrimidine Based Chemotherapy (CTx) in Patients with Metastatic Colorectal Cancer and Disease
+Progression under First-Line Standard CTx/Bevacizumab Combination. F. Hoffmann-La Roche AG, Report No. CSR 1045002,
+May 2012.
+22. Clinical Study Report AVF3694g: A multicenter, phase III, randomized, placebo-controlled trial evaluating the efficacy and
+safety of bevacizumab in combination with chemotherapy regimens in subjects with previously untreated metastatic breast
+cancer. Genentech Inc., Report No. CSR AVF3694g, September 14 2009.
+23. Clinical Study Report Addendum: A multicenter, phase III, randomized, placebo-controlled trial evaluating the efficacy
+and safety of bevacizumab in combination with chemotherapy regimens in subjects with previously untreated metastatic breast
+cancer. Genentech Inc., Report No. CSR AVF3694g, September 16, 2009.
+24. Clinical Study Report JO25567: Erlotinib alone or with bevacizumab as first-line therapy in patients with advanced non-
+squamous non-small-cell lung cancer harbouring EGFR mutations: an open-label, randomised, multicentre, phase 2 study.
+Report No. 1061668. 30 September 2014.
+25. Clinical Study Report – GOG-0213 (Roche No. ML01187) – A phase III randomized controlled clinical trial of carboplatin
+and paclitaxel alone or in combination with bevacizumab followed by bevacizumab and secondary cytoreductive surgery in
+platinum-sensitive, recurrent ovarian, peritoneal primary and fallopian tube cancer. Report N0. 1070243. May 2016.
+26. Romera A, Peredpaya S, Shparyk Y, et al. Bevacizumab biosimilar BEVZ92 versus reference bevacizumab in combination
+with FOLFOX or FOLFIRI as first-line treatment for metastatic colorectal cancer: a multicentre, open-label, randomised
+controlled trial. Lancet Gastroenterol Hepatol. 2018;3(12):845‐55.
+27. Clinical study report: final analysis. STELLA – A Randomized, Multicenter, Multinational, Double-Blind Study to Assess
+the Efficacy and Safety of MB02 (Bevacizumab Biosimilar Drug) Versus Avastin® in Combination with Carboplatin and
+ELOV_V03-24 23
+Paclitaxel for the Treatment of Subjects with Stage IIIB/IV Non-squamous Non-Small Cell Lung Cancer (NSCLC). MB02-C-
+02-17.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Elovie® é o nome comercial de bevacizumabe, um anticorpo monoclonal humanizado recombinante, produzido por tecnologia
+de DNA recombinante em um sistema de expressão de célula de mamífero de ovário de hamster chinês e é purificado por um
+processo que inclui inativação viral específica e etapas de remoção.
+Propriedades farmacodinâmicas
+Mecanismo de ação: bevacizumabeé um anticorpo monoclonal humanizado recombinante que se liga e neutraliza seletivamente
+a atividade biológica do fator de crescimento do endotélio vascular humano (VEGF). O bevacizumabe contém regiões
+estruturais humanas, com regiões ligantes de antígenos de um anticorpo murino humanizado, que se liga ao VEGF. O
+bevacizumabeinibe a ligação de VEGF a seus receptores, Flt-1 e KDR, na superfície das células endoteliais. A neutralização
+da atividade biológica do VEGF reduz a vascularização de tumores, inibindo, assim, o crescimento tumoral. A administração de
+bevacizumabe (ou de seu anticorpo murino original) a modelos de xenoenxerto de câncer em camundongos resultou em atividade
+antitumoral extensa em cânceres humanos, incluindo câncer colorretal, mama, pâncreas e próstata. A progressão da doença
+metastática foi inibida, e a permeabilidade microvascular foi reduzida.
+Propriedades farmacocinéticas
+A farmacocinética de bevacizumabe foi caracterizada em pacientes com diversos tipos de tumores sólidos. As doses testadas
+foram 0,1 – 10 mg/kg a cada semana, em fase I; 3 – 20 mg/kg a cada duas ou três semanas, em fase II; 5 mg/kg a cada duas
+semanas, ou 15 mg/kg a cada três semanas, em fase III. Em todos os estudos clínicos, bevacizumabe foi administrado em infusão
+intravenosa (IV). Como observado com outros anticorpos, as propriedades farmacocinéticas de bevacizumabe são bem
+representadas por um modelo bicompartimental. De modo geral, com base nos estudos clínicos, a distribuição de bevacizumabe
+foi caracterizada por baixa depuração, volume limitado do compartimento central (Vc) e meia-vida de eliminação prolongada.
+Isso permite que os níveis séricos terapêuticos desejados de bevacizumabe sejam mantidos com uma variação do esquema de
+administração (tal como uma administração a cada duas ou três semanas).
+Em uma meta-análise farmacocinética populacional, não foi constatada diferença significativa na farmacocinética de
+bevacizumabe em relação à raça, quando o peso corporal é considerado, ou em relação à idade (nenhuma correlação entre a
+depuração de bevacizumabe e a idade do paciente [a mediana foi de 59 anos, com IC 95% de 37 a 76 anos]).
+Grande impacto clínico da doença e hipoalbuminemia são geralmente indicativos de sua gravidade. A depuração de
+bevacizumabe foi, aproximadamente, 30% maior em pacientes com níveis baixos de albumina sérica e 7% maior em pacientes
+com maior impacto clínico da doença, em comparação a pacientes com valores medianos de albumina e impacto clínico da
+doença.
+Distribuição: o valor do volume do compartimento central (Vc) foi de 2,73 litros e 3,28 litros para mulheres e homens,
+respectivamente, sendo essa a faixa descrita para IgGs e outros anticorpos monoclonais. O valor do volume periférico (Vp) foi
+de 1,69 litro e 2,35 litros para mulheres e homens, respectivamente, quando bevacizumabe é coadministrado com agentes
+antineoplásicos. Após a correção para o peso corporal, os homens apresentaram Vc maior (+ 20%) que as mulheres.
+Metabolismo: a avaliação do metabolismo de bevacizumabe em coelhos após dose única IV de I125- bevacizumabe indicou
+que seu perfil metabólico foi semelhante ao esperado para uma molécula de IgG original que não se liga ao VEGF. O
+metabolismo e a eliminação de bevacizumabe são similares ao da IgG endógena, ou seja, dão-se, principalmente, por meio do
+catabolismo proteolítico em todo o corpo, inclusive nas células endoteliais, e não dependem fundamentalmente da eliminação
+por meio dos rins e do fígado. A ligação da IgG ao receptor FcRn a protege do metabolismo celular e resulta na meia-vida
+terminal longa.
+Eliminação: a farmacocinética de bevacizumabe é linear em doses de 1,5 até 10 mg/kg/semana.
+O valor para a depuração é, em média, igual a 0,188 L/dia para mulheres e 0,220 L/dia para homens. Após a correção para o
+peso corporal, os homens apresentaram depuração de bevacizumabe maior (+ 17%) que as mulheres. Conforme o modelo
+bicompartimental, a meia-vida de eliminação é de 18 dias para um típico paciente feminino e de 20 dias para um típico paciente
+masculino.
+Farmacocinética em populações especiais
+As farmacocinéticas populacionais foram analisadas para avaliar os efeitos das características demográficas. Os resultados
+mostraram não haver diferenças significativas na farmacocinética de bevacizumabe em relação à idade.
+População pediátrica: a farmacocinética de bevacizumabe foi estudada em um número limitado de pacientes pediátricos. Os
+dados farmacocinéticos resultantes sugerem que o volume de distribuição e a depuração de bevacizumabe foram comparáveis
+aos de adultos com tumores sólidos.
+Pacientes com disfunção renal: não foram realizados estudos para investigar a farmacocinética de bevacizumabe em pacientes
+com disfunção renal, já que os rins não são os principais órgãos do metabolismo e de excreção de bevacizumabe.
+ELOV_V03-24 24
+Pacientes com disfunção hepática: não foram realizados estudos para investigar a farmacocinética de bevacizumabe em
+pacientes com disfunção hepática, já que o fígado não é o principal órgão do metabolismo e da excreção de bevacizumabe.
+Características farmacológicas do Elovie®
+Elovie® foi desenvolvido como um medicamento biossimilar a Avastin® (bevacizumabe). O Elovie® é um anticorpo monoclonal
+recombinante humanizado IgG, subclasse IgG1, que se liga seletivamente com alta afinidade a todas as isoformas do VEGF e
+neutraliza sua atividade biológica, impedindo que o VEGF se ligue aos seus receptores localizados na superfície das células
+endoteliais e, consequentemente, inibe o crescimento do tumor e retarda a metástase. O mecanismo de ação de bevacizumabe
+através da inibição da angiogênese devido a ligação e neutralização do VEGF é o mesmo para todas as indicações em bula.
+Elovie® é produzido por tecnologia de DNA recombinante em um sistema de expressão de célula de mamífero de ovário de
+hamster chinês. 1
+Os resultados das extensas caracterizações físico-químicas, estruturais e biológicas e dos estudos pré-clínicos comparativos
+indicam um alto grau de similaridade entre Elovie® e Avastin®. Além disso, a biossimilaridade também foi demonstrada através
+de testes funcionais in vitro e estudos em animais in vivo. 1
+O estudo MB02-A-05-18 fase I, randomizado 1:1:1, duplo-cego, de três braços comparou a farmacocinética, segurança e
+imunogenicidade entre Elovie®, Avastin® licenciado nos Estados Unidos e Avastin® licenciado na Europa em voluntários
+saudáveis do sexo masculino entre 18 e 55 anos. Os participantes do estudo receberam dose única de Elovie®, Avastin® (EUA)
+e Avastin® (Europa) na dose de 3 mg/kg IV em infusão de 90 minutos. A análise estatística confirmou que os dados PK entre
+as Elovie®, Avastin® (EUA) e Avastin® (Europa) são semelhantes para AUC , C e AUC , uma vez que o IC90% para
+(0-∞) max (0-t)
+os mínimos quadrados geométricos estavam dentro dos limites de bioequivalência predefinidos de 0,80 a 1,25. A concentração
+sérica de bevacizumabe versus perfis de tempo após a infusão IV foi semelhante entre os tratamentos Elovie®, Avastin® (EUA)
+e Avastin® (Europa), diminuindo lentamente de forma bifásica com valores t médios geométricos de 443 horas (18,46 dias),
+1/2
+458 horas (19,08 dias) e 429 horas (17,9 dias), respectivamente (Figuras 3 e 4).2
+Figura 3. Perfis de tempo de concentração sérica média aritmética de bevacizumabe após dose única intravenosa de
+Elovie®, Avastin® EUA e Avastin® Europa em indivíduos saudáveis do sexo masculino até o dia 14 do estudo (escala
+linear e semilogarítmica) (população PK)
+2
+Fonte: Estudo MB02-A-05-18 (NCT04238663; EudraCT Number: 2019-001894-10).
+Figura 4. Perfis de tempo de concentração sérica média aritmética de bevacizumabe após dose única intravenosa de
+Elovie®, Avastin® EUA e Avastin® Europa em indivíduos saudáveis do sexo masculino ao longo de todos os dias (escala
+linear e semilogarítmica) (população PK)
+ELOV_V03-24 25
+Fonte: Estudo MB02-A-05-18 (NCT04238663; EudraCT Number: 2019-001894-10). 2
+A imunogenicidade foi avaliada nos 114 indivíduos incluídos no estudo. A maioria dos indivíduos não desenvolveu anticorpos
+antidrogas (ADA) e naqueles que testaram positivo para ADA, a maioria foi transitória e com título baixo, sem efeito na
+farmacocinética ou segurança. A incidência de ADA foi semelhante nos três braços do estudo.2
+O estudo das propriedades farmacodinâmicas também demonstrou alta similaridade na atividade biológica do Elovie® e
+bevacizumabe referência, demonstrada por similaridade nos seguintes itens:1
+- Atividade de ligação específica a variantes do tipo antígeno VEGF (foi estudada a ligação às variantes VEGF- A,
+VEGF121a, VEGF165 e VEGF189);
+- Atividade de neutralização semelhante ao VEGF;
+- Comparação de lotes de Elovie® e bevacizumabe referência pelo bioensaio HUVEC (Células Endoteliais Vasculares
+Umbilicais Humanas);
+- Atividade de ligação ao receptor neonatal (FcRn), preditiva de comportamento farmacocinético semelhante;
+- Ligação a receptores efetores da função (FcR);
+- Ligação ao complemento (C1q).
+1. Dossiê de registro, 2020
+2. A Randomized, Double-Blind, Three-Arm, Single Dose, Parallel Study To Compare the Pharmacokinetics, Safety and
+Immunogenicity of MB02 (Bevacizumab Biosimilar Drug), US licensed Avastin® and EU-approved Avastin® in Healthy Male
+Volunteers (Sponsor ref No.: MB02-A-05-18; NCT04238663; EudraCT Number: 2019-001894-10)
+Dados de segurança não-clínica
+Desenvolvimento epifisário: em estudos com até 26 semanas de duração em macacos cynomolgus, Avastin® esteve associado
+à displasia epifisária, caracterizada principalmente por espessamento da cartilagem da placa de crescimento, formação de placa
+óssea subcondral e inibição de invasão vascular da placa de crescimento. Esse efeito ocorreu em doses ≥ 0,8 vez a dose
+terapêutica humana e níveis de exposição discretamente abaixo da exposição clínica humana esperada, com base em
+concentrações séricas médias. Deve-se notar, no entanto, que a displasia epifisária ocorreu apenas em animais em crescimento
+ativo, com placas de crescimento abertas. Cicatrização de feridas: os efeitos de bevacizumabe sobre cicatrização de feridas
+circulares foram estudados em coelhos. A reepitelização de feridas foi retardada em coelhos após cinco doses de bevacizumabe
+de 2 a 50 mg/kg, durante duas semanas. Foi observada tendência a relação dose dependente. A magnitude do efeito sobre a
+cicatrização de feridas foi semelhante à observada com a administração de corticoides. Ao cessar o tratamento com 2 ou 10 mg/kg
+de bevacizumabe, as feridas fecharam-se completamente. A menor dose, 2 mg/kg, foi equivalente, aproximadamente, à dose
+terapêutica proposta. Um modelo mais sensível de cicatrização de ferida linear também foi estudado em coelhos. A
+administração de três doses de bevacizumabe, variando de 0,5 a 2 mg/kg, reduziu, de forma dose dependente e
+ELOV_V03-24 26
+significativamente, a tensão da ferida, o que foi compatível com o retardo da cicatrização da ferida. A menor dose, 0,5 mg/kg,
+foi cinco vezes menor que a dose terapêutica proposta.
+Como foram observados efeitos sobre cicatrização de feridas em coelhos com doses abaixo da dose terapêutica proposta, a
+capacidade de bevacizumabe exercer impacto adverso sobre cicatrização de feridas no homem deve ser considerada.
+Em macacos cynomolgus, os efeitos de bevacizumabe sobre a cicatrização de incisão linear foram altamente variáveis, e a
+relação entre a dose e a resposta não ficou evidente.
+Função renal: em macacos cynomolgus normais, bevacizumabe não apresentou nenhum efeito mensurável sobre a função renal,
+quando administrado uma ou duas vezes por semana, durante até 26 semanas, e não se acumulou nos rins de coelhos depois de
+duas doses de até 100 mg/kg (aproximadamente 80 vezes maior que a dose terapêutica proposta).
+Estudos de pesquisa de toxicidade em coelhos, usando os modelos de disfunção renal, mostraram que bevacizumabe não
+exacerbou a lesão glomerular renal induzida por albumina de soro bovino ou a lesão tubular renal induzida por cisplatina.
+Albumina: em macacos cynomolgus machos, bevacizumabe, administrado em doses de 10 mg/kg, duas vezes por semana, ou
+50 mg/kg, uma vez por semana, durante 26 semanas, foi associado à redução estatisticamente significativa da albumina, da
+razão entre albumina e globulina e aumento da globulina.
+Esses efeitos foram reversíveis com a interrupção da exposição. Como os parâmetros permaneceram dentro do intervalo de
+referência normal de valores para esses desfechos, essas alterações não foram consideradas clinicamente significativas.
+Hipertensão: em doses de até 50 mg/kg, duas vezes por semana, em macacos cynomolgus, bevacizumabe não apresentou
+nenhum efeito sobre a pressão arterial.
+Hemostasia: estudos de toxicologia não clínica de até 26 semanas em macacos cynomolgus não encontraram alterações
+hematológicas ou nos parâmetros de coagulação, incluindo número de plaquetas, tempo de protrombina e tromboplastina parcial
+ativada. Um modelo de hemostasia em coelhos, usado para pesquisar o efeito de bevacizumabe sobre a formação de trombos,
+não demonstrou alteração na velocidade de formação de trombos ou nenhum outro parâmetro hematológico, em comparação ao
+tratamento com veículo de bevacizumabe.
+4. CONTRAINDICAÇÕES
+Elovie® é contraindicado a pacientes com hipersensibilidade conhecida a qualquer componente do produto, a produtos de células
+de ovário de hamster chinês ou a outros anticorpos recombinantes humanos ou humanizados.
+Gravidez e lactação
+Categoria de risco na gravidez: C.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista. Foi
+demonstrado que a angiogênese é muito importante para o desenvolvimento fetal. A inibição da angiogênese com a administração
+de Elovie® pode causar resultado adverso na gravidez.
+Não houve nenhum estudo adequado e bem controlado em gestantes (vide item “Advertências e precauções- Toxicidade
+reprodutiva”). Sabe-se que IgGs cruzam a barreira placentária e que Elovie® pode inibir a angiogênese no feto. No período pós-
+comercialização de Avastin® foram observados casos de anormalidades fetais em mulheres tratadas com bevacizumabe isolado
+ou em combinação com quimioterápicos embriotóxicos já conhecidos (vide item “Reações adversas – Experiência pós-
+comercialização”). Portanto, Elovie® não deve ser usado durante a gravidez.
+Contracepção
+Em mulheres com potencial para engravidar, medidas contraceptivas adequadas devem ser utilizadas durante o tratamento com
+Elovie®. Com base em considerações farmacocinéticas, as medidas contraceptivas devem ser utilizadas durante, pelo menos,
+seis meses depois da última dose de Elovie®.
+Fertilidade
+O Elovie® pode prejudicar a fertilidade feminina. As mulheres com potencial para engravidar devem ser aconselhadas sobre as
+estratégias de preservação da fertilidade antes de iniciar o tratamento com Elovie® (vide “Advertências e Precauções”).
+Estudos de segurança com doses repetidas em animais demonstraram que bevacizumabe pode ocasionar efeitos adversos na
+fertilidade feminina. Um subgrupo com 295 mulheres pré-menopausadas demonstrou alta incidência de novos casos de
+insuficiência ovariana no grupo Avastin®, comparado ao grupo controle. Após descontinuação do tratamento com
+bevacizumabe, as funções ovarianas foram recuperadas na maioria das pacientes. Os efeitos do tratamento com bevacizumabe
+a longo prazo são desconhecidos.
+Lactação
+Este medicamento é contraindicado para uso por lactantes.
+ELOV_V03-24 27
+Não se sabe se bevacizumabe é excretado no leite humano. Como a IgG materna é excretada no leite, Elovie® pode prejudicar
+o crescimento e o desenvolvimento do lactente. Portanto, as mulheres devem ser orientadas a interromper o aleitamento materno
+durante o tratamento e a não amamentar durante, pelo menos, seis meses depois da última dose de Elovie®.
+Uso contraindicado no aleitamento ou na doação de leite humano: Este medicamento é contraindicado durante o
+aleitamento ou doação de leite, pois é excretado no leite humano e pode causar reações indesejáveis no bebê. Seu médico
+ou cirurgião-dentista deve apresentar alternativas para o seu tratamento ou para a alimentação do bebê.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Gerais
+Para aumentar a rastreabilidade dos medicamentos biológicos, o nome comercial e o número de lote do produto administrado
+devem ser claramente registrados (ou declarados) no prontuário médico do paciente.
+Perfurações gastrintestinais e fístulas
+Pacientes podem estar sob risco aumentado para desenvolvimento de perfuração gastrintestinal (vide item “Reações adversas”)
+e de vesícula biliar (vide itens “Reações adversas” e “Experiência Pós-comercialização”) quando tratados com Elovie®.
+Elovie® deve ser suspenso permanentemente em pacientes que desenvolverem perfuração gastrintestinal. Pacientes em
+tratamento com Elovie® para câncer de colo do útero persistente, recorrente ou metastático podem apresentar risco aumentado
+de fístula entre a vagina e qualquer parte do trato gastrintestinal (fístula gastrintestinal-vaginal) (vide item “Reações adversas”).
+Radiação prévia é um fator de risco para perfuração gastrintestinal e para fístula gastrintestinal-vaginal em pacientes tratadas
+com Elovie® para câncer de colo do útero persistente, recorrente ou metastático, e todas as pacientes com perfuração
+gastrintestinal e fístula gastrintestinal-vaginal apresentaram histórico de radiação prévia.
+Fístula não gastrintestinal (vide item “Reações adversas”)
+Os pacientes podem ter risco aumentado para o desenvolvimento de fístula quando tratados com Elovie®.
+O tratamento com Elovie® deve ser permanentemente descontinuado em pacientes com fístula traqueoesofágica ou qualquer
+fístula grau 4. A informação disponível ainda é limitada quanto ao uso contínuo de Elovie® em pacientes com outros tipos de
+fístula. Em casos de fístula interna não gastrintestinal, a descontinuação de Elovie® deve ser considerada.
+Hemorragia (vide item “Reações adversas”)
+Pacientes tratados com Elovie® apresentam risco aumentado de hemorragia, especialmente hemorragias associadas ao tumor.
+Elovie® deve ser suspenso definitivamente em pacientes que apresentarem sangramento graus 3 ou 4 durante o tratamento.
+Hemorragia grave ou fatal, incluindo hemoptise, sangramento gastrintestinal, hemorragia do SNC, epistaxe e sangramento
+vaginal ocorrem até cinco vezes mais frequentemente em pacientes recebendo Elovie®, em comparação a pacientes recebendo
+apenas quimioterapia.
+Baseando-se em diagnósticos por imagens, sinais ou sintomas, pacientes com metástases no SNC não tratados foram
+rotineiramente excluídos dos ensaios clínicos com Elovie®. Portanto, o risco de hemorragia no SNC em tais pacientes não foi
+avaliado prospectivamente em estudos clínicos randomizados. Os pacientes devem ser monitorados quanto a sinais e sintomas
+de sangramento no SNC, e o tratamento com Elovie® deve ser interrompido em caso de sangramento intracraniano.
+Não existe nenhuma informação sobre o perfil de segurança de Elovie® em pacientes com diátese hemorrágica congênita,
+coagulopatia adquirida ou que recebem dose plena de anticoagulantes para tratamento de tromboembolismo antes do início do
+tratamento com Elovie®, visto que pacientes com tais condições foram excluídos dos estudos clínicos. Portanto, recomenda-se
+cautela antes de iniciar o tratamento com Elovie® nesses pacientes. No entanto, pacientes que desenvolveram trombose venosa
+enquanto tratados com Elovie® não pareceram apresentar incidência aumentada de sangramento grau 3 ou maior quando tratados
+com dose plena de varfarina e Elovie® concomitantemente.
+Infecções oculares graves após uso intravítreo não aprovado (vide item “Reações adversas”)
+Casos individuais e agrupamentos de eventos adversos oculares graves foram relatados após uso intravítreo não aprovado de
+bevacizumabe, incluindo endoftalmite infecciosa e outras condições inflamatórias oculares, algumas levando à cegueira.
+Hemorragia pulmonar / hemoptise
+Pacientes com câncer de pulmão de não pequenas células tratados com Elovie® podem ter risco de apresentar hemorragia
+pulmonar / hemoptise grave e, em alguns casos, fatal. Pacientes com hemorragia pulmonar / hemoptise recente (> ½ colher de
+chá de sangue) não devem ser tratados com Elovie®.
+Hipertensão
+Foi observada incidência aumentada de hipertensão em pacientes tratados com Elovie®. Dados de segurança clínica sugerem
+que a incidência de hipertensão é, provavelmente, dose dependente. Hipertensão preexistente deve ser adequadamente
+controlada antes de se iniciar o tratamento com Elovie®. Não existem informações sobre o efeito de Elovie® em pacientes com
+ELOV_V03-24 28
+hipertensão não controlada no início do tratamento com Elovie®. O monitoramento da pressão arterial é recomendável durante
+o tratamento com Elovie® (vide item “Reações adversas”).
+Na maioria dos casos, a hipertensão foi adequadamente controlada com terapia anti-hipertensiva padrão baseada na avaliação
+individual do paciente afetado. Elovie® deve ser permanentemente interrompido se a hipertensão não puder ser adequadamente
+controlada com medicamentos anti-hipertensivos ou se o paciente desenvolver crise hipertensiva ou encefalopatia hipertensiva
+(vide item “Reações adversas”).
+Síndrome da Encefalopatia Posterior Reversível (SEPR)
+Houve raros relatos de pacientes tratados com bevacizumabe que tenham desenvolvido sinais e sintomas que são consistentes
+com a SEPR. O diagnóstico de SEPR requer confirmação por imagem do cérebro, preferencialmente por ressonância magnética
+(IRM). Em pacientes que desenvolvem SEPR, o tratamento de sintomas específicos, incluindo controle de hipertensão, é
+recomendado juntamente à descontinuação de bevacizumabe. A segurança da retomada do tratamento com bevacizumabe em
+pacientes que anteriormente tenham apresentado SEPR não é conhecida (vide item “Experiência pós-comercialização”).
+Tromboembolismo arterial
+Em estudos clínicos, a incidência de tromboembolismo arterial, incluindo acidente vascular cerebral, ataque isquêmico
+transitório (AIT) e infarto agudo do miocárdio (IAM), foi maior em pacientes que receberam bevacizumabe em combinação
+com quimioterapia, em comparação aos pacientes que receberam apenas quimioterapia.
+Bevacizumabe deve ser definitivamente interrompido em pacientes que desenvolverem eventos tromboembólicos arteriais.
+Pacientes que recebem Elovie® mais quimioterapia com histórico de tromboembolismo arterial, diabetes ou idade acima de 65
+anos apresentam risco aumentado de desenvolvimento de eventos tromboembólicos arteriais durante o tratamento com Elovie®.
+Recomenda-se cautela ao tratar tais pacientes com Elovie®.
+Tromboembolismo venoso (vide item “Reações adversas”)
+Pacientes sob tratamento com Elovie® podem estar sob risco de desenvolver eventos tromboembólicos venosos, incluindo
+embolia pulmonar.
+Pacientes tratados com Elovie® para câncer de colo do útero persistente, recorrente ou metastático podem estar sob risco
+aumentado de eventos tromboembólicos venosos.
+Elovie® deve ser descontinuado em pacientes com eventos tromboembólicos venosos grau 4 (risco de morte), incluindo embolia
+pulmonar. Pacientes com eventos tromboembólicos venosos grau ≤ 3 necessitam de monitoramento rigoroso.
+Insuficiência cardíaca congestiva (vide item “Reações adversas”)
+Eventos consistentes com insuficiência cardíaca congestiva (ICC) foram relatados em estudos clínicos. Os sintomas variaram
+de declínios assintomáticos na fração da ejeção ventricular esquerda à insuficiência cardíaca congestiva sintomática, exigindo
+tratamento ou hospitalização.
+Deve-se ter cautela ao tratar com Elovie® pacientes com doença cardiovascular clinicamente significativa, tais como doença
+arterial coronariana ou insuficiência cardíaca congestiva preexistente.
+A maioria dos pacientes que desenvolveu ICC sofria de câncer de mama metastático e tinha recebido tratamento prévio com
+antraciclinas, além de radioterapia prévia na parede do hemitórax esquerdo ou outros fatores de risco para ICC estavam
+presentes.
+Nas pacientes do estudo AVF3694g que receberam tratamento com antraciclinas e que não receberam antraciclinas previamente,
+não foi observado aumento da incidência de todos os graus de ICC no grupo antraciclina + bevacizumabe em comparação ao
+grupo em tratamento somente com antraciclinas. Eventos de ICC grau 3 ou maior foram um pouco mais frequentes entre os
+pacientes que receberam bevacizumabe mais quimioterapia em comparação aos pacientes que recebem somente quimioterapia.
+Esse resultado é consistente com os ocorridos em pacientes em outros estudos de câncer de mama metastático que não receberam
+tratamento com antraciclinas concomitantemente.
+Neutropenia
+Índices aumentados de neutropenia grave, neutropenia febril ou infecção com neutropenia grave (incluindo óbito) foram
+observados em pacientes tratados com alguns regimes mielotóxicos de quimioterapia associados ao bevacizumabe, em
+comparação à quimioterapia sem adição de bevacizumabe.
+Cicatrização
+Elovie® pode afetar de forma adversa o processo de cicatrização. Foram relatadas graves complicações na cicatrização com
+consequências fatais.
+O tratamento com Elovie® não deve ser iniciado durante o prazo de, no mínimo, 28 dias depois de cirurgia de grande porte ou
+até que a ferida cirúrgica esteja completamente cicatrizada. Em pacientes com complicações na cicatrização de feridas durante
+ELOV_V03-24 29
+tratamento com Elovie®, o medicamento deve ser suspenso até que a ferida esteja completamente cicatrizada. O tratamento com
+Elovie® deve ser suspenso antes de cirurgia eletiva (vide item “Reações adversas”).
+Fasciite necrosante, incluindo casos fatais, tem sido raramente relatada em pacientes tratados com bevacizumabe. É geralmente
+secundária a complicações na cicatrização, perfuração gastrintestinal ou formação de fístula. Em pacientes que desenvolvam
+fasciite necrosante, deve-se iniciar prontamente o tratamento adequado e interromper o tratamento com Elovie®.
+Proteinúria (vide item “Reações adversas”)
+Em estudos clínicos, a incidência de proteinúria foi maior em pacientes que receberam bevacizumabe em combinação com
+quimioterapia, em comparação àqueles que receberam apenas quimioterapia. Proteinúria grau 4 (síndrome nefrótica) foi
+observada em até 1,4% dos pacientes tratados com bevacizumabe. Em caso de síndrome nefrótica, o tratamento com
+bevacizumabe deve ser permanentemente descontinuado.
+Genotoxicidade / carcinogenicidade
+Não foram realizados estudos para avaliar o potencial carcinogênico e mutagênico de Elovie®.
+Não foram realizados estudos específicos em animais para avaliar o efeito de Elovie® sobre a fertilidade. Não foi observado
+nenhum efeito adverso sobre os órgãos reprodutivos masculinos em estudos de toxicidade com doses repetidas em macacos
+cynomolgus.
+A inibição da função ovariana foi caracterizada por reduções no peso ovariano e / ou uterino e no número de corpos lúteos,
+redução na proliferação endometrial e inibição da maturação folicular em macacas cynomolgus tratadas com Avastin® durante
+13 ou 26 semanas. As doses associadas com esse efeito foram ≥ quatro vezes a dose terapêutica humana ou ≥ duas vezes acima
+da exposição humana esperada, com base nas concentrações séricas médias em macacas. Em coelhas, a administração de 50
+mg/kg de bevacizumabe resultou em redução significativa do peso ovariano e do número de corpos lúteos. Os resultados em
+macacas e coelhas foram reversíveis com a interrupção do tratamento. É provável que a inibição da angiogênese após a
+administração de bevacizumabe resulte em efeito adverso sobre a fertilidade feminina.
+Toxicidade reprodutiva
+Foi demonstrado que bevacizumabe é embriotóxico e teratogênico quando administrado a coelhas. Os efeitos observados
+incluíram reduções de peso materno e fetal, número aumentado de reabsorções fetais e incidência aumentada de alterações
+macroscópicas e esqueléticas fetais específicas. As evoluções fetais adversas foram observadas em todas as doses testadas, de
+10 a 100 mg/kg. Informações sobre as malformações fetais observadas no período de pós-comercialização estão apresentadas
+nos itens “Contraindicações e Reações adversas”.
+Reações de hipersensibilidade, anafiláticas e relacionadas à infusão
+Os pacientes podem ter risco de desenvolver reações à infusão, hipersensibilidade e anafiláticas, incluindo choques anafiláticos).
+É recomendada observação cuidadosa do paciente durante e após a administração de bevacizumabe. Caso alguma reação
+anafilática ocorra, a infusão deve ser permanentemente interrompida, e medidas clínicas apropriadas devem ser aplicadas.
+Se uma reação relacionada à infusão ocorrer, o tratamento deve ser interrompido temporariamente até a resolução dos sintomas.
+A descontinuação permanente deve acontecer em casos de reação severa (grau ≥ 3) relacionada à infusão. A pré-medicação
+sistêmica não se justifica.
+Insuficiência ovariana / fertilidade
+Bevacizumabe pode prejudicar a fertilidade feminina. Dessa forma, antes de iniciar o tratamento com Elovie®, estratégias de
+preservação da fertilidade devem ser discutidas com mulheres com potencial de engravidar.
+Uso geriátrico
+A idade acima de 65 anos está associada a risco aumentado de problemas vasculares arteriais, incluindo derrame cerebral e infarto,
+durante o tratamento com Elovie®.
+Uso pediátrico
+A eficácia e a segurança de Elovie® em pacientes pediátricos e adolescentes com idade abaixo de 18 anos não foram
+estabelecidas.
+Elovie® não é aprovado para uso em pacientes abaixo de 18 anos. Em relatórios publicados, foram observados casos de
+osteonecrose em outros locais além da mandíbula, em pacientes abaixo de 18 anos expostos a Avastin® (vide item “Características
+Farmacológicas - Dados de segurança pré-clínica, Desenvolvimento epifisário”).
+Pacientes com insuficiência hepática ou renal
+A eficácia e a segurança de Elovie® em pacientes com insuficiência renal ou hepática não foram estudadas.
+ELOV_V03-24 30
+Efeitos sobre a capacidade de dirigir veículos ou operar máquinas
+Não foram realizados estudos sobre a capacidade de dirigir veículos ou operar máquinas. No entanto, não existe nenhuma
+evidência de que o tratamento com Elovie® resulte em aumento dos eventos adversos que possam prejudicar a capacidade
+mental ou levar ao comprometimento da capacidade de dirigir veículos ou operar máquinas.
+Até o momento, não há informações de que bevacizumabe possa causar doping.
+Apresentação 100 mg/4 mL: Este medicamento contém 4,62 mg de sódio/4 mL, o que deve ser considerado quando
+utilizado por pacientes hipertensos ou em dieta de restrição de sódio.
+Apresentação 400 mg/16 mL: Este medicamento contém 18,5 mg de sódio/16 mL, o que deve ser considerado quando
+utilizado por pacientes hipertensos ou em dieta de restrição de sódio.
+6. INTERAÇÕES MEDICAMENTOSAS
+Efeito de agentes antineoplásicos na farmacocinética de bevacizumabe
+Com base nos resultados de análises de farmacocinética populacional, não foi observada interação clinicamente relevante da
+quimioterapia coadministrada na farmacocinética de bevacizumabe. Também não houve diferenças clinicamente relevantes nem
+estatisticamente significativas na depuração de bevacizumabe em pacientes que receberam Avastin® em monoterapia, em
+comparação a pacientes que receberam Avastin® em combinação com alfainterferona 2a, erlotinibe ou quimioterapias (IFL, 5-
+FU/LV, carboplatina-paclitaxel, capecitabina, doxorrubicina ou cisplatina / gencitabina).
+Efeito de bevacizumabe na farmacocinética de outros agentes antineoplásicos
+Não foi observada interação clinicamente relevante de bevacizumabe na farmacocinética da coadministração de alfainterferona
+2a, erlotinibe (e seu metabólito ativo OSI-420), ou as quimioterapias de irinotecano (e seu metabólito ativo SN38), capecitabina,
+oxaliplatina (como determinado pela medida de platina livre e total), e cisplatina. Conclusões do impacto de bevacizumabe na
+farmacocinética de gencitabina não podem ser determinadas.
+Combinação de bevacizumabe e maleato de sunitinibe
+Em dois estudos clínicos de carcinoma de células renais metastático, foi relatada anemia hemolítica microangiopática (AHMA)
+em sete dos 19 pacientes tratados com bevacizumabe (10 mg/kg a cada duas semanas) em combinação com maleato de sunitinibe
+(50 mg por dia).
+AHMA é uma doença hemolítica que pode se apresentar com fragmentação de glóbulos vermelhos, anemia e trombocitopenia.
+Adicionalmente, hipertensão (incluindo crise hipertensiva), creatinina elevada e sintomas neurológicos foram observados em
+alguns desses pacientes. Todos esses achados foram reversíveis com a descontinuação de bevacizumabe e maleato de sunitinibe
+(vide item “Advertências e precauções”).
+Radioterapia
+A segurança e a eficácia de administração concomitante de radioterapia e Elovie® não foram estabelecidas.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar em geladeira (de 2 ºC a 8 ºC). Manter na embalagem original para proteger da luz.
+Elovie® não contém nenhum conservante antimicrobiano, portanto, depois de aberto, deve-se tomar cuidado para garantir a
+esterilidade da solução preparada. Depois de misturado com soro fisiológico para administração, o produto deve ser utilizado
+imediatamente.
+Se não utilizado imediatamente, o tempo e as condições de armazenamento são de responsabilidade do usuário, não devendo
+ultrapassar 24 horas em temperatura de 2 ºC a 8 ºC.
+NÃO CONGELAR. NÃO AGITAR.
+Prazo de validade
+Este medicamento possui prazo de validade de 36 meses a partir da data da fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Elovie® em seu frasco-ampola original é um líquido estéril para perfusão intravenosa (IV), incolor ou de coloração levemente
+castanho-clara.
+Antes de usar, observe o aspecto do medicamento.
+ELOV_V03-24 31
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Preparação e administração da solução de infusão
+Utilize seringa e agulha estéreis para o preparo de Elovie®. Dispositivos de transferência de sistema fechado (closed system
+transfer devices – CSTD) não são recomendados para a preparação de Elovie®, uma vez que existem evidências insuficientes
+sobre a compatibilidade desses dispositivos com o produto. Retire a quantidade necessária de Elovie® e dilua em um volume
+necessário para administração com 0,9% de uma solução de cloreto de sódio. A faixa de concentração da solução de Elovie®
+final deve ser mantida entre 1,4 e 16,5 mg/mL.
+Despreze qualquer quantidade deixada no frasco-ampola, pois este medicamento não contém conservantes.
+Medicamentos para infusão parenteral devem ser inspecionados visualmente quanto à presença de partículas e alterações de
+coloração do líquido antes da administração.
+Incompatibilidades
+Não foi observada nenhuma incompatibilidade entre Elovie® e bolsas de cloreto de polivinila ou poliolefina. Foi observado um
+perfil de degradação dependente de concentração de Elovie®, quando diluído com soluções de dextrose (5%).
+Infusões de Elovie® não devem ser administradas ou misturadas com soluções de dextrose ou glicose.
+Descarte
+Como o produto não contém conservantes, todo o restante não usado do frasco-ampola de Elovie® deve ser descartado.
+Descarte de medicamentos não utilizados e / ou com data de validade vencida
+O descarte de medicamentos no meio ambiente deve ser minimizado. Os medicamentos não devem ser descartados no esgoto,
+e o descarte em lixo doméstico deve ser evitado. Utilize o sistema de coleta local estabelecido, se disponível.
+Manuseio
+Precauções devem ser tomadas para o manuseio de Elovie®. Não administrar em injeção intravenosa direta ou em bolus.
+A dose inicial de Elovie® deve ser administrada em 90 minutos, em infusão intravenosa. Se a primeira infusão for bem tolerada,
+a segunda infusão pode ser administrada durante 60 minutos. Se a infusão em 60 minutos for bem tolerada, todas as infusões
+subsequentes podem ser administradas em 30 minutos.
+A redução da dose de Elovie®, por causa da presença de eventos adversos, não é recomendada. Se indicado, Elovie® deve ser
+suspenso ou temporariamente interrompido (vide item “Advertências e precauções”).
+Atenção
+A velocidade de infusão recomendada não deve ser excedida.
+Dosagem padrão
+Câncer colorretal metastático (CCRm)
+Tratamento de primeira linha
+Quando administrado em combinação com 5-fluorouracil/leucovorin; 5-fluorouracil/leucovorin e irinotecano ou 5-
+fluoracil/leucovorin e oxaliplatina, a dose recomendada de Elovie® é de 5 mg/kg de peso corporal administrada uma vez a cada
+2 semanas, mantido continuamente até a progressão da doença de base ou até que ocorra a toxicidade inaceitável.
+Quando administrado em combinação com capecitabina e oxaliplatina, a dose recomendada de Elovie® é de 7,5 mg/kg de peso
+corporal administrada uma vez a cada 3 semanas, mantido continuamente até a progressão da doença de base ou até que ocorra
+a toxicidade inaceitável.
+Tratamento de segunda linha sem utilização prévia de Elovie®
+Quando administrado em combinação com 5-fluorouracil e leucovorin, seguido de 5-fluorouracil com oxaliplatina, a dose
+recomendada de Elovie® é de 10 mg/kg de peso corporal administrada uma vez a cada 2 semanas ou 15 mg/kg de peso corporal
+administrada uma vez a cada 3 semanas, mantido continuamente até a progressão da doença de base ou até que ocorra a
+toxicidade inaceitável.
+Tratamento de segunda linha com utilização prévia de Elovie®
+Quando administrado em combinação com fluoropirimidina/irinotecano ou fluoropirimidina/oxaliplatina, a dose recomendada
+de Elovie® é de 5 mg/kg de peso corporal administrada uma vez a cada 2 semanas ou 7,5 mg/kg de peso corporal administrada
+uma vez a cada 3 semanas, nos pacientes previamente tratados com Elovie®
+em primeira linha de tratamento, mantido continuamente até a nova progressão da doença de base ou até que ocorra a toxicidade
+inaceitável.
+ELOV_V03-24 32
+A quimioterapia utilizada no tratamento de segunda linha com utilização prévia de Elovie® deve ser diferente daquela utilizada
+para o tratamento de primeira linha.
+Câncer de pulmão de não pequenas células localmente avançado, metastático ou recorrente
+Tratamento de primeira linha de câncer de pulmão de não pequenas células em combinação com quimioterapia à base de platina:
+Elovie® é administrado em combinação com quimioterapia à base de platina, em até seis ciclos de tratamento seguidos de Elovie®
+em monoterapia até progressão da doença.
+A dose recomendada de Elovie®, quando usado em associação com quimioterapia à base de cisplatina, é de 7,5 mg/kg de peso
+corporal administrada uma vez a cada três semanas, por infusão intravenosa.
+A dose recomendada de Elovie®, quando usado em associação com quimioterapia à base de carboplatina, é de 15 mg/kg de peso
+corporal administrada uma vez a cada três semanas, por infusão intravenosa.
+Recomenda-se que o tratamento com Elovie® seja mantido continuamente até a progressão da doença de base.
+Tratamento de primeira linha de câncer de pulmão de não pequenas células com mutações ativadoras de EGFR em combinação
+com erlotinibe
+A dose recomendada de Elovie®, quando usado em associação com erlotinibe, é de 15 mg/kg de peso corporal administrada
+uma vez a cada três semanas, por infusão intravenosa.
+Recomenda-se que o tratamento de Elovie® em associação com erlotinibe seja mantido até a progressão da doença.
+Consulte também as informações descritas na bula de erlotinibe quanto à seleção de pacientes e posologia.
+Câncer de mama metastático ou localmente recorrente (CMM)
+A dose recomendada de Elovie® é de 10 mg/kg de peso corporal administrada a cada duas semanas ou de 15 mg/kg de peso
+corporal administrada a cada três semanas, por infusão intravenosa.
+Recomenda-se que o tratamento com Elovie® seja mantido continuamente até a progressão da doença de base.
+Câncer de células renais metastático e / ou avançado (mRCC)
+A dose recomendada de Elovie® é de 10 mg/kg de peso corporal administrada a cada duas semanas, por infusão intravenosa.
+Recomenda-se que o tratamento com Elovie® seja mantido continuamente até a progressão da doença de base.
+Câncer epitelial de ovário, tuba uterina e peritoneal primário
+A dose recomendada de Elovie® administrada por infusão intravenosa é a seguinte:
+Tratamento em primeira linha: 15 mg/kg de peso, uma vez a cada três semanas, em associação a carboplatina e paclitaxel por
+até seis ciclos de tratamento, seguido pelo uso continuado de Elovie® em monoterapia por 15 meses ou até progressão da doença
+ou toxicidade inaceitável, o que ocorrer primeiro.
+Tratamento da doença recorrente platino sensível: 15 mg/kg de peso, uma vez a cada três semanas, em combinação com
+carboplatina paclitaxel por 6 ciclos e até 8 ciclos seguido pelo uso continuado de Elovie®, em monoterapia até a progressão da
+doença.
+Alternativamente 15 mg/kg a cada 3 semanas quando administrado em combinação com carboplatina e gencitabina por seis
+ciclos (até o máximo dez ciclos), seguidos do uso contínuo de Elovie® como agente único até a progressão da doença.
+Tratamento da doença recorrente platino resistente: 10 mg/kg de peso, uma vez a cada duas semanas, em associação a um dos
+seguintes agentes: paclitaxel e topotecana (administrados semanalmente) ou doxorrubicina lipossomal peguilada [vide item
+“Resultados de Eficácia - MO22224 (AURELIA)” para regimes de quimioterapia]. Como alternativa, 15 mg/kg de peso a cada
+três semanas em associação a topotecana administrada nos Dias 1-5, a cada três semanas [vide item “Resultados de Eficácia -
+MO22224 (AURELIA)” para regimes de quimioterapia]. Recomenda-se que o tratamento seja continuado até a progressão da
+doença ou toxicidade inaceitável.
+Câncer de colo do útero
+Elovie® é administrado em associação a um dos seguintes regimes quimioterápicos: paclitaxel e cisplatina ou paclitaxel e
+topotecana (vide item “Resultados de Eficácia – Estudo GOG-0240” para mais detalhes dos regimes de quimioterapia).
+A dose recomendada de Elovie® é 15 mg/kg de peso corporal, administrada uma vez a cada três semanas por infusão intravenosa.
+Recomenda-se que o tratamento com Elovie® seja mantido continuamente até a progressão da doença de base.
+Instruções de dosagens especiais
+Uso pediátrico: vide item “Advertências e precauções”.
+Insuficiência renal ou hepática: vide item “Advertências e precauções”.
+Uso geriátrico: não há recomendações especiais de doses para idosos com idade acima de 65 anos.
+ELOV_V03-24 33
+9. REAÇÕES ADVERSAS
+Experiência de estudos clínicos
+Resumo do perfil de segurança
+O perfil de segurança foi conduzido em pacientes com vários tipos de câncer tratados com Avastin®, predominantemente em
+combinação com quimioterapia. O perfil de segurança da população clínica de, aproximadamente, 5.200 pacientes é apresentado
+nesse item.
+Os eventos adversos mais graves foram:
+• Perfurações gastrintestinais (vide item “Advertências e precauções”);
+• Hemorragia, incluindo hemorragia pulmonar / hemoptise, mais comum em pacientes com câncer de pulmão de
+não pequenas células (vide item “Advertências e precauções”);
+• Tromboembolismo arterial (vide item “Advertências e precauções”).
+As análises dos dados de segurança clínica sugerem que as ocorrências de hipertensão e proteinúria durante o tratamento com
+Avastin® são, provavelmente, dose dependente. Os eventos adversos mais frequentemente observados em todos os estudos
+clínicos com pacientes que recebem Avastin® foram hipertensão, fadiga ou astenia, diarreia e dor abdominal.
+Resumo tabelado de reações adversas a medicamentos de ensaios clínicos
+A Tabela 23 apresenta as reações adversas associadas ao uso de Avastin® em combinação com diferentes regimes de
+quimioterapia em múltiplas indicações, de acordo com a classe de sistema orgânico do MedDRA. A categoria de frequência
+correspondente para cada reação adversa ao medicamento é baseada na seguinte convenção: muito comum (≥1 / 10); comum
+(≥1 / 100 a <1/10); incomum (≥1 / 1.000 a <1/100); raro (≥1 / 10.000 a <1 / 1.000); muito raro (<1 / 10.000).
+Essas reações ocorreram com, pelo menos, 2% de diferença, quando comparadas ao braço controle (reações graus 3 – 5 do NCI-
+CTC – National Cancer Institute – Common Toxicity Criteria) ou com ao menos uma diferença de 10%, quando comparada ao
+braço controle (reações graus 1 – 5 NCI-CTC), em ao menos um dos estudos clínicos principais. A reação adversa é adicionada
+à categoria apropriada na tabela a seguir, de acordo com a maior incidência observada em qualquer um dos principais estudos
+clínicos. Dentro de cada grupo de frequência, as reações adversas são apresentadas em ordem decrescente de gravidade.
+Algumas reações adversas são reações comumente observadas com quimioterapia, no entanto, Avastin® pode exacerbar essas
+reações, quando combinado com agentes quimioterápicos. Exemplos incluem síndrome de eritrodisestesia palmoplantar com
+doxorrubicina lipossomal peguilada ou capecitabina, neuropatia sensorial periférica com paclitaxel ou oxaliplatina, desordens
+ungueais ou alopecia com paclitaxel, e paroníquia com erlotinibe.
+Tabela 23. Reações adversas comuns e muito comuns
+Todos os graus de reações (≥
+Reações adversas grau 3 – 5 NCI-CTC (≥ 2% de diferença 10% de diferença entre os
+entre os braços do estudo em pelo menos um estudo clínico) braços do estudo em pelo
+Classe de sistema menos um estudo clínico)
+orgânico
+Muito comum (≥ 10%) Comum Muito comum (≥ 10%)
+(≥ 1% – < 10%)
+Sepse
+Infecções e Abscesso Paroníquia
+infestações Celulite
+Infecção
+Distúrbios do sangue Neutropenia febril
+e sistema linfático Leucopenia Anemia
+Neutropenia Linfopenia
+Trombocitopenia
+Distúrbios no Desidratação Anorexia
+metabolismo e na Hiponatremia Hipomagnesemia
+nutrição Hiponatremia
+Distúrbios do Reações de
+sistema imunológico hipersensibilidade,
+anafiláticas, relacionadas
+à infusão
+ELOV_V03-24 34
+Acidente cerebrovascular Disgeusia
+Distúrbios do Neuropatia sensorial Síncope Cefaleia
+sistema nervoso periférica Sonolência Disartria
+Cefaleia
+Distúrbios Distúrbios oculares
+oculares Lacrimejamento aumentado
+Distúrbios cardíacos Insuficiência cardíaca congestiva
+Taquicardia supraventricular
+Distúrbios vasculares Tromboembolismo (arterial)
+Hipertensão Trombose venosa profunda Hipertensão
+Hemorragia
+Distúrbios Embolia pulmonar Dispneia
+respiratórios, Dispneia Epistaxe
+torácicos e do Hipóxia Rinite
+mediastino Epistaxe Tosse
+Perfuração intestinal
+Diarreia Obstrução íleo intestinal Obstipação
+Distúrbios Náusea Fístula reto-vaginal** Estomatite
+gastrintestinais Vômito Distúrbios gastrintestinais Hemorragia retal
+Dor abdominal Estomatite Diarreia
+Proctalgia
+Distúrbios Insuficiência ovariana*
+endócrinos
+Distúrbios de pele e Síndrome de eritrodisestesia Dermatite esfoliativa
+tecido palmoplantar Pele seca
+subcutâneo Manchas da pele
+Distúrbios do osso, Fraqueza muscular
+do tecido conectivo e Mialgia
+musculoesquelé- Artralgia Artralgia
+tico Lombalgia
+Distúrbios Proteinúria Proteinúria
+urinários e renais Infecção do trato
+urinário
+Distúrbios gerais e Dor Febre
+condições do local Astenia Fadiga Letargia Astenia
+de administração Inflamação mucosa Dor
+Inflamação mucosa
+Sistema reprodutivo
+e mama Dor pélvica
+Exames
+complementares de Perda de peso
+diagnóstico
+* Baseado no subestudo AVF3077s (NSABP C-08) com 295 pacientes.
+** Fístula reto-vaginal é a forma mais comum de fístula na categoria fístula gastrintestinal-vaginal.
+Descrição de reações adversas medicamentosas selecionadas de estudos clínicos
+As seguintes reações adversas, relatadas usando NCI-CTC para avaliação de toxicidade, foram observadas em pacientes tratados
+com Avastin®:
+Perfuração gastrintestinal e fístula (vide item “Advertências e precauções”)
+ELOV_V03-24 35
+Avastin® vem sendo associado a casos graves de perfuração gastrintestinal. Perfurações gastrintestinais têm sido relatadas em
+estudos clínicos com incidência de menos de 1% em pacientes com câncer metastático de mama ou de pulmão de não pequenas
+células não escamoso, de até 2% em pacientes com câncer metastático de células renais ou câncer de ovário e até 2,7% (incluindo
+fístula gastrintestinal e abscesso) em pacientes com câncer colorretal metastático.
+Evolução fatal foi relatada em, aproximadamente, um terço dos casos graves de perfuração gastrintestinal, que representa entre
+0,2% e 1% de todos os pacientes tratados com Avastin®.
+A partir de um estudo clínico com pacientes com câncer de colo do útero persistente, recorrente ou metastático (estudo GOG-
+0240), perfurações gastrintestinais (todos os graus) foram reportadas em 3,2% dos pacientes, sendo que todos tiveram histórico
+de radiação pélvica prévia.
+A ocorrência desses eventos variou em tipo e gravidade, desde presença de ar livre observada em radiografia simples de abdome,
+que se resolveu sem tratamento, até perfuração intestinal com abscesso abdominal e evolução fatal. Em alguns casos, estava
+presente uma inflamação intra-abdominal de base, tanto por doença ulcerosa gástrica, como por necrose tumoral e diverticulite
+ou colite associadas à quimioterapia. A associação causal entre processo inflamatório intra-abdominal, perfuração gastrintestinal
+e Avastin® não foi estabelecida. Em um estudo com pacientes com câncer de colo de útero persistente, recorrente ou metastático,
+a incidência de fístula gastrintestinal-vaginal foi 8,3% em pacientes tratados com Avastin® e 0,9% em pacientes no braço
+controle, sendo que todos tiveram histórico de radiação pélvica prévia. Pacientes que desenvolveram fístula gastrintestinal-
+vaginal também podem ter obstruções intestinais e necessitar de intervenção cirúrgica, bem como ostomias.
+Fístulas não gastrintestinais (vide item “Advertências e precauções”)
+Avastin® foi associado com casos graves de fístula, incluindo eventos que resultaram em óbito.
+A partir de um estudo clínico com pacientes com câncer de colo do útero persistente, recorrente ou metastático (estudo GOG-
+0240), 1,8% dos pacientes tratados com Avastin® e 1,4% dos pacientes no braço controle apresentaram fístula não
+gastrintestinal-vaginal, vesical ou do trato genital feminino.
+Relatos incomuns (≥ 0,1% a < 1%) de outros tipos de fístula, que envolvem áreas do corpo que não o trato gastrintestinal
+(broncopleural e biliar) foram observados em várias indicações. Fístulas também foram observadas na experiência pós-
+comercialização.
+Os eventos foram observados em diferentes períodos durante o tratamento, variando desde uma semana até mais de um ano
+após o início do tratamento com Avastin®, a maioria deles ocorrendo dentro dos primeiros seis meses de terapia.
+Hemorragia
+Em estudos clínicos realizados em todas as indicações, a incidência total de eventos hemorrágicos graus 3 – 5 NCI-CTC variou
+de 0,4% a 6,9% em pacientes tratados com Avastin®, em comparação com 0 a 4,5% dos pacientes no grupo controle de
+quimioterapia.
+Os eventos hemorrágicos observados nos estudos clínicos com Avastin® foram, predominantemente, hemorragia associada ao
+tumor (veja a seguir) e hemorragia mucocutânea mínima, como epistaxe.
+Hemorragia associada ao tumor
+Casos de hemorragia pulmonar / hemoptise grave ou maciça foram observados principalmente em estudos realizados em
+pacientes com câncer de pulmão de não pequenas células. Os possíveis fatores de risco incluem histologia escamosa, tratamento
+com medicamentos antirreumáticos / anti-inflamatórios, tratamento com anticoagulantes, radioterapia prévia, terapêutica com
+Avastin®, antecedentes de aterosclerose, localização central do tumor e cavitação do tumor antes ou durante a terapia. As únicas
+variáveis que mostraram estar correlacionadas de forma estatisticamente significativa com hemorragia foram a terapia com
+Avastin® e a histologia escamosa. Pacientes com câncer de pulmão de não pequenas células com histologia escamosa ou mista
+com predominância de histologia escamosa foram excluídos dos estudos subsequentes, embora os pacientes com histologia do
+tumor desconhecida tenham sido incluídos.
+Nos pacientes com câncer de pulmão de não pequenas células, excluindo histologia com predomínio escamosa, os eventos de
+todos os graus foram observados com frequência de até 9,3%, quando tratados com Avastin® mais quimioterapia, em
+comparação com até 5% dos pacientes tratados só com quimioterapia. Os eventos de graus 3 – 5 foram observados em até 2,3%
+dos pacientes tratados com Avastin® mais quimioterapia, em comparação a < 1% em pacientes tratados só com quimioterapia.
+Hemorragia pulmonar / hemoptise maior ou maciça pode ocorrer repentinamente e, em até dois terços dos casos de hemorragias
+pulmonares graves, resultou em evento fatal.
+Hemorragias gastrintestinais, incluindo hemorragia retal e melena, foram observadas em pacientes com câncer colorretal e
+avaliadas como hemorragias associadas ao tumor.
+A incidência de sangramento de sistema nervoso central em pacientes com metástases de SNC não tratadas que receberam
+bevacizumabe não foi prospectivamente avaliada em estudos clínicos randomizados. Em análise exploratória retrospectiva, a
+partir de dados de 13 estudos randomizados concluídos em pacientes com tumores de vários tipos, três pacientes [de um total
+de 91 (3,3%) com metástases cerebrais] apresentaram sangramento de SNC (todos grau 4), quando tratados com bevacizumabe,
+em comparação a um caso (grau 5) entre os 96 pacientes (1%) que não foram expostos a bevacizumabe. Em dois estudos
+ELOV_V03-24 36
+subsequentes em pacientes com metástases cerebrais tratadas (que incluíram cerca de 800 pacientes), foi relatado um caso de
+sangramento de SNC grau 2.
+Em todos os estudos clínicos de Avastin®, foi observada hemorragia mucocutânea em até 50% dos pacientes tratados com
+Avastin®. Foi relatada, mais comumente, epistaxe grau 1 NCI-CTC com duração menor que cinco minutos e resolvida sem
+intervenção clínica, não necessitando de nenhuma alteração no esquema de tratamento com Avastin®.
+Dados de segurança clínica sugerem que a incidência de pequenas hemorragias mucocutâneas (por exemplo, epistaxe) possa ser
+dose dependente.
+Também houve eventos menos comuns de hemorragia mucocutânea mínima em outros locais, como sangramento gengival ou
+hemorragia vaginal.
+Hipertensão (vide item “Advertências e precauções”)
+Nos estudos clínicos, com exceção do estudo JO25567, foi observada incidência total de hipertensão (todos os graus) variando
+até 42,1% nos braços com Avastin® em comparação com até 14% nos braços controle. A incidência total de hipertensão graus
+3 e 4 NCI-CTC em pacientes que receberam Avastin® variou de 0,4% a 17,9%. Hipertensão grau 4 (crise hipertensiva) ocorreu
+em até 1,0% dos pacientes tratados com Avastin®, em comparação com até 0,2% dos pacientes tratados com a mesma
+quimioterapia isolada.
+No estudo JO25567, hipertensão de todos os graus foi observada em 77,3% dos pacientes que receberam bevacizumabe em
+combinação com erlotinibe como primeira linha de tratamento para câncer de pulmão de não- pequenas células, não escamoso
+com mutações ativadoras de EGFR, em comparação com 14,3% dos pacientes tratados somente com erlotinibe. Hipertensão de
+grau 3 ocorreu em 60,0% dos pacientes tratados com bevacizumabe em combinação com erlotinibe, em comparação a 11,7%
+dos pacientes tratados somente com erlotinibe. Não houve eventos de hipertensão graus 4 ou 5.
+Geralmente, a hipertensão foi adequadamente controlada com anti-hipertensivos orais, como inibidores da enzima conversora
+da angiotensina, diuréticos e bloqueadores do canal de cálcio. Raramente resultou em descontinuação do tratamento com
+Avastin® ou hospitalização.
+Casos muito raros de encefalopatia hipertensiva foram relatados, alguns dos quais foram fatais (vide item “Advertências e
+precauções”). O risco de hipertensão associada a Avastin® não se correlacionou com as características basais dos pacientes,
+doença de base ou terapia concomitante.
+Síndrome da Encefalopatia Posterior Reversível (vide item “Advertências e precauções”)
+Dois casos confirmados (0,8%) de SEPR foram reportados em um estudo clínico. Os sintomas geralmente resolvem-se ou
+melhoram dentro de dias, apesar de alguns pacientes desenvolverem sequelas neurológicas.
+Tromboembolismo
+– Tromboembolismo arterial
+Incidência aumentada de eventos tromboembólicos arteriais foi observada em pacientes tratados com Avastin®, incluindo
+acidentes cerebrovasculares, infarto do miocárdio, ataques isquêmicos transitórios e outros eventos tromboembólicos arteriais.
+Em estudos clínicos, a incidência total variou em até 3,8% dos pacientes tratados com Avastin®, em comparação com até 1,7% nos
+braços de controle da quimioterapia. Evento fatal foi relatado em 0,8% de pacientes que receberam Avastin® em combinação
+com quimioterapia, em comparação com 0,5% dos pacientes que receberam apenas quimioterapia.
+Acidentes cerebrovasculares (incluindo ataques isquêmicos transitórios) ocorreram em até 2,7% dos pacientes tratados com
+Avastin®, em comparação com até 0,5% dos pacientes no grupo de controle; infarto do miocárdio em até 1,4% dos pacientes
+tratados com Avastin®, em comparação com até 0,7% dos pacientes nos grupos de controle.
+No estudo clínico AVF2192g, foram incluídos pacientes com câncer colorretal metastático que não eram candidatos ao
+tratamento com irinotecano. Nesse estudo, eventos tromboembólicos arteriais foram observados em 11% (11/ 100) dos pacientes
+tratados com Avastin®, em comparação com 5,8% (6/104) no grupo controle que recebeu quimioterapia.
+– Tromboembolismo venoso (vide item “Advertências e precauções”)
+Em estudos clínicos, a incidência total de eventos tromboembólicos venosos variou de 2,8% a 17,3% nos pacientes tratados
+com Avastin®, em comparação com 3,2% a 15,6% nos braços de controle que receberam quimioterapia. Eventos
+tromboembólicos venosos incluem trombose venosa profunda e embolismo pulmonar. Eventos tromboembólicos venosos graus
+3 – 5 foram relatados em até 7,8% dos pacientes tratados com quimioterapia mais bevacizumabe, em comparação com até 4,9%
+em pacientes que receberam apenas quimioterapia. Pacientes que apresentaram evento tromboembólico venoso podem estar sob
+alto risco de recorrência, se receberem Avastin® associado à quimioterapia, em comparação com quimioterapia isolada.
+A partir de um estudo clínico com pacientes com câncer de colo do útero persistente, recorrente ou metastático (estudo GOG-
+0240), eventos tromboembólicos venosos graus 3 – 5 foram relatados em até 10,6% dos pacientes tratados com quimioterapia
+e bevacizumabe, em comparação com até 5,4% dos pacientes tratados com quimioterapia isolada.
+ELOV_V03-24 37
+Insuficiência cardíaca congestiva
+Em estudos clínicos com
+Avastin®,
+insuficiência cardíaca congestiva (ICC) foi observada em todas as indicações avaliadas até
+o momento. Entretanto, ICC ocorreu, predominantemente, em pacientes com câncer de mama metastático. Em cinco estudos
+clínicos fase III (AVF2119g, E2100, BO17708, AVF3694g e AVF3693g), com pacientes com câncer de mama metastático,
+insuficiência cardíaca congestiva grau 3 ou maior, reportada em pacientes tratadas com Avastin® em combinação com
+quimioterapia, foi de até 3,5%, comparada com até 0,9% nos braços controle.
+Para os pacientes do estudo AVF3694g, que receberam antraciclinas concomitantemente ao bevacizumabe, a incidência de ICC
+grau 3 ou superior para os respectivos braços controle e bevacizumabe, foram semelhantes aos de outros estudos em câncer de
+mama metastático: 2,9% no braço antraciclina + bevacizumabe e 0% no braço antraciclina + placebo. Adicionalmente, no estudo
+AVF3694g, as incidências de ICC todos os graus foram semelhantes entre os braços antraciclina + Avastin® (6,2%) e antraciclina
++ placebo (6,0%).
+A maioria das pacientes que desenvolveram insuficiência cardíaca congestiva durante os estudos clínicos em câncer de mama
+metastático apresentou melhora dos sintomas e / ou função ventricular esquerda depois de tratamento clínico adequado.
+Na maioria dos estudos clínicos com Avastin®, pacientes com ICC grau II – IV (NYHA) preexistente foram excluídos; portanto,
+não há informações disponíveis sobre o risco de ICC nessa população.
+A exposição prévia a antraciclinas e / ou irradiação da parede torácica podem ser possíveis fatores de risco para desenvolvimento
+de ICC.
+O aumento da incidência de insuficiência cardíaca congestiva foi observado em estudos clínicos de pacientes com linfoma
+difuso de grandes células B que estavam recebendo bevacizumabe juntamente com doses cumulativas de doxorrubicina
+superiores a 300 mg/m2. Esse estudo clínico fase III comparou rituximabe / ciclofosfamida / vincristina / doxorrubicina/
+prednisona (R-CHOP) e bevacizumabe com R-CHOP sem bevacizumabe. A incidência de insuficiência cardíaca congestiva foi,
+em ambos os braços do estudo, superior àquela observada para a terapia com doxorrubicina; a taxa foi maior no braço R-CHOP
+e bevacizumabe.
+Cicatrização de feridas (vide item “Advertências e precauções”)
+Como Avastin® pode ter impacto adverso sobre a cicatrização de feridas, pacientes submetidos à cirurgia de grande porte nos
+últimos 28 dias antes de iniciar o tratamento com Avastin® foram excluídos da participação nos estudos de fase III.
+Segundo estudos clínicos realizados em câncer colorretal metastático, não houve risco aumentado de hemorragia pós-operatória
+ou complicações na cicatrização de feridas em pacientes que sofreram cirurgia de grande porte entre 28 a 60 dias antes do início
+da terapia com Avastin®. Foi observado aumento na incidência de hemorragia pós-operatória ou complicações na cicatrização
+de feridas, ocorrendo dentro de 60 dias de cirurgia de grande porte em pacientes em tratamento com Avastin® na época da
+cirurgia. A incidência variou entre 10% (4/40) e 20% (3/15).
+Foram relatados casos de graves complicações na cicatrização durante o uso de Avastin®, alguns dos quais apresentaram
+consequências fatais.
+Nos estudos de câncer de mama metastático e localmente recorrente, complicações na cicatrização de feridas graus 3 a 5 foram
+observadas em até 1,1% das pacientes que recebiam Avastin®, em comparação com até 0,9% das pacientes dos braços de
+controle.
+Proteinúria (vide item “Advertências e precauções”)
+Em estudos clínicos, proteinúria foi relatada na faixa de 0,7% a 54,7% dos pacientes recebendo Avastin®. A proteinúria variou
+em intensidade, desde clinicamente assintomática, transitória, traços de proteinúria até síndrome nefrótica. Proteinúria grau 3
+foi relatada em até 8,1% dos pacientes tratados. Proteinúria grau 4 (síndrome nefrótica) foi observada em até 1,4% dos pacientes
+tratados.
+Os pacientes com histórico de hipertensão podem apresentar risco aumentado para desenvolvimento de proteinúria, quando
+tratados com Avastin®. Existem evidências sugerindo que proteinúria grau 1 pode estar relacionada à dose de Avastin®.
+Recomenda-se efetuar um exame de proteinúria antes do início da terapia com Avastin®. Na maioria dos estudos clínicos, níveis
+proteicos na urina ≥ 2 g/24h levaram à interrupção de Avastin® até a recuperação dos níveis para < 2 g/24h.
+Reações de hipersensibilidade, anafiláticas e relacionadas à infusão
+Em alguns estudos clínicos, reações anafiláticas e do tipo anafilactoide foram notificadas mais frequentemente em pacientes
+tratados com Avastin® em combinação com quimioterapia que apenas com quimioterapia isolada. A incidência dessas reações,
+em alguns estudos clínicos de Avastin®, é comum (de até 5% em pacientes tratados com bevacizumabe).
+Insuficiência ovariana / fertilidade
+A incidência de novos casos de insuficiência ovariana, definida como amenorreia por três ou mais meses, nível de FSH ≥ 30
+mIU/mL e teste β-HCG de gravidez negativo, foi avaliada. Novos casos de insuficiência ovariana foram relatados mais
+frequentemente em pacientes que receberam bevacizumabe. Após a descontinuação do tratamento com bevacizumabe, a função
+ELOV_V03-24 38
+ovariana foi recuperada na maioria das mulheres. Os efeitos de longa duração do tratamento com bevacizumabe na fertilidade
+feminina são desconhecidos.
+Pacientes idosos
+Em estudos clínicos randomizados, a idade acima de 65 anos foi associada a risco aumentado para desenvolvimento de eventos
+tromboembólicos arteriais, incluindo acidentes cerebrovasculares, ataques isquêmicos transitórios e infarto do miocárdio, em
+comparação com os pacientes com idade ≤ 65 anos, quando tratados com Avastin® (vide item “Advertências e precauções”).
+Outras reações com maior frequência em pacientes acima de 65 anos foram: leucopenia e trombocitopenia graus 3 – 4,
+neutropenia, diarreia, náusea, cefaleia e fadiga em todos os graus. Em um estudo clínico, a incidência de hipertensão grau ≥ 3
+foi duas vezes maior nos pacientes > 65 anos do que no grupo mais jovem (< 65 anos). Em um estudo com pacientes de câncer
+de ovário recorrente resistente à platina, foram também reportadas alopecia, inflamação na mucosa, neuropatia sensorial
+periférica, proteinuria e hipertensão e ocorreram em uma taxa de, pelo menos, 5% maior no braço quimioterapia + bevacizumabe
+para os pacientes ≥ 65 anos tratados com bevacizumabe, quando comparado com os pacientes < 65 anos tratados com
+bevacizumabe.
+A partir de um estudo clínico com pacientes com câncer colorretal metastático (estudo AVF2107), não se observou aumento na
+incidência de outros eventos relacionados a Avastin®, incluindo perfuração gastrintestinal, complicações na cicatrização de
+feridas, insuficiência cardíaca congestiva e hemorragia em pacientes idosos (> 65 anos) que receberam Avastin®, em
+comparação aos pacientes com idade ≤ 65 anos também tratados com Avastin®.
+Alterações laboratoriais
+Neutropenia, leucopenia e presença de proteinúria podem estar associadas ao tratamento com Avastin®.
+De acordo com estudos clínicos, as seguintes alterações laboratoriais graus 3 e 4 foram observadas com incidência aumentada
+(≥ 2%) nos pacientes tratados com Avastin®, em comparação àqueles nos grupos controle: hiperglicemia, hemoglobina diminuída,
+hipocalemia, hiponatremia, contagem diminuída de células brancas do sangue, tempo aumentado da protrombina e razão
+normalizada.
+Estudos clínicos têm demonstrado que elevações transitórias na creatinina sérica (na faixa de 1,5 – 1,9 vez o nível basal), ambas
+com e sem proteinúria, estão associadas ao uso de Avastin®. A elevação observada na creatinina sérica não foi associada à maior
+incidência de manifestações clínicas de insuficiência renal nos pacientes tratados com Avastin®.
+Experiência pós-comercialização
+As seguintes reações adversas medicamentosas foram identificadas na experiência pós-comercialização de Avastin® (Tabela
+24) com base em relatos de casos espontâneos e casos de literatura. As reações adversas estão listadas de acordo com a classe de
+sistema orgânico do MedDRA e a estimativa de frequência correspondente para cada reação adversa ao medicamento baseia-se
+na seguinte convenção: muito frequentes (≥1/10); comum (≥1/100 a <1/10); incomum (≥1/1.000 a <1/100); raro (≥1/10.000 a
+<1/1.000); muito raro (<1/10.000).
+ELOV_V03-24 39
+Tabela 24. Reações adversas de acordo com a experiência pós-comercialização
+Reação adversa Frequência
+Infecções e infestações
+1,2 Raro
+Fasciite necrosante
+Distúrbios do sistema nervoso
+2,3 Muito raro
+Encefalopatia hipertensiva
+2 Raro
+Síndrome da encefalopatia posterior reversível
+Distúrbios vasculares
+Microangiopatia trombótica renal, manifestada Desconhecido
+2,3
+clinicamente como proteinúria
+Distúrbios respiratórios, torácicos e do mediastino
+Perfuração do septo nasal Desconhecido
+Hipertensão pulmonar Desconhecido
+Disfonia Comum
+Distúrbios gastrointestinais
+Úlcera gastrointestinal Desconhecido
+Distúrbios hepatobiliares
+Perfuração da vesícula biliar Desconhecido
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+4 Desconhecido
+Osteonecrose da mandíbula
+Osteonecrose em regiões diferentes da Desconhecido
+5,6
+Mandíbula
+Distúrbios congênitos, familiares e genéticos
+7 Desconhecido
+Anormalidades fetais
+1
+Geralmente secundária a complicações na cicatrização de feridas, perfuração gastrointestinal ou formação de fístula.
+2
+Ver item “Advertências e precauções”.
+3
+Ver item “Reações adversas”.
+4 Casos de osteonecrose da mandíbula foram observados em pacientes tratados com Avastin®, principalmente em associação
+com o uso prévio ou concomitante de bisfosfonatos.
+5 Casos observados em pacientes pediátricos tratados com Avastin®.
+6
+A osteonecrose observada na população pediátrica em ensaios clínicos não pertencentes à empresa foi identificada através da
+vigilância pós-comercialização e, por conseguinte, foi adicionada ao item de experiência pós- comercialização, uma vez que
+nem o grau CTC nem a taxa de notificação estavam disponíveis nos dados publicados.
+7
+Foram observados casos em mulheres tratadas apenas com bevacizumabe ou em combinação com fármacos quimioterápicos
+embriotóxicos.
+Descrição de reações adversas medicamentosas selecionadas da experiência pós-comercialização
+Distúrbios oculares (relatadas pelo uso intraocular não aprovado)
+Endoftalmite infecciosa (frequência desconhecida; alguns casos levando à cegueira permanente; um caso relatou extensão extra-
+ocular da infecção resultando em meningoencefalite); Inflamação intraocular (alguns casos levando à cegueira permanente:
+incluindo um conjunto de inflamação ocular grave, e que levou à cegueira após a combinação de um produto quimioterápico
+anticâncer para administração intravenosa), tal como endoftalmite estéril, uveíte e vitreíte; Descolamento da retina (frequência
+desconhecida); ruptura do epitélio pigmentado da retina (frequência desconhecida); Pressão intraocular aumentada (frequência
+desconhecida); Hemorragia intraocular tal como hemorragia vítrea ou hemorragia retiniana (frequência desconhecida);
+Hemorragia conjuntival (frequência desconhecida).
+A análise combinada de dados observacionais do uso intraocular não aprovado de Avastin® comparado ao uso de terapias
+aprovadas em pacientes com degeneração macular exudativa relacionada à idade demonstrou aumento do risco de inflamação
+intraocular para Avastin® (Razão de risco ajustada: 1,82; IC 99%: 1,20, 2.76) (Incidência 0,46 eventos por 100 pacientes por
+ano; comparador 0,26 eventos por 100 pacientes por ano) assim como um risco aumentado para cirurgia de catarata (Razão de
+ELOV_V03-24 40
+risco ajustada: 1,11; IC 99%: 1,01, 1,23) (Incidência 6,33 eventos por 100 pacientes por ano, comparador 5,64 eventos por 100
+pacientes por ano).
+Vários métodos não validados de administração, armazenamento e manuseio de Avastin®, levaram a eventos adversos oculares
+graves em pacientes, incluindo endoftalmite infecciosa e outras condições inflamatórias oculares, algumas levando à cegueira.
+Eventos Sistêmicos (relatados a partir de uso intraocular não aprovado)
+A análise combinada de dados observacionais do uso intraocular não aprovado de Avastin® comparado ao uso de terapias
+aprovadas em pacientes com degeneração macular exudativa relacionada à idade demonstrou aumento do risco de derrame
+hemorrágico para Avastin® (Razão de risco ajustada: 1,57; IC 99%: 1,04, 2,37) (Incidência 0,41 eventos por 100 pacientes por
+ano; comparador 0,26 eventos por 100 pacientes por ano) assim como aumento do risco de mortalidade global (Razão de risco
+ajustada: 1,11; IC 99%: 1,01, 1,23) (Incidência 6,03 eventos por 100 pacientes por ano, comparador de 5,51 eventos por 100
+pacientes por ano).
+Um segundo estudo observacional detectou resultados semelhantes para todos os casos de mortalidade. Em um estudo clínico
+controlado, randomizado, comparando o uso não aprovado de Avastin® em pacientes com degeneração macular exudativa com
+tratamentos aprovados foi reportado aumento do risco de eventos adversos sistêmicos sérios com Avastin®, maioria dos quais
+resultou em hospitalização (Razão de risco ajustada: 1,29; 95% IC: 1,01;1,66) (Incidência 24,1*, comparador 19,0%).
+Descrição de reações adversas medicamentosas dos estudos clínicos com Elovie®
+A proporção de pacientes que relatou pelo menos um evento adverso emergente do tratamento (EAET), EAET graus 3 ou 4 e
+eventos adversos graves (EAG) foi semelhante nos dois grupos de tratamento (Elovie® e bevacizumabe referência) tanto no
+estudo BEVZ92-A-01-13 quanto no estudo STELLA. Não foram observados novos eventos adversos para Elovie®. 1,2
+Imunogenicidade
+A incidência de anticorpos anti-bevacizumabe foi similar nos dois braços de tratamento do estudo BEVZ92-A- 01-13 (Elodie-
+FOLFOX ou FOLFIRI versus Avastin®-FOLFOX ou FOLFIRI). Todos os 140 pacientes que receberam tratamento foram
+analisados quanto aos anticorpos anti-bevacizumabe. No grupo Elovie®, dois pacientes desenvolveram anticorpos anti-
+bevacizumabe (um no ciclo 8 e outro na consulta de 12 meses do estudo). No grupo bevacizumabe referência, um paciente teve
+anticorpos anti-bevacizumabe positivo no ciclo 8, sendo que este paciente apresentou resultados positivos para anticorpos anti-
+bevacizumabe no início do estudo. Não foram observados efeitos na farmacocinética, eficácia ou segurança desses três
+1
+pacientes.
+No estudo STELLA a avaliação da imunogenicidade não mostrou diferenças significativas entre Elovie® e bevacizumabe
+referência. A maioria dos indivíduos testou negativo para anticorpos anti-bevacizumabe em todos os momentos. A incidência
+de anticorpos anti-bevacizumabe foi semelhante entre os 2 grupos de tratamento (18% grupo Elovie® versus 17,2% grupo
+Avastin®), sendo a maioria transitória. A ocorrência de anticorpos contra Elovie® ou Avastin® não impactou os resultados de
+eficácia ou se correlacionou com qualquer preocupação de segurança. 2
+1. Romera A, Peredpaya S, Shparyk Y, et al. Bevacizumab biosimilar BEVZ92 versus reference bevacizumab in combination
+with FOLFOX or FOLFIRI as first-line treatment for metastatic colorectal cancer: a multicentre, open-label, randomised
+controlled trial. Lancet Gastroenterol Hepatol. 2018;3(12):845‐55.
+2.Clinical study report: final analysis. STELLA – A Randomized, Multicenter, Multinational, Double-Blind Study to Assess
+the Efficacy and Safety of MB02 (Bevacizumab Biosimilar Drug) Versus Avastin® in Combination with Carboplatin and
+Paclitaxel for the Treatment of Subjects with Stage IIIB/IV Non-squamous Non-Small Cell Lung Cancer (NSCLC). MB02-C-
+02-17
+Atenção: este produto é um medicamento que possui nova indicação terapêutica no país e, embora as pesquisas tenham
+indicado eficácia e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos
+imprevisíveis ou desconhecidos. Nesse caso, notifique os eventos adversos pelo Sistema VigiMed, disponível no Portal
+da Anvisa.
+10. SUPERDOSE
+A maior dose testada no ser humano (20 mg/kg de peso corpóreo, intravenosa, a cada duas semanas) foi associada com
+enxaqueca intensa em vários pacientes.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+ELOV_V03-24 41
+Registro:1.0033.0214
+Registrado por: Libbs Farmacêutica Ltda.
+Av. Marquês de São Vicente, 2219, 2º andar - São Paulo - SP
+CNPJ: 61.230.314/0001-75
+www.libbs.com.br
+Produzido por: Universal Farma, S.L.
+Del Tejido, 2, Azuqueca de Henares, 19200 Guadalajara - Espanha
+Ou,
+Produzido por: Libbs Farmacêutica Ltda.
+Embu das Artes – SP
+Indústria Brasileira
+Venda sob prescrição.
+Uso restrito a estabelecimentos de saúde.
+Esta bula foi aprovada pela ANVISA em 17/02/2025.
+ELOV_V03-24 42
+Histórico de alteração para a bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do Data do Nº do Data de Versões
+Nº expediente Assunto Assunto Itens de bula Apresentações relacionadas
+expediente expediente expediente aprovação (VP/VPS)
+VP:
+APRESENTAÇÕES
+COMPOSIÇÃO
+3. QUANDO NÃO
+DEVO USAR ESTE
+MEDICAMENTO?
+4. O QUE DEVO
+SABER
+ANTES DE USAR ESTE
+MEDICAMENTO?
+5. ONDE, COMO E POR
+QUANTO TEMPO
+POSSO
+GUARDAR ESTE
+10456 – PRODUTO 25 MG/ML SOL DIL INFUS
+11939 - PRODUTOS MEDICAMENTO?
+BIOLÓGICO – 8. QUAIS OS MALES IV CT FA VD TRANS X 4 ML
+Gerado no BIOLÓGICOS - 41.a
+Notificação de QUE ESTE
+13/03/2025 momento do 02/05/2024 0581654248 Alteração de instalação 17/02/2025 VP/VPS
+Alteração de Texto de MEDICAMENTO PODE 25 MG/ML SOL DIL INFUS
+peticionamento de fabricação do produto
+Bula – publicação no ME CAUSAR? IV CT FA VD TRANS X 16
+terminado - Maior
+Bulário RDC 60/12 9. O QUE FAZER SE ML
+ALGUÉM USAR UMA
+QUANTIDADE MAIOR
+DO QUE A INDICADA
+DESTE
+MEDICAMENTO?
+VPS:
+APRESENTAÇÕES
+COMPOSIÇÃO
+2. RESULTADOS DE
+EFICÁCIA
+3. CARACTERÍSTICAS
+FARMACOLÓGICAS
+4.
+CONTRAINDICAÇÕES
+- 1 -
+5.ADVERTÊNCIAS E
+PRECAUÇÕES
+6. INTERAÇÕES
+MEDICAMENTOSAS
+7.CUIDADOS DE
+ARMAZENAMENTO
+DO
+MEDICAMENTO
+8. POSOLOGIA E
+MODO DE USAR
+9. REAÇÕES
+ADVERSAS
+10. SUPERDOSE
+VP e VPS: Dizeres
+Legais
+10456 – PRODUTO 7. Cuidados de 25 MG/ML SOL DIL INFUS
+11958 - PRODUTOS
+BIOLÓGICO – Armazenamento do VPS IV CT FA VD TRANS X 4 ML
+BIOLÓGICOS - 70.
+Notificação de DOU Medicamento
+07/06/2024 0765632241 21/07/2023 0756507/23-1 Alteração do prazo de
+Alteração de Texto de 25/03/2024 25 MG/ML SOL DIL INFUS
+validade do produto Dizeres legais (data
+Bula – publicação no VP IV CT FA VD TRANS X 16
+terminado - Moderada aprovação bula)
+Bulário RDC 60/12 ML
+10463 – PRODUTO 10369 – PRODUTO
+BIOLÓGICO - BIOLÓGICO – Registro Caixa com 1 frasco-ampola de
+DOU
+04/08/2023 0817764/23-2 Inclusão Inicial de 29/10/2020 3848963/20-5 de Produto pela Via de Submissão Inicial VP/VPS dose única de 100 mg (4 mL) ou
+03/05/2022
+Texto de Bula - RDC Desenvolvimento por 400 mg (16 mL).
+60/12 Comparabilidade
+- 2 -

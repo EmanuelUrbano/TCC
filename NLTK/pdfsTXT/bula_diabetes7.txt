@@ -1,0 +1,290 @@
+IVB – INSULINA ISOFANA NPH
+(insulina isofana)
+INSTITUTO VITAL BRAZIL S.A
+Suspensão injetável
+100 UI/mL
+I) IDENTIFICAÇÃO DO MEDICAMENTO
+IVB-INSULINA ISOFANA NPH
+insulina isofana
+APRESENTAÇÃO
+Suspensão injetável de insulina isofana (DNA recombinante).
+Embalagem contendo 01 frascos-ampola contendo 10 mL de suspensão na concentração de 100 UI/mL.
+USO SUBCUTÂNEO
+USO ADULTO E PEDIÁTRICO
+COMPOSIÇÃO
+Cada mL de IVB – INSULINA ISOFANA NPH suspensão injetável contém:
+Insulina isofana ............................................................................................................................................ 100UI
+Veículo: óxido de zinco, glicerol, metacresol, fenol, fosfato de sódio dibásico di-hidratado, hidróxido de sódio, ácido clorídrico, sulfato de
+protamina e água para injetáveis.
+I) INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Este medicamento é indicado para o tratamento de diabetes mellitus.
+2. RESULTADOS DE EFICÁCIA
+Foi realizado estudo clínico fase 3, de não-inferioridade, multicêntrico, randomizado, grupos paralelos, comparador ativo, em duas fases,
+para avaliar a eficácia e segurança do IVB – INSULINA HUMANA R + IVB-INSULINA ISOFANA NPH em comparação ao Actaprid+
+Insulatard em pacientes com Diabetes tipo 1. Duzentos e setenta e seis (276) participantes concluíram o estudo e a conclusão do ensaio foi
+que a combinação de IVB – INSULINA HUMANA R + IVB-INSULINA ISOFANA NPH foi eficaz e segura para o tratamento de
+diabetes do tipo 1 em comparação à combinação de Actaprid+ Insulatard. O evento adverso mais comum em ambos os grupos foi a
+hipoglicemia. (Estudo INSUGCT300509).
+IVB-INSULINA ISOFANA NPH é um medicamento biológico desenvolvido pela via de comparabilidade (biossimilar). O programa
+de desenvolvimento do produto foi projetado para mostrar comparabilidade entre a IVB-INSULINA ISOFANA NPH
+e o medicamento comparador (INSULATARD – Insulina regular fabricada pela NovoNordisk – registrada no Brasil com o nome
+NOVOLIN N®).
+Referência
+1.Deodar S et al. A Randomized, Active Controlled, Parallel Group, Multicenter, Two-Phase, Open-Label Study Comparing the Safety and
+Immunogenicity of Insugen R® and Insugen N® with Actrapid® and Insulatard® in Patients with Type 1 Diabetes Mellitus (Study No:
+INSUGCT300509 – Date of Report: 13/08/13)
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Mecanismo de Ação
+O efeito farmacológico é dado pela redução da glicemia (taxa de glicose) no sangue pela captação facilitada de glicose pelos receptores das
+células musculares e lipídicas. Simultaneamente inibe a liberação de glicose pelo fígado.
+Propriedades farmacodinâmicas
+IVB-INSULINA ISOFANA NPH é uma insulina humana recombinante com início de ação gradual e longa, similar à Insulatard® que
+possui um início de ação dentro de 1,5 hora, atingindo um efeito máximo dentro de 4-12 horas e todo o tempo de ação sendo de
+aproximadamente 24 horas.
+O perfil farmacodinâmico de IVB-INSULINA ISOFANA NPH foi comparado ao do Insulatard® em um estudo de grampo euglicêmico,
+método para quantificar a secreção e a resistência da insulina, conduzido em indivíduos saudáveis ao longo de um período de 24 horas após
+a injeção s.c. de 0,4 UI/kg de insulina. As taxas de infusão de glicose (TIG) medidas neste estudo clínico refletem os perfis de tempo de
+ação das insulinas e são exibidas na Figura 2. A inspeção visual de duas curvas de TIG revela que o perfil de tempo-ação de INSUGEN® N
+é similar ao da Insulatard® (Figura 2).
+IVB – INSULINA ISOFANA NPH
+------------ INSULATARD
+Figura 2: Perfis médios atenuados de TIG após administração s.c. de IVB – INSULINA ISOFANA NPH e Insulatard®
+Propriedades farmacocinéticas
+A insulina na corrente sanguínea possui uma meia-vida de alguns minutos (4-6 min). Consequentemente, o perfil de tempo-ação de um
+preparado de insulina é determinado por suas características de absorção. Este processo é influenciado por vários fatores (por exemplo,
+dose de insulina, via e sítio de injeção, espessura da gordura subcutânea, tipo de diabetes). A farmacocinética de produtos medicinais de
+insulina são, portanto, afetados por uma variação intra e interindividual significativa.
+O perfil farmacocinético de IVB-INSULINA ISOFANA NPH foi comparado ao da Insulatard® em um estudo de grampo euglicêmico
+conduzido em indivíduos saudáveis ao longo de um período de 24 horas após a injeção s.c. de 0,4 UI/kg de insulina. A inspeção visual de
+duas curvas revela uma similaridade próxima de perfis do IVB-INSULINA ISOFANA NPH em relação à Insulatard® (Figura 3).
+Absorção e Eliminação:
+A concentração máxima plasmática de insulinas foi atingida dentro de 4-7 horas neste estudo e está em linha com a variação mencionada
+no SmPC do Insulatard.
+A meia-vida relatada neste estudo foi de 7-9 horas, também estando em linha com a variação mencionada no SmPC do Insulatard.
+Observe que a meia-vida terminal para insulina é determinada pela taxa de absorção a partir do tecido subcutâneo e é, portanto, uma
+medição de absorção ao invés de eliminação per se da insulina a partir do plasma (insulina na corrente sanguínea possui uma meia-vida de
+alguns minutos).
+Figura 3: Perfis médios da insulina sérica após admi1nistração s.c. de 1'00 Ull/mll de IVB – INSULINA ISOFANA NPH e 1'00
+UI/mi de lnsulatard0
+Metabolismo e Distribuição:
+Nenhum estudo em separado foi realizado com IVB – INSULINA ISOFANA NPH uma vez que foi desenvolvida como um biossimilar
+do Insulatard, portanto segue toda a farmacocinética deste.
+Com base na informação relatada no SmpC da Insulatard não foram observadas ligações profundas às proteínas plasmáticas, salvo aos
+anticorpos da insulina em circulação (se presente).
+A insulina humana foi relatada como sendo degradada pela protease da insulina ou enzimas degradando a insulina e, possivelmente,
+isomerase do dissulfidio na proteína. Propõe-se um número de sítios de clivagem (hidrólise) na molécula da insulina humana; nenhum dos
+metabólitos formados após a clivagem são conhecidos como sendo ativos.
+4. CONTRAINDICAÇÕES
+Hipersensibilidade à substância ativa ou a qualquer um dos excipientes;
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Uma dose inadequada ou a descontinuação do tratamento, especialmente no diabetes tipo 1, pode levar a hiperglicemia.
+Geralmente, os primeiros sintomas de hiperglicemia começam de forma gradual, ao longo de um período de horas ou dias. Estes sintomas
+incluem sede, aumento da frequência urinária, náuseas, vômitos, sonolência, pele seca com rubor, boca seca, perda de apetite, bem como
+hálito com odor de acetona.
+No diabetes tipo 1, episódios hiperglicêmicos não tratados eventualmente levam a cetoacidose diabética, que é potencialmente letal.
+Pode ocorrer hipoglicemia se a dose de insulina for muito elevada em relação às necessidades de insulina do paciente.
+A omissão planejada ou não de uma refeição ou o exercício físico extenuante pode levar a hipoglicemia.
+Os pacientes cujo controle glicêmico é consideravelmente otimizado, por exemplo, pela intensificação da terapia com insulina, podem
+experimentar uma mudança nos seus sintomas habituais de aviso da hipoglicemia e devem ser aconselhados adequadamente.
+Os sintomas habituais de aviso poderão desaparecer em pacientes com diabetes há muito tempo.
+A transferência de um paciente para outro tipo ou marca de insulina deve ser feita sob estrita supervisão médica. Mudanças na
+concentração, marca (fabricante), tipo, origem (insulina isofana, análogo de insulina humana) e / ou método de fabricação podem resultar
+na necessidade de uma mudança de dose. Pacientes transferidos de um outro tipo de insulina para IVB – INSULINA ISOFANA NPH
+podem requerer uma mudança da dosagem utilizada com suas insulinas habituais.
+Se for necessário um ajuste quando os pacientes mudam para IVB – INSULINA ISOFANA NPH, este pode ocorrer com a primeira dose
+ou durante as primeiras semanas ou meses.
+Assim como para qualquer terapêutica insulínica, podem ocorrer reações no local da injeção que incluem dor, rubor, prurido, inflamação,
+equimose, edema e urticária. A rotação contínua do local de injeção dentro de uma determinada área pode ajudar a reduzir ou prevenir estas
+reações. As reações geralmente desaparecem em alguns dias ou algumas semanas. Em raras ocasiões, as reações no local da injeção podem
+requerer a descontinuação de IVB – INSULINA ISOFANA NPH.
+Antes de viajar para regiões com diferentes fusos horários, o paciente deve ser aconselhado a consultar o médico, uma vez que isso pode
+significar que ele terá que usar a insulina e fazer as refeições em horários diferentes.
+Suspensões de insulina não devem ser usadas em bombas de infusão de insulina.
+Combinação de tiazolidinedionas e insulinas: casos de insuficiência cardíaca congestiva foram relatados quando tiazolidinedionas foram
+usadas em combinação com insulina, especialmente em pacientes com fatores de risco para o desenvolvimento da insuficiência cardíaca
+congestiva. Deve-se ter isto em mente se o tratamento combinado de tiazolidinediona e insulinas for considerado. Se a combinação for
+utilizada, os pacientes devem ser observados quanto aos sinais e sintomas de insuficiência cardíaca congestiva, ganho de peso e edema.
+Tiazolidinedionas devem ser descontinuadas se ocorrer piora dos sintomas cardíacos.
+Precauções especiais para manuseio e descarte
+Preparações de insulina que foram congeladas não devem ser utilizadas.
+Após retirar o frasco de IVB – INSULINA ISOFANA NPH do refrigerador, recomenda-se deixá-lo atingir a temperatura ambiente antes
+de ressuspender a insulina de acordo com as instruções para a primeira utilização.
+As suspensões de insulina não devem ser utilizadas se não apresentarem um aspecto uniformemente branco e leitoso após a ressuspensão
+Incompatibilidades
+Suspensões de insulina não devem ser adicionadas aos fluidos de infusão.
+Efeitos sobre a capacidade de dirigir ou operar máquinas
+As habilidades do paciente para concentrar-se e reagir podem ser prejudicadas como resultado da hipoglicemia. Isto pode constituir um
+risco em situações nas quais estas habilidades sejam de especial importância (por exemplo, dirigir um carro ou operar máquinas).
+Os pacientes devem ser aconselhados a tomar precauções para evitar a hipoglicemia enquanto dirigem. Isto é particularmente importante
+para aqueles pacientes que apresentam sinais de alerta da hipoglicemia reduzidos ou ausentes ou que apresentam episódios frequentes de
+hipoglicemia. A conveniência de dirigir deve ser considerada nestas circunstâncias.
+Gravidez e lactação
+Categoria de risco na gravidez: B.
+Não existem restrições no tratamento do diabetes com insulina durante a gravidez, já que a insulina não atravessa a barreira placentária.
+Tanto a hipoglicemia como a hiperglicemia, que podem ocorrer com o diabetes mal controlado, aumentam o risco de malformações e óbito
+intra-uterino. Controle e monitoramento intensificados da glicemia de mulheres grávidas com diabetes são recomendados durante toda a
+gravidez e quando se deseja engravidar.
+As necessidades de insulina diminuem geralmente no primeiro trimestre e, posteriormente, aumentam durante o segundo e o terceiro
+trimestres.
+Após o parto, as necessidades de insulina normalmente voltam rapidamente aos valores pré-gravidez.
+Não há restrição ao tratamento durante a amamentação com IVB – INSULINA ISOFANA NPH.
+O tratamento com insulina na mãe lactante não apresenta riscos para o bebê. No entanto, a dose de IVB – INSULINA ISOFANA NPH, a
+dieta ou ambas podem precisar de ajustes.
+Se você está grávida não pare de usar sua insulina e procure orientação médica ou do cirurgião-dentista.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+Populações Especiais
+Nenhum estudo em separado foi realizado com a IVB – INSULINA ISOFANA NPH uma vez que foi desenvolvida como um biossimilar
+da Insulatard.
+As seguintes informações têm como base o SmPC da Insulatard e são consideradas aplicáveis para a IVB – INSULINA ISOFANA NPH.
+Idosos (≥ 65 anos de idade)
+IVB – INSULINA ISOFANA NPH pode ser utilizada em pacientes idosos. Nos pacientes idosos, o monitoramento da glicose deve ser
+intensificado e a dose de insulina ajustada individualmente.
+Comprometimento renal e hepático
+O comprometimento renal ou hepático pode reduzir os requisitos de insulina do paciente. Nos pacientes com comprometimento renal ou
+hepático, o monitoramento da glicose deve ser intensificado e a dose de insulina humana ajustada individualmente.
+População pediátrica
+IVB – INSULINA ISOFANA NPH pode ser utilizada em crianças e adolescentes com a devida orientação médica.
+Este medicamento pode causar doping.
+Não foi demonstrado que a IVB – INSULINA ISOFANA NPH combinada a outras insulinas rápidas que não a IVB – INSULINA
+HUMANA R mantém a mesma segurança e eficácia.
+6. INTERAÇÕES MEDICAMENTOSAS
+Vários medicamentos são conhecidos por interagir com o metabolismo da glicose.
+As seguintes substâncias podem reduzir as necessidades de insulina do paciente: antidiabéticos orais, inibidores da monoamina
+oxidase (IMAO), agentes beta-bloqueadores não seletivos, inibidores da enzima conversora de angiotensina (ECA), salicilatos, esteroides
+anabolizantes e sulfonamidas.
+As seguintes substâncias podem aumentar as necessidades de insulina do paciente: contraceptivos orais, tiazidas, glicocorticoides,
+hormônios da tireóide, simpatomiméticos, hormônio do crescimento e danazol.
+Agentes beta-bloqueadores podem mascarar os sintomas da hipoglicemia e retardar a sua recuperação.
+A octreotida e a lanreotida podem tanto reduzir como aumentar as necessidades de insulina.
+O álcool pode intensificar ou reduzir o efeito hipoglicemiante da insulina.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+IVB – INSULINA ISOFANA NPH (insulina isofana) deve ser conservada sob refrigeração (temperatura entre 2° e 8°C). Não congelar.
+IVB – INSULINA ISOFANA NPH (insulina isofana) possui validade de 24 meses a partir da data de fabricação.
+IVB – INSULINA ISOFANA NPH frasco que estiver em uso ou carregado como reserva não deve ser conservado no refrigerador. Após
+retirar IVB – INSULINA ISOFANA NPH frasco do refrigerador, recomenda-se deixá-lo atingir a temperatura ambiente antes de
+ressuspender a insulina de acordo com as instruções para a primeira utilização. Você pode carregá-lo com você e mantê-lo em temperatura
+ambiente (entre 15 ºC e 30 ºC) por até 4 semanas.
+Após aberto, válido por 4 semanas, sendo armazenado à temperatura ambiente entre 15 ºC e 30 ºC.
+Mantenha sempre o frasco dentro da embalagem externa quando não estiver usando, a fim de protegê-lo da luz.
+IVB – INSULINA ISOFANA NPH deve ser protegida do calor excessivo e da luz.
+IVB – INSULINA ISOFANA NPH é uma suspensão branca que, ao se depositar um sedimento branco deixa um líquido sobrenadante
+incolor ou quase incolor, o sedimento é prontamente ressuspenso por agitação suave.
+Após o início do uso ou quando carregado como reserva: não refrigerar.
+Guarde-o em sua embalagem original.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido.
+Para sua segurança, mantenha o medicamento na embalagem original.
+Antes de usar, observe o aspecto do medicamento.
+Caso ele esteja no prazo de validade e você observe alguma mudança no aspecto, consulte o farmacêutico para saber se poderá
+utilizá-lo.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Posologia
+IVB – INSULINA ISOFANA NPH é uma insulina de ação prolongada.
+A dose é individual, sendo determinada de acordo com as necessidades do paciente. A dose total diária média de insulina necessária para
+manutenção da terapia do paciente com diabetes tipo 1, varia entre 0,5 e 1,0 UI/kg, dependendo do paciente. Entretanto, em pré-
+adolescentes, a média diária de insulina necessária geralmente varia entre 0,7 a 1,0 UI/kg. A dose inicial para portadores de diabetes do tipo
+2 é frequentemente mais baixa, por exemplo, 0,3 a 0,6 UI/kg/dia.
+A exigência diária de insulina pode ser maior em pacientes com resistência à insulina (por exemplo, durante a puberdade ou devido à
+obesidade) e menor nos pacientes com produção endógena residual de insulina.
+O médico determina se uma ou várias injeções diárias são necessárias. IVB – INSULINA ISOFANA NPH pode ser usado isoladamente
+ou misturado com uma insulina de ação rápida ou ultra-rápida. Na insulinoterapia intensiva a suspensão pode ser utilizada como insulina
+basal (injeção à noite e/ou pela manhã) com uma insulina de ação rápida ou ultra-rápida administrada às refeições.
+Nos pacientes com diabetes mellitus, o controle glicêmico otimizado posterga o início de complicações diabéticas tardias. A monitorização
+da glicose no sangue é, portanto, recomendada.
+Doenças concomitantes, especialmente infecções e estados febris, normalmente aumentam as necessidades de insulina do paciente.
+A insuficiência renal ou hepática pode reduzir as necessidades de insulina.
+O ajuste da dose também pode ser necessário se os pacientes alteram sua atividade física ou dieta habitual.
+Pode ser necessário o ajuste da dose quando se transferem pacientes de uma preparação de insulina para outra.
+Administração
+IVB – INSULINA ISOFANA NPH é para uso subcutâneo. Suspensões de insulina nunca devem ser administradas intravenosamente.
+IVB – INSULINA ISOFANA NPH é geralmente administrada subcutaneamente na coxa. Se for conveniente, a parede abdominal, a
+região glútea ou a região do deltoide também podem ser usadas.
+A injeção subcutânea na coxa resulta em uma absorção mais lenta e menos variável em comparação com os outros locais de injeção.
+A injeção numa prega da pele minimiza o risco de injeção intramuscular não intencional. A agulha deve permanecer sob a pele durante 6
+segundos pelo menos para garantir que a dose completa foi aplicada.
+Os locais de injeção deverão ser sempre alternados dentro de uma mesma região a fim de diminuir o risco de lipodistrofia.
+As suspensões de insulina nunca devem ser administradas intravenosamente.
+IVB – INSULINA ISOFANA NPH é acompanhada por uma bula contendo instruções detalhadas para utilização que devem ser seguidas.
+Os frascos foram desenvolvidos para serem usados com seringas de insulina com a escala de unidades correspondente.
+9. REAÇÕES ADVERSAS
+A reação adversa mais frequentemente relatada durante o tratamento é hipoglicemia. A frequência de hipoglicemia varia com a população
+de pacientes, regime posológico e nível de controle glicêmico.
+No início do tratamento com insulina, anomalias de refração, edema e reações no local de aplicação (dor, rubor, prurido, inflamação,
+equimose, edema e urticária) podem ocorrer. Estas reações são, geralmente, transitórias. Melhora rápida do controle glicêmico pode estar
+associada com neuropatia dolorosa aguda, que é, geralmente, reversível. A intensificação da terapia com insulina com melhora intensa e
+repentina do controle glicêmico pode estar associada com a piora temporária da retinopatia diabética, enquanto o controle glicêmico
+melhorado a longo prazo diminui o risco de progressão da retinopatia diabética.
+As reações adversas listadas abaixo são baseadas em dados de estudos clínicos e classificadas de acordo com a frequência e sistemas do
+organismo do MedDRA. As categorias de frequência são definidas de acordo com a convenção: “muito comum” (> 1/10), “comum” (>
+1/100 e < 1/10), “incomum” (> 1/1.000 a < 1/100), “rara” (> 1/10.000 e < 1/1.000), “muito rara” (< 1/10.000) e não conhecida (não pode
+ser determinada a partir dos dados disponíveis).
+Distúrbios do sistema imune:
+Incomum: urticária, erupções cutâneas.
+- Muito rara: reações anafiláticas * (Vide “Descrição das principais reações adversas”)
+Distúrbios do metabolismo e nutrição:
+-Muito comum: hipoglicemia * (Vide “Descrição das principais reações adversas”)
+Distúrbios do sistema nervoso:
+- Muito rara: neuropatia periférica (neuropatia dolorosa)
+Distúrbios da visão:
+- Muito rara: distúrbios de refração
+-Incomum: retinopatia diabética
+Distúrbios da pele e do tecido subcutâneo:
+- Incomum: lipodistrofia* (Vide “Descrição das principais reações adversas”)
+Distúrbios gerais e condições do local de administração:
+- Incomum: reações no local de administração
+- Incomum: edema
+ Descrição das principais reações adversas:
+* Reações anafiláticas
+A ocorrência de reações de hipersensibilidade generalizada (incluindo erupção cutânea generalizada, prurido, sudorese, transtorno
+gastrintestinal, edema angioneurótico, dificuldade de respiração, palpitação, redução na pressão e desmaio/inconsciência) é muito rara mas
+pode ser potencialmente uma ameaça à vida.
+* Hipoglicemia
+A reação adversa mais frequentemente relatada é a hipoglicemia. Ela pode ocorrer se a dose de insulina for muito alta em relação à
+necessidade. Geralmente, os sintomas de hipoglicemia podem ocorrer repentinamente. Eles incluem suor frio, pele fria e pálida, fadiga,
+nervosismo ou tremor, ansiedade, cansaço e fraqueza incomuns, confusão, dificuldade de concentração, sonolência, fome excessiva,
+alterações na visão, cefaléia, náusea e palpitações. A hipoglicemia grave pode levar à inconsciência e/ou convulsões e pode resultar em
+dano temporário ou permanente da função cerebral ou até a morte.
+* Lipodistrofia
+Lipodistrofia é relatada com frequência incomum e pode ocorrer no local de aplicação.
+10. SUPERDOSE
+Não é possível determinar uma superdose específica para insulina. Entretanto, a hipoglicemia pode evoluir em etapas sequenciais se doses
+muito altas em relação à necessidade do paciente forem administradas:
+• Episódios de hipoglicemia leve podem ser tratados pela administração oral de glicose ou produtos açucarados. Portanto, recomenda-se
+que o portador de diabetes carregue sempre consigo produtos contendo açúcar.
+• Episódios de hipoglicemia grave, no qual o paciente fica inconsciente, podem ser tratados com glucagon (0,5 a 1 mg), administrado via
+intramuscular ou subcutânea por uma pessoa treinada, ou com glicose administrada via intravenosa por um profissional de saúde. A glicose
+deve ser administrada via intravenosa se o paciente não responder à injeção de glucagon dentro de 10 a 15 minutos.
+Uma vez recuperada a consciência, recomenda-se a administração oral de carboidratos para prevenir a reincidência.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações sobre como proceder.
+III) DIZERES LEGAIS
+Reg. MS sob nº 1.0407.0112
+Farm. Resp.: Dr. Jorge Luiz Coelho Mattos
+CRF-RJ nº 3.083
+Registrado e distribuído por: INSTITUTO VITAL BRAZIL S.A
+Rua Maestro José Botelho, 64, Vital Brazil, Niterói – RJ/ CEP: 24230-410
+CNPJ/MF n°: 30.064.034/0001-00
+Fabricado por: Biocon Limited.
+Bangalore / Índia
+Importado por: EMS S/A
+Hortolândia / SP
+VENDA PROIBIDA AO COMÉRCIO.
+USO SOB PRESCRIÇÃO MÉDICA.
+Esta bula foi aprovada em 01/08/2019.
+SAC: 0800-0221036
+sac@vitalbrazil.rj.gov.br
+www.vitalbrazil.rj.gov.br
+Histórico de alteração da bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do Nº. Data do Data de Versões
+Assunto Nº. expediente Assunto Itens de bula Apresentações relacionadas
+expediente expediente expediente aprovação (VP/VPS)
+10489 - PRODUTO
+10463 - PRODUTO Submissão eletrônica
+BIOLÓGICO - BIOLÓGICO - para disponibilização
+100 UI/ML SUS INJ
+N/A N/A Inclusão Inicial de 19/07/2019 0635765/19-2 REGISTRO DE 12/08/2019 do texto de bula no VP/VPS
+CT FA X 10 ML
+Texto de Bula - RDC MEDICAMENTO - Bulário eletrônico da
+60/12 CLONE ANVISA.

@@ -1,0 +1,100 @@
+INDICAÇÕES Fauldacar® é indicado no tratamento de melanoma maligno metastático. Além disto, Fauldacar® é indicado na doença
+de Hodgkin, como uma terapia de segunda linha, quando em combinação com outros agentes eficazes.
+2. RESULTADOS DE EFICÁCIA
+• Melanoma maligno
+A eficácia da dacarbazina no tratamento do melanoma metastático foi avaliada em vários estudos clínicos. Segundo a
+revisão de Serrone e cols.1, a monoterapia com dacarbazina determina uma taxa de resposta objetiva de aproximadamente
+20%, com uma duração de resposta mediana de 5 (cinco) a 6 (seis) meses e taxas de resposta completa de 5%.
+No estudo de Middleton e cols.2, a dacarbazina na dose inicial de 250 mg/m2/dia durante 5 (cinco) dias a cada 21 (vinte e
+um) dias foi administrada a 149 (cento e quarenta e nove) pacientes ≥ 18 (dezoito) anos de idade portadores de melanoma
+metastático avançado cirurgicamente irresecável. Os pacientes deveriam ter doença mensurável e performance status
+(OMS) ≤ 2. Foram excluídos pacientes que já haviam recebido tratamento prévio para doença metastática (exceto
+radioterapia local), ou que apresentavam metástases em sistema nervoso central (SNC). Na população com intenção de
+tratamento (ITT), o tempo de sobrevida mediano foi de 6,4 meses e o tempo de sobrevida livre de progressão mediano
+foi de 1,5 meses. Resposta completa (RC), parcial (RP) e estabilização da doença foram observadas, respectivamente, em
+2,7%, 9,4% e 15,8% dos pacientes tratados. Dentre os pacientes respondedores (RC e RP), o tempo de sobrevida global
+mediano foi de 20 (vinte) meses.
+Vários estudos avaliaram regimes de quimioterapia, ou bioquimioterapia, contendo dacarbazina. Legha e cols.3 analisaram
+a atividade antitumoral e a toxicidade do regime, contendo cisplatina [20 mg/m2/d por 4 (quatro) dias], vimblastina [1,6
+mg/m2/d por 4 (quatro) dias] e dacarbazina [800 mg/m2 IV no dia 1 (um)] em combinação com interferon alfa (5 x 106
+U/m2/d SC por 5 dias) e interleucina-2 (9 x 106 UI/m2/d IV por infusão contínua, por 4 (quatro) dias), repetidos a intervalos
+de 21 (vinte e um) dias, em 53 (cinquenta e três) pacientes portadores de melanoma metastático com lesões mensuráveis,
+performance status (ECOG) ≤ 2 e sem metástases sintomáticas em SNC. A resposta foi avaliada após dois ciclos, e os
+pacientes que responderam continuaram o tratamento até um total de seis ciclos. Onze pacientes (21%) alcançaram RC e
+23 (vinte e três) pacientes (43%) alcançaram RP, totalizando 64% de resposta objetiva global, a qual teve duração mediana
+de 6,5 meses. Considerando-se todos os pacientes, o tempo mediano para progressão da doença foi de 5 (cinco) meses e
+a sobrevida mediana foi de 11,8 meses.
+Eton e cols.4 realizaram um estudo clínico de fase III para comparar os efeitos da quimioterapia com cisplatina, na dose
+de 20 mg/m2, nos dias 1- 4 e 22-25, vimblastina na dose de 2 mg/m2 nos dias 1-4 e 22-25 e dacarbazina 800 mg/m2 nos
+dias 1 e 22 (CVD), com aqueles da bioquimioterapia sequencial, que consistia no regime CVD (com vimblastina na dose
+de 1,5 mg/m2) mais interleucina-2 administrada como infusão contínua em 24 (vinte e quatro) horas, na dose de 9 MUI/m2,
+nos dias 5-8, 17-20 e 26-29 e interferon alfa-2b, na dose de 5 MU/m2 SC, nos dias 5-9, 17-21 e 26-30. Cada curso de
+tratamento consistia de dois ciclos de 21 (vinte e um) dias de quimioterapia dados em um período de 6 (seis) semanas. Os
+pacientes foram avaliados a cada 6 (seis) semanas e aqueles com evidência de redução tumoral repetiam o tratamento.
+Dentre os 190 (cento e noventa) pacientes incluídos, 91 (noventa e um) foram avaliáveis para o regime de
+bioquimioterapia e 92 (noventa e dois) para o regime de quimioterapia. As taxas de resposta foram de 48% para a
+bioquimioterapia e 25% para a quimioterapia (p=0,001), enquanto o tempo para progressão mediano foi de 4,9 e 2,4
+meses, e a sobrevida mediana foi de 11,9 e 9,2 meses, respectivamente. Naqueles pacientes que apresentaram RC ou RP
+1
+F.DACA_V.03-23
+ao tratamento, a sobrevida mediana foi de 18,7 meses no grupo que recebeu bioquimioterapia e 15,4 meses no grupo que
+recebeu quimioterapia.
+Atkins e cols.5 randomizaram 395 (trezentos e noventa e cinco) pacientes portadores de melanoma metastático progressivo
+com doença mensurável e com performance status (ECOG) < 2 para receber o regime CVD (cisplatina 20 mg/m2/d nos
+dias 1-4; vimblastina 1,2 mg/m2/d nos dias 1-4; dacarbazina 800 mg/m2 no dia 1; n=195) isoladamente, ou em combinação
+com interleucina-2 (9 MUI/m2 nos dias 1-4) e interferon alfa-2b (5 MU/m2 nos dias 1-5, 8, 10 e 12; n=200) a cada 21
+(vinte e um) dias por um máximo de quatro ciclos. A resposta tumoral foi avaliada após os ciclos 2 (dois) e 4 (quatro) e,
+a seguir, a cada 3 (três) meses. A taxa de resposta foi de 19,5% no grupo que recebeu bioquimioterapia, e 13,8% no grupo
+CVD (p =0,140). A sobrevida livre de progressão mediana foi significativamente mais longa com o regime de
+bioquimioterapia que com o regime CVD (4,8 versus 2,9 meses; p = 0,015), embora isso não tenha se traduzido em
+vantagem na sobrevida global mediana (9,0 versus 8,7 meses), ou na porcentagem de pacientes vivos após 1 (um) ano
+(41% versus 36,9%).
+• Doença de Hodgkin:
+A eficácia da dacarbazina, como parte do regime ABVD, foi avaliada em vários estudos clínicos, no tratamento da Doença
+de Hodgkin. Duggan e cols.6 compararam o regime que alterna os esquemas MOPP (mecloretamina, vincristina,
+procarbazina e prednisona) e ABV (MOPP/ABV) com o regime ABVD (doxorrubicina 25 mg/m2, bleomicina 10 mg/m2,
+vimblastina 6 mg/m2e dacarbazina 375 mg/m2 nos dias 1 e 15) isoladamente em portadores de Doença de Hodgkin
+avançada. Um total de 856 (oitocentos e cinquenta e seis) pacientes com doença histologicamente confirmada nos estádios
+III2A, IIIB, ou IV, ou que haviam experimentado recidiva após radioterapia foram randomizados para uma das duas
+modalidades de tratamento. As taxas de remissão completa (76% versus 80%), sobrevida livre de falência em 5 (cinco)
+anos (63% versus 66%) e sobrevida global em 5 (cinco) anos (82% versus 81%) foram semelhantes entre os grupos
+ABVD e MOPP/ABV, respectivamente. Uma vez que o regime MOPP/ABV foi associado com maior incidência de
+toxicidade aguda pulmonar e hematológica (efeitos adversos de outras drogas antineoplásicas), síndrome mielodisplásica
+e leucemia, os autores concluíram que o regime ABVD deveria ser considerado o regime padrão no tratamento da doença
+de Hodgkin avançada.
+Straus e cols.7tiveram como objetivo determinar se a combinação de quimioterapia e radioterapia (terapia combinada)
+era superior à quimioterapia isoladamente em portadores de Doença de Hodgkin nos estádios IA, IB, IIA, IIB e IIIA sem
+massa tumoral. Os pacientes foram randomizados para receber seis ciclos do regime ABVD a cada 28 (vinte e oito) dias
+isoladamente ou seguido de radioterapia (3600 cGy). Dos 69 (sessenta e nove) pacientes avaliáveis em cada grupo, 94%
+alcançaram remissão completa. Em 60 (sessenta) meses, a duração da remissão completa e sobrevida global no grupo de
+terapia combinada versus ABVD isoladamente foram 91% versus 87% e 97% versus 90%, respectivamente, não se
+evidenciando diferenças estatisticamente significativas entre as duas modalidades de tratamento.
+Bonadonna e cols.8compararam o tratamento com quatro ciclos do regime ABVD seguido por irradiação nodal subtotal,
+ou por radioterapia da área envolvida em 136 (cento e trinta e seis) pacientes, com doença de Hodgkin nos estádios IA,
+IB e IIA. Remissão completa foi alcançada em 100% e 97% dos pacientes, e as taxas de sobrevida global foram de 96%
+e 94%, respectivamente. Os autores concluíram que o regime ABVD seguido por radioterapia da área envolvida pode ser
+considerado uma modalidade de tratamento efetiva e segura na Doença de Hodgkin inicial.
+Engert e cols.9compararam a terapia combinada (dois ciclos de ABVD seguidos por radioterapia estendida) com a
+radioterapia estendida isoladamente em 650 (seiscentos e cinquenta) pacientes com Doença de Hodgkin recém-
+diagnosticada nos estádios IA a IIB. Após um período de observação mediano de 87 (oitenta e sete) meses, não houve
+diferenças entre os dois grupos de tratamento, na taxa de RC (95% e 94%, respectivamente) e na sobrevida global (92%
+e 94%, respectivamente); porém, houve mais recidivas nos pacientes tratados apenas com radioterapia (22%) em relação
+aos que receberam terapia combinada (3%), o que demonstrou que esta última é mais eficaz que a radioterapia isolada.
+Os resultados do tratamento para Linfoma de Hodgkin em pediatria com esquemas quimioterápicos que incluem a
+dacarbazina tem se mostrado animadores.
+Weiner et al10conduziram um estudo randomizado empregando 8 ciclos de MOPP (mostarda nitrogenada, vincristina,
+procarbazina e prednisona) e ABVD (doxorrubicina, bleomicina, vimblastina e dacarbazina), associado ou não a
+radioterapia em baixas doses, em 183 crianças e adolescentes com estádio IIB, IIIA2, IIIB e IV. A remissão completa foi
+obtida em 90% dos casos após o término dos oito ciclos de quimioterapia. A sobrevida livre de eventos e a sobrevida
+global estimadas em 5 anos foi de 79% e 92%, respectivamente. A sobrevida livre de eventos em 5 anos para o grupo que
+recebeu apenas quimioterapia foi de 79%, enquanto para aqueles que receberam também radioterapia foi de 80%,
+sugerindo que, com o advento da quimioterapia MOPP-ABVD, a radioterapia em baixas doses não melhora a SLE e a
+SG nesses pacientes.
+Estudo retrospectivo brasileiro avaliou 69 crianças entre 2 e 18 anos (mediada de 11 anos) com doença de Hodgkin. Até
+1996, a terapia utilizada era adriamicina, bleomicina, vimblastina e dacarbazina / vincristina, procarbazina, prednisona e
+adriamicina (ABVD/OPPA). Após 1996, a terapia utilizada foi ABVD. A sobrevida global com resposta completa foi de
+94,2%, a SLE foi de 87% e a duração mediana de seguimento de 82 meses (12-332 meses)11.
+A tabela abaixo compila os resultados do tratamento do linfoma de Hodgkin em pacientes pediátricos com esquemas
+utilizando dacarbazina12.
+2
+F.DACA_V.03-23

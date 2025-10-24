@@ -1,0 +1,1591 @@
+Elome
+(bortezomibe)
+Bula para profissional da saúde
+Pó liofilizado para solução injetável
+3,5 mg
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+IDENTIFICAÇÃO DO MEDICAMENTO
+Elome
+bortezomibe
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA.
+APRESENTAÇÃO
+Pó liofilizado para solução injetável 3,5 mg: embalagem contendo 1 frasco-ampola.
+USO INTRAVENOSO OU SUBCUTÂNEO
+USO ADULTO
+COMPOSIÇÃO:
+Cada frasco-ampola contém:
+bortezomibe...............................................................3,5 mg
+excipiente* q.s.p.........................................1 frasco-ampola
+*Excipiente: manitol.
+Para uso intravenoso: Após a reconstituição com 3,5 mL de solução salina (0,9%), cada mL contém 1 mg de bortezomibe.
+Para uso subcutâneo: Após a reconstituição com 1,4 mL de solução salina (0,9%), cada mL contém 2,5 mg de bortezomibe.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Elome (bortezomibe) é indicado para o tratamento de pacientes com mieloma múltiplo:
+- que não receberam tratamento prévio e impossibilitados de receberem tratamento com alta dose de quimioterapia e
+transplante de medula óssea. Nesses pacientes, este medicamento é utilizado em combinação com melfalana e prednisona.
+- que não receberam tratamento prévio e que são elegíveis a receberem tratamento de indução com alta dose de
+quimioterapia com transplante de células-tronco hematopoiéticas. Nesses pacientes, este medicamento é utilizado em
+combinação com dexametasona, ou com dexametasona e talidomida.
+- que receberam pelo menos um tratamento anterior.
+- o retratamento com bortezomibe pode ser considerado para pacientes com mieloma múltiplo que haviam respondido
+previamente ao tratamento com este medicamento. O período mínimo entre o tratamento anterior e o início do retratamento
+é de 6 meses.
+2. RESULTADOS DE EFICÁCIA
+Estudo clínico aberto, randomizado em pacientes com mieloma múltiplo sem tratamento prévio
+Um estudo clínico prospectivo de Fase 3 (VISTA), aberto, randomizado (1:1), internacional, de 682 pacientes foi conduzido
+para determinar se bortezomibe (1,3 mg/m2) em combinação com melfalana (9 mg/m2) e prednisona (60 mg/m2) resultou
+em melhora no tempo de progressão (TTP) quando comparado com melfalana (9 mg/m2) e prednisona (60 mg/m2) em
+pacientes com mieloma múltiplo sem tratamento prévio. Este estudo incluiu pacientes que não foram candidatos a
+transplante de células-tronco.
+O tratamento foi administrado para um máximo de 9 ciclos (aproximadamente 54 semanas) e foi descontinuado em caso
+de progressão da doença ou toxicidade inaceitável. A condição basal demográfica e as características dos pacientes estão
+resumidas na Tabela 1.
+Tabela 1: Resumo da condição basal do paciente e características da doença no estudo VISTA.
+Características do paciente VMP n = 344 MP n = 338
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Idade mediana em anos (faixa de idade) 71,0 (57, 90) 71,0 (48, 91)
+Sexo: masculino/feminino 51% / 49% 49% / 51%
+Raça: caucasiano/asiático/negro/outros 88% / 10% / 1% / 1% 87% / 11% / 2% / 0%
+Escore da “performance status” de Karnofsky ≤ 70 35% 33%
+Hemoglobina < 100 g/L 37% 36%
+Contagem de plaquetas < 75 x 109/L < 1% 1%
+Características da doença
+Tipo de mieloma (%): IgG/IgA/cadeia leve 64% / 24% / 8% 62% / 26% / 8%
+Beta-2-microglobulina, mediana (mg/L) Albumina, 4,2 4,3
+mediana (g/L) 33,0 33,0
+Depuração de creatinina <30 mL/min [n (%)] 20 (6%) 16 (5%)
+O desfecho primário (tempo para progressão) foi atingido em análise interina pré-determinada do estudo, sendo oferecido
+aos pacientes do braço MP o tratamento VMP. A mediana de acompanhamento foi 16,3 meses. Uma atualização final da
+sobrevida foi feita com uma duração mediana de acompanhamento aos 60,1 meses. Foi observado um benefício da
+sobrevida estatisticamente significativa a favor do tratamento VMP (HR = 0,695; p = 0,00043), apesar das terapias
+subsequentes que incluíram regimes baseados em bortezomibe. A sobrevida mediana do grupo de tratamento MP foi
+estimada como 43,1 meses e a sobrevida mediana no grupo de tratamento VMP foi estimada em 56,4 meses. Resultados de
+eficácia são apresentados na Tabela 2.
+Tabela 2: Resumo da análise de eficácia do estudo VISTA
+Desfecho de eficácia VMP MP
+n = 344 n = 338
+Tempo para progressão
+101 (29) 152 (45)
+Eventos n (%)
+Mediana ª (IC 95%) 20,7 meses 15,0 meses
+(17,6; 24,7) (14,1; 17,9)
+Razão de riscoᵇ
+0,54 (0,42; 0,70)
+(IC 95%)
+Valor pᶜ 0,000002
+Sobrevida livre de progressão
+135 (39) 190 (56)
+Eventos n (%)
+Medianaª 18,3 meses 14,0 meses
+(IC 95%) (16,6; 21,7) (11,1; 15,0)
+Razão de riscoᵇ
+0,61 (0,49; 0,76)
+(IC 95%)
+Valor pᶜ 0,00001
+Sobrevida globalh
+176 (51,2) 211 (62,4)
+Eventos (mortes) n (%)
+Medianaª (IC 95%) 56,4 meses 43,1 meses
+(52,8; 60,9) (35,3; 48,3)
+Razão de riscoᵇ 0,695
+(IC 95%) (0,567; 0,852)
+Valor pᶜ 0,00043
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Taxa de resposta
+n = 337 n = 331
+Populaçãoᵉ n = 668
+Resposta completa (CR)ᶠ n (%) 102 (30) 12 (4)
+Resposta parcial (PR)f n (%)
+136 (40) 103 (31)
+Resposta próxima à completa
+(nCR) n (%) 5 (1) 0
+CR + PRf n (%) 238 (71) 115 (35)
+Valor pᵈ < 10-10
+Redução na proteína-M sérica
+População ᵍ n = 667 n = 336 n = 331
+≥ 90% n (%) 151 (45) 34 (10)
+Tempo para a primeira resposta
+em CR + PR
+Mediana 1,4 meses 4,2 meses
+Mediana da duração da
+respostaª
+CRᶠ 24,0 meses 12,8 meses
+CR + PRᶠ 19,9 meses 13,1 meses
+Tempo para o próximo
+tratamento 224 (65,1) 260 (76,9)
+Eventos n (%)
+Medianaa (IC 95%) 27,0 meses 19,2 meses
+(24,7; 31,1) (17,0; 21,0)
+Razão de riscoᵇ
+0,557 (0,462; 0,671)
+(IC 95%)
+Valor pᶜ (< 0,000001)
+Nota: Todos os resultados são baseados em análises efetuadas com uma duração mediana de acompanhamento de 16,3
+meses, exceto pela análise de sobrevida global, que foi realizada com um acompanhamento mediano de 60,1 meses.
+a estimativa de Kaplan-Meier.
+b estimativa da razão de risco está baseada no modelo de risco-proporcional de Cox ajustado pela estratificação de fatores
+de risco: beta-2-microglobulina, albumina e região. Uma razão de risco menor que 1 indica uma vantagem para VMP.
+c valor p nominal baseado no teste log-rank ajustado pela estratificação de fatores: beta-2-microglobulina, albumina e
+região.
+d valor de p para Taxa de Resposta (CR + PR) do teste chi-quadrado Cochran-Mantel-Haenszel para os fatores de
+estratificação.
+e população de resposta inclui pacientes que tiveram mensurada a doença na condição basal.
+f critério EBMT.
+g todos os pacientes randomizados com doença secretora.
+h atualização da sobrevida baseada na duração mediana de acompanhamento aos 60,1 meses.
+NE: não estimado.
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Pacientes elegíveis para transplante de células-tronco
+Foram conduzidos três estudos clínicos de Fase III (MMY-3003, IFM-2005-01, MMY-3010) para demonstrar a segurança
+e a eficácia de bortezomibe, como tratamento de indução antes do transplante de células-tronco em pacientes com mieloma
+múltiplo não tratado anteriormente. Estes estudos foram semelhantes no desenho (randomizados, abertos e multicêntricos)
+e incluíram 1572 pacientes [homens e mulheres de até 65 anos de idade, com mieloma múltiplo não tratado anteriormente
+(estágio II ou III de Durie-Salmon) e PS do ECOG de 0 a 2/3]. Os pacientes receberam um regime de indução que continha
+bortezomibe (n=787), ou um regime de indução que não continha bortezomibe (n=785).
+Estes estudos avaliaram bortezomibe em combinação com: 1) dexametasona e doxorrubicina (MMY-3003), 2) talidomida
+e dexametasona (MMY-3010) ou 3) dexametasona isoladamente (IFM-2005-01).
+Os regimes de indução que continham bortezomibe foram comparados aos regimes que incluíram vincristina, doxorrubicina
+e dexametasona ou talidomida e dexametasona.
+Melhoras em PFS, TTP, sobrevida global e taxas de resposta pós-indução e pós-transplante foram evidentes em cada um
+dos estudos, conforme demonstrado na tabela a seguir:
+Tabela 3: Resultados de eficácia dos estudos MMY-3003, IFM-2005-01, MMY-3010 após a administração de
+tratamento de indução à base de bortezomibe.
+Tratamento de
+Tratamento de indução
+indução que HR; IC de 95%;
+Desfechos que não
+continha valor pa/ OR; IC de 95%; valor pᵇ
+continha bortezomibe
+bortezomibe
+MMY-3003 n = 410 n = 411 -
+*PFS, mediana, meses 0,76; (0,63; 0,91);
+35,0 (30,8; 39,2) 28,1 (24,8, 31,8)
+(IC de 95%)ᶜᵈᵉ 0,003a
+RR (pós-indução): CR +
+nCR 18,2 (14,6; 22,3) 6,3 (4,1; 9,0) 3,40 (2,12; 5,45); < 0,001ᵇ
+CR + nCR + VGPR + 84,2 (80,3; 87,5) 61,3 (56,4; 66,0) 3,32 (2,38; 4,62); < 0,001ᵇ
+PR% (IC de 95%)
+RR (pós-transplante)
+CR + nCR CR + nCR + 32,6 (28,1; 37,3) 19,7 (16,0; 23,9) 2,00 (1,45; 2,76); < 0,001ᵇ
+VGPR + PR 77,5 (73,1; 81,4) 65,9 (61,1; 70,4) 1,74 (1,28; 2,36); < 0,001ᵇ
+% (IC de 95%)
+OS, taxa de OS de 3 anos
+78,4 (73,9; 82,2) 71,6 (66,8; 75,9) -
+% (IC de 95%)ᵈᵉ
+TTP, mediana, meses (IC 0,79 (0,65; 0,95);
+37,4 (33,3; 39,8) 31,7 (27,4; 35,4)
+de 95%) ᵈᵉ 0,010ª
+MMY-3010 n = 130 n = 126
+*RR (pós-indução) CR +
+nCR 49,2 (40,4; 58,1) 17,3 (11,2; 25,0) 4,63 (2,61; 8,22); < 0,001ᵇ
+CR + nCR + PR % (IC de 84,6 (77,2; 90,3) 61,4 (52,4; 69,9) 3,46 (1,90; 6,27); < 0,001ᵇ
+95%)
+*RR (pós-transplante) CR
+2,34 (1,42; 3,87);
++ nCR 55,4 (46,4; 64,1) 34,6 (26,4; 43,6)
+0,001ᵇ
+CR + nCR + PR % (IC de 77,7 (69,6; 84,5) 56,7 (47,6; 65,5)
+2,66 (1,55; 4,57); < 0,001ᵇ
+95%)
+PFS, mediana, meses (IC 0,65 (0,45; 0,92);
+55,5 (31,2; NE) 27,9 (19,8; 34,6)
+de 95%) ᵇᶠ 0,015ª
+TTP, mediana, meses (IC 0,64 (0,44; 0,93);
+NE (31,9; NE) 29,0 (23,3; 45,9)
+de 95%)ᵈᶠ 0,017ª
+OS, taxa de OS de 3 anos
+81,1 (72,4; 87,3) 77,6 (68,6; 84,3) -
+(IC de 95%)ᵈᶠ
+IFM-2005-01 n = 239 n = 239 -
+RR (pós-indução) 2,58 (1,37; 4,85);
+*CR + nCR 14,6 (10,4; 19,7) 6,2 (3,5; 10,0) 0,003ᵇ
+CR + nCR + VGPR + PR 77,1 (71,2; 82,2) 60,7 (54,3; 66,9) 2,18 (1,46; 3,24);
+% (IC de 95%) <0,001ᵇ
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+RR (pós-transplante) CR 1,98 (1,33; 2,95);
++ nCR 37,5 (31,4; 44,0) 23,1 (18,0, 29,0) 0,001ᵇ
+CR + nCR + VGPR + PR 79,6 (73,9; 84,5) 74,4 (68,4, 79,8) 1,34 (0,87; 2,05);
+% (IC de 95%) 0,179ᵇ
+PFS, mediana, meses (IC 0,78 (0,60; 1,01);
+36,1 (32,5; 41,1) 29,7 (26,3; 37,2)
+de 95%)ᵈ 0,058ª
+TTP, mediana, meses (IC 0,78 (0,60; 1,02);
+37,3 (33,6; 41,2) 30,6 (27,2; 38,5)
+de 95%)ᵈ 0,069ª
+OS, taxa de OS de 3 anos
+81,4 (74,8; 86,3) 77,3 (70,0; 83,1) NE
+% (IC de 95%)ᵈ
+IC = intervalo de confiança; CR = resposta completa; nCR = resposta quase completa; VGPR = resposta parcial muito boa;
+PR = resposta parcial, PFS = sobrevida livre de progressão; HR = razão de risco; NE = não estimável; OR = odds ratio; OS
+= sobrevida global; TTP = tempo até a progressão. *Desfecho primário.
+a HR para PFS, OS, e TTP com base em um modelo de Cox estratificado; valor p pelo teste de classificação logarítmica.
+b OR para as taxas de resposta com base na estimativa de Mantel-Haenszel da odds ratio comum para as tabelas
+estratificadas; valores p pelo teste de Cochran-Mantel-Haenszel.
+c Classificado na ocasião do transplante de células-tronco alogênicas.
+d Com base nas estimativas do limite do produto de Kaplan-Meier.
+e Inclui o tratamento da Fase de manutenção: talidomida no grupo de tratamento com vincristina, doxorrubicina e
+dexametasona, e bortezomibe no grupo de tratamento com bortezomibe, doxorrubicina e dexametasona.
+f Inclui o tratamento da Fase de manutenção: interferon α-2b, talidomida ou bortezomibe + talidomida.
+Observação: A HR < 1 ou OR > 1 indica uma vantagem para o tratamento de indução que contém bortezomibe.
+Uma análise dos dados integrada dos 3 estudos demonstrou que o grupo de tratamento à base de bortezomibe havia
+apresentado melhora das taxas de resposta pós-transplante e pós-indução, e melhora da PFS e do TTP, em comparação ao
+grupo de tratamento não à base de bortezomibe. A duração mediana do acompanhamento para a população integrada foi de
+37 meses para ambos os grupos de tratamento à base de bortezomibe e não à base de bortezomibe. Embora a OS mediana
+ainda não houvesse sido alcançada em qualquer grupo de tratamento na ocasião do corte clínico, houve uma forte tendência
+favorecendo o grupo de tratamento à base de bortezomibe com uma redução de 19% no risco de morte (HR = 0,81; IC de
+95%: 0,66, 0,99; p = 0,0402). Semelhante à PFS e ao TTP, as taxas de sobrevida de 1, 2 e 3 anos foram consistentemente
+mais altas no grupo de tratamento à base de bortezomibe do que no grupo de tratamento não à base de bortezomibe.
+Estudos clínicos de Fase 2 em mieloma múltiplo recidivado
+A segurança e a eficácia de bortezomibe IV foram avaliadas em um estudo multicêntrico aberto, com braço único de
+tratamento, em 202 pacientes que haviam recebido pelo menos 2 tratamentos anteriores e demonstraram progressão durante
+a terapia mais recente. O número mediano de terapias anteriores foi 6. As características do paciente e da doença na condição
+basal estão resumidas na Tabela 4.
+Uma injeção intravenosa em bolus de bortezomibe 1,3 mg/m2/dose foi administrada 2 vezes por semana por 2 semanas,
+seguida por um período de descanso de 10 dias (ciclo de tratamento de 21 dias), por no máximo 8 ciclos de tratamento. O
+estudo usou modificações da dose em função da toxicidade.
+Pacientes que apresentaram expectativa de resposta ao tratamento com bortezomibe continuaram o tratamento em um
+estudo de extensão.
+T abela 4: Resumo da população de pacientes e características da doençaª
+n = 202
+Características do paciente
+Idade mediana em anos (intervalo) 59 (34, 84)
+Sexo: masculino/feminino 60% / 40%
+Raça: caucasiano, negro, outro 81% / 10% / 8%
+Escore da “performance status” de Karnofsky < 70 20%
+Hemoglobina < 100 g/L 44%
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Contagem de plaquetas < 75 x 109/L 21%
+Características da doença
+Tipo de mieloma (%): IgG/IgA/cadeia leve 60%/24%/14%
+Beta-2-microglobulina, mediana (mg/L) 3;5
+Depuração da creatinina, mediana (mL/min) 73,9
+Citogenética anormal 35%
+Deleção do cromossomo 13 15%
+Duração mediana do mieloma múltiplo desde o diagnóstico 4 anos
+Tratamento prévio
+Qualquer esteroide prévio, exemplo: dexametasona, VAD Qualquer agente 99%
+alquilante prévio, exemplo: MP, VBMCP Qualquer antraciclina prévia, 92%
+exemplo: VAD, mitoxantrona 81%
+Qualquer tratamento prévio com talidomida 83%
+Recebido pelo menos 2 dos agentes anteriores 98%
+Recebido pelo menos 3 dos agentes anteriores 92%
+Recebidos todos os 4 agentes anteriores 66%
+Qualquer transplante prévio de célula-tronco / outra terapia com altas doses 64%
+Terapia experimental anterior ou outros tipos de terapia 44%
+ª Com base no número de pacientes com dados disponíveis na condição basal.
+As taxas de resposta ao bortezomibe isolado (Tabela 5) foram determinadas por um Comitê de Revisão Independente (CRI)
+com base nos critérios publicados por Bladé e outros. Resposta completa exigiu < 5% de células plasmáticas na medula,
+100% de redução na proteína-M e teste de imunofixação negativo. As taxas de resposta utilizando os critérios do “SWOG”
+(Southwest Oncology Group) também são mostradas. A resposta de acordo com o “SWOG” exigiu uma redução > 75% no
+nível sérico de proteína do mieloma e/ou > 90% da proteína na urina. Um total de 188 pacientes foi avaliado quanto à
+resposta; 9 pacientes com doença não mensurável não puderam ser avaliados quanto à resposta pelo CRI. Cinco pacientes
+foram excluídos das análises de eficácia por terem terapia prévia mínima.
+Noventa e oito porcento dos pacientes do estudo receberam uma dose inicial de 1,3 mg/m2, administrado por via
+intravenosa. Vinte e oito porcento destes pacientes receberam uma dose de 1,3 mg/m2 ao longo do estudo, enquanto em
+33% dos pacientes que iniciaram com uma dose de 1,3 mg/m2, foi necessário reduzir a dose durante o estudo. Sessenta e
+três porcento dos pacientes tiveram pelo menos uma dose suspensa durante o estudo. Em geral, pacientes com resposta
+completa confirmada receberam 2 ciclos adicionais do tratamento com bortezomibe após a confirmação.
+Era recomendado que pacientes respondedores recebessem até 8 ciclos de tratamento com bortezomibe.
+O número médio de ciclos administrados foi 6.
+O tempo mediano para resposta foi 38 dias (variação de 30 a 127 dias). A sobrevida mediana de todos os pacientes
+recrutados foi 16 meses (variação < 1 a 18+ meses).
+Tabela 5: Resumo da evolução da doença
+Análises da resposta (bortezomibe em monoterapia) n (%) (IC 95%)
+(n = 188)
+Taxa de resposta global (Bladé) (CR + PR) 52 (27,7%) (21, 35) (1, 6) (19, 32)
+Resposta completa (CR)a 5 (2,7%)
+Resposta parcial (PR)b 47 (25%)
+Remissão clínica (SWOG)c 33 (17,6) (12, 24)
+Estimativa de Kaplan-Meier para a duração mediana da 365 dias (224, NE)
+resposta (IC 95%)
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+a .Resposta Completa: < 5% de células plasmáticas na medula, 100% de redução na proteína-M e teste de imunofixação
+negativo.
+b. Resposta Parcial: redução da proteína monoclonal sérica ≤ 50% e redução da proteína monoclonal urinária ≥ 90% em
+pelo menos 2 ocasiões por um mínimo de pelo menos 6 semanas, doença óssea e cálcio estáveis.
+c. Remissão Clínica (SWOG): redução da proteína monoclonal sérica ≥ 75% e/ou redução da proteína monoclonal urinária
+≥ 90% em pelo menos 2 ocasiões por um mínimo de pelo menos 6 semanas, doença óssea e cálcio estáveis.
+Neste estudo, a taxa de resposta a este medicamento foi independente do número e tipos de tratamentos anteriores. Houve
+uma probabilidade reduzida de resposta em pacientes com células plasmáticas > 50% ou citogenética anormal na medula
+óssea. A resposta foi observada em pacientes com anomalias do cromossomo 13.
+Um estudo de dose-resposta foi realizado em 54 pacientes com mieloma múltiplo que receberam 1,0 mg/m2/dose ou 1,3
+mg/m2/dose, duas vezes por semana durante 2 de 3 semanas. Resposta isolada completa foi observada em cada dose e foram
+observadas taxas de resposta (CR + PR) global de 30% (8/27) na dose de 1,0 mg/m2 e 38% (10/26) na dose de 1,3 mg/m2.
+Pacientes que não conseguiram uma resposta ótima no tratamento com bortezomibe isolado (doença progressiva ou estável
+após 2 ou 4 ciclos respectivamente) foram capazes de receber uma alta dose de dexametasona em conjunto com bortezomibe
+(exemplo: 40 mg de dexametasona administrada por via oral para cada dose de bortezomibe sendo que 20 mg no dia da
+administração de bortezomibe e 20 mg no dia após a administração (exemplo: Dias 1, 2, 4, 5, 8, 9, 11 e 12) mais 160 mg
+após 3 semanas.
+Um total de 74 pacientes recebeu dexametasona administrada em combinação com bortezomibe e foram avaliados através
+da resposta. Dezoito por cento (18%) dos pacientes (13 em 74) obtiveram sucesso ou tiveram um aumento na resposta (CR
+11% ou PR 7%) com tratamento combinado.
+Estudo clínico aberto e randomizado para mieloma múltiplo recidivado comparando bortezomibe à dexametasona
+Um estudo clínico Fase 3 prospectivo (APEX), randomizado (1:1), internacional, aberto, estratificado, contou com 669
+pacientes que foram designados para determinar se o tratamento com bortezomibe resultava em aumento do tempo de
+progressão quando comparado à alta dose de dexametasona em pacientes com mieloma múltiplo progressivo após a
+utilização de uma a três terapias anteriores.
+Pacientes considerados refratários ao tratamento prévio com altas doses de dexametasona foram excluídos, bem como
+aqueles que na avaliação inicial (linha de base) apresentavam neuropatia periférica de grau ≥ 2 ou contagem plaquetária <
+50.000/mcL. Um total de 627 pacientes foi avaliado.
+Os fatores de estratificação foram baseados no número de linhas de terapias anteriores que os pacientes receberam
+previamente (uma linha prévia versus mais que uma linha de terapia), tempo de progressão relativo aos tratamentos
+anteriores (progressão durante ou dentro do período de 6 meses de parada da terapia mais recente versus recaída > 6 meses
+após receber terapia mais recente) e níveis identificados de beta-2-microglobina (≤ 2,5 mg/L versus > 2,5 mg/L).
+Dados dos pacientes e características da doença na linha de base estão descritos na Tabela 6.
+Tabela 6: Resumo das características basais dos pacientes e da doença no estudo clínico Fase 3 (APEX)
+Bortezomibe n = 333 dexametasona n = 336
+Características dos pacientes
+Idade mediana em anos (intervalo) 62,0 (33, 84) 61,0 (27, 86)
+Sexo: masculino/feminino 56% / 44% 60% / 40%
+Raça: caucasiano, negro, outro 90% / 6% / 4% 88% / 7% / 5%
+Escore da “performance status” de Karnofsky ≤ 70 13% 17%
+Hemoglobina < 100 g/L 32% 28%
+Contagem de plaquetas < 75 x 109/L 6% 4%
+Características das doenças
+Tipo de mieloma (%): IgG/IgA/cadeia leve 60% / 23% / 12% 59% / 24% / 13%
+Beta-2-microglobulina, mediana (mg/L) 3,7% 3,6%
+Albumina, mediana (g/L) 39% 39%
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Depuração da creatinina, mediana (≤ 30 mL/min) [n 17 (5%) 11 (3%)
+(%)]
+Duração mediana do mieloma múltiplo desde o 3,5 3,1
+diagnóstico (Anos)
+Número de linhas terapêuticas anteriores ao tratamento
+Mediana 2 2
+1 linha anterior 40% 35%
+> 1 linha anterior 60% 65%
+Todos os pacientes 333 336
+Qualquer esteroide prévio, exemplo: dexametasona, 98% 99%
+VAD
+Qualquer antraciclina prévia, exemplo: VAD, 77% 76%
+mitoxantrona
+Qualquer agente alquilante prévio, exemplo: MP, 91% 92%
+VBMCP
+Qualquer tratamento prévio com talidomida 48% 50%
+Alcaloides da vinca 74% 72%
+Qualquer transplante prévio de célula-tronco / outra 67% 68%
+terapia com altas doses
+Terapia experimental ou outros tipos de terapia 3% 2%
+Pacientes que estavam no grupo de tratamento com bortezomibe deveriam receber 8 ciclos de tratamento com duração de
+3 semanas para cada ciclo seguidos por 3 ciclos de tratamento com duração de 5 semanas para cada ciclo. Dentro do
+tratamento com cada ciclo de duração de 3 semanas, bortezomibe 1,3 mg/m2/dose foi administrado isolado via injeção
+intravenosa em bolus duas vezes por semana, durante duas semanas nos Dias 1, 4, 8 e 11, seguido de um período de 10 dias
+de descanso (compreendido entre o Dia 12 e o Dia 21). Dentro do tratamento com cada ciclo de duração de 5 semanas,
+bortezomibe 1,3 mg/m2/dose foi administrado isolado via injeção intravenosa em bolus uma vez por semana durante 4
+semanas nos Dias 1, 8, 15 e 22, seguido de um período de 13 dias de descanso (compreendido entre o Dia 23 e o Dia 35).
+Pacientes que estavam no grupo de tratamento com dexametasona deveriam receber 4 ciclos de tratamento com duração de
+5 semanas, seguido de 5 ciclos de tratamento com duração de 4 semanas.
+Dentro de cada ciclo do tratamento com duração de 5 semanas, dexametasona 40 mg/dia por via oral foi administrada uma
+vez ao dia nos Dias 1 a 4, 9 a 12, e 17 a 20, seguido de um período de 15 dias de descanso (compreendido entre o Dia 21 e
+o Dia 35). Dentro de cada ciclo do tratamento com duração de 4 semanas, dexametasona 40 mg/dia por via oral foi
+administrada uma vez ao dia nos Dias 1 a 4, seguido de um período de 24 dias de descanso (compreendido entre o Dia 5 e
+o Dia 28). Para pacientes com progressão da doença documentada durante o uso de dexametasona, foi oferecida uma dose
+padrão de bortezomibe e agendado um estudo de acompanhamento.
+Seguindo uma análise interina pré-planejada de tempo de progressão, o braço de dexametasona foi interrompido e para
+todos pacientes selecionados para o uso de dexametasona foi oferecido o bortezomibe independente do status da doença.
+Neste momento o estudo foi encerrado e uma análise estatística foi elaborada. Em decorrência deste encerramento precoce
+do estudo, a duração mediana do acompanhamento para pacientes sobreviventes (n = 534) é limitada a 8,3 meses.
+No braço de bortezomibe 34% dos pacientes receberam pelo menos uma dose de bortezomibe em todos os 8 ciclos com
+duração de 3 semanas de terapia e 13% receberam pelo menos uma dose em todos os 11 ciclos. O número médio de doses
+de bortezomibe durante todo o estudo foi de 22, com uma faixa de variação de 1 a 44. No braço de dexametasona, 40% dos
+pacientes receberam pelo menos uma dose em todos os 4 ciclos com duração de 5 semanas de terapia, e 6% receberam pelo
+menos uma dose em todos os 9 ciclos.
+O tempo de finalização de análises e taxas de respostas de estudos clínicos Fase 3 estão apresentados na Tabela 7.
+Resposta e progressão foram avaliadas considerando os critérios do grupo europeu para sangue e transplante de medula
+óssea (EBMT). A resposta completa (CR) requer < 5 % de células plasmáticas na medula, 100% de redução em proteína-
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+M e um resultado negativo para teste de imunofixação. A resposta parcial (PR) requer ≥ 50% de redução na concentração
+sérica da proteína do mieloma e ≥ 90% de redução da concentração da proteína do mieloma na urina em pelo menos duas
+ocasiões para um mínimo de, pelo menos, 6 semanas ao longo da doença óssea estável e níveis normais de cálcio.
+Resposta próxima à resposta completa (nCR) foi definida como a obtenção de todos os critérios para a resposta completa,
+incluindo 100% de redução em proteína–M pela eletroforese proteica, mas a proteína-M ainda detectável pelo teste de
+imunofixação (IF+).
+Tabela 7: Resumo da análise de eficácia no estudo randomizado Fase 3 (APEX)
+Uma linha de tratamento > 1 Linha de tratamento
+Todos os pacientes
+anterior anterior
+Produto bortezomibe Dexa bortezomibe Dexa bortezomibe Dexa
+Desfecho de eficácia n = 333 n = 336 n = 132 n = 119 n = 200 n = 217
+Tempo para progressão
+147 (44) 196 (58) 55 (42) 64 (54) 92 (46) 132 (61)
+– Eventos n (%)
+6,2 meses 3,5 meses 5,6 (3,4; 2,9 (2,8;
+7,0 (6,2; 8,8) 4,9 (4,2; 6,3)
+Medianaª (IC 95%) (4,9; 6,9) (2,9; 4,2) 6,3) 3,5)
+Razão de riscoᵇ
+0,55 (0,44; 0,69) 0,55 (0,38; 0,81) 0,54 (0,41; 0,72)
+(IC 95%)
+Valor pc < 0,0001 0,0019 < 0,0001
+Sobrevida global –
+Eventos 51(15) 84(25) 12(9) 24(20) 39(20) 60(28)
+(Mortes) n (%)
+Razão de riscoᵇ
+0,57 (0,40; 0,81) 0,39 (0,19; 0,81) 0,65 (0,43; 0,97)
+(IC 95%)
+Valor pc,d < 0,05 < 0,05 < 0,05
+Taxa de resposta
+Populaçãoᵉ n=315 n=312 n=128 n=110 n=187 n=202
+n = 627
+CRᶠ n (%) 20(6) 2(< 1) 8(6) 2(2) 12(6) 0(0)
+PRᶠ n (%) 101(32) 54(17) 49(38) 27(25) 52(28) 27(13)
+nCRᶠ g n (%) 21(7) 3(< 1) 8(6) 2(2) 13(7) 1(< 1)
+CR+ PRᶠ n
+121 (38) 56 (18) 57(45) 29(26) 64(34) 27(13)
+(%)
+Valor ph < 0,0001 0,0035 < 0,0001
+Duração mediana da resposta
+CRᶠ 9,9 meses NEi 9,9 meses NE 6,3 meses NAj
+nCRᶠ 11,5 meses 9,2 meses NE NE 11,5 meses 9,2 meses
+CR + PRᶠ 8,0 meses 5,6 meses 8,1 meses 6,2 meses 7,8 meses 4,1 meses
+a Estimativa de Kaplan-Meier.
+b A razão de risco é baseada no modelo de risco proporcional Cox com o tratamento como variável simples independente.
+O valor da taxa de risco menor que 1 indica uma vantagem para o bortezomibe.
+c O valor p baseou-se no test log-rank estratificado incluindo a randomização dos fatores de estratificação.
+d O valor p preciso não pode ser calculado.
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+e A resposta da população inclui pacientes que tiveram a doença mensurada na linha de base e receberam pelo menos uma
+dose da droga em estudo.
+f Critério EBMT, nCR de acordo com todos os critérios para Resposta Completa mas apresenta imunofixação positiva.
+Sob os critérios EBMT, nCR está na categoria de resposta parcial.
+g Em 2 pacientes a imunofixação foi desconhecida.
+h O valor p para a taxa de resposta (CR + PR) proveniente do teste p-Cochran-Mantel-Haenszel chi-square foi ajustado para
+os fatores de estratificação.
+i NE Não estimável.
+j NA. Não aplicável, nenhum paciente encontra-se nesta categoria.
+Estudo clínico aberto e randomizado para mieloma múltiplo recidivado comparando bortezomibe intravenoso (IV)
+com subcutâneo (SC)
+Um estudo aberto, randomizado, Fase 3 de não-inferioridade (MMY-3021) comparou a eficácia e a segurança da
+administração subcutânea (SC) de bortezomibe versus a administração intravenosa (IV).
+Este estudo incluiu 222 pacientes com mieloma múltiplo recidivado, os quais foram randomizados a uma taxa de 2:1 para
+receber 1,3 mg/m2 de bortezomibe pelas vias SC ou IV por 8 ciclos. Foi permitido aos pacientes que não tiveram uma
+resposta ótima [menos que a Resposta Completa (CR)] para o tratamento com bortezomibe isolado após 4 ciclos que
+recebessem 20 mg de dexametasona por dia no dia e após a administração de bortezomibe. Pacientes com neuropatia
+periférica Grau ≥ 2 na linha de base ou contagem de plaquetas < 50.000/mcL foram excluídos. Um total de 218 pacientes
+foram avaliáveis para resposta.
+Os fatores de estratificação foram baseados no número de linhas de tratamento prévio que o paciente recebeu (1 linha
+anterior versus mais de 1 linha de tratamento), e no estádio do sistema de estadiamento internacional – ISS (incorporando
+microglobulina-beta2 – níveis de microglobulina e albumina; Estádios I, II ou III).
+As características dos pacientes e da doença na linha de base do estudo estão resumidas na Tabela 8.
+Tabela 8: Resumo das características dos pacientes e da doença no estudo clínico Fase 3 de bortezomibe IV versus
+SC
+Características do paciente IV SC
+n = 74 n = 148
+Idade mediana em anos (faixa) 64,5 (38, 86) 64,5 (42, 88)
+Sexo: masculino/feminino 64% / 36% 50% / 50%
+Raça: caucasiano/asiático 96% / 4% 97% / 3%
+Escore da “performance status” de 16% 22%
+Karnofsky70
+Características da doença
+Tipo de mieloma (%): 72% / 19% / 8% 65% / 26% / 8%
+IgG/IgA/Cadeia leve
+Estadiamentoa ISS I/II/III (%) 27/41/32 27/41/32
+Microglubulina-beta mediana (9 4,25 4,20
+2
+mg/L)
+Albumina mediana (g/L) 3,60 3,55
+Depuração de creatinina ≤30 mL/min 2 (3%) 5 (3%)
+[n (%)]
+Duração mediana do mieloma 2,93 2,68
+múltiplo desde o diagnóstico (anos)
+Número de linhas terapêuticas prévias de tratamento
+1 linha prévia 65% 62%
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+> 1 linha prévia 35% 38%
+O estudo atingiu seu objetivo primário de não-inferioridade para taxa de resposta (CR + PR) após 4 ciclos de bortezomibe
+como agente isolado para ambas as vias SC e IV, 42% em ambos os grupos.
+Adicionalmente, os desfechos de eficácia relacionados à resposta secundária e ao tempo até o evento mostraram resultados
+consistentes para as vias de administração SC e IV. (Tabela 9)
+Tabela 9: Resumo da análise de eficácia para a via de administração SC de bortezomibe comparada à IV
+População de resposta avaliávela
+bortezomibe IV n=73 bortezomibe IV n=145
+Taxa de resposta em 4 ciclos
+ORR (CR+PR) 31 (42) 61 (42)
+valor pb 0,00201
+CR n (%) 6(8) 9(6)
+PR n (%) 25(34) 52(36)
+nCR n (%) 4(5) 9(6)
+Taxa de resposta em 8 ciclos
+ORR (CR+PR) 38(52) 76(52)
+p-valueb 0,0001
+CR n (%) 9 (12) 15 (10)
+PR n (%) 29(40) 61(42)
+nCR n (%) 7(10) 14(10)
+População com intenção de tratarc n=74 n=148
+Mediana do tempo de progressão,
+9,4 10,4
+meses
+(IC 95%) (7,6; 10,6) (8,5; 11,7)
+Taxa de risco (IC 95%)d 0,839 (0,564; 1,249)
+Valor pe 0,38657
+Sobrevida livre de progressão, meses 8,0 10,2
+(IC 95%) (6,7; 9,8) (8,1;10,8)
+Razão de risco (IC 95%)d 0,824 (0,574; 1,183)
+Valor pe 0,295
+Sobrevida global de 1 ano (%)f 76,7 72,6
+(IC 95%) (64,1; 85,4) (63,1; 80,0)
+a. Todos os pacientes randomizados que receberam pelo menos 1 dose não-zero da medicação do estudo e tiveram doença
+mensurável no início do estudo.
+b Valor p é para a hipótese de não-inferioridade que o braço SC mantém pelo menos 60% da taxa de resposta no braço IV.
+c 222 pacientes foram inscritos no estudo; 221 pacientes foram tratados com bortezomibe.
+d A estimativa das razões de risco é baseada em um modelo Cox ajustado para os fatores de estratificação: estadiamento
+ISS e número de linhas anteriores.
+e Teste de log rank ajustado para os fatores de estratificação: estadiamento ISS e número de linhas de tratamento anteriores.
+f A duração mediana de acompanhamento é de 11,8 meses.
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+A Tabela 10 apresenta um resumo de tabulação cruzada de melhor resposta por algoritmo após 4 ciclos versus após 8 ciclos
+para pacientes que receberam dexametasona. Oitenta e dois pacientes no grupo de tratamento SC e 39 pacientes no grupo
+de tratamento IV receberam dexametasona após o Ciclo 4.
+Dexametasona teve efeito similar na melhora da resposta em ambos os braços de tratamento:
+• 30% (SC) e 30% (IV) dos pacientes sem nenhuma resposta no final do Ciclo 4 obtiveram uma resposta mais tarde.
+• 13% (SC) e 13% (IV) dos pacientes com PR no final do Ciclo 4 obtiveram um CR mais tarde.
+Tabela 10: Tabulação cruzada do resumo da melhor resposta após 4 ciclos versus após 8 ciclos para pacientes que
+receberam dexametasona
+-------------------------------- Melhor resposta após 8 ciclos --------------------------------
+(n=121)
+Grupo de tratamento Total ------------------------ Categoria, n (%) ---------------------------------------------
+Melhor resposta no Ciclo 4a n (%) CR PR Não respondedor
+IV 39 (32) 3 (8) 20 (51) 16 (41)
+CR 1 (1) 1 (100) 0 0
+PR 15 (12) 2 (13) 13 (87) 0
+Não-respondedor 23 (19) 0 7 (30) 16 (70)
+SC 82 (68) 8 (10) 41 (50) 33 (40)
+CR 4 (3) 4 (100) 0 0
+PR 31 (26) 4 (13) 27 (87) 0
+Não-respondedor 47 (39) 0 14 (30) 33 (70)
+a Avaliação da resposta por algoritmo de computador validado. Este algoritmo incorpora uma avaliação consistente de todos
+os dados requeridos para resposta pelo critério modificado de EBMT.
+Em relação aos resultados reportados anteriormente, a ORR após 8 ciclos de tratamento (52% em ambos os grupos de
+tratamento) e o tempo para progressão (mediana de 10,4 meses e 9,4 meses nos grupos de tratamento SC e IV,
+respectivamente), incluindo os efeitos da inclusão de dexametasona do Ciclo 5 em diante, foram maiores que o observado
+no estudo de registro anterior com bortezomibe IV como agente único (38% ORR e TTP mediana de 6,2 meses para o braço
+de bortezomibe. O tempo para progressão e ORR foram também maiores quando comparados ao subgrupo de pacientes
+que receberam apenas 1 linha de tratamento anterior (43% ORR e TTP mediana de 7,0 meses) (Tabela 7).
+Retratamento com bortezomibe em mieloma múltiplo recidivado
+O estudo MMY-2036 (RETRIEVE) foi um estudo aberto, multicêntrico desenhado para determinar a eficácia e a segurança
+do retratamento com bortezomibe em 130 pacientes com mieloma múltiplo recidivado. Os pacientes haviam previamente
+tolerado 1,0 ou 1,3 mg/m2 de bortezomibe isoladamente ou em combinação com outros agentes, apresentaram CR ou PR
+após a conclusão da terapia com bortezomibe e, posteriormente, apresentaram recidiva. Tal como acontece com outros
+estudos, pacientes com dor neuropática ou neuropatia periférica Grau ≥2 não eram elegíveis.
+Conforme avaliado pelos critérios EBMT, o desfecho primário da melhor resposta foi atingido em 40 % dos pacientes que
+apresentaram uma resposta igual ou superior a PR incluindo 1% daqueles que a melhor resposta foi uma CR. Nestes 40%
+dos pacientes (n = 50) que apresentaram como melhor resposta uma resposta igual ou superior a PR, o tempo mediano para
+progressão (TTP) foi de 8,4 meses (faixa: 3,3 a 20,7 meses). A duração mediana da resposta nestes pacientes foi de 6,5
+meses (faixa: 0,6 a 19,3 meses).
+Referências bibliográficas
+1. http://ctep.info.nih.gov/reporting/ctc.html
+2. Bladé J et al. Criteria for evaluating disease response and progression in patients with multiple myeloma treated by high-
+dose therapy and hematopoietic stem cell transplantation. Myeloma Subcommittee of the EBMT. European Group for
+Blood and Marrow Transplant. Br J Haematol. 1998 102(5): 1115-23.
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+3. Paul G. Richardson, M.D., Pieter Sonneveld, M.D., Michael W. Schuster, M.D., et al. for the Assessment of Proteasome
+Inhibition for Extending Remissions (APEX) Investigators. Bortezomib or High-Dose Dexamethasone for Relapsed
+Multiple Myeloma. The New England Journal of Medicine. 2005;352:2487-98.
+4. Jesús F. San Miguel, M.D., Ph.D., Rudolf Schlag, M.D., Nuriet K et al., for the VISTA Trial Investigators. Bortezomib
+plus Melphalan and Prednisone for Initial Treatment of Multiple Myeloma. The New England Journal of Medicine. 2008;
+359:906-17.
+5. Moreau P, Pylypenko H, Grosicki S, et al. Subcutaneous versus intravenous administration of bortezomib in patients
+with relapsed multiple myeloma: a randomised, phase 3, non-inferiority study. Lancet Oncol. 2011; 12(5): 431-40.
+6. Harousseau JL, Attal M, Avet-Loiseau H, et al. Bortezomib plus dexamethasone is superior to vincristine plus
+doxorubicin plus dexamethasone as induction treatment prior to autologous stem-cell transplantation in newly diagnosed
+multiple myeloma: results of the IFM 2005-01 phase III trial. Journal of Clinical Oncology. 2010; 28(30):4621-9.
+7. Rosiñol L, Oriol A, Teruel AI, et.al. Programa para el Estudio y la Terapéutica de las Hemopatías Malignas/Grupo
+Español de Mieloma (PETHEMA/GEM) group. Superiority of bortezomib, thalidomide, and dexamethasone (VTD) as
+induction pretransplantation therapy in multiple myeloma: a randomized phase 3 PETHEMA/GEM study. Journal of the
+American Society of Hematology. 2012; 120(8):1589-96.
+8. Maria T. Petrucci, Pilar Giraldo, Paolo Corradini,et al. A prospective, international phase 2 study of bortezomib
+retreatment in patients with relapsed multiple myeloma. British Journal of Haematology. 2013; 160(5):649-59.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+Mecanismo de ação
+O bortezomibe é um inibidor reversível da atividade do tipo quimiotripsina do proteassoma 26S em células de mamíferos.
+O proteassoma 26S é um complexo proteico grande que degrada proteínas ubiquitinadas. A via da ubiquitina-proteassoma
+representa um papel essencial na regulação da concentração intracelular de proteínas específicas, mantendo, desta forma, a
+homeostase intracelular. A inibição do proteassoma 26S impede esta proteólise dirigida o que pode afetar as cascatas
+múltiplas de sinalização dentro da célula. Esta interrupção dos mecanismos normais de homeostasia pode levar à morte
+celular. Os experimentos demonstraram que o bortezomibe é citotóxico para uma variedade de tipos de células neoplásicas
+in vitro. O bortezomibe causa um retardo no crescimento tumoral in vivo em modelos tumorais pré-clínicos, incluindo
+mieloma múltiplo.
+Propriedades Farmacocinéticas
+Após a administração intravenosa em bolus de 1,0 mg/m2 e 1,3 mg/m2 em onze pacientes com mieloma múltiplo, a média
+da concentração plasmática máxima de bortezomibe foi, respectivamente, de 57 e 112 ng/mL após a primeira dose. Em
+doses subsequentes, a média observada da concentração plasmática máxima variou de 67 a 106 ng/mL para dose de 1,0
+mg/m2 e 89 a 120 ng/mL para a dose de 1,3 mg/m2. A meia-vida média de eliminação de bortezomibe após o regime de
+múltiplas doses variou de 40 a 193 horas. O bortezomibe é eliminado mais rapidamente após a primeira dose do que após
+as doses subsequentes. As médias totais de depuração corporal foram de 102 e 112 L/h após a primeira dose de 1,0 mg/m2
+e 1,3 mg/m2, respectivamente, e variou de 15 a 32 L/h após doses subsequentes de 1,0 mg/m2 e 1,3 mg/m2, respectivamente.
+No sub-estudo de farmacocinética/farmacodinâmica do estudo Fase 3, após uma injeção IV em bolus ou SC de uma dose
+de 1,3 mg/m2 a pacientes com mieloma múltiplo (n = 14 para IV, n = 17 para SC), a exposição sistêmica total após a
+administração de repetidas doses (ASCúltimo) foi equivalente para as vias de administração SC e IV. A Cmáx após
+administração SC (20,4 ng/mL) foi menor que a IV (223 ng/mL). A razão da média geométrica para ASC último foi 0,99
+e intervalos de confiança de 90% foram 80,18% - 122,80%.
+Distribuição
+O volume médio de distribuição de bortezomibe variou de 1659 a 3294 litros após a primeira dose ou após a administração
+de repetidas doses de 1,0 mg/m2 ou 1,3 mg/m2 em pacientes com mieloma múltiplo. Isto sugere que o bortezomibe se
+distribui amplamente através dos tecidos periféricos. A ligação do bortezomibe às proteínas plasmáticas foi em média 83%
+na faixa de concentração de 100-1000 ng/mL
+Metabolismo
+Estudos in vitro com microssomas hepáticos humanos e isoenzimas do citocromo P450 humano indicam que o bortezomibe
+é metabolizado principalmente por oxidação via isoenzimas 3A4, 2C19 e 1A2 do citocromo P450. O metabolismo do
+bortezomibe pelas enzimas CYP 2D6 e 2C9 é mínimo. A principal via metabólica é remoção de um átomo de boro para
+formar dois metabólitos sem boro que subsequentemente sofrem hidroxilação para diversos metabólitos. Os metabólitos
+sem boro do bortezomibe são inativos como inibidores do proteassoma 26S. Dados agrupados do plasma de 8 pacientes
+aos 10 minutos e aos 30 minutos após a administração IV indicam que os níveis plasmáticos de metabólitos são baixos em
+comparação ao fármaco-mãe.
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Eliminação
+As vias de eliminação do bortezomibe não foram caracterizadas em seres humanos.
+Populações especiais
+Idade, sexo e raça
+Os efeitos da idade, do sexo e raça sobre a farmacocinética do bortezomibe não foram avaliados. A farmacocinética do
+bortezomibe foi caracterizada seguindo uma administração intravenosa por bolus com dose de 1,3mg/m2, duas vezes por
+semana a 104 pacientes pediátricos (2-16 anos) com leucemia linfoblástica aguda (LLA) ou leucemia mielóide aguda
+(LMA). Baseado em uma análise farmacocinética populacional, a depuração de bortezomibe aumentou com o aumento da
+área de superfície corporal (ASC). Média geométrica da depuração (%CV) foi 7,79 (25%) L/hr/m2, volume de distribuição
+no estado de equilíbrio foi 834 (39%) L/m2, e a meia-vida de eliminação foi de 100 (44%) horas. Após a correção para o
+efeito da ASC, outros fatores demográficos como idade, peso corporal e sexo não tiveram efeitos clinicamente significativos
+na depuração de bortezomibe. A depuração de bortezomibe normalizada para a ASC em pacientes pediátricos foi similar
+ao observado em adultos.
+Insuficiência hepática
+O efeito da insuficiência hepática na farmacocinética do bortezomibe IV foi avaliado em 60 pacientes no tratamento com
+doses de bortezomibe variando de 0,5 a 1,3 mg/m2. Quando comparado aos pacientes com função hepática normal, a
+insuficiência hepática leve não altera a AUC da dose-normalizada de bortezomibe. Contudo, os valores médios de AUC da
+dose-normalizada foram aumentados em aproximadamente 60% em pacientes com insuficiência hepática moderada ou
+grave.
+Baixas doses iniciais são recomendadas em pacientes com insuficiência hepática moderada ou grave, e esses pacientes
+devem ser cautelosamente monitorados.
+Insuficiência renal
+Um estudo farmacocinético foi conduzido em pacientes com diferentes graus de insuficiência renal. Os pacientes foram
+classificados de acordo com seus valores de depuração de creatinina (CrCL) dentro dos seguintes grupos: Normal (CrCL >
+60mL/min/1,73m2, n=12), Intermediário (CrCL = 40-59mL/min/1,73m2, n=10), Moderado (CrCL = 20-39 mL/min/1,73
+m2, n=9) e Grave (CrCL <20mL/min/1,73m2, n=3). Um grupo de pacientes em diálise que recebeu a dose após a diálise
+também foi incluído no estudo (n=8). Os pacientes receberam dose intravenosa de 0,7-1,3 mg/m2 de bortezomibe 2 vezes
+por semana. A exposição ao bortezomibe (dose-normalizada ASC e Cmáx) foi comparável entre todos os grupos.
+4. CONTRAINDICAÇÕES
+Elome (bortezomibe) é contraindicado em pacientes com hipersensibilidade ao bortezomibe ou manitol.
+Gravidez (Categoria D)
+Mulheres em idade fértil devem evitar a gravidez durante o tratamento com bortezomibe.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica.
+Informe imediatamente seu médico em caso de suspeita de gravidez.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Elome (bortezomibe) deve ser administrado sob a supervisão de médico com experiência no uso de tratamento
+antineoplásico.
+Ocorreram casos fatais de administração inadvertida de bortezomibe pela via intratecal.
+O bortezomibe deve ser administrado somente pelas vias intravenosa e subcutânea.
+BORTEZOMIBE NÃO DEVE SER ADMINISTRADO PELA VIA INTRATECAL.
+Em geral, o perfil de segurança de pacientes tratados com bortezomibe em monoterapia foi similar ao observado em
+pacientes tratados com bortezomibe combinado com melfalana e prednisona.
+Neuropatia periférica
+O tratamento com bortezomibe causa neuropatia periférica que é predominantemente sensorial.
+Entretanto, foram relatados casos de neuropatia motora grave com ou sem neuropatia sensorial periférica.
+Pacientes com sintomas preexistentes (dormência, dor ou sensação de queimação nos pés ou mãos) e/ou sinais de neuropatia
+periférica podem apresentar piora da neuropatia periférica (incluindo Grau ≥3) durante o tratamento com bortezomibe. Os
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+pacientes devem ser monitorados quanto aos sintomas de neuropatia, como sensação de queimação, hiperestesia,
+hipoestesia, parestesia, desconforto, dor neuropática ou fraqueza. No estudo Fase 3 comparando bortezomibe IV versus SC,
+a incidência de eventos de neuropatia periférica Grau ≥ 2 foi de 24% para SC e de 41% para IV (p = 0,0124).
+Neuropatia periférica Grau ≥ 3 ocorreu em 6% dos pacientes no grupo de tratamento SC, comparado a 16% no grupo de
+tratamento IV (p = 0,0264) (Tabela 19). Portanto, pacientes com neuropatia periférica preexistente ou com alto risco de
+neuropatia periférica podem se beneficiar com o uso de bortezomibe subcutâneo.
+Pacientes que apresentarem piora ou aparecimento de neuropatia periférica podem exigir uma mudança de dose, esquema
+de tratamento ou via de administração para SC. Após o ajuste de doses, a melhora ou resolução da neuropatia periférica foi
+relatada em 51% dos pacientes com neuropatia periférica Grau ≥2 no estudo Fase 3 com agente único, de bortezomibe
+versus dexametasona. A melhora ou resolução da neuropatia periférica foi relatada em 73% dos pacientes que
+descontinuaram o medicamento devido à neuropatia periférica Grau 2 ou que apresentaram neuropatia periférica Grau ≥ 3
+nos estudos Fase 2.
+Hipotensão arterial
+Em estudos Fase 2 e 3 como agente único para o tratamento de mieloma múltiplo, a incidência de hipotensão (postural,
+ortostática e hipotensão inespecífica) foi de 11 a 12%. Estes eventos são observados ao longo do tratamento. Recomenda-
+se cautela ao tratar pacientes com história de síncope, pacientes recebendo medicamentos sabidamente associados com
+hipotensão e pacientes desidratados. A conduta na hipotensão ortostática/postural deve incluir ajuste da medicação anti-
+hipertensiva, hidratação ou administração de mineralocorticoides e/ou simpatomiméticos.
+Alterações cardíacas
+Desenvolvimento agudo ou exacerbação de insuficiência cardíaca congestiva e/ou início de redução da fração de ejeção do
+ventrículo esquerdo têm sido relatados, incluindo relatos em pacientes com pouco ou nenhum risco de redução da fração
+de ejeção do ventrículo esquerdo. Pacientes com fatores de risco ou com doença cardíaca preexistente devem ser
+cuidadosamente monitorados. Em um estudo Fase 3 com agente único, de bortezomibe versus dexametasona, a incidência
+de qualquer alteração cardíaca que aparece com o tratamento foi de 15% e 13%, respectivamente. A incidência de eventos
+de insuficiência cardíaca (edema pulmonar agudo, insuficiência cardíaca, insuficiência cardíaca congestiva, choque
+cardiogênico e edema pulmonar) foi similar nos grupos de bortezomibe e dexametasona, 5% e 4%, respectivamente. Houve
+casos isolados de prolongamento do intervalo QT em estudos clínicos; a causalidade não foi estabelecida.
+Eventos hepáticos
+Têm sido relatados casos raros de insuficiência hepática aguda em pacientes recebendo medicações concomitantes múltiplas
+e com sérias condições médicas de base. Outros eventos adversos relatados incluem aumento das enzimas hepáticas,
+hiperbilirrubinemia e hepatite. Estas alterações podem ser reversíveis com a descontinuação de bortezomibe.
+Há informações limitadas relacionadas à reexposição nestes pacientes.
+Distúrbios pulmonares
+Houve casos raros relatados de doença pulmonar infiltrante difusa aguda de etiologia desconhecida, tais como pneumonite,
+pneumonia intersticial, infiltração pulmonar, Síndrome do Desconforto Respiratório Agudo (ARDS) em pacientes
+recebendo bortezomibe. Alguns desses eventos têm sido fatais. Uma proporção mais elevada desses efeitos foi relatada no
+Japão. Na ocorrência de um evento pulmonar ou na piora de sintomas pulmonares já existentes, uma rápida avaliação
+diagnóstica deve ser realizada e os pacientes tratados apropriadamente. Em um estudo clínico, dois pacientes que receberam
+altas doses de citarabina (2g/m2 por dia) por infusão contínua com daunorrubicina e bortezomibe para recaída de leucemia
+mieloide aguda morreram com ARDS precocemente durante o tratamento.
+Exames laboratoriais
+O resultado do hemograma completo deve ser frequentemente monitorado durante o tratamento com bortezomibe.
+Trombocitopenia/ Neutropenia
+O bortezomibe está associado com trombocitopenia e neutropenia. As plaquetas tiveram seu nível mais baixo no Dia 11 de
+cada ciclo de tratamento com bortezomibe e normalmente recuperaram seu nível basal no próximo ciclo. O padrão cíclico
+de redução e recuperação da contagem de plaquetas permanece consistente nos estudos de mieloma múltiplo, com nenhuma
+evidência de trombocitopenia ou neutropenia cumulativas em nenhum dos regimes estudados.
+A contagem de plaquetas deve ser monitorada antes de cada dose de bortezomibe. O tratamento deve ser interrompido
+quando a contagem de plaquetas for < 25.000/mcL. Existem relatos de hemorragia gastrintestinal e intracerebral associadas
+com bortezomibe.Transfusão e cuidados de suporte devem ser considerados.
+No estudo de mieloma múltiplo com bortezomibe como agente único versus dexametasona, a média das contagens mais
+baixas de plaquetas foi aproximadamente 40% da condição basal. A gravidade da trombocitopenia relacionada à contagem
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+de plaquetas antes do tratamento está na Tabela 11 para estudos de Fase 3 com agente único. A incidência de eventos de
+sangramento significativo (≥ Grau 3) foi similar em ambos os braços bortezomibe (4%) e dexametasona (5%).
+Tabela 11: Gravidade da trombocitopenia relacionada à contagem de plaquetas antes do tratamento nos estudos
+Fase 3 com agente único de bortezomibe versus dexametasona.
+Número de pacientes Número (%) de pacientes
+Contagem de plaquetas antes do Número de com contagem de com contagem de
+tratamentoª pacientes (n=331)b plaquetas < plaquetas entre 10.000 e
+10.000/mcL 25.000 /mcL
+≥ 75.000/mcL 309 8 (3%) 36 (12%)
+≥ 50.000/mcL - < 75.000/mcL 14 2 (14%) 11 (79%)
+≥ 10.000/mcL - < 50.000/mcL 7 1 (14%) 5 (71%)
+a Níveis basais de contagem de plaquetas de 50.000/mcL foi requerida para elegibilidade do paciente para o estudo.
+b Faltam dados de contagem basal para 1 paciente.
+Eventos adversos gastrintestinais
+O tratamento com bortezomibe pode causar náusea, diarreia, constipação e vômito que exigem, algumas vezes, uso de anti-
+heméticos e medicamentos antidiarreicos. A reposição de líquidos e eletrólitos deve ser realizada para evitar a desidratação.
+Uma vez que alguns pacientes em tratamento com bortezomibe podem apresentar vômito e/ou diarreia, os pacientes devem
+ser orientados como proceder para evitar a desidratação. Os pacientes devem ser instruídos para procurar o médico se
+apresentarem sintomas de vertigem, tontura ou desmaios.
+Síndrome da lise tumoral
+Uma vez que bortezomibe é um agente citotóxico e pode matar células malignas rapidamente, as complicações da síndrome
+da lise tumoral podem ocorrer. Os pacientes sob risco de síndrome da lise tumoral são aqueles com carga tumoral alta antes
+do tratamento. Estes pacientes devem ser monitorados de perto e as precauções apropriadas devem ser tomadas.
+Pacientes com insuficiência hepática
+O bortezomibe é metabolizado pelas enzimas hepáticas e sua exposição é aumentada em pacientes com insuficiência
+hepática moderada ou grave. Esses pacientes devem ser tratados com doses iniciais reduzidas de bortezomibe e monitorados
+com relação à toxicidade.
+Síndrome de encefalopatia posterior reversível (SEPR)
+Foram relatados casos de síndrome de encefalopatia posterior reversível (SEPR) em pacientes recebendo bortezomibe.
+SEPR é um distúrbio neurológico raro, reversível, que pode se apresentar com convulsões, hipertensão, cefaleia, letargia,
+confusão mental, cegueira, entre outros distúrbios visuais e neurológicos. Exames de imagem do cérebro, preferencialmente
+RMN (Ressonância Magnética Nuclear) são usados para confirmar o diagnóstico. Em pacientes com SEPR em
+desenvolvimento, descontinue bortezomibe. A segurança em reiniciar o tratamento com bortezomibe em pacientes com
+histórico de SEPR não é conhecida.
+Carcinogênese, mutagênese, comprometimento da fertilidade
+Não foram conduzidos estudos de carcinogenicidade com bortezomibe.
+O bortezomibe demonstrou atividade clastogênica (aberrações cromossômicas estruturais) em teste in vitro de aberrações
+cromossômicas usando células de ovário de hamster Chinês. O bortezomibe não foi genotóxico no teste in vitro de
+mutagenicidade (teste de Ames) e no teste in vivo de micronúcleos em camundongos.
+Não foram realizados estudos de fertilidade com bortezomibe, mas foi realizada avaliação dos tecidos reprodutivos nos
+estudos de toxicidade geral. No estudo de toxicidade de 6 meses em rato, foram observados efeitos degenerativos no ovário
+em doses > 0,3 mg/m2 (um quarto da dose clínica recomendada) e alterações degenerativas nos testículos ocorreram com
+1,2 mg/m2. Bortezomibe pode ter um potencial efeito sobre a fertilidade masculina ou feminina.
+Achados de toxicidade em animais
+Toxicidade cardiovascular:x’
+Estudos em macacos mostraram que a administração de doses aproximadamente o dobro da dose clínica recomendada
+resultaram em aumento da frequência cardíaca seguido de significante hipotensão progressiva, bradicardia e morte 12-14
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+horas após a administração. Doses >1,2 mg/m2 induziram alterações proporcionais à dose nos parâmetros cardíacos. O
+bortezomibe distribuiu-se para a maioria dos tecidos, incluindo o miocárdio. Em um estudo de toxicidade de dose repetida
+em macaco também foram observadas hemorragia, inflamação e necrose miocárdica.
+Administração crônica:
+Em estudos em animais em dose e esquema posológico similar ao recomendado para pacientes (duas vezes por semana,
+durante duas semanas, seguido de uma semana de descanso), os sinais de toxicidade observados incluíram anemia grave e
+trombocitopenia, toxicidade gastrintestinal, neurológica e do sistema linfático. Efeitos neurotóxicos em estudos animais
+incluíram edema axonal e degeneração em nervos periféricos, raízes espinhais dorsais e tratos da medula espinhal.
+Adicionalmente, hemorragia multifocal e necrose no cérebro, olho e coração foram observadas.
+Gravidez (Categoria D)
+Mulheres em idade fértil devem evitar a gravidez durante o tratamento com bortezomibe.
+O bortezomibe não foi teratogênico em estudos pré-clínicos de toxicidade sobre o desenvolvimento em ratos e coelhos na
+maior dose testada [0,075 mg/kg (0,5 mg/m2) em ratos e 0,05 mg/kg (0,6 mg/m2) em coelhos] quando administrado durante
+a organogênese. Estas doses são aproximadamente a metade da dose clínica de 1,3 mg/m2 com base na área de superfície
+corporal.
+Coelhas prenhes que receberam 0,05 mg/kg (0,6 mg/m2) de bortezomibe durante a organogênese apresentaram perda pós-
+implantação significante e número reduzido de fetos vivos. Os fetos vivos destas ninhadas também apresentaram reduções
+significantes no peso fetal. A dose é aproximadamente metade da dose clínica de 1,3 mg/m2 com base na área de superfície
+corporal.
+Não foram conduzidos estudos de transferência placentária de bortezomibe. Não existem estudos controlados em mulheres
+grávidas. Se bortezomibe for utilizado durante a gestação ou se a paciente engravidar durante o tratamento, ela deve ser
+informada sobre o potencial risco para o feto.
+As pacientes devem ser orientadas sobre o uso de medidas contraceptivas eficazes e para evitar a amamentação durante o
+tratamento com bortezomibe.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica.
+Informe imediatamente seu médico em caso de suspeita de gravidez.
+Lactação
+Não existem dados sobre a excreção de bortezomibe no leite humano. Uma vez que muitos fármacos são excretados no
+leite humano e devido ao potencial para reações adversas graves em lactentes devido ao bortezomibe as mulheres devem
+ser alertadas para não amamentar durante o tratamento com bortezomibe.
+Efeitos sobre a capacidade de dirigir veículos e operar máquinas
+Uma vez que bortezomibe pode estar associado à fadiga, tontura, síncope, visão turva, os pacientes devem ser orientados
+para não dirigir veículos ou operar máquinas se houver ocorrência de qualquer destes sintomas.
+Uso em idosos, crianças e outros grupos de risco
+Não foram observadas diferenças gerais em segurança e efetividade entre pacientes com idade ≥ 65 anos e pacientes mais
+novos recebendo bortezomibe; nos pacientes estudados com mieloma múltiplo, entretanto, uma maior sensibilidade de
+alguns pacientes mais velhos não pode ser afastada.
+A segurança e a eficácia de bortezomibe em crianças não foi estabelecida para mieloma múltiplo.
+6. INTERAÇÕES MEDICAMENTOSAS
+Estudos in vitro e ex vivo em animais indicam que o bortezomibe é um inibidor fraco das isoenzimas 1A2, 2C9, 2C19, 2D6
+e 3A4 do citocromo P450. Baseado na ação limitada (7%) do CYP2D6 sobre o metabolismo do bortezomibe, não é esperado
+que o CYP2D6 afete a disposição global do bortezomibe.
+Um estudo de interação medicamentosa avaliando o efeito de cetoconazol, potente inibidor do CYP3A4, na farmacocinética
+de bortezomibe demonstrou aumento na média de ASC de bortezomibe 35%, baseado em dados de 12 pacientes. Portanto,
+os pacientes devem ser monitorados quando ocorrer administração concomitante de bortezomibe com potentes inibidores
+do CYP3A4 (como por exemplo:cetoconazol e ritonavir).
+Em um estudo de interação medicamentosa avaliando o efeito do omeprazol, potente inibidor do CYP2C19, na
+farmacocinética de bortezomibe não foi demonstrada alteração significativa na farmacocinética de bortezomibe, baseado
+em dados provenientes de 17 pacientes.
+Um estudo de interação medicamentosa avaliando o efeito de rifampicina, um potente indutor do CYP3A4, na
+farmacocinética de bortezomibe demonstrou uma redução média de ASC de bortezomibe de 45%, baseado nos dados
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+obtidos de 6 pacientes. Portanto, o uso concomitante de bortezomibe com indutores potentes do CYP3A4 não é
+recomendado, já que a eficácia pode ser reduzida. Exemplos de indutores do CYP3A4 são rifampicina, carbamazepina,
+fenitoína, fenobarbital e Erva-de-São-João. No mesmo estudo de interação medicamentosa, foi avaliado o efeito de
+dexametasona, um indutor fraco de CYP3A4. Baseado nos dados obtidos de 7 pacientes, não houve efeito significativo na
+farmacocinética de bortezomibe.
+Um estudo de interação medicamentosa avaliando o efeito de melfalana-prednisona sobre bortezomibe mostrou um
+aumento de 17% na ASC média de bortezomibe baseado em dados de 21 pacientes. Isto não é considerado clinicamente
+relevante.
+Pacientes que estão recebendo tratamento concomitante de bortezomibe com fármacos inibidores ou indutores da enzima
+3A4 do citocromo P450 devem ser monitorados de perto no que se refere a sinais de toxicidade ou eficácia reduzida.
+Durante os estudos clínicos, foram relatadas hipoglicemia e hiperglicemia em pacientes diabéticos recebendo
+hipoglicemiantes orais. Pacientes em tratamento com agentes antidiabéticos orais e que recebem bortezomibe podem
+necessitar monitoramento da glicemia e ajuste da dose da medicação antidiabética.
+Os pacientes devem ser orientados sobre o uso de medicações concomitantes que podem estar associadas à neuropatia
+periférica, tais como amiodarona, antivirais, isoniazida, nitrofurantoína ou estatinas, ou com redução da pressão arterial.
+Interações com exames de laboratório
+Não são conhecidas.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar em temperatura ambiente (entre 15°C e 30°C). Proteger da luz.
+Elome (bortezomibe) tem validade de 24 meses a partir da data de fabricação.
+ATENÇÃO: ESTE PRODUTO É SENSÍVEL A LUZ E SÓ DEVE SER RETIRADO DA CAIXA
+IMEDIATAMENTE ANTES DO USO.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Após reconstituição, a solução resultante deve ser límpida e incolor.
+O medicamento reconstituído pode ser administrado em até 12 horas após o preparo se estiver a uma temperatura entre
+15°C e 30°C. A solução reconstituída pode ser armazenada por até 12 horas no frasco original, podendo permanecer em
+uma seringa por até 3 horas nesta mesma temperatura.
+Após preparo, manter por até 12 horas no frasco original ou por até 3 horas na seringa, a uma temperatura entre
+15°C e 30°C.
+As condições informadas para o armazenamento das soluções diluídas garantem somente os aspectos físico químicos das
+preparações. Do ponto de vista microbiológico elas devem ser utilizadas imediatamente e só poderão ser armazenadas
+conforme condições descritas, se forem manipuladas com técnicas assépticas controladas e validadas. A garantia das
+condições assépticas é de inteira responsabilidade do profissional de saúde/instituição.
+Aspecto físico
+Antes da reconstituição: pó liófilo branco a quase branco.
+Após reconstituição: solução límpida e incolor.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Elome (bortezomibe) pode ser administrado por ambas as vias IV ou SC.
+Para as diferentes vias de administração, diferentes volumes de solução de cloreto de sódio 0,9% são utilizados para
+reconstituir o medicamento. Após a reconstituição, a concentração de bortezomibe por mL de solução para a administração
+subcutânea (2,5 mg/mL) é maior que a concentração para a administração intravenosa (1,0 mg/mL).
+Como cada via de administração tem diferentes concentrações da solução reconstituída, deve-se ter cuidado ao
+calcular o volume a ser administrado.
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+O rótulo de Elome (bortezomibe) 3,5 mg contém informações de uso para assinalar e sinalizar a via de administração a ser
+utilizada, com a finalidade de alertar o profissional de saúde quanto à correta via de administração.
+O conteúdo de cada frasco-ampola de bortezomibe deve ser reconstituído apenas com solução salina normal (0,9%), de
+acordo com as seguintes instruções baseadas na via de administração:
+IV SC
+Volume de diluente (solução salina – 0,9%) adicionado
+3,5 mL 1,4 mL
+para reconstituir um frasco-ampola
+Concentração final após reconstituição (mg/mL) 1,0 mg/mL 2,5 mg/mL
+Elome (bortezomibe) deve ser administrado em injeção intravenosa ou subcutânea. Quando administrado em injeção
+intravenosa, bortezomibe é injetado em bolus (3-5 segundos), através de cateter intravenoso periférico ou central, seguido
+por lavagem com solução de cloreto de sódio 0,9%.
+Para administração subcutânea, a solução reconstituída é injetada na coxa (direita ou esquerda) ou abdome (esquerdo ou
+direito).
+Os locais de injeção devem ser alternados para injeções sucessivas. Novas injeções devem ser administradas a, pelo menos,
+2,5 cm do local anterior, e nunca em áreas em que o local esteja sensível, ferido, vermelho ou rígido.
+Se ocorrerem reações no local da injeção após a administração subcutânea de bortezomibe, uma solução menos concentrada
+de bortezomibe (1 mg/mL ao invés de 2,5 mg/mL) pode ser administrada por via subcutânea, ou alterada para injeção IV.
+Como cada via de administração apresenta diferente concentração da solução reconstituída, deve-se ter cuidado no
+momento de calcular o volume a ser administrado.
+Devem decorrer pelo menos 72 horas entre as administrações consecutivas deste medicamento.
+Ocorreram casos fatais de administração inadvertida de bortezomibe pela via intratecal.
+Este medicamento deve ser administrado somente pelas vias intravenosa ou subcutânea.
+ESTE MEDICAMENTO NÃO DEVE SER ADMINISTRADO PELA VIA INTRATECAL.
+O retratamento com bortezomibe pode ser considerado para pacientes com mieloma múltiplo que haviam respondido
+previamente ao tratamento com bortezomibe.
+O período mínimo entre o tratamento anterior e o início do retratamento é de 6 meses. Qualquer paciente que responde ao
+primeiro tratamento com bortezomibe (resposta completa ou parcial) é elegível ao retratamento. Pacientes refratários ao
+primeiro tratamento com bortezomibe não são elegíveis. A decisão de tratar é baseada na presença de sintomas e não é
+baseada na progressão dos sinais.
+• Monoterapia
+Mieloma Múltiplo Recidivado
+Dose recomendada
+A dose recomendada de bortezomibe é de 1,3 mg/m2/dose administrada 2 vezes por semana durante 2 semanas (Dias 1, 4,
+8 e 11), seguido por um período de repouso de 10 dias (Dias 12 a 21).
+Este período de 3 semanas é considerado como um ciclo de tratamento. Para extensão do tratamento além de 8 ciclos,
+bortezomibe pode ser administrado no esquema padrão ou no esquema de manutenção de uma vez por semana por 4
+semanas (Dias 1, 8, 15 e 22), seguido por um período de repouso de 13 dias (Dias 23 a 35). Deve ser observado intervalo
+de pelo menos 72 horas entre as doses consecutivas de bortezomibe.
+Em estudos clínicos, pacientes com resposta completa (CR) confirmada receberam 2 ciclos adicionais de bortezomibe.
+Recomenda-se que pacientes que respondem ao bortezomibe recebam até 8 ciclos de tratamento.
+Modificação da dose e reinício do tratamento
+O tratamento com bortezomibe deve ser interrompido ao início de qualquer evidência de toxicidade não hematológica de
+Grau 3 ou hematológica de Grau 4, excluindo neuropatia (vide item 5.ADVERTÊNCIAS E PRECAUÇÕES). Após a
+remissão dos sintomas de toxicidade, o tratamento com bortezomibe pode ser reiniciado com dose 25% menor (1,3
+mg/m2/dose reduzida para 1,0 mg/m2/dose; 1,0 mg/m2/dose reduzida para 0,7 mg/m2/dose).
+A Tabela 12 a seguir contém a recomendação para modificação da dose em pacientes que apresentarem dor neuropática
+e/ou neuropatia sensorial periférica relacionada ao bortezomibe.
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Neuropatia autonômica severa resultando na interrupção ou descontinuação do tratamento foi reportada. Pacientes com
+neuropatia grave pré-existente devem ser tratados com bortezomibe somente após avaliação cuidadosa do risco-benefício.
+Tabela 12: Recomendação para modificação da dose de bortezomibe na presença de dor neuropática e/ou neuropatia
+periférica sensorial ou motora relacionada ao tratamento.
+Gravidade dos sinais e sintomas de Modificação do esquema posológico
+neuropatia periféricaª
+Grau 1 (assintomática, perda dos reflexos Nenhuma ação
+tendinosos profundos ou parestesia) sem dor ou
+perda de atividade
+Grau 1 com dor ou Grau 2 [sintomas moderados, Reduzir a dose de bortezomibe para 1,0 mg/m2
+limitando as atividades instrumentais da vida ou alterar o esquema de tratamento para 1,3 mg/m2
+diária (AVD)]b uma vez por semana.
+Grau 2 com dor ou Grau 3 (sintomas graves, Interromper o tratamento com bortezomibe até a remissão da
+limitando as AVD de autocuidadoc) toxicidade. Depois, reiniciar o tratamento com dose reduzida de
+bortezomibe (0,7 mg/m2) uma vez por semana.
+Grau 4 (consequências que ameaçam a vida do
+paciente; indicado intervenção urgente) Descontinuar o tratamento com bortezomibe.
+a Classificação baseada no NCI Common Toxicity Criteria CTCAE v 4.0.
+b AVD instrumentais: Refere-se a preparar refeições, comprar mantimentos ou roupas, usar o telefone, administrar o
+dinheiro etc.
+c AVD de autocuidados: refere-se a tomar banho, vestir e despir-se, alimentar-se, usar o banheiro, tomar medicamentos e
+não estar acamado.
+Obs.: A redução da dose de bortezomibe recomendada quando da ocorrência de dor neuropática e/ou neuropatia sensorial
+periférica relacionada ao tratamento, pode levar à redução da eficácia do tratamento.
+• Terapia combinada
+Mieloma múltiplo não tratado previamente - Pacientes não elegíveis a transplante de células tronco
+Dose recomendada em combinação com melfalana e prednisona
+O bortezomibe para injeção é administrado em combinação com melfalana e prednisona, por 9 ciclos de 6 semanas de
+tratamento. Nos Ciclos 1 a 4, bortezomibe é administrado 2 (duas) vezes por semana (Dias 1, 4, 8, 11, 22, 25, 29 e 32).
+Nos Ciclos 5 a 9, bortezomibe é administrado uma vez por semana (Dias 1, 8, 22 e 29).
+Tabela 13: Regime de dose recomendada para bortezomibe quando usado em combinação com melfalana e
+prednisona para pacientes sem tratamento anterior para mieloma múltiplo e não elegíveis a transplante de medula
+óssea.
+bortezomibe 2x (duas vezes) por semana (Ciclos 1 a 4)
+Semana 1 2 3 4 5 6
+Bortezomibe Dia --------- Dia Dia Dia período Dia Dia Dia Dia período
+de de
+(1,3 mg/m2) 1 4 8 11 22 25 29 32
+descanso descanso
+Mel Dia Dia Dia Dia -- -- Período -- -- -- -- período
+de
+(9 mg/m2) 1 2 3 4 de
+descanso
+Pred descanso
+(60 mg/m2)
+bortezomibe 1x (uma vez) por semana (Ciclos 5 a 9)
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Semana 1 2 3 4 5 6
+Bortezomibe Dia 1 -- -- -- Dia 8 período de Dia 22 Dia 29 período de
+(1,3 mg/m2) descanso descanso
+Mel Dia 1 Dia 2 Dia 3 Dia 4 -- período de -- -- período de
+(9 mg/m2) descanso descanso
+Pred
+(60 mg/m2)
+Mel = melfalana, Pred = prednisona
+Guia de manuseio de dose para terapia combinada com melfalana e prednisona
+Modificação de dose e reinício quando bortezomibe é administrado em combinação com melfalana e prednisona.
+Antes de iniciar um novo ciclo de terapia:
+• Contagem de plaquetas deve ser ≥ 70 x 109/L e a contagem absoluta de neutrófilos deve ser ≥ 1,0 x 109/L.
+• Toxicidade não-hematológica deve ser resolvida até Grau 1 ou condição basal.
+Tabela 14: Modificação de dose durante os ciclos subsequentes.
+Toxicidade Modificação ou atraso na dose
+Toxicidade hematológica durante um ciclo:
+▪Caso seja observada no ciclo anterior neutropenia ou Considerar redução de 25% da dose de melfalana no próximo
+trombocitopenia Grau 4 prolongada ou ciclo.
+trombocitopenia com sangramento
+▪ Caso a contagem de plaquetas ≥30 x 109/L ou O bortezomibe deve ser interrompido.
+contagem absoluta de neutrófilos ≥ 0,75 x 109/L
+observada no dia de dose de bortezomibe (exceto
+Dia 1)
+▪ Se muitas doses de bortezomibe forem suspensas no A dose de bortezomibe deve ser reduzida para um nível abaixo
+mesmo ciclo (≥ 3 doses durante a administração de da dose (de 1,3 mg/m2 para 1 mg/m2, ou de 1 mg/m2 para 0,7
+duas vezes por semana ou ≥ 2 doses durante a mg/m2).
+administração semanal)
+Toxicidade não-hematológica ≥ Grau 3 Terapia com bortezomibe deve ser interrompida até que os
+sintomas de toxicidade tenham sido resolvidos até Grau 1 ou
+condição basal. Então, bortezomibe pode ser reiniciado com
+uma redução de nível de dose (de 1,3 mg/m2 para 1 g/m2, ou de 1
+mg/m2 para 0,7 mg/m2). Para dor neuropática e/ou neuropatia
+periférica relacionadas a bortezomibe, manter e/ou modificar
+bortezomibe conforme Tabela 12.
+Para informação adicional relacionada a melfalana e prednisona, veja informações de bula do fabricante.
+Para os ajustes da dose de bortezomibe, deverão ser seguidas as diretrizes de modificação da dose descritas em relação à
+monoterapia.
+Dose recomendada para pacientes que não receberam tratamento prévio e que são elegíveis a transplante de células-
+tronco hematopoiéticas
+- Terapia combinada com dexametasona
+Bortezomibe é administrado por injeção intravenosa na dose recomendada de 1,3 mg/m2 com base na área de superfície
+corporal duas vezes por semana durante duas semanas nos Dias 1, 4, 8, e 11, seguido por um período de repouso de 10 dias
+nos Dias 12 a 21. Este período de 3 semanas é considerado um ciclo de tratamento. São administrados quatro ciclos de
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+tratamento com bortezomibe. Devem decorrer pelo menos 72 horas entre as doses consecutivas de bortezomibe. A
+dexametasona é administrada por via oral na dose de 40 mg nos Dias 1, 2, 3, 4 e Dias 8, 9, 10, 11 do ciclo de tratamento
+com bortezomibe .
+- Terapia combinada com dexametasona e talidomida
+O bortezomibe é administrado através de injeção intravenosa na dose recomendada de 1,3 mg/m2 com base na área de
+superfície corporal duas vezes por semana durante duas semanas nos Dias 1, 4, 8, e 11, seguido por um período de
+repouso de 17 dias nos Dias 12 a 28. Este período de 4 semanas é considerado um ciclo de tratamento. São administrados
+quatro ciclos de tratamento com bortezomibe.
+Recomenda-se que os pacientes com pelo menos resposta parcial recebam 2 ciclos adicionais. Devem decorrer pelo menos
+72 horas entre as doses consecutivas de bortezomibe.
+A dexametasona é administrada por via oral na dose de 40 mg nos Dias 1, 2, 3, 4 e Dias 8, 9, 10, 11 dos ciclos de tratamento
+com bortezomibe.
+A talidomida é administrada por via oral na dose de 50 mg por dia nos Dias 1 a 14 e, se tolerado, a dose é aumentada para
+100 mg nos Dias 15 a 28, e posteriormente pode ser aumentada para 200 mg por dia.
+Tabela 15: Posologia para terapia combinada com bortezomibe para pacientes com mieloma múltiplo sem
+tratamento prévio elegíveis a transplante de células-tronco hematopoiéticas.
+Ciclos 1 a 4
+Semana 1 2 3
+bortezomibe + bortezomibe (1,3 Dia 1, 4 Dia 8, 11 Período de repouso
+Dx mg/m2)
+Dx 40 mg Dia 1, 2, 3, 4 Dia 8, 9, 10, 11 -
+Ciclo 1
+Semana 1 2 3 4
+bortezomibe (1,3 Dia 1, 4 Dia 8, 11 Período de Período de
+mg/m2) repouso repouso
+T 50 mg Diariamente Diariamente - -
+(dias 1 a 7) (dias 8 a 14)
+T 100 mga - - Diariamente Diariamente
+bortezomibe + Dx (dias 15 a (dias 22 a
++ T 21) 28)
+Dx 40 mg Dia 1, 2, 3, 4 Dia 8, 9, 10, 11 - -
+Ciclos 2 a 4b
+bortezomibe (1,3 Dia 1, 4 Dia 8, 11 Período de Período de
+mg/m2) repouso repouso
+T 200 mga Diariamente Diariamente Diariamente Diariamente
+(dias 1 a 7) (dias 8 a 14) (dias 15 a (dias 22 a
+21) 28)
+Dx 40 mg Dia 1, 2, 3, 4 Dia 8, 9, 10, 11 - -
+Dx = dexametasona; T = talidomida
+a A dose de talidomida é aumentada para 100 mg a partir da semana 3 do Ciclo 1 apenas se a dose de 50 mg for tolerada e
+para 200 mg do Ciclo 2 em diante se a dose de 100 mg for tolerada.
+b Até 6 ciclos podem ser administrados aos pacientes que atingirem pelo menos uma resposta parcial após 4 ciclos.
+A talidomida é uma substância ativa teratogênica humana conhecida, que causa malformações severas de risco à vida. A
+talidomida é contraindicada durante a gestação e em mulheres férteis, exceto se todas as condições do programa de
+prevenção de gestações da talidomida forem atendidas. Os pacientes que recebem bortezomibe em combinação com
+talidomida deverão aderir ao programa de prevenção de gestações da talidomida. Consulte a bula da talidomida para
+informações adicionais.
+- Ajustes de dose para pacientes elegíveis a transplante
+Para ajustes de dose de bortezomibe para neuropatia consulte a Tabela 12.
+Adicionalmente, quando bortezomibe é administrado em combinação com outros medicamentos quimioterápicos, devem
+ser consideradas reduções de dose apropriadas para estes medicamentos no caso de toxicidades, de acordo com as
+recomendações nas bulas desses produtos.
+Retratamento de mieloma múltiplo
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Pacientes que haviam respondido previamente ao tratamento com bortezomibe (isolado ou em combinação) e que
+apresentaram recaída podem iniciar o retratamento com a última dose tolerada.
+Veja regime de dose em “Monoterapia”.
+Populações especiais
+Pacientes com insuficiência renal
+A farmacocinética de bortezomibe não é influenciada pela gravidade da insuficiência renal. Desta forma, não é necessário
+ajuste da dose de bortezomibe em pacientes com insuficiência renal. Uma vez que a diálise pode reduzir a concentração de
+bortezomibe, o medicamento deve ser administrado após o procedimento de diálise.
+Pacientes com insuficiência hepática
+Pacientes com insuficiência hepática leve não requerem ajuste de dose inicial e devem ser tratados de acordo com a
+posologia recomendada de bortezomibe. Pacientes com insuficiência hepática moderada ou grave devem iniciar o
+tratamento com bortezomibe utilizando uma dose reduzida de 0,7 mg/m2 por injeção durante o primeiro ciclo e subsequentes
+aumentos gradativos da dose para 1,0 mg/m2 ou reduções de dose para 0,5 mg/m2 podem ser considerados, com base na
+tolerância do paciente (veja Tabela 16).
+Tabela 16: Modificação da dose inicial recomendada para bortezomibe em pacientes cominsuficiência hepática
+Nível de Nível de TGOs Modificação na dose inicial
+bilirrubina (AST)
+Leve ≤ 1,0 x ULN > ULN Nenhuma
+>1,0 x -1,5 x ULN Qualquer Nenhuma
+Moderada > 1,5x - 3x ULN Qualquer Redução da dose de bortezomibe para 0,7
+mg/m2 no primeiro ciclo.
+Grave
+Considerar aumentos gradativos da dose
+para 1,0 mg/m2 ou redução para 0,5 mg/m2
+> 3x ULN Qualquer em ciclos subsequentes, com base na
+tolerância do paciente.
+Abreviações: TGOS = transaminase glutâmico oxoloacética sérica;
+AST = aspartato aminotransferase; ULN = acima do limite da faixa de normalidade.
+9. REAÇÕES ADVERSAS
+Resumo dos estudos clínicos de bortezomibe IV em pacientes com mieloma múltiplo recidivado/refratário.
+A segurança e eficácia de bortezomibe foi avaliada em 3 estudos com a dose recomendada de 1,3 mg/m2, incluindo um
+estudo Fase 3, randomizado, comparativo, versus dexametasona de 669 pacientes com mieloma múltiplo refratário ou
+recidivado que já haviam recebido de 1 a 3 linhas terapêuticas anteriores (M34101-039); um estudo Fase 2, braço único,
+aberto, multicêntrico com 202 pacientes que haviam recebido pelo menos 2 terapias anteriores e demonstraram progressão
+da doença na terapia mais recente (M34101-025); e um estudo clínico Fase 2, dose-resposta em mieloma múltiplo
+recidivado em pacientes que tiveram progressão ou recidiva da doença após terapia de primeira linha com bortezomibe 1,0
+mg/m2 ou 1,3 mg/m2 (M34100-024).
+Tabela 17: Reações adversas ao medicamento bortezomibe em estudos de Fase 2 e Fase 3 de mieloma múltiplo
+refratário/recidivado
+Nº do estudo
+Classificação de órgãos e sistemas do MedDRA M34101- 039 M34100-
+Termo preferencial (n = 331) 024/M34100
+-025 (n = 228a)
+Distúrbios do sangue e do sistema linfático
+Trombocitopenia 115 (35%) 97 (43%)
+Anemia 87 (26%) 74 (32%)
+Neutropenia 62 (19%) 55 (24%)
+Leucopenia 24 (7%) 15 (7%)
+Linfopenia 15 (5%) 11 (5%)
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Pancitopenia 2 (< 1%) 6 (3%)
+Neutropenia febril 1 (< 1%) 1 (< 1%)
+Distúrbios cardíacos
+Arritmias 4 (1%) 2 (< 1%)
+Taquicardia 9 (3%) 17 (7%)
+Fibrilação atrial 6 (2%) 2 (< 1%)
+Palpitações 5 (2%) 4 (2%)
+Desenvolvimento agudo ou exacerbação de insuficiência cardíaca, 7 (2%) 8 (4%)
+incluindo insuficiência cardíaca crônica
+Edema pulmonar 6 (2%) 3 (1%)
+Choque cardiogênico* 1 (< 1%) -
+Aparecimento de redução da fração de ejeção do ventrículo esquerdo 1 (< 1%) -
+“Flutter” atrial 1 (< 1%) -
+Bradicardia 3 (< 1%) 1 (< 1%)
+Distúrbios do ouvido e labirinto
+Audição prejudicada 1 (< 1%) 1 (< 1%)
+Distúrbios oftalmológicos
+Visão turva 9 (3%) 25 (11%)
+Infecção e irritação conjuntiva 14 (4%) 7 (3%)
+Distúrbios gastrintestinais
+Constipação 140 (42%) 97 (43%)
+Diarreia 190 (57%) 116 (51%)
+Náusea 190 (57%) 145 (64%)
+Vômito 117 (35%) 82 (36%)
+Dor gastrintestinal e abdominal, excluindo dor oral e na garganta 80 (24%) 48 (21%)
+Dispepsia 32 (10%) 30 (13%)
+Dor faringolaríngea 25 (8%) 19 (8%)
+Refluxo gastroesofágico 10 (3%) 1 (< 1%)
+Nº do estudo
+M34101- 039 M34100-
+Classificação de órgãos e sistemas do MedDRA (n = 331) 024/M34100
+Termo preferencial -025
+(n = 228a)
+Eructação 2 (< 1%) 4 (2%)
+Distensão abdominal 14 (4%) 13 (6%)
+Estomatite e ulceração da boca 24 (7%) 10 (4%)
+Disfagia 4 (1%) 5 (2%)
+Hemorragia gastrintestinal (trato gastrintestinal superior e inferior)b 7 (2%) 3 (1%)
+Hemorragia retal (incluindo diarreia hemorrágica) 7 (2%) 3 (1%)
+Ulceração da língua 2 (< 1%) 1 (< 1%)
+Ânsia de vômito 3 (< 1%) 2 (< 1%)
+Hemorragia do trato gastrintestinal superior 1 (< 1%) -
+Hematêmese 1 (< 1%) -
+Petéquias da mucosa oral 3 (< 1%) -
+Íleo paralítico 1 (< 1%) 2 (< 1%)
+Distúrbios gerais e condições no local de administração
+Condições astênicas 201 (61%) 149 (65%)
+Fraqueza 40 (12%) 44 (19%)
+Fadiga 140 (42%) 118 (52%)
+Letargia 12 (4%) 9 (4%)
+Mal-estar 13 (4%) 22 (10%)
+Pirexia 116 (35%) 82 (36%)
+Rigidez 37 (11%) 27 (12%)
+Edema de extremidades inferiores 35 (11%) 27 (12%)
+Neuralgia 21 (6%) 5 (2%)
+Dor no peito 26 (8%) 16 (7%)
+Irritação e dor no local de administração 1 (< 1%) 1 (< 1%)
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Flebite no local de administração 1 (< 1%) 1 (< 1%)
+Distúrbios hepatobiliares
+Hiperbilirrubinemia 1 (< 1%) -
+Testes de função hepática anormais 3 (< 1%) 2 (< 1%)
+Hepatite 2 (< 1%) no estudo -
+M34101-040c
+Distúrbios do sistema imunológico
+Hipersensibilidade ao medicamento 1 (< 1%) 1 (< 1%)
+Infecções e infestações
+Infecção do trato respiratório superior 26 (8%) 41 (18%)
+Nasofaringite 45 (14%) 17 (7%)
+Infecções do trato respiratório inferior e pulmões 48 (15%) 29 (13%)
+Pneumoniab 21 (6%) 23 (10%)
+Herpes zoster (incluindo forma multidérmica ou disseminada) 42 (13%) 26 (11%)
+Herpes simples 25 (8%) 13 (6%)
+Bronquite 26 (8%) 6 (3%)
+Nº do estudo
+Classificação de órgãos e sistemas do MedDRA M34101-039 M34100-
+Termo preferencial (N = 331) 024/M34100-025
+(N = 228a)
+Neuralgia pós-herpética 4 (1%) 1 (< 1%)
+Sinusite 14 (4%) 15 (7%)
+Faringite 6 (2%) 2 (< 1%)
+Candidíase oral 6 (2%) 3 (1%)
+Infecção do trato urinário 13 (4%) 14 (6%)
+Infecção relacionada ao cateter 10 (3%) 6 (3%)
+Sepse e bacteremiab 9 (3%) 9 (4%)
+Gastroenterite 7 (2%) -
+Lesão, envenenamento e complicações do procedimento
+Complicações relacionadas ao cateter 7 (2%) 8 (4%)
+Investigações
+Aumento de ALT (alanina aminotransferase) 3 (< 1%) 10 (4%)
+Aumento de AST (aspartato aminotransferase) 5 (2%) 12 (5%)
+Aumento da fosfatase alcalina 6 (2%) 8 (4%)
+Aumento de GGT (Gama-glutamiltransferase) 1 (< 1%) 4 (2%)
+Distúrbios metabólicos e nutricionais
+Redução do apetite e anorexia 112 (34%) 99 (43%)
+Desidratação 24 (7%) 42 (18%)
+Hiperglicemia 5 (2%) 16 (7%)
+Hipoglicemia 7 (2%) 4 (2%)
+Hiponatremia 8 (2%) 18 (8%)
+Síndrome da lise tumoral 2 (< 1%) no estudo -
+M34101-040c
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+Dor nos membros 50 (15%) 59 (26%)
+Mialgia 39 (12%) 32 (14%)
+Artralgia 45 (14%) 60 (26%)
+Distúrbios do sistema nervoso
+Neuropatia periféricad 120 (36%) 84 (37%)
+Parestesia e disestesia 91 (27%) 53 (23%)
+Tontura, excluindo vertigem 45 (14%) 48 (21%)
+Cefaleia 85 (26%) 63 (28%)
+Disgeusia 17 (5%) 29 (13%)
+Polineuropatia 9 (3%) 1 (< 1%)
+Síncope 8 (2%) 17 (7%)
+Convulsões 4 (1%) -
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Perda da consciência 2 (< 1%) -
+Ageusia 2 (< 1%) -
+Distúrbios psiquiátricos
+Ansiedade 31 (9%) 32 (14%)
+Nº do estudo
+Classificação de órgãos e sistemas do MedDRA M34101-039 M34100-
+Termo preferencial (N = 331) 024/M34100-025
+(N = 228a)
+Distúrbios renais e urinários
+Insuficiência ou falência renal 21 (6%) 21 (9%)
+Dificuldade na micção 2 (1%) 3 (1%)
+Hematúria 5 (2%) 4 (2%)
+Distúrbios respiratórios, toráxicos e do mediastino
+Epistaxe 21 (6%) 23 (10%)
+Tosse 70 (21%) 39 (17%)
+Dispneia 65 (20%) 50 (22%)
+Dispneia do exercício 21 (6%) 18 (8%)
+Derrame pleural 4 (1%) 9 (4%)
+Rinorreia 4 (1%) 14 (6%)
+Hemoptise 3 (< 1%) 2 (< 1%)
+Distúrbios da pele e do tecido subcutâneo
+Erupção cutânea, que pode ser prurítico, eritematoso, e pode incluir 61 (18%) 47 (21%)
+evidência de vasculite leucocitoclástica
+Urticária 7 (2%) 5 (2%)
+Distúrbios vasculares
+Hipotensão 20 (6%) 27 (12%)
+Hipotensão ortostática/postural 14 (4%) 8 (4%)
+Petéquias 6 (2%) 7 (3%)
+Hemorragia cerebralᵇ 1 (< 1%) -
+a Todos os 228 pacientes receberam bortezomibe na dose de 1,3 mg/m2.
+b Inclui desfecho fatal.
+c O estudo de bortezomibe na dose recomendada de 1,3 mg/m2 em pacientes com mieloma múltiplo que apresentaram
+progressão da doença após receber pelo menos quatro terapias prévias ou após receber alta dose de dexametasona no
+Protocolo M34101-039.
+d Incluindo todos os termos preferenciais do MedDRA HTL “neuropatia periférica NEC”.
+Resumo dos estudos clínicos de bortezomibe IV versus SC em pacientes com mieloma múltiplo recidivado
+A segurança e a eficácia de bortezomibe SC foram avaliadas em um estudo Fase 3 na dose recomendada de 1,3 mg/m2.
+Este foi um estudo randomizado, comparativo de bortezomibe IV versus SC em 222 pacientes com mieloma múltiplo
+recidivado.
+Tabela 18: Incidência de reações adversas ao medicamento bortezomibe relatadas em ≥ 10% dos pacientes em um
+estudo Fase 3 mieloma múltiplo recidivado comparando bortezomibe IV e SC
+-------------------------IV------------------------- --------------------------SC----------------------
+(n = 74) (n = 147)
+Classificação de
+órgãos e sistemas do Grau de Grau de
+MedDRA Total Toxicidade, n (%) Total toxicidade, n (%)
+Termo preferencial n (%) 3 >4 n (%) 3 >4
+Distúrbios do sangue e do sistema linfático
+Anemia 26 (35) 6 (8) 0 53 (36) 14 (10) 4
+(3)
+Leucopenia 16 (22) 4 (5) 1 (1) 29 (20) 9 (6) 0
+Neutropenia 20 (27) 10 (14) 3 (4) 42 (29) 22 (15) 4 (3)
+Trombocitopenia 27 (36) 8 (11) 6 (8) 52 (35) 12 (8) 7 (5)
+Distúrbios gastrintestinais
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Dor abdominal 8 (11) 0 0 5 (3) 1 (1) 0
+Dor abdominal alta 8 (11) 0 0 3 (2) 0 0
+Constipação 11 (15) 1 (1) 0 21 (14) 1 (1) 0
+Diarreia 27 (36) 3 (4) 1 (1) 35 (24) 2 (1) 1 (1)
+Náusea 14 (19) 0 0 27 (18) 0 0
+Vômito 12 (16) 0 1 (1) 17 (12) 3 (2) 0
+Distúrbios gerais e condições no local de
+administração
+Astenia 14 (19) 4 (5) 0 23 (16) 3 (2) 0
+Fadiga 15 (2) 3 (4) 0 17 (12) 3 (2) 0
+Pirexia 12 (16) 0 0 28 (19) 0 0
+Infecções e infestações
+Herpes zoster 7 (9) 1 (1) 0 16 (11) 2 (1) 0
+Distúrbios metabólicos e nutricionais
+Diminuição do 7 (9) 0 0 14(10) 0 0
+apetite
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+Dor nas extremidades 8 (11) 2 (3) 0 8 (5) 1 (1) 0
+Distúrbios do sistema nervoso
+Cefaleia 8 (11) 0 0 5 (3) 0 0
+Neuralgia 17 (23) 7 (9) 0 35 (24) 5 (3) 0
+Neuropatia sensorial 36 (49) 10 (14) 1 (1) 51 (35) 7 (5) 0
+periférica
+Distúrbios psiquiátricos
+Insônia 8 (11) 0 0 18 (12) 0 0
+Distúrbios respiratórios, torácicos e do mediastino
+Dispneia 9 (12) 2 (3) 0 11 (7) 2 (1) 0
+Nota: Porcentagens na coluna “Total” para cada grupo calculadas com o número de pacientes em cada grupo como
+denominador. Porcentagens dos subgrupos de grau de toxicidade calculadas com o número de pacientes em cada grupo
+como denominador.
+* Graduação da toxicidade tem por base os Critérios de Terminologia Comum para Eventos Adversos do National Cancer
+Institute (NCI-CTCAE).
+Embora geralmente os dados de segurança fossem similares para os grupos de tratamento IV e SC, a seguinte tabela destaca
+diferenças maiores que 10% na incidência global de reações adversas ao medicamento entre os dois braços do tratamento.
+Tabela 19: Incidência de reações adversas ao medicamento com diferença > 10% na incidência geral entre os braços
+de tratamento no estudo de mieloma múltiplo recidivado Fase 3, comparando bortezomibe IV e SC, por grau de
+toxicidade e descontinuação
+-----------------------IV---------------------- ---------------------SC-------------------
+Classificação de órgãos e (n = 74) (n = 147)
+sistemas do MedDRA
+Categoria, n (%) Grau de toxicidade, n (%)
+Termo preferencial
+TEAE G > 3 Disc TEAE G > 3 Disc
+Todos os pacientes com TEAE 73 (99) 52 (70) 20 (27) 140 (95) 84 (57) 33
+(22)
+Distúrbios gastrintestinais
+Diarreia (excluindo infecciosa) 27 (36) 4 (5) 1 (1) 35 (24) 3 (2) 1 (1)
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Dores gastrintestinais e
+abdominais (excluindo oral e 14 (19) 0 0 9 (6) 1 (1) 0
+garganta)
+Distúrbios gerais e condições no local de
+administração
+Condições astênicas 29 (39) 7 (9) 1 (1) 40 (27) 6 (4) 2 (1)
+Infecções e infestações
+Infecções do trato respiratório 19 (26) 2 (3) 0 20 (14) 0 0
+superior
+Distúrbios do sistema nervoso
+Neuropatias periféricasa 39 (53) 12 (16) 10 (14) 56 (38) 9 (6) 9 (6)
+a Representa o termo de nível mais alto.
+TEAE = Evento adverso emergente do tratamento.
+G > 3 = Grau de toxicidade maior ou igual a 3.
+Disc = Descontinuação de qualquer medicamento do estudo.
+* Graduação da toxicidade tem por base os Critérios de Terminologia Comum para Eventos Adversos do National Cancer
+Institute (NCI-CTCAE).
+Pacientes que receberam bortezomibe por via subcutânea comparada à administração intravenosa tiveram uma incidência
+geral 13% menor de reações adversas grau 3 ou superior relacionadas ao medicamento (57% e 70%, respectivamente) e
+uma incidência de descontinuação de bortezomibe 5% menor (22% vs 27%). A incidência geral de diarreia (24% no braço
+SC vs 36% no braço IV), condições astênicas (27% no braço SC vs 39% no braço IV), infecções do trato respiratório
+superior (14% no braço SC vs 26% no braço IV) e neuropatia periférica NEC (38% no braço SC vs 53% no braço IV) foi
+de 12%-15% menor no grupo subcutâneo quando comparado ao grupo intravenoso. Adicionalmente, a incidência de
+neuropatias periféricas que foram de grau 3 ou maiores em toxicidade foi 10% menor (6% para SC vs 16% para IV), e a
+taxa de descontinuação devido a neuropatias periféricas foi 8% menor para o grupo subcutâneo (5%) quando comparada
+ao grupo intravenoso (12%).
+Em 6% dos pacientes houve o relato de reação adversa local com a administração SC, principalmente vermelhidão. Apenas
+em 2 (1%) dos pacientes foram relatadas reações adversas graves. Essas reações locais graves foram 1 caso de prurido e 1
+caso de vermelhidão. Essas reações raramente levaram a modificações da dose e todas foram resolvidas em um tempo
+mediano de 6 dias.
+Retratamento com bortezomibe em mieloma múltiplo recidivado
+A tabela a seguir descreve as reações adversas ao medicamento relatadas por pelo menos 10% dos pacientes com mieloma
+múltiplo recidivado e que receberam retratamento com bortezomibe IV (Estudo MMY-2036).
+Tabela 20: Incidência de reações adversas ao medicamento bortezomibe relatados por pelo menos ≥ 10% dos
+pacientes (Estudo MMY-2036).
+Retratamento com bortezomibe (MMY-2036)
+Grau de toxicidade
+Total 3 ≥ 4
+Situação de análise: Segurança, n 130
+Nº total de pacientes com reações adversas 126 (97)
+ao medicamento, n (%)
+Sistema de Classe/Órgão do MedDRA
+Termo preferencial
+Distúrbios do sangue e do sistema linfático
+Trombocitopenia 71 (55) 19 (15) 14 (11)
+Anemia 48 (37) 5 (4) 1 (1)
+Neutropenia 23 (18) 9 (7) 0
+Leucopenia 20 (15) 5 (4) 0
+Distúrbios gastrintestinais
+Diarreia 45 (35) 9 (7) 0
+Constipação 36 (28) 0 0
+Náusea 14 (11) 0 0
+Distúrbios gerais e condições no local de administração
+Pirexia 31 (24) 2 (2) 0
+Astenia 29 (22) 6 (5) 0
+Fadiga 21 (16) 0 0
+Edema periférico 15 (12) 0 0
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Infecções e infestações
+Infecção do trato respiratório 17 (13) 3 (2) 1 (1)
+Bronquite 13 (10) 1 (1) 0
+Distúrbios do sistema nervoso
+Neuropatia sensorial periférica 22 (17) 4 (3) 0
+Neuropatia periférica 13 (10) 3 (2) 0
+Distúrbios respiratórios, torácicos e do mediastino
+Tosse 15 (12) 1 (1) 0
+Dispneia 14 (11) 1 (1) 0
+Nota: As porcentagens são calculadas com o número de pacientes em cada grupo como denominador
+Os eventos adversos são reportados usando o MedDRA (versão 4.1).
+No estudo MMY-2036, para os eventos adversos em que apenas o grau de severidade é reportado, o grau de severidade é
+remapeado para um grau de toxicidade NCI CTCAE (National Cancer Institute / Common Toxicity Criteria for Adverse
+Events).
+Eventos adversos sem grau de toxicidade são classificados como Grau 3.
+Resumo de estudos clínicos em pacientes com mieloma múltiplo sem tratamento anterior:
+A Tabela 21 a seguir, descreve dados de segurança de 340 pacientes com mieloma múltiplo sem tratamento anterior que
+receberam bortezomibe IV (1,3 mg/m2) em combinação com melfalana (9 mg/m2) e prednisona (60 mg/m2) em um estudo
+prospectivo de Fase 3.
+Tabela 21: Reações Adversas relacionadas ao tratamento com o medicamento e relatadas em ≥ 10% dos pacientes
+tratados com bortezomibe em combinação com melfalana e prednisona
+-------------- VMP -------------- ----------------------- MP ------------
+---
+(n = 340) (n= 337)
+Classificação de Grau de Toxicidade, n
+órgãos e sistemas do Total Grau de toxicidade Total (%)
+MedDRA (%)
+Termo preferencial n (%) 3 ≥ 4 n (%) 3 ≥4
+Distúrbios do sangue e do sistema linfático
+Trombocitopenia 164 (48) 60 (18) 57 (17) 140 (42) 48 (14) 39 (12)
+Neutropenia 160 (47) 101 (30) 33 (10) 143 (42) 77 (23) 42 (12)
+Anemia 109 (32) 41 (12) 4 (1) 156 (46) 61 (18) 18 (5)
+Leucopenia 108 (32) 64 (19) 8 (2) 93 (28) 53 (16) 11 (3)
+Linfopenia 78 (23) 46 (14) 17 (5) 51 (15) 26 (8) 7 (2)
+Distúrbios gastrintestinais
+Náusea 134 (39) 10 (3) 0 70 (21) 1 (< 1) 0
+Diarreia 119 (35) 19 (6) 2 (1) 20 (6) 1 (< 1) 0
+Vômito 87 (26) 13 (4) 0 41 (12) 2 (1) 0
+Constipação 77 (23) 2 (1) 0 14 (4) 0 0
+Dor no abdômen 34 (10) 1 (< 1) 0 20 (6) 0 0
+superior
+Distúrbios do sistema nervoso
+Neuropatia periférica 156 (46) 42 (12) 2 (1) 4 (1) 0 0
+Neuralgia 117 (34) 27 (8) 2 (1) 1 (< 1) 0 0
+Parestesia 42 (12) 6 (2) 0 4 (1) 0 0
+Distúrbios gerais e condições no local de
+administração
+Fadiga 85(25) 19 (6) 2 (1) 48 (14) 4 (1) 0
+Astenia 54 (16) 18 (5) 0 23 (7) 3 (1) 0
+Pirexia 53 (16) 4 (1) 0 19 (6) 1 (< 1) 1 (< 1)
+Infecções e infestações
+Herpes zoster 39 (11) 11 (3) 0 9 (3) 4 (1) 0
+Distúrbios metabólicos e
+nutricionais
+Anorexia 64 (19) 6 (2) 0 19 (6) 0 0
+Distúrbios da pele e do tecido subcutâneo
+Erupção cutânea 38 (11) 2 (1) 0 7 (2) 0 0
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Distúrbios psiquiátricos
+Insônia 35 (10) 1 (< 1) 0 21 (6) 0 0
+*Graduação da toxicidade tem por base os Critérios de Terminologia Comum para Eventos Adversos do National
+Cancer Institute (NCI-CTCAE).
+Reativação do vírus herpes zoster
+Os médicos devem considerar o uso de profilaxia antiviral em pacientes que forem tratados com bortezomibe. Nos estudos
+de Fase 3 em pacientes com mieloma múltiplo sem tratamento prévio, a incidência da reativação do herpes zoster foi mais
+comum em pacientes tratados com VMP comparado com MP (14% vs 4% respectivamente). Profilaxia antiviral foi
+administrada a 26% dos pacientes no grupo VMP. A incidência de herpes zoster entre pacientes sob tratamento com VMP
+foi de 17% para os pacientes que não receberam profilaxia antiviral comparado com 3% dos pacientes nos quais a
+profilaxia antiviral foi administrada.
+A tabela a seguir descreve as reações adversas consideradas como tendo pelo menos uma possível relação causal com
+bortezomibe em pacientes com mieloma múltiplo sem tratamento prévio, elegíveis a transplante de células-tronco
+hematopoiéticas e que receberam bortezomibe por via intravenosa (1,3 mg/m2). Quatrocentos e dez (410) pacientes foram
+tratados com bortezomibe em combinação com doxorrubicina e dexametasona comparado com 411 pacientes tratados com
+bortezomibe em combinação com vincristina, doxorrubicina e dexametasona no estudo MMY-3003, 239 foram tratados
+com bortezomibe em combinação com dexametasona isoladamente comparado com 239 pacientes tratados com vincristina,
+doxorrubicina e dexametasona no estudo IFM 2005-01, e 130 foram tratados com bortezomibe em combinação com
+talidomida e dexametasona comparado com 126 pacientes tratados com talidomida e dexametasona no estudo MMY-3010.
+Para esses 3 estudos conduzidos no cenário de transplante (MMY-3003, IFM 2005-01, MMY-3010), apenas as reações
+adversas relatadas durante a fase de indução do tratamento são consideradas para a tabela.
+Tabela 22: Incidência das reações adversas emergentes mais frequentes (≥ 10% em todos os grupos de tratamento)
+durante o estágio de indução
+------------- Baseado em bortezomibe ------- -----Não baseado em bortezomibe ----
+(n = 779) (n= 776)
+Classificação de órgãos e Grau de Toxicidade, n
+sistemas do MedDRA Total Grau de toxicidade (%) Total (%)
+Termo preferencial n (%) 2 ≥ 3 n (%) 2 ≥3
+Nº total de pacientes
+com reações 679 (88)
+adversas ao 715 (92)
+medicamento
+Distúrbios gastrintestinais
+Constipação 242 (31) 89 (11) 10 (1) 214 (28) 67 (9) 8 (1)
+Náusea 215 (28) 71 (9) 22 (3) 206 (27) 77 (10) 9 (1)
+Diarreia 133 (17) 29 (4) 23 (3) 110 (14) 26 (3) 6 (1)
+Vômito 95 (12) 30 (4) 18 (2) 87 (11) 35 (5) 6 (1)
+Distúrbios do sistema nervoso
+Neuropatia periférica 147 (19) 53 (7) 20 (3) 54 (7) 11 (1) 4 (1)
+Parestesia 101 (13) 24 (3) 11 (1) 80 (10) 15 (2) 2 (< 1)
+Neuropatia periférica
+sensorial 101 (13) 41 (5) 19 (2) 55 (7) 13 (2) 1 (< 1)
+Cefaleia 64 (8) 23 (3) 4 (1) 76 (10) 23 (3) 1 (< 1)
+Distúrbios gerais e condições no local de administração
+Fadiga 158 (20) 50 (6) 21 (3) 161 (21) 68 (9) 21 (3)
+Pirexia 153 (20) 56 (7) 25 (3) 159 (20) 40 (5) 36 (5)
+Astenia 110 (14) 33 (4) 16 (2) 91 (12) 33 (4) 10 (1)
+Distúrbios do sangue e do sistema linfático
+Trombocitopenia 239 (31) 54 (7) 63 (8) 171 (22) 27 (3) 27 (3)
+Anemia 211 (27) 95 (12) 55 (7) 222 (29) 108 (14) 77 (10)
+Leucopenia 196 (25) 51 (7) 109 (14) 206 (27) 53 (7) 120 (15)
+Infecções e infestações
+Herpes Zoster 86 (11) 50 (6) 24 (3) 18 (2) 9 (1) 5 (1)
+Distúrbios metabólicos e nutricionais
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Hiperglicemia 122 (16) 46 (6) 26 (3) 18 (2) 9 (1) 5 (1)
+Hiponatremia 100 (13) 2 (< 1) 29 (4) 82 (11) 6 (1) 12 (2)
+Distúrbios psiquiátricos
+Insônia 96 (12) 32 (4) 6 (1) 82 (11) 30 (4) 6 (1)
+Nota: As porcentagens para cada grupo foram calculadas com o número de pacientes em cada grupo como denominador.
+A incidência é baseada no número de pacientes que apresentaram pelo menos 1 reação adversa, não no número de eventos.
+Os eventos adversos foram classificados com base no MedDRA 13.1.
+Experiência pós-comercialização
+Eventos adversos ao medicamento clinicamente significativos estão listados a seguir se não tiverem sido relatados
+anteriormente.
+As frequências apresentadas a seguir refletem as taxas de relatos para reações adversas ao medicamento provenientes da
+experiência de pós-comercialização mundial de bortezomibe. As frequências a seguir refletem taxas de relato e estimativas
+mais precisas da incidência não podem ser feitas. As reações adversas ao medicamento estão listadas por frequência.
+Reação incomum (>1/1000 e ≤1/100):
+Distúrbios gastrintestinais: obstrução intestinal
+Reação rara (> 1/10.000 e ≤ 1/1.000):
+Distúrbios do sangue e sistema linfático: coagulação intravascular disseminada;
+Distúrbios cardíacos: bloqueio completo atrioventricular, tamponamento cardíaco;
+Distúrbios do ouvido e labirinto: surdez bilateral;
+Distúrbios oftalmológicos: herpes oftálmica, neuropatia óptica, cegueira, calázio/blefarite;
+Distúrbios gastrintestinais: colite isquêmica, pancreatite aguda;
+Infecções e infestações: meningoencefalite herpética, choque séptico;
+Distúrbios do sistema imunológico: angioedema;
+Distúrbios do sistema nervoso: encefalopatia, neuropatia autonômica, síndrome de encefalopatia posterior reversível;
+Distúrbios respiratórios, torácicos e do mediastino: doença pulmonar infiltrativa difusa aguda, hipertensão pulmonar;
+Distúrbios da pele e do tecido subcutâneo: dermatose neutrofílica febril aguda (Síndrome de Sweet).
+Reação muito rara (≤ 1/10.000, incluindo relatos isolados):
+Distúrbios da pele e do tecido subcutâneo: síndrome de Stevens-Johnson e necrólise epidérmica tóxica;
+Infecções e infestações: leucoencefalopatia multifocal progressivaa;
+Distúrbios do sistema imunológico: reação anafilática, síndrome de Guillain-Barré e polineuropatia desmielinizante;
+Distúrbios do sangue e do sistema linfático: microangiopatia trombótica.
+a. Casos muito raros de infecção pelo vírus John Cunningham (JC) com causalidade desconhecida, resultando em LMP
+(Leucoencefalopatia multifocal progressiva) e morte foram relatados em pacientes tratados com bortezomibe.
+Atenção: este produto é um medicamento que possui nova indicação terapêutica no país e, embora as pesquisas
+tenham indicado eficácia e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer
+eventos adversos imprevisíveis ou desconhecidos.
+Nesse caso, notifique os eventos adversos pelo Sistema VigiMed disponível no Portal da Anvisa.
+10. SUPERDOSE
+Estudos de farmacologia relacionados à segurança cardiovascular em macacos e cães mostraram que doses intravenosas
+aproximadamente duas a três vezes a dose clínica recomendada em uma base de mg/m2 estão associadas ao aumento na
+frequência cardíaca, redução na contratilidade, hipotensão e óbito. A redução na contratilidade cardíaca e a hipotensão
+responderam à intervenção aguda com agentes inotrópicos positivos ou hipertensores. Em estudos com cães, um pequeno
+aumento no intervalo QT corrigido foi observado na dose letal.
+Em pacientes, superdose maior que duas vezes a dose recomendada tem sido associada com início agudo de hipotensão
+sintomática e trombocitopenia com evolução fatal.
+Não há antídoto específico conhecido para superdose com bortezomibe. Em um evento de superdose, os sinais vitais do
+paciente devem ser monitorados e os cuidados de suporte apropriados devem ser fornecidos para manter a pressão sanguínea
+(como fluídos, agentes pressores e/ou inotrópicos) e a temperatura corpórea.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+DIZERES LEGAIS
+M.S.: 1.0043.1444
+Farm. Resp. Subst.: Dra. Ivanete Aparecida Dias Assi – CRF-SP 41.116
+VENDA SOB PRESCRIÇÃO MÉDICA.
+USO RESTRITO A HOSPITAIS.
+Esta bula foi atualizada conforme Bula Padrão aprovada pela ANVISA em 10/03/2022.
+Fabricado e Registrado por:
+EUROFARMA LABORATÓRIOS S.A.
+Rod. Pres. Castello Branco, 3565 – Itapevi – SP
+CNPJ do titular do registro: 61.190.096/0001-92
+Indústria Brasileira
+Bula_Profissional_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00
+Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do Data do No do Data de Versões (VP/ Apresentações
+No do expediente Assunto Assunto Itens de bula
+expediente expediente expediente aprovação VPS) relacionadas
+Pó liofilizado para
+10457 - SIMILAR - solução injetável
+Inclusão Inicial de Texto
+- - - - - VP/VPS
+de Bula - publicação no
+3,5 mg
+Bulário RDC 60/12
+Bula_Paciente_Elome_(bortezomibe)_po_liof_sol_inj VERSÃO 00

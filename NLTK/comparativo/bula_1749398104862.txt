@@ -1,0 +1,55 @@
+INDICAÇÕES Este medicamento é destinado ao tratamento e alívio dos sintomas dispépticos relacionados à infecção causada pela
+bactéria Helicobacter pylori (H. pylori) e na redução do risco de recorrência de úlcera péptica ou intestinal através da
+eliminação do microrganismo H. pilory.
+2. RESULTADOS DE EFICÁCIA
+esomeprazol
+Estudos clínicos têm demonstrado que o esomeprazol nas dosagens de 20 mg e 40 mg produzem maior e mais
+sustentável controle do pH ácido quando comparado ao omeprazol 20 mg, com tolerabilidade similar e mesmo perfil de
+segurança. Soma-se a isso o fato de que o esomeprazol apresenta início do efeito ácido-supressor mais rápido em
+comparação ao omeprazol e menor variação interindividual no controle da acidez proporcionando assim maior
+previsibilidade da resposta1.
+Nos últimos anos, o controle ácido com esomeprazol tem sido comparado também a outros inibidores da bomba de
+prótons (IBPs) em vários estudos realizados em pacientes com diagnóstico de Doença do Refluxo Gastroesofágico
+(DRGE) ou indivíduos saudáveis. Diversos estudos comparando o esomeprazol com outros IBPs como pantoprazol,
+rabeprazol e lansoprazol demonstraram que o esomeprazol 40 mg é mais eficaz na manutenção do pH intragástrico maior
+que 4,0 em comparação com todos outros IBPs em doses padrão 2,3.
+O pH noturno foi medido comparando esomeprazol 40 mg com pantoprazol 40 mg. Durante a noite, a proporção de
+tempo com pH intragástrico > 4,0 foi de 85,4% com esomeprazol e 63,6% com pantoprazol. O escape ácido noturno,
+definido como pH intragástrico < 4,0 por pelo menos uma hora consecutiva no período de 22 horas até às 6 horas, foi
+observado em 26,7% dos pacientes tratados com esomeprazol e em 73,3% dos que receberam pantoprazol (p = 0,009)4.
+O esomeprazol além de possuir superior biodisponibilidade oral em relação ao omeprazol – o que resulta em maior
+quantidade de droga disponível determinando maior número de bomba de prótons em células parietais atingidas e um
+controle de ácido superior “in vivo” – em estudo comparativo demonstrou maior atividade contra o H. pylori em relação
+ao omeprazol. As concentrações inibitórias mínimas para um crescimento de 50% (MIC 50) e 90% (MIC 90) em
+isolados de H. pylori obtidos de biópsias gástricas para o esomeprazol foram de 16 e 32 mg/L, e para o omeprazol foram
+de 32 e 64 mg/L5.
+Considerando-se que além de maior atividade antibacteriana direta, o esomeprazol é capaz de promover maior controle
+da secreção ácida em comparação com outros IBPs, a extrapolação para melhores resultados no esquema tríplice
+convencional na erradicação da bactéria começou a ser utilizada e estudada6.
+Terapia tripla com esomeprazol
+Hu et al realizaram um estudo randomizado a fim de comparar a eficácia de terapias triplas baseadas em esomeprazol de
+alta (80 mg/dia) e baixa dose (40 mg/dia) para a erradicação do H. pylori. Foi observado que o uso do esomeprazol 40
+mg/dia produz uma taxa de erradicação semelhante à terapia baseada em esomeprazol 80 mg/dia7.
+A terapia tripla com esomeprazol 20 mg, amoxicilina 1g e claritromicina 500 mg duas vezes ao dia, por 7 dias obteve
+taxas de erradicação por intenção de tratamento de 86-90% e por protocolo de 90-91% em pacientes com úlcera
+duodenal na Europa e Canadá 8-10. Ademais, os resultados do estudo randomizado conduzido por Tulassay et al.
+demonstrou que esta terapia é eficaz para a erradicação de H. pylori, cura de úlceras gástricas relacionadas a H. pylori e
+prevenção de recaída11. Além disso, a monoterapia com esomeprazol por 3 semanas após a terapia tripla mostrou-se
+benéfica em termos de cicatrização11.
+Gisbert e Pajares (200), compararam, em uma metanálise, os resultados da utilização do esomeprazol 20 mg versus
+omeprazol 20 mg em esquemas de erradicação durante 7 dias de tratamento em associação com antibióticos (amoxicilina
+e claritromicina ou metronidazol). Um total de 648 pacientes foram tratados com esomeprazol e 644 com omeprazol na
+análise de intenção de tratamento. A média das taxas de erradicação do H. pylori com esomeprazol associado a
+antibióticos foi 85% (82-87%) vs. 82% (79-85%) quando o omeprazol foi utilizado12.
+McNicholl et al avaliaram a utilização do esomeprazol versus outros IBPs de 1ª. geração (omeprazol, lansoprazol e
+pantoprazol) na terapia de erradicação do H. pylori. Doze estudos comparativos foram analisados e demonstraram
+maiores taxas de erradicação para esomeprazol quando comparado aos IBPs de 1ª. geração descritos acima. Além disso,
+como a eficácia do esomeprazol não é afetada pelos polimorfismos genéticos nas enzimas do Citocromo P450 -
+CYP2C19 - pacientes “metabolizadores rápidos” obviamente, também demonstraram maiores taxas de erradicação com
+o esomeprazol em comparação com omeprazol, lansoprazol e pantoprazol13.
+Referências bibliográficas
+1. Lind T et al. Esomeprazole provides improved acid control vs. omeprazole in patients with symptoms of gastro-
+oesophageal reflux disease. Aliment Pharmacol Ther 2000 Jul 14 861-867
+2. Lind T et al. Esomeprazole provides improved acid control vs. omeprazole in patients with symptoms of gastro-
+oesophageal reflux disease. Aliment Pharmacol Ther 2000 Jul 14 861-867.
+3. Miner P Jr, Katz PO, Chen Y, Sostek M. Gastric acid control with esomeprazole, lansoprazole, omeprazole,

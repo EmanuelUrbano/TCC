@@ -1,0 +1,800 @@
+EMPOZZE®
+cloridrato de dapoxetina
+EMS S/A
+comprimido revestido
+30 mg e 60 mg
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+®
+EMPOZZE
+cloridrato de dapoxetina
+APRESENTAÇÕES
+Comprimido revestido de 30 mg e 60 mg. Embalagem contendo 1, 3, 6 ou 9 unidades.
+USO ORAL
+USO ADULTO PARA HOMENS COM IDADES ENTRE 18 E 64 ANOS
+COMPOSIÇÃO
+Cada comprimido revestido de 30 mg contém:
+cloridrato de dapoxetina*....................................................................................................................33,6 mg
+excipiente**q.s.p. ........................................................................................................................... 1 com rev
+*equivalente a 30 mg de dapoxetina.
+**celulose microcristalina, croscarmelose sódica, dióxido de silício, lactose monoidratada, estearato de
+magnésio, hipromelose, triacetina, dióxido de titânio, óxido de ferro preto e óxido de ferro amarelo.
+Cada comprimido revestido de 60 mg contém:
+cloridrato de dapoxetina*....................................................................................................................67,2 mg
+excipiente**q.s.p. ........................................................................................................................... 1 com rev
+*equivalente a 60 mg de dapoxetina.
+**celulose microcristalina, croscarmelose sódica, dióxido de silício, lactose monoidratada, estearato de
+magnésio, hipromelose, triacetina, dióxido de titânio, óxido de ferro preto e óxido de ferro amarelo.
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EMPOZZE® contém cloridrato de dapoxetina que é indicada para o tratamento da ejaculação precoce
+(EP) em homens adultos com idade de 18 a 64 anos.
+EMPOZZE® só deve ser prescrito a pacientes que atendam a todos os seguintes critérios:
+• Um tempo de latência ejaculatória intravaginal (IELT) de menos de dois minutos; e
+• Ejaculação persistente ou recorrente com estimulação sexual mínima antes, durante ou logo após a
+penetração e antes do desejo do paciente; e
+• Angústia pessoal acentuada ou dificuldade interpessoal como consequência da EP; e
+• Fraco controle sobre a ejaculação; e
+• Histórico de ejaculação precoce na maioria das tentativas de relação sexual nos 6 meses anteriores.
+2. RESULTADOS DE EFICÁCIA
+Eficácia clínica e segurança
+A eficácia do cloridrato de dapoxetina no tratamento da ejaculação precoce foi estabelecida em cinco
+ensaios clínicos1-4 duplo-cegos controlados por placebo, nos quais um total de 6081 indivíduos foram
+randomizados. Os indivíduos tinham 18 anos de idade ou mais e tinham história de EP na maioria das
+experiências sexuais no período de 6 meses antes da inscrição. A ejaculação precoce foi definida de
+acordo com os critérios de diagnóstico do DSM-IV: tempo ejaculatório curto (um tempo de latência
+ejaculatória intravaginal [IELT; tempo desde a penetração vaginal até o momento da ejaculação
+intravaginal] de ≤ 2 minutos medido usando um cronômetro em quatro estudos1-4), controle insuficiente
+sobre a ejaculação, sofrimento acentuado ou dificuldade interpessoal devido à condição.
+Indivíduos com outras formas de disfunção sexual, incluindo disfunção erétil, ou aqueles que usam outras
+formas de farmacoterapia para o tratamento de EP foram excluídos de todos os estudos1-4.
+Os resultados de todos os estudos randomizados foram consistentes. A eficácia foi demonstrada após 12
+semanas1 de tratamento. Um estudo envolveu pacientes fora e dentro da UE e teve uma duração de
+tratamento de 24 semanas. No estudo, 1162 indivíduos foram randomizados, 385 com placebo, 388 com
+cloridrato de dapoxetina 30 mg conforme necessário1 e 389 com cloridrato de dapoxetina 60 mg
+conforme necessário. A média e a mediana do IELT médio no final do estudo são apresentados na Tabela
+1 abaixo e a distribuição cumulativa dos indivíduos que alcançaram pelo menos um nível específico no
+IELT médio no final do estudo são apresentados na Tabela 2 abaixo. Outros estudos e análises agrupadas
+dos dados na semana 12 deram resultados consistentes2-4.
+Tabela 1: Média dos mínimos quadrados e mediana do IELT médio no final do estudo*
+IELT médio Placebo dapoxetina 30 mg dapoxetina 60 mg
+Mediana 1,05 min 1,72 min 1,91 min
+Diferença do placebo 0,6 min** 0,9 min**
+-
+[95% IC] [0,37, 0,72] [0,66, 1,06]
+Média dos Mínimos
+1,7 min 2,9 min 3,3 min
+Quadrados
+Diferença do placebo 1,2 min** 1,6 min**
+-
+[95% IC] [0,59, 1,72] [1,02, 2,16]
+*Valor basal transportado para indivíduos sem dados pós-basais.
+**A diferença foi estatisticamente significativa (valor de p ≤ 0,001).
+Tabela 2: Indivíduos que alcançaram pelo menos um nível específico no IELT Médio no final do estudo*
+IELT dapoxetina 30 mg dapoxetina 60 mg
+(min) Placebo % %
+%
+≥ 1,0 51,6 68,8 77,6
+≥ 2,0 23,2 44,4 47,9
+≥ 3,0 14,3 26,0 37,4
+≥ 4,0 10,4 18,4 27,6
+≥ 5,0 7,6 14,3 19,6
+≥ 6,0 5,0 11,7 14,4
+≥ 7,0 3,9 9,1 9,8
+≥ 8,0 2,9 6,5 8,3
+*Valor basal transportado para indivíduos sem dados pós-basais.
+A magnitude do prolongamento do IELT foi relacionada ao IELT basal e foi variável entre os indivíduos.
+A relevância clínica dos efeitos do tratamento com cloridrato de dapoxetina foi ainda demonstrada em
+termos de várias medidas de resultados relatados pelos pacientes e uma análise de resposta1.
+Um respondente foi definido como um indivíduo que teve pelo menos um aumento de 2 categorias no
+controle sobre a ejaculação mais uma diminuição de pelo menos 1 categoria no sofrimento relacionado à
+ejaculação. Uma porcentagem estatisticamente significativamente maior de indivíduos respondeu em cada
+um dos grupos cloridrato de dapoxetina versus placebo no final da Semana 12 ou 24 do estudo. Houve
+uma maior porcentagem de respondentes nos grupos de 30 mg da dapoxetina (11,1% - IC 95% [7,24;
+14,87]) e 60 mg (16,4% - IC 95% [13,01; 19,75]) em comparação com o grupo placebo na Semana 12
+(análise agrupada) 1.
+A relevância clínica dos efeitos do tratamento com cloridrato de dapoxetina é representada pelo grupo de
+tratamento para a medida de resultado da Impressão Clínica Global de Mudança (CGIC) do indivíduo, em
+que os pacientes foram solicitados a comparar sua ejaculação precoce desde o início do estudo, com
+opções de resposta variando de muito melhor para muito pior. No final do estudo (Semana 24), 28,4%
+(grupo de 30 mg) e 35,5% (grupo de 60 mg) dos indivíduos relataram que sua condição era “melhor” ou
+“muito melhor”, em comparação com 14% para o placebo, enquanto 53,4% e 65,6% dos indivíduos
+tratados com dapoxetina 30 mg e 60 mg, respectivamente, relataram que sua condição era pelo menos
+“levemente melhor”, em comparação com 28,8% para o placebo1..
+Referências Bibliográficas:
+1.Buvat, Jacques et al. “Dapoxetine for the treatment of premature ejaculation: results from a randomized,
+double-blind, placebo-controlled phase 3 trial in 22 countries.” European urology vol. 55,4 (2009): 957-
+67.doi:10.1016/j.eururo.2009.01.025
+2.Kaufman, Joel M et al. “Treatment benefit of dapoxetine for premature ejaculation: results from a
+placebocontrolled phase III trial.” BJU international vol. 103,5 (2009): 651-8. doi:10.1111/j.1464-
+410X.2008.08165.x
+3.Pryor, Jon L et al. “Efficacy and tolerability of dapoxetine in treatment of premature ejaculation: an
+integrated analysis of two double-blind, randomised controlled trials.” Lancet (London, England) vol.
+368,9539 (2006): 929-37. doi:10.1016/S0140-6736(06)69373-2
+4. McMahon, Chris et al. “Treatment of premature ejaculation in the Asia-Pacific region: results from a
+phase III double-blind, parallel-group study of dapoxetine.” The journal of sexual medicine vol. 7,1 Pt 1
+(2010): 256-68. doi:10.1111/j.1743-6109.2009.01560.x
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Dados de segurança pré-clínica
+Uma avaliação completa da farmacologia de segurança, toxicologia de dose repetida, toxicologia
+genética, carcinogenicidade, dependência/responsabilidade de abstinência, fototoxicidade e toxicologia
+reprodutiva do desenvolvimento da dapoxetina foi realizada em espécies pré-clínicas (camundongo, rato,
+coelho, cão e macaco) até as doses máximas toleradas em cada espécie. Devido à bioconversão mais
+rápida nas espécies pré-clínicas do que no homem, os índices de exposição farmacocinética (C e
+max
+AUC ) nas doses máximas toleradas em alguns estudos aproximaram-se dos observados no homem.
+0-24 h
+No entanto, os múltiplos de dose normalizados de peso corporal foram maiores do que 100 vezes. Não
+foram identificados riscos de segurança clinicamente relevantes em nenhum destes estudos.
+Em estudos com administração oral, a dapoxetina não foi carcinogênica para ratos quando administrada
+diariamente por aproximadamente dois anos em doses de até 225 mg/kg/dia, produzindo
+aproximadamente o dobro da exposição (AUC) observada em homens humanos com a Dose Humana
+Máxima Recomendada (MRHD) de 60 mg. A dapoxetina também não causou tumores em camundongos
+Tg.rasH2 quando administrada nas doses máximas possíveis de 100 mg/kg por 6 meses e 200 mg/kg por
+4 meses. As exposições de dapoxetina no estado estacionário em ratinhos após 6 meses de administração
+oral de 100 mg/kg/dia foram inferiores às exposições de dose única observadas clinicamente com 60 mg.
+Não houve efeitos na fertilidade, desempenho reprodutivo ou morfologia dos órgãos reprodutivos em
+ratos machos ou fêmeas e nenhum sinal adverso de embriotoxicidade ou fetotoxicidade no rato ou coelho.
+Os estudos de toxicidade reprodutiva não incluíram estudos para avaliar o risco de efeitos adversos após a
+exposição durante o período peri-pós-natal.
+Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: Outros Urológicos, código ATC: GO4BX14
+Mecanismo de ação
+O cloridrato de dapoxetina é um potente inibidor seletivo da recaptação da serotonina (ISRS) com um
+IC de 1,12 nM, enquanto seus principais metabólitos humanos, desmetildapoxetina (IC < 1,0 nM) e
+50 50
+didesmetildapoxetina (IC = 2,0 nM) são equivalentes ou menos potentes (dapoxetina-N-óxido (IC =
+50 50
+282 nM)).
+A ejaculação humana é mediada principalmente pelo sistema nervoso simpático. A via ejaculatória
+origina-se de um centro de reflexo espinhal, mediado pelo tronco encefálico, que é influenciado
+inicialmente por vários núcleos cerebrais (núcleos pré-ópticos mediais e paraventriculares).
+Presume-se que o mecanismo de ação da dapoxetina na ejaculação precoce esteja ligado à inibição da
+recaptação neuronal da serotonina e à subsequente potencialização da ação do neurotransmissor nos
+receptores pré e pós-sinápticos.
+No rato, a dapoxetina inibe o reflexo de expulsão ejaculatório agindo em um nível supraespinhal dentro
+do núcleo paragigantocelular lateral (LPGi). As fibras simpáticas pós-ganglionares que inervam as
+vesículas seminais, os vasos deferentes, a próstata, os músculos bulbouretrais e o colo da bexiga fazem
+com que se contraiam de forma coordenada para atingir a ejaculação. A dapoxetina modula esse reflexo
+ejaculatório em ratos.
+Propriedades farmacocinéticas
+Absorção
+A dapoxetina é rapidamente absorvida com concentrações plasmáticas máximas (C ) ocorrendo
+max
+aproximadamente 1-2 horas após a ingestão de comprimidos. A biodisponibilidade absoluta é de 42%
+(intervalo 15-76%) e aumentos proporcionais à dose na exposição (AUC e C ) são observados entre as
+max
+dosagens de 30 e 60 mg. Após doses múltiplas, os valores de AUC para ambos dapoxetina e o metabolito
+ativo desmetildapoxetina (DED) aumentam cerca de 50% quando comparados com os valores de AUC de
+dose única.
+A ingestão de uma refeição rica em gordura reduziu modestamente a C (em 10%) e aumentou
+max
+modestamente a AUC (em 12%) de dapoxetina e atrasou levemente o tempo para a dapoxetina atingir as
+concentrações máximas. Essas mudanças não são clinicamente significativas. Esse medicamento pode ser
+tomado com ou sem alimentos.
+Distribuição
+Mais de 99% da dapoxetina está ligada in vitro às proteínas séricas humanas. O metabólito ativo
+desmetildapoxetina (DED) liga-se a proteínas de 98,5%. A dapoxetina tem um volume de distribuição
+médio no estado estacionário de 162 L.
+Biotransformação
+Estudos in vitro sugerem que a dapoxetina é eliminada por vários sistemas enzimáticos no fígado e rins,
+principalmente CYP2D6, CYP3A4 e flavina monooxigenase (FMOI). Após a dosagem oral de 14C-
+dapoxetina, a dapoxetina foi extensivamente metabolizada em vários metabólitos principalmente através
+das seguintes vias biotransformacionais: N-oxidação, N-desmetilação, hidroxilação naftil, glucuronidação
+e sulfatação. Houve evidência de metabolismo de primeira passagem pré-sistêmico após administração
+oral.
+A dapoxetina intacta e o N-óxido da dapoxetina foram as principais frações em circulação no plasma. Os
+estudos de ligação e transportador in vitro mostram que o N-óxido da dapoxetina é inativo. Metabólitos
+adicionais, incluindo desmetildapoxetina e didesmetildapoxetina, respondem por menos de 3% do total de
+materiais relacionados à droga circulante no plasma. Os estudos de ligação in vitro indicam que o DED é
+equipotente à dapoxetina e a didesmetildapoxetina tem aproximadamente 50% da potência da dapoxetina.
+As exposições não ligadas (AUC e Cmax) de DED são de aproximadamente 50% e 23%,
+respectivamente, da exposição não ligada à dapoxetina.
+Eliminação
+Os metabólitos da dapoxetina foram eliminados principalmente na urina como conjugados. A substância
+ativa inalterada não foi detectada na urina. Após a administração oral, a dapoxetina tem uma meia-vida
+inicial (disposição) de aproximadamente 1,5 horas, com níveis plasmáticos menores que 5% das
+concentrações máximas 24 horas após a dose e uma meia-vida terminal de aproximadamente 19 horas. A
+meia-vida terminal do DED é de aproximadamente 19 horas.
+Farmacocinética em populações especiais
+O metabolito DED contribui para o efeito farmacológico de cloridrato de dapoxetina, particularmente
+quando a exposição de DED é aumentada. A seguir, em algumas populações, é apresentado o aumento
+nos parâmetros da fração ativa. Esta é a soma da exposição não ligada da dapoxetina e DED. DED é
+equipotente à dapoxetina. A estimativa assume uma distribuição igual de DED para o SNC, mas não se
+sabe se esse é o caso.
+Etnia
+As análises de estudos de farmacologia clínica de dose única usando 60 mg de dapoxetina não indicaram
+diferenças estatisticamente significativas entre caucasianos, negros, hispânicos e asiáticos. Um estudo
+clínico conduzido para comparar a farmacocinética da dapoxetina em japoneses e caucasianos mostrou
+níveis plasmáticos 10% a 20% mais elevados (AUC e concentração máxima) de dapoxetina em japoneses
+devido ao peso corporal mais baixo. Não se espera que a exposição levemente mais elevada tenha um
+efeito clínico significativo.
+Idosos (idade igual ou superior a 65 anos)
+As análises de um estudo de farmacologia clínica de dose única usando 60 mg de dapoxetina não
+mostraram diferenças significativas nos parâmetros farmacocinéticos (C , AUC , T ) entre homens
+max inf max
+idosos saudáveis e homens adultos jovens saudáveis. A eficácia e segurança não foram estabelecidas
+nesta população
+Insuficiência renal
+Um estudo de farmacologia clínica de dose única usando uma dose de 60 mg de dapoxetina foi conduzido
+em indivíduos com insuficiência renal leve (CrCL 50 a 80 mL/min), moderada (CrCL 30 a < 50 mL/min)
+e grave (CrCL < 30 mL/min) e em indivíduos com função renal normal (CrCL > 80 mL/min). Não foi
+observada nenhuma tendência clara para um aumento da AUC da dapoxetina com a diminuição da função
+renal. A AUC em indivíduos com insuficiência renal grave foi aproximadamente 2 vezes maior que a de
+indivíduos com função renal normal, embora existam dados limitados em pacientes com insuficiência
+renal grave. A farmacocinética da dapoxetina não foi avaliada em pacientes que requerem diálise renal.
+O uso do EMPOZZE® em pacientes com insuficiência renal grave não é recomendado.
+Insuficiência hepática
+Em pacientes com insuficiência hepática leve, a C não ligada da dapoxetina diminui 28% e a AUC não
+max
+ligada permanece inalterada. A C e AUC não ligada da fração ativa (a soma da exposição não ligada da
+max
+dapoxetina e desmetildapoxetina) diminuíram 30% e 5%, respectivamente. Em pacientes com
+insuficiência hepática moderada, a C não ligada da dapoxetina permanece essencialmente inalterada
+max
+(diminuição de 3%) e a AUC não ligada aumenta 66%. A C não ligada e a AUC da fração ativa
+max
+permaneceram essencialmente inalteradas e duplicaram, respectivamente.
+Em pacientes com insuficiência hepática grave, a C não ligada da dapoxetina diminuiu 42%, mas a
+max
+AUC não ligada aumentou aproximadamente 223%. A C e AUC da fração ativa tiveram alterações
+max
+semelhantes.
+O uso de EMPOZZE® em pacientes com insuficiência hepática moderada ou grave (Child-Pugh Classe
+B ou C) é contraindicado.
+Polimorfismo CYP2D6
+Em um estudo de farmacologia clínica de dose única usando 60 mg de dapoxetina, as concentrações
+plasmáticas em metabolizadores fracos de CYP2D6 foram maiores do que em metabolizadores extensos
+de CYP2D6 (aproximadamente 31% maiores para C e 36% maiores para AUC de dapoxetina e 98%
+max inf
+maiores para C e 161% mais alta para AUC de desmetildapoxetina). A fração ativa de cloridrato
+max inf
+dapoxetina pode ser aumentada em aproximadamente 46% na Cmax e em aproximadamente 90% na
+AUC. Este aumento pode resultar em uma maior incidência e gravidade dos eventos adversos
+dependentes da dose. A segurança do cloridrato de dapoxetina em metabolizadores fracos do CYP2D6 é
+particularmente preocupante com a administração concomitante de outros medicamentos que podem
+inibir o metabolismo da dapoxetina, como inibidores moderados e potentes do CYP3A4.
+4. CONTRAINDICAÇÕES
+Dados de segurança pré-clínica é contraindicado para pessoas que tenham hipersensibilidade à substância
+ativa ou a qualquer um dos excipientes.
+Condições cardíacas patológicas significativas, como:
+• Insuficiência cardíaca (NYHA classe 11-1V);
+• Anormalidades de condução, como bloqueio AV ou síndrome do nó sinusal;
+• Doença isquêmica cardíaca significativa;
+• Doença valvar significativa;
+• Histórico de síncope;
+• Histórico de mania ou depressão grave.
+No tratamento concomitante com inibidores da monoamina oxidase (IMAO), ou nos 14 dias após a
+descontinuação do tratamento com um IMAO. Do mesmo modo, um IMAO não deve ser administrado
+nos 7 dias após a descontinuação de EMPOZZE®.
+No tratamento concomitante com tioridazina ou no prazo de 14 dias após a descontinuação do tratamento
+com tioridazina. Do mesmo modo, a tioridazina não deve ser administrada nos 7 dias após a
+descontinuação de EMPOZZE®.
+No tratamento concomitante com inibidores da recaptação da serotonina [inibidores seletivos da
+recaptação da serotonina (ISRS), inibidores da recaptação da serotonina-norepinefrina (IRSN),
+antidepressivos tricíclicos (TCAs)] ou outros medicamentos / fitoterápicos com efeitos serotonérgicos
+[por exemplo, L-triptofano, triptanos, tramadol, linezolida, lítio, Erva de São João (Hypericum
+perforatum)] ou no prazo de 14 dias após a descontinuação do tratamento com estes
+medicamentos/produtos fitoterápicos. Do mesmo modo, estes medicamentos/produtos fitoterápicos não
+devem ser administrados nos 7 dias após a descontinuação de EMPOZZE®.
+No tratamento concomitante de inibidores potentes do CYP3A4, como cetoconazol, itraconazol, ritonavir,
+saquinavir, telitromicina, nefazadona, nelfinavir, atazanavir, etc.
+Insuficiência hepática moderada e grave.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+EMPOZZE® deve ser administrado apenas como tratamento sob demanda antes da atividade sexual
+prevista. Esse medicamento não deve ser prescrito para atrasar a ejaculação em homens que não foram
+diagnosticados com EP.
+Recomendações gerais
+EMPOZZE® não deve ser prescrito a homens que não tenham sido diagnosticados com Ejaculação
+Precoce. A segurança não foi estabelecida e não existem dados sobre os efeitos retardadores da ejaculação
+em homens sem Ejaculação Precoce.
+Disfunção Sexual
+Em estudos clínicos, cloridrato de dapoxetina 30 mg foi associado a uma maior incidência de eventos
+adversos sexuais, como disfunção erétil (2,3%) e diminuição da libido (0,5%) em comparação com
+placebo (1,6% e 0,3%, respectivamente). Homens com disfunção erétil clinicamente significativa e outros
+distúrbios sexuais foram excluídos dos estudos clínicos. Deve-se tomar cuidado ao prescrever
+EMPOZZE® a homens com outras formas de disfunção sexual, pois não se sabe se a disfunção sexual
+poderia piorar.
+Outras formas de disfunção sexual
+Antes do tratamento, indivíduos com outras formas de disfunção sexual, incluindo disfunção erétil,
+devem ser cuidadosamente investigados por médicos. EMPOZZE® não deve ser utilizado em homens
+com disfunção erétil (DE) que estejam utilizando inibidores da PDE5.
+Hipotensão ortostática
+Antes do início do tratamento, um exame médico cuidadoso, incluindo histórico de eventos ortostáticos,
+deve ser realizado pelo médico. Um teste ortostático deve ser realizado antes de iniciar a terapia (pressão
+arterial e pulsação, supino e em pé). Em caso de história de reação ortostática documentada ou suspeita, o
+tratamento com EMPOZZE® deve ser evitado.
+Hipotensão ortostática foi relatada em ensaios clínicos. O prescritor deve aconselhar o paciente com
+antecedência que se ele apresentar sintomas possivelmente prodrômicos, como tontura logo após se
+levantar, ele deve imediatamente se deitar de forma que sua cabeça fique mais baixa do que o resto de seu
+corpo ou sentar-se com a cabeça entre os joelhos até os sintomas passarem. O prescritor também deve
+informar o paciente para não se levantar rapidamente após ficar deitado ou sentado por muito tempo.
+Suicídio/pensamentos suicidas
+Antidepressivos, incluindo ISRSs, aumentaram o risco em comparação com placebo de pensamento
+suicida e suicídio em estudos de curto prazo em crianças e adolescentes com Transtorno Depressivo
+Maior e outros transtornos psiquiátricos. Os estudos de curto prazo não mostraram um aumento no risco
+de suicídio com antidepressivos em comparação com o placebo em adultos com mais de 24 anos. Em
+ensaios clínicos com EMPOZZE® para o tratamento da ejaculação precoce, não houve indicação clara
+de suicídio emergente do tratamento na avaliação de eventos adversos possivelmente relacionados com o
+suicídio avaliados pelo Algoritmo de Classificação de Columbia para Avaliação de Suicídio (C-CASA),
+Escala de Classificação de Depressão de Montgomery-Asberg ou Inventário de Depressão de Beck-II.
+Síncope
+Os pacientes devem ser advertidos para evitar situações em que possam ocorrer lesões, incluindo conduzir
+ou utilizar máquinas perigosas, caso ocorram síncope ou os seus sintomas prodrômicos, como tonturas ou
+vertigens.
+Sintomas possivelmente prodrômicos, como náuseas, tonturas/vertigens e sudorese, foram relatados com
+mais frequência entre os pacientes tratados com EMPOZZE® em comparação com o placebo.
+Nos ensaios clínicos, os casos de síncope caracterizada como perda de consciência, com bradicardia ou
+parada sinusal observada em pacientes com monitores Holter, foram considerados vasovagais na
+etiologia e a maioria ocorreu durante as primeiras 3 horas após a dosagem, após a primeira dose, ou
+associada com procedimentos relacionados ao estudo no ambiente clínico (como coleta de sangue e
+manobras ortostáticas e medições de pressão arterial). Sintomas possivelmente prodrômicos, como
+náusea, tontura, vertigem, palpitações, astenia, confusão e sudorese, geralmente ocorreram nas primeiras
+3 horas após a administração e frequentemente precederam a síncope. Os pacientes precisam ser
+informados de que podem ter síncope a qualquer momento, com ou sem sintomas prodrômicos, durante o
+tratamento com EMPOZZE®. Os prescritores devem aconselhar os pacientes sobre a importância de
+manter uma hidratação adequada e como reconhecer os sinais e sintomas prodrômicos para diminuir a
+probabilidade de lesões graves associadas a quedas devido à perda de consciência. Se o paciente
+apresentar sintomas possivelmente prodrômicos, deve deitar-se imediatamente de forma que sua cabeça
+fique mais baixa do que o resto do corpo ou sentar-se com a cabeça entre os joelhos até que os sintomas
+passem e ser advertido para evitar situações em que possam ocorrer lesões, incluindo a condução ou
+operação de máquinas perigosas, caso ocorram síncope ou outros efeitos do SNC.
+Pacientes com fatores de risco cardiovascular
+Os indivíduos com doença cardiovascular subjacente foram excluídos dos ensaios clínicos de Fase 3. O
+risco de resultados cardiovasculares adversos da síncope (síncope cardíaca e síncope por outras causas) é
+aumentado em pacientes com doença cardiovascular estrutural subjacente (por exemplo, obstrução de
+fluxo documentada, doença cardíaca valvular, estenose carotídea e doença arterial coronariana). Não há
+dados suficientes para determinar se esse risco aumentado se estende à síncope vasovagal em pacientes
+com doença cardiovascular subjacente.
+Uso com drogas recreativas
+Os pacientes devem ser aconselhados a não usar EMPOZZE® em combinação com drogas recreativas.
+Drogas recreativas com atividade serotonérgica, como cetamina, metilenodioximetanfetamina (MDMA) e
+dietilamida do ácido lisérgico (LSD), podem causar reações potencialmente graves se combinadas com
+EMPOZZE®. Essas reações incluem, entre outros, arritmia, hipertermia e síndrome da serotonina. O uso
+de EMPOZZE® com drogas recreativas com propriedades sedativas, como narcóticos e
+benzodiazepínicos, pode aumentar ainda mais a sonolência e as tonturas.
+Etanol
+Os pacientes devem ser aconselhados a não usar EMPOZZE® em combinação com álcool.
+A combinação de álcool com dapoxetina pode aumentar os efeitos neurocognitivos relacionados ao álcool
+e também pode aumentar os eventos adversos neurocardiogênicos, como síncope, aumentando assim o
+risco de lesão acidental; portanto, os pacientes devem ser aconselhados a evitar o álcool enquanto tomam
+EMPOZZE®.
+Medicamentos com propriedades vasodilatadoras
+EMPOZZE® deve ser prescrito com cuidado a pacientes que tomam medicamentos com propriedades
+vasodilatadoras (como antagonistas dos receptores alfa adrenérgicos e nitratos) devido à possível redução
+da tolerância ortostática.
+Inibidores moderados de CYP3A4
+Recomenda-se precaução em pacientes tomando inibidores moderados do CYP3A4 e a dose é restrita a
+30 mg. A dose de EMPOZZE® é restrita a 30 mg quando usado concomitantemente com inibidores
+moderados de CYP3A4, como eritromicina, claritromicina, fluconazol, amprenavir, fosamprenavir,
+aprepitanto, verapamil,diltiazem e outros, e recomenda-se cautela
+Inibidores potentes de CYP2D6
+Aconselha-se cautela se aumentar a dose para 60 mg em pacientes que tomam inibidores potentes do
+CYP2D6 ou se aumentar a dose para 60 mg em pacientes com genótipo de metabolizador fraco do
+CYP2D6, pois isso pode aumentar os níveis de exposição, o que pode resultar em uma maior incidência e
+gravidade dos eventos adversos dependentes da dose.
+Mania
+EMPOZZE® não deve ser utilizado em pacientes com história de mania/hipomania ou doença bipolar e
+deve ser descontinuado em qualquer paciente que desenvolva sintomas destas doenças.
+Convulsão
+Devido ao potencial dos ISRSs para reduzir o limiar convulsivo, EMPOZZE® deve ser descontinuado
+em qualquer paciente que desenvolva convulsões e evitado em pacientes com epilepsia instável. Pacientes
+com epilepsia controlada devem ser monitorados cuidadosamente.
+Efeitos sobre a capacidade de dirigir e usar máquinas
+EMPOZZE® tem influência leve ou moderada na capacidade de dirigir e utilizar máquinas. Tonturas,
+distúrbios da atenção, síncope, visão turva e sonolência foram relatados em indivíduos recebendo
+dapoxetina em ensaios clínicos. Portanto, os pacientes devem ser avisados para evitar situações que
+possam resultar em ferimentos, incluindo dirigir ou operar máquinas perigosas.
+A combinação de álcool com dapoxetina pode aumentar os efeitos neurocognitivos relacionados ao álcool
+e também pode aumentar os eventos adversos neurocardiogênicos, como síncope, aumentando assim o
+risco de lesão acidental; portanto, os pacientes devem ser aconselhados a evitar o álcool enquanto tomam
+EMPOZZE®.
+Fertilidade, gravidez e aleitamento
+EMPOZZE® (cloridrato de dapoxetina) não é indicado para uso por mulheres.
+Os estudos em animais não indicam efeitos nocivos diretos ou indiretos no que diz respeito à fertilidade,
+gravidez ou desenvolvimento embrionário/fetal.
+Não se sabe se a dapoxetina ou seus metabólitos são excretados no leite humano.
+População pediátrica
+EMPOZZE® não deve ser utilizado em indivíduos com menos de 18 anos de idade.
+Uso em Idosos
+A segurança e eficácia de cloridrato de dapoxetina não foram estabelecidas em indivíduos com 65 anos
+ou mais e os dados disponíveis nesta população são limitados. O uso de EMPOZZE® não é indicado para
+indivíduos com 65 anos ou mais.
+Depressão e/ou distúrbios psiquiátricos
+Homens com sinais e sintomas de depressão subjacentes devem ser avaliados antes do tratamento com
+EMPOZZE® para descartar distúrbios depressivos não diagnosticados. O tratamento concomitante de
+EMPOZZE® com antidepressivos, incluindo ISRSs e IRSNs, está contraindicado. A descontinuação do
+tratamento para a depressão ou ansiedade em curso para iniciar EMPOZZE® para o tratamento da EP
+não é recomendada. EMPOZZE® não está indicado para distúrbios psiquiátricos e não deve ser utilizado
+em homens com estes distúrbios, como esquizofrenia, ou em pessoas que sofram de depressão comórbida,
+uma vez que o agravamento dos sintomas associados à depressão não pode ser excluído. Isso pode ser o
+resultado de um distúrbio psiquiátrico subjacente ou pode ser o resultado da terapia com medicamentos.
+Os médicos devem encorajar os pacientes a relatarem quaisquer pensamentos ou sentimentos angustiantes
+a qualquer momento e se surgirem sinais e sintomas de depressão durante o tratamento, EMPOZZE®
+deve ser descontinuado.
+Hemorragia
+Houve relatos de anormalidades hemorrágicas com ISRSs. Aconselha-se cuidado em pacientes que
+tomam EMPOZZE®, particularmente em uso concomitante com medicamentos conhecidos por afetar a
+função plaquetária (por exemplo, antipsicóticos atípicos e fenotiazinas, ácido acetilsalicílico, anti-
+inflamatórios não esteroides [AINEs], agentes antiplaquetários) ou anticoagulantes (por exemplo,
+varfarina), bem como em pacientes com história de hemorragia ou distúrbios da coagulação
+Insuficiência renal
+EMPOZZE® não é recomendado para utilização em pacientes com insuficiência renal grave e
+recomenda-se precaução em pacientes com insuficiência renal leve ou moderada.
+Insuficiência Hepática
+EMPOZZE® é contraindicado para uso em pacientes com insuficiência hepática moderada ou grave
+(Child-Pugh Classe B ou C) e recomenda-se cautela em pacientes com insuficiência hepática leve.
+Efeitos de abstinência
+Foi relatado que a descontinuação abrupta de ISRSs administrados cronicamente usados para tratar
+distúrbios depressivos crônicos resultou nos seguintes sintomas: humor disfórico, irritabilidade, agitação,
+tontura, distúrbios sensoriais (por exemplo, parestesias, como sensações de choque elétrico), ansiedade,
+confusão, dor de cabeça, letargia, labilidade emocional, insônia e hipomania.
+Um ensaio clínico duplo-cego em indivíduos com EP projetado para avaliar os efeitos de abstinência de
+62 dias de dosagem diária ou conforme necessário com a dosagem de 60 mg de EMPOZZE® mostrou
+sintomas de abstinência leves com uma incidência levemente maior de insônia e tonturas em indivíduos
+mudados para placebo após a dosagem diária.
+Distúrbios oculares
+O uso de EMPOZZE® tem sido associado a efeitos oculares, como midríase e dor ocular. EMPOZZE®
+deve ser utilizado com precaução em pacientes com pressão intraocular elevada ou em risco de glaucoma
+de ângulo fechado.
+Intolerância à lactose
+Pacientes com problemas hereditários raros de intolerância à galactose, a deficiência de lactase total ou
+má absorção de glicose-galactose, não devem tomar este medicamento.
+EMPOZZE® contém lactose.
+Atenção: Contém lactose. Este medicamento não deve ser usado por pessoas com síndrome de má-
+absorção de glicose-galactose.
+Atenção: Contém os corantes óxido de ferro preto, óxido de ferro amarelo e dióxido de titânio que
+podem, eventualmente, causar reações alérgicas.
+6. INTERAÇÕES MEDICAMENTOSAS
+Interação com outros medicamentos e outras formas de interação
+Interações farmacodinâmicas
+Potencial para interação com inibidores da monoamina oxidase
+Em pacientes recebendo um ISRS em combinação com um inibidor da monoamina oxidase (IMAO),
+houve relatos de reações graves, às vezes fatais, incluindo hipertermia, rigidez, mioclonia, instabilidade
+autonômica com possíveis flutuações rápidas de sinais vitais e alterações do estado mental que incluem
+agitação extrema progredindo para delírio e coma. Essas reações também foram relatadas em pacientes
+que interromperam recentemente um ISRS e iniciaram um IMAO. Alguns casos apresentaram
+características semelhantes à síndrome neuroléptica maligna. Os dados em animais sobre os efeitos do uso
+combinado de um ISRS e IMAO sugerem que esses medicamentos podem agir sinergicamente para
+elevar a pressão arterial e evocar excitação comportamental. Portanto, EMPOZZE® não deve ser usado
+em combinação com um IMAO ou nos 14 dias após a descontinuação do tratamento com um IMAO. Do
+mesmo modo, um IMAO não deve ser administrado nos 7 dias após a descontinuação de EMPOZZE®.
+Potencial para interação com tioridazina
+A administração de tioridazina por si só produz prolongamento do intervalo QTc, que está associado a
+arritmias ventriculares graves. Medicamentos como EMPOZZE®, que inibem a isoenzima CYP2D6,
+parecem inibir o metabolismo da tioridazina e espera-se que os níveis elevados resultantes de tioridazina
+aumentem o prolongamento do intervalo QTc. EMPOZZE® não deve ser usado em combinação com
+tioridazina ou nos 14 dias após a descontinuação do tratamento com tioridazina. Do mesmo modo, a
+tioridazina não deve ser administrada nos 7 dias após a descontinuação de EMPOZZE®.
+Produtos medicinais/fitoterápicos com efeitos serotonérgicos
+Tal como acontece com outros ISRSs, a coadministração com medicamentos/fitoterápicos serotonérgicos
+(incluindo IMAOs, L-triptofano, triptanos, tramadol, linezolida, ISRSs, IRSNs, lítio e preparações de
+Erva de São João (Hypericum perforatum)) pode levar a uma incidência de efeitos associados à
+serotonina EMPOZZE® não deve ser usado em combinação com outros ISRSs, IMAOs ou outros
+medicamentos/produtos fitoterápicos serotonérgicos ou em 14 dias após a descontinuação do tratamento
+com esses medicamentos/produtos fitoterápicos. Do mesmo modo, estes medicamentos/produtos
+fitoterápicos não devem ser administrados nos 7 dias após a descontinuação de EMPOZZE®.
+Medicamentos ativos do SNC
+O uso de EMPOZZE® em combinação com medicamentos ativos do SNC (por exemplo, antiepilépticos,
+antidepressivos, antipsicóticos, ansiolíticos, hipnóticos sedativos) não foi avaliado sistematicamente em
+pacientes com ejaculação precoce. Consequentemente, recomenda-se precaução caso seja necessária a
+administração concomitante de EMPOZZE® com esses medicamentos.
+Interações farmacocinéticas
+Efeitos de medicamentos coadministrados na farmacocinética da dapoxetina
+Estudos in vitro em fígado, rim e microssomas intestinais humanos indicam que a dapoxetina é
+metabolizada principalmente por CYP2D6, CYP3A4 e flavina monooxigenase 1 (FMOI). Portanto, os
+inibidores dessas enzimas podem reduzir a depuração da dapoxetina.
+Inibidores de CYP3A4
+Inibidores potentes do CYP3A4. A administração de cetoconazol (200 mg duas vezes ao dia durante 7
+dias) aumentou a C e AUC de dapoxetina (dose única de 60 mg) em 35% e 99%, respectivamente.
+max inf
+Considerando a contribuição da dapoxetina não ligada e da desmetildapoxetina, a C da fração ativa
+max
+pode ser aumentada em aproximadamente 25% e a AUC da fração ativa pode ser duplicada se tomada
+com inibidores potentes do CYP3A4.
+Os aumentos na C e AUC da fração ativa podem ser acentuadamente aumentados em uma parte da
+max
+população que não possui uma enzima CYP2D6 funcional, ou seja, metabolizadores fracos de CYP2D6,
+ou em combinação com inibidores potentes de CYP2D6.
+Portanto, o uso concomitante de EMPOZZE® e inibidores potentes do CYP3A4, como cetoconazol,
+itraconazol, ritonavir, saquinavir, telitromicina, nefazodona, nelfinavir e atazanavir, está contraindicado.
+O suco de toranja também é um inibidor potente do CYP3A4 e deve ser evitado nas 24 horas antes de
+tomar EMPOZZE®.
+Inibidores moderados de CYP3A4. O tratamento concomitante com inibidores moderados do CYP3A4
+(por exemplo, eritromicina, claritromicina, fluconazol, amprenavir, fosamprenavir, aprepitant, verapamil,
+diltiazem) também pode dar origem a um aumento significativo da exposição de dapoxetina e
+desmetildapoxetina, especialmente em metabolizadores fracos de CYP2D6. A dose máxima de
+dapoxetina deve ser 30 mg se a dapoxetina for combinada com qualquer um destes medicamentos (vide
+seções 4.2, 4.4 e abaixo).
+Essas duas medidas se aplicam a todos os pacientes, a menos que tenha sido verificado que o paciente é
+um metabolizador extenso do CYP2D6 por genotipagem ou fenotipagem. Em pacientes com
+metabolizadores extensos do CYP2D6, recomenda-se uma dose máxima de 30 mg se a dapoxetina for
+combinada com um inibidor potente do CYP3A4 e cautela se a dapoxetina em doses de 60 mg for
+administrada concomitantemente com um inibidor moderado do CYP3A4.
+Inibidores potentes de CYP2D6
+A C e AUC da dapoxetina (dose única de 60 mg) aumentaram 50% e 88%, respectivamente, na
+max inf
+presença de fluoxetina (60 mg/dia por 7 dias). Considerando a contribuição da dapoxetina não ligada e da
+desmetildapoxetina, a Cmax da fração ativa pode ser aumentada em aproximadamente 50% e a AUC da
+fração ativa pode ser dobrada se tomada com inibidores potentes do CYP2D6. Estes aumentos na Cmax e
+AUC da fração ativa são semelhantes aos esperados para metabolizadores fracos do CYP2D6 e podem
+resultar em uma maior incidência e gravidade dos eventos adversos dependentes da dose.
+Inibidores de PDE5
+EMPOZZE® não deve ser utilizado em pacientes usando inibidores da PDE5 devido à possível redução
+da tolerância ortostática. A farmacocinética da dapoxetina (60 mg) em combinação com tadalafila (20
+mg) e sildenafila (100 mg) foi avaliada em um estudo cruzado de dose única. Tadalafil não afetou a
+farmacocinética da dapoxetina. O sildenafil causou leves alterações na farmacocinética da dapoxetina
+(aumento de 22% na AUC e aumento de 4% na C ), que não são esperados que seja clinicamente
+inf max
+significativo.
+O uso concomitante de EMPOZZE® com inibidores da PDE5 pode resultar em hipotensão ortostática. A
+eficácia e segurança de EMPOZZE® em pacientes com ejaculação precoce e disfunção eréctil tratados
+concomitantemente com EMPOZZE® e inibidores PDE5 não foram estabelecidas.
+Efeitos da dapoxetina na farmacocinética de medicamentos coadministrados Tansulosina
+A administração concomitante de doses únicas ou múltiplas de 30 mg ou 60 mg de dapoxetina em
+pacientes recebendo doses diárias de tansulosina não resultou em alterações na farmacocinética da
+tansulosina. A adição de dapoxetina à tansulosina não resultou em uma mudança no perfil ortostático e
+não houve diferenças nos efeitos ortostáticos entre a tansulosina combinada com 30 ou 60 mg de
+dapoxetina e tansulosina sozinha; no entanto, EMPOZZE® deve ser prescrito com cuidado em pacientes
+que utilizem antagonistas dos receptores alfa adrenérgicos devido à possível redução da tolerância
+ortostática.
+Medicamentos metabolizados pelo CYP2D6
+Doses múltiplas de dapoxetina (60 mg/dia por 6 dias) seguidas por uma dose única de 50 mg de
+desipramina aumentaram a C média e AUC de desipramina em aproximadamente 11% e 19%,
+max inf
+respectivamente, em comparação com a desipramina administrada sozinha. A dapoxetina pode originar
+um aumento semelhante nas concentrações plasmáticas de outros medicamentos metabolizados pelo
+CYP2D6. É provável que a relevância clínica seja pequena.
+Medicamentos metabolizados pelo CYP3A4
+Doses múltiplas de dapoxetina (60 mg/dia por 6 dias) diminuíram a AUC do midazolam (dose única de
+inf
+8 mg) em aproximadamente 20% (faixa de -60 a +18%). A relevância clínica do efeito sobre o midazolam
+é provavelmente pequena na maioria dos pacientes. O aumento da atividade do CYP3A pode ser de
+relevância clínica em alguns indivíduos tratados concomitantemente com um medicamento metabolizado
+principalmente pelo CYP3A e com uma janela terapêutica estreita.
+Medicamentos metabolizados pelo CYP2C19
+Doses múltiplas de dapoxetina (60 mg/dia durante 6 dias) não inibiram o metabolismo de uma dose única
+de 40 mg de omeprazol. É improvável que a dapoxetina afete a farmacocinética de outros substratos do
+CYP2C19.
+Medicamentos metabolizados pelo CYP2C9
+Doses múltiplas de dapoxetina (60 mg/dia por 6 dias) não afetaram a farmacocinética ou
+farmacodinâmica de uma dose única de 5 mg de glibenclamida. É improvável que a dapoxetina afete a
+farmacocinética de outros substratos do CYP2C9.
+Varfarina e medicamentos que afetam a coagulação e/ou a função plaquetária
+Não há dados avaliando o efeito do uso crônico de varfarina com dapoxetina; portanto, recomenda-se
+precaução quando a dapoxetina é usada em pacientes que tomam varfarina cronicamente. Em um estudo
+farmacocinético, a dapoxetina (60 mg/dia durante 6 dias) não afetou a farmacocinética ou
+farmacodinâmica (PT ou INR) da varfarina após uma dose única de 25 mg.
+Tem havido notificações de anomalias hemorrágicas com ISRSs.
+Etanol
+A coadministração de uma dose única de etanol, 0,5 g/kg (aproximadamente 2 bebidas), não afetou a
+farmacocinética da dapoxetina (dose única de 60 mg); no entanto, a dapoxetina em combinação com
+etanol aumentou a sonolência e diminuiu significativamente o estado de alerta autoavaliado. Medidas
+farmacodinâmicas de comprometimento cognitivo (Velocidade de Vigilância de Dígitos, Teste de
+Substituição de Símbolos de Dígitos) também mostraram um efeito aditivo quando a dapoxetina foi
+coadministrada com etanol. O uso concomitante de álcool e dapoxetina aumenta a chance ou a gravidade
+das reações adversas, como tontura, sonolência, reflexos lentos ou alteração do julgamento. A
+combinação de álcool com dapoxetina pode aumentar esses efeitos relacionados ao álcool e também pode
+aumentar os eventos adversos neurocardiogênicos, como síncope, aumentando assim o risco de lesão
+acidental; portanto, os pacientes devem ser aconselhados a evitar o álcool enquanto tomam EMPOZZE®.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar em temperatura ambiente (de 15°C a 30ºC). Proteger da luz e umidade.
+O prazo de validade do medicamento a partir da data de fabricação é de 24 meses.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento como prazo de validade vencido. Guarde-o em sua embalagem original.
+Características físicas e organolépticas:
+Comprimido revestido de 30 mg na cor cinza claro, circular, biconvexo e liso. Comprimido revestido de
+60 mg na cor cinza, circular biconvexo e liso.
+Antes de usar, observe o aspecto do medicamento
+TODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS.
+8. POSOLOGIA E MODO DE USAR
+Homens adultos (com idade entre 18 e 64 anos)
+A dose inicial recomendada para todos os pacientes é de 30 mg, administrada conforme necessário
+aproximadamente 1 a 3 horas antes da atividade sexual. O tratamento com EMPOZZE® não deve ser
+iniciado com a dose de 60 mg.
+EMPOZZE® não se destina a uma utilização diária contínua. EMPOZZE® só deve ser tomado quando
+há previsão de atividade sexual. EMPOZZE® não deve ser tomado mais frequentemente do que uma vez
+a cada 24 horas.
+Se a resposta individual a 30 mg for insuficiente e o paciente não tiver experimentado reações adversas
+moderadas ou graves ou sintomas prodrômicos sugestivos de síncope, a dose pode ser aumentada para
+uma dose máxima recomendada de 60 mg tomada conforme necessário aproximadamente 1 a 3 horas
+antes da atividade sexual. A incidência e gravidade dos eventos adversos são maiores com a dose de 60
+mg.
+Se o paciente teve reações ortostáticas na dose inicial, não deve ser realizado nenhum aumento da dose
+para 60 mg.
+Uma avaliação cuidadosa do risco/benefício individual de EMPOZZE® deve ser realizada pelo médico
+após as primeiras quatro semanas de tratamento (ou pelo menos após 6 doses de tratamento) para
+determinar se continuar o tratamento com EMPOZZE® é apropriado.
+Os dados relativos à eficácia e segurança de EMPOZZE® para além de 24 semanas são limitados. A
+necessidade clínica de continuar e a relação risco/benefício do tratamento com EMPOZZE® devem ser
+reavaliadas pelo menos a cada seis meses.
+Idosos (idade igual ou superior a 65 anos)
+A eficácia e segurança de EMPOZZE® não foram estabelecidas em pacientes com idade igual ou
+superior a 65 anos e seu uso não é indicado para esses pacientes.
+População pediátrica
+Não existe utilização relevante de EMPOZZE® nesta população na indicação de ejaculação precoce.
+EMPOZZE® não deve ser usado em indivíduos com menos de 18 anos de idade.
+Pacientes com insuficiência renal
+Não é necessário ajuste de dose, porém, é recomendado cuidado em pacientes com insuficiência renal
+leve ou moderada. EMPOZZE® não é recomendado para uso em pacientes com insuficiência renal grave.
+1(vide seções 4.4 e 5.2).
+Pacientes com insuficiência hepática
+Não é necessário ajuste de dose em pacientes com insuficiência hepática leve. EMPOZZE® é
+contraindicado em pacientes com insuficiência hepática moderada ou grave (Classe B e C de Child-
+Pugh).
+Metabolizadores fracos de CYP2D6 conhecidos ou pacientes tratados com inibidores potentes de
+CYP2D6
+Aconselha-se precaução ao aumentar a dose para 60 mg em pacientes com genótipo metabolizador
+CYP2D6 fraco ou em pacientes tratados concomitantemente com inibidores potentes do CYP2D6.
+Pacientes tratados com inibidores moderados ou potentes do CYP3A4
+O uso concomitante de inibidores potentes do CYP3A4 está contraindicado. A dose deve ser restrita a 30
+mg em pacientes tratados concomitantemente com inibidores moderados do CYP3A4 e recomenda-se
+precaução.
+Método de administração
+Para uso oral. Os comprimidos devem ser engolidos inteiros para evitar o gosto amargo. Recomenda-se
+que os comprimidos sejam tomados com pelo menos um copo cheio de água. EMPOZZE® pode ser
+tomado com ou sem alimentos.
+Este medicamento não deve ser partido, aberto ou mastigado.
+9. REAÇÕES ADVERSAS
+Resumo do perfil de segurança
+Síncope e hipotensão ortostática foram notificadas em ensaios clínicos.
+As seguintes reações adversas medicamentosas foram relatadas durante os ensaios clínicos de Fase 3 mais
+comumente e estavam relacionadas à dose: náusea (11,0% e 22,2% nos grupos de 30 mg e 60 mg prn
+dapoxetina, respectivamente), tontura (5,8% e 10,9%), dor de cabeça (5,6% e 8,8%), diarreia (3,5% e
+6,9%), insônia (2,1% e 3,9%) e fadiga (2,0% e 4,1%). Os eventos adversos mais comuns que levaram à
+descontinuação foram náuseas (2,2% dos indivíduos tratados com cloridrato de dapoxetina) e tonturas
+(1,2% dos indivíduos tratados com cloridrato de dapoxetina).
+Lista tabulada de reações adversas
+A segurança de cloridrato de dapoxetina foi avaliada em 4224 indivíduos com ejaculação precoce que
+participaram de cinco ensaios clínicos duplo-cegos controlados por placebo. Dos 4224 indivíduos, 1616
+receberam 30 mg de cloridrato de dapoxetina conforme necessário e 2608 receberam 60 mg, conforme
+necessário ou uma vez ao dia.
+A Tabela 3 apresenta as reações adversas notificadas.
+Tabela 3: Frequência de Reações Adversas (MedDRA)
+Muito Raro
+Classe de Órgão do
+comum Comum Incomum (>1/10000 a <
+Sistema ( >1/100 a < 1/10) ( >1/1000 a < 1/100)
+(>1/10) 1/1000)
+Depressão, Humor deprimido,
+Humor eufórico, Humor
+alterado, Nervosismo,
+Ansiedade, Agitação, Indiferença, Apatia, Estado
+Inquietação, Insônia, confusional, Desorientação,
+Distúrbios psiquiátricos - -
+Sonhos anormais, Libido Pensamento anormal,
+diminuída Hipervigilância, Distúrbio do
+sono, Insônia inicial, Insônia
+média, Pesadelo, Bruxismo,
+Perda de libido, Anorgasmia
+Síncope, Síncope vasovagal,
+Tontura
+Sonolência, Tontura postural, Acatisia,
+Distúrbios do sistema Tontura, Dor por esforço,
+Perturbação da atenção, Disgeusia, Hipersonia,
+nervoso de cabeça Início súbito de
+Tremor, Parestesia Letargia, Sedação, Nível de
+sono
+consciência deprimido
+Midríase, dor nos olhos,
+Distúrbios oculares - Visão turva -
+Distúrbio visual
+Distúrbios do ouvido e
+- Zumbido Vertigem -
+do labirinto
+Parada sinusal, Bradicardia
+Distúrbios cardíacos - - -
+sinusal, Taquicardia
+Hipotensão, Hipertensão
+Distúrbios vasculares - Rubor -
+sistólica, Fogachos
+Distúrbios respiratórios,
+Congestão nasal,
+torácicos e do - - -
+Bocejamento
+mediastino
+Diarreia, Vômito,
+Constipação, Dor
+abdominal, Dor
+Distúrbios abdominal superior, Desconforto abdominal, Urgência de
+Náusea
+gastrointestinais Dispepsia, Flatulência, Desconforto epigástrico defecação
+Desconforto estomacal,
+Distensão abdominal,
+Boca seca
+Distúrbios de
+pele e do tecido - Hiperidrose Prurido, Suor frio -
+subcutâneo
+Falha de ejaculação, Distúrbio
+Distúrbios do sistema
+- Disfunção erétil orgásmico masculino, -
+reprodutivo e mamário
+Parestesia do sexo masculino
+Astenia, Sensação de calor,
+Distúrbios gerais e
+Sensação de nervosismo,
+condições no sítio de - Fadiga, Irritabilidade -
+Sensação anormal, Sensação de
+administração
+embriaguez
+Aumento da frequência
+Aumento da pressão cardíaca, Aumento da pressão
+Investigações - -
+arterial arterial diastólica, Aumento da
+pressão arterial ortostática
+As reações adversas medicamentosas relatadas no ensaio de extensão aberto de longo prazo de 9 meses
+foram consistentes com as relatadas nos estudos duplo-cegos e nenhuma reação adversa adicional foi
+relatada.
+Descrição das reações adversas selecionadas
+Síncope caracterizada como perda de consciência, com bradicardia ou parada sinusal observada em
+pacientes usando monitores Holter, foi relatada em ensaios clínicos e é considerada relacionada ao
+medicamento. A maioria dos casos ocorreu durante as primeiras 3 horas após a administração, após a
+primeira dose ou associada a procedimentos relacionados ao estudo no ambiente clínico (como coleta de
+sangue e manobras ortostáticas e medições de pressão arterial). Os sintomas prodrômicos frequentemente
+precedem a síncope.
+A ocorrência de síncope e possivelmente sintomas prodrômicos parece dependente da dose, conforme
+demonstrado pela Maior incidência entre pacientes tratados com doses mais altas do que as recomendadas
+em estudos clínicos de Fase 3.
+Foi notificada hipotensão ortostática em ensaios clínicos. A frequência da síncope caracterizada como
+perda de consciência no programa de desenvolvimento clínico de cloridrato de dapoxetina variou
+dependendo da população estudada e variou de 0,06% (30 mg) a 0,23% (60 mg) para indivíduos inscritos
+nos ensaios clínicos de Fase 3 controlados por placebo para 0,64% (todas as doses combinadas) para
+estudos de Fase 1 com voluntários saudáveis sem EP.
+Outras populações especiais
+Aconselha-se precaução se aumentar a dose para 60 mg em pacientes tomando inibidores potentes do
+CYP2D6 ou se aumentar a dose para 60 mg em pacientes com genótipo CYP2D6 fraco do metabolizador.
+Efeitos de abstinência
+Foi relatado que a descontinuação abrupta de ISRSs administrados cronicamente usados para tratar
+distúrbios depressivos crônicos resultou nos seguintes sintomas: humor disfórico, irritabilidade, agitação,
+tontura, distúrbios sensoriais (por exemplo, parestesias, como sensações de choque elétrico), ansiedade,
+confusão, dor de cabeça, letargia, labilidade emocional, insônia e hipomania.
+Os resultados de um estudo de segurança mostraram uma incidência levemente maior de sintomas de
+abstinência de insônia leve ou moderada e tonturas em indivíduos que mudaram para o placebo após 62
+dias de administração diária.
+Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado eficácia e
+segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos
+adversos imprevisíveis ou desconhecidos. Nesse caso, notifique os eventos adversos pelo Sistema
+VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Nenhum caso de superdosagem foi relatado.
+Não ocorreram eventos adversos inesperados em um estudo de farmacologia clínica de cloridrato de
+dapoxetina com doses diárias até 240 mg (duas doses de 120 mg administradas com 3 horas de intervalo).
+Em geral, os sintomas de superdosagem com ISRSs incluem reações adversas mediadas pela serotonina,
+como sonolência, distúrbios gastrintestinais, como náuseas e vômitos, taquicardia, tremor, agitação e
+tonturas.
+Em casos de superdosagem, devem ser adotadas medidas de suporte padrão conforme necessário. Devido
+à alta ligação às proteínas e ao grande volume de distribuição do cloridrato de dapoxetina, diurese
+forçada, diálise, hemoperfusão e troca de transfusão são improváveis de trazer benefícios. Não são
+conhecidos antídotos específicos para esse medicamento.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III - DIZERES LEGAIS
+Registro: 1.0235.1443
+Registrado e produzido por: EMS S/A
+Rod. Jornalista Francisco Aguirre Proença, KM 08
+Bairro Chácara Assay
+Hortolândia/SP - CEP: 13186-901
+CNPJ: 57.507.378/0003-65
+INDÚSTRIA BRASILEIRA
+VENDA SOB PRESCRIÇÃO COM RETENÇÃO DE RECEITA
+SAC: 0800 019 19 14
+Esta bula foi aprovada pela Anvisa em 16/09/2024.
+bula-prof-008587-EMS-v0
+Histórico de alteração para bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do N° do Data do N° do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10775
+10458 - MEDICAMENTO
+MEDICAMENTO NOVO -
+Submissão eletrônica
+NOVO - Inclusão REGISTRO DE Comprimido revestido
+para disponibilização
+Inicial de Texto MEDICAMENTO de 30 mg e 60 mg.
+N/A N/A 21/12/2021 8428545/21-1 16/09/2024 do texto de bula no VP / VPS
+de Bula – COM MESMO(S) Embalagem contendo 1,
+Bulário eletrônico da
+publicação no IFA(S) DE 3, 6 ou 9 unidades.
+ANVISA.
+Bulário RDC MEDICAMENTO
+60/12 NOVO JÁ
+REGISTRADO

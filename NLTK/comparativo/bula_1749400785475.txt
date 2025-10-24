@@ -1,0 +1,44 @@
+INDICAÇÕES Fulphila® é indicado para redução na duração da neutropenia e da incidência de neutropenia febril em
+pacientes tratados com quimioterapia citotóxica para malignidade (exceto leucemia mieloide crônica e
+síndromes mielodisplásicas).
+2. RESULTADOS DE EFICÁCIA
+Fulphila® é um medicamento biológico desenvolvido pela via da comparabilidade (biossimilar). O programa
+de desenvolvimento do produto foi projetado para demonstrar a comparabilidade entre Fulphila® e
+Neulastim®.
+Dados de Neulastim®
+Em dois estudos clínicos pivotais, randomizados, duplo-cegos em pacientes de alto risco com câncer de mama
+estágio II-IV submetidos à quimioterapia mielossupressora composta por doxorrubicina e docetaxel, o uso de
+Neulastim administrado uma única vez por ciclo reduziu a duração da neutropenia e a incidência de
+neutropenia febril de forma semelhante ao observado com as administrações diárias de filgrastim (mediana de
+11 administrações diárias). Na ausência de terapia de suporte com fator de crescimento, esse esquema
+quimioterápico resultou em neutropenia de grau 4, com duração média de 5 a 7 dias, e em uma incidência de
+neutropenia febril de 30 a 40%. Em um destes estudos (n = 157), em que se empregou uma dose fixa de
+pegfilgrastim de 6 mg, a duração média de neutropenia de grau 4 foi de 1,8 dias para o grupo de pegfilgrastim
+e de 1,6 dias no grupo do filgrastim (diferença de 0,23 dias, 95% IC de -0,15; 0,63). Durante todo o estudo, a
+taxa de neutropenia febril foi de 13% nos pacientes tratados com pegfilgrastim e de 20% nos pacientes tratados
+com filgrastim (diferença 7%, 95% IC de -19%; 5%). Em um segundo estudo (n = 310), em que se empregou
+uma dose ajustada ao peso (100 μg/kg), a duração média da neutropenia de grau 4 no grupo tratado com
+Neulastim foi de 1,7 dias e de 1,8 dias no grupo tratado com filgrastim (diferença 0,03 dias, 95% IC de -0,36;
+Fulphila_Bula Profissional de Saúde Comercial_AR.27.01.2025
+2
+0,30). A taxa global de neutropenia febril foi de 9% nos pacientes tratados com pegfilgrastim e de 18% nos
+pacientes tratados com filgrastim (diferença de 9%, 95% IC de -16,8%; -1,1%).
+Em um estudo clínico controlado com placebo, duplo-cego em pacientes com câncer de mama, o efeito de
+pegfilgrastim sobre a incidência de neutropenia febril foi avaliado após uma administração de um esquema
+quimioterápico associado a uma taxa de neutropenia febril de 10 a 20% (docetaxel 100 mg/m2, a cada 3
+semanas, durante 4 ciclos). Novencentos e vinte e oito pacientes foram randomizados para receber uma dose
+única de pegfilgrastim ou placebo, aproximadamente 24 horas (Dia 2) após a quimioterapia em cada ciclo. A
+incidência de neutropenia febril foi inferior nos pacientes randomizados para receber pegfilgrastim, em
+comparação aos que receberam placebo (1% versus 17%, p ≤ 0,001). A incidência de hospitalizações e de uso
+de antiinfecciosos IV associados ao diagnóstico clínico de neutropenia febril foi menor no grupo que usou
+pegfilgrastim comparado ao placebo (1% versus 14%, p < 0,001; e 2% versus 10%, p < 0,001).
+Um estudo clínico pequeno (n = 83), Fase II, randomizado, duplo-cego realizado em pacientes recebendo
+quimioterapia para leucemia mieloide aguda de novo, comparou-se pegfilgrastim (dose única de 6 mg) com
+filgrastim administrado durante a quimioterapia de indução. O tempo mediano para a recuperação de
+neutropenia grave foi estimado em 22 dias em ambos os grupos de tratamento. O resultado a longo prazo não
+foi estudado (vide “5. ADVERTÊNCIAS E PRECAUÇÕES”).
+Dados de Fulphila® X Neulastim®
+Em um estudo randomizado (n=194), duplo-cego em pacientes com câncer de mama estágio de risco II ou III
+submetidos a tratamento quimioterápico utilizando doxorrubicina, ciclofosfamida e docetaxel, o uso de
+Fulphila® administrado uma única vez por ciclo reduziu a duração da neutropenia e a incidência de neutropenia
+febril de forma semelhante àquela observada na administração de Neulastim. Os pacientes foram randomizados

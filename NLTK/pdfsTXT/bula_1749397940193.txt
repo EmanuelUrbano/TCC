@@ -1,0 +1,763 @@
+ELONVA®
+alfacorifolitropina
+Organon Farmacêutica Ltda.
+Solução Injetável
+100 mcg
+150 mcg
+0FKQYM
+IDENTIFICAÇÃO DO MEDICAMENTO
+ELONVA®
+alfacorifolitropina
+APRESENTAÇÕES
+Solução para injeção de
+- 100 mcg em embalagem com 1 seringa preenchida e uma agulha separada.
+- 150 mcg em embalagem com 1 seringa preenchida e uma agulha separada.
+USO SUBCUTÂNEO
+USO ADULTO
+COMPOSIÇÃO
+ELONVA® 100 mcg solução para injeção:
+Cada seringa preenchida contém 100 mcg de alfacorifolitropina em 0,5 mL de solução para injeção.
+Excipientes: citrato de sódio di-hidratado, sacarose, polissorbato 20, metionina, hidróxido de sódio (para
+ajuste do pH), ácido clorídrico (para ajuste do pH) e água para injetáveis.
+ELONVA® 150 mcg solução para injeção:
+Cada seringa preenchida contém 150 mcg de alfacorifolitropina em 0,5 mL de solução para injeção.
+Excipientes: citrato de sódio di-hidratado, sacarose, polissorbato 20, metionina, hidróxido de sódio (para
+ajuste do pH), ácido clorídrico (para ajuste do pH) e água para injetáveis.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Estimulação Ovariana Controlada (EOC) em associação com um antagonista de GnRH para o
+desenvolvimento de folículos múltiplos em mulheres participantes de programa de Tecnologia em
+Reprodução Assistida (TRA).
+2. RESULTADOS DE EFICÁCIA
+Em três estudos clínicos randomizados e duplo cegos (ENSURE1, ENGAGE2 e PURSUE3,4), o tratamento
+com injeção única subcutânea de ELONVA® 100 mcg (estudo ENSURE) ou 150 mcg (estudo ENGAGE
+e PURSUE) nos primeiros 7 dias de EOC foi comparado ao tratamento com dose diária de 150, 200 ou
+300 UI de (rec)FSH, respectivamente. Supressão pituitária com um antagonista de GnRH (injeção de
+acetato de ganirrelix na dose diária de 0,25 mg) foi usada em cada um dos três estudos clínicos.
+No estudo ENSURE, 396 mulheres saudáveis com ovulação normal, entre 18 e 36 anos com peso
+corporal menor ou igual a 60 kg, foram tratadas durante um ciclo com ELONVA® 100 mcg e com
+supressão pituitária com um antagonista de GnRH como parte de um programa de TRA. O desfecho
+primário de eficácia foi o número de oócitos recuperados. A duração média total de estimulação foi de 9
+dias para os dois grupos, indicando que dois dias de (rec)FSH foram necessários para completar a
+estimulação ovariana a partir do dia 8 de estimulação ((rec)FSH foi administrado no dia do hCG para este
+estudo).
+No estudo ENGAGE, 1.506 mulheres saudáveis com ovulação normal, entre 18 e 36 anos e com peso
+acima de 60 kg ou menor ou igual a 90 kg, foram tratadas durante um ciclo com ELONVA® 150 mcg e
+com supressão pituitária com um antagonista de GnRH como parte de um programa de TRA. O desfecho
+co-primário de eficácia foi a taxa de gravidez em curso e número de oócitos recuperados. A duração
+média total de estimulação foi de 9 dias para os dois grupos, indicando que dois dias de (rec)FSH foram
+necessários para completar a estimulação ovariana a partir do dia 8 de estimulação ((rec)FSH foi
+administrado no dia do hCG para este estudo).
+1
+No estudo PURSUE, 1.390 mulheres saudáveis com ovulação normal, entre 35 e 42 anos e com peso
+corporal maior ou igual a 50 kg, foram tratadas durante um ciclo com ELONVA® 150 mcg e com
+supressão pituitária com um antagonista de GnRH como parte do programa TRA. O desfecho primário de
+eficácia foi a taxa de gravidez vital e o número de oócitos recuperados foi um desfecho secundário de
+eficácia. A duração média total de estimulação foi de 9 dias para os dois grupos, indicando que um dia de
+(rec)FSH foi necessário para completar a estimulação ovariana a partir do dia 8 de estimulação ((rec)FSH
+não foi administrado no dia do hCG para este estudo).
+Número de oócitos recuperados
+Nos três estudos, o tratamento com injeção única de ELONVA®, 100 ou 150 mcg, nos sete primeiros dias
+de EOC, resultou em um número elevado de oócitos recuperados comparados à dose diária de (rec)FSH.
+Porém, as diferenças estavam dentro da equivalência predefinida (ENGAGE e ENSURE) ou das margens
+de não-inferioridade (PURSUE). Veja a Tabela 1 a seguir.
+Tabela 1: Número médio de oócitos recuperados dos estudos ENSURE, ENGAGE e PURSUE
+População com Intenção de Tratamento (ITT)
+ENSURE ENGAGE PURSUE
+(18-36 anos) (18-36 anos) (35-42 anos)
+Parâmetro (peso corporal menor ou (peso corporal maior que 60 (peso corporal maior ou
+kg e menor ou igual a 90 igual a 50 kg)
+igual a 60 kg)
+kg)
+ELONVA® (rec)FSH ELONVA® (rec)FSH ELONVA® (rec)FSH
+100 µg 150 UI 150 µg 200 UI 150 µg 300 UI
+N=268 N=128 N=756 N=750 N=694 N=696
+Número
+médio de 13,3 10,6 13,8 12,6 10,7 10,3
+oócitos
+Diferença
+2,5 [1,2; 3,9] 1,2 [0,5; 1,9] 0,5 [-0,2;1,2]
+[95% IC]
+Gravidez de ciclos frescos dos estudos ENGAGE e PURSUE
+No estudo ENGAGE, a não-inferioridade foi demonstrada pela taxa de gravidez em curso entre
+ELONVA® e (rec)FSH, sendo a taxa de gravidez em curso definida como a presença de, pelo menos, um
+feto com atividade cardíaca avaliado, pelo menos, na décima semana após a transferência embrionária.
+No estudo PURSUE, a não-inferioridade foi demonstrada pela taxa de gravidez vital entre ELONVA® e
+(rec)FSH, sendo a taxa de gravidez vital definida como a porcentagem de mulheres com pelo menos um
+feto com atividade cardíaca avaliado na 5ª ou 6ª semana após a transferência embrionária.
+Os resultados de gravidez de ciclos frescos dos estudos ENGAGE e PURSUE estão resumidos na Tabela
+2 a seguir.
+2
+Tabela 2: Resultados de gravidez dos ciclos frescos dos estudos ENGAGE e PURSUE
+População com Intenção de Tratamento (ITT)
+Parâmetro Ciclos frescos do ENGAGE† Ciclos frescos do PURSUE‡
+(18-36 anos) (35-42 anos)
+(peso corporal maior ou igual a 50 kg)
+(peso corporal maior que 60 kg e menor
+ou igual a 90 kg)
+ELONVA® (rec)FSH Diferença ELONVA® (rec)FSH Diferença
+[95% IC]
+150 µg 200 UI 150 µg 300 UI [95% IC]
+N=756 N=750 N=694 N=696
+Taxa de 39,9% 39,1% 1,1 [-3,8; 5,9] 23,9% 26,9% -3,0 [-7,3; 1,4]
+gravidez vital
+Taxa de 39,0% 38,1% 1.1 [-3,8; 5,9] 22,2% 24,0% -1,9 [-6,1; 2,3]
+gravidez em
+curso
+23,4%
+Taxa de 35,6% 34,4% 1,3 [-3,5; 6,1] 21,3% -2,3 [-6,5; 1,9]
+natalidade*
+†O desfecho primário de eficácia no estudo ENGAGE foi gravidez em curso (avaliado pelo menos, na
+décima semana após a transferência embrionária).
+‡O desfecho primário de eficácia no estudo PURSUE foi a taxa de gravidez vital definida como a
+porcentagem de mulheres com pelo menos um feto com atividade cardíaca avaliado na 5ª ou 6ª semana
+após a transferência embrionária.
+*A taxa de natalidade foi o desfecho secundário de eficácia nos estudos ENGAGE e PURSUE.
+Nestes estudos clínicos, o perfil de segurança de uma única injeção de ELONVA® foi comparável à
+aplicação diária de injeções de (rec)FSH.
+Gravidez a partir de ciclos de Transferência de Embriões congelados e descongelados (TEC) dos estudos
+ENGAGE e PURSUE
+O acompanhamento do estudo de TEC para o estudo ENGAGE incluiu mulheres que tiveram pelo menos
+um embrião descongelado para uso até pelo menos um ano após a criopreservação. O número médio de
+embriões transferidos nos ciclos de TEC do ENGAGE foi 1,7 em ambos os grupos de tratamentos.
+O acompanhamento do estudo de TEC para o estudo PURSUE incluiu mulheres que tiveram pelo menos
+um embrião descongelado para uso em até dois anos da data da última criopreservação para este estudo.
+O número médio de embriões transferidos nos ciclos de TEC do PURSUE foi de 2,4 em ambos os grupos
+de tratamento. Este estudo também forneceu dados de segurança sobre as crianças nascidas a partir de
+embriões criopreservados.
+Os resultados de gravidez dos ciclos de TEC dos estudos ENGAGE e PURSUE estão resumidos na
+Tabela 3 a seguir.
+3
+Tabela 3: Resultados de gravidez dos ciclos de TEC dos estudos ENGAGE e PURSUE
+População com Intenção de Tratamento (ITT)
+Ciclos de TEC do estudo ENGAGE Ciclos de TEC do estudo PURSUE
+(18-36 anos) (35-42 anos)
+(peso corporal maior que 60 kg e (peso corporal maior ou igual a 50 kg)
+menor ou igual a 90 kg)
+ELONVA® (rec)FSH ELONVA® (rec)FSH
+150 µg 200 UI 150 µg 300 UI
+n N % n N % n N % n N %
+ª
+Ciclo de TEC 1
+Gravidez em curso 55 148 37,2 45 147 30,6 43 152 28,3 42 145 29,0
+Natalidade - - - - - - 43 152 28,3 41 145 28,3
+ª
+Ciclo de TEC 2
+Gravidez em curso 9 38 23,7 9 31 29,0 8 23 34,8 6 14 42,9
+Natalidade - - - - - - 8 23 34,8 6 14 42,9
+ª
+Ciclo de TEC 3
+Gravidez em curso 1 9 11,1 0 4 0,0 2 5 40,0 1 4 25,0
+Natalidade - - - - - - 2 5 40,0 1 4 25,0
+Ciclo de TEC 4
+ª
+Gravidez em curso 0 3 0,0 0 1 0,0 0 1 0,0 2 2 100,0
+Natalidade - - - - - - 0 1 0,0 2 2 100,0
+Ciclo de TEC 5
+ª
+Gravidez em curso 0 2 0,0 0 1 0,0 - - - - - -
+Natalidade - - - - - - - - - - - -
+n = número de mulheres com o evento; N = número total de mulheres
+a Por transferência embrionária.
+Gravidez resultante da adição de ciclos de TEC aos de ciclos frescos dos estudos ENGAGE e PURSUE
+(Taxa cumulativa de gravidez vital)
+A taxa cumulativa de gravidez vital (por mulher e por ciclo) foi calculada baseada nos resultados dos
+ciclos frescos e subsequente TEC de um único coorte de mulheres que receberam ELONVA® ou
+(rec)FSH nos estudos ENGAGE e PURSUE.
+A taxa cumulativa de gravidez vital do estudo ENGAGE em mulheres tratadas com injeção única de 150
+mcg de ELONVA® foi similar as mulheres tratadas diariamente com 200 UI de (rec)FSH.
+A taxa cumulativa de gravidez vital do estudo PURSUE em mulheres tratadas com injeção única de 150
+mcg de ELONVA® foi similar as mulheres tratadas diariamente com 300 UI de (rec)FSH.
+Os resultados de gravidez estão resumidos na Tabela 4 a seguir.
+4
+Tabela 4: Resultados de gravidez de ciclos frescos de TRA combinados com ciclos de TEC dos
+estudos ENGAGE e PURSUE
+População com Intenção de Tratamento (ITT)
+ENGAGE PURSUE
+Parâmetro
+(18-36 anos) (35-42 anos)
+(peso corporal maior que 60 kg e (peso corporal maior ou igual a 50
+menor ou igual a 90 kg) kg)
+ELONVA® (rec)FSH ELONVA® (rec)FSH
+150 µg 200 UI 150 µg 300 UI
+Taxa cumulativa de
+N=756 N=750 N=694 N=696
+gravidez vital por
+mulher† 48,1% 46,0% 31,1% 33,0%
+Taxa cumulativa de
+Nc=980 Nc=974 Nc=875 Nc=861
+gravidez vital por
+ciclo ‡ 37,7% 35,8% 25,6% 28,0%
+N=Número de mulheres
+Nc=Número de ciclos
+†A taxa cumulativa de gravidez vital foi calculada por mulher e baseada nos ciclos frescos e de
+transferência de embriões congelados e descongelados (TEC) dos estudos ENGAGE e PURSUE.
+‡ A taxa cumulativa de gravidez vital foi calculada por ciclo e baseada nos ciclos frescos e de
+transferência de embriões congelados e descongelados (TEC) dos estudos ENGAGE e PURSUE.
+Malformações congênitas reportadas em crianças nascidas a partir dos ciclos de transferência de
+embriões congelados e descongelados (TEC)
+Após a utilização de ELONVA®, 61 crianças nasceram após o ciclo de TEC no estudo de
+acompanhamento do PURSUE e 607 crianças nasceram após os ciclos frescos de TRA nos estudos
+ENSURE, ENGAGE e PURSUE combinados. A taxa de malformações congênitas (maior e menor
+combinadas) reportadas em crianças nascidas após o ciclo de TEC no estudo de acompanhamento
+PURSUE (16,4%) foi similar a reportada em crianças nascidas após os ciclos frescos de TRA nos estudos
+ENSURE, ENGAGE e PURSUE combinados (16,8%).
+Imunogenicidade
+Das 2.511 mulheres tratadas com ELONVA® que foram avaliadas para a formação de anticorpos pós-
+tratamento, quatro (0,16%) tiveram evidência de formação de anticorpos, incluindo três que foram
+expostas apenas uma vez ao ELONVA®, e uma que foi exposta duas vezes ao ELONVA®. Em cada caso,
+esses anticorpos foram não-neutralizantes e não interferiram na resposta da estimulação ou na resposta
+fisiológica normal do eixo Hipotalâmico-Hipofisário-Ovariano (HHO). Duas das quatro mulheres
+engravidaram durante o mesmo ciclo de tratamento em que os anticorpos foram detectados, sugerindo que
+a presença de anticorpos não-neutralizantes após estimulação com ELONVA® não é clinicamente
+relevante.
+Eletrofisiologia cardíaca 5
+Em um estudo duplo-cego, randomizado, cruzado com 4 períodos, controlado com placebo e com o ativo,
+70 mulheres saudáveis na pós-menopausa receberam uma única dose terapêutica subcutânea de 150 mcg
+de alfacorifolitropina, uma única dose supraterapêutica subcutânea de 240 mcg de alfacorifolitropina, 400
+mg de moxifloxacina oral e placebo. Ambas as doses de alfacorifolitropina não prolongaram o intervalo
+QTc em até 216 horas após a dose. Após retorno aos valores basais e ajuste com placebo, a variação
+máxima média do intervalo QTc após administração de uma dose terapêutica de 150 mcg de
+alfacorifolitropina foi 1,4 ms (IC 95% unilateral superior: 3,4 ms). Após administração de uma dose
+supraterapêutica de 240 mcg de alfacorifolitropina, a variação máxima média do intervalo QTc foi 1,2 ms
+(IC 95% unilateral superior: 3,6 ms).
+5
+Referências bibliográficas:
+1 - Mauw von E, Elbers J, Witjes H, Zandvliet AS, Hermens Y. A phase III, randomized, double-blind,
+active-controlled, equivalence clinical trial to investigate the efficacy and safety of a single injection of
+100 μg Org 36286 (corifollitropin alfa) to induce multifollicular development for controlled ovarian
+stimulation (COS) using daily recombinant FSH (recFSH) as a reference. Clinical Trial Report on
+Protocol 107012. Report no. INT00051394, October 2011, Module 5.3.5.1.
+2 - Koper NP, Witjes H, IJzerman-Boon PC, Janssens CJJG. H. A phase III, randomized, double-blind,
+active-controlled, non-inferiority clinical trial to investigate the efficacy and safety of a single injection of
+Org 36286 (corifollitropin alfa) to induce multifollicular development for controlled ovarian stimulation
+using daily recombinant FSH as a reference. Clinical Trial Report on Protocol 38819. Report no.
+INT00043029, October 2011, Module 5.3.5.1.
+3 - Stegmann B, Vitjes H, Amorin G. A Phase III, Randomized, Double-Blind, Active-Controlled, Non-
+Inferiority Trial to Investigate the Efficacy and Safety of a Single Injection of MK-8962
+(CORIFOLLITROPIN ALFA) to Induce Multifollicular Development for Controlled Ovarian Stimulation
+(COS) Using Daily Recombinant FSH (recFSH) as a Reference in Women Aged 35 to 42 Years
+(PURSUE). Clinical Trial Report on Protocol P06029. August 2014, Module 5.3.5.1
+4 - Stegmann B, Gates D, Guan Y. Follow-up protocol to collect the outcome and safety of frozen/thawed
+embryo transfer (FTET) cycles after cryopreservation of embryos in clinical study P06029 (Phase 3;
+Protocol No. P06031/P017). Clinical Trial Report on Protocol P06031/P017. August 2015, Module
+5.3.5.4
+5 – de Kam PJ, van Kuijk JH, Zandvliet AS, Thomsen T. Single therapeutic and supratherapeutic doses of
+corifollitropin alfa, a sustained follicle stimulant, do not prolong the QTcF-interval in healthy
+postmenopausal volunteers. Int J Clin Pharmacol Ther. 2015 Sep;53(9):772-82. doi: 10.5414/CP202363
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+A alfacorifolitropina é uma glicoproteína produzida nas células de ovário de hamster chinês por
+tecnologia recombinante de DNA, utilizando um meio de cultura definido quimicamente sem adição de
+antibióticos, proteínas de origem animal ou humana (livre de proteínas) ou quaisquer outros componentes
+de origem animal ou humana.
+Propriedades farmacodinâmicas
+Grupo farmacoterapêutico: hormônios sexuais e moduladores do sistema reprodutor, gonadotropinas.
+Código ATC: G03GA09
+A alfacorifolitropina é designada como um estimulante folicular sustentado, com o mesmo perfil
+farmacodinâmico do hormônio folículo-estimulante recombinante (rec)FSH, mas com uma duração da
+atividade do FSH acentuadamente prolongada. Devido à sua capacidade de iniciar e manter o crescimento
+folicular múltiplo durante uma semana inteira, uma única injeção subcutânea da dose recomendada de
+ELONVA® pode substituir as primeiras sete injeções de qualquer preparação de uso diário de (rec)FSH
+em um ciclo de tratamento de Estimulação Ovariana Controlada (EOC). A longa duração da ação do FSH
+foi atingida pela adição de um peptídeo carboxi-terminal da subunidade beta da gonadotropina coriônica
+humana (hCG) à cadeia beta do FSH humano. A alfacorifolitropina não possui atividade intrínseca do
+LH/hCG.
+Propriedades farmacocinéticas
+Parâmetros farmacocinéticos da alfacorifolitropina foram avaliados após administração subcutânea em
+mulheres submetidas ao ciclo de tratamento EOC.
+Devido à longa meia vida de eliminação, após a administração da dose recomendada, as concentrações
+séricas da alfacorifolitropina são suficientes para manter o crescimento folicular múltiplo sustentado
+durante uma semana inteira. Portanto, uma única injeção subcutânea de ELONVA® pode ser usada como
+alternativa às primeiras sete injeções diárias de (rec)FSH na EOC para o desenvolvimento de múltiplos
+folículos e gravidez em programa de Tecnologia em Reprodução Assistida (TRA) (ver item “8.
+POSOLOGIA E MODO DE USAR”).
+O peso corporal é um determinante da exposição à alfacorifolitropina. A exposição média de
+alfacorifolitropina (AUC) após uma injeção subcutânea única é de 665 horas*ng/mL (426 - 1.037
+horas*ng/mL1) e é semelhante após a administração de 100 mcg de alfacorifolitropina em mulheres com
+peso corporal menor ou igual a 60 kg e de 150 mcg de alfacorifolitropina em mulheres com peso corporal
+acima de 60 kg.
+Absorção
+Após a injeção subcutânea única de ELONVA®, as concentrações séricas máximas (C ) média da
+max
+alfacorifolitropina são de 4,24 ng/mL (2,49-7,21 ng/mL1) e são atingidas na média T de 44 horas (35 a
+max
+57 horas1) após a dose. A biodisponibilidade absoluta é de 58% (48 a 70%1).
+6
+Distribuição
+A distribuição, metabolismo e eliminação da alfacorifolitropina são muito semelhantes aos de outras
+gonadotropinas, tais como o FSH, hCG e LH. Após a absorção para o sangue, a alfacorifolitropina se
+distribui principalmente aos ovários e rins. A eliminação ocorre predominantemente através dos rins. O
+volume de distribuição no estado estacionário é de 9,2 L (6,5 – 13,1 L1). A exposição à alfacorifolitropina
+aumenta proporcionalmente com a dose dentro do intervalo de 60 mcg a 240 mcg.
+Eliminação
+A alfacorifolitropina apresenta meia vida (t ) de eliminação de 70 horas (59-82 horas1) e clearance de
+1\2
+0,13 L/h (0,10 – 0,18 L/h1). A eliminação da alfacorifolitropina ocorre predominantemente através dos
+rins, e a taxa de eliminação pode ser reduzida em pacientes com insuficiência renal (ver item “5.
+ADVERTÊNCIAS E PRECAUÇÕES”). O metabolismo hepático contribui em menor extensão para a
+eliminação da alfacorifolitropina.
+1 Variação prevista em 90% das pacientes.
+Outras populações especiais
+Insuficiência hepática
+Apesar de não estarem disponíveis dados de pacientes comprometidos hepaticamente, é improvável que a
+insuficiência hepática afete o perfil farmacocinético da alfacorifolitropina.
+Dados de segurança pré-clínicos
+Os dados pré-clínicos não evidenciaram perigo especial para humanos, com base nos estudos
+convencionais de toxicidade de dose única e repetidas, bem como de farmacologia de segurança.
+Os estudos de toxicologia reprodutiva em ratos e coelhos indicaram que a alfacorifolitropina não afeta
+adversamente a fertilidade. A administração da alfacorifolitropina em ratos e coelhos antes e logo após o
+acasalamento e durante o início da gravidez, resultou em embriotoxicidade. Em coelhos, quando
+administrado anteriormente ao acasalamento, foi observada teratogenicidade.
+Ambas embriotoxicidade e teratogenicidade são consideradas uma consequência do estado
+superovulatório do animal, não capaz de suportar um número de embriões acima de um teto fisiológico. A
+relevância destes achados para o uso clínico de ELONVA® é limitada.
+4. CONTRAINDICAÇÕES
+Este medicamento é contraindicado para uso por pacientes com:
+• Hipersensibilidade à substância ativa ou a quaisquer dos excipientes da fórmula do produto.
+• Tumores do ovário, mama, útero, hipófise ou hipotálamo.
+• Sangramento vaginal anormal (não menstrual) sem causa conhecida/diagnosticada.
+• Insuficiência ovariana primária.
+• Cistos ovarianos ou ovários aumentados.
+• Tumores fibrosos do útero incompatíveis com a gravidez.
+• Malformações dos órgãos reprodutores incompatíveis com a gravidez.
+• Fatores de risco de SHEO:
+o Um histórico de síndrome de hiperestimulação ovariana (SHEO);
+o Um ciclo prévio de estimulação ovariana controlada (EOC) que resultou em mais do
+que 30 folículos ≥ 11 mm mensurados por exame de ultrassom;
+o Uma contagem inicial de folículos antrais > 20;
+o Síndrome dos ovários policísticos (SOP).
+Este medicamento é contraindicado para uso por mulheres grávidas, ou que suspeitam que possam
+estar grávidas (ver item “5. ADVERTÊNCIAS E PRECAUÇÕES – Gravidez e lactação”).
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Avaliação de infertilidade antes de iniciar o tratamento
+• Antes de iniciar o tratamento, a infertilidade do casal deve ser analisada conforme apropriado. Em
+particular, a mulher deve ser avaliada quanto ao hipotiroidismo, insuficiência adrenocortical,
+hiperprolactinemia e tumores hipofisários ou hipotalâmicos, e tratamento específico apropriado deve
+ser administrado.
+Condições médicas para as quais gravidez é contraindicada também devem ser avaliadas antes de
+iniciar o tratamento com ELONVA®.
+7
+Dose durante o ciclo de estimulação
+• ELONVA® destina-se exclusivamente a injeção única por via subcutânea. Injeções adicionais de
+ELONVA® não devem ser administradas dentro do mesmo ciclo de tratamento (ver item “8.
+POSOLOGIA E MODO DE USAR”).
+• Após a administração de ELONVA®, não deve ser administrado outro medicamento que contenha
+FSH até o dia de estimulação 8 (ver item “8. POSOLOGIA E MODO DE USAR”).
+Insuficiência renal
+• Em pacientes com insuficiência renal, a taxa de eliminação da alfacorifolitropina pode ser reduzida
+(ver item “3. CARACTERÍSTICAS FARMACOLÓGICAS – Propriedades farmacocinéticas”).
+Portanto, não se recomenda o uso de ELONVA® nessas mulheres.
+Uso não recomendado com agonista de GnRH
+• Os dados sobre o uso de ELONVA® em combinação com agonistas do GnRH são limitados. Desse
+modo, o uso de ELONVA® não é recomendado em combinação com um agonista do GnRH (ver item
+“8. POSOLOGIA E MODO DE USAR”).
+Síndrome da hiperestimulação ovariana (SHEO)
+• A SHEO é um evento clínico distinto do aumento ovariano não complicado. Os sintomas e sinais
+clínicos de SHEO leve e moderada são dor abdominal, náusea, diarreia, aumento leve a moderado
+dos ovários e cistos ovarianos. A SHEO grave pode comprometer a vida da paciente. Os sintomas e
+sinais clínicos da SHEO grave são grandes cistos ovarianos, dor abdominal aguda, ascite, derrame
+pleural, hidrotórax, dispneia, oligúria, anormalidades hematológicas e ganho de peso. Raramente,
+pode ocorrer tromboembolia arterial ou venosa em associação com a SHEO. Anormalidades
+transitórias nos testes de função hepática sugestivas de disfunção hepática, que podem ser
+acompanhadas por alterações morfológicas na biópsia hepática, foram relatadas em associação com a
+SHEO.
+SHEO pode ser causada pela administração da gonadotropina coriônica humana (hCG) e pela
+gravidez (hCG endógeno). A SHEO precoce geralmente ocorre dentro de 10 dias após a
+administração da hCG e pode ser associada com uma resposta ovariana excessiva à estimulação pela
+gonadotropina. A SHEO tardia ocorre mais de 10 dias após a administração da hCG, como
+consequência das alterações hormonais da gestação. Por causa do risco de desenvolver SHEO, as
+pacientes devem ser monitoradas por pelo menos duas semanas após a administração da hCG.
+Mulheres com fatores de risco conhecidos para uma resposta ovariana alta podem ser, especialmente,
+tendenciosas a desenvolver SHEO durante ou após o tratamento com ELONVA®. Para mulheres em
+seu primeiro ciclo de estimulação ovariana, para as quais os fatores de risco são apenas parcialmente
+conhecidos, é recomendada observação rigorosa para sinais e sintomas precoces da SHEO.
+Seguir a prática clínica atual para reduzir o risco de SHEO durante a tecnologia de reprodução
+assistida (TRA). A aderência à dose recomendada de ELONVA® e ao regime terapêutico e
+monitoração cuidadosa da resposta ovariana é importante para reduzir o risco de SHEO. Para
+monitorar os riscos de SHEO, devem ser realizadas avaliações por ultrassonografia do
+desenvolvimento folicular antes do tratamento e em intervalos regulares durante o mesmo; a
+determinação simultânea das concentrações plasmáticas de estradiol também pode ser útil. Na TRA
+existe um aumento do risco de SHEO com 18 ou mais folículos com diâmetro de 11 mm ou mais. Se
+SHEO se desenvolver, um gerenciamento padrão e apropriado da SHEO dever ser implementado e
+seguido.
+Torção ovariana
+• Torção ovariana tem sido relatada após o tratamento com gonadotropinas, incluindo ELONVA®.
+Torção ovariana pode estar associada com outros fatores, tais como SHEO, gravidez, cirurgia
+abdominal prévia, histórico de torção ovariana, cisto ovariano prévio ou atual. Danos ao ovário
+decorrentes do reduzido suprimento sanguíneo podem ser limitados pelo diagnóstico precoce e
+distorção imediata.
+Gestações múltiplas e nascimento
+• Foram relatados gestações e nascimentos múltiplos para todos os tratamentos com gonadotropinas,
+incluindo ELONVA®. Antes de iniciar o tratamento, a mulher e seu parceiro devem ser advertidos a
+respeito dos potenciais riscos para a mãe (complicações gestacionais e no parto) e para o recém-
+8
+nascido (peso baixo ao nascer). Em mulheres submetidas a procedimentos de TRA, o risco de
+gravidez múltipla é relacionado principalmente ao número de embriões transferidos.
+Gravidez ectópica
+• Mulheres inférteis submetidas à TRA têm um aumento na incidência de gestações ectópicas. É
+importante a confirmação ultrassonográfica precoce de que a gravidez é intrauterina e exclusão da
+possibilidade de gravidez extrauterina.
+Malformações congênitas
+• A incidência de malformações congênitas após TRA pode ser discretamente maior do que após
+concepções espontâneas. Acredita-se que isso se deve a diferenças nas características dos pais (por
+exemplo, idade materna, características do esperma) e à maior incidência de gestações múltiplas.
+Neoplasias do ovário e do sistema reprodutor
+• Houve relatos de neoplasias ovarianas e outras neoplasias do sistema reprodutor, tanto benignas
+quanto malignas, em mulheres submetidas a esquemas de múltiplos tratamentos para tratamento da
+infertilidade. Ainda não está estabelecido se o tratamento com gonadotropinas aumenta ou não o
+risco basal desses tumores em mulheres inférteis.
+Complicações vasculares
+• Eventos tromboembólicos, separados e em associação com SHEO, foram relatados após tratamento
+com gonadotropinas, incluindo ELONVA®. Trombose intravascular, que pode ser originária de vasos
+arteriais ou venosos, pode resultar na redução do fluxo sanguíneo para órgaões vitais ou
+extremidades. Em mulheres com fatores de risco para eventos tromboembólicos geralmente
+reconhecidos, tais como antecedentes pessoais ou familiares, obesidade grave ou trombofilia, o
+tratamento com gonadotropinas, incluindo ELONVA®, pode também aumentar esse risco. Nessas
+mulheres, os benefícios da administração de gonadotropina, incluindo ELONVA®, devem ser
+avaliados em relação aos riscos. Deve-se notar, no entanto, que a gravidez por si só também
+representa um aumento do risco de trombose.
+Efeitos sobre a capacidade de dirigir veículos e operar máquinas
+Não foram realizados estudos sobre a capacidade de dirigir veículos e operar máquinas. ELONVA® pode
+causar tontura. As pacientes devem ser advertidas de que se sentirem tontura não devem dirigir nem
+operar máquinas.
+Gravidez e lactação
+Gravidez
+O uso de ELONVA® durante a gravidez é contraindicado. No caso de exposição inadvertida a ELONVA®
+durante a gravidez, dados clínicos não são suficientes para excluir um resultado adverso de gravidez. Em
+estudos com animais foi observada toxicidade reprodutiva (ver item "3. CARACTERÍSTICAS
+FARMACOLÓGICAS - Dados de segurança pré-clínicos")
+Lactação
+O uso de ELONVA® durante a amamentação não é indicado.
+Uso criterioso no aleitamento ou na doação de leite humano: o uso deste medicamento no período
+da lactação depende da avaliação e acompanhamento do seu médico ou cirurgião-dentista.
+Uso em idosos, crianças e outros grupos de risco
+Pacientes idosas
+ELONVA® destina-se exclusivamente ao uso em mulheres adultas em idade reprodutiva, não sendo
+indicado para pacientes idosas.
+Pacientes pediátricas
+O uso de ELONVA® na população pediátrica não é relevante dentro da indicação aprovada.
+Pacientes com insuficiência renal
+Não foram realizados estudos clínicos em pacientes com insuficiência renal. Uma vez que a taxa de
+eliminação de alfacorifolitropina pode ser reduzida em pacientes com insuficiência renal, o uso de
+ELONVA® nessas mulheres não é recomendado (ver item “3. CARACTERÍSTICAS
+FARMACOLÓGICAS – Propriedades farmacocinéticas”).
+9
+Pacientes com insuficiência hepática
+Apesar de não estarem disponíveis dados de pacientes comprometidos hepaticamente, é improvável que a
+insuficiência hepática afete a eliminação de alfacorifolitropina (ver item “3. CARACTERÍSTICAS
+FARMACOLÓGICAS – Propriedades farmacocinéticas”).
+Atenção: Contém açúcar.
+Este medicamento pode causar doping.
+6. INTERAÇÕES MEDICAMENTOSAS
+Não foram realizados estudos de interação entre ELONVA® e outros medicamentos. Considerando que a
+alfacorifolitropina não é um substrato das enzimas do citocromo P450, não são previstas interações
+metabólicas com outros medicamentos.
+ELONVA® pode causar um resultado falso positivo no teste de gravidez por hCG se o teste for
+administrado durante a fase de estimulação ovariana do ciclo de TRA. Isto pode ocorrer devido à
+reatividade cruzada de alguns testes de gravidez por hCG com o peptídeo carboxi-terminal da subunidade
+beta de ELONVA®.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+ELONVA® deve ser armazenado em sua embalagem intacta em geladeira (de 2ºC a 8ºC). Proteger da luz.
+Não congelar. O produto pode ficar em temperatura de até 30ºC e protegido da luz, em sua embalagem
+original intacta, por até 30 dias. Nesse caso, anote no cartucho a data em que o produto começou a ficar
+fora do refrigerador e aplique a injeção dentro do período máximo de 30 dias.
+O prazo de validade do medicamento é de 36 meses a partir da data de fabricação.
+A data de validade refere-se ao último dia do mês indicado.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Depois de retirada da embalagem, a seringa deve ser montada e utilizada imediatamente.
+Seringas vazias ou não utilizadas não devem ser descartadas no lixo caseiro nem na água usada. Essas
+medidas auxiliarão na proteção do meio ambiente.
+ELONVA® é fornecido em seringas preenchidas travadas de 1 mL (vidro hidrolítico tipo 1), fechadas
+com um êmbolo de elastômero de bromobutila e uma tampa na extremidade. A seringa é equipada com
+um sistema automático de segurança para prevenir danos com a ponta da agulha após o uso, e é embalada
+junto com uma agulha estéril para injeção. Cada seringa preenchida contém 0,5 mL de solução para
+injeção.
+Uma seringa preenchida é fornecida em embalagens de uso único.
+ELONVA® é uma solução para injeção límpida e incolor.
+Não use ELONVA® se a solução não estiver límpida ou se a seringa ou agulha estiver danificada.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+O tratamento com ELONVA® deve ser iniciado sob supervisão de um médico com experiência no
+tratamento de problemas de fertilidade.
+Método de administração
+A injeção subcutânea de ELONVA® deve ser aplicada pela própria mulher ou pelo seu parceiro, desde
+que instruções apropriadas tenham sido dadas pelo médico. A autoadministração de ELONVA® deve ser
+realizada apenas por mulheres que estão muito motivadas, adequadamente treinadas e com acesso a
+aconselhamento de especialistas.
+Na ausência de estudos de compatibilidade, o medicamento não deve ser misturado com outros
+medicamentos.
+Componentes da seringa com agulha de ELONVA®
+10
+Preparando a injeção
+1.
+• Lave as mãos com sabão e água e seque-as antes de usar ELONVA®.
+• Limpe o local da injeção (a área logo abaixo do umbigo) com algodão
+embebido em antisséptico (por exemplo, álcool), para eliminar
+qualquer bactéria na superfície.
+• Limpar cerca de 5 cm em torno do ponto de aplicação e deixar o
+antisséptico secar por pelo menos um minuto antes da administração.
+2.
+• Enquanto aguarda o antisséptico secar, retire a tampa da agulha
+rompendo a etiqueta no local indicado por perfuração.
+• Mantenha o protetor da agulha sobre a agulha.
+• Coloque o protetor da agulha (contendo a agulha) sobre uma superfície
+seca e limpa, enquanto prepara a seringa.
+3.
+• Segure a seringa com a tampa cinza para cima.
+• Com seu dedo, bata delicadamente na seringa para ajudar a deslocar as
+bolhas de ar para a parte superior da seringa.
+4.
+• Mantenha a seringa em posição vertical, apontando para cima.
+• Desenrosque a tampa da seringa no sentido indicado na figura.
+5.
+• Mantenha a seringa em posição vertical, apontando para cima.
+• Adapte o protetor de agulha (contendo a agulha) girando no sentido
+indicado na figura.
+11
+6.
+• Mantenha a seringa na posição vertical, apontando para cima.
+• Retire o protetor da agulha puxando-o para cima e jogue-o fora.
+• TENHA CUIDADO com a agulha.
+Modo de aplicar a injeção
+7.
+• Segure a seringa entre os dedos indicador e médio na posição vertical.
+• Coloque seu polegar na base do êmbolo.
+• Cuidadosamente empurre o êmbolo para cima até que uma fina gota
+apareça na ponta da agulha.
+8.
+• Com a outra mão faça uma prega na pele entre os dedos polegar e
+indicador.
+• Insira toda a agulha com um ângulo de 90 graus na dobra da pele.
+• CUIDADOSAMENTE pressione o êmbolo até que ele não possa mais
+ser forçado e empurre-o para baixo.
+• CONTE ATÉ CINCO para garantir que toda a solução tenha sido
+injetada.
+9.
+• Tire seu polegar do êmbolo.
+• A agulha será automaticamente retirada para dentro da seringa onde
+ficará permanentemente.
+Posologia
+No tratamento de mulheres em idade reprodutiva, a dose de ELONVA® é baseada no peso e na idade.
+- Uma dose única de 100 microgramas é recomendada em mulheres que pesam 60 kg ou menos e que têm
+36 anos de idade ou menos.
+- Uma dose única de 150 microgramas é recomendada em mulheres:
+- que pesam mais de 60 kg, independente da idade.
+- que pesam 50 kg ou mais e que têm mais de 36 anos de idade.
+Mulheres com mais de 36 anos e que pesam menos de 50 kg não foram estudadas.
+Peso corporal
+Menos que 50 kg 50 – 60 kg Mais que 60 kg
+36 anos ou menos 100 microgramas 100 microgramas 150 microgramas
+Idade
+Mais que 36 anos Não estudado. 150 microgramas 150 microgramas
+12
+As doses recomendadas de ELONVA® foram estabelecidas apenas para um esquema de tratamento com
+antagonista de GnRH administrado a partir do dia 5 ou 6 de estimulação (ver itens “1. INDICAÇÕES”,
+“5. ADVERTÊNCIAS E PRECAUÇÕES” e “2. RESULTADOS DE EFICÁCIA”).
+Dia 1 de estimulação:
+ELONVA® deve ser administrado como injeção única por via subcutânea, preferivelmente na parede
+abdominal, durante a fase folicular inicial do ciclo menstrual.
+Dia 5 ou 6 de estimulação:
+O tratamento com antagonista do Hormônio Liberador de Gonadotropina (GnRH) deve ser iniciado no 5º
+ou 6º dia de estimulação dependendo da resposta ovariana, ou seja, do número e tamanho de folículos em
+crescimento. A determinação simultânea das concentrações séricas de estradiol também é útil. O
+antagonista de GnRH é usado para impedir oscilações prematuras das concentrações de hormônio
+luteinizante (LH).
+Dia 8 de estimulação:
+Sete dias após a injeção com ELONVA® realizada no dia 1 de estimulação, o tratamento da estimulação
+ovariana controlada pode ser continuado com injeções diárias de hormônio folículo estimulante
+(recombinante) - (rec)FSH até que tenha sido atingido o critério para desencadeamento final de maturação
+de oócitos (3 folículos ≥ 17 mm). A dose diária de (rec)FSH pode depender da resposta ovariana, a qual
+deve ser monitorada por avaliações ultrassonográficas regulares a partir do 5º ou 6º dia de estimulação.
+Em respondedoras normais, recomenda-se a dose diária de 150 UI de (rec)FSH.
+A administração de (rec)FSH no dia da administração de gonadotropina coriônica humana (hCG) pode
+ser omitida, dependendo da resposta ovariana. Em geral, o desenvolvimento folicular adequado é atingido
+em média no 9º dia do tratamento (variação de 6 a 18 dias).
+Tão logo sejam observados três folículos  17 mm, uma injeção única de 5.000 até 10.000 UI de hCG
+urinário é administrada no mesmo dia ou no dia subsequente à indução final de maturação de oócitos. No
+caso de uma resposta ovariana excessiva, veja recomendações dadas no item “5. ADVERTÊNCIAS E
+PRECAUÇÕES” para reduzir o risco de desenvolvimento de síndrome de hiperestimulação ovariana
+(SHEO).
+9. REAÇÕES ADVERSAS
+Os eventos adversos relatados mais frequentemente durante os estudos clínicos com ELONVA®
+(N=2.397) são desconforto pélvico (6,0%), síndrome de hiperestimulação ovariana (4,3%, ver também
+item "5. ADVERTÊNCIAS E PRECAUÇÕES”), cefaleia (4,0%), dor pélvica (2,9%), náusea (2,3%),
+fadiga (1,5%) e sensibilidade mamária (1,3%).
+A tabela a seguir mostra as principais reações adversas ao medicamento em mulheres tratadas com
+ELONVA® em estudos clínicos de acordo com a classificação por sistema de órgãos e frequência; comum
+(≥ 1%, < 10%), incomum (≥ 0,1%, < 1%).
+Classificação por sistema de órgãos Frequência Reação adversa
+Distúrbios psiquiátricos Incomum Mudanças de humor
+Distúrbios do sistema nervoso Comum Cefaleia
+Incomum Tontura
+Distúrbios vasculares Incomum Fogacho
+Distúrbios do sistema gastrintestinal Comum Náusea
+Incomum Distensão abdominal, vômito, diarreia,
+constipação
+Distúrbios do tecido Incomum Dor nas costas
+musculoesqueléticos e conectivo
+Gravidez, puerpério e condições Incomum Abortamento espontâneo
+perinatais
+Distúrbios do sistema reprodutor e Comum SHEO, dor pélvica, desconforto pélvico,
+das mamas sensibilidade mamária
+Incomum Torção ovariana, dor nos anexos uterinos,
+ovulação precoce, dor mamária
+Distúrbios gerais e condições do Comum Fadiga
+local de administração Incomum Hematoma no local da injeção, dor no local
+da injeção, irritabilidade
+Investigações laboratoriais Incomum Aumento de alanina aminotransferase,
+aumento de aspartato aminotransferase
+Lesões, intoxicação e complicações Incomum Dor do procedimento
+do procedimento
+13
+Há relatos pós-comercialização de reações de hipersensibilidade, tanto locais como generalizadas,
+incluindo erupção cutânea.
+Além disso, foram relatados casos de gravidez ectópica e gestações múltiplas, considerados como
+relacionados à TRA ou à subsequente gravidez.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+A administração de mais de uma injeção de ELONVA® dentro de um ciclo de tratamento ou uma dose
+muito alta de ELONVA® e/ou do (rec)FSH podem aumentar o risco da ocorrência da síndrome de
+hiperestimulação ovariana (SHEO). Após a administração de ELONVA®, não deve ser administrado
+outro medicamento que contenha FSH até o dia de estimulação 8, uma vez que isso também pode
+aumentar o risco de SHEO (veja item "5. ADVERTÊNCIAS E PRECAUÇÕES”).
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro 1.0029.0210
+Produzido por: Vetter Pharma-Fertigung GmbH & Co. KG
+Ravensburg, Alemanha
+Importado e Registrado por: Organon Farmacêutica Ltda.
+Rua 13 de Maio, 815 - Sousas, Campinas/SP
+CNPJ: 45.987.013/0001-34 – Brasil
+Central de Atendimento: 0800 00 00 149 / contate@organon.com
+Venda sob prescrição
+Copyright 2024 Grupo de empresas Organon. Todos os direitos reservados.
+ELONVA_BU20_022019_VPS
+14
+Histórico de alteração para a bula
+Dados da submissão eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº do Data do Nº do Versões Apresentações
+Assunto Assunto Data de aprovação Itens de bula
+expediente expediente expediente expediente (VP/VPS) relacionadas
+5. ADVERTÊNCIAS
+10456 – PRODUTO
+E PRECAUÇÕES
+BIOLÓGICO –
+7. CUIDADOS DE 100 mcg
+- - Notificação de Alteração NA NA NA NA VPS
+ARMAZENAMENTO 150 mcg
+de texto de bula – RDC
+DO MEDICAMENTO
+60/12
+DIZERES LEGAIS
+10456 – PRODUTO 10303 - PRODUTO
+BIOLÓGICO – BIOLÓGICO - Solicitação
+100 mcg
+20/04/2022 2479248/22-4 Notificação de Alteração 21/09/2021 3746511/21-2 de Transferência de 03/01/2022 DIZERES LEGAIS VPS
+150 mcg
+de texto de bula – RDC Titularidade de Registro
+60/12 (Cisão de Empresa)
+10456 – PRODUTO 10456 – PRODUTO
+BIOLÓGICO – BIOLÓGICO –
+100 mcg
+19/04/2021 1493704/21-2 Notificação de Alteração - - Notificação de Alteração - 9. REAÇÕES ADVERSAS VPS
+150 mcg
+de texto de bula – RDC de texto de bula – RDC
+60/12 60/12
+10456 – PRODUTO 10456 – PRODUTO
+BIOLÓGICO – BIOLÓGICO –
+100 mcg
+27/07/2021 2924882/21-5 Notificação de Alteração --- --- Notificação de Alteração --- 9. REAÇÕES ADVERSAS VPS
+150 mcg
+de texto de bula – RDC de texto de bula – RDC
+60/12 60/12
+10456 – PRODUTO 11343 - PRODUTO 4. CONTRAINDICAÇÕES
+BIOLÓGICO – BIOLÓGICO - Alteração 5. ADVERTÊNCIAS E PRECAUÇÕES
+100 mcg
+05/11/2019 3040128/19-3 Notificação de Alteração 28/02/2019 0194194/19-1 de texto de bula 07/10/2019 9. REAÇÕES ADVERSAS VPS
+150 mcg
+de texto de bula – RDC relacionada a dados 10. SUPERDOSE
+60/12 clínicos. DIZERES LEGAIS
+9. REAÇÕES ADVERSAS 100 mcg
+05/07/2019 0593840/19-6 10456 – PRODUTO 05/07/2019 0593840/19-6 10456 – PRODUTO 05/07/2019 VPS
+DIZERES LEGAIS 150 mcg
+BIOLÓGICO – BIOLÓGICO –
+0FKQYM
+0FKQYM
+Notificação de Alteração Notificação de Alteração
+de texto de bula – RDC de texto de bula – RDC
+60/12 60/12
+10456 – PRODUTO 10456 – PRODUTO
+BIOLÓGICO – BIOLÓGICO – 2. RESULTADOS DE EFICÁCIA 100 mcg
+29/01/2018 0068061/18-3 29/01/2018 0068061/18-3 29/01/2018 VPS
+Notificação de Alteração Notificação de Alteração 150 mcg
+de texto de bula – RDC de texto de bula – RDC
+60/12 60/12
+10456 – PRODUTO
+BIOLÓGICO –
+17/07/2017 1480581/17-2 Notificação de Alteração 17/07/2017 DIZERES LEGAIS
+de texto de bula – RDC
+60/12
+APRESENTAÇÕES
+COMPOSIÇÃO
+10456 – PRODUTO
+1. INDICAÇÕES
+BIOLÓGICO –
+2. RESULTADOS DE EFICÁCIA 100 mcg
+17/07/2017 1480581/17-2 Notificação de Alteração VPS
+3. CARACTERÍSTICAS 150 mcg
+de texto de bula – RDC
+1532-PRODUTO FARMACOLÓGICAS
+60/12
+23/05/2016 1794413/16-9 BIOLÓGICO – Alteração 19/06/2017 4. CONTRAINDICAÇÕES
+de Posologia 5. ADVERTÊNCIAS E PRECAUÇÕES
+7. CUIDADOS DE ARMAZENAMENTO
+DO MEDICAMENTO
+8. POSOLOGIA E MODO DE USAR
+9. REAÇÕES ADVERSAS
+10. SUPERDOSE
+10456 – PRODUTO
+BIOLÓGICO –
+10456 – PRODUTO 6. INTERAÇÕES MEDICAMENTOSAS
+09/02/2017 0221308/17-7 Notificação de Alteração 09/02/2017
+BIOLÓGICO – 9. REAÇÕES ADVERSAS
+de texto de bula – RDC 100 mcg/0,5 mL
+09/02/2017 0221308/17-7 Notificação de Alteração VPS
+60/12 150 mcg/0,5 mL
+de texto de bula – RDC
+1688 – PRODUTO
+60/12
+27/01/2017 0147775/17-7 BIOLÓGICO – Inclusão 27/01/2017 DIZERES LEGAIS
+de Local de Fabricação
+0FKQYM
+0FKQYM
+do Produto em sua
+Embalagem Secundária
+10456 – PRODUTO
+7. Cuidados de armazenamento
+BIOLÓGICO – 1510 – PRODUTO
+do medicamento 100 mcg/0,5 mL
+04/08/2014 0631315/14-9 Notificação de Alteração 21/10/2011 926135/11-4 BIOLÓGICO – Alteração 28/07/2014 VPS
+150 mcg/0,5 mL
+de texto de bula – RDC de Prazo de validade
+Dizeres legais
+60/12
+10463 – PRODUTO 1512 – PRODUTO
+BIOLÓGICO - Inclusão BIOLÓGICO – 100 mcg/0,5 mL
+24/03/2014 0229585/14-7 21/08/2012 0674171/12-1 21/08/2012 Alterações no template da bula VPS
+inicial de texto de bula – Notificação de Alteração 150 mcg/0,5 mL
+RDC 60 de Texto de Bula
+1512 – PRODUTO 2. Resultados de eficácia
+BIOLÓGICO – 5. Advertências e precauções 100 mcg/0,5 mL
+- - - 12/12/2011 813528/11-2 12/12/2011 VPS
+Notificação de Alteração 6. Interações medicamentosas 150 mcg/0,5 mL
+de Texto de Bula 9. Reações adversas
+10. Superdose
+1528 – PRODUTO
+Adequação à RDC 47/2009 em forma e 100 mcg/0,5 mL
+- - - 31/08/2009 679653/09-2 BIOLÓGICO – Registro 04/07/2011 VPS
+conteúdo 150 mcg/0,5 mL
+de Produto Novo
+0FKQYM
+0FKQYM

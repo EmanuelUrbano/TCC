@@ -1,0 +1,629 @@
+Engerix B
+Suspensão injetável
+10 mcg/0,5 mL
+Engerix® B
+Modelo de texto de bula - Profissional de Saúde
+I – IDENTIFICAÇÃO DO MEDICAMENTO
+Engerix® B
+vacina hepatite B (recombinante)
+APRESENTAÇÕES
+A vacina Engerix® B é uma suspensão injetável para administração intramuscular, disponível em seringa preenchida (vidro tipo I) com êmbolo e tampa
+protetora de borracha.
+A vacina está disponível na seguinte apresentação:
+- Embalagem contendo 01 seringa preenchida de 10 mcg/0,5 mL.
+USO INTRAMUSCULAR
+USO PEDIÁTRICO
+COMPOSIÇÃO
+Cada dose da vacina em 0,5 mL de suspensão contém 10 mcg de antígeno de superfície da hepatite B1,2 (HBsAg).
+1Adsorvido em hidróxido de alumínio hidratado
+2Produzidos em células de levedura (Saccharomyces cerevisiae)
+Excipientes: hidróxido de alumínio, cloreto de sódio, fosfato de sódio dibásico di-hidratado, fosfato de sódio monobásico di-hidratado e água para injetáveis.
+Resíduos: polissorbato 20.
+A vacina é altamente purificada e excede as exigências da Organização Mundial da Saúde (OMS) sobre vacinas recombinantes contra a hepatite B. Nenhuma
+substância de origem animal é utilizada na fabricação do produto.
+II – INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Engerix® B é indicada para a imunização ativa contra a infecção pelo vírus da hepatite B (VHB), causada por todos os subtipos conhecidos, em indivíduos de
+todas as idades considerados em risco de exposição a esse vírus. Pode-se esperar que a hepatite D também possa ser evitada pela imunização com Engerix®
+B, já que essa doença (causada pelo agente delta) não ocorre na ausência da infecção pelo VHB.
+Espera-se que, a longo prazo, a vacinação contra a hepatite B reduza não apenas a incidência dessa doença mas também suas complicações crônicas, tais como
+hepatite B crônica ativa e cirrose associada à hepatite B.
+Em áreas de baixa prevalência de hepatite B, a imunização é particularmente recomendada para os indivíduos pertencentes a grupos identificados como de
+maior risco de infecção (ver abaixo); no entanto, a vacinação universal de todas as crianças e adolescentes contribuirá para o controle da hepatite B em toda a
+população.
+Em áreas de prevalência intermediária e alta de hepatite B, com a maior parte da população em risco de contrair o VHB, a melhor estratégia é fornecer
+vacinação universal a recém-nascidos, bebês, crianças e adolescentes, bem como a adultos que pertençam a grupos de maior risco de infecção.
+A Organização Mundial da Saúde (OMS), o Comitê Consultivo de Práticas de Imunização (ACIP, de Advisory Committee on Immunization Practices), dos
+Estados Unidos, e a Academia Americana de Pediatria (AAP, American Academy of Pediatrics) defendem a vacinação de recém-nascidos e/ou a de
+adolescentes como a estratégia ideal para controlar a hepatite B em todos os países.
+Grupos identificados como de maior risco de infecção:
+• profissionais da saúde;
+• pacientes que recebem frequentemente hemoderivados;
+• pessoal e residentes em instituições;
+• pessoas em maior risco devido a seu comportamento sexual;
+• usuários de drogas injetáveis ilícitas;
+• viajantes para áreas com alta endemicidade de VHB;
+• bebês nascidos de mães portadoras do VHB;
+• pessoas originárias de áreas com alta endemicidade de VHB;
+• pacientes com anemia falciforme;
+• pacientes candidatos a transplante de órgãos;
+• contatos domiciliares de qualquer um dos grupos acima e de pacientes com infecção aguda ou crônica pelo VHB;
+• indivíduos com doença hepática crônica (DHC) ou em risco de desenvolvê-la (p. ex. portadores do vírus da hepatite C, pessoas que abusam do álcool);
+• outros: pessoal da polícia, de brigadas de incêndio, das Forças Armadas e qualquer pessoa que, por meio de seu trabalho ou estilo de vida, possa expor-se
+ao VHB.
+2. RESULTADOS DE EFICÁCIA
+Eficácia protetora e resposta imune de longo prazo
+1
+Engerix® B
+Modelo de texto de bula - Profissional de Saúde
+Em grupos de risco
+Em estudos de campo, demonstrou-se eficácia protetora de 95% a 100% em neonatos, crianças e adultos em risco de contrair a doença.
+A eficácia protetora de 95% foi demonstrada em neonatos de mães positivas para o antígeno E da hepatite B (HBeAg), imunizados de acordo com os esquemas
+de 0, 1, 2 e 12 meses ou 0, 1 e 6 meses, sem a administração concomitante de imunoglobulina da hepatite B (HBIg) no nascimento. No entanto, a administração
+simultânea de HBIg e vacina ao nascer aumenta a eficácia protetora para 98%.
+Vinte anos após a primeira vacinação durante a infância, indivíduos nascidos de mães portadoras de hepatite B receberam uma dose de desafio da vacina de
+hepatite B (recombinante). Um mês depois, pelo menos 93% desses indivíduos (N=75) obtiveram uma resposta anamnéstica demonstrando uma memória
+imunológica.
+Em indivíduos sadios
+A tabela abaixo resume as taxas de soroproteção (por exemplo: porcentagens dos sujeitos com concentrações de anticorpos anti-HBs ≥ 10mUI/mL) obtidas
+em estudos clínicos com os diferentes esquemas como mencionado no item Posologia.
+População Esquema Taxa de soroproteção
+Indivíduos sadios 0, 1, 6 meses mês 1: 15 %
+mês 3: 89 %
+mês 7:  96 %
+0, 1, 2 – 12 meses mês 13: 95.8 %
+Indivíduos sadios a partir de 20 anos de idade 0, 7, 21 dias – 12 meses dia 28: 65.2 %
+mês 2: 76 %
+mês 13: 98.6 %
+A resposta imune de longo prazo foi avaliada em um ensaio clínico em indivíduos de 11 a 15 anos de idade no momento da vacinação primária. As taxas de
+soroproteção obtidas com as duas diferentes doses e esquemas registrados foram avaliadas até 66 meses após a primeira dose da vacinação primária e são
+apresentadas na tabela abaixo:
+Taxa de soroproteção
+Grupos da vacina
+Mês 2 Mês 6 Mês 7 Mês 30 Mês 42 Mês 54 Mês 66
+Engerix® B 10 mcg 55,8% 87,6% 98,2% 96,9% 92,5% 94,7% 91,4%
+(esquema de 0, 1, 6 meses)
+Engerix® B 20 mcg 11,3% 26,4% 96,7% 87,1% 83,7% 84,4% 79,5%
+(esquema de 0, 6 meses)
+Esses dados mostram que uma vacinação primária com Engerix® B induz anticorpos anti-HBs circulantes que persistem por pelo menos 66 meses. Após
+completar o ciclo de vacinação primária, não há diferença clinicamente significativa em nenhum ponto de tempo nas taxas de soroproteção, quando se comparam
+os dois grupos da vacina. Todos os pacientes nos dois grupos da vacina (incluindo aqueles com concentrações de anticorpos anti-HBs < 10 mUI/mL) receberam
+uma dose de desafio 72 a 78 meses após a vacinação primária. Um mês após a dose de desafio, todos os pacientes apresentavam uma resposta anamnéstica à
+dose de desafio e mostravam soroproteção (ou seja, com concentrações de anticorpos anti-HBs  10 mUI/mL). Esses dados indicam que a proteção contra a
+hepatite B ainda pode ser conferida por meio da memória imune em todos os pacientes que responderam à vacinação primária, mas perderam o nível de
+soroproteção dos anticorpos anti-HBs.
+A persistência da resposta imune de longo prazo foi avaliada em um estudo clínico em indivíduos (N = 292) com idades entre 15 e 16 anos, vacinados nos
+primeiros 2 anos de vida com 3 doses de Engerix® B. A soroproteção (anti-HBs) foi de 65,4% 14 anos [intervalo 13,5-15,5 anos] após a vacinação primária.
+Neste ponto, todos os indivíduos (incluindo indivíduos com concentrações de anticorpos anti-HBs <10 mIU / mL) receberam uma dose de desafio. Um mês após
+a dose de desafio, 97,9% dos indivíduos mostraram ser soroprotegidos. Uma resposta anamnéstica foi observada em 92,9% dos indivíduos soronegativos antes
+da dose de desafio (N = 84) e em 98,6% dos indivíduos soropositivos antes da dose de desafio (N = 207).
+Pacientes com insuficiência renal incluindo pacientes em hemodiálise
+Idade (anos) Esquema Taxa de soroproteção no mês 7
+16 e acima 0, 1, 2, 6 meses Mês 3: 55,4%
+(2 x 20 mcg) Mês 7: 87,1%
+Pacientes com diabetes tipo II
+Idade (anos) Esquema Taxa de soroproteção no mês 7
+20-39 88,5%
+40-49 0, 1, 6 meses 81,2%
+50-59 (20 mcg) 83,2%
+≥ 60 58,2%
+2
+Engerix® B
+Modelo de texto de bula - Profissional de Saúde
+Redução na incidência de carcinoma hepatocelular em crianças
+Observou-se redução significativa na incidência de carcinoma hepatocelular em crianças com 6 a 14 anos de idade após campanha nacional de vacinação contra
+a hepatite B, em Taiwan. Houve declínio significativo na prevalência do antígeno da hepatite B, cuja persistência é fator essencial para o desenvolvimento de
+carcinoma hepatocelular.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Engerix® B induz anticorpos específicos contra o HBsAg (anticorpos anti-HBs). As concentrações de anticorpos anti-HBs ≥10 mUI/mL correlacionam-se com
+a proteção contra a infecção pelo VHB.
+4. CONTRAINDICAÇÕES
+Engerix® B não deve ser administrada a indivíduos com hipersensibilidade conhecida a qualquer um dos componentes da fórmula (ver o item Composição) ou
+que tenham apresentado sinais de hipersensibilidade após administração anterior dessa vacina.
+A infecção pelo HIV não é considerada como contraindicação para a vacinação contra a hepatite B (ver o item Advertências e Precauções).
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Assim como com outras vacinas, deve-se adiar a administração de Engerix® B a indivíduos com doença febril aguda grave. A presença de infecção leve, no
+entanto, não representa contraindicação para a imunização.
+Pode ocorrer síncope (desmaio) após, ou mesmo antes, de qualquer vacinação, como uma resposta psicogênica à injeção por seringa. É importante que estejam
+em uso procedimentos para evitar ferimentos decorrentes dos desmaios.
+Devido ao longo período de incubação da hepatite B, é possível que a infecção não diagnosticada esteja presente na ocasião da vacinação. A vacina pode não
+prevenir a infecção por hepatite B nesses casos.
+A vacinação não impedirá a infecção causada por outros agentes conhecidos capazes de infectar o fígado, como o vírus da hepatite A, o da hepatite C e o da
+hepatite E.
+Assim como com todas as vacinas injetáveis, tratamento médico e supervisão adequados devem estar sempre disponíveis para o caso de reação anafilática,
+que é rara, após a administração desta vacina.
+Engerix® B não deve ser administrada nas nádegas nem por via intradérmica, pois a resposta imune pode ser mais baixa.
+Engerix® B não deve ser administrada, sob nenhuma circunstância, por via intravascular.
+Assim como com qualquer vacina, a resposta imune pode não ser obtida em todos os vacinados.
+O risco potencial de apneia e a necessidade de monitoramento respiratório durante 48-72 horas devem ser considerados quando o ciclo primário de vacinação
+é realizado em bebês prematuros (que nasceram com ≤ 28 semanas de gestação) e particularmente naqueles que tenham histórico de imaturidade respiratória.
+Como o benefício da vacinação neste grupo é alto, a vacinação não deve ser evitada nem postergada.
+A borracha da tampa protetora e do êmbolo da seringa preenchida não é feita de borracha natural de látex.
+Efeitos sobre a capacidade de dirigir veículos ou operar máquinas
+Não é previsto que a vacina possa afetar a habilidade de dirigir veículos e operar máquinas.
+Uso em idosos, crianças e outros grupos de risco
+Grupos de risco
+A resposta imune a vacinas contra a hepatite B relaciona-se a vários fatores, entre eles idade avançada, sexo masculino, obesidade, hábito de fumar e via de
+administração. Pode-se considerar o uso de doses adicionais em indivíduos que possam não responder tão bem à vacina contra a hepatite B (p. ex. aqueles com
+idade >40 anos).
+Em pacientes com insuficiência renal, inclusive os que estão em hemodiálise, os infectados pelo HIV e aqueles com o sistema imune comprometido, pode
+ocorrer de a série de vacinação primária não proporcionar títulos adequados de anticorpos anti-HBs. Portanto, esses pacientes podem necessitar da
+administração de doses adicionais da vacina (ver o item Posologia e Modo de Usar).
+Gravidez e lactação
+Não estão disponíveis dados adequados sobre o uso da vacina em humanos durante a gravidez e a lactação nem sobre estudos de reprodução em animais.
+No entanto, como com todas as vacinas virais inativadas, não se espera nenhum dano ao feto.
+Engerix® B deve ser usada durante a gravidez apenas quando for claramente necessário e se as possíveis vantagens justificarem os possíveis riscos para o feto.
+Nenhuma contraindicação foi estabelecida para a lactação.
+Categoria C de risco na gravidez.
+Esta vacina não deve ser usada por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+3
+Engerix® B
+Modelo de texto de bula - Profissional de Saúde
+6. INTERAÇÕES MEDICAMENTOSAS
+A administração simultânea de Engerix® B e de uma dose padrão de HBIg não resulta em títulos de anticorpos anti-HBs mais baixos, desde que ambas sejam
+aplicadas em locais separados.
+Engerix® B pode ser aplicada concomitantemente com BCG, DTP, DT e/ou vacinas contra a pólio, se isso se ajustar convenientemente a um esquema de
+imunização recomendado pelas autoridades sanitárias do país.
+Engerix® B pode ser administrada com vacinas contra sarampo-caxumba-rubéola, contra Haemophilus influenzae tipo b e contra a hepatite A.
+Engerix® B pode ser administrada concomitantemente com a vacina contra o papiloma vírus humano (HPV) [vacina papilomavírus humano 16 e 18
+(recombinante)].
+A administração de Engerix® B ao mesmo tempo que a vacina contra HPV oncogênico (16 e 18, recombinante com adjuvante AS04) (vacina contra o HPV)
+não demonstrou interferência clinicamente relevante na resposta de anticorpos aos antígenos de HPV. As concentrações médias geométricas de anticorpos
+anti-HBs foram mais baixas com a coadministração, mas a significância clínica dessa observação não é conhecida, já que as taxas de soroproteção não foram
+afetadas. A proporção de indivíduos que atingiram anti-HBs  10 mUI/mL foi de 97,9% para a vacinação concomitante e 100% para Engerix® B administrada
+isoladamente.
+Vacinas injetáveis diferentes devem ser sempre aplicadas em diferentes locais de injeção.
+Intercambialidade das vacinas contra a hepatite B
+Engerix® B pode ser usada para completar um curso de imunização primária iniciada com vacinas contra a hepatite B derivadas do plasma ou com outras
+vacinas contra a hepatite B geneticamente manipuladas, ou ser administrada como dose de reforço em indivíduos que tenham recebido anteriormente uma
+série primária de vacinas contra a hepatite B derivadas do plasma ou geneticamente manipuladas.
+7. CUIDADOS DE ARMAZENAMENTO DOS MEDICAMENTOS
+Cuidados de conservação
+O produto deve ser armazenado entre +2oC e +8oC. Após aberta, a vacina deve ser usada no mesmo dia.
+NÃO CONGELE A VACINA. Descarte-a se tiver sido congelada.
+O prazo de validade do medicamento é de 36 meses a partir da data de fabricação impressa na embalagem do produto.
+Número do lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Os estudos de estabilidade indicam que Engerix® B é estável a temperaturas de até 37º C por até 3 dias. Esses dados visam orientar os profissionais de saúde
+apenas em caso de excursão temporária de temperatura.
+Características físicas
+Durante a armazenagem, o conteúdo pode apresentar um fino depósito branco com sobrenadante límpido incolor. Uma vez agitada, a vacina torna-se
+ligeiramente opaca.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+DOSE
+1 dose de 10 mcg (em 0,5 mL de suspensão) para recém-nascidos, bebês, crianças e adolescentes de até 19 anos de idade.
+Entretanto, a dose de 20 mcg também pode ser usada em indivíduos de 11 a 15 anos de idade, no esquema de 2 doses, em situações de baixo risco de infecção
+por hepatite B durante o curso da vacinação e quando é assegurada a adesão ao curso completo de imunização (ver o item Características Farmacológicas).
+ESQUEMA DE VACINAÇÃO
+Vacinação primária
+Todos os pacientes
+O esquema de dosagem de 0, 1 e 6 meses fornece proteção ideal no mês 7 e produz altos títulos de anticorpos. O esquema acelerado, com vacinação aos 0, 1
+e 2 meses, confere proteção mais rapidamente e, espera-se, melhor adesão dos pacientes. Neste último esquema, deve-se administrar a quarta dose aos 12
+meses, já que os títulos após a terceira dose são inferiores aos obtidos no esquema de 0, 1 e 6 meses. Em bebês este esquema permite a administração simultânea
+da vacina contra a hepatite B com outras vacinas infantis.
+Pacientes de 11 a 15 anos de idade
+A dose de 20 mcg da vacina pode ser administrada a pacientes de 11 a 15 anos de idade de acordo com o esquema de 0 e 6 meses. Entretanto, nesse caso é
+possível que não se obtenha a proteção contra a infecção por hepatite B até que se aplique a segunda dose (ver o item Características Farmacológicas). Assim,
+esse esquema deve ser usado somente quando houver baixo risco de contrair a infecção por hepatite B durante o período de vacinação e quando se puder assegurar
+o curso completo de vacinação com 2 doses. Em ambas as condições, não se pode garantir (por exemplo, no caso de pacientes em hemodiálise, viajantes para
+regiões endêmicas e contatos próximos de sujeitos infectados) que o esquema de 3 doses ou o acelerado de 10 mcg da vacina possam ser usados.
+4
+Engerix® B
+Modelo de texto de bula - Profissional de Saúde
+Pacientes com insuficiência renal, inclusive em hemodiálise, com 16 anos de idade ou mais
+O esquema de imunização primária de pacientes com insuficiência renal, inclusive em hemodiálise, é de 4 doses dobradas (2 x 20 mcg) nos meses 0, 1, 2 e 6
+após a data da primeira dose. O esquema de imunização deve ser adaptado para que os títulos de anticorpos anti-HBs sejam iguais ou maiores que os níveis
+aceitáveis de proteção de 10 mUI/mL.
+Pacientes com insuficiência renal, inclusive em hemodiálise, com até 15 anos de idade e neonatos
+Pacientes com insuficiência renal, inclusive em hemodiálise, têm resposta imune reduzida a vacinas contra hepatite B. Com a dose de 10 mcg de Engerix® B
+pode-se usar tanto o esquema de 0, 1, 2 e 12 meses quanto o de 0, 1 e 6 meses. Baseado na experiência em adultos mostra que uma dosagem maior de antígenos
+pode aumentar a resposta imune. Deve-se considerar a realização de testes sorológicos após a vacinação. Para assegurar um nível de proteção anti-HBs ≥10
+mUI/mL, podem ser necessárias doses adicionais da vacina.
+Recomendação de dosagem para exposição conhecida ou presumida ao VHB
+Em circunstâncias em que a exposição ao VHB tenha ocorrido recentemente, como no ferimento com agulha contaminada, a primeira dose de Engerix® B pode
+ser administrada simultaneamente com HBIg, que, no entanto, tem de ser aplicada em local de injeção diferente (ver o item Interações Medicamentosas). Pode
+ser usado o esquema de 0, 1, 2 e 12 meses.
+Neonatos nascidos de mães portadoras do VHB
+A imunização com Engerix® B (10 mcg) nesses recém-nascidos deve começar no nascimento, usando-se o esquema de 0, 1, 2 e 12 meses ou o de 0, 1 e 6 meses.
+O primeiro esquema fornece resposta imune mais rápida. Quando disponível, a HBIg deve ser administrada simultaneamente com Engerix® B (em locais
+diferentes de aplicação) para obter maior eficácia protetora.
+Pode-se ajustar os esquemas vacinais de forma a adequá-los melhor às práticas locais de imunização no que se refere à idade recomendada para a administração
+de outras vacinas infantis.
+Dose de reforço
+Não foi estabelecida a necessidade da dose de reforço para indivíduos sadios que receberam um ciclo de vacinação primária completo.
+Já para pacientes em hemodiálise e outros imunocomprometidos, recomendam-se doses de reforço a fim de assegurar um nível de anticorpos 10 mUI/mL.
+Os dados sobre a dose de reforço estão disponíveis. A dose de reforço é tão bem tolerada quanto as doses da vacinação primária.
+Modo de uso
+Engerix® B deve ser injetada por via intramuscular na região deltoide em adultos e crianças ou na parte anterolateral da coxa em neonatos, lactentes e crianças
+menores. Excepcionalmente, pode-se administrar a vacina por via subcutânea em indivíduos com trombocitopenia ou distúrbios da coagulação.
+Engerix® B não deve ser aplicada nas nádegas nem por via intradérmica, pois a resposta imune pode ser mais baixa.
+Engerix® B não deve ser administrada, sob nenhuma circunstância, por via intravascular.
+Deve-se inspecionar visualmente a vacina antes da administração, para detectar qualquer partícula estranha e/ou coloração. Antes do uso, Engerix® B deve ser
+bem agitada para obtenção de uma suspensão branca ligeiramente opaca. A vacina não deve ser administrada se o conteúdo tiver aparência diferente.
+Engerix® B não deve ser misturada com outras vacinas.
+Instruções para uso da seringa
+Adaptador Luer Lock
+Segure a seringa pelo corpo, não pelo êmbolo.
+Remova a tampa da seringa girando-a no sentido anti-horário.
+Êmbolo
+Corpo
+Tampa
+5
+Engerix® B
+Modelo de texto de bula - Profissional de Saúde
+Canhão da agulha
+Para conectar a agulha à seringa, conecte o canhão da agulha ao
+adaptador Luer Lock e gire um quarto de volta no sentido horário
+até travar.
+Não puxe o êmbolo da seringa de forma que este desconecte do
+corpo. Caso isso aconteça, não administre a vacina.
+Descarte
+Qualquer produto ou material residual não utilizado deve ser descartado de acordo com as diretrizes locais.
+9. REAÇÕES ADVERSAS
+Engerix® B geralmente é bem tolerada.
+Os seguintes efeitos indesejáveis, geralmente leves e transitórios, foram relatados após o uso amplo da vacina. Assim como com outras vacinas contra a hepatite
+B, em muitos casos em que ocorreram esses efeitos não se estabeleceu relação causal com a vacina.
+O perfil de segurança apresentado abaixo é baseado em dados de mais de 5.300 indivíduos.
+De acordo com a frequência, as reações adversas são classificadas como:
+Muito comuns (>1/10)
+Comuns (>1/100 a 1/10)
+Incomuns (>1/1.000 a <1/100)
+Raras (>1/10.000 a <1/1.000)
+Muito raras (<1/10.000)
+Reações muito comuns (>1/10): irritabilidade, dor e vermelhidão no local de injeção, fadiga, dor de cabeça.
+Reações comuns (>1/100 e 1/10): perda de apetite, sonolência, sintomas gastrintestinais (como náusea, vômito, diarreia e dor abdominal), edema no local
+de injeção, mal-estar, enduração, febre (≥ 37,5ºC).
+Reações incomuns (>1/1.000 a <1/100): vertigem, mialgia, sintomas semelhantes aos da gripe.
+Reações raras (> 1/10.000 e <1/1.000): linfadenopatia, parestesia, rash, artralgia, prurido, urticária.
+Em um estudo comparativo com indivíduos de 11 a 15 anos de idade, a incidência de eventos adversos locais e gerais solicitados após o regime padrão de 2
+doses de Engerix® B 20 mcg foi similar, na maioria dos casos, à observada após o regime padrão de 3 doses de Engerix® B 10 mcg.
+Dados pós-comercialização
+Infecções e infestações
+Meningite
+Distúrbios do sistema sangüíneo e do sistema linfático
+Trombocitopenia
+Distúrbios do sistema imune
+Anafilaxia e reações alérgicas, entre elas as reações anafilactoides e as semelhantes à doença do soro
+Distúrbios do sistema nervoso
+Paralisia, convulsões, hipestesia, encefalopatia, encefalite, neuropatia e neurite (incluindo esclerose múltipla, mielite, incluindo mielite transversa, neurite
+óptica e síndrome de Guillain-Barré
+Distúrbios vasculares
+Hipotensão e vasculite
+Distúrbios cutâneos e do tecido subcutâneo
+Edema angioneurótico, líquen plano e eritema multiforme
+Distúrbios do tecido musculoesquelético e do tecido conjuntivo
+Artrite e fraqueza muscular
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+6
+Engerix® B
+Modelo de texto de bula - Profissional de Saúde
+10. SUPERDOSE
+Casos de superdosagem foram reportados durante a farmacovigilância pós-comercialização. Os efeitos adversos após a superdosagem relatados foram similares
+aos observados com a administração normal da vacina.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III – DIZERES LEGAIS
+MS: 1.0107.0083
+Farm. Resp.: Rafael Salles de Carvalho
+CRF-RJ No 12108
+Fabricado por: GlaxoSmithKline Biologicals S.A. – Parc de La Noire Epine – Rua Fleming 20, 1300 - Wavre – Bélgica ou GlaxoSmithKline Biologicals –
+Zirkusstrasse 40, D-01069 – Dresden – Alemanha filial de SmithKline Beecham Pharma GmbH & Co. KG.
+Embalado por: GlaxoSmithKline Biologicals – Zirkusstrasse 40, D-01069 – Dresden – Alemanha filial de SmithKline Beecham Pharma GmbH & Co. KG ou
+GlaxoSmithKline Biologicals S.A. – Parc de La Noire Epine – Rua Fleming 20, 1300 – Wavre – Bélgica ou GlaxoSmithKline Biologicals – 637 Rue des
+Aulnois, 59230 – Saint Amand Les Eaux – França.
+Registrado e Importado por: GlaxoSmithKline Brasil Ltda.
+Estrada dos Bandeirantes, 8464 – Rio de Janeiro – RJ
+CNPJ: 33.247.743/0001-10
+VENDA SOB PRESCRIÇÃO MÉDICA
+L2140_engerixb_sus_inj_GDS017
+7
+Histórico de Alteração de Bula
+Dados da Submissão Eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº Data do Nº Data da Versões
+Assunto Assunto Itens de bula Apresentações Relacionadas
+Expediente Expediente Expediente Expediente Aprovação VP/VPS
+Dizeres legais – Farmacêutico
+10463 – Responsável 10 MCG SUS INJ CT SER PREENCH X 0,5
+10463 – PRODUTO PRODUTO Identificação do medicamento
+ML; 20 MCG SUS INJ CT FA VD INC X 1
+BIOLÓGICO – Inclusão BIOLÓGICO – Reações adversas
+28/10/2013 0903676/13-8 Inicial de Texto de Bula 28/10/2013 0903676/13-8 Inclusão Inicial de 28/10/2013 Quais os males que este VP e VPS ML; 20 MCG SUS INJ CT SER PREENCH
+– RDC 60/12 Texto de Bula – medicamento pode me causar? X 1 ML
+RDC 60/12 Adequação à RDC 47/09.
+10456 – PRODUTO 10279 – 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO – PRODUTO ML; 20 MCG SUS INJ CT FA VD INC X 1
+03/07/2014 0528786/14-3 Notificação de Alteração 09/05/2014 0359082/14-8 BIOLÓGICO – 29/05/2014 Resultados de eficácia VPS ML; 20 MCG SUS INJ CT SER PREENCH
+de Texto de Bula – RDC Alteração de
+X 1 ML
+60/12 Texto de Bula
+VPS
+- Identificação do medicamento;
+- Indicações;
+- Resultados de eficácia;
+- Características
+farmacológicas;
+- Contraindicações;
+- Advertências e precauções;
+- Interações medicamentosas;
+- Cuidados de armazenamento
+do medicamento;
+- Posologia e modo de usar;
+10467 -
+10456 – PRODUTO PRODUTO - Reações adversas; 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO – BIOLÓGICO - ML; 20 MCG SUS INJ CT FA VD INC X 1
+20/03/2015 0245863/15-2 Notificação de Alteração 23/01/2015 0068189/15-0 Inclusão de Nome 18/02/2015
+VP
+VP e VPS ML; 20 MCG SUS INJ CT SER PREENCH
+- Identificação do medicamento
+de Texto de Bula – RDC Comercial em - Para que este medicamento é X 1 ML
+60/12 Vacinas por
+indicado?
+Decisão Judicial
+- Como este medicamento
+funciona?
+- Quando não devo usar este
+medicamento?
+- O que devo saber antes de usar
+este medicamento?
+- Onde, como e por quanto
+tempo posso guardar este
+medicamento?
+- Como devo usar este
+medicamento?
+10456 – PRODUTO 10456 – Ressubmissão de bula para
+10 MCG SUS INJ CT SER PREENCH X 0,5
+20/03/2015 0248872/15-8
+BIOLÓGICO –
+20/03/2015 0248872/15-8
+PRODUTO
+20/03/2015
+retificação do histórico de
+VP e VPS ML; 20 MCG SUS INJ CT FA VD INC X 1
+Notificação de Alteração BIOLÓGICO – alteração de bula, pois o
+de Texto de Bula – RDC Notificação de histórico da bula submetida no ML; 20 MCG SUS INJ CT SER PREENCH
+Histórico de Alteração de Bula - Engerix B 1
+Histórico de Alteração de Bula
+Dados da Submissão Eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº Data do Nº Data da Versões
+Assunto Assunto Itens de bula Apresentações Relacionadas
+Expediente Expediente Expediente Expediente Aprovação VP/VPS
+60/12 Alteração de expediente 0245863/15-2 não X 1 ML
+Texto de Bula – continha as apresentações
+RDC 60/12 impactadas.
+VPS
+- Composição
+- 2. Resultados de Eficácia
+- 7. Cuidados de
+10456 –
+armazenamento dos
+10456 – PRODUTO PRODUTO medicamentos 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO –
+BIOLÓGICO – - Dizeres Legais. ML; 20 MCG SUS INJ CT FA VD INC X 1
+Notificação de
+15/05/2015 0431372/15-1 Notificação de Alteração 15/05/2015 0431372/15-1 15/05/2015 VP e VPS ML; 20 MCG SUS INJ CT SER PREENCH
+Alteração de
+de Texto de Bula – RDC Texto de Bula – VP X 1 ML
+60/12 - Composição
+RDC 60/12
+- 5. Onde, como e por quanto
+tempo posso guardar este
+medicamento;
+- Dizeres legais.
+10456 –
+10456 – PRODUTO PRODUTO 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO –
+BIOLÓGICO – ML; 20 MCG SUS INJ CT FA VD INC X 1
+Notificação de
+28/05/2015 0474565/15-5 Notificação de Alteração 28/05/2015 0474565/15-5 28/05/2015 Histórico de Alteração de Bula VP e VPS ML; 20 MCG SUS INJ CT SER PREENCH
+Alteração de
+de Texto de Bula – RDC Texto de Bula – X 1 ML
+60/12
+RDC 60/12
+VPS
+- Apresentações
+- COMPOSIÇÃO
+- 1. Indicações
+- 2. Resultados de Eficácia
+3. Características
+farmacológicas
+10456 –
+4. Contraindicações
+PRODUTO
+10456 – PRODUTO BIOLÓGICO – 5. Advertências e precauções 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO – 6. Interações medicamentosas
+Notificação de ML; 20 MCG SUS INJ CT FA VD INC X 1
+10/08/2015 0707563/15-4 Notificação de Alteração 10/08/2015 0707563/15-4 10/08/2015 7. Cuidados de armazenamento VP e VPS
+de Texto de Bula – RDC Alteração de dos medicamentos ML; 20 MCG SUS INJ CT SER PREENCH
+Texto de Bula –
+60/12 8. Posologia e modo de usar X 1 ML
+RDC 60/12
+9. Reações adversas
+VP
+- Apresentações
+- Composição
+- 1. Para que este medicamento
+é indicado?
+- 2. Como este medicamento
+Histórico de Alteração de Bula - Engerix B 2
+Histórico de Alteração de Bula
+Dados da Submissão Eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº Data do Nº Data da Versões
+Assunto Assunto Itens de bula Apresentações Relacionadas
+Expediente Expediente Expediente Expediente Aprovação VP/VPS
+funciona?
+- 3. Quando não devo usar este
+medicamento?
+- 4. O que devo saber antes de
+usar este medicamento?
+- 5. Onde, como e por quanto
+tempo posso guardar este
+medicamento?
+- 6. Como devo usar este
+medicamento?
+VPS
+10456 –
+- Apresentação
+PRODUTO
+10456 – PRODUTO BIOLÓGICO – - 8. Posologia e modo de usar 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO –
+0838026/15-1 Notificação de ML;
+21/09/2015 Notificação de Alteração 21/09/2015 0838026/15-1 21/09/2015 VP VP e VPS
+de Texto de Bula – RDC Alteração de - Apresentação 20 MCG SUS INJ CT SER PREENCH X 1
+Texto de Bula –
+60/12 - 6. Como devo usar este ML
+RDC 60/12
+medicamento?
+10393 PRODUTO
+BIOLÓGICO -
+Atualização de
+especificações e
+método analítico
+10456 – PRODUTO do princípio VPS 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO – - Composição
+ativo, do produto ML;
+04/12/2017 2257365/17-8 Notificação de Alteração 18/12/2015 1101472/15-5 13/11/2017 VP e VPS
+de Texto de Bula – RDC a granel, do VP 20 MCG SUS INJ CT SER PREENCH X 1
+produto
+60/12 - Composição ML
+terminado, do
+adjuvante e dos
+estabilizantes que
+não constam em
+compêndio oficial
+VPS:
+- Apresentação
+- Composição
+- 8. Posologia e modo de usar
+10456 –
+- 9. Reações adversas
+10456 – PRODUTO PRODUTO - Dizeres Legais: Farmacêutico 10 MCG SUS INJ CT SER PREENCH X 0,5
+BIOLÓGICO – BIOLÓGICO –
+Responsável ML;
+16/04/2020 1164591/20-1 Notificação de Alteração 16/04/2020 NA Notificação de 16/04/2020 VP e VPS
+de Texto de Bula – RDC Alteração de 20 MCG SUS INJ CT SER PREENCH X 1
+VP:
+60/12 Texto de Bula – ML
+- Apresentação
+RDC 60/12
+- Composição
+- 4. O que devo saber antes de
+usar este medicamento?
+- 6. Como devo usar este
+Histórico de Alteração de Bula - Engerix B 3
+Histórico de Alteração de Bula
+Dados da Submissão Eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº Data do Nº Data da Versões
+Assunto Assunto Itens de bula Apresentações Relacionadas
+Expediente Expediente Expediente Expediente Aprovação VP/VPS
+medicamento?
+- Dizeres Legais: Farmacêutico
+Responsável
+10397 -
+PRODUTO
+BIOLÓGICO -
+24/09/2020 3281123/20-3 24/09/2020
+Exclusão do local
+PRODUTO de fabricação do VPS:
+BIOLÓGICO - produto a granel - 9. Reações adversas 10 MCG SUS INJ CT SER PREENCH X 0,5
+- Dizeres Legais ML
+Notificação de Alteração 10401 -
+21/10/2020 3658707/20-9 VP e VPS
+de Texto de Bula – PRODUTO
+VP: 20 MCG SUS INJ CT SER PREENCH X 1
+publicação no Bulário BIOLÓGICO - - Dizeres Legais
+RDC 60/12 Exclusão do local ML
+24/09/2020 3281045/20-8 24/09/2020
+de fabricação do
+produto em sua
+embalagem
+primária
+1688 -
+PRODUTO PRODUTO
+VPS: 10 MCG SUS INJ CT SER PREENC VD
+BIOLÓGICO - BIOLÓGICO - - Dizeres Legais
+TRANS X 0,5 ML;
+Notificação de Alteração Inclusão do Local
+26/11/2020 4174602/20-3 19/11/2020 4094022/20-5 19/11/2020 VP e VPS
+de Texto de Bula – de Fabricação do VP:
+publicação no Bulário Produto em sua - Dizeres Legais 20 MCG SUS INJ CT SER PREENC VD
+RDC 60/12 Embalagem TRANS X 1 ML
+Secundária
+11979 -
+VPS:
+PRODUTO PRODUTOS
+- Dizeres Legais 10 MCG SUS INJ CT SER PREENC VD
+BIOLÓGICO - BIOLÓGICOS -
+TRANS X 0,5 ML;
+Notificação de Alteração 41. Alteração de VP:
+11/02/2021 0558991/21-6 28/01/2021 0379349/21-4 28/01/2021 VP e VPS
+de Texto de Bula – instalação de - 8. Quais os males que este
+publicação no Bulário fabricação do medicamento pode me causar? 20 MCG SUS INJ CT SER PREENC VD
+RDC 60/12 produto terminado - Dizeres Legais TRANS X 1 ML
+- Menor (*)
+VPS:
+PRODUTO 1513 - - 7. Cuidados de
+BIOLÓGICO - PRODUTO Armazenamento do 10 MCG SUS INJ CT SER PREENC VD
+Medicamento TRANS X 0,5 ML;
+Notificação de Alteração BIOLÓGICO -
+26/03/2021 1163380/21-8 23/07/2020 2416804/20-1 22/03/2021 VP e VPS
+de Texto de Bula – Alteração dos
+VP: 20 MCG SUS INJ CT SER PREENC VD
+publicação no Bulário cuidados de
+- 5. Onde, Como e Por quanto
+RDC 60/12 conservação tempo posso guardar este TRANS X 1 ML
+medicamento?
+Histórico de Alteração de Bula - Engerix B 4
+Histórico de Alteração de Bula
+Dados da Submissão Eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº Data do Nº Data da Versões
+Assunto Assunto Itens de bula Apresentações Relacionadas
+Expediente Expediente Expediente Expediente Aprovação VP/VPS
+10456 – PRODUTO 10 MCG SUS INJ CT SER PREENC VD
+BIOLÓGICO – TRANS X 0,5 ML;
+VPS:
+15/10/2021 4080877/21-8 Notificação de Alteração − − − − VPS
+- 2. Resultados de Eficácia
+de Texto de Bula – RDC 20 MCG SUS INJ CT SER PREENC VD
+60/12
+TRANS X 1 ML
+11956 -
+PRODUTOS VPS:
+BIOLÓGICOS - - Apresentações
+10456 – PRODUTO 66. Modificação - 5. Advertências e Precauções 10 MCG SUS INJ CT SER PREENC VD
+BIOLÓGICO – - 8. Posologia e Modo de Usar TRANS X 0,5 ML;
+na embalagem
+07/03/2024 0282608/24-9 Notificação de Alteração 13/12/2022 5046649/22-6 31/07/2023 - III – Dizeres Legais VP e VPS
+primária (por
+de Texto de Bula – RDC 20 MCG SUS INJ CT SER PREENC VD
+exemplo, novo
+60/12 VP:
+revestimento, - Apresentações TRANS X 1 ML
+tampa, tipo de - III – Dizeres Legais
+vidro) - Moderada
+VPS:
+- Apresentações
+- Composição
+11984 - - 8. Posologia e Modo de Usar
+10456 – PRODUTO PRODUTOS - 9. Reações Adversas
+BIOLÓGICO –
+BIOLÓGICOS - 10 MCG SUS INJ CT SER PREENC VD
+24/07/2024 1013220/24-2 Notificação de Alteração  1395375/23-3 24/06/2024 VP: VP e VPS
+de Texto de Bula – RDC 84. Cancelamento - Apresentações TRANS X 0,5 ML;
+de registro de
+60/12 - Composição
+apresentação - 6. Como devo usar este
+medicamento?
+- 8. Quais os males que este
+medicamento pode me causar?
+VPS:
+10456 – PRODUTO
+- 9. Reações Adversas
+BIOLÓGICO –
+10 MCG SUS INJ CT SER PREENC VD
+21/11/2024 NA Notificação de Alteração − − − − VP e VPS
+de Texto de Bula – RDC VP: TRANS X 0,5 ML
+8. Quais os males que este
+60/12
+medicamento pode me causar?
+Histórico de Alteração de Bula - Engerix B 5

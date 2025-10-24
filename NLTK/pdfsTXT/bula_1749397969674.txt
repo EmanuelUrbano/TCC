@@ -1,0 +1,1178 @@
+EMPLICITI®
+(elotuzumabe)
+Bristol-Myers Squibb Farmacêutica Ltda.
+Pó liofilizado para solução injetável
+300 mg e 400 mg
+Bula para o Profissional de Saúde
+Rua Verbo Divino, 1711 – Chácara Santo Antônio – São Paulo – SP – CEP 04719-002
+TEL: (11) 3882-2000 – CNPJ: 56.998.982/0001-07
+Bristol-Myers Squibb Farmacêutica LTDA.
+APRESENTAÇÕES
+EMPLICITI® (elotuzumabe) é um pó liofilizado para solução injetável apresentado em frasco-ampola
+de uso único que contêm 300 mg ou 400 mg de elotuzumabe.
+USO INTRAVENOSO
+USO ADULTO
+COMPOSIÇÃO
+Cada frasco-ampola contém 300 mg ou 400 mg de elotuzumabe e os seguintes excipientes: ácido
+cítrico monoidratado, polissorbato 80, citrato de sódio di-hidratado e sacarose.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EMPLICITI® (elotuzumabe) é indicado em associação com lenalidomida e dexametasona para o
+tratamento de pacientes com mieloma múltiplo1 que receberam de uma a três terapias prévias.
+EMPLICITI® (elotuzumabe) é indicado em combinação com pomalidomida e dexametasona para o
+tratamento de pacientes com mieloma múltiplo1 recidivado e refratário que receberam pelo menos
+duas terapias anteriores incluindo lenalidomida e um inibidor de proteossoma, e demonstraram
+progressão da doença na última terapia.
+1 CID C90.0 - Mieloma múltiplo
+2. RESULTADOS DE EFICÁCIA
+EMPLICITI® em associação com lenalidomida e dexametasona (Estudo CA204004) 1
+Este estudo randomizado e aberto foi conduzido para avaliar a eficácia e a segurança de EMPLICITI®
+em associação com lenalidomida e dexametasona em pacientes com mieloma múltiplo que
+receberam uma a três terapias prévias. Todos os pacientes apresentavam progressão documentada
+após sua terapia mais recente.
+Os pacientes elegíveis foram randomizados na razão 1:1 para receber:
+- EMPLICITI® em associação com lenalidomida e dose baixa de dexametasona ou
+- lenalidomida e dose baixa de dexametasona.
+EMPLICITI_VPS_v05_14062021 1
+Bristol-Myers Squibb Farmacêutica LTDA.
+O tratamento foi administrado em ciclos de 4 semanas até progressão da doença ou toxicidade
+inaceitável. EMPLICITI® 10 mg/kg foi administrado por via intravenosa semanalmente nos primeiros 2
+ciclos e posteriormente a cada 2 semanas. Antes da infusão de EMPLICITI®, a administração da
+dexametasona foi dividida em: uma dose oral de 28 mg e uma dose intravenosa de 8 mg. No grupo
+controle e nas semanas sem EMPLICITI®, dexametasona 40 mg foi administrada como uma dose
+única oral semanal. Lenalidomida 25 mg foi administrada por via oral uma vez ao dia nas primeiras 3
+semanas de cada ciclo. A avaliação da resposta tumoral foi realizada a cada 4 semanas.
+No total, 646 pacientes foram randomizados para receber o tratamento: 321 para EMPLICITI® em
+associação com lenalidomida e dexametasona e 325 para lenalidomida e dose baixa de
+dexametasona. As características basais ficaram bem equilibradas entre os grupos de tratamento,
+como mostrado na Tabela 1.
+Tabela 1: Estudo CA204004 Características Demográficas e Basais da
+Doença
+EMPLICITI® +
+lenalidomida/ lenalidomida/
+dexametasona dexametasona
+N = 321 N = 325
+Características do Paciente
+Idade
+Mediana (anos) 67,0 66,0
+≥65 anos N (%) 187 (58,3) 183 (56,3)
+Sexo
+Homens N (%) 192(59,8) 193 (59,4)
+Mulheres N (%) 129 (40,2) 132 (40,6)
+Raça
+Brancos N (%) 264 (82,2) 280 (86,2)
+Negros N (%) 13 (4,0) 10 (3,1)
+Outros N (%) 43 (13,4) 35 (10,8)
+Status de Desempenho ECOG
+0 N (%) 159 (49,5) 145 (44,6)
+1 N (%) 138 (43,0) 146 (44,9)
+2 N (%) 24 (7,5) 34 (10,5)
+Características da Doença
+Estágio do ISS
+I N (%) 141 (43,9) 138 (42,5)
+II N (%) 102 (31,8) 105 (32,3)
+III N (%) 66 (20,6) 68 (20,9)
+Não relatado 12 (3,7) 14 (4,3)
+EMPLICITI_VPS_v05_14062021 2
+Bristol-Myers Squibb Farmacêutica LTDA.
+Tabela 1: Estudo CA204004 Características Demográficas e Basais da
+Doença
+Classificação Citogenética
+del 17 N (%) 102 (31,8) 104 (32,0)
+p
+t (4;14) N(%) 30 (9,3) 31 (9,5)
+Número de Terapias prévias
+Mediana 2 2
+1 151 (47,0) 159 (48,9)
+≥2 170 (53,0) 166 (51,1)
+Status Refratário/Recidiva
+Refratário* N (%) 113 (35,2) 114 (35,1)
+Recidiva† N (%) 207 (64,5) 211 (64,9)
+Terapias Prévias
+Transplante de célula-tronco 167 (52,0) 185 (56,9)
+N (%)
+IMID N (%) 166 (51,7) 174 (53,5)
+lenalidomida N 16 (5,0) 21 (6,5)
+(%)
+talidomida N 153 (47,7) 157 (48,3)
+(%)
+bortezomibe N (%) 219 (68,2) 231 (71,1)
+melfalano N (%) 220 (68,5) 197 (60,6)
+* Progressão durante ou dentro de 60 dias da última terapia
+† Progressão após 60 dias da última terapia
+Os desfechos primários deste estudo, sobrevida livre de progressão (PFS), como avaliada pela razão
+de risco, e taxa de resposta global (ORR), foram determinados com base nas avaliações feitas por um
+Comitê de Revisão Independente em esquema cego. Os resultados de eficácia são mostrados na
+Tabela 2 e na Figura 1. O número mediano de ciclos de tratamento foi de 19 para o grupo com
+EMPLICITI® e 14 para o braço comparador.
+Uma análise final pré-especificada de sobrevida global (OS) resultou em uma redução de 18% no
+risco de morte (HR 0,82, IC de 95,4% [0,68, 1,00]) para o braço com EMPLICITI® em comparação
+com o braço comparador. Os resultados de OS são mostrados na Tabela 2 e na Figura 2.
+EMPLICITI_VPS_v05_14062021 3
+Bristol-Myers Squibb Farmacêutica LTDA.
+Tabela 2: Resultados do Estudo CA204004
+EMPLICITI® +
+lenalidomida/ lenalidomida/
+dexametasona dexametasona
+N = 321 N = 325
+PFS
+Razão de Risco [IC de 97,61%] 0,68 [0,55, 0,85]
+Valor p do teste de classificação 0,0001
+logarítmica estratificadoa
+Taxa de PFS de 1 ano (%) 68 56
+[IC de 95%] [63, 73] [50, 61]
+Taxa de PFS de 2 anos (%) 39 26
+[IC de 95%] [34, 45] [21, 31]
+Taxa de PFS de 3 anosb (%) 23 15
+[IC de 95%] [18, 28] [10, 20]
+PFS mediana em meses [IC de 95%] 18,5 [16,5, 21,4] 14,3 [12,0, 16,0]
+Resposta
+Resposta Global (ORR)c n (%) 252 (78,5) 213 (65,5)
+[IC de 95%] [73,6, 82,9] [60,1, 70,7]
+Valor pd 0,0002
+Resposta Completa (CR + sCR)e n (%) 14 (4,4)f 24 (7,4)
+Resposta Parcial Muito Boa (VGPR) n 91 (28,3) 67 (20,6)
+(%)
+Resposta Parcial (RR/PR) n (%) 147 (45,8) 122 (37,5)
+Respostas Combinadas (CR + sCR + 105(32,7) 91 (28,0)
+VGPR) n (%)
+Sobrevida Globalg
+Razão de Risco [IC de 95,4%] 0,82 [0,68, 1,00]
+Valor p do teste de classificação 0,0408h
+logarítmica estratificado
+Taxa de OS de 1 ano (%) 91 83
+[87, 93] [78, 87]
+Taxa de OS de 2 anos (%) 73 69
+[IC de 95%] [68, 78] [63, 73]
+Taxa de OS de 3 anos (%) 60 53
+[IC de 95%] [54, 65] [47, 58]
+EMPLICITI_VPS_v05_14062021 4
+Bristol-Myers Squibb Farmacêutica LTDA.
+Taxa de OS de 4 anos (%) 50 43
+[IC de 95%] [44, 56] [37, 48]
+Taxa de OS de 5 anos (%) 40 33
+[IC de 95%] [34, 45] [28, 38]
+OS mediana em meses [IC de 95%] 48,30 [40,34, 51,94] 39,62 [33,25, 45,27]
+a Valor p baseado no teste de classificação logarítmica estratificado por microglobulinas ß2 (< 3,5 mg/L vs. ≥
+3,5 mg/L), número de linhas prévias de terapia (1 vs. 2 ou 3) e terapia imunomodulatória prévia (nenhuma
+vs. somente talidomida prévia vs. outra).
+b Uma análise pré-especificada para a taxa de PFS de 3 anos foi realizada com base em um tempo mínimo
+de acompanhamento de 33 meses.
+c Critérios do European Group for Blood and Marrow Transplantation (EBMT).
+d Valor p baseado no teste quiquadrado de Cochran-Mantel-Haenszel estratificado por microglobulinas ß2
+(<3,5 mg/L vs. ≥ 3,5 mg/L), número de linhas prévias de terapia (1 vs. 2 ou 3) e terapia imunomodulatória
+prévia (nenhuma vs. somente talidomida prévia vs. outra).
+e Resposta completa (CR) + resposta completa estrita (sCR).
+f As taxas de resposta completas no grupo com EMPLICITI® podem estar subestimadas devido à
+interferência do anticorpo monoclonal de elotuzumabe com imunofixação e ensaio de eletroforese de
+proteína sérica.
+g Uma análise pré-especificada final para OS foi realizada com base em pelo menos 427 mortes (tempo
+mínimo de acompanhamento de 70,6 meses).
+h A análise final de OS cruzou o limite alpha para significância estatística (p <0,046).
+Figura 1: Sobrevida Livre de Progressão
+)
+%
+(
+o
+ã
+s
+s
+e
+r
+g
+o
+r
+P
+e
+d
+e
+r
+v
+i
+L
+e
+d
+a
+d
+i
+l
+i
+b
+a
+b
+o
+r
+P
+HR (IC de 97,61%): 0,68 (0,55, 0,85)
+Valor p: 0,0001
+No de Participantes em Risco
+Sobrevida Livre de Progressão (Meses)
+EMPLICITI_VPS_v05_14062021 5
+Bristol-Myers Squibb Farmacêutica LTDA.
+Figura 2: Sobrevida Global do Estudo CA204004
+)
+%
+(
+o
+v
+i
+V
+r
+a
+t
+s
+E
+e
+d
+e
+d
+a
+d
+i
+l
+i
+b
+a
+b
+o
+r
+P
+HR (IC de 95,4%): 0,82 (0,68, 1,00)
+Valor p: 0,0408
+Nº. de Participantes em Risco
+OS (Meses)
+Com um tempo mínimo de acompanhamento de 23,4 meses, as taxas de PFS de 1 e 2 anos para
+EMPLICITI® em associação com o tratamento com lenalidomida e dexametasona foram de 68% e
+39%, respectivamente, em comparação com 56% e 26%, respectivamente, para o tratamento com
+lenalidomida e dexametasona. Com um tempo mínimo de acompanhamento de 33 meses, a taxa de
+PFS de 3 anos foi de 26% e 18%, respectivamente, para o tratamento com lenalidomida e
+dexametasona.
+Com um tempo mínimo de acompanhamento de 70,6 meses, as taxas de OS de 1, 2,3, 4 e 5 anos
+para EMPLICITI® em associação com o tratamento com lenalidomida e dexametasona foram de 91%,
+73%,60%, 50% e 40%, respectivamente, em comparação com 83%, 69%, 53% 43% e 33%,
+respectivamente, para o tratamento com lenalidomida e dexametasona.
+Os ganhos observados em PFS foram consistentes entre os subconjuntos, independentemente da
+categoria citogenética (presença ou ausência das categorias citogenética del17p ou t (4; 14)), idade (<
+65 versus ≥ 65), estágio do ISS, exposição imunomodulatória prévia ao agente, exposição prévia ao
+bortezomibe, status recidivado ou refratário, ou função renal.
+EMPLICITI_VPS_v05_14062021 6
+Bristol-Myers Squibb Farmacêutica LTDA.
+EMPLICITI® em associação com pomalidomida e dexametasona (Estudo CA204125) 2
+Este estudo randomizado e aberto foi conduzido para avaliar a eficácia e a segurança de EMPLICITI®
+em associação com pomalidomida e dexametasona em pacientes com mieloma múltiplo refratário ou
+recidivado que receberam pelo menos duas terapias prévias incluindo lenalidomida e um inibidor de
+proteassoma (IP) e apresentaram progressão da doença dentro de até 60 dias da última terapia.
+Pacientes foram considerados refratários se tinham progredido durante ou em até 60 dias do
+tratamento com lenalidomida e um IP e durante ou em até 60 dias da última terapia, ou recidivado e
+refratário se tinham alcançado pelo menos resposta parcial à última terapia com lenalidomida e um IP
+mas progrediram dentro de 6 meses e desenvolveram doença progressiva em até 60 dias após
+completar o seu último tratamento. Pacientes com neuropatia periférica de grau 2 ou maior foram
+excluídos do estudo.
+dias após completar o seu último tratamento. Pacientes com neuropatia periférica de grau 2 ou maior
+foram excluídos do estudo.
+Os pacientes elegíveis foram randomizados na razão 1:1 para receber:
+- EMPLICITI® em associação com pomalidomida e baixa dosagem de dexametasona ou
+- pomalidomida e baixa dosagem de dexametasona.
+O tratamento foi administrado em ciclo de 4 semanas até a progressão da doença ou toxicidade
+inaceitável.
+EMPLICITI® 10mg/kg foi administrado por via intravenosa a cada semana durante os 2 primeiros
+ciclos e, posteriormente, na dosagem de 20mg/kg a cada 4 semanas.
+Antes da infusão de EMPLICITI®, dexametasona foi administrada nos dias 1, 8, 15 e 22 de cada ciclo.
+Nas semanas com infusão de EMPLICITI®, a dexametasona foi administrada como uma dose dividida:
+pacientes com 75 anos ou menos receberam uma dose oral de 28 mg e uma dose intravenosa de 8
+mg, e pacientes com mais de 75 anos receberam uma dose oral de 8 mg e uma dose intravenosa de
+8 mg. Nas semanas sem infusão de EMPLICITI® e no grupo controle, foi administrada uma dose oral
+de dexametasona 40mg em pacientes com 75 anos ou menos e uma dose oral de dexametasona
+20mg em pacientes com mais de 75 anos. A avaliação da resposta tumoral foi realizada a cada 4
+semanas.
+No total, 117 pacientes foram randomizados para receber o tratamento: 60 para EMPLICITI® em
+associação com pomalidomida e baixa dosagem de dexametasona e 57 para pomalidomida e baixa
+dosagem de dexametasona.
+As características basais e demográficas ficaram bem equilibradas entre os grupos de tratamento. A
+média de idade era 67 anos (variação de 36 a 81); 62% dos pacientes tinham mais de 65 anos; 57%
+dos pacientes eram homens; brancos compreenderam 77% da população do estudo, asiáticos 21% e
+negros 1%. O Sistema Internacional de Estadiamento (ISS) foi I para 50%, II em 38% e III em 12%
+dos pacientes. As anormalidades cromossômicas conforme determinado pelo FISH de del (17p),
+t(4;14) e t(14;16) estavam presentes em 5%, 11% e 7% dos pacientes, respectivamente. 11 (9,4%)
+dos pacientes tiveram mieloma de alto risco. O número médio de terapias anteriores foi 3. 87% dos
+pacientes eram refratários à lenalidomida, 80% refratários à PI e 70% eram refratários a ambos
+lenalidomida e PI. Terapias anteriores incluíram melfalano (63%), carfilzomibe (21%), ixazomibe (6%),
+e daratumumabe (3%).
+EMPLICITI_VPS_v05_14062021 7
+Bristol-Myers Squibb Farmacêutica LTDA.
+Os desfechos primários deste estudo, sobrevida livre de progressão (PFS) e taxa de resposta global
+(ORR), foram avaliados pelo investigador, seguindo os critérios modificados do International Myeloma
+Working Group (IMWG). O número mediano de ciclos de tratamento foi de 9 para o grupo com
+EMPLICITI® e 5 para o braço comparador com um período de acompanhamento mínimo de 9,1
+meses.
+A sobrevida global (OS) foi o desfecho secundário chave do estudo. Em 11 de janeiro de 2021 (DBL
+de 22 de fevereiro de 2021), com um período de acompanhamento de 45 meses, um total de 23
+(38,3%) dos pacientes no braço E-Pd e 16 (28,1%) dos pacientes estavam vivos. E-Pd demonstrou
+uma melhora em OS estatística e clinicamente significativa comparada a pacientes no braço Pd com
+MMRR que receberam pelo menos duas terapias anteriores, incluindo lenalidomida e um PI.
+Os resultados de eficácia de acordo com o investigador e com o Comitê de Revisão Independente são
+mostrados na Tabela 3 e na Figura 3.
+EMPLICITI_VPS_v05_14062021 8
+Bristol-Myers Squibb Farmacêutica LTDA.
+Tabela 3: Resultados de Sobrevida Livre de Progressão e Sobrevida Gl obal
+do Estudo CA204125
+Avaliação do Comitê de
+Avaliação do Investigador
+Revisão Independente
+E-Pd Pd E-Pd Pd
+N = 60 N = 57 N = 60 N = 57
+PFS (ITT)
+Razão de Risco [IC de 95%] 0,54 [0,34; 0,86] 0,51 [0,32; 0,82]
+Valor p do teste de
+0,0078 0,0043
+classificação
+logarítmica estratificadoa
+PFS mediana em meses [IC 10,25 4,67 10,25 4,70
+de [5,59; NE] [2,83; 7,16] [6,54; NE] [2,83; 7,62]
+95%]
+Resposta
+Resposta Global (ORR)b n (%) 32 (53,3) 15 (26,3) 35 (58,3) 14 (24,6)
+[IC de 95%] [40,0; 66,3] [15,5; 39,7] [44,0; 70,9] [14,1; 37,8]
+Valor pc 0,0029 0,0002
+Resposta Completa (CR + 5 (8,3) 1 (1,8) 0 (0,0) 0 (0,0)
+sCR)b,e n (%)
+Resposta Parcial Muito Boab 7 (11,7) 4 (7,0) 9 (15,0) 5 (8,8)
+(VGPR) n (%)
+Resposta Parcial (RR/PR)b n 20 (33,3) 10 (17,5) 26 (43,3) 9 (15,8)
+(%)
+Respostas Combinadas (CR +
+12 (20,0) 5 (8,8) 9 (15,0) 5 (8,8)
+sCR + VGPR)b n (%)
+aValor p baseado no teste de classificação logarítmica estratificado por estágio da doença no início do estudo
+(International Staging System I-II vs III) e número de linhas prévias de terapia (2-3 vs> = 4) e terapia na
+randomização.
+bCritérios modificados do International Myeloma Working Group (IMWG)
+cValor p baseado no teste quiquadrado de Cochran-Mantel-Haenszel estratificado por estágio da doença na
+inclusão do estudo (International Staging System I-II vs III) e número de linhas prévias de terapia (2-3 vs> =
+4) e terapia na randomização.
+dResposta completa (CR) + resposta completa estrita (sCR)
+e As taxas de resposta completa no grupo EMPLICITI® podem estar subestimadas devido à interferência do
+ensaio imunofixação e eletroforese.
+NE= não estimável
+EMPLICITI_VPS_v05_14062021 9
+Bristol-Myers Squibb Farmacêutica LTDA.
+Conforme observado na Tabela 3, os resultados da análise primária de PFS mostram uma melhoria
+estatisticamente significativa na PFS para E-Pd em comparação com Pd (HR 0,54, IC de 95% 0,34-
+0,86, p = 0,0078), com um ganho na PFS mediana de cerca de 5,58 meses a favor do E-Pd (PFS
+mediana de 10,25 vs 4,67 meses, respectivamente). A melhora observada na PFS é considerada de
+relevância clínica potencial quando apoiada por desfechos secundários e por um perfil de toxicidade
+tolerável.
+Tabela 4. Sobrevida Global do estudo CA204125
+E-Pd Pd
+N = 60 N = 57
+Sobrevida Global (OS)a 0,59 [0,37; 0,93]
+Razão de Risco [IC de 95%] 0,00217c
+Valor p do teste de classif icação 68
+logarítmica estratificadob
+Taxa de OS 1-ano (%) [95% IC] 79 6 8
+(67;88) (53;79)
+Taxa de OS 2-anos (%) [95% IC] 63 44
+(49; 74) (30;57)
+Taxa de OS 3-anos (%) [95% IC] 39 29
+(26;51) (18; 42)
+OS mediana em meses (95% IC) 29,80 17,41
+(22,87; 45,67) (13,83; 27,70)
+a Uma análise final pré-especificada de OS foi realizada com base nas últimas 78 mortes (tempo de
+acompanhamento mínimo de 45 meses).
+b p-valor baseado no teste de classificação logarítmica estratificado por estágio de doença na entrada
+do estudo (International Staging System I-II vs III) e número de linhas de terapia prévias de terapia
+(2,3 vs > 4) na randomização.
+c A análise final de OS cruzou a barreira pré-determinada alfa para significância estatística (p ≤ 0,20)
+bem como rigoroso nível 0,05.
+Figura 3: Sobrevida Livre de Progressão CA204125
+EMPLICITI_VPS_v05_14062021 10
+Bristol-Myers Squibb Farmacêutica LTDA.
+)
+%
+(
+o
+ã
+s
+s
+e
+r
+g
+o
+r
+P
+e
+d
+e
+r
+v
+i
+L
+e
+d
+a
+d
+i
+l
+i
+b
+a
+b
+o r HR (IC de 95%): 0,54 (0,34, 0,86)
+P
+Valor p: 0,0078
+Sobrevida Livre de Progressão (INV, ITT) (Meses)
+No de Participantes em R isco
+Os ganhos
+observado
+s em PFS foram consistentes entre os subgrupos, apesar do número limitado de indivíduos em cada
+subgrupo independentemente da idade (<65 versus ≥65), raça, sexo, estágio do ISS, terapias
+anteriores, transplante, categorias de risco, status de ECOG, depuração de creatinina e
+anormalidades cromossômicas.
+EMPLICITI_VPS_v05_14062021 11
+Bristol-Myers Squibb Farmacêutica LTDA.
+Figura 4: Sobrevida Global CA204125
+)
+%
+(
+o
+v
+i
+V
+r
+a
+t
+s
+E
+e
+d
+e
+d
+a
+d
+i
+l
+i
+b
+a
+b
+o
+r
+P
+OS (Meses)
+No de Participantes em Risco
+E-Pd (eventos: 37/60), mediana e 95% IC: 29,80 (22,87; 45,67)
+Pd (eventos: 41/57), mediana e 95% IC: 17,41 (13,83; 27,70)
+E-Pd vs Pd – razão de riscos e 95% IC: 0,59 (0,37; 0,93)
+80% IC: 0,59 (0,44; 0,79), p-valor: 0,0217
+EMPLICITI_VPS_v05_14062021 12
+Bristol-Myers Squibb Farmacêutica LTDA.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades farmacodinâmicas
+Mecanismo de ação
+Elotuzumabe é um anticorpo monoclonal IgG1 humanizado imunoestimulatório, que tem como alvo
+específico a proteína SLAMF7 (Molécula de Ativação de Sinalização Linfocitária F7). A SLAMF7 é
+altamente expressa em células do mieloma independente de anormalidades citogenéticas. A SLAMF7
+também é expressa em células Natural Killer, células plasmáticas e, em níveis significativamente mais
+baixos, em subconjuntos específicos de células imunológicas, mas não é detectada em tecidos
+sólidos normais ou células-tronco hematopoiéticas.
+Elotuzumabe ativa diretamente as células Natural Killer tanto por meio da via de SLAMF7 quanto dos
+receptores de Fc, acentuando sua atividade antimieloma in vitro. Elotuzumabe também tem como alvo
+SLAMF7 em células do mieloma e facilita a interação com células Natural Killer para mediar a morte
+de células do mieloma por meio de citotoxicidade celular dependente de anticorpos (ADCC) e
+fagocitose celular dependentes de anticorpos (ADCP). Em modelos pré-clínicos, elotuzumabe
+demonstrou atividade sinérgica quando associado com lenalidomida.
+Eletrofisiologia Cardíaca
+Nenhuma alteração no intervalo QT médio foi detectada nos pacientes tratados com EMPLICITI® com
+base no método da correção de Fridericia. O efeito potencial de elotuzumabe no prolongamento do
+intervalo QTc foi avaliado em 41 pacientes em doses de 10 e 20 mg/kg como monoterapia ou em
+associação com lenalidomida e dexametasona. A análise dos dados clínicos da concentração sérica
+de elotuzumabe e de ECG não demonstrou efeito significativo de EMPLICITI® na repolarização
+cardíaca. Nenhum dos estudos mostrou quaisquer alterações clinicamente relevantes causadas por
+EMPLICITI® na frequência cardíaca, duração de PR ou de QRS como medidas do estado autônomo,
+condução atrioventricular ou despolarização; não houve casos de Torsades de Pointes.
+Propriedades farmacocinéticas
+A farmacocinética de elotuzumabe foi estudada nos pacientes com mieloma múltiplo que receberam
+doses variando de 0,5 a 20 mg/kg. Elotuzumabe apresenta farmacocinética não linear com clearance
+de elotuzumabe decrescente de 17,5 a 5,8 mL/dia/kg com aumento na dose de 0,5 a 20 mg/kg,
+sugerindo clearance alvo-mediado, resultando em aumentos maiores do que o proporcional na área
+sob a curva de concentração-tempo (AUC). O volume de distribuição de elotuzumabe aproximou-se
+do volume sérico, e pareceu ser independente da dose. Após a descontinuação de elotuzumabe, as
+concentrações diminuirão para aproximadamente 3% (aproximadamente 97% de washout) da
+concentração sérica máxima de estado de equilíbrio prevista da população por 3 meses. A
+administração de elotuzumabe 10 mg/kg resultou em concentrações de vale em estado de equilíbrio
+acima de 70 µg/mL, a concentração limite alvo para eficácia máxima observada no modelo pré-clínico
+realizado em camundongos com xenotransplante de mieloma múltiplo humano
+Populações especiais
+Com base em uma análise farmacocinética da população utilizando dados de 440 pacientes, o
+clearance de elotuzumabe aumentou com o peso corporal crescente, corroborando uma dose
+baseada no peso. A análise farmacocinética da população sugeriu que os seguintes fatores não
+tiveram efeito clinicamente importante no clearance de elotuzumabe: idadegênero, raça, LDH basal,
+albumina, comprometimento renal e comprometimento hepático leve. A depuração mediada pelo alvo
+de elotuzumabe aumentou com concentrações mais altas de proteína-M do soro.
+EMPLICITI_VPS_v05_14062021 13
+Bristol-Myers Squibb Farmacêutica LTDA.
+Comprometimento renal
+Um estudo aberto avaliou a farmacocinética de elotuzumabe em associação com lenalidomida e
+dexametasona nos pacientes com mieloma múltiplo com graus variáveis de comprometimento renal
+(classificado utilizando valores de CrCl). O efeito do comprometimento renal na farmacocinética de
+elotuzumabe foi avaliado nos pacientes com função renal normal (CrCl > 90 mL/min; n=8),
+comprometimento renal grave não exigindo diálise (CrCl <30 mL/min; n=9), ou doença renal em
+estágio terminal exigindo diálise (CrCl < 30 mL/min; n=9). Nenhuma diferença clinicamente importante
+na farmacocinética de elotuzumabe foi encontrada entre pacientes com comprometimento renal grave
+(com e sem diálise) e pacientes com função renal normal (veja 5 ADVERTÊNCIAS E PRECAUÇÕES,
+Comprometimento renal).
+Comprometimento hepático
+O efeito do comprometimento hepático no clearance de elotuzumabe foi avaliado por análises de
+farmacocinética da população nos pacientes com comprometimento hepático leve (bilirrubina total
+[TB] menor do que ou igual ao limite superior da normalidade [ULN] e AST maior do que ULN, ou TB
+menor do que 1 a 1,5 vezes ULN e qualquer AST; n=33). Nenhuma diferença clinicamente importante
+no clearance de EMPLICITI® foi encontrada entre pacientes com comprometimento hepático leve e
+pacientes com função hepática normal. Elotuzumabe não foi estudado nos pacientes com
+comprometimento hepático moderado (TB maior do que 1,5 a 3 vezes ULN e qualquer AST) ou grave
+(TB maior do que 3 vezes ULN e qualquer AST) (veja 5 ADVERTÊNCIAS E PRECAUÇÕES,
+Comprometimento hepático).
+4. CONTRAINDICAÇÕES
+Hipersensibilidade ao princípio ativo ou a qualquer um dos excipientes.
+EMPLICITI® é utilizado em associação com outras medicações, portanto, as contraindicações
+aplicáveis àquelas medicações aplicam-se também à terapia de associação de EMPLICITI®. As
+informações de prescrição para todas as medicações utilizadas em associação com
+EMPLICITI® devem ser consultadas antes de começar a terapia.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Reação infusional
+EMPLICITI® pode causar reações infusionais. As reações infusionais foram relatadas em
+aproximadamente 10% dos pacientes tratados com EMPLICITI®, lenalidomida e dexametasona no
+Estudo CA204004 e em 7% dos pacientes tratados com EMPLICITI®, bortezomibe e dexametasona
+no Estudo CA204009. Todos os relatos de reação infusional foram de Grau ≤ 3. Reações infusionais
+de Grau 3 ocorreram em 1% dos pacientes no Estudo CA204004 e em nenhum paciente no Estudo
+CA204009. Os sintomas mais comuns de uma reação infusional incluíram febre, calafrios e
+hipertensão. No Estudo CA204004, 5% dos pacientes necessitaram interrupção da administração de
+EMPLICITI® devido à reação infusional por uma mediana de 25 minutos e 1% dos pacientes
+descontinuou devido às reações infusionais. No Estudo CA204004, 20% dos pacientes necessitaram
+interrupção da administração de EMPLICITI® por uma mediana de 40 minutos e nenhum descontinuou
+devido às reações infusionais. Dos pacientes que apresentaram uma reação infusional, 70% (23/33)
+no Estudo CA204004 e 80% (4/5) no Estudo CA204009 apresentaram-na durante a primeira dose.
+Reações infusionais foram relatadas em aproximadamente 3% dos pacientes tratados com
+EMPLICITI® em associação com pomalidomida e dexametasona no estudo CA204125. Todos os
+relatos de reação infusional foram de Grau 1 ou 2 e ocorreram durante o primeiro ciclo de tratamento.
+Neste estudo, nenhum paciente interrompeu o tratamento devido a uma reação infusional.
+EMPLICITI_VPS_v05_14062021 14
+Bristol-Myers Squibb Farmacêutica LTDA.
+Medicação à base de dexametasona, bloqueador de H1, bloqueador de H2 e paracetamol deve ser
+administrada antes da infusão de EMPLICITI® (veja 8 POSOLOGIA E MÉTODOS DE
+ADMINISTRAÇÃO, Pré-medicação).
+Em caso de uma reação infusional de Grau ≥ 2, a infusão de EMPLICITI® deve ser interrompida e
+medidas médicas e de suporte apropriadas instituídas. Os sinais vitais devem ser monitorados a cada
+30 minutos por 2 horas após o final da infusão de EMPLICITI®. Uma vez que a reação tenha sido
+resolvida (Grau ≤ 1), EMPLICITI® pode ser reiniciado à velocidade inicial de infusão de 0,5 mL por
+minuto. Caso os sintomas não recidivem, a velocidade de infusão pode ser gradualmente escalonada
+a cada 30 minutos a um máximo de 5 mL por minuto (veja 8 POSOLOGIA E MÉTODOS DE
+ADMINISTRAÇÃO, Atraso, interrupção ou descontinuação da dose).
+Reações infusionais muito graves podem exigir descontinuação permanente da terapia com
+EMPLICITI® e tratamento de emergência. Pacientes com reações leves à infusão podem receber
+EMPLICITI® com uma velocidade de infusão reduzida e monitoramento rigoroso.
+Produtos utilizados em associação com EMPLICITI®
+EMPLICITI® é utilizado em associação com outros medicamentos; portanto, as advertências e
+precauções aplicáveis ao uso daqueles medicamentos também se aplicam à terapia em associação
+com EMPLICITI®, incluindo risco potencial de dano fetal, presença e transmissão no sêmen e no
+sangue e proibições para doação de sangue e/ou esperma. As informações de bula para todos
+os medicamentos utilizados em associação com EMPLICITI® devem ser consultadas antes de
+começar a terapia.
+Infecções
+A incidência de infecções, incluindo pneumonia, foi maior com o tratamento com EMPLICITI® do que o
+tratamento controle nos estudos clínicos realizados. No estudo clínico CA204004 (N=635), infecções
+foram reportadas em 81,4% dos pacientes no braço de tratamento com EMPLICITI® combinado com
+lenalidomida e dexametasona (E-Ld) e em 74,4% no de lenalidomida e dexametasona (Ld). Infecções
+Graus 3-4 foram notadas em 28% e 24,3% dos pacientes tratados com E-Ld e Ld, respectivamente.
+Infecções fatais foram infrequentes e foram reportadas em 2,5% dos pacientes tratados com E-Ld e
+2,2% com Ld. Infecções oportunistas foram reportadas em 22% dos pacientes no braço E-Ld e 12,9%
+dos pacientes no braço Ld. Infecções fúngicas ocorreram em 9,7% dos pacientes no braço E-Ld e
+5,4% dos pacientes no braço Ld. Herpes zoster foi reportada em 13,5% dos pacientes tratados com E-
+Ld e 6,9% dos pacientes tratados com Ld.
+No estudo clínico CA204125 (N = 115), infecções foram relatadas em 65% dos pacientes no braço
+recebendo EMPLICITI® em associação com pomalidomida e dexametasona (E-Pd) e 65,5% no braço
+de pomalidomida e dexametasona (Pd). Infecções de grau 3 - 4 foram observadas em 13,3% e 21,8%
+dos pacientes tratados com E-Pd e Pd, respectivamente. Descontinuações devido a infecções
+ocorreram em 6,7% dos pacientes tratados com E-Pd e 5,5% dos pacientes tratados com Pd.
+Infecções fatais foram relatadas em 5,0% e 3,6% dos pacientes tratados com E-Pd e Pd.
+O monitoramento dos pacientes para o desenvolvimento de infecções e o tratamento imediato devem
+ser realizados.
+Segundo tumor primário
+Em um estudo clínico com pacientes com mieloma múltiplo (N=635), o surgimento do segundo tumor
+primário foi observado em 9,1% dos pacientes tratados com E-Ld e em 5,7% dos pacientes tratados
+EMPLICITI_VPS_v05_14062021 15
+Bristol-Myers Squibb Farmacêutica LTDA.
+com Ld. A taxa de neoplasias hematológicas foi a mesma entre os braços de tratamento E-Ld e Ld
+(1,6%). Tumores sólidos foram reportados em 3,5% e 2,2% dos pacientes tratados com E-Ld e Ld,
+respectivamente. Câncer de pele foi reportado em 4,4% e 2,8% dos pacientes tratados com E-Ld e
+Ld, respectivamente, O monitoramento dos pacientes para o desenvolvimento de segundo tumor
+primário deve ser realizado.
+Hepatotoxicidade
+Elevações nas enzimas hepáticas (aspartato aminotransferase/ alanina aminotransferase [AST/ALT]
+maior que 3 vezes o limite superior, bilirrubina total maior que 2 vezes o limite superior e fosfatase
+alcalina menor que 2 vezes o limite superior) consistentes com hepatotoxicidade foram reportadas em
+2,5% e 0,6% dos pacientes tratados com E-Ld e Ld em um estudo clínico de pacientes com mieloma
+múltiplo (n=635). Dois pacientes que apresentaram hepatotoxicidade não foram capazes de continuar
+o tratamento; entretanto, 6 de 8 pacientes melhoraram e foram capazes de continuar o tratamento.
+Deve-se monitorar as enzimas hepáticas periodicamente. Pare EMPLICITI® se as enzimas hepáticas
+se elevarem a um Grau 3 ou mais. Após o retorno aos valores basais, a continuação do tratamento
+pode ser considerada.
+Este medicamento pode causar hepatotoxicidade. Por isso, requer uso cuidadoso, sob
+vigilância médica estrita e acompanhado por controles periódicos da função hepática.
+Interferência na Determinação da Resposta Completa
+EMPLICITI® é um anticorpo monoclonal humanizado IgG kappa que pode ser detectado em ambos os
+ensaios de eletroforese de proteína sérica (SPEP) e imunofixação (IFE) usados para monitoramento
+clínico da proteína-M endógena (veja 6. INTERÇÕES MEDICAMENTOSAS). Esta interferência pode
+impactar na determinação da resposta completa e possivelmente recidiva de uma resposta completa
+em pacientes com proteína do mieloma IgG kappa.
+Uso pediátrico
+A segurança e a efetividade de EMPLICITI® não foram estabelecidas em pacientes pediátricos.
+Uso geriátrico
+Dos 785 pacientes nos grupos de tratamento nos Estudos CA204004 e CA204009, 57% tinham ≥ 65
+anos de idade; o número de pacientes com idade ≥ 65 anos foi semelhante entre os grupos de
+tratamento para qualquer dos estudos. Não se observou diferença global na segurança ou na eficácia
+entre pacientes com idade ≥ 65 anos e mais jovens (< 65 anos) em qualquer dos estudos.
+Dos 117 pacientes nos grupos de tratamento no Estudo CA204125, 62% tinham ≥ 65 anos de idade; o
+número de pacientes com idade ≥ 65 anos foi semelhante entre os grupos de tratamento. Não foi
+possível determinar se a resposta em indivíduos acima de 65 anos de idade seria diferente de
+indivíduos mais jovens, devido ao pequeno número de indivíduos acima de 65 anos de idade incluídos
+no estudo.
+Comprometimento renal
+Em um estudo avaliando EMPLICITI® nos pacientes com comprometimento renal, a farmacocinética
+de elotuzumabe em associação com lenalidomida e dexametasona não diferiu significativamente entre
+pacientes com função renal normal, comprometimento renal grave não exigindo diálise ou doença
+renal em estágio terminal exigindo diálise. Ajustes na dose de EMPLICITI® não são necessários nos
+pacientes com comprometimento renal leve, moderado, grave ou em doença renal em estágio
+terminal exigindo diálise (veja 3. CARACTERÍSTICAS FARMACOLÓGICAS, Propriedades
+farmacocinéticas).
+EMPLICITI_VPS_v05_14062021 16
+Bristol-Myers Squibb Farmacêutica LTDA.
+Comprometimento hepático
+EMPLICITI® é um anticorpo monoclonal IgG1, que é provavelmente eliminado por meio de diversas
+vias semelhantes àquelas de outros anticorpos. Não se espera que a excreção hepática exerça um
+papel dominante na excreção de EMPLICITI®. Com base em uma análise farmacocinética da
+população, nenhum ajuste na dose de EMPLICITI® é recomendado para pacientes com
+comprometimento hepático leve. EMPLICITI® não foi estudado nos pacientes com comprometimento
+hepático moderado ou grave (veja 3. CARACTERÍSTICAS FARMACOLÓGICAS, Propriedades
+farmacocinéticas).
+Gravidez
+Estudos de reprodução animal não foram conduzidos com elotuzumabe. Também não se sabe se
+elotuzumabe pode causar dano fetal quando administrado a uma mulher grávida ou se pode afetar a
+capacidade de reprodução. EMPLICITI® não é recomendado durante a gravidez ou nas mulheres em
+idade fértil que não utilizam contracepção eficaz, a menos que o benefício clínico compense o risco
+potencial. Mulheres em idade fértil devem ser aconselhadas a evitar engravidar enquanto receberem
+tratamento com EMPLICITI®.
+Categoria C: Este medicamento não deve ser utilizado por mulheres grávidas sem orientação
+médica ou do cirurgião-dentista.
+Uso com medicamentos em associação
+Quando EMPLICITI® é utilizado com lenalidomida ou pomalidomida, há um risco de dano fetal,
+incluindo defeitos de nascimento graves em humanos com risco à vida associados a estes agentes,
+exigindo a prevenção de gravidez, realização testes e contracepção. A lenalidomida e a pomalidomida
+estão presente no sangue e no sêmen dos pacientes recebendo o medicamento. Consulte as
+informações de bula para as precauções a respeito de contracepção devido à presença e
+transmissão da lenalidomida e da pomalidomida no sêmen e para detalhes adicionais.
+EMPLICITI® é utilizado também com dexametasona. Consulte as informações de bula deste
+medicamento para mais detalhes.
+Amamentação
+Não se sabe se EMPLICITI® é secretado no leite humano. Os dados publicados sugerem que os
+anticorpos no leite materno não entram na circulação de neonatos e lactentes em quantidades
+substanciais. Entretanto, devido ao potencial de reações adversas em lactentes, deve-se decidir
+quanto a descontinuar a amamentação ou a terapia de EMPLICITI®, levando em consideração o
+benefício da amamentação para a criança e o benefício da terapia com EMPLICITI® para a mulher.
+Uso criterioso no aleitamento ou na doação de leite humano. O uso deste medicamento no
+período da lactação depende da avaliação e acompanhamento do seu médico ou cirurgião-
+dentista.
+Carcinogênese, mutagênese, comprometimento da fertilidade
+Não há dado de carcinogenicidade ou de mutagenicidade disponível para elotuzumabe em animais ou
+seres humanos. Não foram realizados estudos de fertilidade para elotuzumabe. Assim, o efeito de
+elotuzumabe na fertilidade masculina e feminina é desconhecido.
+EMPLICITI_VPS_v05_14062021 17
+Bristol-Myers Squibb Farmacêutica LTDA.
+Efeitos sobre a capacidade de dirigir e utilizar máquinas
+Nenhum estudo sobre os efeitos na capacidade de dirigir e utilizar máquinas foi realizado. Com
+base em suas propriedades farmacodinâmicas, é improvável que elotuzumabe afetar a
+capacidade de dirigir e utilizar máquinas.
+Atenção: Este produto contém açúcar, portanto, deve ser utilizado com cuidado em indivíduos
+diabéticos.
+6. INTERAÇÕES MEDICAMENTOSAS
+Nenhum estudo farmacocinético formal de interação medicamentosa foi realizado com EMPLICITI®.
+Elotuzumabe é um anticorpo monoclonal humanizado. Como os anticorpos monoclonais não são
+metabolizados por enzimas do citocromo P450 (CYP) ou outras enzimas metabolizadoras de
+medicamento, não se prevê que a inibição ou indução destas enzimas por medicamentos
+administrados em associação afete a farmacocinética de elotuzumabe. Além disso, não se espera que
+elotuzumabe tenha efeito em CYP ou em outras enzimas metabolizadoras de medicamento em
+termos de inibição ou indução. Portanto, não se espera que elotuzumabe apresente interações
+baseadas na farmacocinética.
+Interferência no Teste Laboratorial
+EMPLICITI® pode ser detectado nos ensaios SPEP e de imunofixação sérica de pacientes com
+mieloma e pode interferir na correta classificação da resposta. Um pequeno pico na região gamma
+inicial no SPEP que é IgGƙ na imunofixação sérica pode ser potencialmente ser atribuído ao
+EMPLICITI®, particularmente em pacientes cuja proteína de mieloma endógena é IgA, IgM,IgD ou
+cadeia leve de lambda restrita. Esta interferência pode impactar na determinação da resposta
+completa e possivelmente recidiva de uma resposta completa em pacientes com proteína de mieloma
+IgG kappa (veja 5. ADVERTÊNCIAS E PRECAUÇÕES).
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar EMPLICITI® (elotuzumabe) na embalagem original em geladeira (2°C a 8°C). Não
+congelar. Não agitar. Proteger da luz.
+Após reconstituição e diluição: Transferir a solução reconstituída do frasco para a bolsa de infusão
+imediatamente. A estabilidade química e física em uso da solução reconstituída e diluída foi
+demonstrada por 24 horas a 2oC a 8oC e protegido da luz. Do ponto de vista microbiológico, a solução
+para infusão deve ser utilizada imediatamente. Se não for utilizada imediatamente, o tempo e
+condições de armazenamento em uso antes da utilização são de responsabilidade do usuário e
+normalmente não devem ser maiores que 24 horas a 2oC a 8oC, protegido da luz. Não congelar a
+solução reconstituída ou diluída.
+Não conservar para reutilização qualquer porção não utilizada do produto.
+Prazo de validade: 36 meses após a data de fabricação para o frasco-ampola fechado.
+Número de lote, data de fabricação e prazo de validade: vide embalagem
+Não utilize medicamentos com prazo de validade vencido. Mantenha-o em sua embalagem
+original.
+EMPLICITI_VPS_v05_14062021 18
+Bristol-Myers Squibb Farmacêutica LTDA.
+Após preparo, armazene sob refrigeração (2°C a 8°C) por não mais de 24 horas e com proteção
+da luz.
+Propriedades organolépticas e físicas
+EMPLICITI® é um pó liofilizado estéril, branco a esbranquiçado, sem conservante.
+A solução reconstituída é um líquido incolor a ligeiramente amarelo, essencialmente livre de partículas
+visíveis.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+EMPLICITI® deve ser administrado sob a supervisão de profissionais da saúde com experiência no
+tratamento do câncer.
+Os pacientes devem ser pré-medicados antes de cada dose de EMPLICITI® (veja Pré-medicação).
+Posologia
+EMPLICITI® em associação com lenalidomida e dexametasona
+A dosagem recomendada de EMPLICITI® é de 10 mg/kg administrados via intravenosa semanalmente
+nos primeiros dois ciclos e, posteriormente, a cada 2 semanas, em conjunto com a dosagem
+recomendada de lenalidomida e baixa dose de dexametasona como descrito abaixo. O tratamento
+deve continuar até progressão da doença ou toxicidade inaceitável.
+A dexametasona deve ser administrada como segue:
+• Nos dias em que EMPLICITI® é administrado, 28 mg por via oral, entre 3 e 24 horas antes de
+EMPLICITI®, mais 8 mg IV entre 45 e 90 minutos antes de EMPLICITI®.
+• Nos dias que EMPLICITI® não é administrado, mas uma dose de dexametasona está
+programada, ela deve ser de 40 mg por via oral.
+O esquema de administração é apresentado na Tabela 5.
+Tabela 5: Cronograma Recomendado de Administração de EMPLICITI® em
+Associação com lenalidomida e dexametasona
+Ciclo Ciclos de 28 Dias 1 e 2 Ciclos de 28 Dias 3+
+Dia do Ciclo 1 8 15 22 1 8 15 22
+Pré-medicação* ✓ ✓ ✓ ✓ ✓ ✓
+EMPLICITI® (mg/kg) IV 10 10 10 10 10 10
+lenalidomida† (25 mg) via oral Dias 1-21 Dias 1-21
+dexametasona‡ (mg) via oral 28 28 28 28 28 40 28 40
+Dexametasona* (mg) IV 8 8 8 8 8 8
+Dia do Ciclo 1 8 15 22 1 8 15 22
+EMPLICITI_VPS_v05_14062021 19
+Bristol-Myers Squibb Farmacêutica LTDA.
+* 45-90 minutos antes da infusão de EMPLICITI® pré-medique com 8 mg de dexametasona por via
+intravenosa, bloqueador de H1: difenidramina (25-50 mg via oral ou IV) ou equivalente; bloqueador de H2:
+ranitidina (50 mg IV) ou equivalente; paracetamol (650-1000 mg via oral).
+†
+Pelo menos 2 horas após a infusão de EMPLICITI®.
+‡
+Entre3 e 24 horas antes da infusão de EMPLICITI®: dexametasona oral (28 mg)
+EMPLICITI® em associação com pomalidomida e dexametasona
+A dosagem recomendada de EMPLICITI® é de 10 mg/kg administrados via intravenosa semanalmente
+nos ciclos 1 e 2 (ciclo de 28 dias). A partir do ciclo 3 (ciclo de 28 dias) a dosagem recomendada é de
+20 mg/kg administrados via intravenosa a cada 4 semanas. EMPLICITI® deve ser administrado em
+associação com a dose recomendada de pomalidomida e baixa dose de dexametasona como descrito
+abaixo. O tratamento deve continuar até progressão da doença ou toxicidade inaceitável.
+A dexametasona deve ser administrada como segue:
+• Nos dias em que EMPLICITI® é administrado, 28 mg por via oral, entre 3 e 24 horas antes de
+EMPLICITI®, mais 8 mg IV entre 45 e 90 minutos antes de EMPLICITI®, para pacientes com
+75 anos ou menos de idade;
+• Nos dias em que EMPLICITI® é administrado, 8 mg por via oral, entre 3 e 24 horas antes de
+EMPLICITI®, mais 8 mg IV entre 45 e 90 minutos antes de EMPLICITI®, para pacientes com
+75 anos ou mais de idade;
+• Nos dias que EMPLICITI® não é administrado, mas uma dose de dexametasona está
+programada (dias 8, 15 e 22 do ciclo 3 todos os ciclos subsequentes), ela deve ser de 40 mg
+por via oral para pacientes com 75 anos ou menos de idade e 20 mg por via oral para
+pacientes com mais de 75 anos de idade.
+O esquema de administração é apresentado na Tabela 6.
+Tabela 6: Cronograma Recomendado de Administração de EMPLICITI® em
+Associação com pomalidomida e dexametasona
+Ciclo Ciclos de 28 Dias 1 e 2 Ciclos de 28 Dias 3+
+Dia do Ciclo 1 8 15 22 1 8 15 22
+Pré-medicação* ✓ ✓ ✓ ✓ ✓
+EMPLICITI® (mg/kg) IV 10 10 10 10 20
+pomalidomida (4 mg) via oral Dias 1-21 Dias 1-21
+dexametasona‡ (mg) via oral 75
+28 28 28 28 28 40 40 40
+anos de idade
+dexametasona‡ (mg) via oral >75
+8 8 8 8 8 20 20 20
+anos de idade
+dexametasona** (mg) IV ≤ 75 anos
+8 8 8 8
+de idade
+dexametasona** (mg) IV >75 anos
+8 8 8 8
+de idade
+EMPLICITI_VPS_v05_14062021 20
+Bristol-Myers Squibb Farmacêutica LTDA.
+* 45-90 minutos antes da infusão de EMPLICITI® pré-medique com 8 mg de dexametasona por via
+intravenosa, bloqueador de H1: difenidramina (25-50 mg via oral ou IV) ou equivalente; bloqueador de H2:
+ranitidina (50 mg IV ou 150 mg via oral) ou equivalente; paracetamol (650-1000 mg via oral).
+†
+dexametasona via oral administrada entre 3 e 24 horas antes da infusão de EMPLICITI®.
+**
+dexametasona IV de 45 a 90 minutos antes da infusão de EMPLICITI®.
+Pré-medicação
+Dexametasona
+Quando elotuzumabe é utilizado em associação com lenalidomida ou pomalidomida, a dexametasona
+deve ser dividida em uma dose oral e intravenosa e administrada como mostrado na Tabela 5.
+Outras Medicações
+• Além de dexametasona, a seguinte pré-medicação deve ser administrada 45-90 minutos antes
+da infusão de EMPLICITI®:
+• bloqueador de H1: difenidramina (25 - 50 mg via oral ou IV) ou bloqueador equivalente de H1.
+• bloqueador de H2: ranitidina (50 mg IV ou 150 mg via oral) ou bloqueador equivalente de H2.
+• paracetamol (650 - 1000 mg via oral).
+Velocidade de Infusão para EMPLICITI®
+EMPLICITI® deve ser iniciado à velocidade de infusão de 0,5 mL por minuto. A velocidade de infusão
+pode ser aumentada de maneira gradual como descrita na Tabela 7, se não ocorrerem reações à
+infusão A velocidade de infusão máxima não deve exceder 5 mL por minuto.
+Tabela 7: Velocidade de Infusão para EMPLICITI® 10 mg/kg
+Ciclo 1, Dose 1 Ciclo 1, Dose 2 Ciclo 1, Doses 3 e 4
+E todos os Ciclos
+subsequentes
+Intervalo Velocidade Intervalo Velocidade Velocidade
+de Tempo de Tempo
+0 - 30 min 0,5 mL/min 0 - 30 min 3 mL/min
+30 - 60 min 1 mL/min ≥30 min 4 mL/min* 5 mL/min*
+≥60 min 2 mL/min* - -
+* Mantenha esta velocidade até que a infusão esteja concluída, aproximadamente 1 hora com base no peso
+do paciente.
+EMPLICITI_VPS_v05_14062021 21
+Bristol-Myers Squibb Farmacêutica LTDA.
+Tabela 8: Velocidade de Infusão para EMPLICITI® 20 mg/kg
+Dose 1 Dose 2 e todas as doses
+subsequentes
+Intervalo de Tempo Velocidade Velocidade
+0-30 min 3 mL/min
+5 mL/min*
+≥ 30min 4 mL/min
+*Continuar até que a velocidade de infusão seja completada.
+Para a velocidade de infusão após uma reação à infusão de Grau ≥ 2, veja Atraso, interrupção ou
+descontinuação da dose.
+Atraso, interrupção ou descontinuação da dose
+Se a dose de um medicamento no regime é atrasada, interrompida ou descontinuada, o tratamento
+com os outros medicamentos pode continuar como programado. Entretanto, se dexametasona for
+atrasada ou descontinuada, a administração de EMPLICITI® deve ser baseada no julgamento clínico
+(ou seja, risco de hipersensibilidade).
+Se uma reação infusional de Grau ≥ 2 ocorrer durante a administração de EMPLICITI®, a infusão deve
+ser interrompida. Com resolução para Grau ≤ 1, EMPLICITI® deve ser reiniciado a 0,5 mL/min e a
+velocidade pode ser gradualmente aumentada em 0,5 mL/min a cada 30 minutos, como tolerado, até
+a velocidade em que a reação infusional ocorreu. Se não houver recorrência da reação infusional, o
+regime de escalonamento poderá ser retomado (veja as Tabelas 7 e 8).
+Pacientes que apresentam uma reação infusional devem ter os sinais vitais monitorados a cada 30
+minutos por 2 horas após o final da infusão de EMPLICITI®. Se a reação infusional recidivar, a infusão
+de EMPLICITI® deve ser interrompida e não reiniciada nesse dia (veja 5 ADVERTÊNCIAS E
+PRECAUÇÕES, Reações de infusão). Reações infusionais muito graves podem exigir a
+descontinuação permanente da terapia com EMPLICITI® e tratamento de emergência.
+Atraso e modificação na dose para dexametasona, lenalidomida e pomalidomida devem ser
+realizados como indicado clinicamente.
+Método de administração
+Preparação da Dose
+Calcule a dose (mg) e determine o número de frascos-ampola necessários para a dose de 10 mg/kg
+com base no peso do paciente.
+Reconstitua assepticamente cada frasco-ampola de EMPLICITI® com uma seringa de tamanho
+adequado e agulhas de calibre 18 G ou menor (por exemplo, calibres 17G -15G) como mostrado na
+Tabela 9. Uma ligeira contrapressão pode ser apresentada durante a reconstituição com água para
+injeção estéril, o que é considerado normal.
+EMPLICITI_VPS_v05_14062021 22
+Bristol-Myers Squibb Farmacêutica LTDA.
+Tabela 9 Instruções de Reconstituição para EMPLICITI®
+Concentração Quantidade de Água para Volume final de Concentração
+injeção estéril (SWFI), EMPLICITI® reconstituído pós-
+grau USP, para no frasco-ampola reconstituição
+reconstituição (incluindo volume
+deslocado pelo bolo
+sólido)
+Frasco-ampola de 13,0 mL 13,6 mL* 25 mg/mL
+300 mg
+Frasco-ampola de 17,0 mL 17,6 mL* 25 mg/mL
+400 mg
+* Após a reconstituição, cada frasco-ampola contém excesso de enchimento para permitir a retirada
+de 12 mL (300 mg) e 16 mL (400 mg), respectivamente.
+Mantenha o frasco-ampola na posição vertical e misture a solução girando o frasco-ampola para
+dissolver o bolo liofilizado. Inverta o frasco-ampola algumas vezes para dissolver qualquer pó que
+possa estar presente no topo do frasco-ampola ou na tampa. Evite agitação vigorosa. NÃO AGITE. O
+pó liofilizado deve se dissolver em menos de 10 minutos.
+Após os sólidos restantes serem completamente dissolvidos, deixe a solução reconstituída em
+repouso por 5 a 10 minutos. A preparação reconstituída é uma solução incolor a ligeiramente amarela,
+límpida a ligeiramente opalescente. Medicamentos parenterais devem ser inspecionados visualmente
+quanto à presença de material particulado e descoloração antes da administração, sempre que a
+solução e o recipiente permitirem. Descarte a solução se qualquer material particulado ou
+descoloração for observado.
+• Diluição
+Uma vez que a reconstituição é concluída, retire o volume necessário para a dose calculada de cada
+frasco-ampola, até o máximo de 16 mL do frasco-ampola de 400 mg e de 12 mL do frasco-ampola de
+300 mg. Dilua a solução restante com cloreto de sódio 0,9% ou solução de glicose 5% em bolsa de
+infusão de PVC (cloreto de polivinila) ou de poliolefina. A solução final da infusão deverá variar entre
+1mg/mL e 6 mg/mL. O volume de solução de cloreto de sódio 0,9% ou de solução de glicose 5% pode
+ser ajustado de modo a não exceder 5 mL/kg do peso do paciente em qualquer dose fornecida de
+EMPLICITI®.
+Toda a infusão de EMPLICITI® deve ser administrada com um equipo de infusão e um filtro estéril,
+não pirogênico, de baixa ligação a proteínas (com tamanho de poro de 0,2-1,2 µm), utilizando bomba
+de infusão automática. EMPLICITI® deve ser iniciado à velocidade de infusão de 0,5 mL por minuto.
+Se bem tolerada, a velocidade de infusão pode ser aumentada de maneira gradual como descrito na
+Tabela 4. A velocidade de infusão máxima não deve exceder 5 mL por minuto.
+A infusão deve ser concluída dentro de 24 horas da reconstituição do pó liofilizado de EMPLICITI®. Se
+não utilizada imediatamente, a solução de infusão pode ser armazenada sob refrigeração: 2ºC a 8ºC e
+protegida da luz por até 24 horas.
+Não misture EMPLICITI®, ou o administre como uma infusão, com outros medicamentos. Nenhum
+estudo de compatibilidade física ou bioquímica foi conduzido para avaliar a coadministração de
+EMPLICITI® com outros agentes.
+EMPLICITI_VPS_v05_14062021 23
+Bristol-Myers Squibb Farmacêutica LTDA.
+9. REAÇÕES ADVERSAS
+Os dados de segurança descritos abaixo refletem a exposição a várias doses de EMPLICITI® em
+associação com outros agentes antimieloma (N=682). A maioria das reações adversas foi leve a
+moderada (Grau 1 ou 2).
+A reação adversa mais séria que pode ocorrer durante o tratamento com o elotuzumabe é pneumonia.
+As reações adversas mais comuns (ocorrendo em >10% dos pacientes) com o tratamento com
+elotuzumabe foram reação relacionada à infusão, diarreia, herpes zoster, nasofaringite, tosse,
+pneumonia, infecção do trato respiratório superior, linfopenia e perda de peso.
+As reações adversas relatadas nos pacientes com mieloma múltiplo que foram tratados com
+EMPLICITI® em estudos clínicos são apresentadas na Tabela 10.
+Estas reações são apresentadas por classe de sistema de órgãos e frequência. As frequências são
+definidas como: muito comum (≥ 1/10); comum (≥ 1/100 a < 1/10); incomum (≥ 1/1000 a < 1/100); rara
+(≥ 1/10000 a < 1/1.000); muito rara (< 1/10.000).
+Tabela 10: Reações Adversas nos Pacientes com Mieloma Múltiplo Tratados com
+EMPLICITI®
+Classe de Sistema e Reações Adversas Frequência global Frequência de
+Órgãos grau 3/4
+Infecções e Herpes zostera Comum Incomum
+infestações Nasofaringite Muito comum Nenhum reporte
+Pneumonia b Muito comum Comum
+Infecção do trato Muito comum Comum
+respiratório superior
+Distúrbios Linfopeniac Muito comum Comum
+hematológicos e do
+sistema linfático
+Distúrbios do sistema Reação anafilática Incomum Incomum
+imunológico Hipersensibilidade Comum Incomum
+Distúrbios Humor alterado Comum Nenhum reporte
+psiquiátricos
+Distúrbios do sistema Cefaleia Muito comum Incomum
+nervoso Hipoestesia Comum Incomum
+Distúrbios vasculares Trombose venosa Comum Comum
+profunda
+Distúrbios Tossed Muito Comum Incomum
+respiratórios, Dor orofaríngea Comum Nenhum reporte
+torácicos e do
+mediastino
+Distúrbios Diarreia Muito Comum Comum
+gastrointestinais
+Distúrbios da pele e Sudorese noturna Comum Nenhum reporte
+do tecido subcutâneo
+Distúrbios gerais e Dor torácica Comum Comum
+condições do local de Fadiga Muito comum Comum
+EMPLICITI_VPS_v05_14062021 24
+Bristol-Myers Squibb Farmacêutica LTDA.
+administração Pirexia Muito comum Comum
+Investigações Perda de peso Muito comum Incomum
+Lesões, intoxicação e Reação infusional Comum Incomum
+complicações no
+procedimento
+a O termo herpes zoster é um agrupamento dos seguintes termos: herpes zoster, herpes oral e infecção pelo
+vírus herpes.
+b O termo pneumonia é um agrupamento dos seguintes termos: pneumonia, pneumonia atípica,
+broncopneumonia, pneumonia lobar, pneumonia bacteriana, pneumonia fúngica, pneumonia por influenza e
+pneumonia pneumocócica.
+c O termo linfopenia inclui os seguintes termos: linfopenia e diminuição da contagem de linfócitos.
+d O termo tosse inclui os seguintes termos: tosse, tosse produtiva e síndrome da tosse do trato respiratório
+superior.
+As reações adversas que ocorreram com uma frequência de 10% ou mais no braço de EMPLICITI® e
+5% ou mais do que no braço de lenalidomida e dexametasona para o estudo randomizado em
+mieloma múltiplo está apresentado na Tabela 11.
+EMPLICITI_VPS_v05_14062021 25
+Bristol-Myers Squibb Farmacêutica LTDA.
+Tabela 11: Reações Adversas com Incidência de 10% ou Mais para Pacientes
+Tratados com EMPLICITI® e Incidência de 5% ou Mais para Pacientes
+Tratados com Lenalidomida e Dexametasona [Todos os Graus]
+EMPLICITI® + Lenalidomida e
+lenalidomida e dexametasona
+dexametasona
+N=318 N=317
+Termo primário Todos os Grau 3/4 Todos os Grau 3/4
+Graus Graus
+Fadiga* 61,6 12,6 51,7 11,7
+Diarreia 46,9 5,0 36,0 4,1
+Pirexia 37,4 2,5 24,6 2,8
+Constipação 35,5 1,3 27,1 0,3
+Tosse† 34,3 0,3 18,9 0
+Neuropatia Periférica‡ 26,7 3,8 20,8 2,2
+Nasofaringite 24,5 0 19,2 0
+Infecção do Trato Respiratório 22,6 0,6 17,4 1,3
+Superior
+Diminuição do Apetite 20,8 1,6 12,6 1,3
+Pneumonia§ 20,1 14,2 14,2 9,5
+Dor nas Extremidades 16,4 0,9 10,1 0,3
+Dor de Cabeça 15,4 0,3 7,6 0,3
+Vômito 14,5 0,3 8,8 0,9
+Perda de Peso 13,8 1,3 6,0 0
+Linfopenia 13,2 8,8 6,9 3,2
+Catarata 11,9 6,3 6,3 2,8
+Dor orofaríngea 10,1 0 4,4 0
+* O termo fadiga está agrupando os seguintes termos: fadiga e astenia.
+† O termo tosse está agrupando os seguintes termos: tosse, tosse produtiva e tosse do trato respiratório
+superior.
+‡ O termo neuropatia periférica está agrupando os seguintes termos: neuropatia periférica, neuropatia axial,
+neuropatia motora periférica, neuropatia sensorial periférica e polineuropatia.
+§ O termo pneumonia está agrupando os seguintes termos: pneumonia, pneumonia atípica, broncopneumonia,
+pneumonia lobar, pneumonia bacterial, pneumonia fúngica, pneumonia influenza e pneumonia pneumocócica.
+Imunogenicidade
+Como ocorre com todas as proteínas terapêuticas, há potencial para imunogenicidade a EMPLICITI® .
+EMPLICITI® em associação com lenalidomida e dexametasona
+Dos 390 pacientes tratados com EMPLICITI® em quatro estudos clínicos e avaliados quanto a
+presença de anticorpos antiproduto, 72 pacientes (18,5%) apresentaram resultado positivo para
+anticorpos antiproduto emergentes ao tratamento por um ensaio eletroquimioluminescente (ECL). Os
+anticorpos neutralizantes foram detectados em 19 de 299 pacientes no estudo CA204004. Na maioria
+dos pacientes, a imunogenicidade ocorreu no início do tratamento e foi transitória, sendo resolvida por
+volta de 2 a 4 meses. Não houve evidência causal clara de perfis farmacocinéticos, de eficácia ou de
+toxicidade alterados com desenvolvimento de anticorpo antiproduto baseado nas análises da
+população farmacocinética e da exposição-resposta.
+EMPLICITI_VPS_v05_14062021 26
+Bristol-Myers Squibb Farmacêutica LTDA.
+EMPLICITI® em associação com pomalidomida e dexametasona
+Dos 53 pacientes tratados com EMPLICITI® e avaliados quanto a presença de anticorpos antiproduto,
+19 pacientes (36%) apresentaram resultado positivo para anticorpos antiproduto emergentes ao
+tratamento por um ensaio ECL.
+Em todos esses 19 pacientes, anticorpos antiproduto ocorreram dentro dos dois primeiros meses do
+início do tratamento com EMPLICITI®, sendo resolvida de 2 a 3 meses em 18 (95%) dos 19 pacientes.
+Anticorpos neutralizantes pós-tratamento foram detectados em 2 de 53 pacientes avaliados quanto à
+presença de anticorpos neutralizantes no ensaio randomizado de mieloma múltiplo.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da
+Anvisa.
+10. SUPERDOSE
+Um paciente recebeu superdose de 23,3 mg/kg de elotuzumabe em associação com lenalidomida e
+dexametasona. O paciente não apresentou reação à infusão, nenhum sintoma, não exigiu nenhum
+tratamento para a superdose e pôde continuar na terapia com elotuzumabe.
+A dose máxima tolerada não foi determinada. Em estudos clínicos, aproximadamente 78 pacientes
+foram avaliados com elotuzumabe a 20 mg/kg sem efeitos tóxicos aparentes.
+Em caso de superdose, os pacientes devem ser monitorados rigorosamente para sinais ou sintomas
+de reações adversas e tratamento sintomático apropriado instituído.
+Em caso de intoxicação ligue para 0800 722 6001, se você necessitar de orientação adicional.
+11. REFERÊNCIAS
+1. Lonial, S. et al. Elotuzumab Therapy for Relapsed or Refractory Multiple Myeloma. N Engl J
+Med 2015; 373: 621-631.
+2. Dimopoulos, M. A. et al. Elotuzumab plus Pomalidomide and Dexamethasone for Multiple
+Myeloma. N Engl J Med 2018; 379:1811-22.
+DIZERES LEGAIS
+Registro – 1.0180.0409
+Produzido por:
+Bristol-Myers Squibb Holdings Pharma, Ltd. Liability Company
+Manati – EUA
+Ou
+Produzido por:
+Bristol-Myers Squibb Holdings Pharma, Ltd. Liability Company
+Manati – EUA
+Embalado por (embalagem secundária):
+Sharp Packaging Services, LLC
+Allentown – EUA
+Importado e registrado por:
+Bristol-Myers Squibb Farmacêutica LTDA.
+EMPLICITI_VPS_v05_14062021 27
+Bristol-Myers Squibb Farmacêutica LTDA.
+São Paulo - SP
+CNPJ 56.998.982/0001-07
+VENDA SOB PRESCRIÇÃO.
+USO RESTRITO A ESTABELECIMENTOS DE SAÚDE.
+Esta bula foi aprovada pela ANVISA em 28/10/2024.
+EMPLICITI _VPS_v05_14062021
+EMPLICITI_VPS_v05_14062021 28
+Bristol-Myers Squibb Farmacêutica LTDA.
+Bristol-Myers Squibb Farmacêutica LTDA.
+Histórico de alteração para a bula
+EMPLICITI®
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do No. do Data do No. do Data da Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10463 -
+PRODUTO 1528 -
+BIOLÓGICO PRODUTO
+2031115/16 300 mg e 400
+20/06/2018 0496140/18-4 - Inclusão 01/07/2016 BIOLÓGICO - 18/12/2017 NA (Bula Inicial) VP/VPS
+-0 mg
+Inicial de Registro de
+Texto de Produto Novo
+Bula
+3. CARACTERÍSTICAS
+FARMACOLÓGICAS
+Notificação
+8. POSOLOGIA E MODO DE VPS
+de Alteração
+USAR 300 mg e 400
+28/09/2018 0943986/18-2 de Texto de NA NA NA NA
+9. REAÇÕES ADVERSAS mg
+Bula – RDC
+8. QUAIS OS MALES QUE ESTE
+60/12
+MEDICAMENTO PODE ME VP
+CAUSAR?
+10456 -
+PRODUTO
+VERSIONAMENTO VP
+BIOLÓGICO
+– Notificação 300 mg e 400
+13/03/2020 0763603/20-2 NA NA NA NA
+de Alteração mg
+de texto de 2. RESULTADOS DE EFICÁCIA
+VPS
+bula – RDC
+60/12
+10456 -
+11967 -
+PRODUTO 1. PARA QUÊ ESTE
+PRODUTOS VP
+BIOLÓGICO MEDICAMENTO É INDICADO?
+BIOLÓGICOS -
+– Notificação 0176290/21 02/05/202 300 mg e 400
+14/10/2022 4822227/22-7 14/01/2021 77a. Inclusão ou
+de Alteração -7 2 1. INDICAÇÕES mg
+modificação de
+de texto de 2. RESULTADOS DE EFICÁCIA
+indicação VPS
+bula – RDC 3. CARACTERÍSTICAS
+terapêutica
+60/12 FARMACOLÓGICAS
+EMPLICITI_VPS_v05_14062021 29
+Bristol-Myers Squibb Farmacêutica LTDA.
+5. ADVERTÊNCIAS E
+PRECAUÇÕES
+8. POSOLOGIA E MODO DE
+USAR
+11979 -
+10456 -
+PRODUTOS
+PRODUTO
+BIOLÓGICOS -
+BIOLÓGICO
+41. Alteração de
+– Notificação 4959427/22- 300 mg e 400
+22/11/2022 4969188220 21/11/2022 instalação de 21/11/2022 DIZERES LEGAIS VP / VPS
+de Alteração 3 mg
+fabricação do
+de texto de
+produto
+bula – RDC
+terminado -
+60/12
+Menor (*)
+10456 -
+10456 -
+PRODUTO 4. O QUE DEVO SABER ANTES
+PRODUTO
+BIOLÓGICO DE USAR ESTE
+BIOLÓGICO –
+– Notificação MEDICAMENTO? 300 mg e 400
+28/10/2024 - 28/10/2024 - Notificação de 28/10/2024 VP/VPS
+de Alteração mg
+Alteração de
+de texto de 5. ADVERTÊNCIAS E
+texto de bula –
+bula – RDC PRECAUÇÕES
+RDC 60/12
+60/12
+EMPLICITI_VPS_v05_14062021 30

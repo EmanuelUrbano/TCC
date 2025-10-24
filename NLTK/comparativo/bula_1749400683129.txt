@@ -1,0 +1,117 @@
+INDICAÇÕES A FINASTERIDA é indicada para o tratamento de homens com calvície de padrão masculino (alopecia androgênica), para aumentar o
+crescimento e prevenir a queda adicional de cabelo.
+A finasterida não é indicada para mulheres ou crianças (ver itens “2. Resultados de Eficácia”, “4. Contraindicações” e “5.Advertências
+e Precauções – Gravidez”).
+2. RESULTADOS DE EFICÁCIA
+Estudos em homens
+A eficácia de finasterida foi demonstrada em três estudos que incluíram 1.879 homens de 18 a 41 anos de idade com perda de cabelo
+leve a moderada, porém não completa, na área do vértex e frontal/intermediária. Nesses estudos, o crescimento capilar foi avaliado
+através da utilização de quatro medidas, incluindo contagem de cabelos, classificação de fotografias da cabeça por um painel de
+dermatologistas especialistas, avaliação do pesquisador e autoavaliação feita pelo paciente.
+Nos dois estudos em homens com perda de cabelo no vértex, o tratamento com finasterida continuou por cinco anos, período durante o
+qual os pacientes apresentaram melhora nos primeiros três meses de uso, em comparação tanto com o período basal como com o
+placebo. O tratamento com finasterida durante 5 anos resultou em estabilização da perda de cabelo em 90% dos homens, com base na
+avaliação fotográfica, e em 93%, com base na avaliação do pesquisador. Além disso, foi relatado aumento do crescimento de cabelos
+por 65% dos homens que receberam finasterida com base na contagem de cabelos (versus 0% no grupo placebo), por 48% com base
+na avaliação fotográfica (versus 6% no grupo placebo) e por 77% com base na avaliação do pesquisador (versus 15% no grupo
+placebo). Em contrapartida, no grupo placebo, observou-se perda de cabelo gradual ao longo do tempo em 100% dos homens com
+base na contagem de cabelos (versus 35% dos homens que receberam finasterida), em 75% com base na avaliação fotográfica (versus
+10% dos homens que receberam finasterida) e em 38% com base na avaliação do pesquisador (versus 7% dos homens tratados com
+finasterida). Além disso, a autoavaliação feita pelos pacientes demonstrou aumento significativo na densidade do cabelo, diminuição
+na perda de cabelo e melhora da aparência do cabelo durante cinco anos de tratamento com finasterida. Enquanto as avaliações do
+cabelo, em comparação com o período basal, foram melhores em homens tratados com finasterida por dois anos e diminuíram de
+forma gradual subsequentemente (por exemplo, aumento de 88 fios de cabelo em uma área representativa de 5,1 cm2 em dois anos e
+aumento de 38 fios de cabelo em cinco anos), a perda de cabelo no grupo placebo piorou progressivamente em comparação com o
+período basal (redução de 50 fios de cabelo em dois anos e 239 fios de cabelo em cinco anos). Assim, com base nessas quatro
+medidas, a diferença entre os grupos de tratamento continuou aumentando ao longo de cinco anos dos estudos.
+Um estudo com duração de 12 meses, que incluiu homens com perda de cabelo na área frontal/intermediária, também demonstrou
+melhora significativa no crescimento e na aparência do couro cabeludo, conforme as mesmas medidas descritas acima.
+Um estudo controlado por placebo, de 48 semanas de duração, desenhado para determinar o efeito de finasterida nas fases do ciclo de
+crescimento capilar (fase de crescimento [anágena] e fase de repouso [telógena]) na calvície do vértex, incluiu 212 homens com
+alopecia androgênica. No período basal e em 48 semanas, a contagem total de cabelos, na fase telógena e na fase anágena, foi obtida
+em uma área-alvo de 1 cm2 do couro cabeludo. O tratamento com finasterida aumentou o número de cabelos na fase anágena,
+enquanto os homens do grupo placebo perderam cabelos nesta fase. Em 48 semanas, os homens tratados com finasterida mostraram
+aumento real na contagem total de cabelos e na fase anágena, de 17 e 27 cabelos, respectivamente, em comparação com o placebo.
+Esse aumento na contagem de cabelos na fase anágena, em comparação com a contagem total de cabelos, levou a uma melhora real na
+razão anágena/telógena de 47%, em 48 semanas, em homens tratados com finasterida, comparado ao placebo. Esses dados fornecem
+evidências diretas de que o tratamento com finasterida promove a conversão de folículos capilares para a fase de crescimento ativo.
+Em resumo, esses estudos demonstraram que o tratamento com finasterida aumenta o crescimento capilar e previne a perda de cabelo
+adicional em homens com alopecia androgênica.
+Estudos em mulheres
+A falta de eficácia foi demonstrada em mulheres pós-menopáusicas com alopecia androgênica, tratadas com finasterida, em um estudo
+controlado por placebo de 12 meses de duração (n= 137).
+Essas mulheres não apresentaram melhora nos parâmetros de contagem de cabelo, autoavaliação feita pela paciente, avaliação pelo
+pesquisador ou nas classificações baseadas em fotografias padronizadas, em comparação com o grupo placebo (ver item “1.
+Indicações”).
+1
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Farmacologia clínica
+Mecanismo de ação
+A finasterida é um inibidor competitivo e específico da 5-α-redutase do tipo II, capaz de formar lentamente com esta um complexo
+enzimático estável. O turnover desse complexo é extremamente lento (t½ ~ 30 dias). A finasterida não tem afinidade pelo receptor
+andrógeno e não possui efeitos androgênicos, antiandrogênicos, estrogênicos, antiestrogênicos ou progestacionais. A inibição dessa
+enzima bloqueia a conversão periférica da testosterona ao andrógeno di-hidrotestosterona (DHT), resultando em reduções
+significativas das concentrações séricas e teciduais de DHT. A finasterida produz rápida redução dos níveis séricos de DHT,
+alcançando supressão significativa no período de 24 horas após a administração.
+Os folículos capilares contêm a 5-α-redutase do tipo II. Em homens com alopecia androgênica, a área calva possui folículos capilares
+miniaturizados e quantidades aumentadas de DHT. A administração de finasterida a esses homens diminui as concentrações de DHT
+no soro e no couro cabeludo. Além disso, homens com deficiência genética de 5-α-redutase do tipo II não apresentam alopecia
+androgênica. Esses dados e os resultados dos estudos clínicos comprovam que a finasterida inibe o processo responsável pela
+miniaturização dos folículos capilares do couro cabeludo, levando à reversão do processo de calvície.
+Absorção
+Em relação a uma dose intravenosa de referência, a biodisponibilidade oral da finasterida é de aproximadamente 80%. A
+biodisponibilidade não é prejudicada pelos alimentos. A concentração plasmática máxima da finasterida é alcançada aproximadamente
+2 horas após a ingestão, e a absorção é completa depois de 6 a 8 horas.
+Distribuição
+A ligação às proteínas plasmáticas é de aproximadamente 93%. O volume de distribuição da finasterida é de aproximadamente 76
+litros. Após a administração de múltiplas doses, ocorre pequeno acúmulo de finasterida no plasma. Em estado de equilíbrio, após uma
+dose de 1 mg/dia, a concentração plasmática máxima de finasterida atingiu em média 9,2 ng/mL, alcançada 1 - 2 horas após a dose; a
+ASC foi de 53 ng•h/mL.
+(0-24 h)
+A finasterida foi detectada no liquor (líquido cefalorraquidiano - LCR), mas a medicação parece não se concentrar preferencialmente
+no LCR. Uma quantidade muito pequena de finasterida também foi detectada no líquido seminal de indivíduos sob uso de finasterida.
+Metabolismo
+A finasterida é metabolizada principalmente pela subfamília 3A4 do sistema enzimático do citocromo P450. Após uma dose oral de
+finasterida marcada com C14 em homens, foram identificados dois metabólitos da finasterida que possuem apenas uma pequena fração
+da atividade inibitória da 5-α-redutase da finasterida.
+Eliminação
+Após uma dose oral de finasterida marcada com C14 em homens, 39% da dose foram excretados na urina na forma de metabólitos
+(para todos os efeitos, não se encontrou medicamento inalterado na urina) e 57% da dose total foram excretados nas fezes. A
+depuração plasmática é de aproximadamente 165 mL/min. A taxa de eliminação da finasterida diminui um pouco com a idade. A
+meia-vida terminal média é de aproximadamente 5 a 6 horas em homens de 18-60 anos de idade e de 8 horas em homens com mais de
+70 anos de idade. Esses achados não possuem importância clínica e, portanto, não servem como base para a redução da dose em
+pacientes idosos.
+Farmacodinâmica
+A finasterida não apresentou efeito sobre os níveis circulantes de cortisol, hormônio estimulante da tiróide ou tiroxina, nem efeito
+sobre o perfil lipídico do plasma (por exemplo, colesterol total, lipoproteínas de baixa densidade, lipoproteínas de alta densidade e
+triglicérides) ou sobre a densidade mineral óssea. Em estudos clínicos, com a finasterida, não foram detectados efeitos significativos
+no hormônio luteinizante (LH), hormônio folículo estimulante (FSH), estradiol ou prolactina. O estímulo do hormônio de liberação da
+gonadotrofina (GnRH) nos níveis de LH ou FSH não foi alterado, indicando que o controle regulatório do eixo hipofisário-testicular
+não foi afetado. O nível de testosterona circulante aumentou aproximadamente 10-15% comparado com o placebo, entretanto
+mantendo-se dentro do nível fisiológico. Não houve efeito nos parâmetros do sêmem em homens tratados com finasterida 1 mg/dia por
+48 semanas.
+A finasterida parece ter inibido tanto o metabolismo do esteróide C19 como o do C21 e, consequentemente, parece ter apresentado
+efeito inibitório sobre as atividades hepática e periférica da 5α-redutase tipo II. Os níveis séricos dos metabólitos da DHT –
+androstenediol glicuronida e androsterona glicuronida – também apresentaram redução significativa. Este padrão metabólico é
+semelhante ao observado em indivíduos com deficiência genética de 5α-redutase tipo II, que apresentam níveis acentuadamente
+diminuídos de DHT e que não sofrem de cálvice de padrão masculino.
+4. CONTRAINDICAÇÕES
+Este medicamento é contraindicado em pacientes com hipersensibilidade à finasterida ou a qualquer componente de sua formulação.
+Este medicamento é contraindicado para uso por mulheres e crianças.
+Este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar grávidas durante o tratamento.
+Informe a seu paciente que a doação de sangue é absolutamente contraindicada durante o tratamento com finasterida devido
+ao dano que esse medicamento pode causar ao receptor.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Em estudos clínicos com finasterida, que incluíram homens de 18 a 41 anos de idade, a concentração sérica média de antígeno
+prostático específico (PSA) diminuiu de 0,7 ng/mL no período basal para 0,5 ng/mL no 12o mês. Quando finasterida for administrado
+para o tratamento da calvície de padrão masculino em homens mais velhos, com hiperplasia prostática benigna (HPB), deve-se levar
+em consideração que, nesses casos, os níveis de PSA diminuem aproximadamente 50%.
+Sintomas psiquiátricos
+Houve relatos pós-comercialização de sintomas psiquiátricos graves em pacientes tratados com finasterida, que podem persistir
+mesmo após a descontinuação do tratamento. Alterações de humor, incluindo humor deprimido, depressão, autoagressão, ideação
+suicida, assim como agravamento da depressão preexistente foram relatados em pacientes tratados com finasterida (ver item ”8.
+REAÇÕES ADVERSAS – Experiência pós-comercialização). Recomenda-se que todos os pacientes sejam avaliados para ideação
+suicida, autoagressão e depressão e/ou fatores de risco associados antes do início do tratamento. A monitoração clínica de todos os
+2
+pacientes quanto a sinais e sintomas de transtornos psiquiátricos deve continuar durante e após o tratamento. Se esses sintomas
+ocorrerem, o tratamento deve ser descontinuado e os pacientes orientados a buscar orientação médica o mais rápido possível.

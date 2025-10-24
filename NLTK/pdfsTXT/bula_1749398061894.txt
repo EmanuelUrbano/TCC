@@ -1,0 +1,1377 @@
+entecavir monoidratado
+Fundação Ezequiel Dias – FUNED
+Comprimido revestido
+0,5 mg
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+entecavir monoidratado
+Medicamento Genérico, Lei nº 9.787, de 1999.
+APRESENTAÇÃO
+Entecavir monoidratado 0,5 mg é apresentado em frascos contendo 30 ou 90 comprimidos
+revestidos.
+USO ORAL
+USO ADULTO E PEDIÁTRICO ACIMA DE 16 ANOS
+COMPOSIÇÃO
+Cada comprimido revestido contém 0,5325 mg de entecavir monoidratado que equivale a 0,5 mg
+de entecavir.
+Excipientes ...................................................................................................... q.s.p 1 comprimido
+(lactose monoidratada, celulose microcristalina, crospovidona, povidona, estearato de magnésio,
+dióxido de titânio, hipromelose, macrogol).
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Entecavir monoidratado é indicado para o tratamento de infecção crônica pelo vírus da hepatite
+B1 (VHB) em adultos com evidência de replicação viral ativa e também com evidências de
+elevações persistentes nas aminotransferases séricas ALT e AST ou doença histologicamente
+ativa.
+1CID B18.1 - Hepatite crônica viral B sem agente Delta
+Os seguintes pontos devem ser considerados quando é iniciada a terapia com entecavir
+monoidratado:
+• Esta indicação se baseia nas respostas histológicas, virologias, bioquímicas e sorológicas em
+pacientes adultos virgens de tratamento com nucleosídeos e pacientes adultos resistentes à
+lamivudina com infecção VHB crônica com HBeAg-positivo ou HBeAg-negativo, com doença
+hepática compensada ou descompensada.
+• Existem dados limitados de pacientes adultos com coinfecção HIV e VHB que tenham recebido
+terapia prévia com lamivudina.
+2. RESULTADOS DE EFICÁCIA
+Desfechos na semana 48
+A segurança e a eficácia de entecavir monoidratado foram avaliadas em três estudos Fase III de
+controle ativo. Esses estudos incluíram 1.633 pacientes com 16 anos de idade ou mais, com
+infecção crônica por hepatite B (HBsAg-positivo sérico durante pelo menos 6 meses)
+acompanhada por evidência de replicação viral (DNA do VHB sérico detectável, medido pela
+hibridização do bDNA ou por ensaio PCR). Os pacientes apresentaram níveis de ALT
+persistentemente elevados, ao menos 1,3 vezes o limite superior da normalidade (LSN), e
+inflamação crônica na biópsia do fígado, compatível com um diagnóstico de hepatite viral crônica.
+A segurança e a eficácia de entecavir monoidratado também foram avaliadas em um estudo com
+191 pacientes, com doença hepática descompensada, infectados com VHB e em um estudo com
+68 pacientes coinfectados com VHB e HIV.
+PFS-0141-020 1
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Pacientes virgens de nucleosídeo com doença hepática compensada
+HBeAg-positivo: o AI 463022 foi um estudo multicêntrico, randomizado, duplo-cego de
+entecavir monoidratado 0,5 mg uma vez ao dia versus lamivudina 100 mg uma vez ao dia, por no
+mínimo 52 semanas, em 709 pacientes virgens de nucleosídeo (de 715 randomizados) com
+infecção crônica por hepatite B e HBeAg detectável. A idade média dos pacientes foi de 35 anos;
+75% eram do sexo masculino; 57% eram asiáticos, 40% eram caucasianos e 13% haviam recebido
+anteriormente tratamento com interferon-α. No basal, os pacientes apresentaram uma média do
+Índice Necroinflamatório de Knodell de nível 7,8 de DNA de VHB sérico médio, avaliado por
+meio do ensaio Roche Amplicor® PCR, de 9,66 log cópias/mL e nível de ALT sérico médio de
+10
+143 U/L. Amostras de biópsia do fígado foram avaliadas em 89% dos pacientes.
+HBeAg-negativo (anti-HBe positivo/DNA do VHB positivo): o AI 463027 foi um estudo
+multicêntrico, randomizado, duplo-cego de entecavir monoidratado 0,5 mg uma vez ao dia versus
+lamivudina 100 mg uma vez ao dia, por no mínimo 52 semanas, em 638 pacientes virgens de
+nucleosídeo (de 648 randomizados), com infecção crônica por hepatite B HBeAg-negativo
+(HBeAb-positivo). A idade média dos pacientes foi de 44 anos e 76% eram do sexo masculino;
+39% eram asiáticos e 58% eram caucasianos; 13% haviam recebido anteriormente tratamento
+com interferon-α. No basal, os pacientes apresentaram uma média do Índice Necroinflamatório
+de Knodell de nível 7,8 de DNA de VHB sérico médio, avaliado por meio do ensaio Roche
+Amplicor® PCR, de 7,58 log cópias/mL e um nível médio de ALT sérica de 142 U/L. Amostras
+10
+de biópsia do fígado foram avaliadas em 88% dos pacientes.
+Nos Estudos AI 463022 e AI 463027, o entecavir monoidratado foi superior à lamivudina no
+objetivo primário da eficácia de Melhora Histológica, definida como 2 pontos ou mais de redução
+no Índice Necroinflamatório de Knodell, sem piora no Índice de Fibrose de Knodell na semana
+48 e no objetivo secundário de avaliações de eficácia de redução na carga viral e normalização de
+ALT. A Melhora Histológica e a alteração no Índice de Fibrose de Ishak são mostradas na Tabela
+1. Avaliações dos resultados bioquímicos, virológicos e sorológicos são mostradas na Tabela 2.
+Tabela 1: Melhora Histológica e Alteração no Índice de Fibrose de Ishak na Semana 48,
+Pacientes Virgens de Nucleosídeo nos Estudos AI 463022 e AI 463027
+Estudo AI 463022 (HBeAg- Estudo AI 463027 (HBeAg-
+Positivo) Negativo)
+entecavir entecavir
+lamivudina lamivudina
+monoidratado monoidratado
+100 mg 100 mg
+0,5 mg 0,5 mg
+a a
+a n = 314 a n = 287
+n = 314 n = 296
+Melhora Histológica (Índices de Knodell)
+Melhora b 72%* 62% 70%* 61%
+Nenhuma
+21% 24% 19% 26%
+melhora
+Índice de Fibrose de Ishak
+Melhora c 39% 35% 36% 38%
+Nenhuma
+46% 40% 41% 34%
+alteração
+Piora c 8% 10% 12% 15%
+Faltando 14%
+biópsia da 7% 10% 13%
+semana 48
+a
+Pacientes com histologia basal avaliável (Índice Necroinflamatório de Knodell basal ≥ 2).
+PFS-0141-020 2
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+b
+≥ 2 pontos de diminuição no Índice Necroinflamatório de Knodell, desde os valores basais, sem
+piora do Índice de Fibrose de Knodell.
+c
+Para o Índice de Fibrose de Ishak, melhora = ≥ 1 ponto de diminuição desde o valor basal e piora
+= ≥ 1 ponto de aumento desde o valor basal.
+* p < 0,05.
+Tabela 2: Medidas dos Resultados Bioquímicos, Virológicos e Sorológicos na Semana
+48, Pacientes Virgens de Nucleosídeo nos Estudos AI 463022 e AI 463027
+Estudo AI 463022 (HBeAg- Estudo AI 463027 (HBeAg-
+Positivo) Negativo)
+entecavir lamivudina entecavir lamivudina
+monoidratado 100 mg monoidratado 100 mg
+0,5 mg n = 355 0,5 mg n = 313
+n = 354 n = 325
+a
+DNA do VHB
+Proporção não
+67%* 36% 90%* 72%
+detectável (< 300
+cópias/mL)
+Média de
+alteração a partir
+-6,86* -5,39 -5,04* -4,53
+do basal (log
+10
+cópias/mL)
+Normalização da
+ALT (≤ 1 X 68%* 60% 78%* 71%
+LSN)
+Soroconversão
+21% 18% NA NA
+de HBeAg
+a Ensaio Roche Amplicor® PCR (LLOQ = 300 cópias/mL).
+* p < 0,05.
+A melhora histológica foi independente dos níveis basais de DNA de VHB ou de ALT.
+Pacientes resistentes à lamivudina com doença hepática compensada
+O AI 463026 foi um estudo multicêntrico, randomizado, duplo-cego de entecavir monoidratado
+em 286 pacientes (de 293 randomizados) com infecção crônica por hepatite B resistente à
+lamivudina. Os pacientes que estavam recebendo lamivudina na admissão ao estudo trocaram
+pelo entecavir monoidratado 1 mg uma vez ao dia (sem um período de washout ou de
+sobreposição), ou continuaram com a lamivudina 100 mg por, no mínimo, 52 semanas. A idade
+média dos pacientes foi de 39 anos e 76% eram do sexo masculino; 37% eram asiáticos e 62%
+eram caucasianos; 52% haviam recebido anteriormente tratamento com interferon-α. A média de
+duração da terapia anterior com lamivudina foi 2,7 anos e 85% apresentavam mutações de
+resistência à lamivudina no basal em um exame investigacional. No basal, os pacientes
+apresentaram uma média de Índice Necroinflamatório de Knodell de nível 6,5 de DNA de VHB
+sérico médio, medido pelo ensaio Roche Amplicor® PCR, de 9,36 log cópias/mL e um nível
+10
+sérico de ALT de 128 U/L. Amostras de biópsia do fígado foram coletadas em 87% dos pacientes.
+Entecavir monoidratado foi superior à lamivudina nas avaliações primárias de Melhora
+Histológica (utilizando o Índice de Knodell na semana 48). Esses resultados e a alteração no
+PFS-0141-020 3
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Índice de Fibrose de Ishak estão apresentados na Tabela 3. A Tabela 4 apresenta os resultados
+bioquímicos, virológicos e sorológicos.
+Tabela 3: Melhora Histológica e Alteração no Índice de Fibrose de Ishak na Semana 48,
+Pacientes Resistentes à lamivudina no Estudo AI 463026
+entecavir monoidratado lamivudina
+1 mg 100 mg
+a a
+n = 124 n = 116
+Melhora Histológica (Índices de Knodell)
+Melhora b 55%* 28%
+Sem melhora 34% 57%
+Índice de Fibrose de Ishak
+Melhora c 34%* 16%
+Sem alteração 44% 42%
+Piora c 11% 26%
+Faltou a biópsia da semana
+11% 16%
+48
+a
+Pacientes com histologia basal avaliável (Índice Necroinflamatório de Knodell basal ≥ 2).
+b
+≥ 2 pontos de diminuição no Índice Necroinflamatório de Knodell, desde os valores basais, sem
+piora do Índice de Fibrose de Knodell.
+c
+Para o Índice de Fibrose de Ishak, melhora é igual a ≥ 1 ponto de diminuição do basal e piora é
+igual a ≥ 1 ponto de aumento do basal.
+* p < 0,01.
+Tabela 4: Resultados Finais Bioquímicos, Virológicos e Solorógicos na Semana 48,
+Pacientes Resistentes à lamivudina no Estudo AI 463026
+entecavir lamivudina
+monoidratado 100 mg
+1 mg n = 145
+n = 141
+DNA do VHB
+a
+19%* 1%
+Porção não detectável (< 300 cópias/mL)
+Alteração média dos valores basais (log 10 cópias/mL) -5,11* -0,48
+Normalização da ALT (≤ 1 X LSN) 61%* 15%
+Soroconversão de HBeAg 8% 3%
+a Ensaio Roche Amplicor® PCR.
+* p < 0,0001.
+A melhora histológica foi independente dos níveis basais de DNA de VHB ou de ALT.
+Desfechos além da semana 48
+A duração ideal de terapia com entecavir monoidratado é desconhecida. De acordo com os
+critérios dos protocolos dos estudos de fase III, os pacientes descontinuaram o tratamento com
+entecavir monoidratado ou com lamivudina após 52 semanas, de acordo com a definição de
+resposta baseada na supressão virológica do VHB (< 0,7 MEq/mL por ensaio de bDNA) e perda
+de HBeAg (em pacientes HBeAg-positivos) ou diminuição de ALT < 1,25 X LSN (em pacientes
+PFS-0141-020 4
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+HBeAg-negativos) na semana 48. Pacientes que atingiram supressão virológica, mas não resposta
+sorológica (HBeAg-positivos) ou não atingiram ALT < 1,25 X LSN (HBeAg-negativos)
+continuaram recebendo dose cega por 96 semanas ou até a resposta ser atingida.
+Estes guias de gerenciamento específicos para pacientes de protocolo não são destinados como
+guias de práticas clínicas.
+Pacientes virgens de tratamento com nucleosídeo: entre pacientes HBeAg-positivos, virgens
+de tratamento (Estudo AI 463022), 243 (69%) dos pacientes tratados com entecavir monoidratado
+e 164 (46%) tratados com lamivudina, continuaram em tratamento cego por até 96 semanas. Entre
+os pacientes que continuaram em tratamento cego no segundo ano, 180 (74%) e 60 (37%) dos
+pacientes tratados com entecavir monoidratado e lamivudina, respectivamente, atingiram DNA
+de VHB < 300 cópias/mL por PCR no final do tratamento (até 96 semanas). 193 (79%) dos
+pacientes tratados com entecavir monoidratado atingiram ALT ≤ 1 X LSN, comparado a 112
+(68%) dos pacientes tratados com lamivudina e soroconversão de HBeAg ocorreu em 26 (11%)
+e em 20 (12%) dos pacientes tratados com entecavir monoidratado e lamivudina, respectivamente.
+Entre pacientes HBeAg-positivos, virgens de tratamento, 74 (21%) dos que receberam terapia
+com entecavir monoidratado e 67 (19%) dos pacientes tratados com lamivudina, definiram
+resposta na 48ª semana, descontinuaram o uso do medicamento e foram acompanhados sem
+tratamento por 24 semanas. Entre os responsivos ao entecavir monoidratado, 26 (35%) dos
+pacientes tiveram DNA de VHB < 300 cópias/mL, 55 (74%) tiveram ALT ≤ 1 X LSN e 56
+(76%) sustentaram soroconversão de HBeAg até o fim do acompanhamento. Entre os
+responsivos à lamivudina, 20 (30%) dos pacientes apresentaram DNA de VHB < 300 cópias/mL,
+41 (61%) apresentaram ALT ≤ 1 X LSN e 47 (70%) dos pacientes sustentaram soroconversão de
+HBeAg até o fim do acompanhamento.
+Entre pacientes HBeAg-negativos (Estudo AI 463027), virgens de tratamento, 26 (8%) e 28 (9%)
+dos pacientes tratados com entecavir monoidratado ou com lamivudina, respectivamente,
+continuaram em tratamento cego por até 96 semanas. Nesse pequeno tratamento contínuo de
+coorte no ano dois, 22 pacientes tratados com entecavir monoidratado e 16 com lamivudina
+apresentaram DNA de VHB < 300 cópias/mL por PCR e 7 e 6 pacientes, respectivamente,
+apresentaram ALT ≤ 1 X LSN no fim do tratamento (até 96 semanas).
+Entre pacientes HBeAg-negativos, virgens de tratamento, 275 (85%) dos tratados com entecavir
+monoidratado e 245 (78%) dos tratados com lamivudina definiram resposta na 48ª semana,
+descontinuaram o tratamento e foram acompanhados, sem tratamento, por 24 semanas. Nessa
+coorte, poucos pacientes em cada braço do tratamento tinham DNA de VHB < 300 cópias/mL
+por PCR no final do acompanhamento. No fim do acompanhamento, 126 (46%) dos pacientes
+tratados com entecavir monoidratado e 84 (34%) daqueles tratados com lamivudina apresentaram
+ALT ≤ 1 X LSN.
+Pacientes resistentes à lamivudina: entre os pacientes resistentes à lamivudina (Estudo AI
+463026), 77 (55%) dos tratados com entecavir monoidratado e 3 (2%) dos tratados com
+lamivudina continuaram em tratamento cego por até 96 semanas. Nessa coorte de pacientes
+tratados com entecavir monoidratado, 31 (40%) atingiram DNA de VHB < 300 cópias/mL, 62
+(81%) dos pacientes tiveram ALT ≤ 1 X LSN e 8 (10%) demonstraram soroconversão de HBeAg
+no fim do tratamento.
+Resultados de estudo de acompanhamento a longo prazo
+AI 463080 foi um estudo fase 4, randomizado, global, observacional e aberto, cujo objetivo foi
+avaliar os riscos e benefícios do tratamento com entecavir monoidratado (0,5 mg/dia ou 1 mg/dia)
+a longo prazo, em comparação com outros padrões de tratamento análogos de nucleosídeos para
+Hepatite B, em indivíduos com infecção crônica por VHB (HBC).
+PFS-0141-020 5
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Um total de 12.485 pacientes com HBC foram randomizados (1:1), dos quais 12.378 foram
+tratados com entecavir (n = 6.216) ou outro padrão de tratamento de VHB nucleosídeo não
+entecavir (n = 6.162), respectivamente. Os pacientes foram avaliados no estado basal e
+subsequentemente duas vezes por ano (a cada 6 meses) para eventos clínicos por até 10 anos
+durante o estudo. Os principais eventos clínicos avaliados no estudo foram neoplasias malignas
+gerais, progressão do VHB relacionada ao fígado, neoplasias malignas não carcinoma
+hepatocelular (não-CHC), carcinoma hepatocelular (CHC), progressão do VHB não-CHC e
+mortes, incluindo mortes relacionadas ao fígado. O estudo mostrou que entecavir não foi
+significativamente associado ao aumento de neoplasias malignas se comparado ao uso de outros
+padrões de tratamento para VHB análogos de nucleosídeos, conforme avaliado pelo desfecho
+composto das neoplasias malignas gerais ou pelo desfecho individual da neoplasia maligna não-
+CHC.
+A neoplasia maligna mais comumente relatada foi CHC, seguido de neoplasias gastrointestinais
+com câncer colorretal e gástrico representando a maioria dos tipos de tumores observados no
+sistema gastrointestinal em ambos os grupos tratados com entecavir e terapia não-entecavir.
+Os dados também mostraram que o uso prolongado de entecavir não foi associado a uma menor
+ocorrência de progressão da hepatite B ou a uma menor taxa de mortalidade geral. O tratamento
+com entecavir foi de modo geral bem tolerado, sendo os eventos relatados consistentes com a
+experiência de segurança acumulada.
+Houve um número maior de eventos adversos graves relacionados ao tratamento nos indivíduos
+do grupo tratado com terapia padrão não-entecavir, quando comparado ao grupo tratado com
+entecavir (0,8% versus 0,2%), o que foi impulsionado principalmente por eventos neuropáticos e
+musculoesqueléticos que ocorreram em indivíduos tratados com os L-nucleosídeos (como, por
+exemplo, lamivudina, telbivudina e clevudina). A principal avaliação dos eventos clínicos é
+apresentada na tabela 5:
+Tabela 5: Principais análises do tempo para eventos adjudicados – indivíduos tratados
+randomizados
+Número de indivíduos com eventos
+Hazard Ratio
+Desfechoa entecavir Não-entecavir [entecavir; não
+P-valorc
+n = 6.216 n = 6.162 entecavir]
+(IC)b
+Desfechos
+primários
+Neoplasia 0,93 (0,800, 0,3553
+331 337
+maligna geral 1,084)
+Progressão da 0,89 (0,769, 0,1182
+doença VHB 1,030)
+350 375
+relacionada ao
+fígado
+Morte 238 264 0,85 (0,713, 0,0676
+1,012)
+Desfechos
+secundários
+Neoplasia 95 81 1,10 (0,817,
+maligna não- 1,478)
+CHC
+CHC 240d 263 0,87 (0,727,
+1,032)
+PFS-0141-020 6
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Mortes 46 48 0,91 (0,608,
+relacionadas ao 1,365)
+fígado
+Desfecho
+exploratório
+pós-hoc
+Progressão da 137 146 0,90 (0,712,
+doença VHB não 1,135)
+CHC
+a Neoplasia maligna geral é um evento composto por neoplasia maligna CHC ou não-CHC. A
+progressão da doença pelo VHB relacionada ao fígado é um evento composto de morte
+relacionada ao fígado, CHC ou progressão da doença pelo VHB não-CHC.
+b IC 95,03% para neoplasia maligna geral, morte e progressão da doença por VHB relacionada ao
+fígado; IC 95% para neoplasia maligna não-CHC, CHC, morte relacionada ao fígado e progressão
+da doença pelo VHB não-CHC.
+c P-valores são fornecidos aos eventos clínicos que sejam desfechos primários, conforme
+especificados em protocolo.
+d Um indivíduo apresentou um evento de CHC pré-tratamento e foi excluído da análise.
+IC = intervalo de confiança; n = número total de indivíduos
+Populações especiais
+- Pacientes com doença hepática descompensada
+Em um estudo randomizado aberto, 191 pacientes com infecção crônica por VHB com HBeAg-
+positivo ou negativo, com evidência de descompensação hepática, definida como uma pontuação
+de Child-Turcotte-Pugh (CTP) de 7 ou maior, receberam entecavir monoidratado 1 mg, uma vez
+ao dia, ou adefovir dipivoxila 10 mg, uma vez ao dia. Os pacientes eram ou virgens de tratamento
+para VHB ou previamente tratados (excluindo pré-tratamento com entecavir monoidratado,
+adefovir dipivoxila ou fumarato de tenofovir desoproxila). O entecavir monoidratado foi superior
+ao adefovir dipivoxila no desfecho de eficácia primário de alteração média do valor basal no DNA
+de VHB sérico por PCR, na semana 24. Resultados para os desfechos selecionados do estudo, na
+semana 24 e 48, são apresentados na tabela 6.
+Tabela 6: Resultados Selecionados nas Semanas 24 e 48, Pacientes com Doença Hepática
+Descompensada
+Semana 24 Semana 48
+ETV ADV ETV ADV
+1 mg 10 mg 1 mg 10 mg
+N = 100 N = 91 N = 100 N = 91
+a
+DNA de VHB
+Proporção não
+detectável (< 300 49%* 16% 57%* 20%
+cópias/mL)
+Alteração média
+do valor basal -4,48* -3,40 -4,66 -3,90
+(log cópias/mL)
+10
+Melhoria ou
+estabilidade da
+66% 71% 61% 67%
+pontuação de
+b
+CTP
+PFS-0141-020 7
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Pontuação para doença terminal de fígado (sigla em inglês MELD)
+Alteração média
+-2,0 -0,9 -2,6 -1,7
+c
+do valor basal
+Perda de HBsAg 1% 0 5% 0
+d
+Normalização de:
+ALT (≤ 1 X LSN) 46/78 (59%)* 28/71 (39%) 49/78 (63%)* 33/71 (46%)
+Albumina (≥ 1 X
+20/82 (24%) 14/69 (20%) 32/82 (39%) 20/69 (29%)
+LIN)
+Bilirrubina (≤ 1 X
+12/75 (16%) 10/65 (15%) 15/75 (20%) 18/65 (28%)
+LSN)
+Tempo de pró-
+trombina (≤ 1 X 9/95 (9%) 6/82 (7%) 8/95 (8%) 7/82 (9%)
+LSN)
+a Ensaio Roche COBAS Amplicor® PCR (LLOQ = 300 cópias).
+b
+Definido como um decréscimo ou nenhuma alteração no basal na pontuação de CTP.
+c
+A média do valor inicial da pontuação de MELD foi 17,1 para ETV e 15,3 para ADV.
+d
+Denominador: pacientes com valores anormais no início.
+* p < 0,05.
+ETV = entecavir, ADV = adefovir dipivoxila, LSN = Limite Superior da Normalidade, LIN =
+Limite Inferior da Normalidade.
+O tempo para início de carcinoma hepatocelular ou morte (qualquer um que ocorra primeiro) foi
+comparável nos dois grupos de tratamento.
+- Pacientes coinfectados com HIV e VHB
+O AI 463038 foi um estudo randomizado, duplo-cego, controlado com placebo, de entecavir
+monoidratado versus placebo, em 68 pacientes coinfectados com HIV e VHB, que apresentaram
+recorrência de viremia de VHB enquanto recebiam um regime HAART (highly active
+antiretroviral therapy) [terapia antirretroviral altamente ativa] contendo lamivudina. Os pacientes
+continuaram com seu regime HAART contendo lamivudina (300 mg/dia) e foram designados
+para acrescentar 1 mg de entecavir monoidratado uma vez ao dia (51 pacientes) ou placebo (17
+pacientes), durante 24 semanas, seguidas por uma fase aberta, por um período adicional de 24
+semanas, em que todos os pacientes receberam entecavir monoidratado. No basal, os pacientes
+apresentaram um nível sérico médio de DNA do VHB, por PCR, de 9,13 log cópias/mL. 99%
+10
+dos pacientes eram HBeAg-positivos no basal, com um nível basal médio de ALT de 71,5 U/L.
+Os níveis médios de RNA de HIV permaneceram estáveis em aproximadamente 2 log
+10
+cópias/mL até a semana 24 da terapia cega. Os resultados bioquímicos e virológicos na semana
+24 são apresentados na Tabela 7. Não há dados em pacientes coinfectados com HIV e VHB que
+não receberam terapia prévia com lamivudina. Entecavir monoidratado não foi avaliado em
+pacientes coinfectados com HIV e VHB que não estivessem recebendo simultaneamente
+tratamento efetivo para HIV.
+Tabela 7: Resultados Bioquímicos e Virológicos na Semana 24, Estudo AI 463038
+a a
+entecavir monoidratado 1 mg placebo
+n = 51 n = 17
+b
+DNA de VHB
+Proporção não detectável (< 300
+6% 0
+cópias/mL)
+PFS-0141-020 8
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Alteração média desde valores basais
+- 3,65* + 0,11
+(log cópias/mL)
+10
+Normalização da ALT (≤ 1 X LSN) 34% c 8% c
+a
+Todos os pacientes também receberam um regime HAART contendo lamivudina.
+b Ensaio Roche Amplicor® PCR (LLOQ = 300 cópias).
+c
+Porcentagem de pacientes com ALT anormal (> 1 X LSN) no basal que atingiram normalização
+ALT (n = 35 para entecavir monoidratado e n = 12 para placebo).
+* p < 0,0001.
+Para pacientes originalmente determinados para entecavir monoidratado, no fim da fase aberta
+(semana 48), 8% dos pacientes tinham DNA de VHB < 300 cópias/mL por PCR, a principal
+alteração do basal de DNA de VHB por PCR foi de - 4,20 log cópias/mL e 37% dos pacientes
+10
+com ALT anormal no basal tiveram normalização ALT (< 1 X LSN).
+- Pacientes que receberam transplante de fígado
+A segurança e a eficácia de entecavir monoidratado 1 mg uma vez ao dia foram avaliadas em um
+estudo aberto, braço único, com 65 pacientes que haviam recebido transplante de fígado devido a
+complicações decorrentes de infecção crônica por VHB e com DNA de VHB < 172 UI/mL
+(aproximadamente 1000 cópias/mL) no momento do transplante. A população do estudo era
+composta por 82% do sexo masculino; 39% caucasianos e 37% asiáticos; com idade média de 49
+anos; 89% eram HBeAg-negativos no momento do transplante. Dos 61 pacientes avaliados
+quanto à eficácia (recebendo entecavir monoidratado por pelo menos 1 mês), 60 receberam
+também imunoglobulina anti-hepatite B como parte do regime de profilaxia pós-transplante. Na
+semana 72 pós-transplante, nenhum dos pacientes avaliados apresentou recorrência de VHB
+[definida como DNA de VHB ≥ 50 UI/mL (cerca de 300 cópias/mL)] pela análise da última
+observação realizada (LOCF). A frequência e a natureza dos eventos adversos encontrados neste
+estudo foram consistentes com aqueles esperados para pacientes fígado-transplantados e também
+com o perfil de segurança já conhecido para entecavir monoidratado.
+- Grupos raciais/étnicos
+A segurança e a eficácia de entecavir monoidratado 0,5 mg uma vez por dia foram avaliadas
+em um estudo aberto, braço único, em pacientes com infecção crônica por VHB, HBeAg-
+positivo ou negativo, virgem de nucleosídeos, negros/afroamericanos (n = 40) e hispânicos (n
+= 6). Neste estudo, 76% dos pacientes eram do sexo masculino, com idade média de 42 anos;
+57% HBeAg-positivos, com valor basal médio de DNA de VHB de 7,0 log UI/mL e valor
+10
+basal médio de ALT de 162 U/L. Na semana 48, 32 de 46 pacientes (70%) tiveram DNA de
+VHB < 50 UI/mL (cerca de 300 cópias/mL), 31 dos 46 pacientes (67%) apresentaram
+normalização da ALT (≤ 1 vez LSN) e 12 de 26 (46%) de HBeAg-positivos tiveram
+soroconversão do HBe.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Entecavir monoidratado é um análogo de nucleosídeo guanosino, com atividade seletiva contra o
+vírus da hepatite B (VHB). O nome químico do entecavir é 2-amino-1,9-diidro-9-[(1S,3R,4S)-4-
+hidróxi-3-(hidroximetil)-2-metileno-ciclopentil]-6H-purina-6-ona, monoidratado. Sua fórmula
+molecular é C H N O •H O, que corresponde a um peso molecular de 295,3. O entecavir
+12 15 5 3 2
+apresenta a seguinte fórmula estrutural:
+PFS-0141-020 9
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Farmacodinâmica
+Mecanismo de ação
+O entecavir é um análogo de nucleosídeo guanosino, com uma atividade contra a polimerase do
+VHB. Ele é eficientemente fosforilado na forma ativa de trifosfato (TP), que tem uma meia-vida
+intracelular de 15 horas.
+Por meio da competição com o substrato natural deoxiguanosina TP, entecavir-TP inibe
+funcionalmente todas as três atividades da polimerase viral (transcriptase reversa, rt): (1) priming
+da polimerase do VHB, (2) transcrição reversa da fita negativa do mensageiro pré-genômico do
+RNA e (3) síntese da fita positiva de DNA do VHB. Entecavir-TP é um fraco inibidor das
+polimerases de DNA celular α, β e δ e da polimerase de DNA mitocondrial γ com valores de Ki
+variando de 18 a > 160 μM.
+Atividade antiviral
+A concentração de entecavir que inibiu 50% da síntese do DNA viral (EC ) foi de 0,004 μM em
+50
+células humanas HepG2 transfectadas com o tipo selvagem de VHB. O valor médio de EC para
+50
+entecavir contra VHB resistentes à lamivudina (rtL180M, rtM204V) foi de 0,026 μM (entre 0,010
+- 0,059 μM).
+A coadministração de inibidores da transcriptase reversa de nucleosídeo (ITRNs) de HIV com
+entecavir monoidratado não tem a probabilidade de reduzir a eficácia antiviral do entecavir
+monoidratado contra o VHB, ou de nenhum desses agentes contra o HIV. Em ensaios de
+combinação do VHB in vitro, a atividade antiviral do entecavir não foi afetada pela presença de
+abacavir, didanosina, lamivudina, estavudina, tenofovir ou zidovudina. Em ensaios antivirais do
+HIV, o entecavir não apresentou efeito sobre a atividade anti-HIV in vitro desses seis ITRNs ou
+emtricitabina em concentrações > 100 vezes a C de entecavir com 1 mg de dose.
+max
+Atividade antiviral contra o HIV
+Uma análise abrangente da atividade inibitória do entecavir em isolados laboratoriais e clínicos
+do HIV tipo 1 (HIV-1), utilizando-se uma variedade de células e condições de ensaio, resultou
+em valores de EC que variaram de 0,026 a > 10 μM. Os valores mais baixos de EC foram
+50 50
+observados quando houve diminuição da carga viral utilizada no ensaio. Em cultura de células, o
+entecavir selecionou para uma substituição M184I na transcriptase reversa do HIV, em
+concentrações micromolares, confirmando sua pressão inibitória em concentrações elevadas.
+Variantes do HIV, com substituição M184V, apresentaram perda de sensibilidade ao entecavir.
+Resistência ao fármaco
+- In vitro
+Em ensaios baseados em células, reduções de 8 a 30 vezes na sensibilidade fenotípica do
+entecavir foram observadas para as cepas resistentes à lamivudina. Para reduções adicionais (>
+70 vezes) na sensibilidade fenotípica do entecavir, foi necessária a presença de substituições
+aminoácidas no rtM204I/V com ou sem alteração em rtL180M e substituições adicionais nos
+PFS-0141-020 10
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+resíduos rtT184, rtS202 ou rtM250, ou a combinação destas substituições com ou sem uma
+substituição rtI169 na transcriptase reversa do VHB.
+Cepas resistentes à lamivudina com rtL180M e rtM204V, em combinação com a substituição do
+aminoácido rtA181C, conferiram uma redução de 16 a 122 vezes na susceptibilidade fenotípica
+do entecavir.
+- Estudos clínicos
+Pacientes virgens de tratamento com nucleosídeo: avaliações genotípicas foram realizadas em
+amostras (> 300 cópias/mL de soro com DNA de VHB) de 562 pacientes tratados com entecavir
+monoidratado, por até 96 semanas, em estudos com pacientes virgens de tratamento com
+nucleosídeo (AI 463022, AI 463027 e estudo de extensão AI 463901). Na semana 96, a evidência
+de substituição de aminoácido na rtS202G, com substituições na rtM204V e rtL180M, foi
+detectada em VHB de 2 pacientes (2/562 = < 1%) e um deles apresentou rebote virológico (≥ 1
+log de aumento sobre nadir). Além disso, substituições de aminoácido na rtM204I/V e rtL180M,
+rtL80I ou rtV173L, que levaram à diminuição da sensibilidade fenotípica ao entecavir
+na ausência de mudanças na rtT184, rtS202 ou rtM250, foram detectados no VHB de 3 pacientes
+(3/562 = < 1%) que apresentaram rebote virológico. Para pacientes que continuaram o tratamento
+após 48 semanas, 75% (202/269) tiveram DNA de VHB < 300 cópias/mL no final do tratamento
+(até 96 semanas).
+Pacientes virgens de tratamento HBeAg-positivos (n = 243) e HBeAg-negativos (n = 39), que
+falharam para atingir a resposta completa definida do estudo em 96 semanas, continuaram o
+tratamento com entecavir em um estudo de extensão. A resposta completa para HBeAg-positivo
+5
+foi < 0,7 MEq/mL (aproximadamente 7 x 10 cópias/mL) de DNA de VHB sérico e perda de
+HBeAg; para HBeAg-negativo foi < 0,7 MEq/mL de DNA de VHB e normalização de ALT.
+Pacientes receberam 1 mg de entecavir, uma vez ao dia, por um período adicional de até 144
+semanas. Desses 282 pacientes, 141 pacientes HBeAg-positivos e 8 pacientes HBeAg-negativos
+entraram no estudo de extensão de acompanhamento de longa duração e foram avaliados para
+resistência ao entecavir. Entre os 149 pacientes que entraram no estudo de extensão, 88%
+(131/149), 92% (137/149) e 92% (137/149) atingiram DNA de VHB sérico < 300 cópias/mL nas
+semanas 144, 192 e 240 (incluindo final do tratamento), respectivamente. Nenhuma nova
+substituição associada à resistência ao entecavir foi identificada na comparação dos genótipos dos
+isolados avaliados com seus respectivos isolados basais. A probabilidade cumulativa de
+desenvolvimento das substituições relacionadas à resistência ao entecavir em rtT184, rtS202 ou
+rtM250 (na presença das substituições em rtM204V e rtL180M) nas semanas 48, 96, 144, 192 e
+240 foi 0,2%; 0,5%; 1,2%; 1,2% e 1,2%, respectivamente.
+Pacientes resistentes à lamivudina: avaliações genotípicas foram realizadas em amostras
+disponíveis de 190 pacientes tratados com entecavir monoidratado por até 96 semanas em estudos
+de VHB resistente à lamivudina (AI 463026, AI 463014, AI 463015 e estudo de extensão AI
+463901). Na semana 96, substituições de aminoácidos associadas à resistência em rtS202, rtT184
+ou rtM250, com ou sem alterações em rtI169, na presença de substituições aminoácidas em
+rtM204I/V com ou sem rtL180M, rtL80V ou rtV173L/M surgiram no VHB de 22 pacientes
+(22/190 = 12%), sendo que 16 apresentaram rebote virológico (≥ 1 log de aumento sobre nadir)
+10
+e 4 nunca tiveram supressão viral < 300 cópias/mL. O VHB de 4 desses pacientes possuía
+substituições de resistência ao entecavir no basal e adquiriu alterações no tratamento com
+entecavir. Além dos 22 pacientes, 3 outros apresentaram rebote virológico com o surgimento de
+rtM204I/V e rtL180M, rtL80V ou rtV173L/M. Para isolados de pacientes que apresentaram
+rebote virológico com o aparecimento de substituições de resistência (n = 19), a média de
+alteração nos valores de EC do entecavir quando comparado à referência, foi 19 vezes no basal
+50
+e 106 vezes no período de rebote virológico. Para pacientes que continuaram o tratamento além
+PFS-0141-020 11
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+das 48 semanas, 40% (31/77) tinha DNA de VHB < 300 cópias/mL no final do tratamento (até
+96 semanas).
+Pacientes resistentes à lamivudina (n = 157), que falharam para atingir resposta completa definida
+do estudo na semana 96, continuaram o tratamento com entecavir. Os pacientes receberam 1 mg
+de entecavir, uma vez ao dia, por um período adicional de até 144 semanas. Desses pacientes, 80
+entraram no estudo de acompanhamento de longa duração e foram avaliados para a resistência ao
+entecavir. Nas semanas 144, 192 e 240 (incluindo o final do tratamento), 34% (27/80), 35%
+(28/80) e 36% (29/80), respectivamente, atingiram DNA de VHB < 300 cópias/mL. A
+probabilidade cumulativa de desenvolvimento de substituições rtT184, rtS202 ou rtM250
+associadas à resistência ao entecavir (na presença de substituições rtM204I/V com ou sem
+rtL180M) nas semanas 48, 96, 144, 192 e 240 foi 6,2%, 15%, 36,3%, 46,6% e 51,5%,
+respectivamente. O VHB de 6 pacientes desenvolveu substituições de aminoácidos na
+rtA181C/G/S/T enquanto eram tratados com entecavir e, desses, 4 desenvolveram substituições
+de resistência ao entecavir nas rtT184, rtS202 ou rtM250 e 1 tinha uma substituição na rtT184S
+no basal. Dos 7 pacientes cujo VHB tinha uma substituição na rtA181 no basal, 2 pacientes
+também tinham substituições na rtT184, rtS202 ou rtM250 no basal e outros 2 pacientes
+desenvolveram-nas enquanto estavam sob tratamento com entecavir.
+Resistência cruzada: resistência cruzada foi observada entre análogos de nucleosídeos de VHB.
+Em ensaios baseados em células, entecavir apresentou inibição de 8 a 30 vezes menor na síntese
+do DNA de VHB para o VHB contendo substituições de resistência à lamivudina e à telbivudina
+rtM204I/V com ou sem rtL180M em relação ao vírus selvagem de VHB. Substituições rtM204I/V
+com ou sem rtL180M, rtL80I/V ou rtV173L, que estão associadas com resistência à lamivudina
+e à telbivudina, também decrescem a sensibilidade fenotípica ao entecavir. A eficácia de entecavir
+contra VHB com substituições associadas à resistência ao adefovir não foram estabelecidas nos
+estudos clínicos. Isolados de VHB de pacientes resistentes à lamivudina com falha na terapia com
+entecavir foram susceptíveis ao adefovir em cultura celular, mas permaneceram resistentes à
+lamivudina. Genomas recombinantes de VHB codificando substituições associadas à resistência
+ao adefovir em rtN236T ou rtA181V apresentaram 0,3 e 1,1 vezes de alteração na susceptibilidade
+ao entecavir em cultura celular, respectivamente.
+Análise integrada de estudos clínicos fase 2 e 3: em uma análise integrada pós-aprovação de
+dados de resistência ao entecavir proveniente de 17 estudos clínicos fases 2 e 3, uma substituição
+emergente rtA181C, associada à resistência ao entecavir, foi detectada em 5 dos 1461 indivíduos
+durante o tratamento com entecavir. Essa substituição foi detectada apenas em presença de
+substituições rtL180M e rtM204V associadas à resistência a lamivudina.
+- Farmacocinética
+As farmacocinéticas de dose única e múltipla de entecavir foram avaliadas em voluntários sadios
+e pacientes com infecção crônica de hepatite B.
+- Absorção
+Em voluntários sadios, entecavir foi rapidamente absorvido com pico de concentração plasmática
+ocorrendo entre 0,5 e 1,5 horas após administração oral. Houve um aumento proporcional à dose
+nos valores de pico de concentração plasmática (C ) e área sobre a curva (ASC) no estado de
+max
+equilíbrio de acordo com doses múltiplas diárias entre 0,1 e 1 mg. O estado de equilíbrio foi
+atingido após 6-10 dias da administração de uma dose única diária com acúmulo aproximado de
+2 vezes a concentração. C e concentração plasmática no estado de equilíbrio foram de 4,2 e 0,3
+max
+ng/mL, respectivamente, para a dose de 0,5 mg e, 8,2 e 0,5 ng/mL, respectivamente, para dose de 1
+mg.
+PFS-0141-020 12
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Efeitos da alimentação na absorção oral: a administração oral de entecavir 0,5 mg com refeição
+padrão gordurosa (945 kcal, 54,6 g de gordura) ou refeição leve (379 kcal, 8,2 g de gordura)
+resultou em atraso na absorção (1-1,5 hora alimentado vs. 0,75 hora em jejum), diminuição na
+C de 44-46% e diminuição na ASC de 18-20%.
+max
+- Distribuição
+Baseando-se no perfil farmacocinético de entecavir após administração oral, o volume aparente
+de distribuição estimado para entecavir está em excesso no total de água presente no corpo,
+sugerindo que entecavir é distribuído extensivamente nos tecidos.
+A ligação de entecavir às proteínas plasmáticas humanas in vitro foi de, aproximadamente, 13%.
+- Metabolismo e eliminação
+Após a administração de 14C-entecavir em humanos e ratos, nenhum metabólito oxidativo ou
+acetilado foi observado. Quantidade mínima de metabólitos de fase II (conjugados de glucuronida
+e sulfato) foi observada. Entecavir não é um substrato, inibidor ou indutor, do sistema enzimático
+CYP450 (vide 3. CARACTERÍSTICAS FARMACOLÓGICAS: Interações
+medicamentosas).
+Após atingir níveis de pico, as concentrações plasmáticas de entecavir diminuíram de maneira
+biexponencial com meia-vida de eliminação terminal de aproximadamente 128-149 horas. O
+índice de acúmulo observado de fármaco é aproximadamente 2 vezes maior com dose única
+diária, sugerindo um tempo de meia-vida efetivo do acúmulo de aproximadamente 24 horas.
+Entecavir é predominantemente eliminado pelos rins com recuperação urinária do fármaco
+inalterado no estado de equilíbrio variando de 62%-73% da dose administrada. A depuração renal
+é independente da dose e varia entre 360 e 471 mL/min sugerindo que entecavir passa tanto por
+filtração glomerular quanto por secreção da rede tubular (vide 6. INTERAÇÕES
+MEDICAMENTOSAS).
+- Populações Especiais
+Pacientes com insuficiência renal
+A farmacocinética do entecavir após uma dose única de 1 mg foi estudada em pacientes (sem
+infecção crônica por hepatite B) com graus selecionados de insuficiência renal, incluindo
+pacientes cuja insuficiência renal era controlada por hemodiálise ou por diálise peritoneal
+ambulatorial contínua (DPAC). Os resultados são apresentados na Tabela 8:
+Tabela 8: Parâmetros Farmacocinéticos em Indivíduos com Graus Selecionados de Função
+Renal
+Grupo de Função Renal
+Depuração da Creatinina Basal (mL/min)
+Sem Leve Moderada Grav Grave Grave
+insuficiência > 50 a 30 a 50 e Controlada Controlad
+> 80 ≤ 80 (n = 6) < 30 com a
+(n = 6) (n = 6) (n = Hemodiálise a com DPAC
+6) (n = 4)
+(n = 6)
+C (ng/mL) 8,1 10,4 10,5 15,3 15,4 16,6
+max
+(CV%) (30,7) (37,2) (22,7) (33,8) (56,4) (29,7)
+ASC 27,9 51,5 69,5 145,7 233,9 221,8
+(0-T)
+(ng•h/mL) (25,6) (22,8) (22,7) (31,5) (28,4) (11,6)
+(CV%)
+CLR (mL/min) 383,2 197,9 135,6 40,3 NA NA
+(SD) (101,8) (78,1) (31,6) (10,1)
+PFS-0141-020 13
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+CLT/F 588,1 309,2 226,3 100,6 50,6 35,7
+(mL/min) (153,7) (62,6) (60,1) (29,1) (16,5) (19,6)
+(SD)
+a
+Administrado imediatamente após hemodiálise.
+CLR = depuração renal; CLT/F = depuração oral aparente
+Após uma dose única de 1 mg de entecavir administrado 2 horas antes da sessão de hemodiálise,
+foram removidos aproximadamente 13% da dose de entecavir durante 4 horas de hemodiálise.
+DPAC removeu aproximadamente 0,3% da dose, durante 7 dias.
+Pacientes com insuficiência hepática
+A farmacocinética do entecavir, após uma dose única de 1 mg, foi estudada em pacientes (sem
+infecção crônica por hepatite B) com insuficiência hepática moderada e grave (Child-Pugh classe
+B ou C). A farmacocinética do entecavir foi semelhante entre os pacientes com insuficiência
+hepática e indivíduos saudáveis de controle; portanto, nenhum ajuste na dosagem de entecavir
+monoidratado é recomendado para pacientes com insuficiência hepática.
+Pacientes que receberam transplante de fígado
+Existem dados limitados sobre a eficácia e segurança de entecavir monoidratado em pacientes
+que receberam transplante de fígado. Em um pequeno estudo piloto de uso de entecavir em
+receptores de transplante de fígado, infectados por VHB, com uma dose estável de ciclosporina
+A (n = 5) ou de tacrolimo (n = 4), a exposição ao entecavir foi de aproximadamente 2 vezes a
+exposição em indivíduos saudáveis, com função renal normal. A função renal alterada contribuiu
+para o aumento da exposição ao entecavir nesses pacientes. O potencial de interações
+farmacocinéticas entre entecavir e ciclosporina A ou tacrolimo não foi formalmente avaliado.
+Pacientes geriátricos
+O efeito da idade na farmacocinética do entecavir foi avaliado por meio da administração de uma
+dose única oral de 1 mg em voluntários jovens e idosos sadios. A ASC de entecavir foi 29,3%
+maior em voluntários idosos em relação aos jovens. A disparidade na exposição entre voluntários
+jovens e idosos foi provavelmente atribuída a diferenças na função renal. O ajuste de dose de
+entecavir monoidratado deve ser baseado na função renal do paciente e não na idade.
+Sexo/Raça
+Sexo ou raça não interferem no perfil farmacocinético de entecavir.
+- Interações medicamentosas
+O metabolismo de entecavir foi avaliado em estudos in vitro e in vivo. Entecavir não é um
+substrato, inibidor ou indutor, do sistema enzimático citocromo P450 (CYP450). Em
+concentrações de até, aproximadamente, 10.000 vezes maiores que aquelas obtidas em humanos,
+entecavir não inibiu nenhuma das principais enzimas do CYP450 1A2, 2C9, 2C19, 2D6, 3A4,
+2B6 e 2E1. Em concentrações de até aproximadamente 340 vezes maiores que aquelas observadas
+em humanos, entecavir não induziu as enzimas humanas do CYP450 1A2, 2C9, 2C19, 3A4, 3A5
+e 2B6.
+É improvável que a farmacocinética do entecavir seja afetada pela coadministração de agentes
+que também sejam metabolizados pelo sistema CYP450, induzem ou inibem o sistema CYP450.
+Da mesma maneira, é improvável que a farmacocinética de conhecidos substratos de CYP seja
+afetada pela coadministração de entecavir.
+O estado de equilíbrio farmacocinético de entecavir e medicamentos coadministrados não foi
+alterado em estudos de interação de entecavir com lamivudina, adefovir dipivoxila e fumarato de
+tenofovir desoproxila (vide 6. INTERAÇÕES MEDICAMENTOSAS).
+PFS-0141-020 14
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+4. CONTRAINDICAÇÕES
+O entecavir monoidratado é contraindicado em pacientes que previamente demonstraram
+hipersensibilidade ao entecavir ou a qualquer outro componente do produto.
+Categoria de risco na gravidez: C
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou
+do cirurgião-dentista.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Atenção: o tratamento com entecavir monoidratado não diminui o risco de transmissão do VHB
+para outras pessoas por meio da relação sexual, compartilhamento de agulhas ou exposição ao
+sangue. Converse com seu paciente sobre a prática de relações sexuais seguras. Oriente-o a nunca
+compartilhar agulhas ou itens pessoais que possam estar contaminados com sangue ou fluidos
+corpóreos, como escovas de dentes ou lâminas de barbear.
+Exacerbação aguda grave da hepatite B
+Exacerbação aguda de hepatite B foi relatada em pacientes que descontinuaram terapia para
+hepatite B, incluindo a terapia com entecavir monoidratado. A maioria das exacerbações pós-
+tratamento parecem ser autolimitadas. No entanto, exacerbações graves, incluindo casos fatais,
+podem ocorrer. A relação causal desses eventos com a descontinuação da terapia é desconhecida.
+A função hepática deve ser monitorada com acompanhamento clínico e laboratorial, por alguns
+meses, em pacientes que descontinuaram a terapia para hepatite B. Se apropriada, a reintrodução
+da terapia para hepatite B deve ser garantida (vide 9. REAÇÕES ADVERSAS: Exacerbações
+da hepatite após descontinuação do tratamento).
+Pacientes coinfectados com HIV e VHB
+Entecavir monoidratado não foi avaliado em pacientes coinfectados com HIV e VHB que não
+estejam recebendo, simultaneamente, tratamento efetivo para HIV. Estudos clínicos limitados
+sugerem que existe um potencial para o desenvolvimento da resistência aos inibidores da
+transcriptase reversa de nucleosídeo (ITRNs) de HIV se entecavir monoidratado for usado no
+tratamento de hepatite B crônica em pacientes com HIV que não estão sendo tratados. Portanto,
+a terapia com entecavir monoidratado não é recomendada em pacientes coinfectados que não
+estão recebendo terapia ativa antirretroviral (HAART). Antes de iniciar a terapia com entecavir
+monoidratado, os pacientes devem realizar um teste para HIV. Entecavir monoidratado não foi
+estudado para tratamento de pacientes com HIV e não é recomendado para este uso.
+Acidose láctica e hepatomegalia grave com esteatose
+Acidose láctica e hepatomegalia grave com esteatose, incluindo casos fatais, foram relatadas com
+o uso de análogos de nucleosídeos isolados ou em combinação com antirretrovirais.
+A maioria dos casos tem ocorrido em mulheres. Obesidade e prolongamento da exposição aos
+nucleosídeos podem ser fatores de risco. Deve-se ter cautela na administração de análogos de
+nucleosídeos em qualquer paciente com fator de risco conhecido para doença de fígado,
+entretanto, alguns casos têm sido reportados em pacientes sem histórico desses fatores de risco.
+O tratamento com entecavir monoidratado deverá ser suspenso em qualquer paciente que
+apresentar sintomas clínicos ou achados laboratoriais sugestivos de acidose láctica ou de
+hepatotoxicidade pronunciada (a qual pode incluir hepatomegalia e esteatose mesmo na ausência
+de elevações de transaminases acentuadas).
+Carcinogênese, mutagênese e infertilidade
+Estudos de carcinogenicidade oral, a longo prazo, em camundongos e ratos foram conduzidos
+com exposições de até 42 vezes (camundongos) e 35 vezes (ratos) daquelas observadas em
+PFS-0141-020 15
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+humanos, com maior dose recomendada de 1 mg/dia. Em estudos com camundongos e ratos,
+entecavir foi positivo para achados carcinogênicos.
+Em camundongos, adenomas de pulmão aumentaram em machos e fêmeas com exposição de 3 a
+40 vezes daquelas em humanos. Carcinomas de pulmão aumentaram em camundongos machos e
+fêmeas com exposição de 40 vezes daquelas em humanos. Adenomas e carcinomas combinados
+aumentaram em camundongos machos com exposição 3 vezes e em camundongos fêmeas com
+exposição 40 vezes daquelas em humanos. O desenvolvimento de tumor foi precedido por
+proliferação de pneumócitos nos pulmões, o que não foi observado em ratos, cães ou macacos aos
+quais foi administrado o entecavir, dando suporte à conclusão de que os tumores nos pulmões de
+camundongos são um evento específico da espécie. Carcinomas hepatocelulares aumentaram em
+machos e adenomas combinados com carcinoma hepático também aumentaram com exposição
+42 vezes daquelas em humanos. Tumores vasculares em camundongos fêmeas (hemangiomas de
+ovários e útero e hemangiosarcomas de baço) aumentaram com exposição de 40 vezes daquelas
+em humanos. Em ratos, adenomas hepatocelulares aumentaram em fêmeas com exposição de 24
+vezes daquelas em humanos; carcinomas combinados com adenomas também aumentaram em
+fêmeas com exposição de 24 vezes daquelas em humanos. Gliomas cerebrais foram induzidos em
+machos e fêmeas com exposição de 35 a 24 vezes daquelas em humanos. Fibromas de pele foram
+induzidos em fêmeas com exposição de 4 vezes daquelas em humanos.
+Não se sabe se os resultados dos estudos de carcinogenicidade em roedores são preditivos para
+humanos.
+Dados de um estudo clínico de longo prazo mostraram que entecavir monoidratado não foi
+associado a um risco aumentado de neoplasias malignas quando comparado a outros padrões de
+tratamento de hepatite B análogos de nucleosídeos, em indivíduos com infecção crônica pelo
+VHB (vide 2. RESULTADOS DE EFICÁCIA: Resultados de estudo de acompanhamento a
+longo prazo).
+O entecavir foi clastogênico para culturas de linfócito humano. Entecavir não foi mutagênico no
+ensaio de mutagenicidade microbiana Ames, usando culturas de S. typhimurium e E. coli na
+presença ou ausência de ativação metabólica, um ensaio de mutação de gene em célula de
+mamíferos e em um ensaio de transformação, com células de embrião de hamster sírio. O
+entecavir também foi negativo em um estudo oral de micronúcleo e em um estudo oral de reparo
+de DNA em ratos.
+Em estudos de toxicidade reprodutiva, em que foram administradas nos animais doses de até 30
+mg/kg por até 4 semanas, não houve evidência de efeitos sobre a fertilidade em ratos machos e
+fêmeas com exposição sistêmica > 90 vezes àquelas atingidas em humanos com maior dose
+recomendada de 1 mg/dia. Em estudos de toxicidade em roedores e cães, foi observada uma
+degeneração tubular seminífera com exposições ≥ 35 vezes daquelas atingidas em humanos.
+Nenhuma alteração testicular foi evidente em macacos.
+Uso em populações específicas
+- Gravidez
+Categoria de risco na gravidez: C
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou
+do cirurgião-dentista.
+Não existem estudos adequados e bem controlados em mulheres grávidas. Considerando que
+estudos de reprodução não são sempre preditivos para a resposta humana, entecavir monoidratado
+deve ser utilizado durante a gravidez somente se realmente necessário e após consideração
+cuidadosa dos riscos e benefícios. Estudos de reprodução foram realizados em ratos e coelhos.
+Não houve sinais de toxicidade embriofetal ou materna quando animais prenhas receberam
+entecavir em exposições de 28 (ratos) e 212 (coelhos) vezes aproximadamente da exposição
+humana atingida na maior dose recomendada em humanos de 1 mg/dia. Em ratos, toxicidade
+materna, toxicidade embriofetal (reabsorções), pesos corporais fetais mais baixos, más-formações
+PFS-0141-020 16
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+vertebrais da cauda, ossificação reduzida (vértebras, esternebras e falanges), vértebras
+extralombares e costelas foram observadas em exposições de 3100 vezes daquelas em humanos.
+Em coelhos, toxicidade embriofetal (reabsorções), ossificação reduzida (hioide) e uma incidência
+aumentada da 13ª costela foram observadas em exposições de 883 vezes daquelas em humanos.
+Em um estudo pré-natal e pós-natal em ratos, não foi observado nenhum efeito adverso sobre a
+descendência com administração oral de entecavir com exposições > 94 vezes à exposição
+humana.
+- Trabalho de parto
+Não há estudos em mulheres grávidas e não há dados sobre o efeito do entecavir monoidratado
+sobre a transmissão do VHB de mãe para filho. Portanto, intervenções apropriadas devem ser
+utilizadas para evitar a aquisição neonatal do VHB.
+- Lactação
+O entecavir é excretado no leite de ratas. Não se sabe se esse fármaco é excretado no leite humano.
+Mães devem ser instruídas a não amamentar, caso estejam tomando entecavir monoidratado.
+O uso deste medicamento no período da lactação depende da avaliação e acompanhamento
+do seu médico ou cirurgião-dentista.
+Uso criterioso no aleitamento ou na doação de leite humano.
+- Uso pediátrico
+A segurança e a eficácia de entecavir em pacientes com menos de 16 anos de idade não foram
+estabelecidas.
+- Uso geriátrico
+Os estudos clínicos de entecavir monoidratado não incluíram número suficiente de indivíduos
+com 65 anos ou mais, para determinar se eles respondem de maneira diferente aos indivíduos
+mais jovens. O entecavir é excretado principalmente pelos rins e o risco de reações tóxicas a esse
+fármaco pode ser maior em pacientes com função renal prejudicada. Como os pacientes idosos
+têm uma probabilidade maior de apresentar função renal diminuída, deve-se tomar cuidado na
+escolha da dose e pode ser interessante monitorar a função renal (vide 8. POSOLOGIA E
+MODO DE USAR: Pacientes com insuficiência renal).
+- Pacientes com insuficiência renal
+O ajuste de dose de entecavir monoidratado é recomendado para pacientes com depuração de
+creatinina menor que 50 mL/min, incluindo pacientes sob hemodiálise ou diálise peritoneal
+ambulatorial contínua (DPAC).
+- Pacientes que receberam transplante de fígado
+Existem dados limitados sobre a eficácia e segurança de entecavir monoidratado em pacientes
+que receberam transplante de fígado. Em um estudo aberto, braço único, pacientes com DNA de
+VHB menor que 172 UI/mL no momento do transplante foram tratados com entecavir
+monoidratado 1 mg ao dia após o transplante. A frequência e natureza dos eventos adversos
+encontrados nesse estudo foram consistentes com aqueles esperados para pacientes fígado-
+transplantados e também com o perfil de segurança já conhecido para entecavir monoidratado.
+Dos 61 pacientes avaliados, nenhum apresentou recorrência do vírus (vide 2. RESULTADOS
+DE EFICÁCIA: Pacientes que receberam transplante de fígado).
+Se o tratamento com entecavir monoidratado for necessário em pacientes que receberam
+transplante de fígado e que receberam ou estão recebendo imunossupressores que podem afetar a
+função renal, como ciclosporina ou tacrolimo, a função renal deve ser cuidadosamente avaliada
+antes e durante o tratamento com entecavir monoidratado.
+PFS-0141-020 17
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+- Grupos raciais/étnicos
+Dados limitados de um estudo aberto, braço único, de entecavir monoidratado em pacientes com
+infecção crônica por VHB, virgens de nucleosídeos e predominantemente negros/afroamericanos,
+demonstrou segurança e eficácia viral consistentes com as observadas em estudos clínicos
+controle (vide 2. RESULTADOS DE EFICÁCIA: Grupos raciais/étnicos).
+Atenção: Contém LACTOSE.
+Este medicamento não deve ser usado por pessoas com síndrome de má-absorção de glicose-
+galactose.
+Contém o corante dióxido de titânio que pode, eventualmente, causar reações alérgicas.
+6. INTERAÇÕES MEDICAMENTOSAS
+Interação com medicamentos
+Como entecavir é predominantemente eliminado pelos rins, a coadministração de entecavir
+monoidratado com medicamentos que reduzem a função renal ou que competem pela secreção
+tubular ativa pode aumentar as concentrações dos dois medicamentos no sangue.
+A coadministração de entecavir monoidratado com lamivudina, adefovir dipivoxila ou fumarato
+de tenofovir desoproxila resultou em interações medicamentosas não significantes. Os efeitos da
+coadministração de entecavir monoidratado com outros medicamentos que são excretados pelos
+rins ou que afetam a função renal não foram avaliados. Pacientes devem ser cuidadosamente
+monitorados quanto a eventos adversos, quando entecavir monoidratado é coadministrado com
+esses medicamentos.
+Interação com alimentos
+A administração de entecavir com alimentos reduz a absorção (vide 8. POSOLOGIA E MODO
+DE USAR).
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar o medicamento em temperatura ambiente (15 oC a 30 oC), proteger da umidade.
+Prazo de validade
+Apresentação em frasco com 30 comprimidos: 36 meses após a data de fabricação.
+Apresentação em frasco com 90 comprimidos: 24 meses após a data de fabricação.
+Apresentação em frasco com 30 comprimidos: Após aberto, válido por 30 dias.
+Apresentação em frasco com 90 comprimidos: Após aberto, válido por 90 dias.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem
+original.
+Características físicas e organolépticas
+entecavir monoidratado 0,5 mg: comprimido revestido, de cor branca, circular, biconvexo,
+isento de material estranho.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+PFS-0141-020 18
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+O entecavir monoidratado deve ser administrado oralmente com o estômago vazio (ou seja, no
+mínimo duas horas após a refeição ou duas horas antes da próxima refeição).
+Para segurança e eficácia desta apresentação, entecavir monoidratado não deve ser administrado
+por vias não recomendadas. A administração deve ser somente pela via oral.
+Doença hepática compensada
+A dose recomendada de entecavir monoidratado para infecção crônica pelo vírus da hepatite B
+em pacientes adultos e pediátricos de 16 anos ou mais, virgens de tratamento por nucleosídeos, é
+de 0,5 mg, uma vez ao dia.
+A dose recomendada de entecavir monoidratado para pacientes adultos e pediátricos de 16 anos
+ou mais, com história de viremia durante a terapia com lamivudina ou com presença de mutações
+de resistência conhecidas (rtM204I/V com ou sem rtL180M, rtL80I/V ou rtV173L) à lamivudina
+ou à telbivudina, é de 1 mg, uma vez ao dia.
+Doença hepática descompensada
+A dose recomendada de entecavir monoidratado para infecção crônica pelo vírus da hepatite B
+em adultos e pediátricos de 16 anos ou mais, com doença hepática descompensada, é de 1 mg,
+uma vez ao dia.
+Pacientes com insuficiência renal
+A depuração de entecavir diminui com o decréscimo da depuração de creatinina. O ajuste da dose
+de entecavir monoidratado é recomendado para pacientes com depuração de creatinina menor que
+50 mL/min, incluindo aqueles pacientes em hemodiálise ou diálise peritoneal ambulatorial
+contínua (DPAC), como mostrado na Tabela 9. São preferidos esquemas de tratamento baseados
+em uma dose diária.
+Tabela 9: Dosagem Recomendada de entecavir monoidratado em Pacientes com
+Insuficiência Renal
+Depuração de Creatinina Dose Usual (0,5 mg uma Resistente à lamivudina ou à
+(mL/min) vez ao dia) doença hepática
+descompensada (1 mg uma vez
+ao dia)
+≥ 50 0,5 mg uma vez/dia 1 mg uma vez/dia
+30 a < 50 0,5 mg a cada 48 horas 1 mg a cada 48 horas
+10 a < 30 0,5 mg a cada 72 horas 1 mg a cada 72 horas
+< 10
+0,5 mg a cada 5-7 dias 1 mg a cada 5-7 dias
+Hemodiálise* ou DPAC
+*Nos dias de hemodiálise, administrar após a hemodiálise.
+Pacientes com insuficiência hepática
+Não é necessário nenhum ajuste de dose para pacientes com insuficiência hepática.
+Duração da terapia
+A duração do tratamento com entecavir monoidratado para pacientes com hepatite B crônica e a
+relação entre o tratamento e resultados a longo prazo, como cirrose e carcinoma hepatocelular,
+são desconhecidos.
+Pacientes pediátricos
+A segurança e eficácia de entecavir em pacientes com menos de 16 anos de idade não foram
+estabelecidas.
+PFS-0141-020 19
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Pacientes geriátricos
+Nenhum ajuste de dose é necessário em função da idade.
+Este medicamento não deve ser partido, aberto ou mastigado.
+Não tome este medicamento por período maior do que está recomendado na bula ou
+recomendado pelo médico, pois pode causar problemas nos rins, estômago, intestino,
+coração e vasos sanguíneos.
+9. REAÇÕES ADVERSAS
+Os estudos clínicos são conduzidos sob condições variáveis, as taxas de reações adversas
+observadas nos estudos clínicos de um medicamento não podem ser comparadas
+diretamente às taxas de estudos clínicos de outro medicamento e pode não refletir as taxas
+observadas na prática.
+A avaliação das reações adversas está baseada em quatro estudos clínicos (AI 463014, AI 463022,
+AI 463026 e AI 463027) nos quais 1720 pacientes com infecção crônica pelo VHB e doença
+hepática compensada receberam tratamento duplo-cego com entecavir monoidratado 0,5
+mg/dia (n = 679), entecavir monoidratado 1 mg/dia (n = 183) ou lamivudina (n = 858) por até 2
+anos. A duração média da terapia foi de 69 semanas para pacientes tratados com entecavir
+monoidratado e 63 semanas para aqueles tratados com lamivudina, nos estudos AI 463022 e AI
+463027.
+Nos estudos AI 463026 e AI 463014, a duração média da terapia foi de 73 e 51 semanas, para
+entecavir monoidratado e lamivudina, respectivamente. Os perfis de segurança de entecavir
+monoidratado e lamivudina foram comparáveis nestes estudos. O perfil de segurança de entecavir
+monoidratado 1 mg (n = 51) em pacientes coinfectados por HIV/VHB randomizados para o estudo
+AI 463038 foi similar ao placebo (n = 17) até 24 semanas de tratamento cego e similar ao que foi
+observado em pacientes não infectados por HIV (vide 5. ADVERTÊNCIAS E PRECAUÇÕES:
+Pacientes coinfectados com HIV e VHB).
+Entre os pacientes tratados com entecavir monoidratado, os eventos adversos mais comuns de
+qualquer severidade (≥ 3%) com a possibilidade de ter possível relação com entecavir
+monoidratado foram: cefaleia, fadiga, vertigem e náusea. Os eventos adversos mais comuns entre
+os pacientes tratados com lamivudina foram: cefaleia, fadiga e tontura. 1% dos pacientes tratados
+com entecavir monoidratado, nesses quatro estudos, comparando-se com 4% dos pacientes
+tratados com lamivudina, descontinuaram o tratamento devido a eventos adversos ou a resultados
+de testes laboratoriais anormais.
+Eventos adversos clínicos
+- Pacientes virgens de nucleosídeos
+Em dois estudos duplos-cegos controlados com lamivudina, sendo um estudo com pacientes
+positivos para antígeno da hepatite B (HBeAg) e outro com indivíduos HBeAg-negativo, 679
+pacientes virgens de nucleosídeos receberam entecavir monoidratado 0,5 mg uma vez ao dia por
+um tempo médio de 54 semanas. Reações adversas de intensidade moderada ou grave e
+consideradas, pelo menos, possivelmente relacionadas ao tratamento com entecavir monoidratado
+estão listadas por sistemas de classe de órgãos. A frequência é definida como muito comum (≥
+1/10); comum (≥ 1/100, < 1/10) e incomum (≥ 1/1000, < 1/100).
+- Incomum: insônia.
+ Distúrbios Psiquiátricos:
+PFS-0141-020 20
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+- Comum: cefaleia.
+ Distúrbios do Sistema Nervoso:
+- Incomum: tontura, sonolência.
+- Incomum: náusea, diarreia, dispepsia, vômito.
+ Distúrbios Gastrointestinais:
+- Comum: fadiga.
+ Geral:
+- Pacientes resistentes à lamivudina
+Em dois estudos duplos-cegos, controlados por lamivudina, 183 pacientes resistentes à
+lamivudina receberam entecavir monoidratado 1 mg uma vez ao dia por um período médio de
+69 semanas. Reações adversas de intensidade moderada ou grave e consideradas, pelo menos,
+possivelmente relacionadas ao tratamento com entecavir monoidratado estão listadas por
+sistemas de classe de órgãos. A frequência é definida como muito comum (≥ 1/10); comum (≥
+1/100, < 1/10) e incomum (≥ 1/1000, < 1/100).
+- Comum: cefaleia.
+ Distúrbios do Sistema Nervoso:
+- Comum: diarreia, dispepsia.
+ Distúrbios Gastrointestinais:
+- Comum: fadiga.
+ Geral:
+Anormalidades laboratoriais
+As frequências de anormalidades laboratoriais selecionadas, relatadas durante a terapia em quatro
+estudos clínicos de entecavir monoidratado, comparando com a lamivudina, estão relacionados
+na Tabela 10.
+Tabela 10: Anormalidades Laboratoriais Selecionadas Relatadas Durante o
+Tratamento
+a
+em Quatro Estudos Controlados com lamivudina (2 anos)
+Exame Virgens de Nucleosídeo b Resistentes à lamivudina c
+entecavir lamivudina entecavir lamivudina
+monoidratado 100 mg monoidratado 100 mg
+0,5 mg n = 668 1 mg n = 190
+n = 679 n = 183
+Qualquer anormalidade
+35% 36% 37% 45%
+d
+laboratorial grau 3-4
+ALT
+2% 4% 2% 11%
+> 10 X LSN e > 2 X basal
+ALT
+11% 16% 12% 24%
+> 5 X LSN
+Albumina
+< 1% < 1% 0 2%
+< 2,5 g/dL
+Bilirrubina total
+2% 2% 3% 2%
+> 2,5 LSN
+Amilase
+2% 2% 3% 3%
+≥ 2,1 X LSN
+Lipase
+7% 6% 7% 7%
+≥ 2,1 X LSN
+Creatinina
+0 0 0 0
+> 3 X LSN
+Aumento de creatinina
+confirmada 1% 1% 2% 1%
+≥ 0,5 X mg/dL
+PFS-0141-020 21
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Hiperglicemia em jejum
+2% 1% 3% 1%
+> 250 mg/dL
+Glicosúria e 4% 3% 4% 6%
+Hematúria f 9% 10% 9% 6%
+Plaquetas
+< 1% < 1% < 1% < 1%
+< 50.000/mm3
+a
+Valores em tratamento pioraram do basal para Grau 3 ou Grau 4 para todos os parâmetros, exceto
+para albumina (qualquer valor em tratamento < 2,5 g/dL), aumento de creatinina confirmada ≥
+0,5 mg/dL e ALT > 10 X LSN > 2 X basal.
+b
+Estudos AI 463022 e AI 463027.
+c
+Inclui o estudo AI 463026 e os braços de tratamento com entecavir monoidratado 1 mg e
+lamivudina do estudo AI 463014, um estudo de fase 2, multicêntrico, randomizado, duplo-cego,
+de três doses de entecavir monoidratado (0,1; 0,5 e 1 mg) uma vez ao dia, versus lamivudina 100
+mg, uma vez ao dia, por até 52 semanas em pacientes que apresentaram viremia recorrente com
+a terapia de lamivudina.
+d
+Incluiu hematologia, rotinas químicas, teste da função renal e do fígado, enzimas pancreáticas e
+análise de urina.
+e
+Grau 3 = 3+, grande, ≥ 500 mg/dL, grau 4 = 4+, marcados, graves.
+f
+Grau 3 = 3+, grande; grau 4 = ≥ 4+, marcados, graves, muitos.
+LSN = limite superior da normalidade.
+Entre os pacientes tratados com entecavir monoidratado nesses estudos, elevações de ALT > 10
+X LSN e > 2 X o valor basal geralmente se resolveram com o tratamento mantido. A maioria
+dessas exacerbações foram associadas com uma redução na carga viral ≥ 2 log /mL que precedeu
+10
+ou coincidiu com a elevação de ALT.
+Monitorização periódica da função hepática é recomendada durante o tratamento.
+“Este medicamento pode causar hepatotoxicidade. Por isso, requer uso cuidadoso, sob
+vigilância médica estrita e acompanhado por controles periódicos da função hepática
+durante o tratamento”
+Exacerbações de hepatite após descontinuação do tratamento
+Exacerbação da hepatite ou aumento de ALT foi definida como ALT maior que 10 vezes LSN e
+maior que 2 vezes o nível de referência (mínimo em relação ao basal ou à última avaliação na
+dose final). Para aqueles pacientes que descontinuaram o tratamento (desconsiderando-se o
+motivo), a Tabela 11 apresenta a proporção de pacientes que apresentaram aumento de ALT no
+pós-tratamento. Nesses estudos, alguns pacientes puderam descontinuar o tratamento na semana
+52 ou após, se eles atingissem uma resposta definida pelo protocolo para a terapia. Se entecavir
+monoidratado fosse descontinuado sem considerar a resposta ao tratamento, a taxa de aumento
+pós-tratamento poderia ser maior.
+Tabela 11: Exacerbação da Hepatite Durante o Acompanhamento Pós-Tratamento dos
+Estudos AI 463022, AI 463027 e AI 463026
+Pacientes com elevações de ALT > 10 X LSN e > 2 X
+a
+valor de referência
+entecavir monoidratado lamivudina
+Pacientes virgens de nucleosídeos
+HBeAg-positivos 4/174 (2%) 13/147 (9%)
+PFS-0141-020 22
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+HBeAg-negativos 24/302 (8%) 30/270 (11%)
+Resistentes à lamivudina 6/52 (12%) 0/16
+a
+Referência é o mínimo em relação ao basal ou à última avaliação da dose final. O tempo médio
+de exacerbação no período sem tratamento foi de 23 semanas para pacientes tratados com
+entecavir monoidratado e 10 semanas para pacientes tratados com lamivudina.
+Populações especiais
+Doença hepática descompensada
+Reações adversas adicionais, observadas em pacientes tratados com entecavir monoidratado, no
+estudo em que entecavir monoidratado 1 mg/dia foi comparado com adefovir dipivoxila em
+pacientes com hepatite B crônica e doença hepática descompensada, incluem diminuição de
+bicarbonato sanguíneo (2%) e falência renal (< 1%). No estudo, a taxa de morte cumulativa foi
+23% (23/102) e as causas de óbito foram geralmente relacionadas ao fígado, como esperado nesta
+população.
+No estudo, a taxa cumulativa de carcinoma hepatocelular (CHC) foi 12% (12/102).
+Anormalidades em testes laboratoriais: durante as 48 semanas, entre os pacientes tratados com
+entecavir monoidratado, nenhum deles apresentou elevações de ALT maior que 10 vezes o LSN
+e 2 vezes o valor basal. 1% dos pacientes teve elevações de ALT maior que 2 vezes o basal
+juntamente com a bilirrubina total maior que 2 vezes LSN e 2 vezes o valor basal. Nível de
+albumina menor que 2,5 g/dL ocorreu em 30% dos pacientes, nível de lipases maior que 3 vezes
+o valor basal ocorreu em 10% e número de plaquetas foi menor que 50.000/mm3 em 20% dos
+pacientes.
+Experiência pós-comercialização
+As reações adversas que seguem foram reportadas durante o uso pós-comercialização de entecavir
+monoidratado. Pelo fato dessas reações terem sido reportadas voluntariamente por uma população
+de tamanho desconhecido, não se sabe a possibilidade real estimada da frequência ou estabelecer
+uma relação causal ao uso de entecavir monoidratado.
+Distúrbios do sistema imune: reação anafilactoide.
+Distúrbios do metabolismo e alimentares: acidose láctica tem sido relatada, muitas vezes em
+associação com descompensação hepática, outras condições médicas graves ou exposição a
+medicamentos. Pacientes com cirrose descompensada podem ter maior risco à acidose láctica.
+Distúrbios hepatobiliares: aumento de transaminases.
+Distúrbios da pele e tecidos subcutâneos: alopecia e erupção da pele.
+Em casos de eventos adversos, notifique ao Sistema de – Notificação de Eventos Adversos a
+Medicamentos - VIGIMED, disponível em http://portal.anvisa.gov.br/vigimed, ou para
+Vigilância Sanitária Estadual ou Municipal.
+Em casos de eventos adversos, notifique também à FUNED por meio do link:
+http://www.funed.mg.gov.br/farmacovigilancia.
+Informe também à FUNED por meio do seu Serviço de Atendimento ao Cidadão (SAC).
+10. SUPERDOSE
+PFS-0141-020 23
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Existe um número limitado de relatos de superdose com entecavir monoidratado em pacientes.
+Voluntários sadios que receberam doses únicas de até 40 mg ou doses múltiplas de até 20 mg/dia
+por até 14 dias, não apresentaram aumento ou eventos adversos inesperados. Se ocorrer
+superdose, o paciente deve ser monitorado quanto à evidência de toxicidade e deve receber
+tratamento de suporte padrão, se necessário.
+Após uma dose única de 1 mg de entecavir, uma sessão de hemodiálise de 4 horas removeu
+aproximadamente 13% da dose de entecavir.
+Em caso de intoxicação, ligue para 0800 722 6001, se você precisar de mais orientações.
+11. REFERÊNCIAS
+1. Chang TT, Gish RG, de Man R, et al. A comparison of entecavir and lamivudine for HBeAg-
+positive chronic hepatitis B. N Engl J Med 2006; 354: 1001-1010.
+2. Gish RG, Lok AS, Chang TT, et al. Entecavir therapy for up to 96 weeks in patients with
+HBeAg-positive chronic hepatitis B. Gastroenterology 2007; 133: 1437-1444.
+3. Sherman M, Yurdaydin C, Sollano J, et al. Entecavir for treatment of lamivudine-refractory,
+HBeAg-positive chronic hepatitis B. Gastroenterology 2006; 130: 2039-2049.
+4. Sherman M, Yurdaydin C, Simsek H, et al. Entecavir therapy for lamivudine-refractory chronic
+hepatitis B: Improved virologic, biochemical, and serology outcomes through 96 weeks.
+Hepatology 2008; 48: 99-108.
+5. Lai CL, Shouval D, Lok AS, et al. Entecavir versus Lamivudine for Patients with HBeAg-
+Negative Chronic Hepatitis B. N Engl J Med 2006; 354; 10: 1011-1020.
+6. Pessoa MG, Gazzard B, Huang AK, et al. Efficacy and safety of entecavir for chronic HBV in
+HIV/HBV coinfected patients receiving lamivudine as part of antiretroviral therapy. AIDS 2008,
+22: 1779-1787.
+DIZERES LEGAIS
+Registro 1.1209.0141
+Registrado e Embalado por:
+FUNED – Fundação Ezequiel Dias
+Rua Conde Pereira Carneiro, 80 – Gameleira
+Belo Horizonte/MG – CEP 30.510-010
+CNPJ 17.503.475/0001-01
+SAC – Serviço de Atendimento ao Cidadão – 0800 283 1980
+Produzido por:
+Instituto de Tecnologia em Fármacos – Farmanguinhos
+Avenida Comandante Guaranys, 447 – Jacarepaguá
+Rio de Janeiro/RJ – CEP 22.775-903
+USO SOB PRESCRIÇÃO.
+VENDA PROIBIDA AO COMÉRCIO.
+Esta bula foi atualizada conforme Bula Padrão aprovada pela ANVISA em 30/07/2020.
+PFS-0141-020 24
+Bula do profissional de saúde
+entecavir monoidratado
+(Medicamento Genérico, Lei nº 9.787/1999)
+comprimidos revestidos 0,5 mg
+Histórico de alteração de texto de bula do medicamento entecavir monoidratado
+Data
+Data
+Nº Expediente Assunto Aprovação Itens Alterados Versões Apresentações
+Notificação
+Petição
+10459 -
+Alteração do nome do
+GENÉRICO - 0,5 MG COM
+medicamento de entecavir
+Inclusão REV CX 50 FR
+0820553181 20/08/2018 11/06/2018 para entecavir monoidratado VP/VPS
+Inicial de PLAS OPC X
+e inclusão do número de
+Texto de Bula 30
+registro.
+– RDC 60/12
+10452 -
+GENÉRICO -
+0,5 MG COM
+Notificação
+REV CX 50 FR
+0843380/20-1 de Alteração 20/03/2020 NA Alteração do RT responsável. VP/VPS
+PLAS OPC X
+de Texto de
+30
+Bula – RDC
+60/12
+Alteração prazo de validade:
+7.Cuidados de
+armazenamento do
+10452 -
+medicamento
+GENÉRICO -
+Conforme bula padrão 0,5 MG COM
+Notificação
+publicada em 30/07/2020 no REV CX 50 FR
+4641355/20-3 de Alteração 30/11/2020 26/11/2020 VP/VPS
+bulário eletrônico ANVISA: PLAS OPC X
+de Texto de
+2.Resultados de Eficácia 30
+Bula – RDC
+3.Características
+60/12
+Farmacológicas
+5.Advertências e Precauções
+9.Reações adversas
+10452 -
+GENÉRICO -
+0,5 MG COM
+Notificação 5. Onde, como e por quanto
+REV CX 50 FR
+0954753/21-3 de Alteração 11/03/2021 NA tempo posso guardar este VP/VPS
+PLAS OPC X
+de Texto de medicamento?
+30
+Bula – RDC
+60/12
+Alteração de código BULT-
+0056-
+REV06_Profissional_entecav
+ir_final para PFS_0141_003.
+Alteração conforme RE Nº
+2.367, DE 29 DE JUNHO
+DE 2023, publicada em
+0,5 MG COM
+03/07/2023 em:
+10452 - REV CX 50 FR
+Apresentação
+GENÉRICO - PLAS PEAD X
+7.Cuidados de
+Notificação 30
+armazenamento do
+0759145/23-7 de Alteração 21/07/2023 NA VP/VPS
+medicamento
+de Texto de 0,5 MG COM
+Alteração conforme RDCs
+Bula – RDC REV CX 50 FR
+768/2022 e 770/2022 para
+60/12 PLAS PEAD X
+inclusão de frases de alerta
+90
+em:
+4. Contraindicações
+5.Advertências e Precauções
+8. Posologia e modo de usar
+9.Reações adversas
+Alteração em dizeres legais
+para exclusão do RT e CRF.
+VP/VPS 0,5 MG COM
+10452 - Inserção da frase obrigatória REV CX 50 FR
+* GENÉRICO - “Contém o corante dióxido PLAS PEAD X
+Notificação de titânio que pode, 30
+de Alteração 13/11/2024 NA eventualmente, causar
+de Texto de reações alérgicas” em 5. 0,5 MG COM
+Bula – RDC ADVERTÊNCIAS E REV CX 50 FR
+60/12 PRECAUÇÕES. PLAS PEAD X
+90
+* Versão atual notificada em 13/11/2024
+PFS-0141-020 25

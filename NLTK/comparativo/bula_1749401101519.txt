@@ -1,0 +1,55 @@
+INDICAÇÕES GLOBOFLU é indicado para tratamento e profilaxia de gripe em adultos e crianças com idade superior a 1 ano.
+GLOBOFLU não substitui a vacina contra a gripe.
+2. RESULTADOS DE EFICÁCIA
+A eficácia clínica de fosfato de oseltamivir foi demonstrada em estudos de infecção experimental em humanos e em
+estudos clínicos fase III, com gripe adquirida naturalmente.
+GLOBOFLU_Bula_Profissional Página 2 de 23
+Em estudos com gripe adquirida natural e experimentalmente, o tratamento com fosfato de oseltamivir não prejudica a
+resposta humoral normal. Não é esperado que o tratamento com fosfato de oseltamivir afete a resposta dos anticorpos à
+vacina de vírus inativado5,12.
+Estudos com gripe adquirida naturalmente
+Tratamento da gripe em adultos
+Em estudos clínicos fase III, realizados na estação da gripe, em 1997 – 1998, no hemisfério Norte, os pacientes foram
+tratados com fosfato de oseltamivir por até 40 horas após o aparecimento dos sintomas. Nesses estudos, 97% dos
+pacientes estavam infectados pelo vírus influenza A, e 3% pelo vírus influenza B. O tratamento com fosfato de
+oseltamivir reduziu significativamente a duração dos sinais e dos sintomas clinicamente significativos da gripe em 32
+horas. A gravidade da doença em pacientes com gripe confirmada laboratorialmente, recebendo fosfato de oseltamivir,
+também foi reduzida em 38%, quando comparada ao placebo. Além disso, fosfato de oseltamivir reduziu a incidência de
+complicações tratadas com antibioticoterapia, associadas à gripe em adultos jovens saudáveis sem nenhuma outra
+doença, em, aproximadamente, 50%. Essas complicações incluem bronquite, pneumonia, sinusite e otite média. Nesses
+estudos clínicos fase III, ficou constatada a eficácia também em relação aos objetivos secundários dos estudos,
+relacionados à atividade antiviral, tanto na redução da duração da disseminação do vírus, quanto na redução da área sob a
+curva dos títulos virais.3
+Os dados de estudo de tratamento em população idosa demonstraram que fosfato de oseltamivir 75 mg, duas vezes ao
+dia, durante cinco dias, foi associado à redução na média de duração da doença, a qual foi clinicamente relevante e
+similar àquela observada nos estudos de tratamento de adultos mais jovens. Em estudo separado, pacientes com idade
+superior a 13 anos, com gripe e doença cardíaca crônica e/ou doença respiratória coexistente receberam o mesmo regime
+de fosfato de oseltamivir ou placebo. Não foram observadas diferenças na média do tempo para alívio de todos os
+sintomas entre os pacientes que receberam fosfato de oseltamivir ou placebo, porém, a duração da doença febril foi
+reduzida em, aproximadamente, um dia ao receber fosfato de oseltamivir. A proporção de pacientes que estavam
+disseminando o vírus nos dias 2 e 4 também foi significativamente reduzida pelo tratamento com o fármaco ativo. Não
+foi observada diferença no perfil de segurança de fosfato de oseltamivir nas populações de alto risco, quando comparado
+à população de adultos em geral.6,7
+Tratamento da gripe em crianças8,19
+Um estudo de tratamento, duplo-cego, placebo-controlado, foi conduzido em crianças entre 1 e 12 anos de idade (idade
+média 5,3 anos) que apresentavam febre (> 37,8°C) acompanhada de, pelo menos, um sintoma respiratório (tosse ou
+coriza) em um período em que o vírus influenza estava sabidamente circulando pela comunidade. Nesse estudo, 67% dos
+pacientes com gripe foram infectados pelo influenza A, e 33% pelo influenza B. O tratamento com fosfato de oseltamivir
+iniciado dentro das primeiras 48 horas de sintomas reduziu significativamente a duração da doença em 35,8 horas,
+comparada ao placebo. A duração da doença foi definida como tempo até o alívio da tosse, da congestão nasal, do
+desaparecimento da febre e do retorno às atividades normais. A proporção de pacientes que desenvolveram otite média
+aguda foi reduzida em 40% nas crianças que receberam fosfato de oseltamivir versus placebo. Crianças que receberam
+fosfato de oseltamivir retornaram às atividades normais quase 2 dias antes daquelas que receberam placebo.
+Um segundo estudo foi conduzido em 334 crianças asmáticas com idade entre 6 e 12 anos, das quais 53,6% foram
+positivas para influenza. No grupo tratado com oseltamivir, a duração média da doença não foi significantemente
+GLOBOFLU_Bula_Profissional Página 3 de 23
+reduzida. A partir do 6º dia de tratamento (último dia de tratamento), FEV1 (volume expiratório forçado em 1 minuto)
+aumentou para 10,8% no grupo tratado com oseltamivir, comparado a 4,7% do placebo (p = 0,0148) nessa população.
+Tratamento da gripe em pacientes imunocomprometidos (crianças, adolescentes e adultos)
+Um estudo randomizado, duplo cego, para avaliar a segurança e caracterizar os efeitos do oseltamivir sobre o
+desenvolvimento do vírus influenza resistente (análise primária) em pacientes adultos imunocomprometidos infectados
+pelo influenza, incluiu 151 pacientes adultos, 7 adolescentes, e 9 crianças avaliáveis quanto à eficácia de oseltamivir
+(análise secundária, sem poder estatístico).14 O estudo incluiu pacientes receptores de transplante de órgãos sólidos
+(TOS), pacientes receptores de transplante de células tronco hematopoiéticas (TCTH), pacientes HIV positivo com
+contagem de células CD4+ <500 células/mm3, pacientes em terapia imunossupressora sistêmica e pacientes com doença
+hematológica maligna. Estes pacientes foram randomizados para serem tratados, dentro de 96 horas do início dos

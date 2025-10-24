@@ -1,0 +1,677 @@
+Epivir®
+GlaxoSmithKline Brasil Ltda.
+comprimidos revestidos
+150 mg
+- Profissional de Saúde -
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+Epivir
+lamivudina
+APRESENTAÇÃO
+Epivir comprimidos revestidos e ranhurados, que contém 150 mg de lamivudina, é apresentado em frascos com 60 comprimidos.
+USO ORAL
+USO ADULTO E PEDIÁTRICO (ACIMA DE 3 MESES COM PESO MINIMO DE 14 KG)
+COMPOSIÇÃO
+Cada comprimido de Epivir contém:
+lamivudina ..................................................................................................................... 150 mg
+excipientes* ..................................................q.s.p.......................................................... 1 comprimido
+* celulose microcristalina, amidoglicolato de sódio, estearato de magnésio, Opadry YS-1-7706-G Branco (hipromelose, dióxido de
+titânio, polietilenoglicol/macrogol 400 e polissorbato 80) e água purificada*.
+*removida durante o processo
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Epivir é indicado para o tratamento da infecção pelo vírus da imunodeficiência humana (HIV), em adultos e crianças, em associação
+com outros agentes antirretrovirais.
+2. RESULTADOS DE EFICÁCIA
+Epivir reduziu em 50% a dosagem sérica do RNA-HIV 1 em 75% dos pacientes, quando usado isoladamente, e em 94% dos pacientes,
+quando usado em combinação com a zidovudina1.
+The Antiretroviral Pregnancy Registry
+O Antiretroviral Pregnancy Registry recebeu relatos prospectivos de mais de 11.000 casos de exposição à lamivudina durante a gravidez
+que resultaram em bebês nascidos com vida. Estes compreendem mais de 4.200 exposições durante o primeiro trimestre e mais de 6.900
+exposições durante o segundo/terceiro trimestre, sendo o número de nascimentos com deficiências congênitas de 135 198,
+respectivamente. A prevalência (IC 95%) das deficiências congênitas no primeiro trimestre foi de 3,2% (2,6; 3,7%) e no segundo/terceiro
+trimestre de 2,8% (2,4; 3,2%). Dentre as grávidas da população de referência, a taxa de base das deficiências congênitas foi de 2,7%. Não
+houve aumento do risco das principais deficiências congênitas para Epivir comparando com a taxa de base observada nos registros
+(Pregnancy Registry).
+1 ERON, JJ. et al. Treatment with lamivudine, zidovudine, or both in HIV-positive patients with 200 to 500 CD4+ cells per cubic
+millimeter. North American HIV Working Party. N Engl J Med, 333(25): 1662-1669, 1995.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+Código ATC
+Grupo farmacoterapêutico: análogos de nucleosídeos. Código ATC: J05 AF05.
+A lamivudina é um potente inibidor seletivo da replicação de HIV-1 e HIV-2 in vitro. É também ativa contra isolados clínicos de HIV
+resistentes a zidovudina. A lamivudina é metabolizada intracelularmente ao 5’-trifosfato, a molécula ativa, cuja meia-vida intracelular é
+de 16-19 horas. O 5’-trifosfato de lamivudina é um inibidor fraco das atividades dependentes do RNA e do DNA da transcriptase reversa
+do HIV. Seu principal mecanismo de ação é o término da cadeia de transcriptase reversa do HIV. Não foi observado antagonismo in vitro
+com a lamivudina e outros antirretrovirais (agentes testados: abacavir, didanosina, nevirapina, zalcitabina e zidovudina).
+A lamivudina não interfere no metabolismo dos desoxinucleotídeos celulares e exerce pouco efeito sobre o conteúdo de DNA de
+mitocôndrias e células de mamíferos.
+In vitro, a lamivudina demonstra baixa citotoxicidade em linfócitos do sangue periférico, linhagens celulares estabelecidas de linfócitos e
+monócitos macrófagos e em uma variedade de células-mãe medulares. Portanto, possui, in vitro, alto índice terapêutico.
+A resistência do HIV-1 à lamivudina envolve o desenvolvimento de uma alteração no aminoácido M184V próximo ao sítio ativo da
+transcriptase reversa (TR) viral. Essa variante surge tanto in vitro quanto em pacientes vivendo com HIV-1 tratados com terapia
+antirretroviral que contém lamivudina. Os mutantes M184V apresenta suscetibilidade altamente reduzida à lamivudina e capacidade de
+replicação viral diminuída in vitro. Estudos in vitro indicam que os isolados virais resistentes à zidovudina podem tornar-se sensíveis a
+1
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+este fármaco quando simultaneamente adquirem resistência à lamivudina. A relevância clínica de tais descobertas ainda não está bem
+definida.
+A resistência cruzada conferida pela transcriptase reversa do M184V é limitada à classe de agentes antirretrovirais inibidores de
+nucleosídeos. A zidovudina e a estavudina mantêm sua atividade antirretroviral contra o HIV-1 resistente à lamivudina. O abacavir
+mantém sua atividade antirretroviral contra o HIV-1 resistente à lamivudina, abrigando somente a mutação do M184V. O M184V TR
+mutante apresenta suscetibilidade à didanosina e à zalcitabina quatro vezes menor. A significância clínica dessas descobertas permanece
+desconhecida. Os testes de sensibilidade in vitro ainda não foram padronizados, e os resultados podem variar de acordo com fatores
+metodológicos.
+Demonstrou-se nos estudos clínicos que a lamivudina em combinação com a zidovudina reduz a carga viral do HIV-1 e aumenta a
+contagem de células CD4. Os desfechos clínicos indicam que a lamivudina em combinação com a zidovudina, ou combinada com
+regimes de tratamento que contêm zidovudina, resulta em redução significativa do risco de progressão da doença e da mortalidade.
+Relatou-se redução da sensibilidade in vitro à lamivudina em vírus isolados de pacientes que receberam terapia com Epivir. Além disso,
+estudos clínicos revelaram evidências de que Epivir mais zidovudina retardam o aparecimento de vírus isolados resistentes à zidovudina
+em indivíduos que não receberam terapia antirretroviral prévia.
+A lamivudina tem sido amplamente usada como um dos componentes da terapia antirretroviral combinada a outros agentes da mesma
+classe (inibidores da transcriptase reversa análogos de nucleosídeos) ou de classes diferentes (inibidores da protease e inibidores da
+transcriptase reversa não-análogos de nucleosídeos).
+Evidências de estudos clínicos de pacientes pediátricos recebendo Epivir com outros fármacos antirretrovirais (abacavir,
+nevirapina/efavirenz ou zidovudina) demonstraram que o perfil de resistência observado em pacientes pediátricos é similar ao observado
+em adultos, com relação às substituições genotípicas detectadas e a frequência relativa destas.
+Terapias antirretrovirais múltiplas que contêm lamivudina têm demonstrado efetividade tanto em pacientes que nunca receberam terapia
+antirretroviral como naqueles que apresentam o vírus com mutações do M184V.
+A relação entre a suscetibilidade do HIV in vitro à lamivudina e a resposta clínica à terapia ainda está em fase de investigação.
+Profilaxia pós-exposição
+Diretrizes reconhecidas internacionalmente (Centro de Controle e Prevenção de Doenças dos Estados Unidos, junho de 1998)
+recomendam que uma combinação de zidovudina e Epivir seja administrada rapidamente (preferencialmente em até duas horas) após
+exposição acidental a sangue infectado por HIV (por exemplo, perfuração com agulha). Em casos de maior risco de infecção, deve ser
+incluído nesse tratamento um inibidor da protease. É recomendável que a profilaxia antirretroviral seja mantida por quatro semanas.
+Nenhum estudo clínico controlado foi realizado em outros casos de profilaxia após exposição, e dados que apoiem essa indicação são
+limitados. A soroconversão pode ocorrer, apesar do tratamento imediato com agentes antirretrovirais.
+Propriedades Farmacocinéticas
+Absorção
+A lamivudina é bem absorvida no nível gastrintestinal, e a biodisponibilidade da droga por via oral em adultos situa-se normalmente entre
+80% e 85%. Após administração oral, o tempo médio (t ) para atingir a concentração sérica máxima (C ) é de cerca de uma hora. Em
+máx máx
+doses terapêuticas, isto é, 4 mg/kg/dia (em duas doses, com intervalo de 12 horas), a C é da ordem de 1-1,9 µg/mL. Não é necessário
+máx
+nenhum ajuste da dose quando a lamivudina é administrada junto com alimentos, visto não haver alteração da sua biodisponibilidade
+(baseada na AUC), mesmo tendo sido observados atraso do T e redução da C (redução de até 47%).
+máx máx
+Não é esperado que a administração dos comprimidos macerados, misturados com líquidos ou com uma pequena porção de comida
+semissólida (pastosa), tenha impacto na qualidade farmacêutica de Epivir. Portanto, não é esperada nenhuma alteração no efeito clínico.
+Essa conclusão é baseada nas características físico-químicas e farmacocinéticas da substância ativa e no comportamento da dissolução in
+vitro dos comprimidos de Epivir em água, assumindo-se que o paciente macere e transfira 100% do comprimido (ou da metade do
+comprimido, conforme a dose recomendada) e engula imediatamente.
+Comprimidos Revestidos
+A administração de dois comprimidos de 150 mg é bioequivalente a de um comprimido de 300 mg em relação à AUC , C e T .
+∞ máx máx
+Foram observadas diferenças na absorção entre populações de adultos e populações pediátricas (ver Farmacocinética em Crianças,
+abaixo).
+Distribuição
+Com base em estudos com o medicamento por via intravenosa, constatou-se que o volume médio de distribuição é de 1,3 L/kg.. A
+lamivudina exibe farmacocinética linear na faixa de doses terapêuticas e caracteriza-se por sua baixa ligação à principal proteína
+plasmática, a albumina. Dados limitados demonstraram que a lamivudina penetra no sistema nervoso central e atinge o líquido
+cefalorraquidiano (LCR). A relação média entre a concentração de lamivudina no LCR e no soro, dentro de duas a quatro horas após a
+administração oral, foi de cerca de 0,12. O verdadeiro grau de penetração e a relação com qualquer eficácia clínica são desconhecidos.
+Metabolismo e eliminação
+O clearance sistêmico médio da lamivudina é de aproximadamente 0,32 L/h/kg, com clearance predominantemente renal (> 70%)
+através de secreção tubular ativa (sistema de transporte catiônico orgânico), porém com pouco metabolismo hepático (< 10%).
+A molécula ativa, 5’-trifosfato de lamivudina intracelular, possui meia-vida prolongada na célula (18 a 19 horas), em comparação à meia-
+vida da lamivudina plasmática (16 a 19 horas). Em 60 voluntários adultos sadios, Epivir 300 mg administrado uma vez ao dia
+2
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+demonstrou ser farmacocineticamente equivalente, no estado de equilíbrio, a Epivir 150 mg administrado duas vezes ao dia, em relação
+à AUC e à C do trifosfato intracelular.
+24 máx
+A probabilidade de interação medicamentosa adversa entre a lamivudina e outros medicamentos é baixa, devido ao seu metabolismo, à
+limitada ligação com as proteínas plasmáticas e à eliminação quase total da droga por via renal na sua forma inalterada.
+Farmacocinética em crianças
+A biodisponibilidade absoluta de lamivudina (aproximadamente 58% a 66%) é reduzida e mais variável em crianças menores de 12 anos.
+Em crianças, a administração de lamivudina em comprimidos coadministrada a outros antirretrovirais em comprimidos apresentou maior
+AUC e C plasmática que a administração em solução oral coadministrada a outros antirretrovirais em solução oral. As crianças que
+∞ máx
+receberam lamivudina em solução oral, de acordo com a posologia recomendada, alcançaram uma exposição plasmática de Epivir com
+uma faixa de valores semelhante à observada em adultos. As crianças que receberam Epivir em comprimidos, de acordo com a
+posologia recomendada, alcançaram exposição plasmática de lamivudina maior do que as crianças que receberam lamivudina em solução
+oral. Isso porque são administradas doses maiores por mg/kg com lamivudina em comprimidos e esta forma farmacêutica apresenta uma
+maior biodisponibilidade (ver Posologia e Modo de Usar). Estudos farmacocinéticos em pacientes pediátricos com as apresentações em
+comprimidos e solução oral demonstraram que o esquema de dose única diária fornece AUC equivalente ao esquema de dose em duas
+0-24
+vezes ao dia, da mesma dose diária total.
+Existem dados farmacocinéticos limitados sobre pacientes com menos de 3 meses. Em neonatos com uma semana de vida, o clearance da
+lamivudina oral é reduzido em comparação ao de pacientes pediátricos, provavelmente pela função renal imatura e absorção variável.
+Portanto, para alcançar uma concentração similar à de adultos e crianças, a dose recomendada para neonatos é de 2 mg/kg, duas vezes ao
+dia. Não existem dados disponíveis em neonatos acima de uma semana de idade.
+Farmacocinética em idosos
+Não há dados farmacocinéticos em pacientes com mais de 65 anos de idade.
+Farmacocinética em pacientes com insuficiência renal
+Em pacientes com insuficiência renal, a concentração plasmática da lamivudina (área sob a curva – AUC) é aumentada devido à
+diminuição do clearance. A dosagem da lamivudina deverá ser reduzida para os pacientes com clearance da creatinina < 30 mL/min (ver
+Posologia e Modo de Usar).
+Farmacocinética em pacientes com insuficiência hepática
+Dados obtidos em pacientes com insuficiência hepática de moderada a grave demonstram que a farmacocinética da lamivudina não é
+afetada de maneira significativa pela insuficiência hepática.
+Farmacocinética durante a gravidez
+A farmacocinética da lamivudina em grávidas é similar à de mulheres adultas não-grávidas. Em humanos, de acordo com a transmissão
+passiva da lamivudina através da placenta, a concentração plasmática no recém-nascido é similar à da mãe e à do soro do cordão
+umbilical no parto.
+Estudos Clínicos
+Uma comparação randomizada de um regime incluindo doses de abacavir e lamivudina administradas uma vez versus duas vezes ao dia
+foi realizada por um estudo multicêntrico, randomizado, controlado de pacientes pediátricos vivendo com HIV. Mil duzentos e seis
+pacientes pediátricos com idades entre 3 meses a 17 anos foram inscritos no estudo ARROW (COL105677) e a dose foi administrada de
+acordo com o peso - recomendações de faixa de dosagem nas diretrizes de tratamento da Organização Mundial da Saúde (Terapia
+antirretroviral da infecção por HIV em bebês e crianças, 2006). Após 36 semanas de um regime incluindo abacavir e lamivudina duas
+vezes por dia, 669 pacientes elegíveis foram randomizados para continuar com a administração de duas vezes ao dia ou para alternar com
+abacavir e lamivudina uma vez ao dia, durante pelo menos 96 semanas. Os resultados estão resumidos na tabela abaixo:
+Resposta Virológica baseada no RNA do HIV-1 com menos de 80 cópias/mL na Semana 48 e Semana 96 com administração
+abacavir + lamivudina uma vez ao dia ou duas vezes randomizados do ARROW (Estudo Observacional)
+Duas vezes ao dia Uma vez ao dia
+N (%) N (%)
+Semana 0 (após ≥ 36 Semanas de tratamento)
+RNA do HIV-1 237/335 (71)
+250/331 (76)
+< 80 cópias/mL
+Diferença do risco (uma vez ao
+-4.8% (95% IC -11,5% a +1,9%), p=0,16
+dia - duas vezes ao dia)
+Semana 48
+RNA do HIV-1 236/330 (72)
+242/331 (73)
+< 80 cópias/mL
+Diferença do risco (uma vez ao
+-1,6% (95% IC -8,4% a +5,2%), p=0,65
+dia - duas vezes ao dia)
+Semana 96
+3
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+RNA do HIV-1 <80 cópias/mL 234/326 (72) 230/331 (69)
+Diferença do risco (uma vez ao
+-2,3% (95% IC -9,3% a +4,7%), p=0,52
+dia - duas vezes ao dia)
+O grupo com administração de abacavir/lamivudina uma vez ao dia demonstrou ser não-inferior ao grupo de duas vezes ao dia, de acordo
+com a margem de não-inferioridade pré-especificada de -12%, para o objetivo primário de <80 cópias/mL na semana 48, bem como na
+semana 96 (objetivo secundário) e todos os outros limites testados (<200 cópias/mL, <400 cópias/mL, <1000 cópias/mL), os quais todos
+ficaram dentro dessa margem de não-inferioridade. As análises de subgrupos de testes para heterogeneidade da administração uma vez ao
+dia versus duas vezes ao dia não demonstraram efeito significativo do sexo, idade, ou carga viral na randomização. Conclusões
+suportaram a não-inferioridade, independentemente do método de análise.
+No momento da randomização para esquema de dosagem uma vez ao dia vs duas vezes ao dia (Semana 0), os pacientes que receberam
+formulação em comprimidos tiveram uma supressão da taxa de carga viral maior que os que receberam alguma formulação em solução
+oral. Essas diferenças foram observadas em cada grupo de idade diferente estudado. As diferenças na taxa de supressão entre
+comprimidos e soluções permaneceram durante a Semana 96 com o esquema de dosagem de uma vez ao dia.
+Proporção de indivíduos fazendo uso de abacavir + lamivudina nos regimes uma vez ao dia vs duas vezes ao dia. Randomização
+do Estudo ARROW com RNA do HIV-1 plasmático < 80 cópias/mL. Análise dos subgrupos por formulação.
+Duas vezes ao dia Uma vez ao dia
+RNA do HIV-1 plasmático RNA do HIV-1 plasmático
+<80 c/mL: <80 c/mL:
+n/N (%) n/N (%)
+Semana 0 (após 36 semanas de tratamento)
+Todos os regimes com comprimidos durante todo 236/305 (77) 222/305 (73)
+o tratamento
+Semana 96
+Todos os regimes com comprimidos durante todo 221/300 (74) 213/301 (71)
+o tratamento
+4. CONTRAINDICAÇÕES
+O uso de Epivir é contraindicado a pacientes com hipersensibilidade conhecida à lamivudina ou a qualquer componente da fórmula.
+Este medicamento é contraindicado para uso por crianças com menos de 14 kg.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Epivir não é recomendado para uso em monoterapia.
+Infecções oportunistas
+Os pacientes tratados com Epivir, ou que recebam qualquer outra terapia antirretroviral, podem, mesmo assim, desenvolver infecções
+oportunistas e outras complicações decorrentes da infecção por HIV. Por isso, devem ser mantidos sob rigorosa observação clínica por
+médicos experientes no tratamento de pacientes com doenças associadas ao HIV.
+Pacientes com insuficiência renal
+Em pacientes com insuficiência renal de moderada a grave, a concentração plasmática (AUC) da lamivudina é aumentada devido à
+diminuição do clearance. Portanto, a dose deve ser ajustada (ver Posologia e Modo de Usar).
+Pancreatite
+Foi observada a ocorrência de pancreatite em alguns pacientes tratados com Epivir. Contudo, não se sabe ao certo se o desenvolvimento
+dessa doença se deve ao tratamento medicamentoso ou à infecção por HIV subjacente. É necessário considerar a possibilidade de
+pancreatite toda vez que o paciente se queixar de dor abdominal, náuseas e vômitos ou quando apresentar níveis elevados de marcadores
+bioquímicos. Deve-se suspender o uso de Epivir até que seja excluído o diagnóstico de pancreatite.
+Acidose láctica/hepatomegalia grave com esteatose
+Foram relatados casos de acidose láctica e hepatomegalia grave com esteatose (com a ocorrência de casos fatais) durante o uso de
+antirretrovirais análogos de nucleosídeos, isolados ou em combinações, incluindo a lamivudina. A maioria ocorreu em mulheres.
+Sintomas clínicos que podem ser indicativos do desenvolvimento de acidose láctica incluem: fraqueza generalizada, anorexia e perda
+súbita de peso, sintomas gastrintestinais e respiratórios (dispneia e taquipneia). Deve-se ter cuidado ao administrar Epivir,
+especialmente aos pacientes que apresentem fatores de risco conhecidos para doenças hepáticas. O tratamento com Epivir deve ser
+4
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+suspenso em qualquer paciente com sintomas clínicos ou achados laboratoriais sugestivos de acidose láctica com ou sem hepatite (que
+pode incluir hepatomegalia e esteatose, mesmo na ausência de elevação acentuada de transaminase).
+Lipídeos séricos e glicose sanguínea
+Os níveis de lipídeos séricos e glicose sanguínea podem aumentar durante a terapia antirretroviral. O controle da doença e alterações no
+estilo de vida são também fatores contribuintes. Deve-se considerar a medição dos níveis de lipídeos séricos e glicose sanguínea.
+Desordens lipídicas devem ser tratadas conforme clinicamente apropriado.
+Síndrome de Reconstituição Imune
+Em pacientes vivendo com HIV e com deficiência imune grave no início do tratamento antirretroviral, uma reação inflamatória a
+infecções oportunistas assintomáticas ou residuais pode surgir e causar problemas médicos graves ou o agravamento dos sintomas.
+Tipicamente, essas reações foram observadas nas primeiras semanas ou meses após o início do tratamento antirretroviral. Exemplos
+relevantes são a retinite por citomegalovírus, infecções micobacterianas generalizadas e/ou focais e pneumonia por Pneumocystis jiroveci
+(frequentemente referida como PCP). Quaisquer sintomas inflamatórios têm de ser avaliados sem demora, e o tratamento deve ser
+iniciado, quando necessário. Distúrbios autoimunes (como doença de Graves, polimiosite e síndrome de Guillain-Barre) também foram
+relatados por ocorrerem na reconstituição imune. Contudo, o tempo de início é mais variável, e pode ocorrer vários meses após o início
+do tratamento e, algumas vezes, podem ter uma apresentação atípica.
+Pacientes coinfectados com o vírus da hepatite B:
+Estudos clínicos e o uso comercial de Epivir têm demonstrado que alguns pacientes portadores de hepatite B crônica podem apresentar
+evidências clínicas ou laboratoriais de recorrência dessa doença no caso de descontinuação do uso do medicamento. Isso pode ter
+consequências mais sérias em pacientes portadores de doenças hepáticas descompensadas. Se o uso de Epivir for descontinuado em
+pacientes coinfectados pelos HIV e VHB, deve ser levada em consideração a monitoração periódica da função hepática e da replicação
+viral do VHB.
+População especial de pacientes
+Crianças
+Um regime de tratamento somente com comprimidos deve ser usado quando possível.
+Idosos
+Nenhum dado específico está disponível. Entretanto, é aconselhável que se tenha cuidado especial devido a várias alterações associadas a
+esse grupo etário, como diminuição da função renal e alteração dos parâmetros hematológicos.
+Efeitos sobre a capacidade de dirigir veículos e operar máquinas
+Não foi realizado nenhum estudo para investigar o efeito da lamivudina sobre a capacidade de dirigir veículos ou operar máquinas. E com
+base na farmacologia do medicamento, é impossível prever qualquer efeito prejudicial sobre essas atividades. No entanto, deve-se levar
+em conta as condições clínicas do paciente e o perfil de efeitos adversos de Epivir quando se pretende estabelecer a capacidade de o
+indivíduo tratado com Epivirdirigir veículos ou operar máquinas.
+Gravidez
+Epivir foi avaliado pelo Antiretroviral Pregnancy Registry em mais de 11.000 mulheres durante a gestação e no pós-parto. Dados de
+estudos em humanos disponíveis a partir do Antiretroviral Pregnancy Registry não mostraram um aumento do risco das principais
+deficiências congênitas para lamivudina em comparação com a taxa de base (ver Resultados de Eficácia). No entanto, não existem
+estudos adequados e bem controlados em mulheres grávidas e a segurança do uso do Epivir durante a gravidez não foi estabelecida.
+Estudos em humanos demonstraram que a lamivudina atravessa a placenta. A administração de lamivudina durante a gravidez só deve ser
+considerada se os benefícios esperados forem maiores do que qualquer risco possível.
+Embora os estudos de reprodução (ver Toxicologia Reprodutiva, abaixo) em animais nem sempre forneçam uma previsão da resposta que
+irá ocorrer em humanos, achados em coelhas sugerem risco potencial de letalidade precoce do embrião.
+Têm sido relatadas elevações leves e transitórias nos níveis de lactato, que podem ter ocorrido devido à disfunção mitocondrial, em
+neonatos e crianças expostos in utero ou pós-parto a inibidores da transcriptase reversa análogos de nucleosídeos (ITRNs). A relevância
+clínica das elevações transitórias no lactato sérico é desconhecida. Também tem havido relatos raros de atraso no desenvolvimento,
+ataques epilépticos e outras doenças neurológicas. Entretanto, não foi estabelecida relação causal entre esses eventos e a exposição a
+ITRNs in utero ou pós-parto. Tais achados não afetam as recomendações atuais para o uso da terapia antirretroviral em mulheres grávidas
+para prevenir a transmissão vertical do HIV.
+Lactação
+5
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+Especialistas em saúde recomendam que, sempre que possível, mulheres vivendo com HIV não amamentem seus filhos para evitar a
+transmissão do vírus. Em situações em que o uso de fórmulas infantis não for viável e o aleitamento materno durante o tratamento
+antirretroviral for considerado, devem ser seguidos os guias locais para amamentação e tratamento.
+Em um estudo, após a administração oral repetida de lamivudina 150 mg duas vezes ao dia (em combinação a 300 mg de zidovudina duas
+vezes ao dia) ou 300 mg de lamivudina duas vezes ao dia (em combinação a 300 mg de zidovudina ou em uma associação em dose fixa),
+esta foi eliminada no leite materno humano (0,5 a 8,2 microgramas/mL) em concentrações semelhantes às encontradas no soro. Em
+outros estudos, após a administração oral repetida de 150 mg de lamivudina duas vezes ao dia, a proporção leite materno: soro materno
+variou entre 0,6 e 3,3. A concentração média de lamivudina no soro infantil variou entre 18 e 28 ng/mL e não foi detectável em um dos
+estudos (ensaio de sensibilidade 7 ng/mL). Não foram avaliados os níveis intracelulares de trifosfato de lamivudina, metabólito ativo da
+lamivudina, em crianças pós-amamentação. Portanto, a relevância clínica da concentração sérica dos compostos mensurados nas mães é
+desconhecida.
+Categoria C de risco na gravidez.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+Carcinogênese/Mutagênese
+A lamivudina não foi mutagênica nos testes bacterianos mas, como muitos análogos de nucleosídeos, apresentou esta ação em ensaio
+citogenético in vitro e em ensaio em linfoma de ratos. A lamivudina não foi genotóxica in vivo em doses que forneceram concentrações
+plasmáticas de cerca de 40 a 50 vezes superiores aos níveis plasmáticos clínicos previstos. Como a atividade mutagênica in vitro da
+lamivudina não pôde ser confirmada em testes in vivo, conclui-se que Epivir não representa um risco genotóxico aos pacientes.
+Os resultados dos estudos de carcinogenicidade de lamivudina oral a longo prazo em ratos e camundongos não mostraram qualquer
+potencial carcinogênico.
+Toxicologia Reprodutiva
+Estudos de reprodução em animais não mostraram evidências de teratogenicidade e não mostraram nenhum efeito na fertilidade
+masculina ou feminina. A lamivudina causou pequenos aumentos na perda embrionária precoce quando administrada a coelhas grávidas,
+a níveis de exposição comparáveis aos obtidos no homem. No entanto, não houve evidência de perda de embriões em ratos com níveis de
+exposição de cerca de 35 vezes a exposição clínica (com base na C ).
+máx
+Toxicologia Animal
+A administração de lamivudina em estudos de toxicidade em animais com doses muito elevadas não foi associada a qualquer toxicidade
+orgânica maior. Reduções na contagem de eritrócitos e neutrófilos foram identificadas como os efeitos mais prováveis a ter relevância
+clínica.
+6. INTERAÇÕES MEDICAMENTOSAS
+A probabilidade de qualquer interação é baixa, em virtude de o fármaco apresentar metabolismo limitado e ligação reduzida com as
+proteínas plasmáticas, com eliminação renal quase completa na sua forma inalterada.
+A lamivudina é predominantemente eliminada pela secreção catiônica orgânica ativa. A possibilidade de interação com outras drogas
+deve ser considerada, particularmente quando a principal via de eliminação for a secreção renal ativa mediante o transporte catiônico
+orgânico, como é o caso da trimetoprima. Outras drogas, tais como a ranitidina e a cimetidina, são parcialmente eliminadas através desse
+mecanismo, mas não demonstraram interação com a lamivudina.
+É pouco provável que ocorram interações clinicamente significativas entre a lamivudina e drogas que são predominantemente eliminadas
+tanto pela via de secreção aniônica orgânica ativa como pela filtração glomerular.
+Efeito da lamivudina na farmacocinética de outros agentes
+In vitro, a lamivudina demonstra nenhuma ou fraca inibição de fármacos transportadores de ânions orgânicos 1B1 (OATP1B1),
+OATP1B3, proteína resistente ao câncer de mama (BCRP) ou glicoproteína P (Pgp), proteína de extrusão de múltiplos fármacos e toxinas
+1 (MATE1), MATE2- K ou transportadores de cátions orgânicos 3 (OCT3). Não é esperado, portanto, que a lamivudina afete as
+concentrações plasmáticas de fármacos que são substratos desses transportadores.
+A lamivudina é um inibidor de OCT1 e OCT2 in vitro com valores de IC50 de 17 e 33 µM, respectivamente. No entanto, a lamivudina
+tem baixo potencial para afetar as concentrações plasmáticas dos substratos de OCT1 e OCT2 a exposição terapêutica dos fármacos (até
+300 mg).
+Efeito de outros agentes na farmacocinética da lamivudina
+A lamivudina é de substrato in vitro de MATE1, MATE2 - K e OCT2. A trimetoprima (um inibidor destes transportadores de fármacos)
+tem demonstrado aumentar as concentrações plasmáticas de lamivudina. No entanto, esta interação não é considerada clinicamente
+significativa e nenhum ajuste de dose da lamivudina é necessário.
+A lamivudina é um substrato do transportador OCT1 de captação hepática. Como a eliminação hepática desempenha um papel menor na
+depuração de lamivudina, interações medicamentosas devido à inibição da OCT1 são improváveis de ter significância clínica.
+A lamivudina é um substrato da Pgp e BCRP. No entanto, devido à sua elevada biodisponibilidade, é improvável que estes
+transportadores desempenhem um papel significante na absorção de deste fármaco. Portanto, é pouco provável que a coadministração de
+fármacos inibidores destes transportadores de efluxo afete a disposição e eliminação da lamivudina.
+6
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+Interações relevantes à lamivudina
+Quando possível, deve-se evitar a coadministração crônica de medicamentos que contenham sorbitol e Epivir®. Deve-se considerar um
+monitoramento mais frequente da carga viral de HIV-1 quando a coadministração crônica não puder ser evitada (ver Advertências e
+Precauções).
+zidovudina: um aumento discreto na C da zidovudina (28%) foi observado quando essa droga é administrada em associação com a
+máx
+lamivudina. Contudo, exposição global (AUC) não foi significativamente alterada. A zidovudina não exerce efeito sobre a
+farmacocinética da lamivudina (ver Propriedades Farmacocinéticas, em Características Farmacológicas).
+trimetoprima/sulfametoxazol: a administração de trimetoprima/sulfametoxazol, nas doses de 160 mg/800 mg (cotrimoxazol), aumentou
+a concentração da lamivudina em aproximadamente 40%, devido ao componente trimetoprima. No entanto, a menos que o paciente tenha
+alteração da função renal, nenhum ajuste de dosagem da lamivudina é necessário (ver Posologia e Modo de Usar). A lamivudina não
+exerce nenhum efeito sobre a farmacocinética da trimetoprima e do sulfametoxazol. Os efeitos da associação da lamivudina com doses
+maiores de trimetoprima/sulfametoxazol para o tratamento da pneumonia por Pneumocystis jiroveci e toxoplasmose não foram estudados.
+entricitabina: Epivir pode inibir a fosforilação intracelular da entricitabina quando os dois produtos são administrados
+concomitantemente. Além disso, o mecanismo de resistência viral tanto para Epivir quanto para entricitabina é mediado através de
+mutação no mesmo gene da transcriptase reversa viral (M184V) e, consequentemente, a eficácia terapêutica desta combinação pode ser
+limitada. Assim, não é recomendado o uso de Epivir® em combinação com entricitabina ou associações em dose fixa contendo
+entricitabina.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Cuidados de Conservação
+Os comprimidos de Epivir devem ser armazenados em sua embalagem original e em temperatura entre 15°C e 30ºC. O prazo de
+validade é de 36 meses a partir da data de fabricação, impressa na embalagem externa do produto.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Aspectos físicos/Características organolépticas
+Comprimido branco, ranhurado, em forma de diamante, gravado com ‘GX CJ7’ em ambos os lados.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Modo de uso
+Uso oral.
+A terapia com Epivir deve ser iniciada por um médico experiente no tratamento de adultos e crianças vivendo com HIV.
+Epivir pode ser administrado com ou sem alimentos.
+Para garantir a administração da dose completa, o comprimido deve, preferencialmente, ser engolido sem ser amassado (macerado). Para
+pacientes com dificuldade de ingerir comprimidos, eles podem ser amassados e misturados a líquidos ou a uma pequena quantidade de
+comida semissólida (pastosa), e consumidos imediatamente (ver Propriedades Farmacocinéticas, em Características Farmacológicas).
+Posologia
+Adultos, adolescentes e crianças pesando pelo menos 25 kg
+A dose recomendada de Epivir é de 300 mg ao dia, administrando-se 150 mg (1 comprimido) duas vezes ao dia, a cada 12 horas, ou
+300 mg (dois comprimidos) uma vez ao dia (ver Advertências e Precauções).
+Crianças ≥ 3 meses e com peso inferior a 25 kg
+Crianças pesando de 14 a < 20 kg:
+A dose oral recomendada de Epivir é metade de um comprimido ranhurado duas vezes ao dia ou um comprimido inteiro uma vez ao
+dia.
+Crianças pesando ≥ de 20 a < 25 kg:
+A dose oral recomendada de Epivir é a metade de um comprimido ranhurado pela manhã e um comprimido inteiro à noite ou um
+comprimido e meio uma vez ao dia.
+7
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+Crianças pesando pelo menos 25 kg:
+A dose adulta de 150 mg duas vezes ao dia ou 300 mg uma vez ao dia deve ser administrada.
+Crianças com menos de 14 kg:
+Epivir® comprimidos não é indicado para uso em crianças com menos de 14 kg.
+Crianças com menos de 3 meses de idade:
+Os dados limitados são insuficientes para recomendar doses específicas (ver Propriedades Farmacocinéticas, em Características
+Farmacológicas).
+Pacientes com insuficiência renal:
+Em pacientes com insuficiência renal de moderada a grave, a concentração plasmática (AUC) de lamivudina é aumentada devido à
+redução do clearance (ver Propriedades Farmacocinéticas, em Características Farmacológicas).
+Não existem dados disponíveis sobre o uso de lamivudina em crianças com insuficiência renal.
+A redução da dose e/ou aumento do intervalo entre doses deve ser considerada em crianças com pelo menos três meses de idade e peso
+inferior a 25 kg, com clearance de creatinina < 30 mL/min.
+Pacientes com insuficiência hepática
+Não se faz necessário ajustar a dose em pacientes portadores de disfunção hepática moderada e grave, exceto se acompanhada de
+insuficiência renal (ver Propriedades Farmacocinéticas, em Características Farmacológicas).
+Idosos
+Nenhum dado específico está disponível. Entretanto, é aconselhável que se tenha cuidado especial devido a várias alterações associadas a
+esse grupo etário, como diminuição da função renal e alteração dos parâmetros hematológicos.
+O uso incorreto causa resistência do vírus e falha no tratamento.
+Este medicamento não deve ser mastigado.
+9. REAÇÕES ADVERSAS
+Os efeitos adversos relacionados foram relatados durante o tratamento da infecção pelo HIV com o uso de Epivir como monoterapia ou
+associado a outros antirretrovirais. Ainda não está esclarecido se sua ocorrência está diretamente relacionada com a droga ou se é
+resultado da própria doença subjacente.
+As reações adversas estão listadas abaixo por frequência. As frequências são definidas como:
+Muito comum (> 1/10)
+Comum (> 1/100 e < 1/10)
+Incomum (> 1/1.000 e < 1/100)
+Rara (> 1/10.000 e < 1/1.000)
+Muito rara (< 1/10.000)
+Reações comuns (> 1/100 e < 1/10):
+Hiperlactemia; dor de cabeça; náuseas, vômitos, dor na porção superior do abdômen, diarreia; rash cutâneo; alopecia; artralgia; distúrbios
+musculares; fadiga, febre, mal-estar.
+Reações incomuns (> 1/1.000 e < 1/100):
+Neutropenia, anemia, trombocitopenia; aumento transitório de enzimas hepáticas (TGP, TGO).
+Reações raras (> 1/10.000 e < 1/1.000):
+Acidose láctica (ver Advertências e Precauções); pancreatite, embora a relação causal com o tratamento permaneça incerta; aumento da
+concentração de amilase sérica; rabdomiólise.
+Reações muito raras (< 1/10.000):
+Aplasia de células vermelhas; parestesia. Neuropatia periférica tem sido relatada, embora a relação causal com o tratamento permaneça
+incerta.
+População pediátrica
+O banco de dados de segurança que suporta uma dose única diária de Epivir® em crianças vem do estudo ARROW (COL105677), no
+qual 669 pacientes pediátricos vivendo com HIV-1 receberam abacavir e lamivudina uma ou duas vezes ao dia (ver Experiência Clínica,
+8
+Modelo de texto de bula – Profissional de Saúde
+Epivir® comprimidos revestidos
+em Características Farmacológicas). Não foram identificados outros problemas de segurança em crianças que receberam uma ou duas
+vezes a dose diária comparados aos adultos.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Sinais e sintomas
+Nenhum sinal ou sintoma específico foi identificado após superdosagem aguda com lamivudina, além daquelas listadas como reações
+adversas.
+Tratamento
+Caso ocorra superdosagem, o paciente deve ser monitorado e, se necessário, receber tratamento de suporte padronizado. Uma vez que a
+lamivudina é eliminada com a diálise, a hemodiálise contínua pode ser usada no tratamento da superdosagem, apesar de não ter sido
+estudada.
+Em caso de intoxicação, ligue para 0800 722 6001 se você precisar de mais orientações.
+III – DIZERES LEGAIS
+MS: 1.0107.0236
+Farm. Resp.: Ana Carolina Carotta Anacleto CRF-RJ N° 11580
+Fabricado e Embalado por: Glaxo Operations UK Limited
+Priory Street, Ware, Hertfordshire, SG12 0DJ, Inglaterra
+Ou
+Delpharm Poznań Spółka Akcyjna
+189 Grunwaldzka Street, 60-322, Poznań, Polônia
+Registrado e Importado por: GlaxoSmithKline Brasil Ltda.
+Estrada dos Bandeirantes, 8464 – Rio de Janeiro – RJ
+CNPJ: 33.247.743/0001-10
+Indústria Brasileira
+VENDA SOB PRESCRIÇÃO MÉDICA.
+ou
+MINISTÉRIO DA SAÚDE. VENDA PROIBIDA AO COMÉRCIO.
+USO SOB PRESCRIÇÃO MÉDICA.
+L2099_epivir_com_rev_GDS26_IPI14
+Esta bula foi aprovada pela Anvisa em 27/05/2024.
+9
+Histórico de Alteração de Bula
+Dados da Submissão Eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº Assunto Data do Nº Assunto Data da Itens de bula Versões Apresentações Relacionadas
+Expediente Expediente Expediente Expediente Aprovação VP/VPS
+06/06/2013 0449157/13-2 10458 – MEDICAMENTO 06/06/2013 0449157132 10458 – MEDICAMENTO 06/06/2013 Dizeres legais – Farmacêutico VP e 10 MG/ML SOL OR CT FR PLAS OPC X 240
+NOVO – Inclusão Inicial de NOVO – Inclusão Inicial de Responsável VPS ML
+Texto de Bula – RDC 60/12 Texto de Bula – RDC 60/12 150 MG COM REV CT FR PLAS OPC X 60
+27/08/2013 0715789/13-4 10451 – MEDICAMENTO 27/08/2013 0715789134 10451 – MEDICAMENTO 27/08/2013 O que devo saber antes de usar VP e 10 MG/ML SOL OR CT FR PLAS OPC X 240
+NOVO – Notificação de NOVO – Notificação de este medicamento? VPS ML
+Alteração de Texto de Bula – Alteração de Texto de Bula – Gravidez e Lactação e Interações 150 MG COM REV CT FR PLAS OPC X 60
+RDC 60/12 RDC 60/12
+Medicamentosas
+Advertências e Precauções:
+Gravidez e Lactação e Interações
+Medicamentosas
+10/10/2013 0853388/13-1 10451 – MEDICAMENTO 10/10/2013 0853388131 10451 – MEDICAMENTO 10/10/2013 Apresentação: Inclusão da VP e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de informação comprimidos VPS
+Alteração de Texto de Bula – Alteração de Texto de Bula – revestidos, conforme RDC 47/09
+RDC 60/12 RDC 60/12
+Advertências e Precauções/
+Gravidez e Lactação: inclusão de
+informações de segurança
+Dizeres Legais: correção de itens
+da RDC 47/09
+29/11/2013 1010918/13-8 10451 – MEDICAMENTO 29/11/2013 1010918138 10451 – MEDICAMENTO 29/11/2013 Apresentação: adequação de texto VP e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de à RDC 47/09 (inclusão da VPS
+Alteração de Texto de Bula – Alteração de Texto de Bula – concentração do produto na
+RDC 60/12 RDC 60/12
+descrição)
+Interações medicamentosas:
+inclusão de informações de
+segurança
+06/03/2014 0161981/14-1 10451 – MEDICAMENTO 06/03/2014 0161981141 10451 – MEDICAMENTO 06/03/2014 Advertências e Precauções: VP e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de Gravidez e Lactação VPS
+Alteração de Texto de Bula – Alteração de Texto de Bula –
+O que devo saber antes de usar
+RDC 60/12 RDC 60/12
+este medicamento?
+Gravidez e Lactação
+Dizeres legais
+11/03/2015 0215049/15-2 10451 – MEDICAMENTO 11/03/2015 0215049/15-2 10451 – MEDICAMENTO 11/03/2015 VPS VP e 10 MG/ML SOL OR CT FR PLAS OPC X 240
+NOVO – Notificação de NOVO – Notificação de Identificação do Medicamento VPS ML
+Alteração de Texto de Bula – Alteração de Texto de Bula – Resultados de Eficácia
+RDC 60/12 RDC 60/12 Características Farmacológicas
+Advertências e Precauções
+Interações Medicamentosas
+Posologia e Modo de Usar
+Reações Adversas
+Superdose
+VP
+Identificação do Medicamento
+Como este medicamento
+funciona?
+O que devo saber antes de usar
+este medicamento?
+Como devo usar este
+medicamento?
+28/07/2015 0663864153 10451 – MEDICAMENTO 28/07/2015 0663864153 10451 – MEDICAMENTO 28/07/2015 VPS VP e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de Identificação do Medicamento VPS 10 MG/ML SOL OR CT FR PLAS OPC X 240
+Alteração de Texto de Bula – Alteração de Texto de Bula – Resultados de Eficácia ML
+RDC 60/12 RDC 60/12 Características Farmacológicas
+Advertências e Precauções
+Interações Medicamentosas
+Posologia e Modo de Usar
+Reações Adversas
+Superdose
+Dizeres Legais
+VP
+Identificação do Medicamento
+Dizeres Legais
+22/06/2016 1966486169 10451 – MEDICAMENTO 22/06/2016 1966486169 10451 – MEDICAMENTO 22/06/2016 VPS VP e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de Identificação do Medicamento VPS
+Alteração de Texto de Bula – Alteração de Texto de Bula – Advertências e Precauções
+RDC 60/12 RDC 60/12 Interações Medicamentosas
+Reações Adversas
+Dizeres Legais
+VP
+Como este medicamento
+funciona?
+O que devo saber antes de usar
+este medicamento?
+Quais os males que este
+medicamento pode me causar?
+Dizeres legais
+09/11/2016 2470192161 10451 – MEDICAMENTO 09/11/2016 2470192161 10451 – MEDICAMENTO 09/11/2016 VPS VP e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de Identificação do Medicamento VPS
+Alteração de Texto de Bula – Alteração de Texto de Bula – Advertências e Precauções
+RDC 60/12 RDC 60/12 Interações Medicamentosas
+Reações Adversas
+Dizeres Legais
+VP
+Como este medicamento
+funciona?
+O que devo saber antes de usar
+este medicamento?
+Quais os males que este
+medicamento pode me causar?
+Dizeres legais
+25/11/2016 2526185/16-1 10451 – MEDICAMENTO 25/11/2016 2526185/16-1 10451 – MEDICAMENTO 25/11/2016 VPS VPS e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de - Dizeres legais VP
+Alteração de Texto de Bula – Alteração de Texto de Bula –
+RDC 60/12 RDC 60/12 VP
+- Dizeres legais
+21/12/2016 2629413/16-3 10451 – MEDICAMENTO 21/12/2016 2629413/16-3 10451 – MEDICAMENTO 21/12/2016 VPS VPS e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de - Apresentação VP
+Alteração de Texto de Bula – Alteração de Texto de Bula – - Advertências e Precauções
+RDC 60/12 RDC 60/12 - Interações medicamentosas
+- Reações adversas
+VP
+- Apresentação
+- O que devo saber antes de usar
+este medicamento?
+19/06/2018 0488886/18-3 10451 – MEDICAMENTO 19/06/2018 0488886/18-3 10451 – MEDICAMENTO 19/06/2018 VPS VPS e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de - Dizeres Legais VP
+Alteração de Texto de Bula – Alteração de Texto de Bula –
+RDC 60/12 RDC 60/12 VP
+- Dizeres Legais
+23/10/2018 1021762/18-2 10451 – MEDICAMENTO 21/07/2015 0639634/15-8 10277 – MEDICAMENTO 24/09/2018 VPS VPS e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Alteração de - Identificação do Medicamento VP
+Alteração de Texto de Bula – Posologia - Características Farmacológicas
+RDC 60/12 - Advertências E PRECAUÇÕES
+- Posologia e Modo de Usar
+- Reações Adversas
+VP
+- Identificação do Medicamento
+- O que devo saber antes de usar
+este medicamento?
+- Como devo usar este
+medicamento?
+- Quais os males que este
+medicamento pode me causar?
+23/09/2020 3252886/20-8 10451 – MEDICAMENTO 23/09/2020 3252886/20-8 10451 – MEDICAMENTO 23/09/2020 VPS VPS e 150 MG COM REV CT FR PLAS OPC X 60
+NOVO – Notificação de NOVO – Notificação de - Advertências e Precauções VP
+Alteração de Texto de Bula – Alteração de Texto de Bula – - Superdose
+RDC 60/12 RDC 60/12 - Dizeres Legais
+VP
+- O que devo saber antes de usar
+este medicamento?
+- O que fazer se alguém usar uma
+quantidade maior do que a
+indicada deste medicamento?
+- Dizeres Legais
+12/02/2021 0580986/21-0 10451 – MEDICAMENTO 28/06/2019 0575113/19-6 11118 - RDC 73/2016 - 08/02/2021 VPS VPS e 150 MG COM REV CT FR PLAS HDPE OPC
+NOVO – Notificação de NOVO - Alteração de - Advertências e precauções: VP X 60
+Alteração de Texto de Bula – posologia - Interações medicamentosas
+RDC 60/12 - Cuidados de armazenamento do
+medicamento
+- Posologia e Modo de Usar
+- Reações adversas
+VP
+- 4. O que devo saber antes de
+usar este medicamento?
+- Onde, como e por quanto tempo
+posso guardar este medicamento?
+- Como devo usar este
+medicamento?
+- O que devo fazer quando eu me
+esquecer de usar este
+medicamento?
+- Quais os males que este
+medicamento pode me causar?
+23/11/2022 4974218/22-1 10451 – MEDICAMENTO 12/11/2022 4935410/22-8 11005 - RDC 73/2016 - 12/11/2022 VPS VPS e 150 MG COM REV CT FR PLAS HDPE OPC
+NOVO – Notificação de NOVO - Alteração de razão - Dizeres legais VP X 60
+Alteração de Texto de Bula – social do local de fabricação
+RDC 60/12 do medicamento VP
+- Dizeres legais
+22/05/2023 0517646/23-4 10451 – MEDICAMENTO 22/05/2023 0517646/23-4 10451 – MEDICAMENTO 22/05/2023 VPS VPS e 150 MG COM REV CT FR PLAS HDPE OPC
+NOVO – Notificação de NOVO – Notificação de - Apresentação VP X 60
+Alteração de Texto de Bula – Alteração de Texto de Bula – - Advertências e precauções
+RDC 60/12 RDC 60/12 - Cuidados de armazenamento do
+medicamento
+- Dizeres legais
+VP
+- Apresentação
+- O que devo saber antes de usar
+este medicamento?
+- Onde, como e por quanto tempo
+posso guardar este medicamento?
+-Como devo usar este
+medicamento?
+- Dizeres legais
+19/07/2023 0745480/23-3 10451 – MEDICAMENTO 19/02/2021 0703500/21-4 11119 – RDC 73/2016 – 19/07/2023 VPS VPS e 150 MG COM REV CT FR PLAS HDPE OPC
+NOVO – Notificação de NOVO – Ampliação de uso - Características Farmacológicas VP X 60
+Alteração de Texto de Bula – - Contraindicações
+RDC 60/12 - Advertências e precauções
+- Posologia e Modo de Usar
+VP
+- O que devo saber antes de usar
+este medicamento?
+26/02/2024 0224859/24-2 10451 - MEDICAMENTO 26/02/2024 0224859/24-2 10451 - MEDICAMENTO 26/02/2024 VP VP 150 MG COM REV CT FR PLAS HDPE OPC
+NOVO - Notificação de NOVO - Notificação de - Como devo usar este X 60
+Alteração de Texto de Bula – Alteração de Texto de Bula – medicamento?
+publicação no Bulário RDC publicação no Bulário RDC
+60/12 60/12
+27/05/2024 - 10451 - MEDICAMENTO 27/05/2024 - 10451 - MEDICAMENTO 27/05/2024 VPS VPS e 150 MG COM REV CT FR PLAS HDPE OPC
+NOVO - Notificação de NOVO - Notificação de - Dizeres legais VP X 60
+Alteração de Texto de Bula – Alteração de Texto de Bula –
+publicação no Bulário RDC publicação no Bulário RDC VP
+60/12 60/12 - Dizeres legais

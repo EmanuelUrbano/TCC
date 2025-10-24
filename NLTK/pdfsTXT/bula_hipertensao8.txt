@@ -1,0 +1,698 @@
+maleato de enalapril
+LEGRAND PHARMA INDÚSTRIA FARMACÊUTIA LTDA
+Comprimido
+5 mg / 10 mg / 20 mg
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+maleato de enalapril
+"Medicamento Genérico, Lei nº. 9.787, de 1999".
+APRESENTAÇÕES
+Comprimidos de 5 mg, 10 mg e 20 mg. Embalagem contendo 10, 20, 30, 40, 60, 90 e 240* unidades.
+*Embalagem hospitalar.
+USO ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada comprimido de 5 mg contém:
+maleato de enalapril*...............................................................................................................................5 mg
+excipiente** q.s.p...................................................................................................................................1 com
+*equivalente a 3,82 mg de enalapril.
+**fosfato de cálcio dibásico di-hidratado, estearato de magnésio, celulose microcristalina, lactose
+monoidratada, amido e croscarmelose sódica.
+Cada comprimido de 10 mg contém:
+maleato de enalapril*.............................................................................................................................10 mg
+excipiente** q.s.p...................................................................................................................................1 com
+*equivalente a 7,64 mg de enalapril.
+**fosfato de cálcio dibásico di-hidratado, estearato de magnésio, celulose microcristalina, óxido de ferro
+vermelho, lactose monoidratada, amido e croscarmelose sódica.
+Cada comprimido de 20 mg contém:
+maleato de enalapril*.............................................................................................................................20 mg
+excipiente** q.s.p...................................................................................................................................1 com
+*equivalente a 15,29 mg de enalapril.
+**fosfato de cálcio dibásico di-hidratado, estearato de magnésio, celulose microcristalina, óxido de ferro
+amarelo, lactose monoidratada, amido e croscarmelose sódica.
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+O maleato de enalapril é indicado para o tratamento de todos os graus de hipertensão essencial, tratamento
+da hipertensão renovascular e todos os graus de insuficiência cardíaca.
+Em pacientes com insuficiência cardíaca sintomática, o maleato de enalapril também é indicado para
+aumentar a sobrevida, retardar a progressão da insuficiência cardíaca e reduzir as hospitalizações por
+insuficiência cardíaca.
+Prevenção de insuficiência cardíaca sintomática: em pacientes com disfunção ventricular esquerda
+assintomáticos, maleato de enalapril é indicado para retardar o desenvolvimento de insuficiência cardíaca
+sintomática e reduzir as hospitalizações por insuficiência cardíaca.
+Prevenção de eventos coronarianos isquêmicos: em pacientes com disfunção ventricular esquerda, o
+maleato de enalapril é indicado para reduzir a incidência de infarto do miocárdio e as hospitalizações por
+angina instável.
+2. RESULTADOS DE EFICÁCIA
+Um estudo multicêntrico, duplo-cego e controlado com placebo sobre disfunção ventricular esquerda
+(Studies of Left Ventricular Dysfunction, SOLVD) avaliou os efeitos do maleato de enalapril em 6.797
+pacientes; destes, 2.569 pacientes com todos os graus de insuficiência cardíaca sintomática (principalmente
+leve a moderada, classes II e III da New York Heart Association - NYHA) foram distribuídos de modo
+randômico para o braço de tratamento e 4.228 pacientes com disfunção assintomática do ventrículo
+esquerdo, para o braço de prevenção. Os resultados combinados demonstraram redução do risco global dos
+principais eventos isquêmicos. O maleato de enalapril reduziu a incidência de infarto do miocárdio e o
+número de hospitalizações decorrentes de angina instável em pacientes com disfunção ventricular esquerda.
+Além disso, no braço de prevenção, o maleato de enalapril preveniu de forma significativa o
+desenvolvimento da insuficiência cardíaca sintomática e reduziu o número de hospitalizações por
+insuficiência cardíaca. No braço de tratamento, o maleato de enalapril, como adjuvante ao tratamento
+convencional, reduziu significativamente a taxa global de mortalidade e hospitalização por insuficiência
+cardíaca e melhorou a classificação funcional de acordo com os critérios da NYHA.
+Em um estudo semelhante que envolveu 253 pacientes com insuficiência cardíaca grave (classe IV da
+NYHA), demonstrou-se que o maleato de enalapril melhorou os sintomas e reduziu a mortalidade
+significativamente.
+As propriedades cardioprotetoras do maleato de enalapril foram demonstradas nesses estudos pelos efeitos
+benéficos na sobrevida e no retardamento da progressão da insuficiência cardíaca em pacientes com
+insuficiência cardíaca sintomática, no retardamento do desenvolvimento de insuficiência cardíaca
+sintomática em pacientes assintomáticos com disfunção ventricular esquerda e na prevenção de eventos
+isquêmicos coronarianos em pacientes com disfunção ventricular esquerda, especificamente na redução da
+incidência de infarto do miocárdio e de hospitalização por angina instável.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+O maleato de enalapril é um derivado de dois aminoácidos (L-alanina e L-prolina). Após administração por
+via oral, o enalapril é rapidamente absorvido e, a seguir, hidrolisado a enalaprilato, um inibidor da enzima
+conversora de angiotensina (ECA) não sulfidrílico, de longa ação e altamente específico.
+O maleato de enalapril é indicado para o tratamento de todos os graus de hipertensão essencial e para
+tratamento da hipertensão renovascular. Pode ser usado isoladamente, como terapia inicial, ou
+simultaneamente com outros anti-hipertensivos (particularmente diuréticos).
+O maleato de enalapril também é indicado para o tratamento e a prevenção de insuficiência cardíaca.
+Mecanismo de ação: a enzima conversora da angiotensina (ECA) é uma peptidil-dipeptidase que catalisa a
+conversão da angiotensina I à substância pressora angiotensina II. Depois da absorção, o enalapril é
+hidrolisado a enalaprilato, o qual inibe a enzima conversora da angiotensina. A inibição da ECA resulta na
+diminuição da angiotensina II plasmática, o que aumenta a atividade da renina plasmática (em razão da
+remoção do feedback negativo da liberação de renina) e diminui a secreção de aldosterona.
+A enzima conversora da angiotensina é idêntica à cininase II, portanto o enalapril pode também bloquear a
+degradação de bradicinina, um potente vasopressor peptídico. Entretanto, ainda não foi esclarecido como
+isso gera o efeito terapêutico. Apesar de se acreditar que o mecanismo pelo qual o enalapril diminui a
+pressão arterial seja essencialmente pela supressão do sistema renina-angiotensina-aldosterona, o qual
+desempenha importante papel na regulação da pressão arterial, o enalapril é anti-hipertensivo mesmo em
+pacientes hipertensos com renina baixa.
+Farmacocinética: o maleato de enalapril oral é rapidamente absorvido e as concentrações máximas
+plasmáticas de enalapril ocorrem em uma hora. Com base na recuperação na urina, a taxa de absorção do
+maleato de enalapril oral é de aproximadamente 60%.
+Após a absorção, o enalapril oral é rápida e extensivamente hidrolisado a enalaprilato, um potente inibidor
+da enzima conversora de angiotensina. As concentrações máximas plasmáticas do enalaprilato ocorrem 3 a
+4 horas depois de uma dose oral de maleato de enalapril. A excreção do enalapril é principalmente renal.
+Os principais componentes na urina são: enalaprilato, que contribui com 40% da dose, e enalapril intacto.
+Exceto pela conversão a enalaprilato, não há evidência de metabolismo significante do enalapril. O perfil
+de concentração sérica do enalaprilato exibe uma fase terminal prolongada, aparentemente associado à
+ligação com a ECA. Em indivíduos com função renal normal, as concentrações séricas em estado de
+equilíbrio do enalaprilato foram atingidas por volta do quarto dia da administração do maleato de enalapril.
+A meia-vida efetiva para acúmulo do enalaprilato após múltiplas doses de maleato de enalapril oral é de 11
+horas. A absorção do maleato de enalapril oral não é influenciada pela presença de alimentos no trato
+gastrintestinal. A extensão da absorção e a hidrólise do enalapril são semelhantes para as diversas doses na
+faixa terapêutica recomendada.
+Farmacodinâmica: a administração do maleato de enalapril a pacientes hipertensos resulta na redução da
+pressão arterial tanto na posição supina como de pé sem aumento significativo da frequência cardíaca.
+Hipotensão sintomática postural não é frequente. Em alguns pacientes, a redução ideal da pressão arterial
+pode requerer várias semanas de tratamento. A retirada abrupta de maleato de enalapril não foi associada
+ao rápido aumento da pressão arterial.
+A inibição efetiva da atividade da ECA usualmente ocorre 2 a 4 horas depois da administração oral de uma
+única dose de enalapril. O início da atividade anti-hipertensiva geralmente foi observado em uma hora e as
+reduções máximas, 4 a 6 horas após a administração. A duração do efeito é relacionada à dose. Entretanto,
+nas doses recomendadas, demonstrou-se que os efeitos anti-hipertensivo e hemodinâmico mantêm-se
+durante 24 horas, no mínimo.
+O tratamento anti-hipertensivo com enalapril induz regressão significativa da hipertrofia ventricular
+esquerda, preservando o desempenho sistólico do ventrículo esquerdo.
+Em estudos hemodinâmicos que envolveram pacientes com hipertensão essencial, a redução da pressão
+arterial foi acompanhada de redução da resistência arterial periférica e aumento do débito cardíaco, bem
+como pequena ou nenhuma alteração da frequência cardíaca. Após a administração do maleato de enalapril,
+o fluxo sanguíneo renal aumentou e a taxa de filtração glomerular não se alterou. Entretanto, em pacientes
+cujas taxas de filtração glomerular eram baixas antes do tratamento, geralmente ocorreu aumento.
+A administração crônica do maleato de enalapril para pacientes com hipertensão essencial e insuficiência
+renal pode estar associada à melhora da função renal, evidenciada pelo aumento da taxa de filtração
+glomerular.
+Em estudos clínicos de curta duração que envolveram pacientes nefropatas com e sem diabetes, foram
+observadas reduções da albuminúria, da excreção de IgG e das proteínas totais na urina após a administração
+de enalapril.
+Quando administrado com diuréticos tiazídicos, os efeitos redutores da pressão arterial do maleato de
+enalapril são, no mínimo, aditivos. O maleato de enalapril pode reduzir ou evitar o desenvolvimento da
+hipocalemia induzida pelos tiazídicos.
+O tratamento com maleato de enalapril geralmente não está associado a reações adversas no ácido úrico
+plasmático.
+O tratamento com maleato de enalapril foi associado a efeitos favoráveis nas frações lipoproteicas no
+plasma e favorável ou sem efeito nos níveis totais de colesterol.
+Em pacientes com insuficiência cardíaca sob tratamento com digitálicos e diuréticos, o tratamento com
+maleato de enalapril foi associado à redução da resistência periférica e da pressão arterial. O débito cardíaco
+aumentou, enquanto a frequência cardíaca (geralmente elevada em pacientes com insuficiência cardíaca)
+diminuiu. A pressão capilar pulmonar também foi reduzida. A tolerância ao exercício e a gravidade da
+insuficiência cardíaca, de acordo com os critérios da New York Heart Association, melhoraram. Esses
+efeitos mantiveram-se durante o tratamento crônico.
+Em pacientes com insuficiência cardíaca leve a moderada, o enalapril retardou a dilatação/aumento e
+insuficiência progressiva, como evidenciado pelos volumes finais diastólico e sistólico do ventrículo
+esquerdo e pela melhora da fração de ejeção.
+Os dados clínicos demonstraram que o enalapril reduziu a frequência de arritmia ventricular em pacientes
+com insuficiência cardíaca, embora os mecanismos subjacentes e a relevância clínica não sejam conhecidos.
+4. CONTRAINDICAÇÕES
+O maleato de enalapril é contraindicado para pacientes com hipersensibilidade a qualquer um de seus
+componentes, pacientes com histórico de edema angioneurótico relacionado a utilização de inibidores da
+enzima conversora de angiotensina e pacientes com angioedema hereditário ou idiopático.
+O maleato de enalapril não deve ser administrado com alisquireno em pacientes com diabetes (vide
+“INTERAÇÕES MEDICAMENTOSAS”).
+O maleato de enalapril é contraindicado em combinação com um inibidor de neprilisina (por exemplo,
+sacubitril). Não administre maleato de enalapril dentro de 36 horas antes ou depois de utilizar
+sacubitril/valsartana, um produto contendo um inibidor de neprilisina (vide “ADVERTÊNCIAS E
+PRECAUÇÕES” e “INTERAÇÕES MEDICAMENTOSAS”).
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Hipotensão sintomática: raramente foi observada hipotensão sintomática em pacientes com hipertensão não
+complicada; em pacientes hipertensos tratados com maleato de enalapril, existe maior probabilidade de
+ocorrer hipotensão quando houver depleção de volume consequente, por exemplo, à terapia diurética,
+restrição de sal na dieta, diálise, diarreia ou vômitos (vide “INTERAÇÕES MEDICAMENTOSAS” e
+“REAÇÕES ADVERSAS”).
+Observou-se hipotensão sintomática em pacientes com insuficiência cardíaca, com ou sem insuficiência
+renal associada; essa ocorrência é mais comum em pacientes com graus mais avançados de insuficiência
+cardíaca, conforme indicado pelo uso de altas doses de diuréticos de alça, hiponatremia ou
+comprometimento da função renal. Nesses pacientes, a terapia deve ser iniciada sob supervisão médica e
+quaisquer ajustes da dose do maleato de enalapril e/ou do diurético devem ser cuidadosamente
+monitorizados. Considerações semelhantes podem aplicar-se a pacientes com doença isquêmica cardíaca
+ou vascular cerebral, nos quais a queda excessiva da pressão arterial poderia resultar em infarto do
+miocárdio ou acidente vascular cerebral.
+Se ocorrer hipotensão, o paciente deve ser colocado em posição supina e, se necessário, receber infusão
+intravenosa de solução salina. Uma resposta hipotensora transitória não representa contraindicação para
+novas doses, as quais podem ser administradas, geralmente sem dificuldade, depois que a pressão arterial
+responder à expansão de volume.
+Em alguns pacientes com insuficiência cardíaca, cuja pressão arterial é normal ou baixa, podem ocorrer
+reduções adicionais da pressão arterial sistêmica com o uso do maleato de enalapril; esse efeito é esperado
+e geralmente não constitui razão para a interrupção do tratamento. Se a hipotensão tornar-se sintomática,
+podem ser necessárias redução da dose e/ou descontinuação do diurético e/ou do maleato de enalapril.
+Estenose aórtica/cardiomiopatia hipertrófica: a exemplo de todos os vasodilatadores, deve-se ter cuidado
+ao administrar inibidores da ECA a pacientes com obstrução da via de saída do ventrículo esquerdo.
+Comprometimento da função renal: em alguns pacientes, a hipotensão decorrente do início da terapia com
+inibidores da ECA pode ocasionar certo grau adicional de deterioração da função renal; foi relatada, nessa
+situação, insuficiência renal aguda, em geral, reversível.
+Pacientes com insuficiência renal podem requerer doses mais baixas e/ou menos frequentes de maleato de
+enalapril (vide “POSOLOGIA E MODO DE USAR”). Em alguns pacientes com estenose da artéria renal
+bilateral ou estenose da artéria renal de rim único, foram observados aumentos dos níveis séricos de ureia
+e creatinina, geralmente reversíveis com a interrupção da terapia. Isso é particularmente provável em
+pacientes com insuficiência renal.
+Alguns pacientes sem patologia renal pré-existente evidente apresentaram aumentos geralmente discretos
+e transitórios de ureia e creatinina sanguíneas quando receberam maleato de enalapril concomitantemente
+com um diurético; pode ser necessária a redução da posologia e/ou a interrupção do diurético e/ou do
+maleato de enalapril.
+Hipersensibilidade/edema angioneurótico: edema angioneurótico de face, lábios, língua, glote e/ou laringe
+e extremidades, que pode ocorrer em qualquer momento do tratamento, foi relatado raramente em pacientes
+tratados com inibidores da ECA, inclusive com maleato de enalapril. Nessas situações, o maleato de
+enalapril deve ser imediatamente descontinuado e o paciente deve ser observado até a resolução completa
+dos sintomas antes de receber alta. Mesmo nos casos em que haja somente inchaço da língua, sem
+comprometimento respiratório, os pacientes podem necessitar de observação prolongada, uma vez que o
+tratamento com anti-histamínicos e corticosteroides pode não ser suficiente.
+Muito raramente, foram relatadas mortes em razão de angioedema associado com edema de laringe ou
+língua. Os pacientes com envolvimento de língua, glote ou laringe estão suscetíveis a apresentar obstrução
+das vias aéreas, especialmente aqueles com histórico de cirurgia das vias aéreas. Quando houver
+envolvimento de língua, glote ou laringe e possibilidade de obstrução das vias aéreas, o tratamento
+adequado, que pode incluir a administração de solução de epinefrina 1:1.000 (0,3 a 0,5 mL) por via
+subcutânea e/ou medidas que assegurem a desobstrução das vias aéreas, deve ser instituído imediatamente.
+Foi relatada incidência mais alta de angioedema em pacientes negros que recebiam inibidores da ECA do
+que em pacientes de outras raças.
+Pacientes com histórico de angioedema não relacionado ao tratamento com inibidores da ECA correm maior
+risco de apresentar angioedema durante o tratamento com esses agentes (vide “CONTRAINDICAÇÕES”).
+Pacientes que recebem coadministração de um inibidor da ECA e um inibidor de mTOR (proteína-alvo da
+rapamicina em mamíferos) (por exemplo, tensirolimo, sirolimo, everolimo) podem apresentar maior risco
+de angioedema.
+Pacientes que recebem terapia concomitante com um inibidor da ECA e um inibidor da neprilisina podem
+apresentar maior risco de angioedema (vide “CONTRAINDICAÇÕES” e “INTERAÇÕES
+MEDICAMENTOSAS”).
+Pacientes que recebem terapia concomitante com um inibidor da ECA e vildagliptina podem apresentar
+risco aumentado de angioedema (vide “CONTRAINDICAÇÕES” e “INTERAÇÕES
+MEDICAMENTOSAS”).
+Reações anafilactoides durante dessensibilização com himenóptero: pacientes que recebiam inibidores da
+ECA raramente apresentaram reações anafilactoides com risco de morte durante dessensibilização com
+veneno de himenóptero. Essas reações foram evitadas com a suspensão temporária do inibidor da ECA
+antes de cada dessensibilização.
+Pacientes sob hemodiálise: foi relatada a ocorrência de reações anafilactoides em pacientes submetidos à
+diálise com membranas de alto fluxo (por exemplo: AN 69) que recebiam concomitantemente um inibidor
+da ECA.
+Nesses pacientes, deve-se considerar a utilização de um outro tipo de membrana de diálise ou de uma classe
+diferente de agente anti-hipertensivo.
+Tosse: foi relatada tosse com o uso dos inibidores da ECA. Caracteristicamente, a tosse é não produtiva,
+persistente e desaparece com a descontinuação do tratamento. A tosse induzida por inibidores da ECA deve
+ser incluída no diagnóstico diferencial de tosse.
+Cirurgia/anestesia: em pacientes submetidos a cirurgias importantes ou sob anestesia com agentes
+hipotensores, o enalapril bloqueia a formação de angiotensina II consequente à liberação compensatória de
+renina. Se ocorrer hipotensão atribuível a esse mecanismo, a pressão arterial poderá ser normalizada pela
+expansão de volume.
+Hipercalemia (vide “INTERAÇÕES MEDICAMENTOSAS - Potássio Sérico”): os fatores de risco para
+desenvolvimento da hipercalemia incluem insuficiência renal, diabetes mellitus e uso concomitante de
+diuréticos poupadores de potássio (por exemplo, espironolactona, eplerenona, triantereno ou amilorida),
+suplementos de potássio, substitutos do sal que contenham potássio, ou outros medicamentos que possam
+aumentar o potássio sérico (por exemplo, produtos que contenham trimetoprima).
+O uso de suplementos de potássio, diuréticos poupadores de potássio ou substitutos do sal que contenham
+potássio, particularmente em pacientes com função renal comprometida, pode levar a aumento significativo
+dos níveis séricos de potássio. A hipercalemia pode causar arritmias sérias, algumas vezes fatais.
+Se o uso concomitante de maleato de enalapril com qualquer um dos agentes mencionados acima for
+considerado apropriado, deverá ser feito com cautela e com monitoramento frequente dos níveis séricos de
+potássio.
+Hipoglicemia: pacientes diabéticos tratados com agentes antidiabéticos orais ou insulina que estiverem
+iniciando tratamento com um inibidor da ECA devem ser orientados a monitorar rigorosamente a
+hipoglicemia, particularmente durante o primeiro mês de uso combinado (vide “INTERAÇÕES
+MEDICAMENTOSAS”).
+Gravidez e amamentação: categoria de risco D.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica. Informe
+imediatamente seu médico em caso de suspeita de gravidez.
+O uso de maleato de enalapril durante a gravidez não é recomendado. O tratamento com maleato de
+enalapril deve ser suspenso o mais rápido possível depois da confirmação de gravidez, a menos que seja
+considerado vital para a mãe.
+Em um estudo epidemiológico retrospectivo publicado, os recém-nascidos cujas mães receberam um
+inibidor da ECA durante o primeiro trimestre de gravidez pareceram ter risco aumentado de importantes
+malformações congênitas em comparação com recém-nascidos de mães não expostas a inibidores da ECA
+no primeiro trimestre. O número de casos de defeitos congênitos é pequeno e os achados desse estudo ainda
+não foram repetidos.
+Os inibidores da ECA podem causar morbidade e mortalidade fetal e neonatal quando administrados a
+mulheres no segundo e terceiro trimestres da gravidez. A utilização de inibidores da ECA durante esse
+período foi associada a danos para o feto e para o recém-nascido, incluindo hipotensão, insuficiência renal,
+hipercalemia e/ou hipoplasia de crânio no recém-nascido. Ocorreu oligoidrâmnio materno,
+presumivelmente representando redução da função renal fetal, podendo resultar em contraturas de
+membros, deformidades craniofaciais e desenvolvimento de pulmão hipoplásico. Se maleato de enalapril
+for utilizado nesses casos, as pacientes devem ser devidamente informadas sobre o risco potencial que o
+medicamento acarreta para o feto. Essas reações adversas para o embrião e para o feto não parecem ter
+ocorrido quando a exposição intrauterina ao inibidor da ECA restringiu-se ao primeiro trimestre.
+Nos raros casos em que a utilização de inibidores da ECA durante a gravidez for considerada essencial,
+deve-se solicitar ultrassonografias seriadas para avaliação do meio intra-amniótico. Se for detectado
+oligoidrâmnio, o tratamento com maleato de enalapril deve ser suspenso, a menos que seja considerado
+vital para a mãe. Pacientes e médicos devem, contudo, estar cientes de que o oligoidrâmnio pode não ser
+detectado antes de o feto ter sofrido danos irreversíveis.
+Os recém-nascidos de mães que tomaram maleato de enalapril devem ser observados
+cuidadosamente, a fim de verificar a ocorrência de hipotensão, oligúria e hipercalemia. O enalapril,
+que atravessa a placenta, foi removido da circulação neonatal por diálise peritoneal com algum benefício
+clínico e, teoricamente, pode ser removido por exsanguineotransfusão.
+O enalapril e o enalaprilato são secretados no leite humano, em quantidades vestigiais. Deve-se ter cuidado
+ao prescrever maleato de enalapril a mulheres que estejam amamentando.
+Uso criterioso no aleitamento ou na doação de leite humano: o uso deste medicamento no período da
+lactação depende da avaliação e acompanhamento do seu médico ou cirurgião-dentista.
+Uso pediátrico: a segurança e a eficácia de maleato de enalapril foram estabelecidas em pacientes
+hipertensos de 1 mês a 16 anos de idade. O uso do maleato de enalapril comprimidos nesse grupo etário é
+apoiado por evidências de estudos adequados e bem controlados do maleato de enalapril em pacientes
+pediátricos e adultos, bem como por estudos publicados que envolviam pacientes pediátricos.
+Em um estudo de farmacocinética de dose múltipla realizado em 40 pacientes pediátricos hipertensos
+(excluindo neonatos), maleato de enalapril foi geralmente bem tolerado. A farmacocinética após
+administração oral do enalapril foi semelhante nesses pacientes e comparável aos valores históricos em
+adultos.
+Em um estudo clínico que envolveu 110 pacientes hipertensos com idade entre 6 e 16 anos, os pacientes
+com peso < 50 kg receberam diariamente 0,625 mg, 2,5 mg ou 20 mg de enalapril e os pacientes com peso
+≥ 50 kg receberam 1,25 mg, 5 mg ou 40 mg, também diariamente. A administração do enalapril uma vez
+ao dia diminuiu a pressão sanguínea no vale de modo dependente da dose e a eficácia anti-hipertensiva foi
+consistente em todos os subgrupos (idade, estágio de Tanner, sexo e raça). Entretanto, a eficácia anti-
+hipertensiva parece não ter sido consistente com as doses mais baixas estudadas: 0,625 mg e 1,25 mg,
+correspondentes a uma média de 0,02 mg/kg uma vez ao dia. A dose máxima estudada foi de 0,58 mg/kg
+(até 40 mg) uma vez ao dia. Nesse estudo,
+maleato de enalapril foi geralmente bem tolerado.
+O perfil de reações adversas em pacientes pediátricos não é diferente do observado em pacientes adultos.
+O maleato de enalapril não é recomendado a neonatos e pacientes pediátricos com taxa de filtração
+glomerular < 30 mL/min/1,73 m2, já que não existem dados disponíveis para essa população de pacientes.
+Efeito sobre a capacidade de dirigir e operar máquinas: ao dirigir veículos ou operar máquinas, deve-
+se considerar que eventualmente podem ocorrer tontura ou cansaço.
+Informe ao seu paciente que ele deve evitar se levantar rapidamente, dirigir veículos e/ou operar
+máquinas, principalmente no início do tratamento e ao aumentar a dose.
+ATENÇÃO:
+Contém lactose. Este medicamento não deve ser usado por pessoas com síndrome de má-absorção de
+glicose-galactose.
+Para a concentração de 10 mg:
+Contém o corante óxido de ferro vermelho que pode, eventualmente, causar reações alérgicas.
+Para a concentração de 20 mg:
+Contém o corante óxido de ferro amarelo que pode, eventualmente, causar reações alérgicas.
+6. INTERAÇÕES MEDICAMENTOSAS
+Terapia anti-hipertensiva: a administração de maleato de enalapril com outro anti-hipertensivo pode
+causar efeito aditivo.
+Potássio sérico: (vide “ADVERTÊNCIAS E PRECAUÇÕES - Hipercalemia”) em estudos clínicos, o
+potássio sérico geralmente permaneceu nos limites da normalidade. Em pacientes hipertensos que
+receberam apenas maleato de enalapril durante até 48 semanas, foram observados aumentos médios do
+potássio sérico de aproximadamente 0,2 mEq/L. Nos pacientes que receberam maleato de enalapril
+associado a um diurético tiazídico, o efeito espoliador de potássio do diurético foi, em geral, atenuado pelo
+efeito do enalapril.
+Se maleato de enalapril for administrado com um diurético espoliador de potássio, a hipocalemia induzida
+pelo diurético pode ser atenuada.
+Os fatores de risco para o desenvolvimento de hipercalemia incluem insuficiência renal, diabetes mellitus
+e uso concomitante de diuréticos poupadores de potássio (por exemplo: espironolactona, eplerenona,
+triantereno ou amilorida), suplementos de potássio, substitutos do sal que contenham potássio, ou outros
+medicamentos que possam aumentar o potássio sérico (por exemplo, produtos que contenham
+trimetoprima).
+O uso de suplementos de potássio, diuréticos poupadores de potássio, substitutos do sal que contenham
+potássio, ou outros medicamentos que possam aumentar o potássio sérico, particularmente em pacientes
+com comprometimento da função renal, pode resultar em aumentos significativos do potássio sérico. Caso
+essa conduta seja considerada apropriada, o maleato de enalapril e esses agentes deverão ser usados com
+cuidado e o potássio sérico, monitorizado com frequência.
+Antidiabéticos: estudos epidemiológicos sugeriram que a administração concomitante de inibidores da
+ECA com medicamentos antidiabéticos (insulinas, agentes hipoglicemiantes orais) pode causar aumento do
+efeito redutor da glicemia com risco de hipoglicemia. Esse fenômeno pareceu ser mais provável durante as
+primeiras semanas de tratamento combinado e em pacientes com insuficiência renal. Em pacientes
+diabéticos tratados com agentes antidiabéticos orais ou insulina, o controle glicêmico deve ser monitorado
+com atenção quanto à hipoglicemia, particularmente durante o primeiro mês de tratamento com um inibidor
+da ECA.
+Lítio sérico: a exemplo de outros medicamentos que eliminam sódio, pode ocorrer redução da depuração
+do lítio, portanto os níveis séricos de lítio devem ser monitorados cuidadosamente se houver necessidade
+de administrar sais de lítio.
+Agentes anti-inflamatórios não esteroides, incluindo inibidores seletivos da ciclooxigenase-2: agentes
+anti-inflamatórios não esteroides, incluindo os inibidores seletivos da ciclooxigenase-2 (inibidores da
+COX-2), podem reduzir o efeito de diuréticos e de outros agentes anti-hipertensivos. Portanto, os efeitos
+anti-hipertensivos dos antagonistas dos receptores da angiotensina II ou dos inibidores da ECA podem ser
+atenuados pelos anti-inflamatórios não esteroides, incluindo os inibidores seletivos da COX-2.
+Em alguns pacientes com disfunção renal (por exemplo, pacientes idosos ou hipovolêmicos, incluindo
+aqueles em tratamento com diuréticos) sob tratamento com anti-inflamatórios não esteroides, incluindo
+inibidores seletivos da ciclooxigenase-2, a coadministração de antagonistas dos receptores da angiotensina
+II ou de inibidores da ECA pode agravar a deterioração da função renal, incluindo possível falência renal
+aguda. Esses efeitos em geral são reversíveis. Portanto, a combinação deve ser administrada com cautela
+em pacientes com a função renal comprometida.
+Bloqueio duplo do sistema renina-angiotensina-aldosterona: Em pacientes com doença aterosclerótica
+estabelecida, insuficiência cardíaca ou diabetes com dano final em órgãos-alvo, o bloqueio duplo do sistema
+renina-angiotensina-aldosterona com antagonista de receptor da angiotensina, inibidor da ECA ou
+diretamente com inibidores da renina (como o alisquireno) está associado com um maior risco de
+hipotensão, síncope, hipercalemia e alterações na função renal (incluindo insuficiência renal aguda)
+comparado a monoterapia. Deve-se monitorar atentamente a pressão sanguínea, a função renal e os
+eletrólitos em pacientes tratados com maleato de enalapril e outros agentes que afetem o sistema renina-
+angiotensina-aldosterona. Não coadministrar alisquireno com maleato de enalapril em pacientes com
+diabetes. Evitar o uso de alisquireno com maleato de enalapril em pacientes com comprometimento renal
+(TFG < 60 mL/min).
+Ouro: reações nitritoides (os sintomas incluem rubor facial, náuseas, vômitos e hipotensão) foram relatadas
+raramente em pacientes recebendo terapia com ouro injetável (aurotiomalato de sódio) e terapia
+concomitante com inibidores da ECA, incluindo enalapril.
+Álcool: o álcool aumenta o efeito hipotensor dos inibidores da ECA.
+Inibidores da proteína-alvo da rapamicina em mamíferos (mTOR): os pacientes em terapia
+concomitante com inibidores da mTOR (por exemplo, tensirolimo, sirolimo, everolimo) podem apresentar
+maior risco de angioedema (vide “ADVERTÊNCIAS E PRECAUÇÕES”).
+Inibidores de neprilisina: os pacientes que utilizam concomitantemente um inibidor da neprilisina (por
+exemplo, sacubitril) podem apresentar maior risco de angioedema (vide “CONTRAINDICAÇÕES” e
+“ADVERTÊNCIAS E PRECAUÇÕES”).
+vildagliptina: os pacientes que utilizam concomitantemente vildagliptina podem apresentar maior risco
+de angioedema (vide “CONTRAINDICAÇÕES” e “ADVERTÊNCIAS E PRECAUÇÕES”).
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar em temperatura ambiente (de 15°C a 30°C). Proteger da luz e umidade.
+O prazo de validade do medicamento a partir da data de fabricação é de 24 meses.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características físicas e organolépticas
+O maleato de enalapril 5 mg: comprimido na cor branca, circular, biconvexo e monossectado.
+O maleato de enalapril 10 mg: comprimido na cor vermelha, circular, biconvexo e monossectado.
+O maleato de enalapril 20 mg: comprimido na cor amarela, circular, biconvexo e monossectado.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Uma vez que a absorção dos comprimidos de maleato de enalapril não é afetada pela ingestão de alimentos,
+os comprimidos podem ser administrados antes, durante ou após as refeições.
+A dose de 2,5 mg é citada apenas para informação. Embora os comprimidos de 2,5 mg de enalapril estejam
+disponíveis no mercado, maleato de enalapril não é mais comercializado na concentração de 2,5 mg.
+Hipertensão essencial: a dose inicial é de 10 mg a 20 mg uma vez ao dia, dependendo do grau de
+hipertensão. A dose inicial recomendada para a hipertensão leve é de 10 mg ao dia. Para outros graus de
+hipertensão, a dose inicial é de 20 mg ao dia. A dose usual de manutenção é de um comprimido de 20 mg
+ao dia. A posologia deve ser ajustada de acordo com a necessidade do paciente até o máximo de 40 mg ao
+dia.
+Hipertensão renovascular: uma vez que a pressão arterial e a função renal nesses pacientes podem ser
+particularmente sensíveis à inibição da ECA, o tratamento deve ser iniciado com uma dose menor (por
+exemplo, 5 mg ou menos). A posologia, então, deve ser ajustada de acordo com a necessidade do paciente;
+espera-se que a maioria dos pacientes responda a um comprimido de 20 mg ao dia. Para os pacientes
+hipertensos que receberam diuréticos recentemente, recomenda-se cautela (veja a seguir).
+Terapia diurética concomitante na hipertensão: pode ocorrer hipotensão sintomática após a dose inicial
+de maleato de enalapril, principalmente em pacientes tratados concomitantemente com diuréticos, portanto
+recomenda-se cuidado nesses casos, pois esses pacientes podem apresentar depleção de volume ou de sal.
+A terapia diurética deve ser descontinuada por 2 a 3 dias antes do início da terapia com maleato de enalapril.
+Se isso não for possível, a dose inicial de maleato de enalapril deve ser baixa (5 mg ou menos) para
+determinar o efeito inicial na pressão arterial. A posologia, então, deve ser ajustada de acordo com as
+necessidades do paciente.
+Posologia na insuficiência renal: geralmente, o intervalo entre as doses de enalapril deve ser prolongado
+e/ou a posologia diminuída.
+Depuração Plasmática de
+Disfunção Renal Dose Inicial (mg/dia)
+Creatinina (mL/min)
+Menor que 80 e maior que 30
+Leve 5 mg – 10 mg
+mL/min
+Menor ou igual a 30 e maior
+Moderada que 2,5 mg – 5 mg
+10 mL/min
+Grave
+2,5 mg nos dias de
+(normalmente esses pacientes Menor ou igual a 10 mL/min
+diálise††
+estão sob diálise†)
+† Vide “ADVERTÊNCIAS E PRECAUÇÕES - Pacientes sob Hemodiálise”.
+†† O enalaprilato é dialisável. Nos dias em que o paciente não for submetido à diálise, a posologia deverá
+ser ajustada à resposta da pressão arterial.
+Insuficiência cardíaca/disfunção ventricular esquerda assintomática: a dose inicial para pacientes com
+insuficiência cardíaca sintomática ou disfunção ventricular esquerda assintomática é de 2,5 mg e deve ser
+administrada sob rígida supervisão médica para se determinar o efeito inicial na pressão arterial. O maleato
+de enalapril pode ser utilizado para o controle da insuficiência cardíaca sintomática, geralmente com
+diuréticos e, quando apropriado, com digitálicos. Na ausência de hipotensão sintomática, após o início da
+terapia de insuficiência cardíaca com maleato de enalapril ou após o controle efetivo da hipotensão, a dose
+deve ser aumentada gradualmente até a dose de manutenção usual de 20 mg, administrada em dose única
+diária ou dividida em duas doses, conforme tolerado pelo paciente. Essa titulação da dose pode ser realizada
+em um período de 2 a 4 semanas ou menos, quando a presença de sinais ou sintomas residuais de
+insuficiência cardíaca indicar. Em pacientes com insuficiência cardíaca sintomática, esse esquema
+posológico foi eficaz para reduzir a mortalidade.
+A pressão arterial e a função renal devem ser rigorosamente monitorizadas antes e depois de iniciado o
+tratamento com maleato de enalapril (vide “ADVERTÊNCIAS E PRECAUÇÕES”), pois foram relatadas
+hipotensão e, mais raramente, consequente insuficiência renal. Em pacientes que utilizam diuréticos, a dose
+deverá ser reduzida, se possível, antes do início do tratamento com maleato de enalapril. O aparecimento
+de hipotensão após a dose inicial de maleato de enalapril não implica que ela voltará a ocorrer durante a
+terapia crônica e não impede o uso continuado de maleato de enalapril. O potássio sérico também deverá
+ser monitorizado (vide “INTERAÇÕES MEDICAMENTOSAS”).
+Este medicamento não deve ser partido ou mastigado.
+9. REAÇÕES ADVERSAS
+Em geral, o maleato de enalapril é bem tolerado. Em estudos clínicos, a incidência global de reações
+adversas não foi maior com maleato de enalapril do que com placebo. Na maioria dos casos, as reações
+adversas foram leves e transitórias e não requereram a interrupção do tratamento.
+As seguintes reações adversas foram associadas ao uso de maleato de enalapril: tontura e cefaleia foram as
+reações mais comumente relatadas; fadiga e astenia foram relatadas por 2% a 3% dos pacientes. Outras
+reações adversas ocorreram em menos de 2% dos pacientes e incluíram hipotensão, hipotensão ortostática,
+síncope, náuseas, diarreia, cãibras musculares, erupções cutâneas e tosse; menos frequentemente, houve
+relatos de disfunção renal, insuficiência renal e oligúria.
+Hipersensibilidade/edema angioneurótico: edema angioneurótico de face, lábios, língua, glote e/ou
+laringe e extremidades foi relatado raramente (vide “ADVERTÊNCIAS E PRECAUÇÕES”). Em casos
+muito raros, foi relatado angioedema intestinal com inibidores da enzima conversora de angiotensina,
+inclusive com o enalapril.
+Reações adversas que ocorreram muito raramente em estudos clínicos controlados ou após a
+comercialização incluem:
+Cardiovasculares: infarto do miocárdio ou acidente vascular cerebral (possivelmente decorrentes de
+hipotensão excessiva em pacientes de alto risco (vide “ADVERTÊNCIAS E PRECAUÇÕES”), dor
+torácica, distúrbios do ritmo cardíaco, palpitações, angina pectoris e fenômeno de Raynaud.
+Endócrino: síndrome da secreção inapropriada do hormônio antidiurético (SIADH).
+Gastrintestinais: íleo paralítico, pancreatite, insuficiência hepática, hepatite (hepatocelular ou colestática),
+icterícia, vômitos, constipação, estomatite, dor abdominal, dispepsia, anorexia.
+Sistemas nervoso/psiquiátrico: depressão, confusão mental, sonolência, insônia, nervosismo, parestesia,
+vertigem, anormalidades no padrão de sonhos.
+Metabolismo: foram relatados casos de hipoglicemia em pacientes diabéticos recebendo agentes
+antidiabéticos orais ou insulina (vide “INTERAÇÕES MEDICAMENTOSAS”).
+Respiratórios: infiltrados pulmonares, broncoespasmo/asma, dispneia, rinorreia, dor de garganta e
+rouquidão.
+Pele: diaforese, eritema polimorfo, dermatite esfoliativa, síndrome de Stevens-Johnson, necrólise
+epidérmica tóxica, pênfigo, prurido, urticária, alopecia.
+Outros: impotência, rubor (vermelhidão repentina da pele, principalmente no rosto, pescoço e parte
+superior do tórax), alteração do paladar, visão embaçada, glossite e zumbido.
+Foi relatado um complexo sintomático que pode incluir alguns, ou todos, dos seguintes sintomas: febre,
+serosite, vasculite, mialgia/miosite, artralgia/artrite, fator antinúcleo positivo, VHS elevada, eosinofilia e
+leucocitose.
+Podem ocorrer erupções cutâneas, fotossensibilidade ou outras manifestações dermatológicas.
+Achados de testes laboratoriais: alterações clinicamente importantes dos parâmetros laboratoriais padrão
+raramente foram associadas com a administração de maleato de enalapril. Foram observados aumentos de
+ureia sanguínea e creatinina sérica e elevações das enzimas hepáticas e/ou da bilirrubina sérica, geralmente
+reversíveis com a descontinuação de maleato de enalapril. Ocorreram hipercalemia e hiponatremia.
+Foram relatadas reduções de hemoglobina e hematócrito.
+Após a comercialização, foram relatados alguns casos de neutropenia, trombocitopenia, depressão de
+medula óssea e agranulocitose nos quais não se pôde excluir relação causal com o uso de maleato de
+enalapril.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Há poucos dados disponíveis sobre a superdose em seres humanos. As principais características de
+superdose relatadas até o momento consistem em hipotensão acentuada que começa cerca de 6 horas após
+a ingestão dos comprimidos, simultaneamente com bloqueio do sistema renina-angiotensina, e estupor.
+Após ingestão de 300 mg e 440 mg de enalapril, foram relatados níveis séricos de enalaprilato 100 e 200
+vezes mais altos, respectivamente, do que os observados usualmente depois de doses terapêuticas.
+O tratamento recomendado para a superdose é a infusão intravenosa de solução salina normal. Se
+disponível, a infusão de angiotensina II pode ser benéfica. Se a ingestão for recente, deve-se induzir o
+vômito. O enalaprilato pode ser removido da circulação sistêmica por hemodiálise (vide
+“ADVERTÊNCIAS E PRECAUÇÕES - Pacientes sob Hemodiálise”).
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III - DIZERES LEGAIS
+Registro: 1.6773.0267
+Registrado por: LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA
+Rod. Jornalista Francisco Aguirre Proença, KM 08
+Bairro Chácara Assay
+Hortolândia/SP - CEP 13186-901
+CNPJ: 05.044.984/0001-26
+Indústria Brasileira
+Produzido por: EMS S/A.
+Hortolândia/SP
+Ou
+Produzido por: NOVAMED FABRICAÇÃO DE PRODUTOS FARMACÊUTICOS LTDA.
+Manaus/AM
+VENDA SOB PRESCRIÇÃO
+SAC: 0800 050 06 00
+Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em 01/05/2025.
+bula-prof-676265-LEG-v2
+Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do Nº. Data do Nº. Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+Atualização de texto de O maleato de enalapril é
+(10459) –
+bula conforme bula padrão apresentado em 5mg, 10mg
+GENÉRICO
+publicada no bulário. e 20mg de maleato de
+– Inclusão
+0501792/14- enalapril acondicionados em
+25/06/2014 Inicial de N/A N/A N/A N/A VP/VPS
+1 Submissão eletrônica para caixas contendo 10, 20, 30,
+Texto de
+disponibilização do texto de 40, 60, 90 e 240*
+Bula – RDC
+bula no Bulário eletrônico omprimidos. *Embalagem
+60/12
+da ANVISA. Hospitalar
+Itens Alterados:
+COMPOSIÇÃO/ ONDE,
+COMO E POR QUANTO
+O maleato de enalapril é
+(10452) – TEMPO POSSO
+apresentado em 5mg, 10mg
+GENÉRICO GUARDAR ESTE
+e 20mg de maleato de
+–Notificação MEDICAMENTO?/
+0643547/14- enalapril acondicionados em
+07/08/2014 de Alteração N/A N/A N/A N/A COMO DEVO USAR VP/VPS
+5 caixas contendo 10, 20, 30,
+de Texto de ESTE MEDICAMENTO?/
+40, 60, 90 e
+Bula – RDC CUIDADOS DE
+240*comprimidos.
+60/12 ARMAZENAMENTO DO
+*Embalagem Hospitalar
+MEDICAMENTO/
+POSOLOGIA E MODO
+DE USAR.
+10249 -
+O maleato de enalapril é
+(10452) – GENÉRICO -
+apresentado em 5mg, 10mg
+GENÉRICO Inclusão de
+e 20mg de maleato de
+–Notificação local de
+0305894/15- enalapril acondicionados em
+08/04/2015 de Alteração 02/02/2015 0091962/15-4 fabricação do 09/03/2015 Dizeres legais VP/VPS
+8 caixas contendo 10, 20, 30,
+de Texto de medicamento
+40, 60, 90 e 240*
+Bula – RDC de liberação
+omprimidos. *Embalagem
+60/12 convencional
+Hospitalar
+com prazo de
+análise
+O maleato de enalapril é
+(10452) – O que devo saber antes de
+apresentado em 5mg, 10mg
+GENÉRICO usar este medicamento?/
+e 20mg de maleato de
+–Notificação Quais os males que este
+enalapril acondicionados em
+15/01/2016 1166853/16-9 de Alteração N/A N/A N/A N/A medicamento pode me VP/VPS
+caixas contendo 10, 20, 30,
+de Texto de causar?/ Advertências e
+40, 60, 90 e 240*
+Bula – RDC precauções/ Interações
+comprimidos. *Embalagem
+60/12 medicamentosas
+Hospitalar
+3.Quando não devo usar
+O maleato de enalapril é
+(10452) – este medicamento?
+VP apresentado em 5mg, 10mg
+GENÉRICO 4.O que devo saber antes de
+e 20mg de maleato de
+–Notificação usar este medicamento?
+enalapril acondicionados em
+de Alteração N/A N/A N/A N/A 4. Contraindicações
+0194794/18- caixas contendo 10, 20, 30,
+13/03/2018 de Texto de 5. Advertências e
+0 40, 60, 90 e 240*
+Bula – RDC precauções VPS
+comprimidos. *Embalagem
+60/12 6.Interações
+Hospitalar
+medicamentosas
+4. O que devo saber antes
+de usar este medicamento?
+5. Onde, como e por quanto VP O maleato de enalapril é
+(10452) – tempo posso guardar este apresentado em 5mg, 10mg
+GENÉRICO medicamento? e 20mg de maleato de
+–Notificação 5. Advertências e enalapril acondicionados em
+N/A N/A N/A N/A
+28/06/2018 0519153/18- de Alteração precauções caixas contendo 10, 20, 30,
+0 de Texto de 6. Interações 40, 60, 90 e 240*
+Bula – RDC medicamentosas VPS comprimidos. *Embalagem
+60/12 7. Cuidados de Hospitalar
+armazenamento do
+medicamento
+4. O que devo saber antes O maleato de enalapril é
+(10452) –
+de usar este medicamento? VP apresentado em 5mg, 10mg
+GENÉRICO
+DIZERES LEGAIS e 20mg de maleato de
+12/02/2021 0576984/21- –Notificação N/A N/A N/A N/A
+enalapril acondicionados em
+1 de Alteração 5. Advertências e
+VPS caixas contendo 10, 20, 30,
+de Texto de precauções
+40, 60, 90 e 240*
+Bula – RDC 6. Interações comprimidos. *Embalagem
+60/12 medicamentosas Hospitalar
+9. Reações adversas
+DIZERES LEGAIS
+I - IDENTIFICAÇÃO DO
+MEDICAMENTO
+5. ONDE, COMO E POR
+(10452) –
+QUANTO TEMPO POSSO
+GENÉRICO
+GUARDAR ESTE VP Comprimidos de 5 mg, 10
+– Notificação
+3377372/21- MEDICAMENTO? mg e 20 mg. Embalagem
+27/08/2021 de alteração N/A N/A N/A N/A
+1 contendo 10, 20, 30, 40, 60,
+de Texto de
+I - IDENTIFICAÇÃO DO 90 e 240* comprimidos.
+Bula – RDC
+MEDICAMENTO *Embalagem hospitalar.
+60/12
+7. CUIDADOS DE VPS
+ARMAZENAMENTO DO
+MEDICAMENTO
+3. QUANDO NÃO DEVO
+USAR ESTE
+MEDICAMENTO?
+4. O QUE DEVO SABER
+ANTES DE USAR ESTE
+MEDICAMENTO? VP
+(10452) –
+5. ONDE, COMO E POR Comprimidos de 5 mg, 10
+GENÉRICO
+QUANTO TEMPO POSSO mg e 20 mg. Embalagem
+–Notificação
+0774971/25- GUARDAR ESTE contendo 10, 20, 30, 40, 60,
+09/06/2025 de alteração N/A N/A N/A N/A
+8 MEDICAMENTO? 90 e 240* unidades.
+de Texto de
+III – DIZERES LEGAIS *Embalagem hospitalar.
+Bula – RDC
+4. CONTRAINDICAÇÕES
+60/12
+5. ADVERTÊNCIAS E
+PRECAUÇÕES
+7. CUIDADOS DE VPS
+ARMAZENAMENTO DO
+MEDICAMENTO
+III – DIZERES LEGAIS
+3. QUANDO NÃO DEVO
+USAR ESTE
+MEDICAMENTO?
+(10452) – 4. O QUE DEVO SABER
+VP
+GENÉRICO ANTES DE USAR ESTE
+Comprimidos de 5 mg, 10
+–Notificação MEDICAMENTO?
+mg e 20 mg. Embalagem
+- - de alteração N/A N/A N/A N/A 6. COMO DEVO USAR
+contendo 10, 20, 30, 40, 60,
+de Texto de ESTE MEDICAMENTO?
+90 e 240* unidades.
+Bula – RDC 4. CONTRAINDICAÇÕES
+*Embalagem hospitalar.
+60/12 5. ADVERTÊNCIAS E
+PRECAUÇÕES VPS
+8. POSOLOGIA E MODO
+DE USAR

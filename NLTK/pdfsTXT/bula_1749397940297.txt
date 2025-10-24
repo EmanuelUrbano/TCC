@@ -1,0 +1,421 @@
+ELPRAZOL
+Pharlab Indústria Farmacêutica S.A.
+Cápsula Dura de Liberação Retardada
+20 mg
+IDENTIFICAÇÃO DO MEDICAMENTO
+ELPRAZOL
+omeprazol
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA
+APRESENTAÇÕES
+ELPRAZOL 20 mg em frascos contendo 28, 56 ou 840 cápsulas duras de liberação retardada.
+USO ORAL
+USO ADULTO E PEDIÁTRICO ACIMA DE 1 ANO
+COMPOSIÇÃO
+Cada cápsula dura de liberação retardada contém:
+omeprazol........................................................................................................................................................ 20 mg
+Excipientes q.s.p ....................................................................................................................................... 1 cápsula
+(carbonato de magnésio, hiprolose, fosfato de sódio dibásico di-hidratado, amido, talco, sacarose pulverizada, sacarose
+eferas, hipromelose, eudragit®, dióxido de titânio, macrogol, polissorbato 80, dióxido de silício, hidróxido de sódio).
+INFORMAÇÕES TÉCNICAS AO PROFISSIONAL DE SAÚDE
+1. INDICAÇÕES
+Adultos: tratamento das úlceras pépticas benignas (gástricas ou duodenais). O omeprazol está indicado também nos
+estados de hiperacidez gástrica, na prevenção de recidivas de úlceras gástricas ou duodenais e na síndrome de Zollinger-
+Ellison. O omeprazol também é indicado no tratamento de erradicação do Helicobacter pylori em esquemas de terapia
+múltipla e na proteção da mucosa gástrica contra danos causados por anti-inflamatórios não esteroidais (AINEs).
+Crianças: tratamento de esofagite de refluxo em crianças com mais de um ano de idade.
+2. RESULTADO DE EFICÁCIA
+Efeito na secreção ácido-gástrica: o omeprazol atua de forma específica, exclusivamente nas células parietais, não
+possuindo ação sobre receptores de acetilcolina e histamina, segundo estudo de Larsson et al. (1985). A inibição da
+secreção ácida está relacionada à área sob a curva da concentração plasmática versus tempo (ASC) de omeprazol e não
+à concentração plasmática real no devido tempo. Não foi observado até o momento fenômeno de taquifilaxia durante o
+tratamento com omeprazol, conforme estudo de Merki e Wilder-Smith (1994).
+Outros efeitos relacionados à inibição ácida: durante tratamento de longo prazo, foi relatado aumento na frequência
+de cistos glandulares gástricos. Essas inibições são consequências fisiológicas da inibição pronunciada da secreção
+ácida, são benignas e parecem ser reversíveis. A acidez gástrica reduzida devido a qualquer motivo, incluindo
+tratamento com inibidores da bomba de prótons, aumenta a contagem gástrica de bactérias, normalmente presentes no
+trato gastrintestinal. O tratamento com medicamentos que reduzem a acidez gástrica pode levar ao risco um pouco
+maior de infecções gastrintestinais, como por Salmonella e Campylobacter, segundo estudo de Garcia Rodriguez e Rui
+Gomez (1997).
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+O omeprazol é um agente inibidor específico da bomba de prótons, quimicamente denominado como 5-metoxi-2[t2[(4-
+metoxi-3,5-dimetil-2-piridinil) metil] sulfinil]-1H-benzimidazol, uma mistura racêmica de dois enantiômeros que
+inibem a secreção ácida gástrica. Sua fórmula empírica é C H N O S e seu peso molecular, 345,42.
+17 19 3 3
+Elprazol_20mg_Bula_VPS
+O omeprazol age por inibição da H+K+ATPase, enzima localizada especificamente na célula parietal do estômago e
+responsável por uma das etapas finais no mecanismo de produção de ácido gástrico. Essa ação farmacológica, dose-
+dependente, inibe a etapa final da formação de ácido no estômago, proporcionando assim uma inibição altamente
+efetiva tanto da secreção ácida basal quanto da estimulada, independentemente do estímulo. O omeprazol atua de forma
+específica nas células parietais, não possuindo ação sobre os receptores de acetilcolina e histamina. A administração
+diária do omeprazol em dose única via oral causa rápida inibição da secreção ácida gástrica.
+Absorção: a biodisponibilidade oral é cerca de 30% a 40%. Após doses orais de 20 mg a 40 mg, a biodisponibilidade
+absoluta é de 30%-40% (comparada à administração intravenosa), sendo que essa porcentagem aumenta após
+administrações repetidas em cerca de 65% do estado de equilíbrio. O baixo grau de biodisponibilidade é principalmente
+devido ao metabolismo pré-sistêmico. A biodisponibilidade do omeprazol está aumentada em cerca de 100%
+comparada às doses intravenosas em pacientes com doenças hepáticas crônicas. A biodisponibilidade do omeprazol é
+maior em pacientes mais velhos comparados aos pacientes mais jovens. E, em pacientes com síndrome Zollinger-
+Ellinson (68%), não foi significantemente diferente de pacientes sadios mais velhos (79%) ou mais jovens (54%). A
+disponibilidade média sistêmica do omeprazol oral em pacientes com insuficiência renal crônica (clearance de
+creatinina de 10-62 mL/min/1,43 m2) foi de 70%. A presença de alimento afeta o nível, mas não a extensão da absorção.
+Distribuição: a taxa de ligação às proteínas plasmáticas é de 95%-96%. O fármaco se liga principalmente à albumina
+sérica e à glicoproteína alfa-1-ácida. A ligação proteica média (95,2%) do omeprazol em pacientes com insuficiência
+renal crônica (clearance de creatinina de 10 mL/min/1,73 m2 a 62 mL/min/1,73 m2) não foi significantemente diferente
+de voluntários sadios. O volume de distribuição é de 0,34 L/kg a 0,37 L/kg, sendo menor em idosos do que em
+pacientes mais jovens. De acordo com estudo realizado, o volume de distribuição de 0,24 L/kg foi relatado em pacientes
+mais velhos comparados aos 0,34 L/kg a 0,37 L/kg dos pacientes mais jovens.
+Metabolismo: após administração de omeprazol radiomarcado (intravenoso e oral), 60% da radioatividade total foi
+recuperada na urina durante as primeiras seis horas. Durante os quatro dias seguintes, 75% a 78% da dose administrada
+foi recuperada na urina e, 18% a 19% nas fezes. Quantidades insignificantes do fármaco inalterado foram eliminadas
+via renal ou pelas fezes. Nas doses terapêuticas, o omeprazol não se apresentou como indutor enzimático dos
+citocromos da subfamília do P450 (CYP) isorforme S-mefenitoína hidroxilase, também conhecido como CYP 2C19.
+Muitos pacientes com deficiência nesse sistema enzimático serão metabolizadores lentos do omeprazol, podendo
+alcançar concentrações plasmáticas cinco ou mais vezes, mais altas do que os pacientes com a enzima normal. Em
+pacientes idosos, o clearance plasmático do omeprazol está diminuído e a ASC da concentração plasmática está
+aumentada em comparação aos indivíduos jovens sadios. Alterações nesses parâmetros farmacocinéticos são próprias
+da redução do metabolismo secundário pela diminuição do fluxo e do volume sanguíneo hepático. Os metabólitos
+detectados, hidroxiomeprazol, sulfonomeprazol e sulfetomeprazol são inativos.
+Eliminação: a excreção do omeprazol é predominantemente renal (77%). Após administração de uma dose única oral
+de solução de omeprazol, uma pequena quantidade do fármaco inalterado foi eliminada via renal. A maior parte da dose
+(77%) é excretada na urina na forma de seis ou mais metabólitos. A quantidade remanescente da dose foi excretada nas
+fezes. O clearance corpóreo total é de cerca de 500 mL/min a 600mL/min, diminuindo para 70 mL/min em pacientes
+com doença hepática crônica e para 250 mL/min em pacientes geriátricos. A meia-vida de eliminação é cerca de meia a
+uma hora e aumenta para quase três horas em pacientes com doença hepática crônica. A meia-vida plasmática média em
+pacientes com insuficiência renal crônica (clearance de creatinina de 10 mL/min/1,73 m2 a 62 mL/min/1,73 m2) é de
+0,6 hora, não sendo significantemente diferente de voluntários sadios. A meia-vida plasmática média de 80mg de
+omeprazol administrados oralmente em pacientes com síndrome de Zollinger-Ellinson foi de 2,4 ± 0,5 h (variação de
+1,2 a 5,6 horas). Essa meia-vida é significantemente mais longa em pacientes sadios, mas não em indivíduos mais
+velhos.
+4. CONTRAINDICAÇÕES
+Em pacientes com hipersensibilidade ao omeprazol ou a qualquer componente de sua formulação.
+Elprazol_20mg_Bula_VPS
+5. ADVERTÊNCIAS E PRECAUÇÕES
+O omeprazol não provocou alterações laboratoriais relativas à função hepática e renal em indivíduos normais.
+Entretanto, deve ser administrado com supervisão adequada à indivíduos com função hepática ou renal alteradas.
+Na terapia de longo prazo com omeprazol, há o risco de gastrite atrófica. Na presença de úlcera gástrica, a possibilidade
+de malignidade da lesão deve ser precocemente afastada, uma vez que o uso do omeprazol pode aliviar os sintomas e
+retardar o diagnóstico dessa doença.
+Uso em idosos: embora não seja necessário ajuste de dose em pacientes idosos, o nível de eliminação estará reduzido e
+sua biodisponibilidade, aumentada. Os pacientes devem ser monitorados adequadamente.
+Uso em pacientes com insuficiência renal ou hepática: não é necessário ajuste de dosagem nos pacientes com
+comprometimento renal. Em pacientes com insuficiência renal crônica com clearance de creatinina entre
+10mL/min/1,73m2 e 62mL/min/1,73m2, a disposição do omeprazol não foi significantemente diferente da encontrada
+nos pacientes com função renal normal. Como os metabólitos do omeprazol são principalmente eliminados via hepática,
+sua eliminação diminui na proporção do clearance de creatinina individual. Porém, a disposição do omeprazol não é
+afetada pelos variados graus de disfunção renal, nos quais é compensada pela secreção biliar aumentada. É
+recomendado ajuste de dosagem em pacientes com disfunção hepática, principalmente nos tratamentos de longo prazo.
+Teratogenicidade, mutagenicidade e reprodução: estudos com animais revelaram reações adversas nos fetos
+(teratogênicos, embriogênicos ou outros) e não existem estudos controlados em mulheres grávidas ou mulheres em
+idade fértil. Estudos em animais revelaram evidência do aumento da ocorrência de dano fetal, mas sem evidência
+confirmada em humanos.
+Mulheres grávidas: Categoria de risco na gravidez: C.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+Não existem estudos adequados e bem controlados sobre o uso do omeprazol durante a gravidez e lactação.
+Concentrações de omeprazol foram detectadas no leite materno após a administração oral de 20 mg. O pico da
+concentração de omeprazol no leite materno foi menor do que 7% do pico sérico. Essa concentração corresponde a
+0,004 mg de omeprazol em 200 mL de leite. Tendo em vista que o omeprazol é excretado no leite materno, o risco
+potencial de reações adversas sérias em lactentes e o risco potencial de tumorigenicidade mostrado pelo omeprazol em
+estudos de carcinogenicidade em ratos devem ser considerados para a decisão entre interromper a amamentação ou o
+omeprazol, levando-se em conta a importância da medicação para a mãe.
+Outros efeitos relacionados à inibição ácida: durante tratamento em longo prazo, foi relatado aumento na frequência
+de cistos glandulares gástricos. Essas inibições são consequência fisiológica da inibição pronunciada da secreção ácida,
+são benignas e parecem reversíveis. A acidez gástrica reduzida devido a qualquer motivo, incluindo tratamento com
+inibidores de bomba de prótons, aumenta a contagem gástrica de bactérias normalmente presentes no trato
+gastrintestinal. O tratamento com medicamentos que reduzem a acidez gástrica pode levar ao risco um pouco maior de
+infecções gastrintestinais por Salmonella e Campylobacter, segundo estudo de Garcia Rodriguez e Ruigomez (1977).
+Interações medicamentosas: o omeprazol pode influenciar na farmacocinética de diversos medicamentos incluindo
+diazepam, carbamazepina, clozapina, indinavir, nelfinavir, atazanavir, rilpiverina, metotrexato, tacrolimus,
+micofenolato de mofetila, clopidogrel, digoxina, itraconazol, posaconazol, erlotinib, varfarina, cilostazol e suplementos
+orais de ferro. Além disso, alguns medicamentos podem reduzir a eficácia do omeprazol devido ao aumento de sua
+eliminação, incluindo o efavirenz, rifampicina e algumas ervas medicinais como Ginkgo biloba, erva de São João e Yin
+Zhi Huang (YZH) (vide “Interações medicamentosas”).
+Elprazol_20mg_Bula_VPS
+Atenção: este medicamento contém açúcar, portanto, deve ser usado com cautela em portadores de diabetes.
+Cada cápsula de ELPRAZOL contém 0,13 g de sacarose.
+6. INTERAÇÕES MEDICAMENTOSAS
+Não foram observadas interações na administração concomitante de omeprazol com antiácidos.
+Estudos de interação de omeprazol indicaram que não há influência sobre o etanol.
+Não foram observadas interações na administração concomitante de omeprazol com alimentos.
+Em relação ao uso de medicamentos e suplementos, as possíveis interações medicamentosas com o omeprazol
+envolvem diversos mecanismos, como a alteração da absorção oral devido a supressão do ácido gástrico, a indução ou
+inibição de enzimas do citocromo P450 (CYP), a inibição da glicoproteína-P e a interferência na excreção dos túbulos
+renais.
+O omeprazol deve ser utilizado com orientação médica, quando o paciente estiver utilizando os medicamentos
+descritos a seguir concomitantemente (vide “Advertências e precauções”).
+Substâncias ativas com absorção dependente do pH intragástrico
+A diminuição da acidez intragástrica durante o tratamento com omeprazol pode aumentar ou diminuir a absorção de
+substâncias ativas com uma absorção dependente do pH gástrico.
+Antifúngicos (itraconazol, posaconazol): o omeprazol reduz a absorção destes fármacos devido ao aumento do pH
+intragástrico. O uso concomitante do itraconazol/posaconazol com omeprazol deve ser evitado, pois pode ocorrer
+redução da eficácia terapêutica dos antifúngicos.
+Antirretrovirais (indinavir, nelfinavir, atazanavir): o uso concomitante destes fármacos com omeprazol deve ser
+evitado, pois o omeprazol interfere na absorção dos antirretrovirais devido ao aumento do pH intragástrico, assim como
+no metabolismo dos mesmos, devido sua ação competitiva nas enzimas CYP2C19, reduzindo a eficácia terapêutica dos
+antirretrovirais.
+Digoxina: o omeprazol aumenta a absorção da digoxina pelo aumento do pH intragástrico, além de inibir seu transporte
+mediado pela glicoproteína-P. O uso concomitante do omeprazol com digoxina não é recomendado, pelo risco de
+aumento de toxicidade (eventos adversos) relacionados a digoxina. Se o uso concomitante for inevitável, a concentração
+plasmática de digoxina deve ser monitorada e uma redução da dose deste fármaco pode ser necessária. O pantoprazol é
+uma alternativa ao omeprazol.
+Erlotinib: os medicamentos que alteram o pH do trato gastrointestinal podem modificar a solubilidade do erlotinib e,
+consequentemente, sua biodisponibilidade. A administração simultânea de erlotinib e omeprazol diminuiu tanto a ASC
+como a C do erlotinib. Portanto, o uso concomitante de erlotinib com fármacos inibidores da bomba de prótons não é
+max
+recomendado.
+Micofenolato de mofetila: o omeprazol diminui a absorção deste fármaco pela elevação do pH intragástrico. Se o uso
+concomitante for inevitável, a concentração plasmática de micofenolato de mofetila deve ser monitorada,
+principalmente na primeira semana pós-transplante, podendo ser necessário um aumento da dose do micofenolato de
+mofetila.
+Suplementos orais de ferro: o omeprazol reduz a absorção oral do ferro. Se o uso concomitante destes fármacos for
+inevitável, a dose oral de ferro deve ser aumentada ou a terapia intravenosa com ferro deve ser cogitada.
+Varfarina: os fármacos inibidores da bomba de prótons, como o omeprazol, podem aumentar a absorção da varfarina e
+outros antagonistas da vitamina K, levando ao aumento do prolongamento do tempo de protrombina induzido por estes
+anticoagulantes, aumentando o risco de sangramentos. Além disso, o omeprazol pode reduzir o metabolismo e a taxa de
+eliminação da varfarina e outros antagonistas da vitamina K. O uso concomitante de omeprazol com varfarina ou outros
+antagonistas da vitamina K não é recomendado.
+Elprazol_20mg_Bula_VPS
+Interação medicamentosa por competição com as isoenzimas CYP
+Antiagregantes plaquetários (cilostazol e clopidogrel): a coadministração de omeprazol, um inibidor da CYP2C19,
+com cilostazol, aumentou a C e ASC do cilostazol em 18% e 26%, respectivamente. Se o uso concomitante for
+max
+inevitável, uma dose de 50 mg de cilostazol duas vezes ao dia deve ser considerada.
+Assim como o omeprazol, o clopidogrel é metabolizado pelas enzimas CYP2C19 e CYP3A4. O uso concomitante
+destes fármacos deve ser evitado, pois o omeprazol interfere no metabolismo do clopidogrel e vice-versa, podendo
+ocorrer diminuição na eficácia terapêutica. O pantoprazol e rabeprazol são alternativas ao omeprazol.
+Antibióticos: a coadministração de omeprazol com claritromicina parece aumentar as concentrações plasmáticas de
+cada um (interação medicamentosa mútua), pois ambos os fármacos são metabolizados pelas enzimas CYP2C19 e
+CYP3A4. Presume-se que a interação medicamentosa entre a claritromicina e o omeprazol contribua para uma alta taxa
+de erradicação das bactérias alcançada por regimes terapêuticos que incluem omeprazol e claritromicina, como na
+terapia tripla com omeprazol-claritromicina-amoxicilina.
+Já a rifampicina, um indutor da CYP2C19, aumentou o metabolismo do omeprazol, reduzindo sua concentração
+plasmática. O uso concomitante de rifampicina com omeprazol pode diminuir a eficácia terapêutica do omeprazol.
+Antiepilépticos (carbamazepina, fenitoína): o omeprazol pode alterar o metabolismo dos antiepilépticos pela
+interação com as enzimas CYP3A4 e CYP2C19, gerando um acúmulo destes fármacos no organismo, o que pode levar
+a um aumento da toxicidade da carbamazepina e fenitoína. Se o uso concomitante for inevitável, o paciente deve ser
+cuidadosamente monitorado.
+Antifúngicos (voriconazol, cetoconazol): o uso concomitante de voriconazol com omeprazol, ambos metabolizados
+pelas enzimas CYP2C19 e CYP3A4, aumentou a ASC do voriconazol em 39%, mas as concentrações plasmáticas de
+voriconazol permaneceram dentro do intervalo terapêutico, não sendo necessário um ajuste de dose.
+Já em metabolizadores lentos da CYP2C19, o cetoconazol pode diminuir a metabolização do omeprazol, resultando em
+um aumento nas concentrações plasmáticas de omeprazol.
+Antirretrovirais (rilpivarina, efavirenz, ritonavir, saquinavir): A rilpivirina pode ter interações farmacocinéticas
+com indutores e inibidores da CYP3A4, não devendo ser coadministrada com omeprazol, pelo risco de redução
+significativa de sua absorção.
+O efavirenz induz a atividade das isoenzimas CYP2C19 e CYP3A, aumentando a eliminação do omeprazol e
+diminuindo sua eficácia terapêutica. O uso concomitante do omeprazol com este fármaco não é recomendado.
+O omeprazol sofre extenso metabolismo pela CYP2C19 e sua exposição foi moderadamente afetada pela
+coadministração com ritonavir. Embora nenhum ajuste de dose seja necessário, os pacientes infectados pelo HIV que
+estão tomando omeprazol devem ser monitorados quanto à eficácia diminuída do omeprazol, sendo que a dose deve ser
+aumentada se clinicamente indicado.
+A administração simultânea de omeprazol com saquinavir elevou de forma significante a ASC e C do saquinavir.
+max
+Apesar do aumento significativo na exposição, o saquinavir foi bem tolerado na presença de omeprazol. Embora a
+inibição do CYP3A4 seja uma das possíveis razões para o aumento da exposição ao saquinavir, o envolvimento de
+diferentes isoenzimas do CYP450 ou a influência do omeprazol no transporte transmembrana mediado pela
+glicoproteína-P ou outros transportadores também deve ser considerado.
+Benzodiazepínicos (diazepam, alprazolam, clordiazepóxido, clonazepam, midazolam, triazolam, flurazepam): o
+uso concomitante de diazepam com omeprazol não é recomendado, pois o omeprazol reduz a eliminação do diazepam
+devido à inibição competitiva da enzima CYP2C19, aumentando o risco de aparecimento de eventos adversos
+(toxicidade) relacionados ao diazepam. O pantoprazol e lansoprazol são alternativas ao omeprazol.
+Devem também ser consideradas as possíveis interações do omeprazol com outros benzodiazepínicos metabolizados
+pelo sistema do citocromo P450, como alprazolam, clordiazepóxido, clonazepam, midazolam, triazolam e flurazepam.
+Citalopram: um estudo retrospectivo demonstrou aumento da incidência de parada cardíaca súbita em um grupo de
+pacientes fazendo o uso de omeprazol com citalopram. Sabe-se que o citalopram é metabolizado no fígado,
+principalmente pelas isoenzimas CYP2C19, mas também pelas enzimas CYP3A4 e CYP2D6. Desta forma, o uso
+concomitante do omeprazol com citalopram não é recomendado (vide “Contraindicações”).
+Elprazol_20mg_Bula_VPS
+Clozapina: o omeprazol reduz a exposição à clozapina devido a indução da enzima CYP1A2. Na necessidade de uso
+concomitante, a concentração plasmática de clozapina deve ser cuidadosamente monitorada, para evitar o risco de falha
+terapêutica.
+Erva de São João (Hypericum perforatum): a administração concomitante com omeprazol induziu a sulfoxidação
+catalisada pelas isoenzimas CYP3A4 e a hidroxilação depende da CYP2C19, diminuindo a absorção e eficácia
+terapêutica do omeprazol.
+Fluoxetina: este medicamento inibe as enzimas CYP2C19 e CYP3A4, responsáveis pelo metabolismo do omeprazol. O
+uso concomitante da fluoxetina com omeprazol aumenta a ASC e C do omeprazol.
+max
+Ginkgo biloba: o uso concomitante com omeprazol induziu a hidroxilação mediada pela CYP2C19, reduzindo a
+concentração plasmática do omeprazol e omeprazol sulfona, podendo ocorrer diminuição da eficácia terapêutica do
+omeprazol.
+Tacrolimus: o uso concomitante com omeprazol deve ser evitado, pois este interfere no metabolismo do tacrolimus
+devido inibição competitiva com a enzima CYP3A4. Se o uso for inevitável, a concentração plasmática do tacrolimus
+deve ser monitorada. O pantoprazol e rabeprazol são alternativas ao omeprazol.
+YZH (Artemisia capillaris): esta erva induziu a sulfoxidação mediada pela CYP3A4 e a hidroxilação dependente da
+CYP2C19 do omeprazol, diminuindo sua concentração plasmática. O uso concomitante da erva YZH com omeprazol
+pode reduzir a eficácia terapêutica deste último.
+Interação medicamentosa por interferência na excreção dos túbulos renais
+Metotrexato: o omeprazol diminui a eliminação renal do metotrexato, gerando um acúmulo deste fármaco no
+organismo, principalmente quando doses altas de metotrexato são administradas. O uso concomitante de metotrexato e
+omeprazol deve ser evitado, pelo risco de aumento de toxicidade (eventos adversos) relacionados ao metotrexato.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar em temperatura ambiente (15 a 30°C). Proteger da luz e umidade.
+Prazo de validade: 24 meses.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Após aberto, válido por 90 dias.
+ELPRAZOL apresenta-se como cápsula gelatinosa dura branco + vinho contendo pellets esféricos, brancos a quase
+brancos.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+- Adultos
+Úlceras duodenais: 20 mg uma vez ao dia, antes do café da manhã, durante duas a quatro semanas.
+Úlceras gástricas e esofagite de refluxo: 20 mg uma vez ao dia, antes do café da manhã, durante quatro a oito
+semanas.
+Profilaxia de úlceras duodenais e esofagite de refluxo: 10 mg ou 20 mg antes do café da manhã.
+Síndrome de Zollinger-Ellison: a dosagem deve ser individualizada de maneira a se administrar a menor dose capaz
+de reduzir a secreção gástrica ácida abaixo de 10 mEq durante a hora anterior à próxima dose.
+A posologia inicial é normalmente de 60 mg em dose única; posologias superiores a 80 mg/d devem ser administradas
+em duas vezes.
+- Esofagite de refluxo em crianças
+Crianças com mais de 1 ano de idade: 10 mg em dose única administrada pela manhã com o auxílio de líquido (água
+ou suco de frutas; mas não leite).
+Elprazol_20mg_Bula_VPS
+Crianças acima de 20 kg: 20 mg. Caso a criança tenha dificuldade para engolir, as cápsulas podem ser abertas e o seu
+conteúdo pode ser misturado com líquido e ingerido imediatamente. Se necessário, a dose poderá ser aumentada, a
+critério médico, até, no máximo, 40 mg/d.
+As cápsulas devem ser tomadas imediatamente antes das refeições, preferencialmente pela manhã. Para os pacientes que
+tiverem dificuldade em engolir, as cápsulas podem ser abertas e os microgrânulos intactos misturados com pequena
+quantidade de suco de frutas ou água fria e tomados imediatamente. Os microgrânulos não devem ser mastigados e nem
+misturados com leite antes da administração.
+9. REAÇÕES ADVERSAS
+cefaleia, diarreia, constipação, dor abdominal, náusea, flatulência, vômito,
+Reação comum
+regurgitação, infecção do trato respiratório superior, tontura, rash, astenia, dor nas
+(≥ 1% e < 10%)
+costas e tosse.
+parestesia, sonolência, insônia, vertigem. Aumento das enzimas hepáticas (alanina,
+Reação incomum
+aminotransferase, transaminase-glutâmico-oxalacética-sérica, transpeptidase-
+(≥ 0,1% e < 1%)
+gamaglutamil, fosfatase alcalina e bilirrubina). Erupção ou prurido, urticária, mal-estar.
+confusão mental reversível, agitação, agressividade, depressão, alucinações
+(especialmente em estado grave), ginecomastia, xerostomia, trombocitopenia,
+agranulocitose, pancitopenia, encefalopatia hepática (em pacientes com insuficiência
+hepática grave preexistente), hepatite com ou sem icterícia, insuficiência hepática,
+Reação rara
+artralgia, fraqueza muscular, mialgia, fotossensibilidade, eritema multiforme, síndrome
+(≥ 0,01% e < 0,1%)
+de Stevens-Johnson, necrólise epidérmica tóxica, alopecia, reações de
+hipersensibilidade (angioedema, febre, broncoespasmo, nefrite intersticial, choque
+anafilático), aumento da transpiração, edema periférico, turvação da visão, alteração do
+paladar, hiponatremia.
+- Experiência pós-comercialização
+As reações adversas descritas abaixo foram identificadas durante a comercialização de omeprazol. Estas reações foram
+relatadas espontaneamente por uma população de tamanho desconhecido, portanto não é possível estimar a real
+frequência ou estabelecer uma relação de causalidade com o medicamento.
+Desordens cardíacas angina, taquicardia, bradicardia, palpitação.
+Desordens da pele e tecido eritema nodoso, rash, inflamação da pele, petéquias, púrpura, pele
+subcutâneo seca.
+Desordens do ouvido e labirinto tinido.
+Desordens do sistema linfático e anemia, leucopenia, leucocitose, neutropenia, anemia hemolítica,
+hematológicas anemia megaloblástica.
+Desordens do sistema nervoso tremor, letargia.
+Desordens do sistema reprodutivo e
+dor testicular.
+mama
+Desordens do tecido músculo dor nas costas, espasmo muscular (cãibra), distúrbio muscular, fratura
+esquelético e conectivo óssea, miosite, dor nos membros inferiores, rabdomiólise.
+pancreatite, cólon irritável, descoloração fecal, estomatite, colite
+microscópica, gastrite atrófica, polipose glandular fúndica de
+estômago, hipergastrinemia, esofagite, duodenite, distensão abdominal.
+Desordens gastrintestinais
+Durante o tratamento prolongado, foi observada alta frequência de
+aparecimento de cistos glandulares gástricos. Essas alterações são
+consequências fisiológicas da pronunciada inibição da secreção ácida,
+Elprazol_20mg_Bula_VPS
+sendo benignas e parecendo reversíveis.
+Desordens genéticas, familiares ou
+mutação genética.
+congênitas
+Desordens gerais e problemas no
+fadiga, dor no peito, edema periférico, atrofia da mucosa da língua.
+local de administração
+Desordens hepatobiliares necrose hepática, doença hepatocelular, doença colestática.
+hipomagnesemia, hipoglicemia, hipercalemia, diminuição da absorção
+Desordens metabólicas e nutricionais
+de vitamina B12, anorexia.
+diplopia, irritação e inflamação ocular, síndrome do olho seco, atrofia
+Desordens oculares
+óptica, neuropatia óptica isquêmica anterior e neurite óptica.
+desordens psiquiátricas, desordens do sono, apatia, nervosismo,
+Desordens psiquiátricas
+ansiedade, sonhos anormais.
+polaciúria, nefrite intersticial, piúria microscópica, proteinúria,
+Desordens renais e urinárias
+hematúria, glicosúria, lesões renais, dificuldade urinária.
+Desordens respiratórias, torácicas e
+epistaxe, dor de garganta, dispneia.
+mediastinais
+Desordens vasculares hipotensão, vasculite leucoclástica cutânea.
+infecções do trato urinário, pneumonia, candidíase esofágica, diarreia
+Infecções e infestações
+por Clostridium difficile, superinfecção.
+creatinina sérica elevada, aumento da pressão arterial, aumento de
+Investigação
+peso.
+Lesão, envenenamento ou
+efeito carcinogênico.
+complicações por procedimentos
+câncer gastroduodenal tem sido reportado em pacientes com síndrome
+Neoplasias benignas, malignas e ZE em tratamentos longos com omeprazol e acredita-se ser uma
+indefinidas manifestação da doença subjacente, que é conhecido por estar
+associado com tais tumores.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Doses únicas orais de até 160 mg foram bem toleradas. Os relatos de superdose em humanos referem-se a doses acima
+de 2.400 mg (120 vezes a dose clínica recomendada). As manifestações foram variáveis e incluíram confusão,
+sonolência, visão embaçada, taquicardia, náusea, vômito, diaforese, flushing, dor de cabeça, boca seca e outras reações
+similares às observadas na experiência clínica. Os sintomas foram transitórios e nenhum efeito clínico sério foi relatado
+quando o omeprazol foi tomado sozinho. Não há antídoto específico para o omeprazol, ele é extensivamente
+metabolizado pelas proteínas plasmáticas e não é facilmente dialisável. Na ocorrência de superdose, deve ser adotado
+tratamento de suporte e sintomático. Doses únicas de omeprazol a 1.350 mg/kg, 1.139 mg/kg e 1.200 mg/kg foram
+letais em camundongos, ratos e cachorros, respectivamente. Os animais apresentaram sedação, ptose, tremores,
+convulsões e atividade reduzida da temperatura corporal e respiratória.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro M.S.: 1.4107.0007
+Farm. Resp.: Geraldo Vinícius Elias - CRF/MG-13.661
+Elprazol_20mg_Bula_VPS
+VENDA SOB PRESCRIÇÃO MÉDICA.
+Elprazol_20mg_Bula_VPS
+ELPRAZOL
+HISTÓRICO DE ALTERAÇÃO PARA A BULA
+Número do Data da Data da Apresentações
+Nome do assunto Itens alterados Versões
+expediente notificação/petição aprovação relacionadas
+BULA VP
+5. ONDE, COMO E POR QUANTO TEMPO POSSO
+GUARDAR ESTE MEDICAMENTO?
+SIMILAR – Notificação DIZERES LEGAIS
+Gerado após
+de Alteração de Texto de 29/10/2021 Não se aplica VP/VPS Cápsulas de 20mg
+notificação
+Bula - RDC 60/12 BULA VPS
+7. CUIDADOS DE ARMAZENAMENTO DO
+MEDICAMENTO
+DIZERES LEGAIS
+BULA VP
+APRESENTAÇÕES
+1. PARA QUE ESTE MEDICAMENTO É INDICADO?
+SIMILAR – Notificação 4. O QUE DEVO SABER ANTES DE USAR ESTE
+1213391/21-4 de Alteração de Texto de 30/03/2021 30/03/2021 MEDICAMENTO? VP/VPS Cápsulas de 20mg
+Bula - RDC 60/12
+BULA VPS
+APRESENTAÇÕES
+1. INDICAÇÕES
+Elprazol_20mg_Bula_VPS
+5. ADVERTÊNCIAS E PRECAUÇÕES
+6. INTERAÇÕES MEDICAMENTOSAS
+9. REAÇÕES ADVERSAS
+SIMILAR – Notificação
+2909386/20-4 de Alteração de Texto de 28/08/2020 28/08/2020 IDENTIFICAÇÃO DO MEDICAMENTO VP/VPS Cápsulas de 20mg
+Bula - RDC 60/12
+SIMILAR – Notificação
+1790743/20-8 de Alteração de Texto de 06/06/2020 06/06/2020 DIZERES LEGAIS VP/VPS Cápsulas de 20mg
+Bula - RDC 60/12
+SIMILAR – Notificação
+1437489/17-7 de Alteração de Texto de 12/07/2017 12/07/2017 APRESENTAÇÕES VPS Cápsulas de 20mg
+Bula - RDC 60/12
+SIMILAR - Inclusão Notificação da versão inicial de texto de bula contemplando os
+1366685/17-1 Inicial de Texto de Bula - 04/07/2017 04/07/2017 itens mencionados na RDC 47/2009, de acordo com a bula VP/VPS Cápsulas de 20mg
+RDC 60/12 padrão submetida em 27/02/2017.
+Elprazol_20mg_Bula_VPS

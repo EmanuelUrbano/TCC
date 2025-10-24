@@ -1,0 +1,129 @@
+INDICAÇÕES ENTOCORT® é indicado para o tratamento da Doença de Crohn, afetando o íleo e/ou o cólon ascendente.
+2. RESULTADOS DE EFICÁCIA
+A segurança e eficácia de ENTOCORT® foi avaliada em 5 estudos randomizados e duplocegos, envolvendo
+994 pacientes com doença de Crohn de leve a moderada afetando o íleo e/ou cólon ascendente. Os pacientes
+do estudo tinham entre 17 e 85 anos (média de 35 anos), 40% homens e 97% brancos. Dos 651 pacientes
+tratados com ENTOCORT®, 17 (2,6%) tinham 65 anos ou mais, sendo que nenhum tinha mais de 74 anos.
+O Índice de Atividade para Doença de Crohn (IADC) foi a principal avaliação clínica utilizada para
+determinar a eficácia nestes 5 estudos clínicos. O IADC trata-se de um índice validado, que considera
+sintomas subjetivos apresentados pelo paciente (frequência de evacuações líquidas ou pastosas, intensidade
+da dor abdominal e sensação de bem-estar) e avaliações objetivas (número de sintomas extra-intestinais, uso
+de medicamentos anti-diarreia, presença de massa abdominal, peso corporal e hematócrito). A melhora
+clínica, definida como IADC menor ou igual a 150 após 8 semanas de tratamento, foi a variável primária de
+eficácia dos 5 estudos clínicos de ENTOCORT®. Avaliações de segurança incluíram monitoramento das
+reações adversas durante os estudos. Uma lista para verificar potenciais sintomas de hipercorticismo foi
+utilizada.
+Biolab BPS – Entocort® – 04/2021 – 1
+Um estudo (Estudo 1) comparou a segurança e eficácia de ENTOCORT®, 9 mg por dia, durante a manhã,
+versus comparador (o Pentasa). Na linha de base, o IADC médio foi de 272. O uso de ENTOCORT® 9 mg
+por dia resultou em um aumento significativo da taxa de melhora clínica na Semana 8 em relação ao
+comparador (Tabela 1).
+Tabela 1. Taxa de melhora clínica (IADC menor ou igual a 150) após 8 semanas de tratamento
+Entocort
+Estudo Clínico Comparador* Placebo Prednisolona
+9 mg/dia 4,5 mg/dia
+1 62/91 (69%) 37/83 (45%)
+2 31/61 (51%) 13/64 (20%)
+3 38/79 (48%) 41/78 (53%) 13/40 (33%)
+4 35/58 (60%) 25/60 (42%) 35/58 (60%)
+5 45/86 (52%) 56/85 (65%)
+* Pentasa
+Dois estudos controlados com placebo (Estudos 2 e 3) foram conduzidos. O Estudo 2 incluiu 258 pacientes e
+testou o efeito de doses crescentes de ENTOCORT® (1,5 mg duas vezes ao dia, 4,5 mg duas vezes ao dia e
+7,5 mg duas vezes ao dia) versus placebo. Na linha de base, o IADC médio foi de 290. Os dados de 3 mg por
+dia (não mostrados) não puderam ser diferenciados em relação ao placebo. O braço de 9 mg por dia foi
+estatisticamente diferente do placebo (Tabela 1), enquanto que nenhum benefício adicional foi observado
+quando a dose diária de ENTOCORT® foi aumentada para 15 mg por dia (dados não mostrados). No Estudo
+3, o IADC médio na linha de base foi de 263. As doses de 9 mg por dia e 4,5 mg duas vezes ao dia
+ENTOCORT® foram estatisticamente diferentes do placebo (Tabela 1).
+Dois estudos clínicos (Estudo 4 e 5) compararam ENTOCORT® com prednisolona oral (dose inicial de 40
+mg por dia). Nas linhas de base, o IADC médio foi de 277. No Estudo 4, taxas de melhora clínica
+semelhantes (60%) foram observadas no grupo tratado com ENTOCORT® 9 mg ao dia e no grupo tratado
+com prednisolona. No Estudo 5, um número 13% menor de pacientes tratados com ENTOCORT®
+apresentaram melhora clínica quando comparado com os tratados com prednisolona (sem diferença
+estatística) (Tabela 1).
+Na Semana 8 a proporção de pacientes com concentrações plasmáticas normais de cortisol (maior que 150
+nmol/L) foi significantemente maior no grupo de ENTOCORT® em ambos os estudos (60 a 66%) do que no
+grupo tratado com prednisolona (26 a 28%).
+A eficácia e segurança de ENTOCORT® na manutenção da remissão clínica foi avaliada em quatro estudos
+duplo-cegos, controlados com placebo, durante 12 meses nos quais 380 pacientes foram randomizados e
+tratados uma vez ao dia com 3 mg ou 6 mg de ENTOCORT® ou placebo. Os pacientes tinham idade entre
+18 e 73 anos (média 37 anos). Sessenta por cento eram mulheres e 99% caucasianos. O IADC médio de
+Biolab BPS – Entocort® – 04/2021 – 2
+entrada foi de 96. Entre os quatro estudos clínicos, aproximadamente 75% dos pacientes tinham
+exclusivamente doença ileal. A colonoscopia não foi realizada após o tratamento. O uso de ENTOCORT® 6
+mg por dia prolongou o tempo de recidiva, definida como aumento do IADC em pelo menos 60 unidades
+com uma pontuação total superior a 150 ou descontinuação devido a deterioração da doença. O tempo médio
+para recidiva na população dos quatro estudos foi de 154 dias para pacientes tratados com placebo e 268 dias
+para pacientes tratados com ENTOCORT® 6 mg ao dia. O uso de ENTOCORT® 6 mg ao dia reduziu a
+proporção de pacientes com perda de controle dos sintomas nos quatro estudos aos 3 meses (28% versus
+45% do placebo).
+Além disso, ENTOCORT® foi comparado com prednisolona em 48 crianças com doença de Crohn ativa.
+Destas, 22 foram tratadas com ENTOCORT®.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+A budesonida é um glicocorticosteroide com elevada ação anti-inflamatória local.
+ENTOCORT® para uso oral consiste de uma cápsula de gelatina repleta de grânulos gastroresistentes de
+liberação prolongada. Os grânulos são praticamente insolúveis no suco gástrico e têm liberação prolongada
+com propriedades de ajustar a liberação da budesonida no íleo e cólon ascendente.
+Propriedades Farmacodinâmicas
+Efeito anti-inflamatório tópico
+O exato mecanismo de ação dos glicocorticosteroides no tratamento da Doença de Crohn não está
+completamente elucidado. As ações anti-inflamatórias, como a inibição da liberação do mediador
+inflamatório e das respostas imunes mediadas pela citocina, são, provavelmente, importantes.
+Dados de estudos de farmacologia clínica e estudos clínicos controlados indicam que ENTOCORT® atua
+topicamente. Este fato é suportado por uma eficácia similar, mas um impacto significativamente menor sobre
+o eixo hipotálamo-hipófise-adrenal e sobre os marcadores sistêmicos da inflamação, comparada à
+prednisolona.
+Função eixo hipotálamo-hipófise-adrenal
+Nas doses recomendadas, ENTOCORT® causa significativamente menos efeitos que a prednisolona na dose
+diária de 20-40 mg no cortisol plasmático matinal, no cortisol plasmático de 24 h (AUC 0-24 h) e urinário 0-
+24 h. Também os testes adrenocorticotróficos (ACTH) demonstraram que ENTOCORT® comparado com
+prednisolona tem significativamente menor impacto sobre a função adrenal.
+Densidade mineral óssea e crescimento
+Em um estudo investigando a densidade mineral óssea durante o tratamento com ENTOCORT® ou
+prednisolona por até dois anos, o tratamento com ENTOCORT® resultou na perda óssea significativamente
+menor do que o tratamento prednisolona em pacientes sem tratamento prévio de esteróides.
+Não foram realizados estudos de longo prazo com ENTOCORT® em crianças.
+Biolab BPS – Entocort® – 04/2021 – 3
+Propriedades Farmacocinéticas
+Absorção
+Após a administração oral de budesonida micronizada, a absorção é rápida e parece ser completa. Após a
+administração de ENTOCORT®, uma fração importante do fármaco é absorvida no íleo e no cólon
+ascendente. A disponibilidade média sistêmica após dose única varia cerca de 10-20%.
+Distribuição
+A budesonida tem um volume de distribuição de aproximadamente 3 L/kg. A ligação às proteínas
+plasmáticas é, em média, de 85-90%. Após a administração oral de ENTOCORT® 9 mg, a concentração
+plasmática máxima média é aproximadamente 5-10 nmol/L, alcançada em 3-5 horas.
+Biotransformação
+A budesonida sofre um extenso grau de biotransformação de primeira passagem no fígado, originando
+metabólitos de baixa ação glicocorticosteroide. A atividade glicocorticosteroide dos principais metabólitos,
+6-beta-hidroxibudesonida e 16-alfa-hidroxiprednisolona, é inferior a 1% da atividade da budesonida. O
+metabolismo da budesonida é mediado principalmente pelo CYP3A4, uma subfamília do citocromo P450.
+Eliminação
+A eliminação da budesonida administrada como ENTOCORT® é limitada pela taxa de absorção e a meia-
+vida plasmática é, em média, de 4 horas. Os metabólitos são excretados como tal ou na forma conjugada,
+principalmente pela via renal. Não foi detectada budesonida inalterada na urina. A budesonida tem alta
+depuração sistêmica (aproximadamente 1,2 L/min) e a meia-vida plasmática após administração intravenosa
+é, em média, de 2-3 horas.
+Linearidade
+A cinética da budesonida é proporcional à dose em doses clinicamente relevantes.
+Dados de segurança pré-clínica
+Resultados de estudos de toxicidade aguda, subaguda e crônica mostraram que os efeitos sistêmicos da
+budesonida, como ganho de peso diminuído e atrofia dos tecidos linfoides e do córtex adrenal, são menos
+graves ou iguais aos observados com outros glicocorticosteroides.
+A budesonida, avaliada em seis diferentes sistemas de teste, não mostrou efeito mutagênico ou clastogênico.
+Um aumento da incidência de gliomas cerebrais em ratos machos em um estudo de carcinogenicidade não
+puderam ser verificados em um estudo de repetição, em que a incidência de gliomas não diferiu entre os
+grupos com tratamento ativo (budesonida, prednisolona, triancinolona acetonida) e os grupos de controle.
+Alterações hepáticas (neoplasma hepatocelular primário), encontradas em ratos machos no estudo de
+carcinogenicidade original, foram observadas novamente em um estudo repetido com budesonida bem como
+com glicocorticosteróides de referência. Estes efeitos estão muito provavelmente relacionados a um efeito
+receptor e, portanto, representam um efeito de classe.
+A experiência clínica disponível mostra que não existem indicações de que a budesonida ou outros
+glicocorticosteróides induzam gliomas cerebrais ou neoplasma hepatocelular primário em seres humanos.
+Biolab BPS – Entocort® – 04/2021 – 4
+A toxicidade de ENTOCORT®, com foco no trato gastrointestinal, foi estudada em macacos cynomolgus em
+doses de até 5 mg/kg (aproximadamente 25 vezes a dose diária recomendada em humanos) após
+administração oral repetida por até 6 meses. Não foi observado nenhum efeito no trato gastrointestinal, tanto
+no exame macroscópico, quanto no exame histopatológico.
+4. CONTRAINDICAÇÕES

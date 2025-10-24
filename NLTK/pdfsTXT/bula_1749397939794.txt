@@ -1,0 +1,663 @@
+ELENCOS®
+Teva Farmacêutica Ltda.
+Comprimidos Revestidos
+25 mg
+ELENCOS®
+agomelatina
+25 mg
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA
+APRESENTAÇÕES
+Comprimido revestido.
+ELENCOS® (agomelatina) é apresentado em embalagem contendo 14, 28 ou 56 comprimidos revestidos.
+USO ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada comprimido revestido de ELENCOS® (agomelatina) contém:
+agomelatina ................................. 25 mg*
+Excipientes: lactose monoidratada, fosfato de cálcio dibásico di-hidratado, amidoglicolato de sódio, dióxido de silício, estearato de
+magnésio, hipromelose, óxido de ferro amarelo, macrogol e dióxido de titânio.
+* equivalente a 31,17 mg de agomelatina/ureia.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Este medicamento é destinado ao tratamento em adultos com:
+- Transtorno depressivo maior (TDM);
+- Transtorno de ansiedade generalizada (TAG).
+Em adolescentes (de 12 a 17 anos), este medicamento é indicado para o tratamento de episódios moderados a graves do transtorno
+depressivo maior, nos casos em que a depressão não tenha respondido à psicoterapia de forma isolada. A medicação antidepressiva deve
+ser administrada ao adolescente apenas em combinação com a psicoterapia.
+2. RESULTADOS DE EFICÁCIA
+Transtorno depressivo maior (TDM)
+Eficácia clínica e segurança em adultos:
+A eficácia e segurança da agomelatina no tratamento do transtorno depressivo maior foram estudadas em um programa clínico que incluiu
+7.900 pacientes tratados com agomelatina. Foram realizados dez estudos controlados com placebo para investigar a eficácia em curto prazo
+da agomelatina na depressão maior em adultos, com dose fixa e/ou titulação do aumento da dose. No final do tratamento (6-8 semanas),
+foi demonstrada a eficácia significativa da agomelatina 25-50mg em seis dos dez ensaios em curto prazo, duplo-cego, controlados com
+placebo. O desfecho primário foi a mudança na pontuação HAMD-17 da linha de base. A agomelatina não se diferenciou do placebo em
+dois, dos dez estudos controlados onde o controle ativo, paroxetina ou fluoxetina demonstrou sensibilidade para o ensaio. A agomelatina
+não foi comparada diretamente com a fluoxetina e paroxetina pois estes são comparadores que são adicionados a fim de assegurar a
+sensibilidade dos ensaios. Em dois outros ensaios, não foi possível tirar conclusões, pois, os controles ativos, paroxetina ou fluoxetina,
+falharam na diferenciação do placebo. No entanto, nestes estudos, não foi permitido aumentar a dose inicial de agomelatina, fluoxetina ou
+paroxetina, mesmo que a resposta não tenha sido adequada. A evidência da eficácia de agomelatina também foi demonstrada em pacientes
+com depressão grave (linha de base HAM-D ≥ 25) em todos os ensaios positivos controlados com placebo. As taxas de resposta também
+foram altamente significativas estatisticamente com a agomelatina em comparação com o placebo. A superioridade (2 ensaios) ou não
+inferioridade (4 ensaios) tem sido demonstrados em seis dos sete ensaios de eficácia em populações heterogêneas de pacientes adultos
+deprimidos vs ISRS/IRSN (sertralina, escitalopram, fluoxetina, venlafaxina ou duloxetina). O efeito antidepressivo foi avaliado com a
+pontuação HAMD-17 ou como desfecho primário ou secundário.
+A manutenção da eficácia antidepressiva foi demonstrada num estudo clínico de prevenção de recaídas. Os pacientes que responderam a
+8/10 semanas de tratamento agudo com agomelatina 25-50 mg em estudo aberto, uma vez por dia, foram randomizados ou para agomelatina
+25-50mg, uma vez ao dia, ou para placebo, durante mais seis meses.
+A agomelatina 25-50mg, uma vez ao dia, mostrou uma superioridade estatisticamente significativa quando comparada com placebo
+(p=0,0001) no parâmetro de avaliação principal, a prevenção de recaídas da depressão, medida pelo tempo até a recaída. A incidência de
+recaídas durante os seis meses do período de seguimento em duplo cego foi 22% e 47% para a agomelatina e placebo, respectivamente.
+BU_04
+Um ensaio de 8 semanas, controlado por placebo com agomelatina de 25 – 50mg por dia em pacientes deprimidos idosos (≥ 65 anos,
+N=222, dos quais 151 com agomelatina) demonstrou uma diferença estatisticamente significativa de 2.67 pontos na pontuação total HAM-
+D, o desfecho primário. A análise da taxa dos respondedores favoreceu a agomelatina. Nenhuma melhora foi observada em pacientes
+muito idosos (≥ 75 anos, N=69, dos quais 48 com agomelatina). A tolerabilidade da agomelatina em pacientes idosos foi comparável a
+aquela observada em jovens adultos.
+Um estudo específico controlado, de 3 semanas, foi realizado em pacientes que sofrem de transtorno depressivo maior com melhora
+insuficiente com a paroxetina (um ISRS) ou venlafaxina (um IRSN). Quando o tratamento foi trocado desses antidepressivos para a
+agomelatina, os sintomas de descontinuação surgiram após a interrupção do tratamento com ISRS ou IRSN, tanto após a interrupção
+abrupta ou após a interrupção gradual do tratamento anterior. Estes sintomas de descontinuação podem ser confundidos com uma falta
+de benefício precoce da agomelatina. A porcentagem de pacientes com, pelo menos, um sintoma de descontinuação uma semana
+após a interrupção do tratamento com ISRS/IRSN, foi inferior no grupo de ajuste longo (interrupção gradual do ISRS/IRSN anterior,
+dentro de 2 semanas) do que no grupo de ajuste curto (interrupção gradual do ISRS/IRSN anterior, dentro de 1 semana) e no grupo de
+substituição abrupta (interrupção abrupta): 56,1%, 62,6% e 79,8%, respectivamente.
+Em ensaio desenhado para avaliar os sintomas de descontinuação pela lista de verificação do “Discontinuation Emergent Signes and
+Symptoms (DESS)” em pacientes em remissão da depressão, a agomelatina não induziu síndrome de descontinuação, após interrupção
+abrupta do tratamento.
+Eficácia clínica e segurança na população pediátrica:
+A eficácia e a segurança de duas doses (10 mg e 25 mg) de agomelatina para o tratamento de episódios depressivos maiores moderados a
+graves, nos casos em que a depressão não tenha respondido apenas à psicoterapia, foram avaliadas em um estudo de 12 semanas,
+randomizado, duplo-cego, controlado por placebo e grupos paralelos. Fluoxetina (10 mg/dia, com ajuste potencial para 20 mg/dia) foi
+adicionada para assegurar a sensitividade.
+Pacientes (N=400; dos quais 80 crianças com idade de 7 a menores de 12 anos e 320 adolescentes com idade de 12 a 17 anos) com
+depressão moderada a grave, de acordo com a escala DSM-IV, foram randomizados para receber agomelatina 10 mg (N = 102 dos quais
+81 eram adolescentes), agomelatina 25 mg (N = 95 dos quais 76 eram adolescentes), placebo (N = 103 dos quais 82 eram adolescentes) e
+fluoxetina (N = 100 dos quais 81 eram adolescentes).
+Os pacientes deviam ser não respondentes à psicoterapia antes da inclusão. Durante o período duplo-cego, o aconselhamento psicossocial
+foi dado uma vez por mês (Semanas 4, 8 e 12).
+O desfecho primário foi a diferença ajustada da linha de base até a Semana 12 na pontuação total bruta da Escala de Avaliação de Depressão
+em Crianças Revisada (CDRS-R), usando uma análise de 3 caminhos ANCOVA. Uma pontuação bruta ≥ 45 foi um pré-requisito para a
+inscrição. O CDRS-R foi realizado na visita de seleção, na inclusão (Semana 0) e posteriormente em cada visita (ou seja, no período duplo-
+cego: Semana 1, Semana 2, Semana 4, Semana 8 e Semana 12).
+No geral, as características demográficas da linha de base e da doença foram semelhantes entre o braço de agomelatina 10 mg, o braço de
+agomelatina 25 mg, o braço de placebo e o braço de fluoxetina.
+A maioria dos pacientes na população geral eram mulheres (62,5%), com idade mediana de 14,0 anos (faixa: 7, 17). A maioria dos pacientes
+teve o primeiro episódio de depressão (71,5%). De acordo com os critérios do DSM-IV-TR o episódio foi diagnosticado como moderado
+para 61,8% e grave (sem características psicóticas) para 38,3%. A duração média do episódio atual foi de 143,4 ± 153,2 dias com mediana
+de 96,0 dias (variação de 29 a 1463 dias).
+Em relação às comorbidades, cerca de 6% dos pacientes da população geral apresentavam transtorno de ansiedade generalizada, 7%
+apresentavam transtorno de ansiedade social e 2% transtorno de ansiedade de separação.
+A agomelatina 25 mg por dia demonstrou ser significativamente mais eficaz do que o placebo na população geral, com base na pontuação
+total bruta da Escala de Avaliação de Depressão em Crianças (CDRS-R), após um período de tratamento de 12 semanas, ao contrário da
+agomelatina 10 mg por dia. Em geral, o perfil de segurança da agomelatina em crianças e adolescentes no estudo foi semelhante ao já
+observado em adultos. Na fase de curto prazo, os eventos adversos emergentes do tratamento mais comumente relatados nos grupos da
+agomelatina foram sede, aumento do apetite e aumento do peso. A ideação e o comportamento suicida medidos pela Escala de Classificação
+de Gravidade do Suicídio de Columbia (C-SSRS) foram semelhantes entre os grupos de tratamento. Nenhuma diferença relevante entre
+BU_04
+os grupos agomelatina e placebo foi observada em relação aos valores emergentes dos parâmetros hepáticos. A análise do Índice de Massa
+Corporal (IMC) por classe mostrou que a maioria dos pacientes permaneceu na mesma classe entre o valor basal e o valor final de
+acompanhamento durante o tratamento. O estado puberal avaliado pelo estágio de Tanner estava de acordo com a idade.
+Os resultados em pacientes adolescentes evidenciaram a superioridade da agomelatina 25 mg versus placebo na diminuição do escore total
+bruto da CDRS-R em 12 semanas (diferença média ajustada de 5,22 (IC 95% = [1,03, 9,40], p=0,028)). Em adolescentes, a pontuação
+total média da Escala de Avaliação de Depressão para Adolescentes (ADRS) diminuiu significativamente após 12 semanas no grupo de
+25 mg/dia de agomelatina versus placebo (estimativa da diferença da média de 4,07 (IC 95% = [0,68, 7,46]), p=0,032).
+Não se espera que a eficácia após 12 semanas seja diferente da observada em adultos. Isso é corroborado por dados em adultos jovens e
+pelos resultados de eficácia do período de extensão de 21 meses em regime aberto.
+Existem apenas dados limitados sobre segurança e eficácia no subgrupo de crianças devido a um número muito limitado de pacientes (ver
+item 8). Nas crianças, a alteração na pontuação total bruta média de CDRS-R no final da fase de curto prazo foi menor em valor absoluto
+no grupo de agomelatina 25 mg (-17,1 ± 13,3) do que no grupo placebo (-19,0 ± 18,3).
+O estágio puberal foi avaliado pela escala de Tanner. Embora os dados sejam limitados, não sugerem um impacto da agomelatina no
+desenvolvimento pela escala de Tanner.
+Para mais informações sobre segurança, consulte os itens 5 e 9 desta bula.
+Transtorno de ansiedade generalizada (TAG)
+A eficácia e a segurança de agomelatina (25 e 25-50mg por dia) no tratamento do transtorno de ansiedade generalizada foram estudados
+em um programa clínico que incluiu mais de 1.100 pacientes tratados com agomelatina. A agomelatina (25 e 25-50mg por dia) demonstrou
+superioridade estatisticamente significativa em relação ao placebo, mensurada pela melhora na pontuação total da Escala de Ansiedade
+Hamilton (HAM-A) em três de três estudos randomizados, duplo cegos controlados com placebo e de curto prazo (tratamento de 12
+semanas) em pacientes adultos.
+As taxas de resposta e remissão foram também maiores com agomelatina em comparação com o placebo. A sensibilidade do ensaio foi
+demonstrada no estudo utilizando grupo controle com escitalopram.
+A eficácia também foi observada em pacientes com ansiedade mais grave (linha de base HAMA≥25) em todos os estudos placebo-
+controlados.
+A superioridade versus o placebo em todas as funções globais foi demonstrada usando a Escala de Incapacidade Sheehan (SDS) em dois
+dos três estudos de curto prazo.
+A eficácia de agomelatina foi comparada diretamente com escitalopram em um estudo realizado em pacientes que sofriam de transtorno
+de ansiedade generalizada grave (semana zero HAMA>25), utilizando a HAMA como o desfecho primário. Neste estudo, a agomelatina
+demonstrou resultados de eficácia semelhantes ao escitalopram em termos de melhora no escore total de HAM-A.
+A manutenção da eficácia no tratamento do transtorno de ansiedade generalizada foi demonstrada em um ensaio de prevenção de recaída.
+Os pacientes que responderam ao tratamento agudo com agomelatina 25mg, uma vez ao dia, durante 16 semanas em estudo aberto, com
+possível aumento de dose para 50mg (uma vez ao dia) após 4 semanas, foram randomizados ou para agomelatina 25-50mg, uma vez ao
+dia, ou para placebo, durante 6 meses (26 semanas). A agomelatina 25-50mg, uma vez ao dia, demonstrou uma superioridade
+estatisticamente significativa quando comparada ao placebo (p=0,046) no parâmetro de avalição principal, a prevenção de recaídas
+ansiosas, medida pelo tempo até a recaída. A incidência de recaídas durante os seis meses do período de acompanhamento duplo-cego foi
+20% e 31% para agomelatina e placebo, respectivamente. Neste estudo, os sintomas de descontinuação foram avaliados pela lista de
+verificação de sinais e sintomas emergentes de descontinuação do “Discontinuation Emergent Signes and Symptoms (DESS)” em pacientes
+que completaram o estudo até a semana 42 e foram novamente randomizados com placebo ou agomelatina. A ausência de síndrome de
+descontinuação após a interrupção abrupta do tratamento com a agomelatina foi confirmada nessa população.
+A eficácia em pacientes idosos com transtorno de ansiedade generalizada (TAG) não foi avaliada em um estudo específico, os dados dos
+estudos realizados são muito limitados, portanto, a agomelatina não é recomendado para pacientes com TAG maiores de 65 anos.
+Propriedades gerais
+A agomelatina não altera a vigilância diurna nem a memória de voluntários saudáveis. Em pacientes deprimidos, o tratamento com
+agomelatina 25mg aumentou o sono de ondas lentas sem modificação do sono REM (Rapid Eye Movement) ou da latência do REM.
+Agomelatina 25mg também induziu um avanço de fase no início do sono e da frequência cardíaca mínima. A partir da primeira semana
+BU_04
+de tratamento, o aparecimento e a qualidade do sono melhoraram significativamente sem sonolência diurna, segundo avaliação dos
+pacientes.
+Em voluntários saudáveis, a agomelatina preservou a função sexual em comparação com a paroxetina. Em ensaio específico comparativo
+de disfunção sexual com pacientes deprimidos em remissão, observou-se com agomelatina uma tendência numérica (estatisticamente não
+significativa) para menor disfunção sexual emergente do que com a venlafaxina nos parâmetros de excitação ou orgasmo na escala Sex
+Effects Scale (SEXFX). A análise de um conjunto de ensaios usando a Arizona Sexual Experience Scale (ASEX) demonstrou que a
+agomelatina não está associado à disfunção sexual.
+Nos ensaios clínicos, a agomelatina demonstrou um efeito neutro na frequência cardíaca e na pressão arterial.
+A agomelatina não apresenta potencial de abuso, avaliado em estudos com voluntários saudáveis utilizando uma escala analógica visual
+específica ou a lista de verificação 49 do “Addiction Research Center Inventory” (ARCI).
+Referência Bibliográfica:
+Kennedy, S.H et al: Agomelatine in the treatment of major depressive disorder – Potential for Clinical Effectiveness. CNS Drugs 2010,
+0(0):0-0; Review Article.
+Arango, C. et al: Safety and efficacy of agomelatine in children and adolescents with major depressive disorder receiving psychosocial
+counseling: a double-blind, randomized, controlled, phase 3 trial in nine countries. The Lancet Psychiatry 2022, 9(2), 113-124.
+Stein DJ et al: Efficacy of agomelatine in generalized anxiety disorder: a randomized, double-blind placebo-controlled study. J Clin
+Psychopharmacol. 2008; 28: 561-566.
+Stein DJ et al: Agomelatine prevents relapse in generalized anxiety disorder: A 6-month placebo-controlled discontinuation study. J Clin
+Psychiatry 2012; 73 (7): 1002-1008.
+Stein DJ et al: Agomelatine in generalized anxiety disorder: an active comparator and placebo-controlled study. J Clin Psychiatry. 2014;
+75 (4): 362-368.
+Stein DJ et al: Efficacy and safety of agomelatine (10 or 25 mg/day) in non-depressed out-patients with generalized anxiety disorder: A
+12-week, double-blind, placebo-controlled study. Eur Neuropsychopharmacol. 2017; 27: 526-537.
+Stein DJ et al: 12-week double-blind randomized multicenter study of efficacy and safety of agomelatine (25–50 mg/day) versus
+escitalopram (10–20 mg/day) in out-patients with severe generalized anxiety disorder. European Neuropsychopharmacology 2018; 8 (8):
+970-979.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Mecanismo de ação:
+Classe farmacoterapêutica: antidepressivos
+A agomelatina é um agonista melatoninérgico (receptores MT1 e MT2) e antagonista 5-HT2C. Estudos de ligação (binding studies)
+realizados indicaram que a agomelatina não possui nenhum efeito sobre a recaptação das monoaminas e nenhuma afinidade pelos
+receptores α e β adrenérgicos, histaminérgicos, colinérgicos, dopaminérgicos e benzodiazepínicos.
+A agomelatina ressincroniza o ritmo circadiano em modelos animais com ritmo circadiano alterado.
+A agomelatina aumenta a liberação da dopamina e da noradrenalina, especificamente no córtex frontal e não tem influência nos níveis
+extracelulares de serotonina.
+Propriedades farmacodinâmicas:
+A agomelatina demonstrou um efeito antidepressivo em modelos de depressão animal (teste de desamparo aprendido, teste de desespero,
+estresse leve crônico) bem como em modelos com dessincronização do ritmo circadiano e em modelos relacionados ao estresse e a
+ansiedade.
+Em humanos, a agomelatina tem propriedades positivas de avanço de fase; induz o avanço da fase do sono, o declínio da temperatura
+corporal e o início da melatonina.
+BU_04
+Propriedades farmacocinéticas:
+Absorção e biodisponibilidade
+A agomelatina é rápida e bem absorvida (≥ 80%) após administração oral. A biodisponibilidade absoluta é baixa (< 5% com a dose
+terapêutica oral) e a variabilidade interindividual é considerável. A biodisponibilidade é mais elevada nas mulheres do que nos homens. A
+biodisponibilidade aumenta com a tomada de contraceptivos orais e é reduzida pelo fumo. O pico de concentração plasmática é alcançado
+em 1 a 2 horas após a administração da agomelatina.
+No intervalo das doses terapêuticas, a exposição sistêmica à agomelatina aumenta proporcionalmente com a dose. Em doses mais elevadas,
+ocorre saturação do efeito de primeira passagem.
+A alimentação (refeição normal ou rica em gorduras) não modifica a biodisponibilidade ou a taxa de absorção. A variabilidade
+interindividual aumenta com a ingestão de alimentos ricos em gordura.
+Distribuição
+O volume de distribuição no estado de equilíbrio é em torno de 35 L e a ligação da agomelatina às proteínas plasmáticas é de 95%,
+independentemente da concentração e não é modificada com a idade ou com insuficiência renal, mas a fração livre duplica em pacientes
+com insuficiência hepática.
+Biotransformação
+Após administração oral, a agomelatina é rapidamente metabolizada principalmente por via hepática CYP1A2; as isoenzimas CYP2C9 e
+CYP2C19 também estão envolvidas, mas com baixa contribuição.
+Os principais metabólitos, agomelatina hidroxilada e desmetilada, não são ativos sendo rapidamente conjugados e eliminados pela urina.
+Eliminação
+A eliminação da agomelatina é rápida. A meia-vida plasmática é entre 1 a 2 horas. O clearance total é elevado (cerca de 1100 mL/min) e
+essencialmente metabólico.
+A excreção é principalmente urinária (80%) sob a forma de metabólitos. A excreção urinária de compostos inalterados é desprezível.
+A cinética não é modificada após administração repetida.
+Disfunção renal
+Não foi observada nenhuma modificação relevante dos parâmetros farmacocinéticos em pacientes com disfunção renal grave (n=8
+pacientes, dose única de 25mg), mas deve-se ter precaução com pacientes com disfunção renal moderada ou grave, pois a disponibilidade
+de dados clínicos nesses pacientes é limitada (ver item 8).
+Uso na insuficiência hepática
+Em um estudo específico envolvendo pacientes cirróticos com insuficiência hepática crônica leve (Child-Pugh tipo A) ou moderada (Child-
+Pugh tipo B), a exposição à agomelatina 25mg foi substancialmente aumentada (70 vezes e 140 vezes, respectivamente) em comparação
+com voluntários sem insuficiência hepática, com as mesmas variáveis (idade, peso e hábito de fumar) (ver ítens 4, 5 e 8).
+Idosos
+Em um estudo farmacocinético em pacientes idosos (≥65 anos), foi mostrado que na dose de 25mg, a média AUC e a média Cmax foram
+cerca de 4 vezes e 13 vezes mais altos para pacientes com idade ≥75 anos comparado a pacientes com idade <75 anos. O número total de
+pacientes recebendo 50mg foi muito baixo para chegar a qualquer conclusão. Nenhuma dose de adaptação é requerida em pacientes idosos.
+População pediátrica
+A farmacocinética da agomelatina em pacientes pediátricos com transtorno depressivo maior, tratados com 5, 10 ou 25 mg de agomelatina,
+foi avaliada por meio de uma análise de modelagem populacional, incluindo crianças (de 7 a 11 anos) e adolescentes (de 12 a 17 anos). A
+farmacocinética da agomelatina nessa população foi semelhante à observada em pacientes adultos.
+Grupos étnicos
+Não existem dados sobre a influência da raça na farmacocinética da agomelatina.
+BU_04
+Dados de segurança pré-clínica
+Foram observados efeitos sedativos em camundongos, ratos e macacos após administração única ou repetida de doses elevadas.
+Em roedores, uma maior indução do CYP2B e uma indução moderada do CYP1A e do CYP3A foram observadas a partir de 125 mg/kg/dia
+enquanto, em macacos, houve uma leve indução para o CYP2B e CYP3A com 375mg/kg/dia. Nenhum efeito hepatotóxico foi observado
+em roedores e macacos durante os estudos de toxicidade de dose repetida.
+A agomelatina atravessa a barreira placentária e passa para o feto de ratas grávidas.
+Os estudos de reprodução no rato e no coelho não demonstraram nenhum efeito da agomelatina sobre a fertilidade, sobre o desenvolvimento
+embriofetal e sobre o desenvolvimento pré e pós-natal.
+Uma bateria de ensaios padrão de genotoxicidade in vitro e in vivo concluiu que a agomelatina não possui potencial mutagênico ou
+clastogênico.
+Em estudos de carcinogenicidade, a agomelatina induziu um aumento da incidência de tumores hepáticos no rato e no camundongo, com
+uma dose pelo menos 110 vezes maior que a dose terapêutica. Os tumores hepáticos estão muito provavelmente relacionados com indução
+enzimática específica dos roedores. A frequência de fribroadenomas mamários benignos observados em ratos foi maior em exposições
+elevadas (60 vezes a exposição à dose terapêutica), mas permaneceu no intervalo dos controles.
+Estudos farmacológicos de segurança mostraram que não existe efeito da agomelatina sobre a corrente hERG (human Ether à-go-go
+Related Gene) ou no potencial de ação das células de Purkinje do cão. A agomelatina não demonstrou propriedades pró-convulsivantes
+em doses até 128mg/kg em camundongos e ratos.
+Nenhum efeito da agomelatina nas performances comportamentais, funções reprodutivas e visuais de animais juvenis foi observado. Houve
+uma ligeira diminuição da dose não dependente no peso corporal relacionado às propriedades farmacocinéticas e alguns efeitos menores
+no trato reprodutivo masculino, sem qualquer prejuízo em performances reprodutivas.
+4. CONTRAINDICAÇÕES
+- Hipersensibilidade conhecida à agomelatina ou a um dos excipientes.
+- Insuficiência hepática (isto é, cirrose ou doença hepática ativa) ou transaminases superiores a 3 vezes o limite superior do intervalo
+normal (ver itens 5 e 8).
+- Uso concomitante de inibidores potentes do CYP1A2 (por exemplo, fluvoxamina, ciprofloxacino) (ver item 6).
+Este medicamento é contraindicado para menores de 12 anos.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Monitorização da função hepática
+Casos de lesão hepática, incluindo insuficiência hepática (alguns casos foram excepcionalmente relatados com desfecho fatal ou
+transplante de fígado em pacientes com fatores de risco hepáticos), aumento das enzimas hepáticas excedendo 10 vezes o limite
+superior normal, hepatites e icterícia, foram relatados após a comercialização, em doentes tratados com agomelatina(ver item 9).
+A maioria destes casos ocorreram durante os primeiros meses de tratamento. O padrão do dano hepático é predominantemente
+hepatocelular com aumento das transaminases séricas que normalmente voltam aos valores normais na interrupção de agomelatina.
+Deve-se ter cuidado antes de começar o tratamento e uma vigilância acirrada deve ser realizada durante todo período do tratamento
+em todos os pacientes, principalmente se os fatores de risco para lesão hepática ou medicamentos concomitantes associados ao
+risco para lesão hepática estão presentes.
+Antes de começar o tratamento
+O tratamento com ELENCOS® (agomelatina) apenas deve ser prescrito após cuidadosa consideração dos benefícios e riscos em
+pacientes com fatores de risco para lesão hepática, por exemplo, obesidade/excesso de peso/esteatose hepática não alcoólica,
+diabetes, desordem no uso do álcool e/ou consumo substancial de álcool e pacientes em utilização concomitante de medicamentos
+associados ao risco de lesão hepática.
+BU_04
+Devem ser realizados testes de função hepática em todos os pacientes e o tratamento não deve ser iniciado em pacientes com
+valores basais de ALAT e/ou ASAT > 3vezes o limite superior do normal (ver item 4).
+Deve-se ter cuidado quando ELENCOS® for administrado por pacientes com níveis elevados de transaminases no pré- tratamento (>
+limite superior dos intervalos normais e ≤ a 3 vezes o limite superior do intervalo normal).
+Frequência dos testes de função hepática
+- Antes de iniciar o tratamento
+- E em seguida:
+- após cerca de três semanas,
+- após seis semanas (fim da fase aguda),
+- após doze e vinte e quatro semanas (fim da fase de manutenção),
+- e posteriormente, quando clinicamente indicado.
+- Quando houver o aumento da dose, permitida apenas em pacientes adultos, os testes de função hepática devem ser realizados
+novamente, com a mesma frequência com que são feitos no início do tratamento.
+Qualquer paciente que apresente o aumento das transaminases séricas deve repetir os testes da sua função hepática dentro de 48 horas.
+Durante o período de tratamento
+O tratamento com ELENCOS® deve ser descontinuado imediatamente se:
+- o paciente desenvolver sinais ou sintomas de lesão hepática potencial (tais como urina escura, fezes de cor clara, pele/olhos
+amarelados, dor no quadrante superior direito do abdômen, fadiga súbita inexplicável e persistente),
+- o aumento das transaminases séricas exceder em 3 vezes o limite superior do intervalo normal.
+Após a descontinuação da terapia com ELENCOS®, testes de função hepática devem ser repetidos até as transaminases séricas
+voltarem ao normal.
+População Pediátrica
+ELENCOS® não é recomendado no tratamento de episódios depressivos maiores em pacientes com idade inferior a 12 anos, uma
+vez que a eficácia e a segurança da agomelatina não foram estabelecidas neste grupo etário. Este medicamento também não é
+recomendado para pacientes com idade inferior a 18 anos no tratamento do transtorno de ansiedade generalizada.
+ELENCOS® é indicado no tratamento de episódios depressivos moderados a graves em adolescentes com idade entre 12 e 17 anos,
+nos casos em que a depressão não responder apenas à psicoterapia. De forma geral, o perfil de segurança da agomelatina em
+adolescentes foi similar ao observado em adultos (ver item 9). Nos ensaios clínicos em crianças e adolescentes tratados com outros
+antidepressivos, observou-se uma maior incidência de comportamentos suicidas (tentativa de suicídio e pensamentos suicidas) e
+de hostilidade (predominantemente agressividade, comportamento opositor e raiva) em comparação ao grupo placebo. Nos ensaios
+clínicos com agomelatina, esse risco aumentado não foi relatado. No entanto, se a decisão de tratamento com ELENCOS® for
+tomada com base na necessidade clínica, o paciente deve ser cuidadosamente monitorado quanto ao aparecimento de sintomas
+suicidas.
+Idosos
+Nenhum efeito da agomelatina foi documentado em pacientes com transtorno depressivo maior com idade ≥ 75 anos, ou em
+pacientes idosos que sofrem de transtorno de ansiedade generalizada com idade ≥ 65 anos. Portanto, a agomelatina não deve ser
+utilizada por esses pacientes (ver ítens 3 e 8).
+Uso em idosos com demência
+ELENCOS® não deve ser usado para o tratamento do transtorno depressivo maior em pacientes idosos com demência, uma vez que
+sua eficácia e segurança não foram estabelecidas nestes pacientes.
+Transtorno Bipolar/ mania /hipomania
+BU_04
+ELENCOS® deve ser utilizado com cautela em pacientes com histórico de transtorno bipolar, mania ou hipomania e deve ser
+descontinuado se o paciente desenvolver sintomas maníacos (ver item 9).
+Suicídio/pensamentos suicidas
+A depressão está associada ao aumento do risco de pensamentos suicidas, autoagressão e suicídio (eventos relacionados ao
+suicídio). Este risco permanece até que ocorra uma remissão significativa. Esta melhora pode não ocorrer durante as primeiras
+semanas ou mais de tratamento e os pacientes deverão ser monitorados com cuidado, durante o tratamento inicial, até que esta
+melhora ocorra. A experiência clínica geral com todas as terapias antidepressivas mostra que o risco de suicídio pode aumentar nos
+estágios iniciais de recuperação.
+Transtorno de ansiedade generalizada para o qual ELENCOS® é indicado pode estar associado a um risco aumentado de eventos
+relacionados ao suicídio. As mesmas precauções observadas ao tratar pacientes deprimidos devem, portanto, serem observadas ao
+tratar pacientes com transtorno de ansiedade generalizada.
+Os pacientes com histórico de comportamento suicida ou que apresentem um grau significativo de pensamentos suicidas, antes do
+início do tratamento, apresentam um maior risco de pensamentos suicidas ou de tentativa de suicídio, devendo por este motivo,
+ser cuidadosamente monitorizados durante o tratamento. Uma meta-análise de estudos clínicos com medicamentos
+antidepressivos, controlados com placebo, em pacientes adultos com doenças psiquiátricas, demonstrou um aumento do risco de
+comportamentos suicidas em pacientes com menos de 25 anos que estavam utilizando antidepressivos, comparativamente aos
+pacientes que usavam placebo.
+A terapêutica medicamentosa deverá ser acompanhada por uma supervisão rigorosa, em particular nos pacientes de maior risco,
+especialmente na fase inicial do tratamento ou na sequência de alterações posológicas. Os pacientes (e toda a equipe de assistência à
+saúde) devem ser alertados para a necessidade de monitoramento relativo a qualquer agravamento da sua situação clínica,
+pensamentos ou comportamentos suicidas e procurar assistência médica imediatamente, caso estes sintomas ocorram.
+Associação com inibidores do CYP1A2
+A prescrição de ELENCOS® com inibidores moderados do CYP1A2 (por exemplo, propranolol, enoxacina) deve ser feita com
+precaução, pois pode resultar num aumento da exposição à agomelatina (ver itens 4 e 6).
+Intolerância à lactose
+Os comprimidos de ELENCOS® contêm lactose. Pacientes com problemas hereditários raros de intolerância à galactose,
+deficiência total de lactase ou síndrome de má absorção da glicose e galactose não devem utilizar este medicamento.
+Atenção: Este medicamento contém lactose e não deve ser usado por pessoas com síndrome de má-absorção de glicose-
+galactose.
+Gravidez
+Existe uma quantidade limitada ou não há dados (menos de 300 resultados de gravidez) do uso de agomelatina em mulheres
+grávidas. Estudos em animais não indicaram direta ou indiretamente, efeitos prejudiciais com relação à gravidez, desenvolvimento
+embrionário e fetal, desenvolvimento do parto e pós-natal. Como medida de precaução, é preferível evitar o uso do ELENCOS®
+(agomelatina)durante a gravidez.
+Categoria C:Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Lactação
+Não se sabe se a agomelatina/metabólitos são excretados no leite materno. Dados farmacodinâmicos/toxicológicos disponíveis em
+animais têm mostrado a excreção da agomelatina/metabólitos no leite (ver item 3). Um risco para recém- nascidos/bebês não pode
+ser excluído. Uma decisão deve ser tomada sobre a descontinuação da amamentação ou descontinuação/abstenção da terapia com
+ELENCOS®, levando em consideração o benefício da amamentação para a criança e o benefício da terapêutica para a mulher.
+BU_04
+Uso criterioso no aleitamento ou na doação de leite humano: O uso deste medicamento no período da lactação depende da
+avaliação e acompanhamento do seu médico ou cirurgião-dentista.
+Fertilidade
+Estudos de reprodução em ratos e coelhos não mostraram efeitos da agomelatina na fertilidade (ver item 3).
+Condução de veículos e utilização de máquinas
+A agomelatina tem pouca influência na capacidade de conduzir veículos e utilizar máquinas. No entanto, considerando que tontura
+e sonolência são reações adversas comuns, os pacientes devem ser alertados com relação a sua capacidade para conduzir veículos
+ou utilizar máquinas.
+Você não deve dirigir veículos ou operar máquinas durante o tratamento se estiver sentindo alguma das reações destacadas
+acima, pois sua habilidade e capacidade de reação podem estar prejudicadas.
+O uso deste medicamento pode causar tontura, desmaios ou perda da consciência, expondo o paciente a quedas ou acidentes.
+6. INTERAÇÕES MEDICAMENTOSAS
+Interações potenciais que modificam o efeito da agomelatina
+A agomelatina é metabolizada pelo citocromo P450 1A2 (CYP1A2) (90%) e pelo CYP2C9/19 (10%). Outros medicamentos que interagem
+com estas isoenzimas podem diminuir ou aumentar a biodisponibilidade da agomelatina.
+A fluvoxamina, um inibidor potente da CYP1A2 e um inibidor moderado do CYP2C9, inibe fortemente o metabolismo da agomelatina,
+resultando em aumento de 60 vezes (intervalo 12-412) a exposição à agomelatina.
+Consequentemente, a coadministração de ELENCOS® (agomelatina) com inibidores potentes do CYP1A2 (por exemplo, fluvoxamina,
+ciprofloxacina) é contraindicada.
+A associação da agomelatina com estrogênios (inibidores moderados do CYP1A2) resulta em aumento múltiplo da exposição à
+agomelatina. Embora não tenha havido nenhum sinal específico de segurança em 800 doentes tratados em associação com estrogênios,
+deve-se ter cuidado na prescrição da agomelatina com outros inibidores moderados do CYP1A2 (por exemplo propranolol, enoxacina) até
+que maiores dados sejam obtidos (veja item 5)
+A rifampicina, um indutor dos três citocromos envolvidos no metabolismo da agomelatina, pode diminuir a biodisponibilidade da
+agomelatina.
+Fumar induz o CYP1A2 e foi demonstrado que diminui a biodisponibilidade da agomelatina, especialmente nos fumadores compulsivos
+(≥ 15 cigarros/dia) (ver item 3).
+Potencial da agomelatina para modificar o efeito de outros medicamentos
+In vivo, a agomelatina não possui efeito indutor sobre as isoenzimas CYP450 e nem efeito inibidor sobre as isoenzimas CYP1A2. In vitro,
+a agomelatina não possui efeito inibidor sobre a isoenzima CYP450. Desta forma, a agomelatina não modifica a exposição aos
+medicamentos metabolizados pelo CYP450.
+Outros medicamentos
+Nos estudos clínicos de Fase I não foi evidenciada qualquer interação farmacocinética ou farmacodinâmica com medicamentos que possam
+ser prescritos concomitantemente com agomelatina na população alvo: benzodiazepínicos, lítio, paroxetina, fluconazol e teofilina.
+Álcool
+A combinação de álcool e agomelatina não é recomendada.
+Terapia eletroconvulsiva (TEC)
+Não existem relatos sobre o uso concomitante da agomelatina com TEC. Estudos em animais demonstraram que a agomelatina não possui
+propriedades pró-convulsivas (ver item 3). Desta forma, as consequências clínicas do tratamento concomitante da TEC com a agomelatina
+são consideradas como improváveis.
+População pediátrica
+BU_04
+Os estudos de interação só foram realizados em adultos.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+ELENCOS® (agomelatina) deve ser guardada na sua embalagem original, em temperatura ambiente (entre 15º e 30º C).
+Nestas condições, este medicamento possui prazo de validade de 24 meses, a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+CARACTERÍSTICAS FÍSICAS E ORGANOLÉPTICAS:
+ELENCOS® se apresenta sob a forma de comprimidos revestidos ovais, biconvexos amarelo escuros, gravados com “25” em um dos lados.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+A dose diária recomendada de ELENCOS® (agomelatina) para o tratamento da TDM e/ou TAG é de um comprimido de 25 mg que deve
+ser tomado ao deitar-se. Se não houver melhora dos sintomas, a posologia poderá ser aumentada para 50 mg ao dia, ou seja, a tomada de
+dois comprimidos de 25 mg de uma só vez ao deitar-se:
+- 2 semanas após o início do tratamento de transtorno depressivo maior;
+- 4 semanas após o início do tratamento de transtorno de ansiedade generalizada.
+A decisão do aumento da dose deve ser equilibrada com um risco maior de elevação das transaminases. Qualquer aumento da dose para
+50 mg deve ser feito com base no risco/benefício individual de cada paciente e respeitando estritamente o monitoramento dos testes de
+função hepática.
+Devem ser realizados testes de função hepática em todos os pacientes antes de iniciar o tratamento. O tratamento não deve ser iniciado se
+as transaminases excederem em 3x o limite superior normal (ver itens 4 e 5). Durante o tratamento, as transaminases devem ser monitoradas
+periodicamente após cerca de três e seis semanas (fim da fase aguda), após doze e vinte e quatro semanas (fim da fase de manutenção) e,
+posteriormente, quando for clinicamente indicado (ver item 5). O tratamento deve ser descontinuado se as transaminases excederem em
+3x o limite superior normal (ver item 4 e 5).
+Quando a dose for aumentada, os testes de função hepática devem ser realizados novamente, com a mesma frequência com que são feitos
+no início do tratamento.
+Duração do tratamento
+Os pacientes devem ser tratados por um período mínimo de seis meses para assegurar que fiquem assintomáticos.
+Alternando a terapia de antidepressivos ISRS/IRSN para agomelatina
+Os pacientes podem apresentar sintomas de descontinuação após a interrupção de um antidepressivo ISRS/IRSN.
+A bula do atual ISRS/IRSN deve ser consultada sobre a forma de retirar o tratamento para evitar que isso aconteça. A agomelatina pode
+ser iniciada imediatamente, enquanto a dosagem de um ISRS/IRSN é ajustada (ver item 3).
+Descontinuação do tratamento
+Nenhuma redução de posologia é necessária para descontinuação do tratamento.
+Pacientes Idosos
+A eficácia e segurança da agomelatina (25 – 50 mg por dia) foram estabelecidas em pacientes idosos deprimidos (< 75 anos). Nenhum
+ajuste de dose é requerido em relação a idade (ver item 3). Nenhum efeito foi documentado em pacientes depressivos com idade ≥ 75 anos,
+ou em pacientes idosos que sofrem de transtorno de ansiedade generalizada. Portanto, a agomelatina não deve ser utilizada por estes
+pacientes.
+BU_04
+Insuficiência renal
+Não foram observadas alterações relevantes nos parâmetros farmacocinéticos da agomelatina em pacientes com insuficiência renal grave.
+Contudo, os dados clínicos disponíveis do uso de agomelatina em pacientes com transtorno depressivo maior com insuficiência renal
+moderada ou grave são limitados. Portanto, recomenda-se que a prescrição de ELENCOS® nestes pacientes, seja feita com precaução.
+Insuficiência hepática
+ELENCOS® está contraindicado em pacientes com insuficiência hepática (ver ítens 3, 4 e 5).
+População pediátrica
+A dose recomendada de ELENCOS® em adolescentes de 12 a 17 anos é de um comprimido de 25 mg ao dia, que deve ser tomado ao
+deitar-se, no tratamento de episódios depressivos maiores moderados a graves. Nenhum ajuste de dose é necessário nesta faixa etária.
+Testes de função hepática devem ser realizados em todos os pacientes antes de iniciar o tratamento com ELENCOS®. O tratamento não
+deve ser iniciado se as transaminases excederem 3 vezes o limite superior da normalidade. Durante o tratamento, as transaminases devem
+ser monitoradas periodicamente após cerca de três, seis (fim da fase aguda), doze e vinte e quatro semanas (fim da fase de manutenção) e,
+posteriormente, quando clinicamente indicado. O tratamento deve ser descontinuado se as transaminases excederem 3 vezes o limite
+superior da normalidade (ver item 5).
+Não existe utilização relevante de agomelatina em crianças desde o nascimento até dois anos de idade para o tratamento de episódios
+depressivos maiores.
+Não foram estabelecidas a segurança e a eficácia da agomelatina em crianças de 2 a 6 anos no tratamento de episódios depressivos maiores.
+Não existem dados disponíveis nesta faixa etária.
+Para crianças de 7 a 11 anos, a segurança e a eficácia não foram estabelecidas no tratamento de episódios depressivos maiores. Existem
+dados disponíveis (ver itens 2, 3 e 9), porém o uso de agomelatina não deve ser considerado nesta faixa etária.
+Para uso oral.
+Os comprimidos revestidos de ELENCOS® podem ser tomados no momento da refeição ou não.
+Este medicamento não deve ser partido, aberto ou mastigado.
+9. REAÇÕES ADVERSAS
+Resumo do perfil de segurança
+As reações adversas foram geralmente leves ou moderadas e ocorreram durante as duas primeiras semanas de tratamento. As reações
+adversas mais comuns foram cefaleia, náuseas e tontura. Estas reações adversas foram normalmente transitórias e, em geral, não levaram
+a interrupção do tratamento.
+Lista tabulada de reações adversas
+A tabela abaixo apresenta as reações adversas observadas a partir de ensaios clínicos em adultos controlados por placebo e em adultos
+controlados por ativo e notificações espontâneas pós-comercialização.
+As reações adversas estão listadas abaixo usando a seguinte convenção: Muito comuns (≥1/10); comuns (≥1/100 e <1/10); incomum
+(≥1/1.000 e <1/100); raros (≥1/10.000e <1/1.000); muito raros (<1/10.000), desconhecida (não podem ser calculadas a partir dos dados
+disponíveis). As frequências não foram corrigidas para o placebo.
+Classe de Sistema de Órgãos Frequência Termo Preferido
+Ansiedade
+Comum
+Sonhos anormais*
+Pensamento ou comportamento suicida
+(ver item 5).
+Agitação e sintomas relacionados*
+(como irritabilidade e inquietação)
+Alterações de ordem psiquiátrica
+Agressão*
+BU_04
+Incomum Pesadelos*
+Mania/hipomania* - Esses sintomas
+também podem estar relacionados a uma
+doença subjacente (ver item 5).
+Estado de confusão*
+Rara
+Alucinações*
+Muito Comum Cefaleia
+Tontura
+Comum
+Sonolência
+Insônia
+Alterações do sistema nervoso
+Enxaqueca
+Parestesia
+Incomum
+Síndrome das pernas inquietas*
+Raro Acatisia*
+Alterações Visuais Incomum Visão turva
+Alterações do sistema vestibular e Incomum Zumbido*
+ouvido
+Náusea
+Diarreia
+Constipação
+Alterações gastrointestinais Comum
+Dor abdominal
+Vômitos*
+ALAT e/ou ASAT aumentados (em
+estudos clínicos, aumento > 3 vezes o
+limite superior do intervalo normal para
+Comum ALAT e/ou ASAT foram observados em
+Alterações Hepato-biliares 1,3% dos pacientes com agomelatina
+25mg/dia e 2,6% com agomelatina
+50mg/dia vs. 0,4% com placebo).
+Incomum Gama-glutamiltransferase (GGT)
+aumentado* (> 3 vezes o limite superior
+do intervalo normal)
+Hepatite
+Fosfatase alcalina aumentada* (> 3 vezes o
+limite superior do intervalo normal)
+Rara
+Insuficiência hepática* (1)
+Icterícia*
+Hiperhidrose
+Eczema
+Incomum
+Prurido*
+Alterações da pele e tecido
+BU_04
+subcutâneo Urticária*
+Erupção cutânea eritematosa
+Rara
+Edema de face e angiodema*
+Alterações do tecido conjuntivo e Comum Lombalgia
+musculoesquelético
+Incomum Mialgia*
+Alterações renal e urinária Rara Retenção Urinária*
+Alterações gerais e condições do Comum Fadiga
+local de administração
+Comum Aumento de peso*
+Investigacionais
+Incomum Diminuição de peso*
+*Frequência estimada de estudos clínicos para eventos adversos detectados de relatos espontâneos.
+(1) Poucos casos foram relatados excepcionalmente com desfecho fatal ou transplante de fígado em pacientes com fatores de risco hepático.
+População pediátrica
+Um total de 80 crianças com idade entre 7 e menores de 12 anos e 319 pacientes adolescentes com idade entre 12 e 17 anos, acometidos
+pelo transtorno depressivo maior, moderado a grave, foram tratados com agomelatina em um estudo duplo-cego, controlado por placebo
+e ativo (fluoxetina). Em geral, o perfil de segurança da agomelatina nesses pacientes foi semelhante ao observado em adultos.
+Atenção: esse produto é um medicamento que possui nova indicação terapêutica no país e, embora as pesquisas tenham indicado
+eficácia e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos imprevisíveis ou
+desconhecidos. Nesse caso, notifique os eventos adversos pelo Sistema VigiMed, disponível no Portal da ANVISA.
+Isso permite o monitoramento continuado da relação risco/benefício do medicamento.
+10. SUPERDOSE
+Sintomas
+A experiência na superdose com a agomelatina é limitada. Os sinais e sintomas de superdose incluíram epigastralgias, sonolência, fadiga,
+agitação, ansiedade, tensão, tontura, cianose ou mal-estar.
+Uma pessoa que ingeriu até 2450 mg de agomelatina, se recuperou espontaneamente sem anormalidades cardiovasculares ou biológicas.
+Tratamento
+Não se conhece nenhum antídoto específico para a agomelatina. O tratamento da superdose consiste no tratamento dos sintomas clínicos
+e um monitoramento de rotina. Um acompanhamento médico em local especializado é recomendável.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+MS n°: 1.5573.0062
+Farm. Resp.: Fernanda de Carvalho Ferreira Manfredini - CRF-SP n°: 61.972
+Fabricado por:
+Pliva Croatia
+Zagreb - Croácia
+Importado por:
+Teva Farmacêutica Ltda.
+Av. Guido Caloi, 1935 - Prédio B - 1° Andar
+BU_04
+São Paulo - SP
+CNPJ n° 05.333.542/0001-08
+® Marca registrada de Teva Pharmaceutical Industries Ltd.
+Atendimento ao Consumidor:
+SAC Teva 0800-777-8382
+www.tevabrasil.com.br
+VENDA SOB PRESCRIÇÃO MÉDICA. SÓ PODE SER VENDIDO COM RETENÇÃO DA RECEITA.
+Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em 27/02/2024.
+BU_04
+BU_04
+Anexo B
+Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição / notificação que altera bula Dados das alterações de bulas
+Itens de
+Data do Data do Data da Versões Apresentações
+N° expediente Assunto N° expediente Assunto
+expediente expediente aprovação (VP/VPS) relacionadas
+bula
+VP:
+1.Para que este
+medicamento é
+indicado?
+3.Quando não
+devo usar este
+medicamento?
+4.O que devo
+saber antes de
+usar este
+medicamento?
+6.Como devo 25 MG COM REV CT
+usar este BL AL AL DESSEC X
+medicamento?
+14
+10450 - SIMILAR 8.Quais os
+males que este
+–Notificação de medicamento 25 MG COM REV CT
+pode me BL AL AL DESSEC X
+30/04/2024 Versão atual Alteração de - - - - VPS/VP
+causar?
+28
+Texto de Bula -
+RDC 60/12 25 MG COM REV CT
+VPS:
+1.Indicações BL AL AL DESSEC X
+2.Resultados de
+eficácia 56
+3.
+Características
+farmacológicas
+4.
+Contraindicaçõe
+s
+5.Advertências
+e Precauções
+8.Posologia e
+Modo de usar
+9.Reações
+adversas
+Teva Farmacêutica Ltda.
+Rua James Joule, 92 – 9° andar – CEP: 04576-080 – São Paulo – SP- Brasil – Tel.: (55 11) 5105-5750 – Fax: (55 11) 5105-5779
+Anexo B
+Histórico de Alteração da Bula
+25 MG COM REV CT
+BL AL AL DESSEC X
+10450 - SIMILAR 14
+– Notificação de
+25 MG COM REV CT
+29/02/2024 0246696/24-9 Alteração de - - - - - VPS/VP BL AL AL DESSEC X
+28
+Texto de Bula -
+RDC 60/12 25 MG COM REV CT
+BL AL AL DESSEC X
+56
+25 MG COM REV CT
+BL AL AL DESSEC X
+14
+150
+10457 - SIMILAR -
+25 MG COM REV CT
+Inclusão Inicial de SIMILAR -
+28/09/2023 1034883/23-2 19/11/2019 3198979/19-1 20/03/2023 - VPS/VP BL AL AL DESSEC X
+Texto de Bula - REGISTRO DE
+28
+RDC 60/12 MEDICAMENTO
+SIMILAR
+25 MG COM REV CT
+BL AL AL DESSEC X
+56
+Teva Farmacêutica Ltda.
+Rua James Joule, 92 – 9° andar – CEP: 04576-080 – São Paulo – SP- Brasil – Tel.: (55 11) 5105-5750 – Fax: (55 11) 5105-5779

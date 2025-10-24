@@ -1,0 +1,88 @@
+INDICAÇÕES Regressão de diversas condições neoplásicas, tais como leucemia aguda, tumor de Wilms, neuroblastoma, sarcomas
+ósseos e dos tecidos moles, carcinoma de mama, linfomas (tipo Hodgkin e não Hodgkin), carcinoma broncogênico
+(pulmão), carcinoma de tireoide, hepatomas e carcinoma de ovário.
+Também é indicado no tratamento primário do carcinoma não metastático de bexiga (Tis, T1, T2) por administração
+vesical.
+2. RESULTADOS DE EFICÁCIA
+- Leucemia linfoide aguda (LLA)
+Em estudo clínico realizado em adultos com LLA, Aviles et al. (1983) verificaram que o índice de remissão completa
+(RC) aumentou de 75% (histórico) para 90% quando a doxorrubicina foi combinada ao esquema contendo vincristina e
+prednisona, aumentando também a sobrevida de menos de 1 ano para uma média de 31 meses.
+Ishii et al. (1986) realizaram um estudo com oito pacientes pediátricos com LLA refratária à terapia de indução inicial,
+sendo que quatro estavam em remissão contínua de 4 a 24 meses após o tratamento com citarabina 1 g/m2 e
+doxorrubicina 40 a 60 mg/m2/dose. A remissão ocorreu após dois ou três ciclos com essa terapia e depois foi mantida
+uma terapia mensal com citarabina. Um paciente em recidiva do sistema nervoso central permaneceu em remissão após
+dois ciclos com essa terapia. Geralmente, as reações adversas foram leves a moderadas e toleráveis em todas as
+crianças. Estes dados sugerem que citarabina e doxorrubicina podem ser eficazes no tratamento de todos os pacientes
+refratários a outros regimes.
+- Leucemia mieloide aguda (LMA)
+Bern et al. (1987) verificaram que para a terapia de indução ou reindução da LMA, a combinação de etoposídeo,
+citarabina, doxorrubicina e 6-tioguanina foi efetiva, com RC em 85% dos pacientes (29 de 34 pacientes). O índice de
+RC alcançou 94% (17 dos 18 pacientes) no grupo com 50 anos ou menos e 75% (12 dos 16 pacientes) no grupo acima
+de 50 anos. A taxa de remissão para LMA foi de 86% (19 dos 22 pacientes) e de 83% para LMA secundária ou
+reincidente (10 dos 12 pacientes). Este regime terapêutico mostrou-se efetivo para LMA primária ou reincidente.
+Peterson et al. (1980) realizaram estudo clínico em adultos com doxorrubicina (30 mg/m2), citarabina, 6-tioguanina,
+prednisona e vincristina, que resultou em RC de 82% dos pacientes recebendo terapia de indução inicial (18 dos 22
+pacientes) e RC de 67% dos pacientes submetidos à reindução (12 dos 18 pacientes). O tempo médio para remissão foi
+de 32 dias.
+- Tumor de Wilms
+Breslow et al. (2004) através de uma análise dos pacientes incluídos no terceiro e quarto National Wilms Tumor Studies
+(NWTS-3 e 4) evidenciaram que para tumores de Wilms estádio III com histologia favorável, a inclusão de
+doxorrubicina ao esquema com dactinomicina e vincristina (n = 130) em comparação ao esquema de apenas
+dactinomicina e vincristina (n = 118) apresentou melhora após oito anos no intervalo livre de doença de 74% para 84%
+e a sobrevida global de 83% para 89%, concluindo que apesar das baixas taxas de insuficiência cardíaca congestiva, a
+adição de doxorrubicina ao esquema quimioterápico aumentou a sobrevida.
+- Neuroblastoma
+West et al. (1993) relataram aumento da sobrevida em pacientes pediátricos maiores de 1 ano de idade com
+neuroblastoma estádio III sob tratamento intensivo multimodal. Além da cirurgia e da radioterapia foi utilizada
+quimioterapia com MADDOC (mecloretamina, doxorrubicina, cisplatina, dacarbazina, vincristina, ciclofosfamida) ou
+cisplatina + ciclofosfamida para indução seguida por MADDOC. Uma sobrevida livre de evento de 72% foi obtida após
+acompanhamento médio de 85 meses.
+- Sarcoma ósseo
+As combinações de tratamento cirúrgico e quimioterápico para sarcoma ósseo permitiram que a sobrevida de cinco anos
+aumentasse de 10% para aproximadamente 70% em 30 anos, sendo a doxorrubicina o fármaco integrante dos esquemas
+quimioterápicos para esses sarcomas. Em estudo clínico randomizado, controlado em 407 pacientes com sarcoma ósseo
+FDOXO_V.11-24 1
+operável, não metastático, comparando a utilização do esquema doxorrubicina + cisplatina versus regime multifármacos
+envolvendo vincristina, metotrexato, ácido folínico, doxorrubicina, bleomicina, ciclofosfamida e dactinomicina,
+Souhami et al. (1997) demonstraram a não diferença da sobrevida entre os tratamentos, tanto em crianças como em
+adultos. A quimioterapia foi utilizada no pré e no pós-operatório, em esquemas variados nos dois regimes de
+tratamento. Em ambos os grupos, as modificações de dose foram feitas com base nas contagens de leucócitos. A
+sobrevida global foi de 64,9% e de 55,2%; a sobrevida livre de progressão foi de 47,0% e de 43,7%; respectivamente,
+em três anos e em cinco anos, em ambos os grupos. O esquema mais curto com os dois fármacos foi mais bem tolerado.
+- Sarcoma dos tecidos moles
+Os resultados de um estudo clínico fase II envolvendo 20 pacientes com sarcomas de tecidos moles metastáticos e/ou
+avançado, realizado por Palumbo et al. (1998) indicaram que o tratamento com uma combinação de vincristina,
+doxorrubicina (adriamicina) e ciclofosfamida (VAC) alternando com ifosfamida e etoposídeo (IE) produziu um índice
+de resposta global de 45% (duas completas; sete respostas parciais). Entre os pacientes não tratados anteriormente (n =
+8) este regime quimioterápico alternado alcançou um índice de resposta global de 75%. A principal toxicidade dose-
+limitante foi a mielossupressão (leucopenia, neutropenia). O tempo médio de sobrevida foi de 10 meses (intervalo de 4
+a 26 meses) em todo o grupo e de 14 meses (intervalo de 9 a 26 meses) nos pacientes responsivos.
+Em três estudos de avaliação da doxorrubicina como adjuvante para tratamento do sarcoma de tecido mole agressivo,
+Ettinghausen et al. (1986) e Lerner et al. (1987) não observaram diferenças significantes quanto ao controle da doença
+local, sobrevida livre de metástase, sobrevida livre da doença ou sobrevida global. Entretanto, um subgrupo de
+pacientes com sarcomas de tronco apresentou melhora na sobrevida livre da doença.
+- Carcinoma de mama
+Em um estudo randomizado com 1355 mulheres com câncer de mama, Gianni et al. (2005) avaliaram se a eficácia da
+doxorrubicina seguida por CMF (ciclofosfamida, metotrexato e fluoruracila) pode melhorar com a adição de paclitaxel,
+como adjuvante ou terapia sistêmica primária.
+O esquema doxorrubicina + paclitaxel seguido por CMF foi considerado viável, seguro e bem tolerado, sendo que na
+terapia sistêmica primária foi permitida a realização de cirurgia conservadora em grande parte das pacientes (65%
+versus 34%, p<0,0001).
+Como verificado por Blajman et al. (1999), Colozza et al. (1996), Skeel (1991) e Holleb et al. (1991), os índices de
+resposta de 60% a 80% foram alcançados em quimioterapia combinada com ciclofosfamida, metotrexato, fluoruracila e
+prednisona (CMFP); fluoruracila, doxorrubicina e ciclofosfamida (FAC); ciclofosfamida, doxorrubicina e prednisona
+(CAP), enquanto o uso de agentes isolados como doxorrubicina, ciclofosfamida ou metotrexato produziram índices de
+resposta de 20% a 40%.
+Bonadonna et al. (1995) concluíram que em mulheres com envolvimento nodal extensivo, a quimioterapia sequencial
+com quatro ciclos de doxorrubicina seguida por oito ciclos de CMF (ciclofosfamida, metotrexato, 5-fluoruracila) foi
+superior a terapia alternada de dois ciclos de CMF com um ciclo de doxorrubicina, totalizando doze ciclos.
+Segundo Ferriere et al. (1997) o resultado do tratamento de 326 mulheres com câncer de mama em estádio II utilizando
+o esquema AVCF (doxorrubicina, vincristina, 5-fluoruracila e ciclofosfamida) pós-cirúrgico foi de que após 15 anos a
+sobrevida livre da doença foi de 54% e sobrevida global foi de 58%. Em um acompanhamento médio de 130 meses,
+mais da metade das pacientes permaneceu viva e livre da doença.
+Rahman et al. (1999) analisaram os dados de 1581 pacientes com câncer de mama metastático (CMM) tratados no
+“M.D. Anderson Cancer Center – EUA” (entre 1973 e 1982) com quimioterapia contendo doxorrubicina que revelaram
+uma resposta completa de 16,6% e resposta parcial de 48,5%; a média de sobrevida livre de progressão (SLP) e a média
+de sobrevida global (SG) foram, respectivamente, de 11,5 e 21,3 meses. Os pacientes que alcançaram resposta completa
+tiveram uma média de SLP e SG de 22,2 e 41,8 meses, respectivamente, enquanto os pacientes com resposta parcial

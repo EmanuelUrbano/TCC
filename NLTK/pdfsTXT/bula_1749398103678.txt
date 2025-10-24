@@ -1,0 +1,583 @@
+Eranz®
+Pfizer Brasil Ltda.
+Comprimido revestido
+5 mg e 10 mg
+Eranz®
+cloridrato de donepezila
+I – IDENTIFICAÇÃO DO MEDICAMENTO
+Nome comercial: Eranz®
+Nome genérico: cloridrato de donepezila
+APRESENTAÇÕES
+Eranz® 5 mg ou 10 mg em embalagens contendo 28 comprimidos revestidos.
+VIA DE ADMINISTRAÇÃO: USO ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada comprimido revestido de Eranz® 5 mg contém 5 mg de cloridrato de donepezila equivalente a 4,56 mg
+de donepezila base.
+Excipientes: lactose monoidratada, amido, celulose microcristalina, hiprolose, estearato de magnésio, corante
+Opadry branco (hipromelose, talco, macrogol e dióxido de titânio).
+Cada comprimido revestido de Eranz® 10 mg contém 10 mg de cloridrato de donepezila equivalente a 9,12 mg
+de donepezila base.
+Excipientes: lactose monoidratada, amido, celulose microcristalina, hiprolose, estearato de magnésio, corante
+Opadry amarelo (hipromelose, talco, macrogol, dióxido de titânio e óxido férrico amarelo sintético).
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 1
+18/Dez/2024
+II – INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1.INDICAÇÕES
+Eranz® (cloridrato de donepezila) é indicado para o tratamento sintomático da demência de Alzheimer de
+intensidade leve, moderadamente grave e grave. O diagnóstico da demência de Alzheimer deve ser realizado
+de acordo com os critérios científicos aceitos, como DSM IV, ICD10.
+2.RESULTADOS DE EFICÁCIA
+Doença de Alzheimer Leve a Moderadamente Grave 1, 2, 3, 4, 5
+Em pacientes com demência de Alzheimer participantes de estudos clínicos, a administração de doses únicas
+diárias de 5 mg ou 10 mg de cloridrato de donepezila provocou a inibição no estado de equilíbrio da atividade
+da acetilcolinesterase (medida nas membranas dos eritrócitos) de 63,6% e 77,3%, respectivamente.
+Demonstrou-se que a inibição da acetilcolinesterase (AChE) em eritrócitos pela donepezila está
+correlacionada a alterações da Escala de Avaliação da Doença de Alzheimer - Subescala Cognitiva (ADAS-
+Cog), uma escala sensível que avalia alguns aspectos da cognição. O potencial da donepezila de alterar o
+curso da neuropatologia subjacente ainda não foi estudado.
+Nos estudos clínicos com pacientes com doença de Alzheimer de grau leve a moderadamente grave, foi
+realizada uma análise ao final de 6 meses de tratamento com o cloridrato de donepezila usando uma
+combinação de três critérios de eficácia: a ADAS-Cog, a CIBIC-plus (sigla em inglês para Impressão da
+Alteração com Base na Entrevista com o Médico com Informação dos Dados pelo Cuidador -- medida de
+desempenho global) e as Atividades Combinadas dos Domínios de Atividades Diárias da Escala de Graduação
+da Demência Clínica -- CDR (medida da capacidade de relacionamento na comunidade e em casa, hobbies e
+cuidado pessoal).
+Os pacientes que atenderam aos critérios apresentados a seguir foram considerados respondedores ao
+tratamento (vide Tabela 1).
+Resposta = Melhora da ADAS-Cog de, no mínimo, 4 pontos
+Ausência de piora da CIBIC-plus
+Ausência de piora das Atividades Combinadas dos Domínios de Atividades Diárias da CDR
+Tabela 1. Porcentagem de Pacientes com Doença de Alzheimer leve a moderadamente grave julgados
+respondedores por grupo de tratamento
+% de Resposta
+Grupo de tratamento População ITT População de Avaliação
+n=365 n=352
+Placebo 10 10
+donepezila 5 mg 18* 18*
+donepezila 10 mg 21* 22**
+*p<0,05; **p<0,01
+O cloridrato de donepezila promoveu aumento dose-dependente estatisticamente significativo da porcentagem
+de pacientes considerados respondedores ao tratamento. As porcentagens de pacientes randomizados que
+completaram o estudo foram: Placebo 80%, 5 mg/dia 85% e 10 mg/dia 68%.
+Tanto os pacientes designados para o grupo placebo como os para o grupo cloridrato de donepezila
+apresentaram uma ampla gama de respostas, mas os grupos com tratamento ativo apresentaram maior
+probabilidade de apresentar melhoras significativas.
+Quanto à distribuição de frequência de pontuações CIBIC-plus atingidas pelos pacientes designados para cada
+um dos três grupos de tratamento que completaram 24 semanas de tratamento, as diferenças médias entre o
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 2
+18/Dez/2024
+medicamento e o placebo nesses grupos de pacientes foram de 0,35 unidades e 0,39 unidades para 5 mg/dia e
+10 mg/dia de cloridrato de donepezila, respectivamente. As diferenças foram estatisticamente significativas.
+Não houve diferença estatisticamente significativa entre os dois tratamentos ativos.
+Doença de Alzheimer Grave 6,7, 8
+Estudo sueco de 6 meses
+A eficácia de cloridrato de donepezila no tratamento da doença de Alzheimer grave é demonstrada pelos
+resultados de um estudo clínico randomizado, duplo-cego, controlado por placebo conduzido na Suécia
+(estudo de 6 meses) em pacientes com doença de Alzheimer provável ou possível, diagnosticada pelos
+critérios NINCDS-ADRDA e DSM-IV, MMSE: variação de 1-10. Duzentos e quarenta e oito (248) pacientes
+com doença de Alzheimer grave foram randomizados para cloridrato de donepezila ou placebo. Para os
+pacientes randomizados para cloridrato de donepezila, o tratamento foi iniciado com 5 mg uma vez ao dia
+durante 28 dias e depois houve aumento para 10 mg uma vez ao dia. No final do período de tratamento de 6
+meses, 90,5% dos pacientes tratados com cloridrato de donepezila estavam recebendo a dose de 10 mg. A
+idade média dos pacientes era de 84,9 anos, com uma variação de 59 a 99. Aproximadamente 77% dos
+pacientes eram mulheres e 23% eram homens. Quase todos os pacientes eram caucasianos. A doença de
+Alzheimer provável foi diagnosticada na maioria dos pacientes (83,6% dos pacientes tratados com cloridrato
+de donepezila e 84,2% dos pacientes tratados com placebo).
+Efeitos sobre a SIB (sigla em inglês para Bateria de Piora da Severidade): Após 6 meses de tratamento, a
+média de diferença na mudança dos escores da escala SIB para os pacientes tratados com cloridrato de
+donepezila comparada ao placebo foi de 5,9 unidades. O tratamento com cloridrato de donepezila foi, do
+ponto de vista estatístico, significativamente superior ao placebo.
+Efeitos sobre o ADCS-ADL-grave: Após 6 meses de tratamento, a diferença média nas classificações de
+alteração de ADCS-ADL-grave para pacientes tratados com cloridrato de donepezila, em comparação aos
+pacientes tratados com placebo, foi de 1,8 unidades. O tratamento com cloridrato de donepezila foi, do ponto
+de vista estatístico, significativamente superior ao placebo.
+Estudo japonês de 24 semanas
+Em estudo de 24 semanas de duração, conduzido no Japão, 325 pacientes com doença de Alzheimer grave
+foram randomizados para doses de 5mg/dia ou 10 mg/dia de cloridrato de donepezila administradas uma vez
+ao dia, ou placebo. 284 pacientes completaram o estudo com proporções similares de pacientes completando o
+estudo em cada grupo de tratamento. A medida de eficácia primária do estudo foi avaliada pela SIB e CIBIC-
+plus.
+Após 24 semanas de tratamento, diferenças estatisticamente significativas no tratamento foram observadas
+entre as doses de 10 mg/dia de cloridrato de donepezila e placebo tanto no SIB quanto no CIBIC-plus. A dose
+de 5 mg/dia de cloridrato de donepezila demonstrou superioridade estatisticamente significativa em relação ao
+placebo na SIB, mas não na CIBIC-plus.
+Estudo multicêntrico em vários países em pacientes com doença de Alzheimer grave
+Um estudo multinacional, multicêntrico, randomizado, duplo-cego, controlado por placebo, grupo-paralelo, de
+24 semanas com pacientes com doença de Alzheimer grave também foi conduzido. Um total de 343
+indivíduos foram randomizados, 176 com cloridrato de donepezila e 167 com placebo. Os pacientes
+receberam 5 mg/dia de donepezila (de liberação imediata) nas primeiras 6 semanas, seguida de 10 mg/dia de
+cloridrato de donepezila no restante da fase duplo-cega do estudo.
+O cloridrato de donepezila foi do ponto de vista estatístico significativamente superior ao placebo na
+pontuação SIB no parâmetro para ambas as populações do ITT LOCF (diferença média do LS de 5,32 pontos;
+P = 0,0001). No CIBIC-plus, a diferença favoreceu o tratamento com cloridrato de donepezila, mas não
+atingiu significância estatística (P = 0,0905). Entretanto, após a queda do ponto 7 da escala para o ponto 3
+(melhora, nenhuma mudança ou piora), houve diferenças estatisticamente significativas favorecendo o grupo
+de cloridrato de donepezila em relação ao grupo placebo para ambas as populações do ITT LOCF (P =
+0,0156).
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 3
+18/Dez/2024
+Referências Bibliográficas
+1. Rogers SL, Doody RS, Mohs RC, et al. Donepezil improves cognition and global function in Alzheimer
+disease: a 15 week, double-blind, placebo-controlled study. Donepezil Study Group. Arch Intern Med
+1998 May 11; 158(9): 1021-31.
+2. Rogers SL, Farlow MR, Doody RS, et al. A 24 week, double-blind, placebo controlled trial of donepezil
+in patients with Alzheimer’s disease. Donepezil Study Group. Neurology 1998; 50(1):136-45.
+3. Rosen WG, Mohs RC, Davis KL. A new rating scale for Alzheimer’s disease. Amer J Psychiatr 1984;
+141:1356-64.
+4. Joffres C, Graham J, Rockwood K. Qualitative analysis of the clinical interview based impression of
+change (Plus): methodological issues and implications for clinical research. Int Psychogeriatr. 2000;
+12:403-13.
+5. Morris J. The clinical dementia rating (CDR): Current version and scoring rules. Neurology 1993;
+43:2412-14.
+6. Winblad B, Kilander L, Eriksson S, et al. Donepezil in patients with severe Alzheimer’s disease: double-
+blind, parallel-group, placebo-controlled study. Lancet 2006; 367:1057–65.
+7. Black SE, Doody R, Li H, et al. Donepezil preserves cognition and global function in patients with severe
+Alzheimer’s disease. Neurology 2007; 69:459-69.
+8. Homma A, Imai Y, Tago H, et al. Donepezil treatment of patients with severe Alzheimer’s disease in a
+Japanese population: results from a 24-week, double-blind, placebo-controlled, randomized trial. Dement
+Geriatr Cogn Disord 2008;25:399-407.
+3.CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades farmacodinâmicas
+Mecanismo de ação
+Eranz® é um inibidor seletivo reversível da enzima acetilcolinesterase, a colinesterase predominante no
+cérebro. O cloridrato de donepezila é cerca de 1000 vezes mais potente como inibidor dessa enzima em
+comparação a butirilcolinesterase, uma enzima que está presente principalmente fora do sistema nervoso
+central (SNC).
+Farmacologia clínica
+As teorias atuais sobre a etiologia patológica dos sinais cognitivos e dos sintomas da doença de Alzheimer
+atribuem alguns deles a uma deficiência da neurotransmissão colinérgica. Acredita-se que o cloridrato de
+donepezila exerça sua ação terapêutica incrementando a função colinérgica. Isto se dá com o aumento da
+concentração da acetilcolina através da inibição reversível da hidrólise pela acetilcolinesterase. Não há
+comprovação de que a donepezila mude o curso do processo de demência subjacente.
+Farmacocinética
+Absorção: os níveis plasmáticos máximos são atingidos aproximadamente 3 a 4 horas após a administração
+oral de 5 mg e 10 mg comprimidos revestidos. As concentrações plasmáticas e a AUC aumentaram de forma
+proporcional à dose. A meia-vida de distribuição terminal é de aproximadamente 70 horas. Assim, a
+administração de doses únicas diárias múltiplas resulta em aproximação gradativa do estado de equilíbrio. O
+estado de equilíbrio é atingido em 2-3 semanas após o início da terapia. Uma vez atingido o estado de
+equilíbrio, as concentrações plasmáticas do cloridrato de donepezila e a atividade farmacodinâmica
+relacionada mostram pouca variabilidade em relação ao decorrer do dia.
+Os alimentos não alteraram a absorção do cloridrato de donepezila.
+Distribuição: a donepezila apresenta taxa de ligação a proteínas plasmáticas humanas de 95%. Em um estudo
+de equilíbrio de massa conduzido em homens voluntários saudáveis, 240 h após a administração de uma dose
+única de 5 mg de cloridrato de donepezila marcado com 14C, aproximadamente 28% do fármaco marcado
+permaneceu não recuperado. Isso indica que a donepezila e/ou seus metabólitos podem persistir no organismo
+por mais de 10 dias.
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 4
+18/Dez/2024
+Metabolismo: os metabólitos mais importantes da donepezila são o M1 e o M2 (via O-desalquilação e
+hidroxilação), o M11 e o M12 (via glicuronidação do M1 e do M2, respectivamente), o M4 (via hidrólise) e o
+M6 (via N-oxidação).
+Eliminação: a via predominante de eliminação da donepezila inalterada e seus metabólitos é renal, uma vez
+que 79% da dose recuperada foi encontrada na urina e os 21% restantes nas fezes. O fármaco-mãe
+(donepezila) é o produto de eliminação predominante na urina.
+As concentrações plasmáticas da donepezila diminuíram com meia-vida de aproximadamente 70 horas. Sexo,
+raça e história de tabagismo não influenciaram de modo clinicamente significativo as concentrações
+plasmáticas da donepezila. A farmacocinética da donepezila ainda não foi formalmente estudada em pacientes
+com doença de Alzheimer. No entanto, os níveis plasmáticos médios dos pacientes foram bem próximos dos
+observados em voluntários saudáveis. Dentro da variação de peso corpóreo de 50 a 110kg, o clearance
+aumentou de 7,77L/h para 14,04 L/h, com valor de 10L/h para indivíduos com 70Kg.
+Dados de Segurança Pré-Clínicos
+Geral: Extensos testes em animais experimentais demonstraram que cloridrato de donepezila causa alguns
+efeitos adicionais aos efeitos farmacológicos previstos com a sua ação como inibidor de colinesterase.
+Mutagenicidade: O cloridrato de donepezila não é genotóxico em mutação reversa bacteriana e ensaios de
+linfoma tk de camundongo. Em ensaios in vitro de aberração cromossômica, alguns efeitos clastogênicos
+foram observados em concentrações abertamente tóxicas para as células e 3000 vezes maior que as
+concentrações plasmáticas no estado de equilíbrio por 10 mg/dia. No entanto, nenhum potencial clastogênico
+foi observado no modelo de micronúcleos de camundongos in vivo e não foram observados danos no DNA em
+ensaios in vivo/in vitro UDS. Em resumo, a donepezila foi negativa numa bateria de ensaios de
+genotoxicidade (mutação bacteriana reversa in vitro, linfoma tk de camundongo in vitro, aberração
+cromossômica in vitro e micronúcleos em camundongos in vivo).
+Carcinogenicidade: Não há evidência de potencial efeito carcinogênico através de resultados de um estudo
+de carcinogenicidade de 88 semanas de cloridato de donepezila conduzido em camundongos CD-1 em doses
+de até 180 mg/kg/dia (aproximadamente 39 vezes a dose máxima estudada em humanos (23 mg/dia), ou no
+estudo de carcinogenicidade de 104 semanas em ratos Sprague Dawley com doses de até 30 mg/kg/dia
+(aproximadamente 13 vezes a dose máxima recomendada em humanos com base em mg/m2).
+Fertilidade: A administração de cloridrato de donepezila em machos e fêmeas, antes e durante o
+acasalamento, e continuando na fêmea através de implante, não mostrou efeito na fertilidade nas doses
+maiores que 10 mg/kg/dia (aproximadamente 4 vezes a dose máxima estudada em humano (23 mg/dia) em
+base mg/m2). O cloridrato de donepezila não foi teratogênico em ratos e coelhos. O cloridrato de donepezila
+teve um pequeno efeito sobre os natimortos e a sobrevivência dos filhotes quando administrados em ratas
+gravidas em doses de ate 10 mg/kg/dia (vide item 5. Advertências e Precauções - Gravidez).
+4.CONTRAINDICAÇÕES
+Eranz® está contraindicado em pacientes com conhecida hipersensibilidade ao cloridrato de donepezila,
+derivados de piperidina ou qualquer excipiente usado na formulação.
+5.ADVERTÊNCIAS E PRECAUÇÕES
+Advertências
+Anestesia: Eranz®, como um inibidor da colinesterase, pode exacerbar o relaxamento muscular tipo
+succinilcolina durante anestesia (vide item 6. Interações Medicamentosas).
+Condições cardiovasculares: devido a sua ação farmacológica, os inibidores da colinesterase podem ter
+efeitos vagotônicos sobre a frequência cardíaca (p.ex., bradicardia). O potencial desta ação pode ser
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 5
+18/Dez/2024
+particularmente importante em pacientes com alteração do nó sinoatrial ou outras de condução cardíaca
+supraventricular, como bloqueio sinoatrial e atrioventricular.
+Condições gastrintestinais: os colinomiméticos podem promover produção ácida gástrica. Portanto, os
+pacientes devem ser cuidadosamente monitorados quanto a sintomas de sangramento gastrintestinal ativo ou
+ocultos, especialmente aqueles com maior risco de desenvolver úlceras, p.ex. aqueles com história de doença
+ulcerosa ou recebendo drogas anti-inflamatórias não esteroides concomitantes (AINEs). Estudos clínicos de
+Eranz® em doses de 5 mg/dia a 10mg/dia não demonstraram aumento, em relação ao placebo, na incidência de
+doença ulcerosa péptica ou sangramento gastrintestinal.
+Eranz®, como consequência previsível de suas propriedades farmacológicas, pode produzir diarreia, náusea e
+vômito. Quando esses efeitos ocorrem, aparecem com mais frequência na dose de 10 mg/dia do que na dose
+de 5 mg/dia.
+Na maioria dos casos, esses efeitos têm sido leves e transitórios, algumas vezes durando de 1 a 3 semanas, e
+têm se resolvido com o uso continuado de Eranz®. Os pacientes devem ser cuidadosamente observados no
+início do tratamento e após o aumento da dose.
+Perda de peso
+Em um estudo de pacientes com nível moderadamente grave a grave de doença de Alzheimer, 2,5% dos
+pacientes que permaneceram com dose diária de 10 mg/dia apresentaram perda de peso, sendo que 4,9%
+desses pacientes tiveram uma diminuição de peso ≥7% em comparação ao seu peso base, no final do estudo.
+Condições neurológicas: acredita-se que os colinomiméticos tenham certo potencial para causar convulsões
+generalizadas. Entretanto, tal situação pode ser também uma manifestação da doença de Alzheimer.
+Condições pulmonares: devido a suas ações colinomiméticas, os inibidores da colinesterase devem ser
+prescritos com cuidado a pacientes com história de asma ou doença pulmonar obstrutiva.
+Síndrome Neuroléptica Maligna (SNM): existem casos muito raros de relatos pós-comercialização de
+síndrome neuroléptica maligna (SNM) em pacientes tratados com Eranz® com ou sem medicamentos
+antipsicóticos concomitantes. SNM é uma condição potencialmente fatal caracterizada por hipertermia,
+rigidez muscular, instabilidade autonômica (por ex. pulso ou pressão sanguínea irregular, taquicardia,
+diaforese e disritmia cardíaca), consciência alterada e elevação dos níveis séricos de creatinofosfoquinase
+(CPK). Sinais adicionais podem incluir mioglobinúria (rabdomiólise) e insuficiência renal aguda. Se um
+paciente desenvolver sinais e sintomas indicativos de SNM, ou apresentar febre alta inexplicável na ausência
+de manifestações clínicas adicionais de SNM, a terapia com Eranz® deve ser descontinuada.
+Efeitos musculoesqueléticos: raros casos de rabdomiólise (incluindo insuficiência renal aguda) foram
+relatados em pacientes tratados com Eranz®, particularmente nos dias após o início da dose e aumento da
+dose. A maioria destes casos ocorreu independente da ocorrência de síndrome neuroléptica maligna (SNM).
+Os pacientes devem ser cuidadosamente monitorados para dor, sensibilidade ou fraqueza muscular e,
+escurecimento da urina, particularmente se acompanhado de mal-estar e febre. Os níveis sanguíneos de
+creatinofosfoquinase (CPK) devem ser avaliados nos pacientes que apresentam estes sintomas. A terapia com
+Eranz® deve ser descontinuada se forem medidos níveis acentuadamente elevados de CPK e/ou se o paciente
+desenvolver sinais e sintomas indicativos de rabdomiólise. Embora a decisão de descontinuar Eranz® deva ser
+baseada na avaliação clínica do médico que acompanha o paciente, na maioria dos casos, a terapia deve ser
+interrompida quando os níveis de CPK forem iguais ou superiores a 5 vezes o limite superior. Deve-se ter
+cuidado particularmente na prescrição de Eranz® a pacientes com fatores de pré-disposição/risco tais como
+histórico de distúrbios musculares, hipotireoidismo não controlado, insuficiência hepática ou renal e, em
+pacientes que receberam concomitantemente medicamentos que podem causar rabdomiólise (por ex. estatinas,
+antipsicóticos, inibidores seletivos de recaptação de serotonina/inibidores de recaptação de serotonina e
+noradrenalina).
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 6
+18/Dez/2024
+Fertilidade, Gravidez e Lactação
+Gravidez
+Os estudos, para avaliar o potencial teratogênico, conduzidos em ratas prenhes nas doses até cerca de 35 vezes
+a dose humana (com base no peso corpóreo) e em coelhas prenhes nas doses até aproximadamente 22 vezes a
+dose humana máxima testada (23 mg/dia) não revelaram evidências de potencial teratogênico. No entanto, em
+um estudo no qual ratas prenhes receberam aproximadamente 22 vezes a dose humana do dia 17 da gestação
+ao dia 20 pós-parto, houve pequeno aumento de natimortos e pequena diminuição da sobrevida dos filhotes
+até o dia 4 pós-parto. Não foi observado efeito na dose seguinte mais baixa testada, aproximadamente 6,5
+vezes a dose humana.
+Não há estudos adequados ou bem controlados em mulheres grávidas. O cloridrato de donepezila deve ser
+usado durante a gravidez apenas se os benefícios potenciais justificarem os riscos potenciais ao feto.
+Eranz® é um medicamento classificado na categoria C de risco de gravidez. Portanto, este medicamento
+não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+Lactação
+Não se sabe se o cloridrato de donepezila é excretado no leite humano e não existem estudos em mulheres
+lactantes.
+O uso deste medicamento no período da lactação depende da avaliação e acompanhamento do seu
+médico.
+Efeitos sobre a capacidade de dirigir veículos e operar máquinas
+A demência ode causar comprometimento do desempenho da capacidade de dirigir veículos ou operar
+máquinas. Além disso, o cloridrato de donepezila pode causar fadiga, tontura e cãibras musculares,
+principalmente ao iniciar ou aumentar a dose.
+O uso deste medicamento pode causar tontura, desmaios ou perda da consciência, expondo o paciente a
+quedas ou acidentes.
+Oriente seu paciente a não dirigir veículos ou operar máquinas durante todo o tratamento, pois sua
+habilidade e capacidade de reação podem estar prejudicadas.
+Atenção: contém lactose. Este medicamento não deve ser usado por pessoas com síndrome de má-
+absorção de glicose-galactose.
+Aplicável para Eranz® 5 mg:
+Atenção: Contém o corante dióxido de titânio que pode, eventualmente, causar reações alérgicas.
+Aplicável para Eranz® 10 mg:
+Atenção: Contém os corantes dióxido de titânio e óxido férrico amarelo sintético, que podem,
+eventualmente, causar reações alérgicas.
+6.INTERAÇÕES MEDICAMENTOSAS
+Deve-se evitar a administração do cloridrato de donepezila concomitantemente a outros inibidores da
+colinesterase.
+O cloridrato de donepezila e seus metabólitos não inibem o metabolismo da teofilina, varfarina, cimetidina,
+digoxina, tioridazina, risperidona e sertralina em humanos. O metabolismo do cloridrato de donepezila não é
+alterado pela administração concomitante de digoxina, cimetidina, tioridazina, risperidona e sertralina. Em um
+estudo em pacientes com doença de Parkinson que receberam tratamento ideal com l-dopa/carbidopa, a
+administração do cloridrato de donepezila por 21 dias não teve efeitos sobre os níveis sanguíneos da l-dopa ou
+da carbidopa. Nesse estudo, não foram observados efeitos sobre a atividade motora. Os estudos in vitro
+demonstraram que a isoenzima 3A4 do citocromo P450 e, em menor grau, a 2D6 estão envolvidas no
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 7
+18/Dez/2024
+metabolismo da donepezila. Os estudos de interação medicamentosa realizados in vitro demonstram que o
+cetoconazol e a quinidina, inibidores conhecidos da CYP3A4 e da CYP2D6, respectivamente, inibem o
+metabolismo da donepezila. Portanto, esses e outros inibidores da CYP3A4, como o itraconazol e a
+eritromicina, e os inibidores da CYP2D6, como a fluoxetina, poderiam inibir o metabolismo da donepezila.
+Em um estudo em voluntários saudáveis, o cetoconazol aumentou as concentrações médias da donepezila em
+cerca de 30%. Esses aumentos são menores que os provocados pelo cetoconazol para outros agentes que
+utilizam a mesma via da CYP3A4. A administração da donepezila não tem efeito sobre a farmacocinética do
+cetoconazol.
+Com base em estudos in vitro, a donepezila demonstra pequena ou nenhuma evidência de inibição direta da
+CYP2B6, CYP2C8 e CYP2C19 em concentrações clinicamente relevantes.
+Os indutores enzimáticos como a rifampicina, a fenitoína, a carbamazepina e o álcool, podem reduzir os
+níveis de donepezila. Como a magnitude do efeito indutor ainda é desconhecida, essas associações
+medicamentosas devem ser usadas com cautela. O cloridrato de donepezila tem potencial para interferir com
+medicamentos com ação anticolinérgica. Também há potencial para atividade sinérgica com o tratamento
+concomitante com medicamentos como a succinilcolina e outros bloqueadores neuromusculares, mas um
+estudo in vitro demonstrou que o cloridrato de donepezila apresenta efeitos mínimos sobre a hidrólise da
+succinilcolina. Também existe potencial para ação sinérgica com agonistas colinérgicos ou betabloqueadores
+que apresentam efeitos sobre a condução cardíaca.
+A donepezila não demonstrou ser substrato da glicoproteína-P em um estudo in vitro.
+7.CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Eranz® deve ser armazenado em temperatura ambiente (de 15 °C a 30 °C) e pode ser utilizado por 36 meses a
+partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+Características físicas e organolépticas:
+Eranz® 5 mg: comprimidos revestidos, redondos, biconvexos de cor branca, gravados com “5”.
+Eranz® 10 mg: comprimidos revestidos, redondos, biconvexos de cor amarela, gravados com “10”.
+8.POSOLOGIA E MODO DE USAR
+Modo de usar
+Eranz® deve ser administrado por via oral.
+Posologia
+Adultos/Idosos
+Eranz® deve ser tomado por via oral, uma vez por dia. As doses clinicamente eficazes são 5 e 10 mg nos
+pacientes com doença leve a moderadamente grave. A dose de 10 mg é a dose clinicamente eficaz nos
+pacientes com doença moderadamente grave a grave. A dose inicial é de 5 mg/dia e pode ser aumentada para
+10 mg/dia após 4 a 6 semanas.
+Tratamento de manutenção
+O tratamento de manutenção pode ser mantido enquanto houver benefício terapêutico para o paciente.
+Com a descontinuação do tratamento, observa-se diminuição gradativa dos efeitos benéficos de Eranz®. Não
+há evidências de efeito rebote ou de abstinência após a descontinuação repentina da terapia.
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 8
+18/Dez/2024
+Insuficiência renal
+Os pacientes com insuficiência renal podem seguir um esquema posológico semelhante porque o clearance do
+cloridrato de donepezila não é significativamente alterado por essa condição.
+Insuficiência hepática
+Os pacientes com insuficiência hepática leve a moderada podem seguir um esquema posológico semelhante
+porque o clearance do cloridrato de donepezila não é significativamente alterado por essa condição.
+Pacientes pediátricos
+Não existem estudos adequados e bem controlados para documentar a segurança e a eficácia de Eranz® em
+qualquer tipo da doença que ocorre em crianças.
+Dose Omitida
+Caso o paciente se esqueça de utilizar Eranz® no horário estabelecido, deve fazê-lo assim que lembrar.
+Entretanto, se já estiver perto do horário de administrar a próxima dose, deve desconsiderar a dose esquecida e
+utilizar a próxima. Neste caso, o paciente não deve utilizar a dose duplicada para compensar doses esquecidas. O
+esquecimento de dose pode comprometer a eficácia do tratamento.
+Este medicamento não deve ser partido, aberto ou mastigado.
+9.REAÇÕES ADVERSAS
+Estudos Clínicos
+Doença de Alzheimer leve a moderadamente grave
+Os eventos adversos mais comuns (frequência ≥ 5% e duas vezes a frequência de placebo em pacientes
+recebendo 10 mg/dia) foram: diarreia, câimbra, fadiga, náusea, vomito e insônia (Tabela 2).
+Outras reações adversas comuns (frequência ≥ 5% e ≥ placebo) foram: cefaleia, dor, acidente, resfriado
+comum, distúrbio abdominal e vertigem. Casos de sincope, bradicardia, bloqueio sinoatrial, bloqueio
+atrioventricular e hipocalemia foram observados. Não foram observadas anormalidades relevantes nos valores
+laboratoriais associados ao tratamento, com exceção dos pequenos aumentos das concentrações séricas de
+creatinofosfoquinase muscular.
+Tabela 2. Eventos adversos relatados nos estudos clínicos controlados em no mínimo 2% dos pacientes
+com doença de Alzheimer leve a moderadamente grave em uso de cloridrato de donepezila e com
+frequência mais alta que no grupo placebo.
+SISTEMA CORPÓREO/EVENTO ADVERSO donepezila placebo
+(n=747) % (n=355) %
+Porcentagem de pacientes com algum evento adverso 74 72
+Corpo como um todo
+Cefaleia 10 9
+Dor, vários locais 9 8
+Acidentes 7 6
+Fadiga 5 3
+Sistema cardiovascular
+Síncope 2 1
+Sistema digestivo
+Náusea 11 6
+Diarreia 10 5
+Vômitos 5 3
+Anorexia 4 2
+Sistema musculoesquelético
+Cãibras 6 2
+Sistema nervoso
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 9
+18/Dez/2024
+Insônia 9 6
+Tontura 8 6
+Sintomas psiquiátricos
+Sonhos anormais 3 0
+*Dados de donepezila dos grupos de 5 mg e 10 mg combinados.
+Doença de Alzheimer grave
+Os eventos adversos mais comuns (frequência > 5% e duas vezes mais frequente que placebo) são: diarreia,
+náuseas e agressividade (Tabela 3).
+Tabela 3. Eventos adversos relatados nos estudos clínicos controlados em no mínimo 5% dos pacientes
+com doença de Alzheimer grave em uso de cloridrato de donepezila e com frequência mais alta que no
+grupo placebo.
+SISTEMA CORPÓREO/EVENTO ADVERSO donepezila placebo
+(n=573 randomizados)a % (n=465) %
+Número total de pacientes com eventos adversos 80,8 74,0
+(todas as causas)
+Diarreia 10,3 4,1
+Queda 10,1 8,8
+Infecção do trato urinário 8,2 7,1
+Nasofaringite 8,2 6,2
+Vômito 7,5 3,9
+Agitação 6,3 6,5
+Náusea 5,6 2,6
+Cefaleia 5,1 3,0
+Agressão 5,1 2,4
+a n=477 pacientes randomizados para 10 mg, n=96 pacientes randomizados para 5 mg
+Experiência pós-comercialização
+Existem relatos pós-comercialização de alucinações, agitação, comportamento agressivo, convulsão, hepatite,
+úlcera gástrica, úlcera duodenal, hemorragia gastrintestinal, rabdomiólise e síndrome neuroléptica maligna
+(SNM).
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Dados de Estudos em Animais
+As doses letais medianas estimadas ou a dose letal do cloridrato de donepezila após a administração de uma
+dose única oral em camundongos, ratos e cães é de 45, 32 e 15 mg/kg, respectivamente, ou aproximadamente
+98, 70 e 33 vezes a dose humana estudada máxima de 23 mg por dia. Foi observado em animais sinais de
+estímulo colinérgico relacionados à dose que incluíram movimento espontâneo reduzido, posição ventral,
+marcha cambaleante, lacrimejamento, convulsões clônicas, depressão respiratória, salivação, miose,
+fasciculação, tremores e diminuição da temperatura da superfície corpórea.
+Sintomas da Superdose
+A superdose com inibidores da colinesterase pode resultar em crise colinérgica caracterizada por náusea
+grave, vômitos, salivação, sudorese, bradicardia, hipotensão, depressão respiratória, colapso e convulsões.
+Existe a possibilidade de aumento da fraqueza muscular, que pode resultar em óbito se os músculos
+respiratórios forem envolvidos.
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 10
+18/Dez/2024
+Tratamento
+Como em qualquer caso de superdose, medidas gerais de suporte devem ser adotadas. Os anticolinérgicos
+terciários, como a atropina, podem ser eficazes na superdose com o cloridrato de donepezila. Não se sabe se o
+cloridrato de donepezila e/ou seus metabólitos podem ser removidos por diálise (hemodiálise, diálise
+peritoneal ou hemofiltração).
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 11
+18/Dez/2024
+III – DIZERES LEGAIS
+Registro: 1.2110.0106
+Produzido por:
+Fareva Amboise
+Amboise – França
+Importado por:
+Pfizer Brasil Ltda.
+Rodovia Presidente Castelo Branco, nº 32501, km 32,5
+CEP 06696-000 – Itapevi – SP
+Registrado por:
+Pfizer Brasil Ltda.
+Rua Alexandre Dumas, 1.860
+CEP 04717-904 – São Paulo – SP
+CNPJ nº 61.072.393/0001-33
+Sob licença de: Eisai Co., Ltd. – Tóquio – Japão
+VENDA SOB PRESCRIÇÃO – COM RETENÇÃO DA RECEITA
+ERZCOR_15
+LLD_Bra_CDSv11.0_01Mar2018_CanPM_05Dec2024_v1_ ERZCOR_15_VPS 12
+18/Dez/2024
+HISTÓRICO DE ALTERAÇÕES DE BULA
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do N°. do Data do N°. do Data de Versões
+Assunto Assunto Itens de bula Apresentações relacionadas
+expediente expediente expediente expediente aprovação (VP/VPS)
+27/02/2025 MEDICAMENTO 27/02/2025 MEDICAMENTO 19/02/2025 • ADVERTÊNCIAS E PRECAUÇÕES VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação • REAÇÕES ADVERSAS INC X 28
+de Alteração de Texto de Alteração de Texto • O QUE DEVO SABER ANTES DE 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 USAR ESTE MEDICAMENTO? INC X 28
+07/08/2024 1075082242 MEDICAMENTO 07/08/2024 1075082242 MEDICAMENTO 07/08/2024 • O QUE DEVO SABER ANTES DE VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação USAR ESTE MEDICAMENTO? INC X 28
+de Alteração de Texto de Alteração de Texto • ONDE, COMO E POR QUANTO 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 TEMPO POSSO GUARDAR ESTE INC X 28
+MEDICAMENTO?
+• ADVERTÊNCIAS E PRECAUÇÕES
+• CUIDADOS DE ARMAZENAMENTO
+DO MEDICAMENTO
+• DIZERES LEGAIS
+03/03/2023 0213034239 MEDICAMENTO 03/03/2023 0213034239 MEDICAMENTO 03/03/2023 • DIZERES LEGAIS VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação INC X 28
+de Alteração de Texto de Alteração de Texto 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 INC X 28
+23/11/2020 4131515204 MEDICAMENTO 23/11/2020 4131515204 MEDICAMENTO 23/11/2020 • REAÇÕES ADVERSAS VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação INC X 28
+de Alteração de Texto de Alteração de Texto 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 INC X 28
+09/04/2020 1079748203 MEDICAMENTO 09/04/2020 1079748203 MEDICAMENTO 09/04/2020 • RESULTADOS DE EFICÁCIA VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação • CARACTERÍSTICAS INC X 28
+de Alteração de Texto de Alteração de Texto FARMACOLÓGICAS 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 • ADVERTÊNCIAS E PRECAUÇÕES INC X 28
+• INTERAÇÕES MEDICAMENTOSAS
+• POSOLOGIA E MODO DE USAR
+• REAÇÕES ADVERSAS
+• COMO DEVO USAR ESTE
+MEDICAMENTO?
+29/10/2019 2624565195 MEDICAMENTO 29/10/2019 2624565195 MEDICAMENTO 29/10/2019 • DIZERES LEGAIS VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação • REAÇÕES ADVERSAS INC X 28
+de Alteração de Texto de Alteração de Texto 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 INC X 28
+ERZCOR_15
+19/10/2016 2404923169 MEDICAMENTO 01/07/2016 2021993168 7219 – Pedido de 19/09/2016 • DIZERES LEGAIS VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação retificação de TRANS X 28
+de Alteração de Texto publicação – Empresa 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 TRANS X 28
+08/09/2016 2262608165 MEDICAMENTO 08/09/2016 2262608165 MEDICAMENTO 08/09/2016 • APRESENTAÇÕES VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação • COMPOSIÇÃO TRANS X 28
+de Alteração de Texto de Alteração de Texto • O QUE DEVO SABER ANTES DE 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 USAR ESTE MEDICAMENTO? TRANS X 28
+• COMO DEVO USAR ESTE
+MEDICAMENTO?
+• O QUE DEVO FAZER QUANDO EU
+ME ESQUECER DE USAR ESTE
+MEDICAMENTO?
+• QUAIS OS MALES QUE ESTE
+MEDICAMENTO PODE CAUSAR?
+• O QUE FAZER SE ALGUÉM USAR
+UMA GRANDE QUANTIDADE
+DESTE MEDICAMENTO DE UMA SÓ
+VEZ?
+• RESULTADOS DE EFICÁCIA
+• CARACTERÍSTICAS
+FARMACOLÓGICAS
+• ADVERTÊNCIAS E PRECAUÇÕES
+• POSOLOGIA E MODO DE USAR
+• REAÇÕES ADVERSAS
+• SUPERDOSE
+13/02/2015 0142363151 MEDICAMENTO 13/02/2015 0142363151 MEDICAMENTO 13/02/2015 • COMO ESTE MEDICAMENTO VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação FUNCIONA? TRANS X 7
+de Alteração de Texto de Alteração de Texto • O QUE DEVO SABER ANTES DE 5 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 USAR ESTE MEDICAMENTO? TRANS X 28
+• ONDE, COMO E POR QUANTO 10 MG COM REV CT BL AL PLAS
+TEMPO POSSO GUARDAR ESTE TRANS X 28
+MEDICAMENTO?
+• QUAIS OS MALES QUE ESTE
+MEDICAMENTO PODE CAUSAR?
+• O QUE FAZER SE ALGUÉM USAR
+UMA GRANDE QUANTIDADE
+DESTE MEDICAMENTO DE UMA SÓ
+VEZ?
+• INDICAÇÕES
+• RESULTADOS DE EFICÁCIA
+• ADVERTÊNCIAS E PRECAUÇÕES
+• INTERAÇÕES MEDICAMENTOSAS
+• CUIDADOS DE ARMAZENAMENTO
+DO MEDICAMENTO
+• REAÇÕES ADVERSAS
+ERZCOR_15
+12/02/2015 0135189153 MEDICAMENTO 12/02/2015 0135189153 MEDICAMENTO 12/02/2015 • APRESENTAÇÕES VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação • COMPOSIÇÃO TRANS X 7
+de Alteração de Texto de Alteração de Texto • ADVERTÊNCIAS E PRECAUÇÕES 5 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 • DIZERES LEGAIS TRANS X 28
+10 MG COM REV CT BL AL PLAS
+TRANS X 28
+10/10/2014 0910329145 MEDICAMENTO 09/10/2014 0910329145 MEDICAMENTO 09/10/2014 • IDENTIFICAÇÃO DO VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação MEDICAMENTO TRANS X 28
+de Alteração de Texto de Alteração de Texto • ONDE, COMO E POR QUANTO 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 TEMPO POSSO GUARDAR ESTE TRANS X 28
+MEDICAMENTO?
+• QUAIS OS MALES QUE ESTE
+MEDICAMENTO PODE CAUSAR
+• ADVERTÊNCIAS E PRECAUÇÕES
+• CUIDADOS DE ARMAZENAMENTO
+DO MEDICAMENTO
+• REAÇÕES ADVERSAS
+• DIZERES LEGAIS
+12/09/2013 0770525135 MEDICAMENTO 12/09/2013 0770525135 MEDICAMENTO 12/09/2013 • RESULTADOS DE EFICÁCIA VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Notificação NOVO – Notificação • DIZERES LEGAIS TRANS X 28
+de Alteração de Texto de Alteração de Texto 10 MG COM REV CT BL AL PLAS
+de Bula – RDC 60/12 de Bula – RDC 60/12 TRANS X 28
+11/04/2013 0274529131 MEDICAMENTO 11/04/2013 0274529131 MEDICAMENTO • Versão inicial VP/VPS 5 MG COM REV CT BL AL PLAS
+NOVO – Inclusão NOVO – Inclusão TRANS X 28
+Inicial de Texto de Inicial de Texto de 10 MG COM REV CT BL AL PLAS
+Bula – RDC 60/12 Bula – RDC 60/12 TRANS X 28
+ERZCOR_15

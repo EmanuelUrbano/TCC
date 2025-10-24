@@ -1,0 +1,63 @@
+INDICAÇÕES O radiofármaco preparado a partir do DISI-TEC é indicado para cintilografia do sistema hepatobiliar para
+investigação de síndromes de dor funcional biliar em crianças e adultos; coleocistite aguda; variantes de dor
+no quadrante superior; vazamento de bile; hiperbilirrubinemia neonatal; avaliação da circulação biliar-
+entérica; avaliação de transplante hepático; avaliação de cistos no colédoco; cálculo da fração de ejeção da
+vesícula; avaliação funcional do fígado anterior à hepatectomia; demonstração de lobulação anômala do
+fígado; avaliação de refluxo enterogástrico; disfunção do esfíncter de Oddi.
+2. RESULTADOS DE EFICÁCIA
+Estudos clínicos multicêntricos envolvendo centenas de pacientes foram realizados com a disofenina (99m
+Tc) para cintilografia do sistema hepatobiliar sob diversas condições.
+A cintilografia hepatobiliar com disofenina (99m Tc) demonstrou ser uma técnica não-invasiva útil para
+avaliação de pacientes com suspeita de disfunção do esfíncter de Oddi e com fibrose cística; para diagnóstico
+de obstrução biliar com sensibilidade e especificidade de 93-94 e 88-97 %, respectivamente; para diagnóstico
+de carcinoma hepatocelular, com captação por 70 % dos tumores bem diferenciados, 30 % dos tumores
+moderadamente diferenciados e nenhum dos tumores pouco diferenciados.
+A cintilografia de vias biliares é eficaz na diferenciação de colestase intra-hepática e dano ao hepatócito,
+sendo que os critérios cintilográficos de captação da disofenina (99m Tc) foram eficazes na diferenciação
+entre dano ao hepatócito de baixo e alto grau com p < 0,0001 e os critérios de excreção foram eficazes na
+diferenciação entre colestase de baixo e alto grau com p < 0,002.
+A técnica com o radiofármaco apresenta 96 % de sensibilidade, 56 % de especificidade, 69 % de valor
+preditivo positivo, 93 % de valor preditivo negativo e 76,5 % de acurácia para diagnóstico de atresia biliar
+extra-hepática em neonatos.
+1
+Referências bibliográficas
+TULCHINSKY, M. J Nucl Med Technol, v. 38, n. 4, p. 210-218, 2010; FULLARTON, G. M. Gut, v. 29, n.
+10, p. 1397-1401, 1988; CALVET, X. J Nucl Med, v. 29, n. 12, p. 1916-1920, 1988; KUNI, C. C. J Nucl
+Med, v. 32, n. 8, p. 1545-1547, 1991; FERRETTI-CISNEROS, M. C. Arq Gastroenterol, v. 32, n. 2, p. 85-
+90, 1995; SPIVAK, W. J Pediatr, v. 110, n. 6, p. 855-861, 1987; O'CONNOR, P. J. Hepatology, v. 23, n. 2,
+p. 281-287, 1996; KIM, J. S. Eur J Nucl Med, v. 27, n. 2, p. 170-175, 2000; KIM, J. S. Eur J Nucl Med Mol
+Imaging, v. 29, n. 4, p. 473-479, 2002; VON MOLL, L. K. J Nucl Med, v. 29, n. 2, p. 259-262, 1988;
+JEONG, H. J. Yonsei Med J, v. 46, n. 3, p. 394-398, 2005; XIA, C. S. Hepatobiliary Pancreat Dis Int, v. 6, n.
+2, p. 204-207, 2007; JACOBS, F. Eur J Nucl Med Mol Imaging, v. 32, n. 5, p. 581-588, 2005; SILINDIR, M.
+Journal of Pharmaceutical Sciences, v. 33, p. 109-117, 2008; UEDA, C. E. Clinical Nuclear Medicine, v. 39,
+p. 74-76, 2014; SINICATO, N. A. Journal of Immunology Research, v. 2014, p. 1-6, 2014.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+A disofenina (99m Tc) se liga fortemente às proteínas plasmáticas, minimizando o clareamento renal. O
+radiofármaco é transportado para dentro do hepatócito por um mecanismo aniônico de clareamento, de alta
+capacidade, medida por carreador. O radiofármaco é então levado para os canalículos biliares por um sistema
+de transporte ativo pela membrana e ao chegar aos canalículos biliares, o radiofármaco segue o fluxo da
+bilirrubina para a vesícula biliar, passando pelo canal cístico para o duodeno via colédoco. O fluxo relativo
+para cada um é determinado pela patenticidade dos ductos biliares, do tônus do esfíncter e Oddi e das
+pressões intralumiais. A bile é concentrada na vesícula biliar e armazenada para ser descarregada
+posteriormente no intestino. A vesícula se contrai e se esvazia em resposta a colecistoquinina endógena
+produzida e secretada pela mucosa duodenal em resposta a alimentos gordurosos ingeridos.
+Simultaneamente, a colecistoquinina relaxa o esfíncter de Oddi, permitindo que a bile passe para o intestino
+delgado.
+Propriedades Farmacocinéticas
+Dez minutos após a administração endovenosa da disofenina (99m Tc), 80 % da atividade total administrada
+se concentra no fígado e apenas 8 % ainda está presente na circulação após 30 minutos. A captação da
+disofenina (99m Tc) é facilitada por um mediador, de via aniônica orgânica não dependente de sódio, e é
+inibida por bilirrubina. Distribuição normal é vista no sangue, rins e no sistema hepatobiliar. A eliminação se
+dá predominantemente pelo glomérulo renal, com cerca de 9 % da atividade eliminada pelos rins até duas
+horas após a administração. O aumento da concentração sérica de bilirrubina promove um aumento da
+eliminação renal.
+Toxicologia
+Não foram realizados estudos a longo prazo em animais para avaliar o potencial carcinogênico ou se o
+disofenina (99m Tc) afeta a fertilidade em machos ou fêmeas. Há evidências de toxicidade reprodutiva e
+mutagenicidade em leucócitos humanos in vitro. O valor de DL50 em ratos após injeção intravenosa é de 7,8
+mg/kg.
+Dosimetria
+A solução injetável apresenta características nucleares do radioisótopo de marcação tecnécio-99m. Decai por
+transição isomérica com período de semidesintegração de 6,02 horas e emissão gama de energia de 140,5
+keV com abundância de 89%.

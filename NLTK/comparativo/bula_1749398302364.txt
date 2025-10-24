@@ -1,0 +1,69 @@
+INDICAÇÕES Transplante de coração e rim
+O everolimo é indicado para a profilaxia da rejeição de órgãos em pacientes
+adultos receptores de transplante alogênico renal ou cardíaco com risco
+imunológico baixo a moderado. No transplante de coração e rim, everolimo deve
+ser utilizado em combinação com ciclosporina para microemulsão e
+corticosteroides.
+Transplante de fígado
+O everolimo é indicado para a profilaxia da rejeição de órgãos em pacientes
+adultos receptores de transplante hepático. No transplante hepático, everolimo
+deve ser utilizado em combinação com tacrolimo e corticosteroides.
+2. RESULTADOS DE EFICÁCIA
+Página 2 de 43
+Instituto de Tecnologia em Fármacos - Farmanguinhos | Fiocruz – Avenida Comandante Guaranys,
+447 Jacarepaguá • Rio de Janeiro • RJ • Brasil • CEP 22775-903 • Tel.: +55 (21) 3348-5050
+comunicacao.far@fiocruz.br • www.far.fiocruz.br DMG-FAR-PRO-EVE-001-2024
+Transplante renal
+O everolimo em doses fixas de 1,5 mg/dia e 3 mg/dia em associação com doses
+padrões de ciclosporina para microemulsão e corticosteroides foi estudado em
+dois estudos clínicos de fase III em receptores de transplante renal “de novo”
+(B201 e B251). Como comparador foi utilizado o micofenolato de mofetila
+(MMF) na dose de 1 g duas vezes ao dia. Os desfechos coprimários compostos
+foram falha de eficácia (rejeição aguda confirmada por biópsia, perda do
+enxerto, morte ou perda de acompanhamento) no mês 6, e perda do enxerto,
+morte ou perda do acompanhamento com 12 meses. Em geral, everolimo não se
+mostrou inferior ao MMF nestes estudos. A incidência de rejeição aguda
+confirmada por biópsia no mês 6, no estudo B201 foi 21,6%, 18,2% e 23,5%
+para os grupos de everolimo 1,5 mg/dia, everolimo 3,0 mg/dia e MMF,
+respectivamente. No estudo B251, as incidências foram 17,1%, 20,1% e 23,5%
+para grupos everolimo 1,5 mg/dia, everolimo 3 mg/dia e MMF, respectivamente.
+Foi observada com maior frequência redução da função do aloenxerto com
+aumento da creatinina sérica em pacientes utilizando combinação de everolimo
+com doses plenas de ciclosporina para microemulsão do que em pacientes
+tratados com MMF. Este efeito sugere que o everolimo aumenta a
+nefrotoxicidade da ciclosporina. A análise da farmacodinâmica- concentração do
+medicamento mostrou que a função renal pode ser melhorada com a exposição
+reduzida à ciclosporina mantendo a eficácia enquanto a concentração sanguínea
+mínima de everolimo foi mantida acima de 3 ng/mL. Este conceito foi
+posteriormente confirmado em dois estudos adicionais fase III (A2306 e A2307,
+incluindo 237 e 256 pacientes, respectivamente) que avaliaram a eficácia e
+segurança de everolimo 1,5 e 3 mg por dia (dose inicial; a dose subsequente foi
+baseada na concentração mínima (C0) pretendida de ≥ 3 ng/mL) em associação
+com uma exposição reduzida à ciclosporina. Nos dois estudos, houve melhora da
+função renal sem o comprometimento da eficácia. No entanto, nestes estudos,
+não houve braço comparativo sem everolimo.
+O estudo A2309 fase III, multicêntrico, randomizado, aberto, controlado, foi
+realizado com 833 receptores de transplante renal “de novo”, que foram
+randomizados para um dos dois regimes de doses diferentes de everolimo, em
+combinação com dose reduzida de ciclosporina ou um regime padrão de
+micofenolato de sódio (MPA) + ciclosporina, e tratados por 12 meses. Todos os
+pacientes receberam terapia de indução com basiliximabe no pré-transplante e no
+dia 4 pós-transplante. Esteroides podiam ser administrados conforme necessários
+após o transplante.
+As doses iniciais dos dois grupos de everolimo foram 1,5 mg/dia e 3 mg/dia,
+duas vezes ao dia, que foram, modificadas a partir do dia 5 para manter os níveis
+sanguíneos mínimos de everolimo no alvo de 3 a 8 ng/mL e 6 a 12 ng/mL,
+respectivamente. A dose de micofenolato de sódio foi de 1,44 g/dia. As doses de
+ciclosporina foram adaptadas para manter os níveis sanguíneos mínimos no
+Página 3 de 43
+Instituto de Tecnologia em Fármacos - Farmanguinhos | Fiocruz – Avenida Comandante Guaranys,
+447 Jacarepaguá • Rio de Janeiro • RJ • Brasil • CEP 22775-903 • Tel.: +55 (21) 3348-5050
+comunicacao.far@fiocruz.br • www.far.fiocruz.br DMG-FAR-PRO-EVE-001-2024
+intervalo alvo, como mostrado na Tabela 1. Os valores reais medidos das
+concentrações sanguíneas de everolimo e ciclosporina (Co e C2) são mostrados
+na Tabela 2.
+Embora o regime de dose mais alta com everolimo tenha sido tão eficaz quanto o
+regime com dose mais baixa, a segurança em geral foi pior e, por isso, o regime
+de dose maior não é recomendado.
+O regime recomendado é o de dose mais baixa de everolimo (vide “Posologia e
+modo de usar”).

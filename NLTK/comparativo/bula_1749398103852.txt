@@ -1,0 +1,39 @@
+INDICAÇÕES A alfaepoetina (eritropoietina humana recombinante) é indicada para o tratamento de anemia
+associada à falência renal crônica, anemia em pacientes com câncer tratados com quimioterapia e
+para a mobilização de hemácias em período peri-operatório em cirurgias eletivas.
+2. RESULTADOS DE EFICÁCIA
+Foi realizado estudo clínicos, duplo-cego, durante 26 semanas, com grupo controle tratado com
+placebo, 118 pacientes anêmicos submetidos a diálise com media de hemoglobina de
+aproximadamente 7g/dL foram tratados com alfaepoetina e Placebo. Ao final do estudo, a
+hemoglobina média subiu para cerca de 11g/dl nos pacientes tratados com a alfaepoetina e
+permaneceu inalterado em pacientes que receberam Placebo.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Farmacodinâmica
+A primeira evidência da existência de um regulador da hematopoese surgiu em 1906 quando Carnot
+e De Flandre demonstraram o aumento na contagem de hemácias em coelhos normais após injeção
+de plasma de coelhos anêmicos por hemorragia (1). Quase 40 anos depois, Bondsdorff e Jalavisto
+(2) demonstraram que tal regulador era responsável apenas pelo aumento no número de hemácias
+circulantes. Dessa forma, introduziram o termo eritropoietina usado até hoje.Em 1950, Reismann
+demonstrou que hipóxia estimula a produção de eritropoietina (3). Em 1957, Jacobson e
+colaboradores relataram que o rim é o sítio de produção de eritropoietina (4). Em 1977, esta
+proteína foi purificada da urina de pacientes com anemia aplásica por Miyake et al (5), enquanto
+Jacobs et al e Lin et al (6,7) determinaram a seqüência de nucleotídeos do gen da eritropoietina em
+1985. Em 1987, Eschbach e Adamson publicaram o primeiro estudo clínico com ertiropoetina em
+pacientes renais (8). Desde então a eritropoietina tem sido usada com sucesso no tratamento da
+anemia associada ao câncer, infecção por HIV, artrite reumatóide, mielodisplasia,
+hemoglobinopatias, gravidez e pós-parto assim como na anemia do prematuro. Além disso, a
+eritropoietina pode ser utilizada como tratamento adjuvante na transfusão de sangue autólogo
+(9,10). A Eritropoietina circulante é uma glicoproteína com 165 aminoácidos e alta taxa de
+glicosilação. O grau de glicosilação da eritropoietina é muito importante visto ser o fator
+determinante no seu clearance do plasma pelo fígado (12).O Rim, em particular as células
+intersticiais peritubulares, é o principal sítio de produção de eritropoietina em adultos (13). O fígado
+é o principal sítio no feto (14). Durante hipóxia severa porém, o fígado contribui com até 33% da
+eritropoietina produzida nos animais adultos (16).
+Baixos níveis de RNA para eritropoietina foram detectados no cérebro e baço de ratos submetidos à
+hipóxia (17). Estes resultados sugerem um possível papel fisiológico adicional da eritropoietina que
+não a eritropoese visto que a barreira hemato-ecefálica no cérebro impediria que a eritropoietina
+encontrasse os progenitores na medula óssea. Eritropoietina protege os progenitores eritróides da
+morte celular programada (19), permitindo que estes proliferem e se diferenciem em eritrócitos.
+Redução na tensão de O2 é o estímulo primário à produção de eritropoietina. A eritropoietina exerce
+seu efeito através da ligação a um receptor específico. Células em um estágio intermediário entre
+CFU-E e proeritroblasto apresentam o maior número de receptores de eritropoietina (20). Os

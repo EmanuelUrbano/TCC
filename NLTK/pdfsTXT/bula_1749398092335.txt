@@ -1,0 +1,491 @@
+EPÓSIDO ®
+Blau Farmacêutica S.A.
+Solução Injetável
+20 mg/mL
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+EPÓSIDO ®
+etoposídeo
+APRESENTAÇÃO
+Solução injetável 20 mg/mL em embalagem contendo 10 frascos-ampola de 5 mL (100 mg).
+USO INTRAVENOSO
+USO ADULTO
+CUIDADO: AGENTE CITOTÓXICO
+COMPOSIÇÃO
+Cada mL da solução injetável contém:
+etoposídeo...................................................................................................................................................................20 mg
+excipientes (ácido cítrico, álcool benzílico, polissorbato 80, macrogol e álcool etílico) q.s.p. .................................. 1 mL
+I) INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EPÓSIDO ® (etoposídeo) está indicado para o tratamento de:
+- Carcinoma de pequenas células de pulmão
+- Leucemia aguda monocítica e mielomonocítica
+- Doença de Hodgkin
+- Linfoma não-Hodgkin
+- Tumores testiculares (em esquemas quimioterápicos combinados de primeira linha, com procedimentos
+cirúrgicos e/ou radioterápicos adequados) e tumores testiculares refratários (em combinação com outros agentes
+quimioterápicos adequados, em pacientes com tumores testiculares refratários que já tenham sofrido cirurgia adequada,
+tratamento quimioterápico e radioterápico).
+2. RESULTADOS DE EFICÁCIA
+O tratamento com etoposídeo como fármaco único em 307 pacientes com câncer de pulmão de pequenas células, dos
+quais 51% foram pré-tratados com várias drogas, induziu remissão em 38% dos pacientes, com 6% atingindo remissão
+completa. Estes números mostram que etoposídeo é um dos agentes mais ativos no tratamento do câncer de pulmão de
+pequenas células. De 250 pacientes com Linfoma não-Hodgkin, 86% dos quais eram pré-tratados, 36% responderam ao
+tratamento com etoposídeo, sendo que 6% alcançaram taxa de resposta completa. O tratamento com etoposídeo, como
+único medicamento, resultou em taxa de resposta de 76%, com 38% de remissões completas em pacientes com linfoma
+não-Hodgkin que não receberam tratamento prévio. Entretanto, em pacientes que receberam outras linhas de
+quimioterapia previamente, a taxa de remissão global é de apenas 29%, com somente 2 remissões completas entre 216
+tratados. Estes dados indicam que o etoposídeo é um dos mais ativos entre os agentes utilizados no tratamento de
+linfoma não-Hodgkin.
+Mournier et al conduziram um estudo fase 3, randomizado, paralelo e aberto para comparar o regime de doxorrubicina,
+bleomicina, vinblastina e dacarbazina (ABVD) com o bleomicina, etoposídeo, doxorrubicina, ciclofosfamida,
+vincristina, procarbazina e regime de prednisona (BEACOPP) em 150 pacientes com Doença de Hodgkin estágios 3 a 4,
+de baixo risco, com um IPS de 0 a 2. 68 de 77 pacientes completaram o tratamento com ABVD e 61 de 68 concluíram o
+regime BEACOPP. Os resultados indicaram que a taxa de resposta completa (CR) foi de 85% para ABVD e 90% para
+BEACOPP. O período médio de acompanhamento foi de 5,5 anos. Foram encontradas 17 recaídas, 14 no braço ABVD
+versus 3 no braço BEACOPP. A sobrevida livre de eventos (EFS) aos 5 anos foi de 62% (50; 71) versus 77% (65; 85),
+respectivamente (HR = 0,6 [0,33; 1,06], p = 0,07). A Sobrevida Livre de Progressão (PFS) aos 5 anos foi 75% (63; 83)
+versus 93% (83; 97), HR = 0,3 (0,12; 0,77), p= 0,007.
+Taxa de remissão de 36% em 90 pacientes com câncer testicular seminomatoso e não-seminomatoso foi relatada, sendo
+que todos os pacientes participantes do estudo foram pré-tratados intensivamente. Entretanto, a duração média da
+resposta, de 3 meses, foi relativamente curta.
+Bamias et al realizaram um estudo retrospectivo de longo prazo para avaliar a eficácia e segurança de 2 ciclos
+adjuvantes BEP em 142 pacientes com tumores fase 1 testicular não seminomatoso (NSGCT). Os pacientes receberam
+bleomicina, etoposídeo e cisplatina. Os resultados demonstraram que a mediana do tempo de seguimento foi de 79
+meses e o LVI foi observado em 54% (n = 77) dos pacientes que tiveram uma taxa de recaída de 1,3% (IC de 95%:
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+0,03-7). Houve apenas 1 recaída após um acompanhamento médio de 6,5 anos em 1 paciente.
+Hansen et al realizaram um estudo de 6 anos para avaliar a eficácia do regime cisplatina/etoposídeo/bleomicina (BEP)
+em 26 pacientes com neoplasia de células germinativas avançada ou recorrente após tratamento inicial com
+cisplatina/vinblastina/bleomicina (PVB). Os resultados demonstraram que entre os 26 pacientes, 6 atingiram resposta
+completa (CR) e 11 resposta parcial (PR). Oito dos 26 pacientes (31%) estavam sem doença e 7 destes (27%) ainda
+estavam vivos sem evidência de doença. Dezessete dos 26 pacientes (65,4%) obtiveram regressão durante a terapia e 1
+paciente que obteve CR morreu por leucemia não linfocítica aguda.
+A leucemia mielomonocítica aguda parece ser mais sensível ao etoposídeo do que outras formas de leucemias. As taxas
+de resposta são da ordem de 35%, com 24% de remissões completas, mas, novamente, provavelmente devido ao
+pré-tratamento intensivo, o tempo de duração da remissão foi curto (duração mediana de resposta = 3 meses). Ao todo,
+241 pacientes com leucemia não-linfocítica aguda puderam ser avaliados, com a taxa de resposta cumulativa sendo 22%
+com 10% de remissão completa.
+Em um ensaio randomizado multicêntrico, Zhang X avaliou 228 pacientes com leucemia mieloide aguda refratária ou
+recidivada que receberam regime CAG (citarabina, aclarubicina, G-CSF) de baixa dose com etoposídeo (E-CAG) ou
+sem etoposídeo (CAG). Foi avaliada a taxa completa de remissão (RC), sobrevida global (OS) e toxicidade. Os
+pacientes submetidos a E-CAG apresentaram maior taxa de RC (71,1% versus CAG 50,9%, p = 0,0002) e a
+tolerabilidade pareceu ser equivalente.
+O etoposídeo também foi associado a boas respostas em associação com outros quimioterápicos. Estudo de Noda, 2002,
+mostrou que regime de quimioterapia contendo etoposídeo, cisplatina, epirrubicina, ciclofosfamida e cisplatina
+prolongou a sobrevida global (HR = 0,69, 95% IC 0,53-0,90, p = 0,007), a sobrevida livre de progressão (HR = 0,58 IC
+95% 0,44-0,77, p <0,0001) e taxa de resposta global (RR = 1,26, IC de 95% 1,05-1,51, p = 0,01) em pacientes com
+carcinoma do pulmão de pequenas células. Entretanto, foi observado alto índice de toxicidade hematológica.
+1. H. Schmoll. Review of etoposide single-agent activity. Cancer Treatment Reviews, 1982 (9, Suppl A): 21-30.
+2. Mounier N, Brice P, Bologna S, et al. ABVD (8 cycles) versus BEACOPP (4 escalated cycles > 4 baseline):
+Final results in stage III-IVlow-risk Hodgkin lymphoma (IPS 0-2) of the LYSA H34 randomized trial. Ann Oncol
+2014;25(8):1622-8.
+3. Bamias A, Aravantinos G, Kastriotis I, et al. Report of the long-term efficacy of two cycles of adjuvant
+bleomycin/etoposide/cisplatin in patients with stage I testicular nonseminomatous germ-cell tumors (NSGCT): A risk
+adapted protocol of the Hellenic Cooperative Oncology Group. Urol Oncol 2011;29(2):189-93.
+4. Hansen SW, Daugaard G, Rorth M. Treatment of persistent or relapsing advanced germ cell neoplasms with
+cisplatin, etoposide and bleomycin. Eur J Cancer Clin Oncol 1986;22(5):595-9.
+5. Zhang X, Li Y, Zhang Y, et al. Etoposide in combination with low-dose CAG (cytarabine, aclarubicin, G- CSF)
+for the treatment of relapsed or refractory acute myeloid leukemia: A multicenter, randomized control trial in southwest
+China. Leuk Res 2013;37(6):657-64.
+6. Noda K, A et al. Irinotecan plus cisplatin compared with etoposide plus cisplatin for extensive small-cell lung
+cancer. N Engl J Med 2002; 346: 85–91.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+O etoposídeo é um agente antineoplásico, derivado semi-sintético da podofilotoxina.
+Mecanismo de ação
+O mecanismo de ação do etoposídeo não é exatamente conhecido; no entanto, este fármaco parece produzir efeitos
+citotóxicos que causam alterações do DNA, inibindo assim ou alterando a síntese do DNA. O etoposídeo parece ser
+dependente do ciclo celular e da fase cíclica específica, induzindo a suspensão da fase G2 e destruindo
+preferencialmente as células dessa fase e de fases S tardias. Foram observadas duas respostas dose-dependentes
+diferentes. As concentrações elevadas (≥ 10 μg/mL) causam lise das células em início de mitose. As baixas
+concentrações (0,3 a 10 μg/mL) inibem o início da prófase celular. Os danos induzidos ao DNA pelo etoposídeo
+parecem estar relacionados com a citotoxicidade do fármaco. O etoposídeo parece induzir, indiretamente, rupturas na
+fita única do DNA.
+Propriedades Farmacocinéticas
+Absorção
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+Após a administração intravenosa do etoposídeo, os picos das concentrações plasmáticas e as curvas da concentração
+plasmática versus tempo (ASC) mostram uma variação interindividual significativa.
+Distribuição
+A distribuição do etoposídeo nos tecidos e fluidos corporais não foi completamente caracterizada. A administração
+intravenosa do etoposídeo leva a uma rápida distribuição. O volume aparente de distribuição no estado de equilíbrio é,
+em média, de 20 a 28% do peso corporal. Após a administração intravenosa, o etoposídeo é minimamente distribuído no
+fluido pleural, tendo sido detectado na saliva, fígado, baço, rins, miométrio, tecido cerebral saudável e tecido neoplásico
+cerebral. Os estudos realizados sugerem uma distribuição mínima na bile. Desconhece-se se o etoposídeo é excretado
+no leite materno. Os estudos em animais demonstraram que o etoposídeo atravessa a placenta. O etoposídeo tem
+pequena penetração no sistema nervoso central (SNC), com concentrações do fármaco no fluido cerebrospinal oscilando
+de valores indetectáveis até menos do que 5% das concentrações plasmáticas. Dados limitados sugerem que o
+etoposídeo se distribui mais rapidamente no tecido neoplásico cerebral do que no tecido cerebral saudável. As
+concentrações de etoposídeo se mostram mais elevadas no tecido pulmonar saudável do que em metástases pulmonares,
+mas aquelas detectadas nos tumores primários do miométrio foram semelhantes às encontradas no tecido saudável do
+miométrio. In vitro , a ligação do etoposídeo às proteínas séricas é cerca de 94%, numa concentração de 10 μg/mL.
+Metabolismo
+Estudos in vitro sugerem que a ativação metabólica do etoposídeo, por oxidação, para o derivado orto-quinona pode
+desempenhar um papel essencial na sua atividade contra o DNA. Aproximadamente, 66% do etoposídeo é
+metabolizado.
+Eliminação
+Após a administração intravenosa, foi reportado um decréscimo bifásico das concentrações plasmáticas do etoposídeo;
+contudo, alguns dados indicam que o fármaco pode apresentar uma eliminação trifásica com prolongamento da fase
+terminal. Em adultos com funções renal e hepática normais, a meia-vida média do fármaco é de 0,6 a 2 horas na fase
+inicial e de 5,3 a 10,8 horas na fase terminal. Em crianças com funções renal e hepática normais, a meia-vida média é de
+0,6 a 1,4 horas na fase inicial e de 3 a 5,8 horas na fase terminal. Após 72 horas, 44% da dose administrada é excretada
+na urina, 29% como fármaco inalterado e 15% como metabólito. A eliminação nas fezes varia entre menos de 2% a
+16%, num período de 72 horas. O clearance plasmático total do etoposídeo foi relatado como variando de 19-28
+mL/minuto/m 2 nos adultos e 18-39 mL/minuto/m 2 em crianças com funções renal e hepática normais. O clearance renal
+representa aproximadamente 30-40% do clearance plasmático total. Pode ser necessário um ajuste posológico em
+pacientes com disfunção renal ou hepática.
+Dados de Segurança Pré-Clínicos
+A DL intravenosa do etoposídeo foi de 220, 82 e 49 mg/kg em camundongos, ratos e coelhos respectivamente. Em
+50
+cães, a dose máxima não letal foi ≤ 20 mg/kg. Os principais alvos após uma dose única foram o sistema
+hemolinfopoiético, o trato gastrintestinal e os testículos. Sinais leves de toxicidades hepática e renal foram observados
+em cães.
+Os efeitos tóxicos após administrações parenterais repetidas de etoposídeo foram investigados em ratos e cães. Os
+principais alvos nessas espécies foram o sistema hemolinfopoiético, o trato gastrintestinal, a bexiga urinária e os órgãos
+reprodutivos masculinos. Ao contrário do que se observa na toxicidade subaguda, nenhum efeito grave no trato
+gastrintestinal foi observado após uso crônico de doses. A maioria das alterações regrediu durante o período de
+recuperação, com exceção daquelas detectadas no trato geniturinário.
+O etoposídeo foi genotóxico em testes realizados in vitro e in vivo e tóxico aos órgãos reprodutivos masculinos. Apesar
+disso, a fertilidade não foi reduzida em ratos e etoposídeo não modificou os parâmetros gestacionais em ratas e coelhas,
+mesmo em doses que se provaram consideravelmente tóxicas para mães e fetos em ambas espécies e causaram
+malformações e anormalidades em ratos. Nenhuma toxicidade de longo prazo foi observada na geração F1 e a geração
+F2 não pareceu ser afetada pelo tratamento. Não existem dados disponíveis de estudos em animais sobre a
+carcinogenicidade do fármaco, mas etoposídeo, como outros fármacos citotóxicos, deve ser considerado potencialmente
+carcinogênico. O fármaco foi considerado destituído de qualquer potencial antigênico. Estudos específicos em
+camundongos e ratos indicam que a administração de etoposídeo em qualquer cavidade corporal revestida por
+membrana serosa deve ser evitada.
+4. CONTRAINDICAÇÕES
+EPÓSIDO ® (etoposídeo) não deve ser administrado a pacientes com insuficiência hepática grave ou com
+hipersensibilidade ao etoposídeo ou a qualquer um dos componentes do produto. Está também contraindicado a
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+pacientes com mielossupressão grave e infecções agudas. Está contraindicado na gravidez e lactação (vide item 5.
+Advertências e Precauções – Fertilidade, gravidez e lactação ) .
+5. ADVERTÊNCIAS E PRECAUÇÕES
+EPÓSIDO ® (etoposídeo) deve ser administrado por pessoal experiente no uso de quimioterapia antineoplásica.
+Efeitos hematológicos
+Agentes citotóxicos, como o EPÓSIDO ® (etoposídeo), podem produzir mielossupressão (incluindo, mas não limitado a,
+leucopenia, granulocitopenia, pancitopenia e trombocitopenia). Se radioterapia e/ou quimioterapia foi administrada
+previamente ao início do tratamento com EPÓSIDO ® (etoposídeo), um intervalo adequado deve ser proporcionado para
+permitir a recuperação da medula óssea. Se a contagem leucocitária cair abaixo de 2.000/mm 3 , o tratamento deve ser
+suspenso até que os níveis dos componentes do sangue tenham retornado a valores aceitáveis (plaquetas acima de
+100.000/mm 3 e leucócitos acima de 4.000/mm 3 ), isso acontece, geralmente, dentro de 10 dias. Hemogramas de sangue
+periférico devem ser monitorados periodicamente.
+Consequências clínicas da mielossupressão grave incluem infecções. Infecções virais, bacterianas, fúngicas e / ou
+parasitárias, localizada ou sistêmica, pode estar associada com o uso do etoposídeo sozinho ou em combinação com
+outros agentes imunossupressores. Estas infecções podem ser leves, mas podem ser graves e por vezes fatais. As
+infecções generalizadas devem ser controladas antes do início do tratamento com EPÓSIDO ® (etoposídeo).
+Infarto do miocárdio
+Foi observado infarto do miocárdio em pacientes tratados com etoposídeo como parte da quimioterapia com múltiplos
+agentes. Pacientes com história prévia de radiação mediastinal ou receptores de quimioterapias prévias podem estar em
+risco (vide item 9. Reações Adversas ) .
+Efeitos renal e hepático
+Foi demonstrado que etoposídeo atinge concentrações elevadas no fígado e nos rins, apresentando, assim, um potencial
+de acumulação em casos de insuficiências funcionais. Podem ocorrer elevações transitórias nas enzimas hepáticas e
+bilirrubina. É recomendado monitorar periodicamente as funções renais e hepáticas do paciente.
+Efeito no sistema imune
+Reações anafiláticas podem ocorrer, sendo, usualmente, responsivas à interrupção da terapia e administração de agentes
+pressóricos, corticoides, anti-histamínicos ou expansores de volume, conforme apropriado (vide item 9. Reações
+Adversas ) .
+Leucemia secundária
+A ocorrência de leucemia aguda, que pode ocorrer com ou sem uma fase pré-leucêmica, foi relatada, raramente, em
+pacientes tratados com etoposídeo em associação a outros medicamentos antineoplásicos. Nem o risco cumulativo nem
+os fatores predisponentes relacionados ao desenvolvimento da leucemia secundária são conhecidos. Os papéis dos dois
+esquemas de administração e doses cumulativas de etoposídeo foram sugeridos, mas não foram claramente definidos.
+Síndrome da lise tumoral (SLT)
+A síndrome de lise tumoral, algumas vezes fatal, tem sido relatada após o uso de etoposídeo em associação com outras
+drogas quimioterápicas. Os pacientes com alto risco de SLT, como pacientes com alta taxa proliferativa, alta carga
+tumoral e alta sensibilidade a agentes citotóxicos, devem ser monitorados rigorosamente e devem ser tomadas
+precauções apropriadas (vide item 9. Reações Adversas ).
+Extravasamento
+O etoposídeo deve ser administrado apenas por via intravenosa e não deve ser utilizado por outras vias. Deve-se tomar
+cuidado para não causar extravasamento durante a infusão. Contudo, caso ocorra extravasamento (vide item 8.
+Posologia e Modo de Usar ):
+- Interrompa a infusão ao primeiro sinal de queimadura;
+- Injete corticosteróide (hidrocortisona) na região subcutânea ao redor da lesão;
+- Aplique pomada de hidrocortisona a 1% na área afetada até o eritema desaparecer;
+- Aplique curativo seco na área afetada por 24 horas.
+Efeitos Imunossupressores /Aumento da Suscetibilidade às Infecções
+A administração de vacinas com antígenos vivos ou atenuados em pacientes imunocomprometidos por agentes
+quimioterápicos, incluindo o etoposídeo, pode resultar em infecções graves ou fatais. A vacinação com antígenos vivos
+deve ser evitada em pacientes recebendo etoposídeo. Vacinas com antígenos mortos ou inativos podem ser
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+administradas; no entanto, a resposta à vacina pode estar diminuída.
+Outros
+EPÓSIDO ® (etoposídeo) também contém álcool etílico como excipiente, o que pode constituir fator de risco em
+pacientes portadores de doença renal, alcoolismo, epilepsia e em mulheres grávidas e crianças.
+Fertilidade, Gravidez e Lactação
+Gravidez
+O etoposídeo pode causar dano fetal quando administrado a mulheres grávidas. Em estudos realizados em camundongos
+e ratos, o etoposídeo demonstrou ser teratogênico e embriotóxico, não sendo, portanto, recomendável sua administração
+a mulheres grávidas. O etoposídeo não deve ser utilizado em mulheres em idade fértil a menos que os benefícios
+esperados se sobreponham aos riscos da terapia, ou que seja utilizado um método anticoncepcional adequado. No caso
+da paciente engravidar durante o tratamento com etoposídeo, ela deverá ser advertida quanto ao risco potencial para o
+feto.
+Categoria de risco na gravidez: D
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica. Informe imediatamente
+seu médico em caso de suspeita de gravidez.
+Fertilidade
+O etoposídeo pode reduzir a fertilidade masculina. Considerando seu potencial mutagênico, o fármaco poderia induzir
+dano cromossômico em espermatozóides humanos. Portanto, homens em tratamento com EPÓSIDO® (etoposídeo)
+devem empregar medidas contraceptivas.
+Lactação
+É desconhecido se o etoposídeo é excretado no leite materno; como medida de precaução, a amamentação deve ser
+descontinuada durante a terapia com o fármaco.
+Efeitos na Habilidade de Dirigir e Operar Máquinas
+O efeito do etoposídeo na habilidade de dirigir e de operar máquinas não foi sistematicamente avaliado.
+Este medicamento contém álcool benzílico, que pode ser tóxico, principalmente para recém-nascidos e crianças
+de até 3 anos.
+Este medicamento contém álcool (etanol) e pode causar intoxicação, especialmente em crianças.
+Este medicamento pode causar hepatotoxicidade. Por isso, requer uso cuidadoso, sob vigilância médica estrita e
+acompanhado por controles periódicos da função hepática podendo ser a cada 2, 3, 4 semanas, a depender das
+condições do paciente.
+Em caso de suspeita de dengue, ou quando associado a outros medicamentos que aumentem o efeito
+hemorrágico, a prescrição deste medicamento ou a manutenção do tratamento com ele deve ser reavaliada,
+devido a seu potencial hemorrágico.
+Medicamentos imunossupressores podem ativar focos primários de tuberculose. Esteja alerta quanto à
+possibilidade de surgimento de doença ativa, tomando os cuidados para o diagnóstico precoce e tratamento.
+Informe a seu paciente que, durante tratamento, o uso de vacinas exige avaliação do profissional de saúde.
+6. INTERAÇÕES MEDICAMENTOSAS
+EPÓSIDO ® (etoposídeo) não deve ser fisicamente misturado com qualquer outro fármaco. A solução deve ser
+inspecionada quanto à presença de partículas ou descoloração antes do uso.
+A ciclosporina em altas doses, resultando em concentrações plasmáticas acima de 2.000 ng/mL, administradas com
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+etoposídeo oral levou a um aumento de 80% na exposição ao etoposídeo (ASC) com uma diminuição de 38% na
+depuração corporal total do etoposídeo em comparação ao etoposídeo isoladamente.
+A terapia concomitante com cisplatina está associada à redução do clearance corporal total do etoposídeo.
+A terapia concomitante com fenitoína está associada ao aumento do clearance do etoposídeo e redução da eficácia, e
+outras terapias antiepilépticas indutoras de enzimas podem estar associadas ao aumento do clearance do etoposídeo e
+redução da eficácia.
+A administração concomitante de varfarina e etoposídeo pode resultar no aumento da razão normalizada internacional
+(INR). O monitoramento próximo da INR é recomendado.
+A resistência cruzada entre antraciclinas e etoposídeo foi relatada em experimentos pré-clínicos.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+EPÓSIDO ® (etoposídeo), antes de diluído, deve ser conservado em temperatura ambiente entre 15°C e 30ºC. As
+soluções diluídas a 0,2 mg/mL ou 0,4 mg/mL, em glicose a 5% ou cloreto de sódio a 0,9%, são física e quimicamente
+estáveis, quando armazenadas em recipientes de plástico ou de vidro, conforme tabela abaixo.
+Tabela de estabilidade após diluição:
+Concentração da solução Solução diluente Temperatura Temperatura
+diluída 30°C 2°C - 8°C
+0,2 mg/mL Cloreto de sódio 0,9% 24 h 24 h
+0,2 mg/mL Glicose 5% 96 h 96 h
+0,4 mg/mL Cloreto de sódio 0,9% 24 h 24 h
+0,4 mg/mL Glicose 5% 96 h 96 h
+Note que, para soluções mantidas em temperatura ambiente entre 2°C e 8°C ou a 30°C, deve-se levar em consideração
+não somente a estabilidade física, mas também a esterilidade. As soluções de etoposídeo devem ser preparadas
+assepticamente.
+O medicamento é de uso único e qualquer solução não utilizada deve ser devidamente descartada.
+Prazo de validade: 36 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características físicas e organolépticas
+EPÓSIDO ® (etoposídeo) é uma solução estéril, límpida, incolor a levemente amarelada.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Monoterapia
+A dose usual de EPÓSIDO ® (etoposídeo) deve se basear na resposta clínica e hematológica e na tolerância do paciente.
+A dose deverá ser modificada em função dos efeitos mielossupressores de outros fármacos associados ou dos efeitos de
+terapia prévia com radiação ou da quimioterapia que possam ter comprometido a reserva medular. Não se deve repetir a
+dose de etoposídeo até que a função hematológica retorne a limites aceitáveis.
+EPÓSIDO ® (etoposídeo) deve ser administrado com cautela em pacientes com insuficiência hepática leve a moderada.
+Pode ser necessário ajuste posológico em pacientes com disfunção renal, uma vez que parte do etoposídeo (cerca de
+30%) é excretada inalterada pela urina (vide item Advertências e Precauções ) .
+População Adulta
+A posologia usual desse produto é de 50-60 mg/m 2 /dia por via intravenosa durante 5 dias consecutivos. A dose total não
+deve, normalmente, exceder 400 mg/m 2 por período de tratamento. A infusão deve ser administrada por um período de
+30 a 60 minutos.
+EPÓSIDO® (etoposídeo) deve ser diluído antes de sua administração. As concentrações resultantes não devem exceder
+0,4 mg/mL, porque pode ocorrer precipitação. Geralmente, o etoposídeo é adicionado a 250 mL de soro fisiológico
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+(cloreto de sódio a 0,9%) ou glicose a 5%. Contato com soluções aquosas tamponadas com pH acima de 8 deve ser
+evitado.
+Uso em Idosos
+Não é necessário ajuste da dose. Deve-se ter cautela na disfunção renal ou hepática.
+Uso em Crianças
+A segurança e a eficácia em crianças não foram estabelecidas.
+Preparo de EPÓSIDO ® 100mg/5mL para administração intravenosa
+EPÓSIDO ® (etoposídeo) é fornecido em frasco-ampola de dose única, contendo 100 mg de etoposídeo, solução
+injetável estéril.
+Técnicas assépticas devem ser utilizadas para o preparo da solução intravenosa final, conforme segue:
+1. Remova a tampa de polipropileno do tipo flip-off do frasco de EPÓSIDO ® (etoposídeo) para expor a parte central da
+tampa de borracha;
+2. Limpe o topo da tampa de borracha com algodão embebido em álcool 70% e espere secar. Após a limpeza, não toque
+na tampa de borracha ou permita que ela toque em qualquer outra superfície.
+3. Retire vagarosamente o volume corresponde a dose de EPÓSIDO ® através do centro da tampa de borracha do frasco.
+É recomendado utilizar agulha de transferência estéril de calibre 18 ou maior diâmetro e seringas do tipo "Luer-Lock"
+ajustáveis e de largo diâmetro interno para minimizar a pressão e eventual formação de "aerossol". A formação de
+"aerossol" pode ser diminuída pela utilização, durante a preparação, de agulha com vácuo.
+4. Limpe o topo da bolsa contendo a solução para infusão com algodão embebido em álcool 70% e espere secar.
+5. Transfira lentamente o líquido de EPÓSIDO ® (20 mg de etoposide/mL) a partir da seringa utilizando uma agulha
+estéril de calibre 18 ou maior diâmetro.
+6. Faça movimentos circulares suaves com a bolsa por alguns minutos, conforme necessário, até obter uma solução
+completamente homogênea.
+Observação: a fim de evitar a formação de espuma, EVITE agitar vigorosamente o bolsa de infusão durante ou após a
+transferência de EPÓSIDO ® da seringa para a bolsa.
+Administração:
+Foi relatado que os dispositivos plásticos de acrílico ou ABS (um polímero de acrilonitrila, butadieno e estireno) podem
+se romper ou vazar quando usados com o produto não diluído.
+O etoposídeo deve ser administrado lentamente por via intravenosa (normalmente durante um período de 30 a 60
+minutos), uma vez que se verificou hipotensão após administração intravenosa rápida. Períodos de infusão mais longos
+podem ser necessários, de acordo com a tolerância do paciente (vide itens Advertências e Precauções e Reações
+Adversas ).
+EPÓSIDO ® (etoposídeo) não deve ser administrado por via intrapleural ou intraperitoneal, nem por infusão
+intravenosa rápida.
+EPÓSIDO ® (etoposídeo) deve ser diluído antes de sua administração. As concentrações resultantes não devem exceder
+0,4 mg/mL, porque pode ocorrer precipitação. Geralmente, o etoposídeo é adicionado a 250 mL de soro fisiológico
+(cloreto de sódio a 0,9%) ou glicose a 5%. Contato com soluções aquosas tamponadas com pH acima de 8 deve ser
+evitado. A infusão deve ser administrada por um período de 30 a 60 minutos.
+EPÓSIDO ® (etoposídeo) é incompatível com Policloreto de vinila (PVC), portanto deve ser preparado em bolsas e
+equipos livres de PVC.
+Incompatibilidades e estabilidade
+EPÓSIDO ® (etoposídeo), antes de diluído, deve ser conservado em temperatura ambiente entre 15°C e 30ºC.
+EPÓSIDO ® (etoposídeo) não deve ser fisicamente misturado com quaisquer outros fármacos. Sempre que a solução e
+recipiente permitirem, os fármacos destinados à administração parenteral devem ser inspecionados quanto à possível
+existência de partículas e descoloração, antes de serem usados.
+Deve-se evitar o contato com soluções tampão aquosas com pH superior a 8. As estabilidades das soluções diluídas a
+0,2 mg/mL e 0,4 mg/mL em glicose a 5% ou cloreto de sódio a 0,9% estão descritas no item Cuidados de
+armazenamento do medicamento - Tabela de estabilidade após diluição .
+A apresentação desse produto com 5 mL (100 mg de etoposídeo) é para uso único. Demonstrou-se estabilidade
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+microbiológica de 24 horas em solução de cloreto de sódio 0,9% e de 96 horas em glicose a 5% após a primeira
+perfuração da tampa de borracha quando o produto é armazenado em temperatura entre 2°C e 8°C ou a 30 o C e quando o
+preparo da diluição é realizado por procedimento asséptico. Deve-se descartar o restante da solução não utilizada.
+Precauções especiais de utilização e manipulação
+As recomendações que se seguem devem-se à natureza tóxica do produto.
+Tal como acontece com todos os agentes antineoplásicos, a preparação das soluções de etoposídeo deve ser efetuada por
+pessoal treinado, numa área reservada para isso (preferencialmente, uma câmara de fluxo laminar para citotóxicos). A
+superfície de trabalho deve ser protegida por material descartável, constituído de papel absorvente com fundo plástico.
+Durante a manipulação do etoposídeo, devem ser utilizadas: bata protetora, máscara, luvas e proteção adequada dos
+olhos. No caso de contato acidental da solução com a pele ou olhos, a área atingida deve ser imediatamente lavada com
+água e sabão, procurando- se cuidados médicos em seguida.
+Não é recomendável a manipulação de agentes citotóxicos, como o etoposídeo, por mulheres grávidas.
+Recomenda-se a utilização de seringas "Luer-Lock" ajustáveis e de largo diâmetro interno para minimizar a pressão e
+eventual formação de "aerossol". A formação de "aerossol" pode ser diminuída pela utilização, durante a preparação, de
+agulha com vácuo.
+Precauções especiais para eliminação dos materiais utilizados na preparação do produto
+Os materiais utilizados na preparação das soluções de etoposídeo, ou materiais usados para proteção corporal, devem
+ser colocados num saco de polietileno duplamente selado e incinerados a 1.100°C.
+Procedimentos em caso de extravasamento
+Em caso de extravasamento, o acesso à área afetada deve ser restringido. Usar dois pares de luvas (borracha látex), uma
+máscara respiratória, uma bata protetora e óculos de segurança. Limitar a extensão do extravasamento utilizando uma
+toalha absorvente ou grânulos adsorventes. Pode-se também utilizar hidróxido de sódio a 5%. Reunir o material
+absorvente/adsorvente e outros resultantes do extravasamento e colocá-los num recipiente de plástico estanque,
+rotulando-o de acordo com o conteúdo. Os resíduos citotóxicos devem ser considerados perigosos ou tóxicos, sendo
+claramente rotulados "RESÍDUO CITOTÓXICO PARA INCINERAÇÃO A 1.100°C". Estes resíduos devem ser
+incinerados a essa temperatura durante, por pelo menos, 1 segundo. Lavar o restante da área de extravasamento com
+quantidade abundante de água (vide item Advertências e Precauções ).
+9. REAÇÕES ADVERSAS
+Distúrbios dos sistemas sanguíneo e linfático: o efeito adverso limitante da dose de etoposídeo é a mielossupressão,
+predominantemente leucopenia e trombocitopenia. Anemia ocorre frequentemente. O nadir (efeito deteriorante
+máximo) na contagem leucocitária ocorre, aproximadamente, 21 dias após o tratamento.
+Distúrbios cardíacos: infarto do miocárdio foi relatado em pacientes tratados com etoposídeo como parte da
+quimioterapia com múltiplos agentes.
+Distúrbios Oculares: cegueira cortical transitória tem sido relatada.
+Distúrbios gastrintestinais: náuseas e vômitos são as principais toxicidades gastrintestinais (GI) e ocorrem em mais de
+um terço dos pacientes. Antieméticos são úteis no controle desses efeitos colaterais. Outros efeitos infrequentes incluem
+dor abdominal, anorexia, diarreia, esofagite e estomatite. Disfagia foi relatada.
+Distúrbios Gerais e condições no local da administração: fadiga, pirexia e astenia têm sido relatadas.
+Distúrbios do sistema imune: reações anafilactóides foram relatadas após a administração de etoposídeo. As taxas
+mais altas de reações anafilactóides foram relatadas em crianças que receberam infusões em doses mais altas do que
+aquelas recomendadas. Essas reações usualmente responderam à cessação da terapia e à administração de agentes
+pressóricos, corticóides, anti-histamínicos ou expansores de volume, conforme apropriado (vide item Advertências e
+Precauções ).
+Infecções e infestações: choque séptico, sepse, sepse neutropênica, pneumonia e infecção.
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+Lesões, toxicidade e complicações processuais: fenômeno de radiação tem sido relatado.
+Distúrbios nutricionais e do metabolismo: a síndrome da lise tumoral, algumas vezes fatal, tem sido relatada após o
+uso de etoposídeo em associação com outras drogas quimioterápicas.
+Distúrbios do sistema nervoso central: foi reportada neuropatia periférica infrequentemente em pacientes tratados
+com etoposídeo. Sonolência e sabor residual também foram relatados. Convulsões foram relatadas.
+Distúrbios respiratório, torácico e mediastinal: . Tem sido descrita apneia, com retomada espontânea da respiração
+após a interrupção da infusão. Observou-se uma reação aguda fatal associada a broncoespasmo
+Distúrbios da pele e do tecido subcutâneo : foi observada alopecia em, aproximadamente, 2/3 dos pacientes e
+usualmente reversível à cessação da terapia. Rash, distúrbio na pigmentação, prurido e urticária foram relatados.
+Distúrbios vasculares: hipotensão pode ocorrer seguida de uma infusão excessivamente rápida e pode ser revertida
+pela desaceleração da taxa de infusão. Foram também relatados hipertensão e/ou rubor facial. A pressão sanguínea
+geralmente retoma os níveis normais poucas horas após o término da infusão.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Dados de superdose são limitados. Efeitos tóxicos hematológicos e gastrintestinais são esperados como as principais
+manifestações da superdose de etoposídeo. O tratamento é principalmente de suporte. Não existe antídoto conhecido.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+II) DIZERES LEGAIS
+Registro: 1.1637.0036
+Registrado por:
+Blau Farmacêutica S.A.
+CNPJ 58.430.828/0001-60
+Rodovia Raposo Tavares KM 30,5 n° 2833.
+CEP 06705-030. Cotia, SP
+www.blau.com
+Produzido por:
+Blau Farmacêutica S.A.
+CNPJ 58.430.828/0002-40
+Av. Ivo Mário Isaac Pires, 7602
+CEP 06720-480 - Cotia, SP
+USO RESTRITO A ESTABELECIMENTOS DE SAÚDE
+VENDA SOB PRESCRIÇÃO
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data de
+Data do N° do Data do N° do Versões Apresentações
+expediente expediente Assunto expediente expediente Assunto aprovação Itens de bula (VP/VPS) relacionadas
+- 10450 -
+SIMILAR
+10450 - Notificação
+SIMILAR de - Apresentação
+Notificação 12/03/2024 Alteração 12/03/2024 - Advertências e precauções 20 MG/ML SOL INJ
+12/03/2024 - de Alteração de Texto de - Posologia e modo de usar VP / VPS CT 10 FA VD INC X
+de Texto de Bula – 5 M L
+- Dizeres Legais
+Bula – RDC RDC 60/12
+60/12
+10450 -
+10450 -
+SIMILAR - Resultados de Eficácia
+SIMILAR
+- Noti - N 13/12/2019 - Contraindicações
+otificação
+ficação de - Advertências e Precauções
+13/12/2019 3446015/19-2 13/12/2019 3446015/19-2 de VP/VPS Todas
+Alteração de - Posologia e Modo de Usar
+Alteração
+Texto de - Reações Adversas
+de Texto de
+Bula – RDC - Superdose
+Bula –
+60/12
+RDC 60/12
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400
+10450 - - Contraindicações
+SIMILAR - Advertência
+– s e Precauções
+Notificação - Interações
+de Alteração Medicamentosas
+14/07/2016 - - - - - VPS Todas
+de Texto de - Cuidados de
+Bula – RDC Armazenamento do
+60/12 Medicamento
+- Dizeres Legais
+10457 –
+SIMILAR
+– Inclusão
+Inicial de 18/03/2014
+18/03/2014 - - - - Todos VP/VPS Todas
+Texto de
+Bula – RDC
+60/12
+Blau Farmacêutica S/A.
+MATRIZ | COTIA (SP)
+RODOVIA RAPOSO TAVARES, 2833 - KM 30,5. TELEFONE: (11) 4615 9400

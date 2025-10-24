@@ -1,0 +1,1254 @@
+®
+ELOXATIN
+(oxaliplatina)
+Sanofi Medley Farmacêutica Ltda.
+Solução para Diluição para Infusão
+5 mg/mL
+ELOXATIN®
+oxaliplatina
+5,0 mg/mL
+APRESENTAÇÕES
+Solução para Diluição para Infusão 50 mg: 1 frasco-ampola com 10 mL
+Solução para Diluição para Infusão 100 mg: 1 frasco-ampola com 20 mL
+USO INTRAVENOSO (IV). USO ADULTO.
+COMPOSIÇÃO
+Cada 1 mL do frasco-ampola de ELOXATIN contém:
+oxaliplatina..........................................................5,0 mg
+excipiente q.s.p. ....................................................1,0 mL
+(água para injetáveis)
+1. INDICAÇÕES
+Tratamento do câncer colorretal metastático em associação às fluoropirimidinas. ELOXATIN em combinação com 5-FU/FA
+e bevacizumabe é indicado para tratamento de primeira linha do câncer colorretal metastático. ELOXATIN está indicado
+em combinação com fluorouracil e ácido folínico (leucovorin) (5-FU/FA) para o tratamento adjuvante de câncer colorretal
+em pacientes que sofreram ressecção completa do tumor primário, reduzindo o risco de recidiva tumoral.
+Não fica indicado para os pacientes em estágio II sem características de alto risco.
+ELOXATIN em combinação com epirrubicina e 5-fluorouracil, ou em combinação com epirrubicina e capecitabina, é
+indicado para o tratamento de pacientes com câncer gástrico ou câncer da junção gastroesofágica, localmente avançado
+(inoperável) ou metastático, não tratado previamente.
+ELOXATIN em combinação com leucovorin, irinotecano e 5-fluorouracil é indicado para tratamento de primeira linha de
+tratamento de pacientes com adenocarcinoma de pâncreas metastático.
+2. RESULTADOS DE EFICÁCIA
+Em pacientes com câncer colorretal metastático, a eficácia de oxaliplatina (85 mg/m2 repetida a cada duas semanas) em
+associação com 5-fluorouracil/ácido folínico foi reportada em três estudos clínicos:
+- no tratamento de primeira linha, os 2 braços comparativos do estudo de fase III EFC2962 randomizou 420 pacientes para
+receber 5-FU/FA isolado (LV5FU2, N=210) ou para receber a associação de oxaliplatina com 5-FU/FA (FOLFOX4, N=210);
+- em pacientes pré-tratados, no estudo de fase III EFC4584, comparativo, de 3 braços, randomizou 821 pacientes refratários
+ao tratamento com irinotecano (CPT-11) + combinação de 5-FU/FA, para receber 5-FU/FA isolado (LV5FU2, N=275),
+oxaliplatina como agente único (N=275) ou associação de oxaliplatina com 5-FU/FA (FOLFOX4, N=271);
+- por último, no estudo EFC2964, não-controlado, de fase II, incluiu pacientes refratários a 5-FU/FA isolado, que foram
+tratados com a associação de oxaliplatina e 5-FU/FA (FOLFOX4, N=57).
+Os dois estudos clínicos randomizados, EFC2962, no tratamento de primeira linha e EFC4584, em pacientes pré-tratados,
+demonstraram uma taxa de resposta e um aumento na sobrevida livre de progressão (PFS)/tempo para progressão (TTP)
+significativamente mais elevadas quando comparado com o tratamento com 5-FU/FA isolado.
+Tabela 1 - Taxa de resposta com FOLFOX4 “versus” LV5U2
+Taxa de resposta, % (IC 95%) LV5FU2 FOLFOX4 oxaliplatina
+Revisão radiológica independente isolada
+Análise ITT
+Tratamento de primeira linha 22 49
+EFC2962 (16-27) (42-46) NA*
+Avaliação de reposta a cada 8 semanas p=0,0001
+Pacientes pré-tratados
+EFC4584 0,7 11,1 1,1
+(refratário a CPT-11 + 5-FU/FA) (0,0-2,7) (7,6-15,5) (0,2-3,2)
+1
+Avaliação de resposta a cada 6 semanas p<0,0001
+Pacientes pré-tratados
+EFC2964 NA* 23 NA*
+(refratário a 5-FU/FA) (13-36)
+Avaliação de resposta a cada 12 semanas
+*NA: não aplicável
+Tabela 2 - Mediana de sobrevida livre de progressão (PFS)/Mediana do tempo para progressão (TTP) com
+FOLFOX4 “versus” LV5U2
+Mediana PFS/TTP, meses (IC 95%) LV5FU2 FOLFOX4 oxaliplatina
+Revisão radiológica independente isolada
+Análise ITT
+Tratamento de primeira linha 6,0 8,2
+EFC2962 (PFS) (5,5-6,5) (7,2-8,8) NA*
+Log-rank valor de p=0,0003
+Pacientes pré-tratados
+EFC4584 (TTP) 2,6 5,3 2,1
+(refratário a CPT-11 + 5-FU/FA) (1,8-2,9) (4,7-6,1) (1,6-2,7)
+Log-rank valor de p<0,0001
+Pacientes pré-tratados
+EFC2964 NA* 5,1 NA*
+(refratário a 5-FU/FA) (3,1-5,7)
+*NA: não aplicável
+Tabela 3 - Mediana de sobrevida global (OS) com FOLFOX4 “versus” LV5U2
+Mediana de sobrevida global, meses (IC 95%) LV5FU2 FOLFOX4 oxaliplatina em
+Análise ITT monoterapia
+Tratamento de primeira linha 14,7 16,2 NA*
+EFC2962 (13,0-18,2) (14,7-18,2)
+Log-rank valor de p=0,12
+Pacientes pré-tratados
+EFC4584 8,8 9,9 8,1
+(refratário a CPT-11 + 5-FU/FA) (7,3-9,3) (9,1-10,5) (7,2-8,7)
+Log-rank valor de p=0,09
+Pacientes pré-tratados
+EFC2964 NA* 10,8 NA*
+(refratário a 5-FU/FA) (9,3-12,8)
+* NA: não aplicável
+Em pacientes pré-tratados (EFC4584), que foram sintomáticos no estado basal, uma proporção mais elevada daqueles
+pacientes tratados com oxaliplatina e 5-FU/FA apresentaram uma melhora significativa destes sintomas relacionados à
+doença comparados com aqueles tratados com 5-FU/FA isolado (27,7% vs 14,6% p=0,0033).
+Em pacientes não pré-tratados (EFC2962), não foi encontrada diferença estatisticamente significativa entre os grupos de
+tratamento para qualquer dimensão de qualidade de vida.
+Entretanto, os números de qualidade de vida foram geralmente melhores no braço controle quanto à avaliação do status de
+saúde e dor global e piores no braço da oxaliplatina com relação à náusea/vômito.
+No cenário adjuvante, o estudo MOSAIC comparativo, de fase III (EFC3313), randomizou 2246 pacientes (899 estágio
+II/Duke’s B2 e 1347 estágio III/ Duke’s C) após ressecção completa do tumor primário do câncer de cólon para receber tanto
+5-FU/FA isolado (LV5FU2, N=1123) (B2/C = 448/675) quanto a associação de oxaliplatina com 5-FU/FA (FOLFOX4,
+N=1123 (B2/C) = 451/672).
+2
+Tabela 4 - EFC3313: Sobrevida livre de doença em até 3 anos (análise ITT)* na população global
+Braço de Tratamento LV5FU2 FOLFOX4
+Porcentagem de sobrevida livre de doença de até 3 anos 73,3 78,7
+IC 95% (70,6 – 75,9) (76,2 – 81,1)
+Risco relativo (IC 95%) 0,76
+(0,64 – 0,89)
+Teste de log rank estratificado p = 0,0008
+* Mediana de acompanhamento de 44,2 meses (todos os pacientes foram acompanhados por pelo menos 3 anos).
+O estudo demonstrou uma vantagem significativa global na sobrevida livre de doença em 3 anos para a associação de
+oxaliplatina com 5-FU/FA (FOLFOX4) sobre 5-FU/FA isolado (LV5FU2).
+Tabela 5 - EFC3313: Sobrevida livre de doença de até 3 anos (análise ITT)* de acordo com o estágio da doença
+Estágio do paciente Estágio II Estágio III
+(Duke’s B2) (Duke’s C)
+Braço de tratamento LV5FU2 FOLFOX4 LV5FU2 FOLFOX4
+Porcentagem de sobrevida livre de 84,3 87,4 65,8 72,8
+doença de até 3 anos (80,9 – 87,7) (84,3 – 90,5) (62,2 – 69,5) (69,4 – 76,2)
+(IC 95%)
+Risco relativo (IC 95%) 0,79 0,75
+(0,57 – 1,09) (0,62 – 0,90)
+Teste de log rank estratificado p = 0,151 p = 0,002
+* Mediana de acompanhamento de 44,2 meses (todos os pacientes foram acompanhados por pelo menos 3 anos).
+Sobrevida global (análise ITT):
+No momento da análise de sobrevida livre de doença de até 3 anos, a qual foi o “endpoint” primário do estudo MOSAIC,
+85,1% dos pacientes ainda estavam vivos no braço FOLFOX4 “versus” 83,8% no braço LV5FU2. Isto explica uma redução
+global no risco de mortalidade de 10% a favor de FOLFOX4 não alcançando significância estatística (risco relativo = 0,90).
+Os valores foram de 92,2% “versus” 92,4% na subpopulação com estágio II (Duke’s B2) (risco relativo = 1,01) e de 80,4%
+“versus” 78,1% na subpopulação com estágio III (Duke’s C) (risco relativo = 0,87) para FOLFOX4 e LV5FU2,
+respectivamente.
+Estudos europeus comparando tanto 5-FU/LV como oxaliplatina como agente único, mostraram que a combinação de
+oxaliplatina com 5-FU/LV apresentaram uma taxa de resposta tumoral significativamente melhorada, maior estabilização da
+doença, tempo mais longo para progressão do tumor e melhoria nos sintomas relacionados ao tumor.
+NCI / Estudo N9741: Comparado ao regime IFL (irinotecano/5FU/FA), o regime de FOLFOX (oxaliplatina/5FU/FA)
+resultou em taxa de resposta tumoral significativamente aumentada, aumento do tempo para progressão do tumor, e acima
+de tudo, uma melhora na sobrevida global com um perfil de toxicidade mais favorável.
+Câncer colorretal metastático (oxaliplatina/5-FU/FA/bevacizumabe):
+A eficácia de ELOXATIN combinado com 5-FU/FA (FOLFOX) e bevacizumabe foi avaliada em 2 estudos clínicos, como
+quimioterapia de primeira linha (estudo TREE) e quimioterapia de segunda linha (estudo ECOG), em pacientes com câncer
+colorretal metastático.
+O estudo TREE, um estudo randomizado, não comparativo de fase III, avaliou a combinação de FOLFOX/bevacizumabe
+(utilizando a dose padrão de bevacizumabe de 5 mg/kg de peso corpóreo, a cada duas semanas) (71 pacientes) e o regime FOLFOX
+isolado (49 pacientes). Na população de pacientes “as-treated” (pacientes que receberam o tratamento alocado na randomização),
+a taxa de resposta objetiva foi 52,1% e 40,8%, respectivamente, o tempo para progressão mediano (TTP, definido como sobrevida
+3
+livre de progressão, PFS) foi 9,9 meses e 8,7 meses, respectivamente e a sobrevida global mediana (OS) foi 26,0 e 19,2 meses,
+respectivamente.
+Os resultados do estudo NO16966 foram avaliados após seguimento mediano de 27,6 meses. A análise principal consistiu na
+comparação dos grupos tratados com bevacizumabe (N = 699), em relação aos grupos tratados com placebo (N = 701). Os
+resultados mostraram que o “endpoint” primário do estudo foi alcançado. Houve aumento estatisticamente significativo de 20,5%
+de sobrevida livre de progressão, quando a quimioterapia baseada em oxaliplatina foi combinada ao bevacizumabe ( risco relativo
+= 0,83; intervalo de confiança de 97,5% = 0,72 a 0,95; p=0,0023). A duração mediana da sobrevida livre de progressão aumentou
+de 8,0 meses quando a quimioterapia baseada em oxaliplatina foi combinada ao placebo, para 9,4 meses quando esse regime
+terapêutico foi combinado ao bevacizumabe.
+O estudo ECOG 3200, um estudo randomizado, comparativo, de fase III, demonstrou na população de pacientes randomizados
+uma melhora significativa na taxa de resposta objetiva (22,2% vs 8,6%), sobrevida livre de progressão mediana (PFS, 7,5 vs 4,5
+meses), sobrevida global mediana (OS, 13,0 vs 10,8 meses), com a combinação de FOLFOX/bevacizumabe (bevacizumabe na
+dose de 10 mg/kg de peso corpóreo, a cada duas semanas) (293 pacientes) comparado com o regime FOLFOX (292 pacientes).
+Câncer gástrico ou da junção gastroesofágica localmente avançado ou metastático (oxaliplatina/epirrubicina/5-FU ou
+oxaliplatina/epirrubicina/capecitabina):
+Dados de um estudo Fase 3, multicêntrico, randomizado, comparando capecitabina a 5-FU e oxaliplatina à cisplatina em
+pacientes com câncer gastroesofágico localmente avançado ou metastático previamente não-tratado suportam o uso de
+oxaliplatina para o tratamento de primeira linha de câncer gastroesofágico avançado (REAL-2). Neste estudo, 1002 pacientes
+foram randomizados em um desenho fatorial 2 x 2 para um dos 4 braços seguintes:
+Tabela 6 - Regimes de tratamento no estudo REAL-2
+Tratamento Dose inicial Esquema de administração
+50 mg/m2 bolus IV
+epirrubicina (E) Dia 1, a cada 3 semanas
+60 mg/m2 2 horas de infusão IV
+cisplatina (C) Dia 1, a cada 3 semanas
+200 mg/m2 infusão contínua através de uma
+5-fluorouracil (F) Diariamente
+linha central
+epirrubicina (E) 50 mg/m2 bolus IV Dia 1, a cada 3 semanas
+cisplatina (C) 60 mg/m2 2 horas de infusão IV Dia 1, a cada 3 semanas
+capecitabina (X) 625 mg/m2 via oral duas vezes ao dia Duas vezes ao dia
+50 mg/m2 bolus IV
+epirrubicina (E) Dia 1, a cada 3 semanas
+130 mg/m2 2 horas de infusão IV
+oxaliplatina (O) Dia 1, a cada 3 semanas
+200 mg/m2 infusão contínua através de uma
+5-fluorouracil (F) Diariamente
+linha central
+epirrubicina (E) 50 mg/m2 bolus IV Dia 1, a cada 3 semanas
+oxaliplatina (O) 130 mg/m2 2 horas de infusão IV Dia 1, a cada 3 semanas
+capecitabina (X) 625 mg/m2 via oral duas vezes ao dia Duas vezes ao dia
+A análise primária de eficácia na população per-protocol demonstrou não-inferioridade na sobrevida global para os regimes
+baseados em capecitabina “versus” 5-FU (risco relativo: 0,86; IC 95%: 0,80-0,99) e para os regimes baseados em oxaliplatina
+“versus” cisplatina (risco relativo: 0,92; IC 95%: 0,80-1,10). A sobrevida global mediana foi de 10,9 meses nos regimes
+baseados em capecitabina e 9,6 meses em regimes baseados em 5-FU. A sobrevida global mediana foi de 10,0 meses em
+regimes baseados em cisplatina e 10,4 meses em regimes baseados em oxaliplatina. Sobrevidas mediana e de um ano foram
+maiores para o grupo EOX (epirrubicina, oxaliplatina e capecitabina) (46,8% e 11,2 meses; risco relativo: 0,80; IC 95%:
+0,66-0,97) em comparação ao grupo ECF (37,7% e 9,9 meses; p=0,02).
+As taxas de resposta foram 47,9% para EOX, 42,4% para EOF (epirrubicina, oxaliplatina e 5-FU), 46,4% para ECX
+(epirrubicina, cisplatina e capecitabina), e 40,7% para ECF (sem diferença significativa entre os quatro braços de tratamento).
+Quando comparada com cisplatina, oxaliplatina foi associada com significativamente menos ocorrências de neutropenia e
+alopecia Grau 3/4, porém com significativamente mais ocorrências de diarreia e neuropatia periférica Grau 3/4. Houve um
+pequeno aumento de ocorrência de estomatite no grupo EOF e letargia aumentada no grupo EOX, em comparação ao grupo
+ECF. Houve uma tendência para níveis menos elevados de creatinina durante o tratamento nos grupos tratados com
+oxaliplatina, em comparação aos grupos tratados com cisplatina (p=0,003). A taxa global de eventos tromboembólicos foi de
+11,4% (IC 95%: 9,4-13,4) e a taxa foi significativamente mais baixa nos grupos tratados com oxaliplatina do que nos grupos
+cisplatina (7,6% “versus” 15,1%, p<0,001). Em 60 dias, as taxas de morte por qualquer causa não diferiram
+significativamente entre os quatro grupos de estudo.
+4
+Os regimes baseados em oxaliplatina foram, em geral, bem-tolerados, com menor incidência de neutropenia, alopecia e
+nefrotoxicidade severas, porém com maior incidência de neuropatia periférica e diarreia severas.
+Regime de tratamento com FOLFIRINOX (oxaliplatina, leucovorin, irinotecano e 5-fluorouracil)
+Em pacientes com adenocarcinoma metastático de pâncreas sem tratamento quimioterápico prévio, a oxaliplatina foi avaliada
+no estudo PRODIGE 4/ACCORD 11 (N=342). A população com intenção de tratamento (intention-to-treat) incluiu 171
+pacientes em cada grupo e a população de segurança (todos os pacientes que receberam tratamento) incluiu 167 pacientes no
+grupo FOLFIRINOX e 169 pacientes no grupo gemcitabina.
+Pacientes foram randomizados centralmente numa proporção 1:1 com estratificação pelo site, performance status (0 vs 1) e
+localização do tumor primário (cabeça vs. corpo ou cauda) para receber FOLFIRINOX (oxaliplatina 85 mg/m2, leucovorin
+400 mg/m2, irinotecano 180 mg/m2, 5-fluorouracil 400 mg/m2 em bolus seguido de 2.400 mg/m2 em infusão contínua
+por 46 horas, a cada 14 dias) ou gemcitabina (1.000 mg/m2 em 30 minutos por infusão intravenosa, semanalmente, durante
+7 semanas seguida de 1 semana de descanso e depois, semanalmente por 3 semanas subsequentes em ciclos de 4 semanas).
+Cada ciclo foi definido como sendo um período de 2 semanas, para ambos os regimes. Seis meses de quimioterapia foram
+recomendados para pacientes que tivessem resposta.
+A mediana de ciclos de tratamento administrados foi 10 (variando de 1 a 47) no braço FOLFIRINOX e 6 (variando de 1 a
+26) no braço gemcitabina (p < 0,001). A mediana de duração do acompanhamento dos pacientes foi de 26,6 meses (IC 95%:
+20.5 à 44.9). A mediana de intensidade de dose relativa de fluorouracil, irinotecano, oxaliplatina e gencitabina foi de 82%,
+81%, 78% e 100% respectivamente. Mais pacientes no grupo gencitabina apresentaram progressão de doença antes de
+completar 12 ciclos (6 meses) de tratamento (79,9% vs. 54,6% no grupo FOLFIRINOX, p < 0,001).
+A mediana de sobrevida global foi significativamente maior entre os pacientes tratados com FOLFIRINOX (11,1 meses vs.
+6,8 meses, RR = 0,57, IC 95%: 0,45 a 0,73; p < 0,001). As taxas de sobrevida global aos 6, 12 e 18 meses foram todas
+superiores para os pacientes tratados com FOLFIRINOX (76%, 48% e 18,6% respectivamente), comparados com 58%, 21%
+e 6%, respectivamente, para aqueles tratados com gencitabina
+A sobrevida livre de progressão foi superior entre os pacientes recebendo o regime com múltiplas drogas (6,4 meses vs 3,3
+meses, RR = 0,47, IC 95%: 0,37 a 0,59; p < 0,001). A taxa de resposta objetiva foi 31,6% no grupo FOLFIRINOX “versus”
+9,4% no grupo gencitabina (p < 0,001). O efeito benéfico do FOLFIRINOX foi semelhante em todos os subgrupos de
+pacientes. Estes dados estão resumidos na Tabela 7.
+Tabela 7 - Eficácia de FOLFIRINOX “versus” Gencitabina
+FOLFIRINOX Gencitabina
+Razão de
+Valor de p
+risco (RR)
+(N=171) (N=171)
+Pacientes 171 171
+Resposta completa (RC) 1 (0,6%) 0 (0%)
+Resposta parcial (RP) 53 (31%) 16 (9,4%) < 0,001
+Taxa de resposta objetiva (RC + RP) 54 (31,6%) 16 (9,4%)
+IC 95% 24.7 – 39.1 5.4 – 14.7
+Doença estável (DE) 66 (38,6%) 71 (41,5%)
+Controle de doença (RP + DE) 120 (70,2%) 87 (50,9%) < 0,001
+IC 95% 62.7 – 76.9 43.1 – 58.6
+Mediana de sobrevida global (meses) 11,1 6,8 0,57 < 0,001
+IC 95% 9.0 – 13.1 5.5 – 7.6 0.45 – 0.73
+5
+Sobrevida em 1 ano 48.4% 20.6%
+Sobrevida em 18 meses 18.6% 6%
+Sobrevida livre de progressão (meses) 6,4 3,3 0,47 < 0,001
+IC 95% 5.5 - 7.2 2.2 - 3.6 0.37 - 0.59
+Eventos Adversos
+Os pacientes que receberam FOLFIRINOX apresentaram taxas significativamente maiores de neutropenia graus 3 e 4 (45,7%
+vs. 21%), neutropenia febril (5,4% vs. 1,2%), trombocitopenia (9,1% vs. 3,6%), diarreia (12,7% vs. 1,8%) e neuropatia
+sensorial (9% vs. 0%). Não foi observada colangite em qualquer dos grupos. Filgrastina foi administrada em 42,5% dos
+pacientes que receberam FOLFIRINOX e em 5,3% dos pacientes que receberam gencitabina.
+Qualidade de vida
+A despeito da elevada incidência de eventos adversos associada ao regime FOLFIRINOX, observou-se um aumento
+significante no tempo até a deterioração definitiva da qualidade de vida no grupo FOLFIRINOX quando comparado ao grupo
+com gencitabina.
+Em 6 meses, 31% dos pacientes no grupo FOLFIRINOX apresentaram queda definitiva de seus scores nas escalas de Status
+de Saúde Global e Status de Qualidade de Vida comparados aos 66% no grupo Gemcitabina (RR = 0,47, IC: 95%: 0.30 –
+0.70; p = 0,001). No grupo FOLFIRINOX, o tempo até a deterioração definitiva foi maior em todos os itens do questionário
+EORTC QLQ-C30, exceto o tempo de queda definitiva de seus scores, associados a insônia, diarreia e dificuldades financeiras
+causadas pela condição física ou médica do tratamento, ao qual não há diferenças significativas entre os regimes de
+tratamento.
+REFERÊNCIAS BIBLIOGRÁFICAS
+Giacchetti S. et al.. Phase III multicenter randomized trial of oxaliplatin added to chronomodulated fluorouracil-leucovorin
+as first-line treatment of metastatic colorectal cancer. J. Clin. Oncol, Jan 2000, 18 (1), 136-147;
+De Gramont A. et al. Leucovorin and fluorouracil with or without oxaliplatin as first-line treatment in advanced colorectal
+cancer. J. Clin. Oncol. , Aug 2000, 18 (16), 2938-2947. (EFC2962);
+André T et al. Multicenter Phase II Study of Bimonthly High-Dose Leucovorin, Fluorouracil Infusion, and Oxaliplatin for
+Metastatic Colorectal Cancer Resistant to the Same Leucovorin and Fulorouracil Regimen. J. Clin. Oncol., 17:3560-3568,
+1999. (EFC2964);
+Goldberg et al. N9741: FOLFOX4 oxaliplatin (Oxal)/ 5-fluorouracil (5-FU)/ leucovorin (LV) or reduced dose R-IFL (CPT
+– 11 + 5-FU/LV) in advanced colorectal cancer (CRC): Final efficacy data from an intergroup study. Annual Meeting
+Proceedings American Society of Clinical Oncology, June 5-8, 2004, 275;
+Andre, et al. Oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment for colon cancer. N Engl J Med. 2004 Jun 3;
+350(23): 2343-51;
+André T, et al. Improved Overall Survival With Oxaliplatin, Fluorouracil, and Leucovorin As Adjuvant Treatment in Stage
+II or III Colon Cancer in the MOSAIC Trial. J Clin Oncol. 2009 May;
+Extra JM, et al. Pharmacokinetics and safety profile of oxaliplatin. Semin Oncol. 1998, Apr; 25 (2 Suppl 5): 13 – 22;
+Rothenberg ML et al. Superiority of oxaliplatin and fluorouracil-leucovorin compared with either therapy alone in patients
+with progressive colorectal cancer after irinotecan and fluorouracil-leucovorin: Interim results of a phase III trial. J Clin
+Oncol, 21: 2059-2069, 2003. (EFC4584);
+Bécouarn Y, et al. Phase II trial of oxaliplatin as first-line chemotherapy in metastatic colorectal cancer patients. Digestive
+Group of French Federation of Cancer Centers. J Clin Oncol. 1998 Aug; 16 (8): 2739 – 44;
+Raymond E, et al. Oxaliplatin: a review of preclinical and clinical studies. Ann Oncol. 1998 Oct; 9 (10): 1053 – 71;
+6
+Hochster H. S. et al. Safety and efficacy of oxaliplatin/fluoropyrimidine regimens with or without bevacizumab as first-line
+treatment of metastatic colorectal cancer (mCRC): Final analysis of the TREE-Study. J. Clin. Oncology, 2006 ASCO Annual
+Meeting Proceedings Part I. Vol 24, No 18S (June 20 Supplement): 3510;
+Saltz LB, Clarke S, Diaz-Rubio E, et al: Bevacizumab in combination with oxaliplatin-based chemotherapy as first-line
+therapy in metastatic colorectal cancer: a randomized phase III study. J Clin Oncol 26:2013-9, 2008;
+Cunningham D, et al. Capecitabine and oxaliplatin for advanced esophagogastric cancer. N Engl J Med. 2008;358:36-46;
+Conroy T, Desseigne F, Ychou M, Bouche O, Guimbaud R, Becouarn Y, et al. FOLFIRINOX versus gemcitabine for
+metastatic pancreatic cancer. N Engl J Med. 2011 May 12;364(19):1817-25;
+Ko AH. FOLFIRINOX: a small step or a great leap forward. J Clin Oncol. 2011 Oct 1;29(28):3727-9;
+Gourgou-Bourgade S, Bascoul-Mollevi C, Desseigne F, Ychou M, Bouche O, Guimbaud R, et al. Impact of FOLFIRINOX
+Compared With Gemcitabine on Quality of Life in Patients With Metastatic Pancreatic Cancer: Results From the PRODIGE
+4/ACCORD 11 Randomized Trial. J Clin Oncol. 2013 Jan 1;31(1):23-9.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades farmacodinâmicas
+Agente citotóxico.
+A oxaliplatina é um agente antineoplásico, pertencente a uma nova classe de compostos de platina, onde o átomo de platina
+é complexado com 1,2- diaminociclohexano (DACH) e um grupo oxalato. A oxaliplatina é o único enantiômero, cis-
+[(1R,2R)-1,2-ciclohexanediamina-N,N’] oxalato (2-)-O,O’] platina.
+A oxaliplatina exibe um amplo espectro da atividade citotóxica “in vitro” e atividade antitumoral “in vivo” em vários sistemas
+de modelos tumorais, incluindo modelos de câncer colorretal nos seres humanos.
+A oxaliplatina também demonstra atividades “in vitro” e “in vivo” em várias linhagens celulares resistentes à cisplatina.
+Foi demonstrada atividade citotóxica sinérgica com 5-fluorouracil “in vitro” e “in vivo”.
+Estudos do mecanismo de ação, embora não completamente elucidados, demonstram que os derivados hidratados resultantes
+da biotransformação da oxaliplatina interagem com DNA para formar ligações cruzadas na mesma fita e na fita
+complementar, resultando numa interrupção da síntese do DNA, levando às atividades citotóxicas e antitumorais.
+Propriedades farmacocinéticas
+A farmacocinética dos compostos ativos individuais não foi determinada. A farmacocinética da platina ultrafiltrável,
+representando uma mistura de todas as espécies de platina não-conjugada, ativa e inativa, seguida de duas horas de infusão
+de oxaliplatina a 130 mg/m2 a cada 3 semanas por 1 a 5 ciclos e oxaliplatina a 85 mg/m2 a cada 2 semanas por 1 a 3 ciclos,
+conforme descrito abaixo:
+Tabela 8 - Resumo dos parâmetros farmacocinéticos da platina ultrafiltrável avaliada após a administração de doses
+múltiplas de 85 mg/m2 de oxaliplatina repetida a cada 2 semanas ou 130 mg/m2 de oxaliplatina repetida a cada 3
+semanas
+Dose Cmáx AUC0-48 AUC0-inf T1/2α T1/2β T1/2Y Vss CL
+(µg/mL) (µg.h/mL) (µg.h/mL) (h) (h) (h) (L) (L/h)
+85 mg/m2
+Média 0,814 4,19 4,68 0,43 16,8 391 440 17,4
+DP 0,193 0,647 1,40 0,35 5,74 406 199 6,35
+130 mg/m2
+Média 1,21 8,20 11,9 0,28 16,3 273 582 10,1
+DP 0,10 2,40 4,60 0,06 2,90 19,0 261 3,07
+Valores médios de AUC e C calculados no ciclo 3 (85mg/m2) ou ciclo 5 (130 mg/m2)
+0-48 máx
+Valores médios de AUC, V , CL e CLR calculados no ciclo 1
+ss 0-48
+Valores de C , C , AUC, AUC , V e CL calculados utilizando análise não-compartimental
+final máx 0-48 ss
+7
+T , T e T : calculados utilizando análise compartimental (ciclos 1-3 associados)
+1/2α 1/2β 1/2γ
+Ao final de uma infusão de 2 horas, 15% da platina administrada é encontrada na circulação sistêmica e o restante, 85%, é
+rapidamente distribuído nos tecidos ou excretados na urina. A ligação irreversível às hemácias e plasma resulta na meia-vida
+destas matrizes que estão próximos ao movimento de regeneração natural das hemácias e da albumina sérica. Não foi
+observado acúmulo de platina no plasma ultrafiltrável após a infusão de 85 mg/m2 a cada 2 semanas ou 130 mg/m2 a cada 3
+semanas e o estado de equilíbrio foi alcançado durante o ciclo 1 desta matriz. A variabilidade inter e intra-individuais é
+geralmente baixa.
+“In vitro”, os metabólitos resultam a partir da degradação não-enzimática e não há evidência de metabolismo mediado pelo
+citocromo P450 do anel diaminociclohexano (DACH).
+A oxaliplatina sofre biotransformação extensiva e o fármaco intacto não foi detectável no plasma ultrafiltrável no final de 2
+horas de infusão. Vários metabólitos citotóxicos, incluindo as formas monocloro-, dicloro- e diaquo-DACH de espécies de
+platina foram identificadas na circulação sistêmica junto com um número de conjugados inativos nos pontos de tempo
+posteriores.
+A platina é principalmente excretada na urina e seu “clearance” predomina durante 48 horas após a administração.
+No 5° dia, aproximadamente 54% da dose total foi recuperada na urina e menos que 3% nas fezes. Foi observada uma redução
+significativa no “clearance”, de 17,6 ± 2,18 L/h para 9,95 ± 1,91 L/h nos pacientes com insuficiência renal junto com uma
+redução estatisticamente significativa no volume de distribuição de 330 ± 40,9 para 241 ± 36,1 L. Não foi avaliado o efeito
+da insuficiência renal severa no “clearance” da platina.
+Pacientes com insuficiência renal
+A disposição da oxaliplatina foi estudada em pacientes com variados níveis de função renal. A eliminação da oxaliplatina
+está significativamente correlacionada com o “clearance” de creatinina. O “clearance” total corpóreo da platina plasmática
+ultrafiltrável foi reduzido em pacientes com insuficiência renal, em 34% para insuficiência renal leve (CLcr = 50 a 80
+mL/min), 57% para insuficiência renal moderada (CLcr = 30 a 49 mL/min) e 79% para insuficiência renal severa (CLcr < 30
+mL/min), em comparação a pacientes com função renal normal (CLcr > 80 mL/min). Houve uma tendência de meias-vidas
+beta e gama aumentadas de platina plasmática ultrafiltrável com grau aumentado de insuficiência renal e principalmente no
+grupo com insuficiência renal severa. Entretanto, os resultados não foram conclusivos devido à ampla variabilidade
+interpacientes e o pequeno número (4) de pacientes com insuficiência renal severa. A excreção urinária de platina e o
+“clearance” renal de platina plasmática ultrafiltrável também diminuíram com insuficiência renal (vide item 8. Posologia e
+Modo De Usar e item 5. Advertências e Precauções).
+Dados de segurança pré-clínica
+Os órgãos alvos identificados nas espécies utilizadas durante os estudos pré-clínicos (camundongos, ratos, cães e/ou macacos)
+após doses únicas e repetidas, abrangeram medula óssea, sistema gastrintestinal, rins, testículos, sistema nervoso e coração.
+As toxicidades nos órgãos alvos observados em animais foram semelhantes àqueles observados com outros agentes de platina
+e com outras drogas citotóxicas interagindo com DNA e utilizados para tratar cânceres nos seres humanos, com a exceção
+dos efeitos provocados no coração. Os efeitos no coração, incluindo anormalidades eletrofisiológicas com fibrilação
+ventricular letal, foram somente observados nos cães. A toxicidade cardíaca foi considerada como sendo específica para os
+cães, não apenas porque esta toxicidade foi somente observada nestes animais, mas também porque as doses semelhantes às
+doses letais nos cães (150 mg/m2) foram bem toleradas nos seres humanos. Os estudos pré-clínicos realizados nos sensores
+dos neurônios no rato sugeriram que os sintomas neurossensoriais agudos causados pela oxaliplatina poderiam estar ligados
+a uma interação com canais de sódio dependente de voltagem.
+A oxaliplatina é mutagênica e clastogênica nas células de mamíferos e foi demonstrada toxicidade embrio-fetal no rato.
+Embora os estudos referentes ao potencial carcinogênico não tenham sido realizados, a oxaliplatina é considerada como sendo
+provavelmente carcinogênica.
+4. CONTRAINDICAÇÕES
+O uso de ELOXATIN é contraindicado nos pacientes:
+- que estejam amamentando;
+- com histórico de hipersensibilidade à oxaliplatina e a outros derivados de platina;
+- com mielossupressão (neutrófilos < 2 x 109/L e/ou contagem de plaquetas < 100 x 109/L) antes do primeiro ciclo de
+tratamento;
+- neuropatia sensorial periférica com insuficiência funcional antes do primeiro ciclo de tratamento.
+8
+Este medicamento é contraindicado para uso por pacientes pediátricos.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+ELOXATIN somente deve ser utilizado em unidades especializadas na administração de medicamentos oncológicos e deve ser
+administrado sob a supervisão de um médico capacitado, com experiência no uso de quimioterapia antineoplásica.
+Devido à informação limitada de segurança em pacientes com insuficiência renal severa, a administração deve ser
+considerada após uma avaliação apropriada do risco/benefício para o paciente. Neste caso, a função renal deve ser
+rigorosamente monitorada e a dose inicial recomendada de oxaliplatina é 65 mg/m2 (vide item 8. Posologia e modo de usar -
+Pacientes com insuficiência renal).
+Os pacientes com histórico de reações alérgicas a produtos contendo platina devem ser monitorados quanto aos sintomas alérgicos.
+Reações alérgicas podem ocorrer durante qualquer ciclo. No caso de ocorrer reações do tipo anafilactoides em decorrência do
+ELOXATIN, deve-se interromper a infusão imediatamente e implementar tratamento sintomático apropriado. A reintrodução de
+ELOXATIN nestes pacientes é contraindicada.
+No caso de extravasamento de ELOXATIN, a infusão deve ser interrompida imediatamente e deve ser implementado tratamento
+sintomático local padrão. Evite o uso de compressas frias em caso de extravasamento de ELOXATIN.
+A neurotoxicidade sensorial periférica de ELOXATIN deve ser cuidadosamente monitorada, especialmente se administrada
+concomitantemente com outros medicamentos com toxicidade neurológica específica. Uma avaliação neurológica deve ser
+realizada antes de cada administração e depois periodicamente. No caso de ocorrer sintomas neurológicos (parestesia, disestesia),
+deve ser realizada a seguinte recomendação de ajuste na dose de ELOXATIN, baseado na duração e gravidade destes sintomas:
+− se os sintomas persistirem por mais de 7 dias e forem desagradáveis, ou se a parestesia sem insuficiência funcional
+persistir até o próximo ciclo, a dose subsequente de ELOXATIN deve ser reduzida em 25%;
+− se a parestesia com insuficiência funcional persistir até o próximo ciclo, o tratamento com ELOXATIN deve ser
+interrompido;
+− se os sintomas melhorarem após a interrupção do tratamento com ELOXATIN, a reintrodução do tratamento pode ser
+considerada.
+Para pacientes que desenvolvem disestesia faringolaríngea aguda (vide item 9. Reações Adversas), durante ou algumas horas
+após uma infusão de duas horas, a próxima infusão com ELOXATIN deve ser administrada durante um período de seis horas.
+Para prevenir disestesia, instrua o paciente a evitar exposição ao frio e a ingestão de alimentos e bebidas geladas ou frias durante
+ou algumas horas após a administração de ELOXATIN.
+Sinais e sintomas de Síndrome de Leucoencefalopatia Posterior Reversível (RPLS, também conhecida como Síndrome de
+Encefalopatia Posterior Reversível - PRES) podem ser dor de cabeça, funcionamento mental alterado, convulsões, visão
+anormal desde turva até cegueira, associados ou não com hipertensão (vide item 9. Reações Adversas). O diagnóstico da
+Síndrome de Leucoencefalopatia Posterior Reversível é embasado mediante confirmação imaginológica do cérebro.
+A toxicidade gastrintestinal, que se manifesta como náuseas e vômitos, permite uma terapia profilática e/ou terapêutica antiemética
+(vide item 9. Reações Adversas). A desidratação, íleo paralítico, obstrução intestinal, hipocalemia, acidose metabólica e até
+distúrbios renais podem estar associados com diarreia/êmese severa, particularmente quando ELOXATIN é utilizado em
+associação com 5-fluorouracil (5-FU).
+Casos de isquemia intestinal, incluindo desfechos fatais, foram relatados no tratamento com ELOXATIN. Em caso de isquemia
+intestinal, o tratamento com ELOXATIN deve ser interrompido e medidas apropriadas adotadas (vide item 9. Reações Adversas).
+Se ocorrer toxicidade hematológica (evidenciados por valores de contagem sanguínea no estado basal, por exemplo: neutrófilos
+< 1,5 x 109/L ou plaquetas < 75 x 109/L) após um ciclo de tratamento, ou se mielossupressão estiver presente antes do início da
+terapia (1° ciclo), a administração do próximo ciclo ou do primeiro ciclo de tratamento deve ser adiada até que a contagem
+sanguínea retorne a níveis aceitáveis. Um hemograma completo com contagem diferencial de glóbulos brancos deve ser realizado
+antes de iniciar o tratamento e antes de cada ciclo subsequente.
+Efeitos imunossupressores e/ou suscetibilidade aumentada a infecções: A administração de vacinas de vírus vivo ou vírus vivo
+atenuado em pacientes imunocomprometidos por agentes quimioterápicos pode resultar em infecções graves ou fatais. A
+vacinação com uma vacina viva deve ser evitada em pacientes recebendo oxaliplatina. Vacinas inativadas podem ser
+administradas; no entanto, a resposta a essas vacinas pode ser diminuída.
+9
+Os pacientes devem ser adequadamente informados quanto ao risco de diarreia/êmese e neutropenia após administração
+concomitante de ELOXATIN e 5-fluorouracil (5-FU), de modo que contatem imediatamente seu médico para uma conduta
+apropriada.
+Para administração concomitante de ELOXATIN e 5-fluorouracil (com ou sem ácido folínico), os ajustes de dose usuais para as
+toxicidades associadas ao 5-fluorouracil devem ser aplicados.
+Se ocorrer diarreia severa/com risco de vida, neutropenia severa (neutrófilos < 1,0 x 109/L), neutropenia febril (febre de origem
+desconhecida sem infecção clinicamente ou microbiologicamente documentada com uma contagem absoluta de neutrófilos <1,0
+x 109 / L, uma única temperatura > 38,3°C ou uma temperatura constante > 38°C durante mais de uma hora), ou trombocitopenia
+severa (plaquetas < 50 x 109/L), o tratamento com ELOXATIN deve ser descontinuado até a melhora ou a recuperação, e a dose
+de ELOXATIN deve ser reduzida em 25% nos ciclos subsequentes, além de quaisquer reduções necessárias na dose do 5-
+fluorouracil.
+Sepse, sepse neutropênica e choque séptico foram relatados em pacientes tratados com oxaliplatina, incluindo desfechos fatais
+(vide item 9. Reações Adversas). Se qualquer um desses eventos ocorrer, ELOXATIN deve ser descontinuado.
+A coagulação intravascular disseminada (CID), incluindo casos fatais, foi relatada em associação com o tratamento com
+ELOXATIN. Se ocorrer a CID, o tratamento com ELOXATIN deve ser descontinuado e tratamento apropriado deve ser
+administrado (vide item 9. Reações Adversas).
+Caso ocorram sintomas respiratórios inexplicados, tais como: tosse não produtiva, dispneia, estertores crepitantes ou infiltrados
+pulmonares radiológicos, o tratamento com ELOXATIN deve ser interrompido até que as investigações pulmonares tenham
+eliminado a possibilidade de doença pulmonar intersticial (vide item 9. Reações Adversas).
+Síndrome hemolítica urêmica (SHU) é uma reação adversa com risco de vida (vide item 9. Reações Adversas). A oxaliplatina
+deve ser descontinuada aos primeiros sinais de qualquer evidência de anemia hemolítica microangiopática, como a queda
+rápida de hemoglobina com concomitante trombocitopenia, elevação da bilirrubina sérica, creatinina sérica, nitrogênio ureico
+no sangue, ou LDH. A insuficiência renal pode não ser reversível com a descontinuação da terapia e diálise pode ser
+necessária.
+No caso dos resultados de testes de função hepática anormais, esplenomegalia ou hipertensão portal que não resulte evidentemente
+de metástases hepática, casos muito raros de distúrbios vasculares hepáticos induzidos pelo fármaco devem ser considerados.
+O prolongamento do intervalo QT pode levar a um aumento do risco de arritmias ventriculares, incluindo Torsade de Pointes,
+que pode ser fatal (vide item 9. Reações Adversas). Devem ser tomadas precauções em pacientes com história ou
+predisposição para prolongamento do intervalo QT, aqueles que estão tomando medicamentos conhecidos por prolongar o
+intervalo QT, e aqueles com distúrbios eletrolíticos tais como hipocalemia, hipocalcemia ou hipomagnesemia. Em caso de
+prolongamento do intervalo QT, o tratamento com oxaliplatina deve ser interrompido (vide item 6. Interações
+Medicamentosas e item 9.Reações Adversas).
+Os relatórios de pós-comercialização com uso de oxaliplatina incluem síndrome coronariana aguda (incluindo infarto do
+miocárdio, arterioespasmo coronário e parada cardíaca). Em caso de síndrome coronariana aguda, o tratamento com
+ELOXATIN deve ser interrompido ou descontinuado com base na avaliação benefício-risco individual (vide item 9. Reações
+Adversas).
+Os relatórios de pós-comercialização de oxaliplatina incluem arritmias cardíacas (incluindo bradiarritmia, taquicardia e
+fibrilação atrial). Em caso de arritmias cardíacas, o tratamento com ELOXATIN o tratamento com ELOXATIN deve ser
+interrompido ou descontinuado com base na avaliação benefício-risco individual (vide item 9. Reações Adversas)
+A rabdomiólise foi relatada em pacientes tratados com ELOXATIN, incluindo desfechos fatais. No caso de dores musculares e
+inchaço, em combinação com fraqueza, febre ou urina escurecida, o tratamento com ELOXATIN deve ser descontinuado. Se a
+rabdomiólise for confirmada, devem ser tomadas as medidas adequadas. Recomenda-se precaução se medicamentos associados
+à rabdomiólise são administrados concomitantemente com ELOXATIN (vide item 6. Interações Medicamentosas e Reações
+Adversas).
+10
+O tratamento com ELOXATIN pode causar úlcera duodenal (UD) e potenciais complicações, como úlcera duodenal hemorrágica
+e perfuração, as quais podem ser fatais. No caso de úlcera duodenal, o tratamento com ELOXATIN deve ser interrompido e
+medidas apropriadas devem ser adotadas (vide item 9. Reações Adversas).
+Não use ELOXATIN por via intraperitoneal. Pode ocorrer hemorragia peritoneal quando ELOXATIN é administrado por via
+intraperitoneal (via de administração não registrada).
+Fertilidade em homens e mulheres: efeitos genotóxicos foram observados com oxaliplatina nos estudos pré-clínicos. Portanto,
+pacientes do sexo masculino férteis tratados com ELOXATIN são aconselhados a não gerar filhos durante e até 12 meses após o
+tratamento e a procurar aconselhamento sobre a conservação do esperma antes do tratamento porque a oxaliplatina pode ter um
+efeito anti-fertilidade, o que poderia ser irreversível.
+As pacientes do sexo feminino não devem engravidar durante o tratamento com ELOXATIN e devem utilizar um método de
+contracepção eficaz durante e pelo menos 15 meses após a cessação do tratamento (vide 5. Advertências e Precauções - Gravidez
+e Lactação).
+Para os detalhes de ajuste de dose de bevacizumabe, consulte as informações correspondentes contidas na bula deste produto.
+Ao utilizar ELOXATIN em combinação com leucovorin, irinotecano e 5-fluorouracil deve ser observado além das
+informações contidas na bula do ELOXATIN, também deve ser verificado informações nas bulas de cada um dos
+outros medicamentos que fazem parte da terapia combinada.
+Incompatibilidades
+- NÃO misture com qualquer outro produto na mesma bolsa de infusão ou não administre simultaneamente pela mesma linha
+de infusão.
+- NÃO utilize em associação com soluções ou produtos alcalinos, em particular 5-fluorouracil (5-FU), soluções básicas,
+preparações de ácido folínico (FA) contendo trometamol como excipiente e sais de trometamol de outras substâncias ativas.
+Soluções ou produtos alcalinos afetarão desfavoravelmente a estabilidade da oxaliplatina.
+- NÃO use agulhas ou equipamentos contendo partes de alumínio que podem entrar em contato com a solução. O alumínio
+pode degradar combinações de platina.
+- NÃO use solução de cloreto de sódio ou outra solução contendo cloreto para diluir oxaliplatina.
+Pacientes pediátricos
+ELOXATIN como agente único foi avaliado em 2 estudos de fase I (69 pacientes) e 2 estudos de fase II (166 pacientes). Um total
+de 235 pacientes pediátricos (7 meses – 22 anos de idade) com tumores sólidos foram tratados.
+Num estudo de fase I/II, ELOXATIN foi administrado por infusão IV durante 2 horas nos dias 1, 8 e 15 a cada 4 semanas (ciclo
+1), por um máximo de 6 ciclos, em 43 pacientes com tumores sólidos malignos refratários ou recaídos, principalmente
+neuroblastoma e osteossarcoma. Vinte e oito (28) pacientes pediátricos foram tratados no estudo de fase I com 6 níveis de dosagem
+iniciando a 40 mg/m2 e até 110 mg/m2. A toxicidade da dose-limitante (TDL) foi neuropatia sensorial periférica observada em 2
+pacientes dos 3 pacientes tratados com 110 mg/m2. Deste modo, a dose recomendada (DR) foi estabelecida como 90 mg/m2
+administrada por via IV nos dias 1, 8 e 15 a cada 4 semanas. Quinze (15) pacientes foram tratados com a dose recomendada de
+90 mg/m2 por via IV obtidos a partir de um estudo de fase I e os principais eventos adversos observados foram: parestesia (60%,
+G3/4: 6,7%), febre (40%, G3/4: 6,7%) e trombocitopenia (40%, G3/4: 26,7%).
+Num segundo estudo de fase I, ELOXATIN foi administrado em 26 pacientes pediátricos por infusão IV durante 2 horas no dia
+1 a cada 3 semanas (ciclo 1) em 5 níveis de dosagem iniciando a 100 mg/m2 e até 160 mg/m2, por um máximo de 6 ciclos. No
+último nível de dosagem, ELOXATIN 85 mg/m2 foi administrado no dia 1 a cada 2 semanas, por um máximo de 9 doses. Os
+pacientes apresentavam tumores sólidos metastáticos ou irressecáveis principalmente neuroblastoma e ganglioneuroblastoma,
+para o qual o tratamento padrão não existe ou não é mais eficaz. A TDL foi neuropatia sensorial periférica observada em 2
+pacientes tratados com 160 mg/m2 de ELOXATIN. A DR foi 130 mg/m2 a cada 3 semanas. Uma dose de 85 mg/m2 a cada 2
+semanas também foi estabelecida como tolerável. Baseado nestes estudos, ELOXATIN 130 mg/m2 por infusão IV durante 2 horas
+no dia 1 a cada 3 semanas (ciclo 1) foi utilizado nos estudos de fase II subsequentes.
+Em um estudo de fase II, 43 pacientes pediátricos com tumores do SNC embrionários recorrentes ou refratários foram tratados
+por um máximo de 12 meses na ausência de doença progressiva ou toxicidade inaceitável. Em pacientes < 10 Kg, a dose de
+ELOXATIN utilizada foi 4,3 mg/Kg. Os eventos adversos mais comuns relatados foram: leucopenia (67,4%, G3/4: 11,6%),
+anemia (65,1%, G3/4: 4,7%), trombocitopenia (65,1%, G3/4: 25,6%), vômito (65,1%, G3/4: 7,0%), neutropenia (58,1%, G3/4:
+11
+16,3%) e neuropatia sensorial periférica (39,5%, G3/4: 4,7%). Foi observada uma única resposta parcial (taxa de resposta objetiva:
+2,3%).
+Num segundo estudo de fase II, 123 pacientes pediátricos foram tratados para tumores sólidos recorrentes, sarcoma de Ewing ou
+PNET (tumor neuro-ectodérmico primitivo) periférico, osteossarcoma, rabdomiossarcoma e neuroblastoma, por um máximo de
+12 meses ou 17 ciclos. Nos pacientes com idade inferior a 12 meses, a dose de ELOXATIN utilizada foi 4,3 mg/Kg. Os eventos
+adversos mais comuns relatados foram: neuropatia sensorial periférica (53,2%, G3/4: 14,9%), trombocitopenia (40,4%, G3/4:
+25,5%), anemia (40,4%, G3/4: 14,9%), vômito (31,9%, G3/4: 0%), náusea (29,8%, G3/4: 2,1%) e TGO aumentada (25,5%, G3/4:
+4,3%). Não foram observadas respostas.
+Os parâmetros farmacocinéticos da platina ultrafiltrável foram avaliados em 105 pacientes pediátricos durante o primeiro ciclo.
+O “clearance” médio nos pacientes pediátricos, estimado pela análise farmacocinética da população, foi 4,70 L/h. A variabilidade
+inter-paciente do “clearance” da platina nos pacientes pediátricos com câncer foi 40,9%. Os parâmetros farmacocinéticos médios
+da platina ultrafiltrável foram C de 0,75 + 0,24 mcg/mL, AUC de 7,52 + 5,07 mcg.h/mL e AUC de 8,83 + 1,57 mcg.h/mL
+máx 0-48 inf
+com 85 mg/m2 de ELOXATIN e C de 1,10 + 0,43 mcg/mL, AUC de 9,74 + 2,52 mcg.h/mL e AUC de 17,30 + 5,34
+máx 0-48 inf
+mcg.h/mL com 130 mg/m2 de ELOXATIN.
+As análises farmacocinética/farmacodinâmica foram realizadas em 43 pacientes pediátricos que foram avaliados pelos estudos
+farmacocinéticos de fase II. Os resultados não sugeriram qualquer relação entre AUC e parâmetros de segurança testados como
+distúrbios gastrintestinais, distúrbios do sistema nervoso, distúrbios renal e urinário ou distúrbios hematológicos para esta
+população de pacientes pediátricos.
+Não foi estabelecida a efetividade de ELOXATIN como agente único nas populações pediátricas descrita acima. A inclusão de
+pacientes em ambos os estudos de fase II foi interrompida devido à falta de resposta do tumor.
+Gravidez e lactação
+Até o momento não existem dados disponíveis com relação à segurança de oxaliplatina em mulheres grávidas. Baseado em dados
+pré-clínicos, o uso de ELOXATIN é provavelmente letal e/ou teratogênico ao feto humano na dose terapêutica recomendada e,
+portanto, não deve ser utilizado durante a gravidez e deve ser somente considerado depois que a paciente for informada
+apropriadamente sobre os riscos ao feto e com consentimento da paciente.
+Assim como com outros agentes citotóxicos, medidas contraceptivas efetivas devem ser tomadas em pacientes
+potencialmente férteis antes do início do tratamento quimioterápico com ELOXATIN.
+Não foi estudada a passagem da oxaliplatina para o leite materno. A amamentação é contraindicada durante o tratamento com
+ELOXATIN.
+Uso contraindicado no aleitamento ou na doação de leite humano.
+Fertilidade em homens e mulheres
+A oxaliplatina pode ter um efeito anti-fertilidade em homens e mulheres.
+Devido aos potenciais efeitos genotóxicos da oxaliplatina, medidas contraceptivas apropriadas devem ser tomadas durante e
+após o término do tratamento.
+Mulheres com potencial para engravidar tratadas com ELOXATIN devem usar métodos contraceptivos eficazes durante o
+tratamento e por 15 meses após o término do tratamento.
+Homens tratados com ELOXATIN devem usar métodos contraceptivos eficazes durante o tratamento e por 12 meses após o
+término do tratamento e procurar aconselhamento sobre a conservação do esperma antes do tratamento.
+Após o tratamento com ELOXATIN, as pacientes que planejam engravidar são aconselhadas a procurar aconselhamento
+genético.
+Categoria de risco na gravidez: D. Este medicamento não deve ser utilizado por mulheres grávidas sem orientação
+médica. Informe imediatamente seu médico em caso de suspeita de gravidez.
+12
+Alterações na capacidade de dirigir veículos e operar máquinas
+Nenhum estudo sobre os efeitos na habilidade de dirigir veículos e operar máquinas foi realizado. Entretanto, o tratamento com
+oxaliplatina resultando em um aumento no risco de tontura, náusea e vômito e outros sintomas neurológicos que afetam a marcha
+e o equilíbrio podem levar a uma influência pequena ou moderada na habilidade de dirigir e operar máquinas.
+As anormalidades na visão, em particular perda de visão transitória (reversível após a descontinuação do tratamento), podem
+afetar a habilidade do paciente de dirigir ou operar máquinas. Portanto, os pacientes devem ser prevenidos quanto ao potencial
+efeito destes eventos na habilidade de dirigir ou operar máquinas.
+6. INTERAÇÕES MEDICAMENTOSAS
+- medicamento-medicamento
+Não foi observada alteração no nível de exposição ao 5-fluorouracil (5-FU) nos pacientes que receberam dose única de 85
+mg/m2 de ELOXATIN imediatamente antes da administração de 5-fluorouracil.
+Aconselha-se precaução quando ELOXATIN é coadministrado com outros medicamentos conhecidos por causar
+prolongamento do intervalo QT. Em caso de associação com estes medicamentos, o intervalo QT deve ser cuidadosamente
+monitorado (vide item 5. Advertências e Precauções).
+Aconselha-se precaução quando ELOXATIN for administrado concomitantemente com outros medicamentos conhecidos
+por estarem associados à rabdomiólise (vide item 5. Advertências e Precauções).
+A vacinação com vacinas de vírus vivo ou vírus vivo atenuado deve ser evitada em pacientes recebendo oxaliplatina (vide 5.
+Advertências e Precauções).
+“In vitro”, não foi observado deslocamento significativo da ligação da oxaliplatina às proteínas plasmáticas com os seguintes
+agentes: eritromicina, salicilatos, granisetrona, paclitaxel e valproato de sódio.
+- medicamento-exame laboratorial
+Não há dados disponíveis até o momento sobre a interferência da oxaliplatina em exames laboratoriais.
+- medicamento-alimento
+Não há dados disponíveis até o momento sobre a interação entre alimentos e a oxaliplatina.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+ELOXATIN deve ser conservado em temperatura ambiente (entre 15 e 30ºC), proteger da luz.
+Após diluição em glicose 5%, foi demonstrada estabilidade química e física em uso por 48 horas entre + 2°C e + 8°C e por
+24 horas a + 25°C.
+Do ponto de vista microbiológico, a preparação para infusão deve ser utilizada imediatamente.
+Caso não seja utilizada imediatamente, as condições e tempo de armazenagem em uso antes da utilização são de
+responsabilidade do manipulador e normalmente não seria mais que 24 horas entre + 2°C e + 8°C a menos que a diluição
+tenha sido realizada em condições assépticas controladas e validada (não exceder 48 horas).
+Prazo de validade: 24 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Após preparado manter entre +2°C e +8°C por até 48 horas ou manter a +25°C por 24 horas.
+Características físicas e organolépticas
+ELOXATIN apresenta-se como uma solução límpida e incolor, contida em frasco-ampola.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Somente deve ser administrado em adultos.
+A dose recomendada de ELOXATIN para câncer de cólon no cenário adjuvante é de 85 mg/m2 intravenosamente repetido a
+cada 2 semanas em associação com fluoropirimidinas por 12 ciclos (6 meses).
+13
+A dose recomendada de ELOXATIN para o tratamento do câncer colorretal metastático/avançado é de 85 mg/m2
+intravenosamente repetido a cada 2 semanas até progressão da doença ou toxicidade inaceitável.
+A dose recomendada de ELOXATIN para o tratamento do câncer gástrico ou câncer gastroesofágico, localmente avançado
+ou metastático, não tratado previamente, é 130 mg/m2 intravenosamente, repetido a cada 3 semanas, em associação com
+epirrubicina e 5-fluorouracil, ou em associação com epirrubicina e capecitabina. O tratamento é administrado por um máximo
+de 8 ciclos, até progressão da doença ou toxicidade inaceitável.
+A dose recomendada de ELOXATIN para o tratamento de adenocarcinoma de pâncreas metastático é de oxaliplatina 85
+mg/m2 em infusão intravenosa por 2 horas, seguido imediatamente de leucovorin (400 mg/m2 em infusão intravenosa por 2
+horas), com a adição após 30 minutos de irinotecano (180 mg/m2 em infusão intravenosa por 90 minutos através de um
+conector Y) e seguido imediatamente de 5-fluorouracil (400 mg/m2 em bolus seguido de 2.400 mg/m2 em infusão contínua
+por 46 horas) em ciclos de 2 semanas, por 6 meses.
+A dose administrada deve ser ajustada de acordo com a tolerabilidade de cada paciente (vide item 5. Advertências e
+Precauções).
+ELOXATIN deve ser sempre administrado antes das fluoropirimidinas (5-FU).
+ELOXATIN em combinação com leucovorin, irinotecano e 5-fluorouracil somente deve ser administrado para
+pacientes menores que 76 anos, com performance status ECOG (Eastern Cooperative Oncology Group) 0 ou 1, que
+não apresentam isquemia cardíaca e que possuem nível de bilirrubina normal ou quase normal.
+ELOXATIN é administrado por infusão intravenosa (IV).
+Populações especiais
+Pacientes idosos
+Não foi observado aumento de toxicidade severa quando ELOXATIN foi utilizado como agente único ou em associação com 5-
+fluorouracil (5-FU), em pacientes com idade superior a 65 anos. Consequentemente, não é necessário um ajuste na dose específico
+para pacientes idosos.
+Pacientes com insuficiência renal
+Em pacientes com câncer gastrointestinal com variados níveis de insuficiência renal, tratados com ELOXATIN (infusão
+intravenosa de duas horas, a cada duas semanas, por um máximo de 12 ciclos) em associação com 5-FU/FA (FOLFOX4),
+ELOXATIN demonstrou impacto clínico mínimo na função renal, conforme avaliado através do “clearance” médio de creatinina
+(vide item 3. Características Farmacológicas).
+Os resultados de segurança foram similares entre os grupos de pacientes. Entretanto, a duração da exposição foi mais curta para
+pacientes com insuficiência renal. A exposição mediana foi de 4, 6 e 3 ciclos para pacientes com insuficiência renal leve, moderada
+e severa, respectivamente. Em pacientes com função renal normal, a exposição mediana foi de 9 ciclos. Mais pacientes
+descontinuaram o tratamento devido a eventos adversos em grupos com insuficiência renal. A dose inicial de ELOXATIN já foi
+reduzida para 65 mg/m2 para pacientes com insuficiência renal severa.
+Em pacientes com função renal normal ou insuficiência renal leve a moderada, a dose recomendada de ELOXATIN é 85 mg/m2.
+Em pacientes com insuficiência renal severa, a dose inicial recomendada deve ser reduzida para 65 mg/m2.
+Pacientes com insuficiência hepática
+Um estudo de fase I com ELOXATIN em monoterapia por infusão IV durante 2 horas a cada 3 semanas, incluiu pacientes adultos
+com câncer com diferentes graus de insuficiência hepática (nenhuma severa). A dose inicial de ELOXATIN foi baseada no grau
+da disfunção hepática, e foi então aumentada até 130 mg/m2 para qualquer grau de insuficiência hepática (nenhuma severa). De
+maneira geral, a gravidade e os tipos de toxicidade observados foram toxicidades esperadas com o uso de ELOXATIN (vide item
+9. Reações Adversas). Não foi observada correlação entre o aumento da toxicidade total e a piora da função hepática. Não houve
+diferenças nas frequências dos eventos entre os diferentes grupos de tratamentos baseados no grau de insuficiência hepática.
+Durante o desenvolvimento clínico, não foram realizados ajustes de dose específicos para pacientes com testes da função
+hepática anormais.
+Instruções para administração:
+Assim como com outros agentes citotóxicos, deve-se ter cautela ao manusear e preparar as soluções de oxaliplatina.
+O manuseio de agentes citotóxicos por profissionais de saúde capacitados requer todas as precauções para garantir a proteção
+do manipulador e das pessoas que o cercam.
+14
+A preparação de soluções injetáveis de agentes citotóxicos deve ser realizada por pessoas especializadas e treinadas, com
+conhecimento do medicamento utilizado, em condições de garantir a proteção do ambiente e em particular a proteção do
+manipulador. É necessária uma área reservada para a preparação. É proibido fumar, comer ou beber nesta área. As pessoas
+devem estar com os equipamentos de segurança para manuseio apropriados, avental de manga longa, máscara de proteção,
+touca, óculos de proteção, luvas estéreis descartáveis, revestimento de proteção para a área de trabalho e sacos e contêineres
+para coleta dos resíduos.
+Os excrementos e vômitos devem ser manuseados com cuidado.
+Mulheres grávidas devem ser prevenidas a evitar o manuseio de agentes citotóxicos.
+Qualquer frasco quebrado deve ser tratado com as mesmas precauções e deve ser considerado como resíduo contaminado. O
+resíduo contaminado deve ser incinerado em contêineres rígidos adequadamente rotulados.
+Caso o concentrado de oxaliplatina, ou a solução para infusão entrar em contato com a pele ou membrana mucosas, lave
+imediatamente e cuidadosamente com água.
+Modo de usar:
+ELOXATIN deve ser sempre administrado antes das fluoropirimidinas (5-FU).
+ELOXATIN deve ser utilizado por via intravenosa (IV).
+A administração de ELOXATIN não requer hiper-hidratação.
+ELOXATIN diluído em 250 a 500 mL de solução de glicose a 5% (para que a concentração não seja inferior a 0,2 mg/mL)
+deve ser infundido por veia periférica ou linha central venosa ao mesmo tempo que a infusão intravenosa de ácido folínico
+em solução de glicose 5%, durante 2 a 6 horas, utilizando uma linha em Y colocada imediatamente antes do local da infusão.
+Estes dois medicamentos não devem ser combinados na mesma bolsa de infusão. O ácido folínico (leucovorin) não deve
+conter trometamol como excipiente e deve apenas ser diluído utilizando solução isotônica de glicose 5%, nunca em soluções
+alcalinas ou soluções que contenham cloreto de sódio ou cloreto.
+Faça uma inspeção visual antes da infusão. Apenas soluções límpidas sem partículas devem ser utilizadas.
+A infusão de ELOXATIN deve sempre preceder a de 5-FU.
+No caso de extravasamento, a administração deve ser interrompida imediatamente (vide item 5. Advertências e
+Precauções).
+Quando utilizado em combinação com 5-FU/FA e bevacizumabe, ELOXATIN deve ser administrado após o bevacizumabe,
+mas antes da administração de 5-FU.
+Não há estudos dos efeitos de ELOXATIN administrado por vias não recomendadas. Portanto, por segurança e para garantir
+a eficácia deste medicamento, a administração deve ser somente por via intravenosa.
+9. REAÇÕES ADVERSAS
+A seguinte classificação de frequência CIOMS é utilizada, quando aplicável:
+Muito comum ≥ 10%; comum ≥ 1% e <10%; incomum ≥ 0,1% e < 1%; raro ≥ 0,01% e < 0,1%; muito raro < 0,01%,
+desconhecido (não pode ser estimado a partir dos dados disponíveis).
+1- Terapia combinada de oxaliplatina com 5-FU/FA (FOLFOX):
+- Investigações:
+Muito comum
+• Elevação da atividade das transaminases e fosfatases alcalinas de leve a moderada.
+• Aumento da bilirrubina.
+- Infecções e infestações:
+Comum
+• Sepse neutropênica, incluindo desfechos fatais.
+15
+Incomum
+• Sepse, incluindo desfechos fatais.
+- Distúrbios dos sistemas sanguíneo e linfático:
+Muito comum
+• Anemia, neutropenia, trombocitopenia (vide item 5. Advertências e Precauções).
+- A frequência aumenta quando ELOXATIN é administrado (85 mg/m2 a cada 2 semanas) em combinação com 5-
+fluorouracil +/- ácido folínico, quando comparado com monoterapia (130 mg/m2 a cada 3 semanas), ex. anemia (80% vs
+60% dos pacientes), neutropenia (70% vs 15%), trombocitopenia (80% vs 40%).
+- Anemia severa (hemoglobina < 8,0 g/dL) ou trombocitopenia (plaquetas < 50 x 109/L) ocorrem com frequência similar
+(< 5% dos pacientes) quando ELOXATIN é administrado em monoterapia ou em combinação com 5-fluorouracil (5-
+FU).
+- Neutropenia severa (neutrófilos < 1,0 x 109/L) ocorre com maior frequência quando ELOXATIN é administrado em
+combinação com 5-fluorouracil (5-FU) do que em monoterapia (40% vs < 3% dos pacientes).
+Comum
+• Neutropenia febril.
+Raro
+• Anemia hemolítica imunoalérgica e trombocitopenia.
+• Coagulação intravascular disseminada (CID), incluindo desfechos fatais (vide item 5. Advertências e Precauções).
+- Distúrbios do metabolismo e nutrição
+Comum
+• Hipocalcemia.
+- Distúrbios do sistema nervoso
+Muito comum
+• Sintomas neurossensoriais agudos.
+Estes sintomas normalmente se desenvolvem ao final de 2 horas da infusão de ELOXATIN ou após algumas horas,
+diminuem espontaneamente dentro das próximas horas ou dias e frequentemente recorrem em ciclos subsequentes. Eles
+podem ser precipitados ou exacerbados pela exposição a temperaturas ou objetos frios.
+Estes são usualmente caracterizados por parestesia transitória, disestesia e hipoestesia. Uma síndrome aguda de disestesia
+faringolaríngea ocorre em 1-2% dos pacientes e é caracterizada por sensações subjetivas de disfagia ou dispneia/sensação
+de asfixia, sem qualquer evidência de insuficiência respiratória (sem cianose ou hipóxia) ou de laringoespasmo ou
+broncoespasmo (sem estridor ou sibilos).
+Outros sintomas ocasionalmente observados, particularmente de disfunção de nervos cranianos ou podem estar
+associados com eventos mencionados acima, ou ocorrer também isoladamente, tais como: ptose, diplopia,
+afonia/disfonia/rouquidão, algumas vezes descrito como paralisia nas cordas vocais, sensação anormal na língua ou
+disartria, algumas vezes descrito como afasia, dor ocular/dor facial/neuralgia do trigêmeo, redução da acuidade visual,
+distúrbios no campo visual. Além disso, foram observados os seguintes sintomas: espasmo mandibular/ espasmo
+muscular/ contrações musculares involuntárias/ contração espasmódica muscular/ mioclonia, coordenação anormal/
+marcha anormal/ ataxia/ distúrbios de equilíbrio/ rigidez no tórax ou garganta/pressão/desconforto/dor.
+• Disestesia/ parestesia de extremidades e neuropatia periférica.
+A toxicidade limitante de ELOXATIN é neurológica. Isto envolve neuropatia sensorial periférica, caracterizada por
+disestesia periférica e/ou parestesia acompanhada ou não por cãibras, geralmente precipitadas pelo frio (85 a 95% dos
+pacientes).
+A duração desses sintomas, que geralmente regridem entre os ciclos de tratamento, aumenta conforme o número de
+ciclos de tratamento. O início da dor e/ou distúrbio funcional e sua duração são indicações para ajuste na dose ou até
+mesmo a interrupção do tratamento (vide item 5. Advertências e Precauções). Esse distúrbio funcional, que inclui
+dificuldade na execução de movimentos delicados, é uma possível consequência de dano sensorial. O risco de ocorrência
+de distúrbio funcional para uma dose cumulativa de aproximadamente 800 mg/m2 (por exemplo, 10 ciclos) é menor ou
+igual a 15%. Na maioria dos casos, os sinais e sintomas neurológicos melhoram quando o tratamento é interrompido.
+16
+• Disgeusia.
+Raro
+• Disartria.
+• Perda do reflexo do tendão profundo.
+• Sinal de Lhermitte.
+• Síndrome de Leucoencefalopatia Posterior Reversível (vide item 5. Advertências e Precauções).
+- Distúrbios oculares
+Raro
+• Acuidade visual reduzida transitoriamente, distúrbios do campo visual, neurite óptica.
+• Perda de visão transitória, reversível após descontinuação do tratamento.
+- Distúrbios auditivos e do labirinto
+Raro
+• Surdez.
+- Distúrbios respiratórios, torácicos e mediastinais
+Muito comum
+• Tosse.
+Comum
+• Soluço.
+Raro
+• Doença pulmonar intersticial aguda, algumas vezes fatal, fibrose pulmonar (vide item 5. Advertências e Precauções).
+- Distúrbios gastrintestinais
+Muito comum
+• Náusea, vômito, diarreia.
+Desidratação, hipocalemia, acidose metabólica, íleo paralítico, obstrução intestinal e distúrbios renais podem estar
+associados à diarreia/vômitos severos, particularmente quando ELOXATIN é combinado com 5-fluorouracil (5-FU) (vide
+item 5. Advertências e Precauções).
+• Estomatite, mucosite.
+• Dor abdominal.
+Comum
+• Hemorragia gastrintestinal.
+Raro
+• Colite, incluindo diarreia por Clostridium difficile.
+• Pancreatite.
+- Distúrbios urinário e renal
+Muito raro
+• Necrose tubular aguda, nefrite intersticial aguda e insuficiência renal aguda.
+- Distúrbios nos tecidos cutâneo e subcutâneo
+Comum
+• Alopecia (< 5% dos pacientes, em monoterapia).
+- Distúrbios musculoesquelético e do tecido conjuntivo
+Muito comum
+• Dor nas costas. No caso de tal reação adversa, hemólise, que tem sido raramente relatada, deve ser investigada.
+Comum
+• Artralgia.
+- Distúrbios metabólicos e nutricionais
+Muito comum
+17
+• Anorexia.
+• Hiperglicemia
+- Distúrbios vasculares
+Muito comum
+• Epistaxe.
+Comum
+• Trombose venosa profunda.
+• Eventos tromboembólicos. incluindo embolia pulmonar
+• Hipertensão.
+- Distúrbios gerais e condições no local da aplicação
+Muito comum
+• Fadiga.
+• Febre, rigidez (tremores), devido à infecção (com ou sem neutropenia febril) ou possivelmente do mecanismo
+imunológico.
+• Astenia.
+• Reações no local da injeção.
+Foram relatadas reações no local da injeção incluindo dor local, rubor, edema e trombose.
+O extravasamento também pode resultar em dor local e inflamação, que podem ser severas e conduzir a
+complicações incluindo necrose, especialmente quando ELOXATIN é infundido através de uma veia periférica.
+- Distúrbios do sistema imunológico
+Muito comum
+• Reações alérgicas como: rash cutâneo (particularmente urticária), conjuntivite, rinite.
+Comum
+• Reações anafiláticas incluindo broncoespasmo, angioedema, hipotensão, sensação de dor no peito e choque
+anafilático.
+- Distúrbios hepatobiliares
+Muito raro
+• Síndrome de obstrução hepática sinusoidal, também conhecida como doença veno-oclusiva do fígado ou
+manifestações patológicas relacionadas como distúrbio hepático, incluindo peliose hepática, hiperplasia
+regenerativa nodular, fibrose perisinusoidal. As manifestações clínicas podem ser hipertensão portal e/ou elevação
+das transaminases.
+Experiência pós-comercialização com frequência não conhecida:
+- Infecções e infestações
+• Choque séptico, incluindo desfechos fatais.
+- Distúrbios dos sistemas sanguíneo e linfático
+• Síndrome hemolítica urêmica.
+• Pancitopenia autoimune.
+• Pancitopenia.
+• Leucemia aguda.
+- Distúrbios do sistema nervoso
+• Convulsão.
+• Isquemia e distúrbio cerebrovascular hemorrágico.
+- Distúrbios cardíacos
+• Prolongamento do intervalo QT, que pode levar a arritmias ventriculares incluindo Torsades de Pointes, que podem
+ser fatais (vide item 5. Advertências e Precauções).
+• Síndrome coronariana aguda incluindo infarto do miocárdio, arterioespasmo coronário e parada cardíaca.
+• Arritmias cardíacas incluindo bradiarritmia, taquicardia e fibrilação atrial.
+- Distúrbios respiratórios, torácicos e mediastinais
+18
+• Laringoespasmo.
+• Pneumonia e broncopneumonia, incluindo desfechos fatais.
+- Distúrbios gastrointestinais
+• Isquemia intestinal, incluindo desfechos fatais (vide item 5. Advertências e Precauções).
+• Esofagite
+• Úlcera duodenal e complicações, como úlcera duodenal hemorrágica ou perfuração, que podem ser fatais (vide item
+5. Advertências e Precauções).
+- Distúrbios hepatobiliares
+• hiperplasia nodular focal
+- Distúrbios musculoesqueléticos e do tecido conjuntivo
+• Rabdomiólise, incluindo desfechos fatais (vide item 5. Advertências e Precauções).
+- Distúrbios do sistema imunológico
+• Hipersensibilidade tardia.
+-Distúrbios da pele e tecido subcutâneo
+• Vasculite de hipersensibilidade.
+- Lesão, envenenamento e complicações processuais
+• Queda e lesões causadas por queda.
+2- Terapia combinada de oxaliplatina com 5-FU/FA (FOLFOX) e bevacizumabe:
+A segurança do tratamento de primeira linha de oxaliplatina combinada com 5-FU/FA e bevacizumabe foi avaliada em 71
+pacientes com câncer colorretal metastático (estudo TREE).
+Além dos eventos adversos esperados com o regime de tratamento FOLFOX, os eventos adversos relatados com a
+combinação de FOLFOX/bevacizumabe incluíram hemorragia (45,1%; G3/4: 2,8%), proteinúria (11,3%, G3/4: 0%),
+disfunção de cicatrização de ferida (5,6%), perfuração gastrintestinal (4,2%) e hipertensão (1,4%; G3/4: 1,4%).
+No estudo TREE, o regime mFOLFOX levou a uma maior incidência de neutropenia grau 3 e 4, porém uma menor incidência
+de toxicidade gastrintestinal em relação aos outros dois regimes. A incidência de neutropenia de graus 3/4 no estudo TREE-
+2 foi de 10% e de 49%, conforme a fluoropirimidina associada à oxaliplatina a ao bevacizumabe (capecitabina ou 5FU,
+respectivamente). Ocorreram poucos casos de neutropenia febril observados nos braços (de 0 – 2% para o regime semanal e
+a cada 3 semanas até 4% e 3% para o regime mFOLFOX e mFOLFOX + bevacizumabe, respectivamente).
+Os resultados deste estudo demonstraram a incidência de parestesia ou disestesia de graus 3/4 de 11% com a quimioterapia
+baseada em oxaliplatina associada ao bevacizumabe, tanto para os pacientes que receberam 5FU, quanto para os pacientes
+que receberam capecitabina.
+De acordo com os resultados do estudo NO16966, entre os eventos adversos de qualquer grau cuja incidência foi menor nos
+braços com bevacizumabe, em relação aos braços tratados com placebo (> 5% de diferença absoluta), incluíram-se:
+neutropenia (37% contra 43%) e trombocitopenia (13% contra 21%).
+O estudo NO16966 não reportou separadamente as taxas de neuropatia periférica observadas com o uso de quimioterapia
+baseada em oxaliplatina combinada ao bevacizumabe.
+Para informações mais detalhadas sobre a segurança de bevacizumabe, consulte a bula do produto.
+3- Terapia combinada de oxaliplatina, epirrubicina e 5-FU (EOF) ou oxaliplatina, epirrubicina e capecitabina (EOX)
+– reações adversas todos os graus e Grau 3/4:
+- Distúrbios dos sistemas sanguíneo e linfático
+Muito comum
+Neutropenia (EOF: 68,4%, G3/4: 29,9%; EOX: 62,9%, G3/4: 27,6%).
+Anemia (EOF: 65,8%; EOX: 64,2%).
+Trombocitopenia (EOF: 13,4%; EOX: 21,1%).
+Neutropenia febril (EOF: 11,5%).
+Comum
+19
+Anemia (EOF G3/4: 6,5%; EOX G3/4: 8,6%).
+Trombocitopenia (EOF G3/4: 4,3%; EOX G3/4: 5,2%).
+Neutropenia febril (EOF G3/4: 8,5%; EOX: 9,8%, G3/4: 7,8%).
+- Distúrbios do sistema nervoso
+Muito comum
+Neuropatia periférica (EOF: 79,6%; EOX: 83,7%).
+Comum
+Neuropatia periférica (EOF G3/4: 8,4%; EOX G3/4: 4,4%).
+- Distúrbios vasculares
+Comum
+Tromboembolismo (EOF: 7,7%; EOX: 7,5%).
+- Distúrbios gastrintestinais
+Muito comum
+Náusea e vômitos (EOF: 83,1%, G3/4: 13,8%; EOX: 78,9%, G3/4: 11,4%).
+Diarreia (EOF: 62,7%, G3/4: 10,7%; EOX: 61,7%, G3/4: 11,9%).
+Estomatite (EOF: 44,4%; EOX: 38,1%).
+Comum
+Estomatite (EOF G3/4: 4,4%; EOX G3/4: 2,2%).
+- Distúrbios nos tecidos cutâneo e subcutâneo
+Muito comum
+Alopecia (EOF: 75,4%, G2: 27,7%; EOX: 74,2%, G2: 28,8%).
+Eritrodisestesia palmo-plantar (EOF: 28,9%; EOX: 39,3%).
+Comum
+Eritrodisestesia palmo-plantar (EOF G3/4: 2,7%; EOX G3/4: 3,1%).
+- Distúrbios gerais e condições no local da aplicação
+Muito comum
+Letargia (EOF: 90,2%, G3/4: 12,9%; EOX: 96,1%, G3/4: 24,9%).
+Para informações mais detalhadas sobre a segurança de epirrubicina, 5-FU e capecitabina, consulte as bulas correspondentes
+dos produtos.
+4- Terapia combinada de oxaliplatina com leucovorin, irinotecano e 5-fluorouracil (FOLFIRINOX) reações adversas
+Graus 3 e 4:
+- Distúrbios dos sistemas sanguíneo e linfático
+Muito comum
+Neutropenia (45,7%)
+Comum
+Trombocitopenia (9,1%)
+Anemia (7,8%)
+Neutropenia febril (5,4%)
+- Distúrbios vasculares
+Comum
+Tromboembolismo (6,6%)
+- Distúrbios metabólicos e nutricionais
+Muito comum
+Fadiga (23,6%)
+- Distúrbios gastrintestinais
+Muito comum
+Vômitos (14,5%)
+Diarreia (12,7%)
+20
+-Distúrbios do sistema nervoso
+Comum
+Neuropatia sensorial (9%)
+-Distúrbios hepatobiliares
+Comum
+Aumento da alanina aminotransferase (7,3%)
+Atenção: este produto é um medicamento que possui nova indicação terapêutica no país e, embora as pesquisas
+tenham indicado eficácia e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos
+adversos imprevisíveis ou desconhecidos. Nesse caso, notifique os eventos adversos pelo Sistema VigiMed, disponível
+no Portal da Anvisa.
+10. SUPERDOSE
+Não se conhece antídoto específico para ELOXATIN. Pode ser esperada uma exacerbação dos efeitos colaterais, em caso de
+superdose. Deve ser iniciado o monitoramento dos parâmetros hematológicos e deve ser administrado tratamento sintomático.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+VENDA SOB PRESCRIÇÃO.
+USO RESTRITO A ESTABELECIMENTOS DE SAÚDE.
+Registro: 1.8326.0426
+Importado e Registrado por:
+Sanofi Medley Farmacêutica Ltda.
+Rua Conde Domingos Papaiz, 413 – Suzano - SP
+CNPJ 10.588.595/0010-92
+® Marca Registrada
+Produzido por:
+Sanofi-Aventis Deutschland GmbH
+Frankfurt am Main – Alemanha
+IB060325
+Esta bula foi aprovada pela Anvisa em 17/04/2025
+21
+Confidential - Sensitive
+Anexo B
+Histórico de Alteração para a Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Versões
+Data do No. Data do No. Data da Apresentações
+Assunto Assunto Itens de bula VP/VP
+expediente expediente expediente expediente aprovação relacionadas
+S
+5,0 MG/ML
+8. QUAIS OS MALES SOL INJ CT FA
+MEDICAMENTO QUE ESTE VD INC X 10
+MEDICAMENTO
+NOVO – MEDICAMENTO ML
+NOVO - Inclusão
+6/5/2013 0351176/13-6 Inclusão Inicial de 6/5/2013 0351176/13-6 6/5/2013 PODE ME VP/VPS
+Inicial de Texto de
+Texto de Bula – CAUSAR?/ 5,0 MG/ML
+Bula – RDC 60/12
+RDC 60/12 9. REAÇÕES SOL INJ CT FA
+ADVERSAS VD INC X 20
+ML
+5,0 MG/ML
+SOL INJ CT FA
+MEDICAMENTO MEDICAMENTO
+VD INC X 10
+NOVO - NOVO -
+ML
+Notificação de Notificação de
+10/12/2013 1040659/13-0 10/12/2013 1040659/13-0 10/12/2013 DIZERES LEGAIS VP/VPS
+Alteração de Texto Alteração de Texto
+5,0 MG/ML
+de Bula – RDC de Bula – RDC
+SOL INJ CT FA
+60/12 60/12
+VD INC X 20
+ML
+5,0 MG/ML
+SOL INJ CT FA
+MEDICAMENTO MEDICAMENTO
+VD INC X 10
+NOVO - NOVO -
+ML
+Notificação de Notificação de
+25/6/2014 0497674/14-6 25/6/2014 0497674/14-6 25/6/2014 DIZERES LEGAIS VP/VPS
+Alteração de Texto Alteração de Texto
+5,0 MG/ML
+de Bula – RDC de Bula – RDC
+SOL INJ CT FA
+60/12 60/12
+VD INC X 20
+ML
+MEDICAMENTO MEDICAMENTO 3. QUANDO NÃO 5,0 MG/ML
+NOVO - NOVO - DEVO USAR ESTE SOL INJ CT FA
+4/08/2014 0627878/14-7 Notificação de 4/08/2014 0627878/14-7 Notificação de 4/08/2014 MEDICAMENTO? VP/VPS VD INC X 10
+Alteração de Texto Alteração de Texto ML
+de Bula – RDC de Bula – RDC 4. O QUE DEVO
+Confidential - Sensitive
+60/12 60/12 SABER ANTES DE 5,0 MG/ML
+USAR ESTE SOL INJ CT FA
+MEDICAMENTO?/ VD INC X 20
+5.ADVERTÊNCIAS ML
+E PRECAUÇÕES
+8. QUAIS OS MALES
+QUE ESTE
+MEDICAMENTO
+PODE ME
+CAUSAR?/
+9.REAÇÕES
+ADVERSAS
+1. PARA QUÊ ESTE
+MEDICAMENTO É
+INDICADO?/ 1.
+INDICAÇÕES
+4. O QUE DEVO
+SABER ANTES DE 5,0 MG/ML
+USAR ESTE SOL INJ CT FA
+MEDICAMENTO MEDICAMENTO
+MEDICAMENTO?/ VD INC X 10
+NOVO - NOVO -
+5.ADVERTÊNCIAS ML
+Notificação de Notificação de
+18/11/2014 1040176/14-8 18/11/2014 1040176/14-8 18/11/2014 E PRECAUÇÕES VP/VPS
+Alteração de Texto Alteração de Texto
+6. INTERAÇÕES 5,0 MG/ML
+de Bula – RDC de Bula – RDC
+60/12 60/12 MEDICAMENTO- SOL INJ CT FA
+VD INC X 20
+SAS
+ML
+8. QUAIS OS MALES
+QUE ESTE
+MEDICAMENTO
+PODE ME
+CAUSAR?/
+9.REAÇÕES
+ADVERSAS
+Confidential - Sensitive
+1. PARA QUÊ ESTE
+MEDICAMENTO É
+INDICADO/ 1.
+INDICAÇÕES
+2. COMO ESTE
+MEDICAMENTO
+FUNCIONA?
+2.RESULTADOS DE
+EFICÁCIA
+5,0 MG/ML
+4. O QUE DEVO
+SOL INJ CT FA
+MEDICAMENTO SABER ANTES DE
+MEDICAME-NTO VD INC X 10
+NOVO - USAR ESTE
+NOVO - Inclusão ML
+Notificação de MEDICAMENTO? /
+01/12/2014 1074082/14-1 29/05/2013 0430075/13-1 de Indicação 24/11/2014 VP/VPS
+Alteração de Texto 5. ADVERTÊNCIAS
+Terapêutica Nova 5,0 MG/ML
+de Bula – RDC E PRECAUÇÕES
+no País SOL INJ CT FA
+60/12
+VD INC X 20
+6. COMO DEVO
+ML
+USAR ESTE
+MEDICAMENTO?/8.
+POSOLOGIA E
+MODO DE USAR
+8. QUAIS OS MALES
+QUE ESTE
+MEDICAMENTO
+PODE ME CAUSAR?
+/
+9. REAÇÕES
+ADVERSAS
+MEDICAMENTO MEDICAMENTO 4. O QUE DEVO 5,0 MG/ML
+NOVO - NOVO - SABER ANTES DE SOL INJ CT FA
+Notificação de Notificação de USAR ESTE VD INC X 10
+16/04/2015 0330616/15-0 16/04/2015 0330616/15-0 16/04/2015 VP/VPS
+Alteração de Texto Alteração de Texto MEDICAMENTO? / ML
+de Bula – RDC de Bula – RDC 5. ADVERTÊNCIAS
+60/12 60/12 E PRECAUÇÕES 5,0 MG/ML
+Confidential - Sensitive
+SOL INJ CT FA
+6. COMO DEVO VD INC X 20
+USAR ESTE ML
+MEDICAMENTO?/8.
+POSOLOGIA E
+MODO DE USAR
+8. QUAIS OS MALES
+QUE ESTE
+MEDICAMENTO
+PODE ME CAUSAR?
+/
+9. REAÇÕES
+ADVERSAS
+VP 5,0 MG/ML
+10451- 10451- 8. QUAIS OS MALES SOL INJ CT FA
+MEDICAMENTO MEDICAMENTO QUE ESTE VD INC X 10
+NOVO - NOVO - MEDICAMENTO ML
+26/03/2018 0232397/18-4 Notificação de 26/03/2018 0232397/18-4 Notificação de 26/03/2018 PODE ME CAUSAR? VP/VPS
+Alteração de Texto Alteração de Texto 5,0 MG/ML
+de Bula – RDC de Bula – RDC VPS SOL INJ CT FA
+60/12 60/12 9. REAÇÕES VD INC X 20
+ADVERSAS ML
+VP
+4. O QUE DEVO
+SABER ANTES DE
+5,0 MG/ML
+USAR ESTE
+10451- 10451- SOL INJ CT FA
+MEDICAMENTO ? 8.
+MEDICAME NTO MEDICAME NTO VD INC X 10
+QUAIS OS MALES
+NOVO - NOVO - ML
+QUE ESTE
+16/07/2018 0565042/18-9 Notificação de 16/07/2018 0565042/18-9 Notificação de 16/07/2018 VP/VPS
+MEDICAMENT O
+Alteração de Texto Alteração de Texto 5,0 MG/ML
+PODE ME CAUSAR?
+de Bula – RDC de Bula – RDC SOL INJ CT FA
+VPS
+60/12 60/12 VD INC X 20
+5. ADVERTÊNCIAS
+ML
+E PRECAUÇÕES
+9. REAÇÕES
+ADVERSAS
+10451- 1440 - 5,0 MG/ML
+17/06/2020 1926076/20-08 29/10/2019 2639352/19-2 17/02/2020 DIZERES LEGAIS VP/VPS
+MEDICAMENTO MEDICAMENTO SOL INJ CT FA
+Confidential - Sensitive
+NOVO - NOVO - VD INC X 10
+Notificação de Solicitação de ML
+Alteração de Texto Transferência de
+de Bula – RDC Titularidade de 5,0 MG/ML
+60/12 Registro SOL INJ CT FA
+(Incorporação de VD INC X 20
+Empresa) ML
+5,0 MG/ML
+10451- 10451- SOL INJ CT FA
+VP / VPS
+MEDICAMENTO MEDICAMENTO VD INC X 10
+DIZERES LEGAIS
+NOVO - NOVO - ML
+21/01/2021 0274186/21-5 Notificação de 21/01/2021 0274186/21-5 Notificação de 21/01/2021 VP/VPS
+VPS
+Alteração de Texto Alteração de Texto 5,0 MG/ML
+9. REAÇÕES
+de Bula – RDC de Bula – RDC SOL INJ CT FA
+ADVERSAS
+60/12 60/12 VD INC X 20
+ML
+5,0 MG/ML
+10451- 10451- SOL INJ CT FA
+VP / VPS
+MEDICAMENTO MEDICAMENTO VD INC X 10
+DIZERES LEGAIS
+NOVO - NOVO - ML
+16/08/2022 4559513/22-8 Notificação de 16/08/2022 4559513/22-8 Notificação de 16/08/2022 VP/VPS
+VPS
+Alteração de Texto Alteração de Texto 5,0 MG/ML
+9. REAÇÕES
+de Bula – RDC de Bula – RDC SOL INJ CT FA
+ADVERSAS
+60/12 60/12 VD INC X 20
+ML
+VP
+5,0 MG/ML
+5. ONDE, COMO E
+10451- 10451- SOL INJ CT FA
+POR QUANTO
+MEDICAMENTO MEDICAMENTO VD INC X 10
+TEMPO POSSO
+NOVO - NOVO - ML
+GUARDAR ESTE
+12/09/2022 4675189/22-9 Notificação de 12/09/2022 4675189/22-9 Notificação de 12/09/2022 VP/VPS
+MEDICAMENTO?
+Alteração de Texto Alteração de Texto 5,0 MG/ML
+VPS
+de Bula – RDC de Bula – RDC SOL INJ CT FA
+7. CUIDADOS DE
+60/12 60/12 VD INC X 20
+ARMAZENAMENTO
+ML
+DO MEDICAMENTO
+10451- 10451- VP 5,0 MG/ML
+MEDICAMENTO MEDICAMENTO APRESENTAÇÕES SOL INJ CT FA
+17/02/2025 0220722/25-1 - - - VP/VPS
+NOVO - NOVO - COMPOSIÇÃO VD INC X 10
+Notificação de Notificação de 4. O QUE DEVO ML
+Confidential - Sensitive
+Alteração de Texto Alteração de Texto SABER ANTES DE
+de Bula – RDC de Bula – RDC USAR ESTE 5,0 MG/ML
+60/12 60/12 MEDICAMENTO? SOL INJ CT FA
+DIZERES LEGAIS VD INC X 20
+VPS ML
+APRESENTAÇÕES
+COMPOSIÇÃO
+5. ADVERTÊNCIAS
+E PRECAUÇÕES
+DIZERES LEGAIS
+VP 5,0 MG/ML
+10451- 10451- 4. O QUE DEVO SOL INJ CT FA
+MEDICAMENTO MEDICAMENTO SABER ANTES DE VD INC X 10
+NOVO - NOVO - USAR ESTE ML
+- - Notificação de - - Notificação de - MEDICAMENTO? VP/VPS
+Alteração de Texto Alteração de Texto VPS 5,0 MG/ML
+de Bula – RDC de Bula – RDC 5. ADVERTÊNCIAS SOL INJ CT FA
+60/12 60/12 E PRECAUÇÕES VD INC X 20
+ML

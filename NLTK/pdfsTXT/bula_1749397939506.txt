@@ -1,0 +1,384 @@
+EKLIRA® GENUAIR®
+brometo de aclidínio 400 MCG
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+APRESENTAÇÕES
+Pó para inalação de 400 mcg/inalação em embalagem com 1 inalador contendo 60 inalações.
+USO INALATÓRIO VIA ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada dose contém:
+brometo de aclidínio 400 mcg:
+brometo de aclidínio..... 400 mcg (equivalente a 343 mcg de aclidínio)
+excipientes: alfalactose monoidratada
+** A dose liberada é de 375 mg de brometo de aclidínio (equivalente a 322 mg de aclidínio)
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EKLIRA® GENUAIR® é indicado como tratamento broncodilatador de manutenção para o alívio de sintomas em pacientes
+adultos com doença pulmonar obstrutiva crônica (DPOC).
+2. RESULTADOS DE EFICÁCIA
+Eficácia clínica
+Os estudos de fase III compreenderam 269 pacientes tratados com EKLIRA® GENUAIR® 400 microgramas duas vezes ao dia
+em um estudo de 6 meses randomizado, controlado por placebo e 190 doentes tratados com EKLIRA® GENUAIR® 400
+microgramas duas vezes ao dia em um estudo de 3 meses randomizado, controlado por placebo. A eficácia foi avaliada por
+medidas de função pulmonar e resultados sintomáticos, tais como dispnéia, estado de saúde doença-específico, uso de medicação
+de resgate e ocorrência de exacerbações da DPOC. Nos estudos de segurança de longo prazo, EKLIRA® GENUAIR® foi
+associado com eficácia broncodilatadora, quando administrado durante um período de 1 ano de tratamento.
+Broncodilatação
+Em um estudo de 6 meses, os pacientes que receberam EKLIRA® GENUAIR® 400 microgramas duas vezes ao dia tiveram uma
+melhoria clinicamente significativa na função pulmonar (VEF1). Efeitos broncodilatadores máximos foram evidentes a partir do
+primeiro dia e foram mantidos durante o período de tratamento de 6 meses. Após 6 meses de tratamento, a melhora média na
+VEF1 matinal pré-dose (Vale) em comparação com o placebo foi de 128 mL (IC 95% = 85-170; p <0,0001).
+Observações semelhantes foram feitas no estudo de 3 meses.
+Estado de saúde doença-específico e benefícios sintomáticos
+EKLIRA® GENUAIR® proporcionou melhorias clinicamente significativas na dispnéia (avaliada por meio do Índice de
+Transição da Dispneia [TDI]) e estado de saúde doença-específico (avaliado pelo Questionário Respiratório St. George [SGRQ]),
+vide Tabela 1.
+Tabela 1 - Alívio de sintomas e estado de saúde após 6 meses de tratamento com EKLIRA® GENUAIR®.
+Tratamento
+Variável EKLIRA Placebo Melhora em relação ao Valor-p
+GENUAIR placebo
+ITD
+1
+Porcentagem de pacientes que 56,9 45,5 aumento de 1,68 0,004
+atingiram a MCDI vezesc na probabilidade
+Mudança média da linha de 1,9 0,9 1,0 unidades <0,001
+base
+SGRQ
+Porcentagem de pacientes que 57,3 41,0 aumento de 1,87 vezesc <0,001
+atingiram a MCDI na
+probabilidade
+Mudança média da linha de -7,4 -2,8 - 4,6 unidades <0,0001
+base
+a Mudança na diferença mínima clinicamente importante (MCDI) de pelo menos 1 unidade na TDI.
+b Mudança na MCDI de pelo menos 4 unidades na SGRQ.
+c Razão de chance, aumento na probabilidade de atingir a MCDI comparada ao placebo.
+Os pacientes tratados com EKLIRA® GENUAIR® precisaram de menos medicação de resgate do que os pacientes tratados com
+placebo (uma redução de 0,95 puffs por dia em 6 meses [p = 0,005]). EKLIRA® GENUAIR® também melhorou os sintomas
+diários de DPOC (dispneia, tosse e produção de muco) e sintomas noturnos e matinais iniciais.
+A análise de eficácia agrupada dos estudos de 6 meses e 3 meses controlados com placebo demonstrou uma redução
+estatisticamente significativa na taxa de exacerbações moderadas a graves (que requerem tratamento com antibióticos ou
+corticosteroides ou que resultam em hospitalizações) com aclidínio 400 microgramas duas vezes ao dia em comparação com
+placebo (taxa por paciente por ano: 0,31 vs 0,44, respectivamente; p = 0,0149).
+Tolerância ao exercício
+Em um estudo clínico de 3 semanas cruzado, randomizado, controlado por placebo, EKLIRA® GENUAIR® foi associado a uma
+melhora estatisticamente significativa no tempo de resistência ao exercício de 58 segundos em comparação ao placebo (IC 95%
+= 9-108; p = 0,021; valor de pré-tratamento: 486 segundos). EKLIRA® GENUAIR® reduziu a hiperinflação pulmonar em
+repouso de modo estatisticamente significativo (capacidade residual funcional [CRF] = 0,197 L [IC 95% = 0.321, 0.072; p =
+0,002]; volume residual [VR] = 0,238 L [IC 95% = 0.396, 0.079; p = 0,004]), e também melhorou a capacidade inspiratória no
+vale (pré-dose) (de 0,078 L; IC 95% = 0.01, 0.145; p = 0,025) e reduziu a dispneia durante o exercício (escala de Borg) (por 0,63
+unidades Borg; IC 95% = 1.11, 0.14; p = 0,012).
+Referências Bibliográficas
+Jones ERJ 2012 (6-months study): Jones PW, Lamarca R, Chuecos F, Singh D, Agustí A, Bateman ED, de Miquel G, Caracta C,
+Garcia Gil E. Characterisation and impact of reported and unreported exacerbations: results from ATTAIN. Eur Respir J.
+2014;44(5):1156-1165.
+Kerwin COPD 2012 (3 months study): Kerwin EM, D’Urzo AD, Gelb AF, et al. Efficacy and safety of a 12- week treatment with
+twice-daily aclidinium bromide in COPD patients (ACCORD COPD I). COPD 2012;9(2):90-101.
+Gelb REsp Med 2013 (long term safety): Gelb AF, Tashkin DP, Make BJ, et al. Long-term safety and efficacy of twice-daily
+aclidinium bromide in patients with COPD. Respir Med. 2013;107(12):1957-65.
+D’Urzo COPD 2013 (long term safety): D’Urzo A, Kerwin E, Rennard S, et al. One-year extension study of ACCORD COPD I:
+safety and efficacy of two doses of twice-daily aclidinium bromide in patients with COPD. COPD. 2013;10(4):500-510.
+Beeh 2014 (exercise tolerance): Beeh KM Beeh, Watz H, Puente-Maestu L, et al. Aclidinium improves exercise endurance,
+dyspnea, lung hyperinflation, and physical activity in patients with COPD: a randomized, placebo- controlled, crossover trial.
+BMC Pulmonary Medicine 2014;14:209.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+Grupo farmacoterapêutico: anticolinérgicos; código ATC: R03BB05.
+2
+O brometo de aclidínio é um antagonista muscarínico de ação prolongada (anticolinérgico). O aclidínio inalado age localmente
+nos pulmões para antagonizar os receptores M3 do músculo liso das vias aéreas e induzir a broncodilatação.
+Estudos não-clínicos in vitro e estudos in vivo demostraram uma inibição rápida, dose-dependente e de longa duração pelo
+aclidínio da broncoconstrição induzida por acetilcolina. O aclidínio é rapidamente degradado no plasma, portanto, o nível de
+efeitos colaterais anticolinérgicos sistêmicos é baixo.
+Efeitos farmacodinâmicos
+Nos estudos clínicos EKLIRA® GENUAIR® demonstrou melhorias clinicamente significativas na função pulmonar, VEF1, ao
+longo de 12 horas após a administração de manhã e à noite.
+As melhorias foram evidentes dentro de 30 minutos após a primeira dose (aumento da linha de base de 124-133 mL). A
+broncodilatação máxima foi alcançada dentro de 1-3 horas após a administração, com a melhora média dos picos na VEF1
+relativamente ao valor basal de 227-268 ml no estado de equilíbrio.
+Eletrofisiologia cardíaca
+Não foram observados efeitos sobre o intervalo QT quando brometo de aclidinio (200 microgramas ou 800 microgramas) foi
+administrado uma vez por dia durante 3 dias em indivíduos saudáveis em um estudo de QT.
+Além disso, não foram observados efeitos clinicamente significativos de EKLIRA® GENUAIR® no ritmo cardíaco em 24 horas
+de monitoramento por Holter, após 3 meses de tratamento em 336 pacientes (dos quais 164 receberam EKLIRA® GENUAIR®
+400 microgramas duas vezes por dia).
+Propriedades farmacocinéticas
+Absorção
+O aclidínio é absorvido rapidamente no pulmão. A concentração plasmática máxima é alcançada dentro de 5 minutos de inalação
+em indivíduos saudáveis e dentro dos primeiros 15 minutos em pacientes com DPOC. A fração da dose inalada que atinge a
+circulação sistêmica como aclidínio inalterado é inferior a 5%. Os níveis plasmáticos de estado de equilíbrio foram atingidos
+dentro de sete dias de administração duas vezes ao dia.
+Distribuição
+A deposição pulmonar total do aclidínio inalado pelo inalador foi, em média, aproximadamente 30% da dose medida.
+A ligação do aclidínio às proteínas plasmáticas determinada in vitro correspondeu, mais provavelmente, à ligação dos metabolitos
+às proteínas devido à rápida hidrólise do aclidínio no plasma. A ligação às proteínas plasmáticas foi de 87% para o metabólito
+ácido carboxílico e de 15% para o metabólito alcoólico. A principal proteína plasmática que se liga ao aclidínio é a albumina.
+Biotransformação
+O aclidínio é rápida e extensivamente hidrolisado em seus respectivos derivados alcoólico e ácido carboxílico farmacologicamente
+inativos. A hidrólise ocorre tanto quimicamente (não enzimática) quanto por via enzimática pelas esterases, sendo a
+butirilcolinesterase a principal esterase humana envolvida na hidrólise. Os níveis do metabolito ácido no plasma são
+aproximadamente 100 vezes superiores aos do metabolito alcoólico e da substância ativa inalterada após a inalação.
+A baixa biodisponibilidade absoluta do aclidínio inalado (<5%) deve-se ao fato do aclidínio sofrer uma ampla hidrólise sistêmica
+e pré-sistêmica seja depositado no pulmão ou depois de ingerido.
+A biotransformação através das enzimas CYP450 desempenha um papel pouco significativo na depuração metabólica total do
+aclidínio.
+Estudos in vitro revelaram que o aclidínio na dose terapêutica ou seus metabolitos não inibem ou induzem qualquer uma das
+enzimas do citocromo P450 (CYP450) nem inibem as esterases (carboxilesterase, acetilcolinesterase e butirilcolinesterase).
+Estudos in vitro mostraram que o aclidínio ou seus metabólitos não são substratos ou inibidores da glicoproteína P.
+Excreção
+3
+A meia-vida efetiva de aclidínio foi de aproximadamente 10 horas após a inalação de doses de 400 microgramas duas vezes ao
+dia em pacientes com DPOC.
+Após administração intravenosa de brometo de aclidínio 400 microgramas radiomarcado em voluntários sadios, aproximadamente
+1% da dose foi excretada como brometo de aclidínio inalterado na urina. Até 65% da dose foi eliminada como metabólitos na
+urina e até 33% como metabólitos nas fezes.
+Após inalação de 200 microgramas e 400 microgramas de brometo de aclidínio por voluntários sadios ou pacientes com DPOC,
+a excreção urinária de aclidínio inalterado foi muito baixa em cerca de 0,1% da dose administrada, indicando que a depuração
+renal desempenha um papel secundário na depuração total de aclidínio do plasma.
+Relação farmacocinética/farmacodinâmica
+Como o aclidínio age localmente nos pulmões e é rapidamente degradado no plasma, não há uma relação direta entre a
+farmacocinética e a farmacodinâmica.
+Populações especiais
+Pacientes idosos
+As propriedades farmacocinéticas do aclidínio em pacientes com DPOC moderada a severa é similar em pacientes com 40-59
+anos de idade e ≥70 anos. Portanto, não é necessário o ajuste de dose em pacientes idosos com DPOC.
+Pacientes com disfunção hepática
+Não foram realizados estudos em pacientes com disfunção hepática. Como o aclidínio é metabolizado principalmente por
+degradação química e enzimática no plasma, é pouco provável que disfunções hepáticas alterem a exposição sistêmica. Nenhum
+ajuste de dose é necessário para pacientes com disfunção hepatica.
+Pacientes com disfunção renal
+Não foram observadas diferenças farmacocinéticas significativas entre voluntários com função renal normal e voluntários com
+disfunção renal. Portanto, não é necessário o ajuste de dose e nenhum monitoramento adicional para pacientes com disfunção
+renal.
+Dados de segurança pré-clínicos
+Os dados não-clínicos não revelaram riscos especiais para os seres humanos, segundo estudos convencionais de farmacologia de
+segurança, toxicidade de dose repetida, genotoxicidade e potencial carcinogênico e toxicidade reprodutiva e desenvolvimento.
+Os efeitos do aclidínio nos estudos pré-clínicos com relação a parâmetros cardiovasculares (aumento na frequência cardíaca em
+cachorros), toxicidade reprodutiva (efeitos fetotóxicos) e fertilidade (reduções discretas na taxa de concepção, números de corpos
+lúteos, e perdas pré e pós-implantação) foram observados somente em exposições consideradas suficientemente superiores a
+indicação máxima para a exposição humana e de pouca relevância para o uso clínico.
+4. CONTRAINDICAÇÕES
+Hipersensibilidade às substâncias ativas ou aos excipientes.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Broncoespasmo paradoxal
+Assim como outras terapias inalatórias, o tratamento com EKLIRA® GENUAIR® pode causar broncoespasmo paradoxal. Se isto
+ocorrer, deve-se suspender o medicamento e considerar outros tratamentos.
+Deterioração da doença
+EKLIRA® GENUAIR® é um broncodilatador de manutenção e não deve ser usado para o tratamento de episódios agudos de
+broncoespasmo, ou seja, como terapia de resgate.
+Atividade anticolinérgica
+4
+Devido a sua atividade anticolinérgica, EKLIRA® GENUAIR®deve ser usado com cautela em pacientes com hiperplasia
+prostática sintomática, retenção urinária ou glaucoma de ângulo estreito.
+Efeitos sobre a capacidade de dirigir e usar máquinas: nenhum estudo sobre os efeitos na capacidade para dirigir e
+usar máquinas foi realizado.
+Uso durante a gravidez e lactação Categoria de risco
+na gravidez: C
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião- dentista.
+Gravidez
+Não existem dados disponíveis sobre o uso de EKLIRA® GENUAIR® em mulheres grávidas.
+Estudos em animais demonstraram fetotoxicidade apenas em níveis de dose muito maiores do que a exposição humana máxima
+ao aclidínio (vide item Características Farmacológicas - Dados Pré-Clínicos de Segurança).
+EKLIRA® GENUAIR® deve ser usado durante a gravidez somente se os benefícios esperados superarem os riscos
+potenciais.
+Lactação
+Não se sabe se aclidínio (e/ou seus metabólitos) são excretados no leite humano. Como os estudos em animais demonstraram
+excreção de pequenas quantidades de aclidínio (e/ou seus metabólitos) no leite, o uso de EKLIRA® GENUAIR® por mulheres
+que estão amamentando somente deve ser considerado se o benefício esperado para a lactante for maior do que qualquer possível
+risco ao lactente.
+Fertilidade
+Estudos em ratos mostraram reduções discretas na fertilidade apenas em níveis de dose superiores à exposição humana máxima
+ao aclidínio (vide item Características Farmacológicas - Dados Pré-Clínicos de Segurança). É pouco provável que o aclidínio
+afete a fertilidade em humanos quando administrado na dose recomendada.
+Atenção : Este medicamento contém lactose (tipo de açúcar) e não deve ser usado por pessoas com síndrome de má-absorção
+de glicose-galactose.
+6. INTERAÇÕES MEDICAMENTOSAS
+Medicamentos para DPOC
+A coadministração de EKLIRA® GENUAIR® com outros medicamentos que contenham anticolinérgicos pode levar a um
+potencial aumento nos efeitos anticolinérgicos e não é recomendada.
+Nenhum estudo formal de interação medicamentosa in vivo foi realizado. EKLIRA® GENUAIR® tem sido usado
+concomitantemente com outros medicamentos para DPOC incluindo broncodilatadores simpatomiméticos, metilxantinas, e
+esteroides orais e inalatórios sem evidência clínica de interações medicamentosas.
+Interações metabólicas
+Estudos in vitro mostraram que não é esperado que o aclidínio ou seus metabolitos na dose terapêutica causem interações com
+medicamentos substratos da glicoproteína P (P-gp) ou medicamentos metabolizados pelas enzimas do citocromo P450 (CYP450)
+e esterases (vide item Características Farmacológicas - Propriedades Farmacocinéticas).
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+EKLIRA® GENUAIR® deve ser armazenado em temperatura ambiente (15º C a 30° C).
+5
+EKLIRA® GENUAIR®tem validade de 36 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Mantenha o inalador no envoltório intermediário até que o período de administração se inicie. Após aberto o envoltório,
+o produto é válido por 90 dias.
+Aspecto Físico
+EKLIRA GENUAIR é um inalador que contém um pó branco ou quase branco. O inalador é branco com uma tampa
+protetora e um botão verde, contendo 60 doses.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Modo de usar
+Para uso por via inalatória oral.
+Os pacientes devem ser instruidos sobre o uso correto do produto. Para instruções detalhadas, consulte as instruções de
+uso. Deve-se orientar os pacientes a ler as instruções cuidadosamente.
+Posologia
+A dose recomendada é de 1 inalação de 400 mcg duas vezes ao dia, uma vez pela manhã e uma vez à noite.
+Se uma dose for esquecida, esta deve ser administrada assim que possível e a dose seguinte deve ser tomada no horário habitual.
+Não se deve dobrar a dose para compensar a dose esquecida.
+Idosos
+Nenhum ajuste de dose é necessário em pacientes idosos (vide item Características Farmacológicas - Propriedades
+Farmacocinéticas).
+Disfunção renal
+Nenhum ajuste de dose é necessário em pacientes com disfunção renal (vide item Características Farmacológicas -
+Propriedades Farmacocinéticas).
+Disfunção hepática
+Nenhum ajuste de dose é necessário em pacientes com disfunção hepática (vide item Características Farmacológicas
+- Propriedades Farmacocinéticas)
+População pediátrica
+Não há uso relevante de EKLIRA® GENUAIR® em crianças e adolescentes.
+Instruções de uso
+Antes de usar EKLIRA® GENUAIR®, deve-se orientar o paciente a ler as instruções completas. Retire o
+EKLIRA® GENUAIR® do envoltório e familiarize-se com seus componentes.
+6
+Como usar EKLIRA GENUAIR
+Resumo
+Para usar EKLIRA® GENUAIR® há 2 etapas que você deve seguir após remover a tampa:
+Etapa 1: Pressione e SOLTE o botão verde e expire completamente, longe do inalador.
+Etapa 2: Coloque os seus lábios firmemente em volta do bocal e inale FORTE e PROFUNDAMENTE pelo
+inalador.
+Após a inalação, lembre-se de recolocar a tampa protetora.
+Início
+• Antes do primeiro uso, rasgue o envoltório no recorte e retire o inalador.
+• Quando for tomar a dose de seu medicamento, retire a tampa protetora apertando levemente as setas
+marcadas em ambos os lados, e puxe para fora (vide figura 1).
+FIGURA 1
+• Verifique se nada está bloqueando o bocal.
+• Segure o inalador na posição horizontal com o bocal voltado em sua direção e o botão verde voltado para cima
+(vide figura 2).
+Segure com o botão verde voltado
+para cima. NÃO INCLINE.
+FIGURA 2
+ETAPA 1: PRESSIONE o botão verde completamente e então SOLTE-O (vide figuras 3 e 4).
+7
+NÃO CONTINUE A PRESSIONAR O BOTÃO VERDE.
+PRESSIONE o botão verde completamente SOLTE o botão verde.
+FIGURA 3 FIGURA 4
+Pare e verifique: certifique-se que a dose está pronta para ser inalada
+• Certifique-se que a janela de controle colorida mudou para a cor verde (vide figura 5).
+• A janela de controle verde confirma que seu medicamento está pronto para a inalação.
+Pronto para uso
+VERDE
+FIGURA 5
+SE A JANELA DE CONTROLE COLORIDA ESTIVER VERMELHA, VOLTE ÀS AÇÕES DE
+PRESSIONAR E SOLTAR (VIDE ETAPA 1).
+• Antes de colocar o inalador na boca, expire completamente. Não expire para dentro do inalador.
+ETAPA 2:
+• Coloque seus lábios firmemente em volta do bocal do inalador e inspire FORTE e PROFUNDAMENTE
+pelo bocal (vide figura 6).
+- Esta inspiração intensa e profunda leva o medicamento através do inalador para os seus pulmões.
+ATENÇÃO: NÃO PRESSIONE O BOTÃO VERDE
+PARA BAIXO ENQUANTO ESTIVER INALANDO.
+CORRETO INCORRETO
+FIGURA 6
+8
+• Ao inspirar, você ouvirá um “CLIQUE”. Isto indica que você está usando o inalador corretamente.
+• Continue inspirando mesmo depois de ter ouvido o “CLIQUE” do inalador, para certificar-se que recebeu a
+dose completa.
+• Retire o inalador de sua boca e prenda sua respiração pelo tempo que for confortável, então expire
+lentamente pelo nariz.
+Nota: Alguns pacientes podem sentir um sabor adocicado ou ligeiramente amargo, ou sensação de granulados, dependendo do
+paciente, durante a inalação do medicamento. Não tome uma dose extra se não sentir qualquer sabor após a inalação.
+Pare e verifique: certifique-se que inalou de forma correta
+• Certifique-se que a janela de controle voltou para o vermelho (vide figura 7). Isto confirma que você
+inalou corretamente a dose completa.
+VERMELHO
+FIGURA 7
+SE A COR DA JANELA DE CONTROLE AINDA ESTIVER VERDE, REPITA A INSPIRAÇÃO FORTE E
+PROFUNDA ATRAVÉS DO BOCAL (VIDE ETAPA 2).
+• Se a janela ainda não tiver mudado para vermelho, pode ser que você se esqueceu de soltar o botão verde antes de
+inspirar ou pode não ter inalado corretamente. Se isso acontecer, tente novamente.
+Certifique-se que você SOLTOU o botão verde e inspire FORTEMENTE pelo bocal.
+Nota: Se você não for capaz de inalar corretamente depois de diversas tentativas, consulte seu médico.
+• Quando a janela voltar a ficar vermelha, coloque novamente a tampa de proteção pressionando-a de volta no bocal (vide
+figura 8).
+FIGURA 8
+Quando devo obter um novo inalador?
+• O inalador está equipado com um indicador de dose para mostrar quantas doses aproximadamente ainda existem no
+inalador. O indicador de dose se move lentamente para baixo, exibindo intervalos de 10 (60, 50, 40, 30, 20, 10, 0) (vide
+figura A).
+• Quando aparecer uma faixa com listras vermelhas no indicador de dose (vide figura A), isto significa que você
+está próximo de sua última dose e deve obter um novo inalador.
+O indicador de dose desce em intervalos de
+10: 60, 50, 40, 30, 20, 10, 0.
+9
+FIGURA A
+Nota: Se o seu inalador parecer que está danificado ou se você perder a tampa, ele deverá ser substituído. NÃO É NECESSÁRIO
+limpar o seu inalador. No entanto, se quiser limpá-lo, deverá limpar o exterior do bocal com um pano seco ou papel-toalha.
+NUNCA utilize água para limpar o inalador, pois poderá danificar o medicamento.
+Como você sabe que o inalador está vazio?
+• Quando aparecer 0 (zero) no centro do indicador de dose você deverá continuar a utilizar as doses restantes no inalador.
+• Quando a última dose tiver sido preparada para inalação, o botão verde não voltará totalmente à sua posição inicial, mas
+ficará bloqueado numa posição intermediária (vide figura B). Apesar do botão verde ficar bloqueado, ainda assim você
+poderá inalar sua última dose. Depois disso o inalador não pode ser utilizado novamente e você deve começar a usar um
+inalador novo.
+Travado
+FIGURA B
+9. REAÇÕES ADVERSAS
+Resumo do perfil de segurança
+As reações adversas relatadas mais frequentemente com EKLIRA® GENUAIR® foram cefaleia (6,6 %) e nasofaringite (5,5 %).
+Resumo das reações adversas
+As frequências atribuídas às reações adversas listadas a seguir são baseadas nas taxas de incidência brutas de reações adversas
+(ou seja, eventos atribuídos a EKLIRA® GENUAIR®) observadas com EKLIRA® GENUAIR® 400 mcg/inalação (636
+pacientes) na análise agrupada de um estudo clínico de 6 meses e dois de 3 meses, randomizados e controlados por placebo.
+A frequência das reações adversas é definida utilizando a seguinte convenção: muito comum (≥1/10); comum (≥1/100 a <1/10);
+incomum (≥1/1.000 a <1/100); rara (≥1/10.000 a <1/1.000); muito rara (<1/10.000) e desconhecida (não pode ser estimada a partir
+dos dados disponíveis).
+Tabela 2 Reações adversas ao medicamento por frequência e classe de sistemas e órgãos (SOC)
+Frequência SOC Reação
+Comum (≥1/100 a <1/10)
+Infecções e infestações: Nasofaringite , sinusite
+Distúrbios do sistema nervoso: Cefaleia
+Distúrbios respiratórios, torácicos e do mediastino: Tosse
+Distúrbios gastrointestinais: Diarreia, náusea*
+10
+Incomum (≥1/1.000 a <1/100)
+Doenças oculares: Visão turva
+Distúrbios cardíacos: Taquicardia
+Distúrbios respiratórios, torácicos e do mediastino: Disfonia
+Distúrbios gastrointestinais: Boca seca, estomatite
+Distúrbios da pele e tecido subcutâneo: Erupção cutânea, prurido
+Distúrbios renais e urinários: Retenção urinária
+Rara (≥1/10.000 a <1/1.000)
+Distúrbios do sistema imune: Hipersensibilidade
+Desconhecida
+Distúrbios do sistema imune: Angioedema, reação anafilática
+*Baseado em dados pós-comercialização. A incidência de náusea em estudos clínicos foi menor para o aclidínio do que para o
+placebo (43,9 vs. 48,3 por 1000 anos de pacientes, respectivamente).
+Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado eficácia e segurança aceitáveis,
+mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos imprevisíveis ou desconhecidos. Nesse caso,
+notifique os eventos adversos pelo Sistema de Notificações em Vigilância Sanitária - NOTIVISA, disponível em
+http://www.anvisa.gov.br/hotsite/notivisa/index.htm, ou para a Vigilância Sanitária Estadual ou Municipal.
+10. SUPERDOSE
+Altas doses de aclidínio podem levar a sinais e sintomas anticolinérgicos.
+Doses inaladas únicas de até 6.000 microgramas de brometo de aclidínio foram administradas a indivíduos saudáveis sem efeitos
+adversos anticolinérgicos sistêmicos. Não se observaram efeitos clínicos adversos relevantes após doses de até 800 microgramas
+de brometo de aclidínio duas vezes ao dia por 7 dias em indivíduos saudáveis.
+A intoxicação aguda por ingestão medicinal inadvertida de aclidínio é pouco provável devido à sua baixa biodisponibilidade oral
+e o mecanismo de dosagem do inalador que é acionado pela inspiração.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III – DIZERES LEGAIS
+Registro: 1.1013.0301.001-0
+Fabricado por: Industrias Farmacéuticas Almirall SA – Barcelona – Espanha
+Registrado por:
+Glenmark Farmacêutica Ltda.
+São Paulo, SP
+CNPJ n° 44.363.661/0001-57
+Importado por:
+Glenmark Farmacêutica Ltda
+Rua Edgar Marchiori, 255
+Distrito Industrial - Vinhedo, SP
+CNPJ nº 44.363.661/0005-80
+VENDA SOB PRESCRIÇÃO
+Eklira é uma marca registrada pela Almirall, S.A, e Genuair é uma marca registrada pelo Grupo AstraZeneca, e estão sob
+licença de utilização da Glenmark.
+Esta bula foi aprovada pela ANVISA em 04/11/2024.
+11

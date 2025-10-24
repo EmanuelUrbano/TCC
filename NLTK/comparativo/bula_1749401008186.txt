@@ -1,0 +1,31 @@
+INDICAÇÕES GENCIX (cloridrato de gencitabina) é indicado para o tratamento de pacientes com câncer de bexiga e adenocarcinoma do pâncreas localmente
+avançado ou metastático. É também indicado para pacientes com câncer pancreático refratário ao 5-FU (5-fluoruracila).
+GENCIX (cloridrato de gencitabina) isolado ou em combinação com a cisplatina é indicado como tratamento de primeira linha de pacientes com
+câncer de pulmão de não pequenas células localmente avançado ou metastático.
+GENCIX (cloridrato de gencitabina), em combinação ao paclitaxel, é indicado para o tratamento de pacientes com câncer de mama irressecável,
+metastático ou localmente recorrente, que recidivou após quimioterapia adjuvante/neoadjuvante. O tratamento quimioterápico prévio deve ter
+incluído uma antraciclina, a menos que esta tenha sido clinicamente contraindicada.
+2. RESULTADOS DE EFICÁCIA
+Câncer de pulmão de não pequenas células (CPNPC)
+Dados de 2 estudos clínicos randomizados (657 pacientes) suportam o uso de cloridrato de gencitabina em combinação com a cisplatina para o
+tratamento de primeira linha de pacientes com CPNPC localmente avançado ou metastático.
+O cloridrato de gencitabina em combinação com cisplatina versus cisplatina como agente isolado - este estudo foi conduzido na Europa, nos
+Estados Unidos e no Canadá em 522 pacientes com CPNPC estadio clínico IIIA e IIIB inoperáveis ou IV que não tinham recebido quimioterapia
+prévia. Uma dose de 1.000 mg/m2 de cloridrato de gencitabina foi administrada nos Dias 1, 8 e 15 de um ciclo de 28 dias em combinação com
+cisplatina, dose de 100 mg/m2, administrada no Dia 1 de cada ciclo. Uma dose de 100 mg/m2 de cisplatina como agente isolado foi administrada no
+Dia 1 a cada ciclo de 28 dias. O objetivo primário foi a sobrevida. Observou-se um desequilíbrio com relação a histologia em 48% dos pacientes no
+grupo de cisplatina e, em 37% dos pacientes no grupo de cloridrato de gencitabina mais cisplatina, a histologia era adenocarcinoma.
+O tempo de sobrevida mediano no grupo de cloridrato de gencitabina mais cisplatina foi de 9,0 meses, comparado a 7,6 meses do grupo de
+cisplatina como agente isolado. O tempo mediano para a progressão da doença foi de 5,2 meses no grupo de cloridrato de gencitabina mais
+cisplatina comparado a 3,7 meses no grupo da cisplatina. A taxa de resposta objetiva no grupo de cloridrato de gencitabina mais cisplatina foi de
+26%, comparada a 10% com cisplatina. Não foi observada nenhuma diferença entre os grupos de tratamento com relação à duração de resposta.
+Câncer pancreático
+Dados de 2 estudos clínicos avaliaram o uso de cloridrato de gencitabina em pacientes com câncer pancreático localmente avançado ou metastático.
+O primeiro estudo comparou cloridrato de gencitabina ao 5-FU em pacientes que não receberam nenhuma quimioterapia prévia. O segundo estudou
+o uso de cloridrato de gencitabina em pacientes com câncer pancreático previamente tratados com 5-FU ou com um regime contendo 5-FU. Em
+ambos os estudos, o primeiro ciclo de cloridrato de gencitabina foi administrado intravenosamente na dose de 1.000 mg/m2 por 30 minutos, uma
+vez por semana, por até 7 semanas (ou até que a toxicidade tornasse necessária a suspensão da droga), seguida por uma semana de descanso do
+tratamento com cloridrato de gencitabina. Ciclos subsequentes consistiram de injeções semanais por 3 semanas consecutivas seguidas de uma
+semana de descanso a cada 4 semanas.
+O parâmetro de eficácia primária nesses estudos foi o “benefício clínico”, que é uma medida de melhora clínica baseada no consumo de
+analgésicos, intensidade de dor, condição clínica e alteração de peso. Definições para a melhora dessas variáveis foram formuladas

@@ -1,0 +1,645 @@
+EQUILID®
+(sulpirida)
+Comprimido
+200 mg
+Blanver Farmoquímica e Farmacêutica S.A.
+BLANVER FARMOQUÍMICA E FARMACÊUTICA S.A.
+IDENTIFICAÇÃO DO MEDICAMENTO
+EQUILID
+sulpirida
+APRESENTAÇÃO
+EQUILID® é apresentado em comprimidos de 200 mg presentes em embalagem blíster com 20 comprimidos.
+USO ORAL.
+USO ADULTO.
+COMPOSIÇÃO
+Cada comprimido contém 200 mg de sulpirida.
+Excipientes: gelatina, hipromelose, amido de milho, amido de milho pré-gelatinizado, lactose monoidratada, dióxido de
+silício, estearato de magnésio e talco.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Este medicamento é destinado ao tratamento da esquizofrenia.
+2. RESULTADOS DE EFICÁCIA
+Esquizofrenia
+Quando administrada em altas doses, a sulpirida apresenta efeitos neurolépticos como um antipsicótico atípico, com ação
+nos sintomas negativos e positivos, e que tem mostrado um resultado satisfatório no tratamento de pacientes
+esquizofrênicos. Estudos sugerem que em tratamentos de curto prazo, isto é, entre 3 e 16 semanas de uso, a sulpirida têm se
+mostrado tão eficaz quanto os antipsicóticos típicos. Do mesmo modo, estudos em longo prazo, 4 a 42 meses, têm
+demonstrado sua eficácia, embora na sua maioria sejam estudos abertos (Borenstein et aI., 1968; Cassano et aI., 1975;
+Edwards et aI., 1980; Lepola et aI., 1989; Mauri et al 1996).
+Em estudo para avaliar a eficácia da sulpirida em 38 pacientes com esquizofrenia crônica, randomizado e controlado com
+trifluoroperazina, o grupo que recebeu sulpirida apresentou melhora significativa na avaliação global de gravidade da
+doença em comparação à avaliação basal após 2, 4 e 6 semanas. O grupo da trifluoroperazina também apresentou melhora,
+não havendo diferença estatisticamente significativa entre os dois grupos, concluindo que sulpirida é tão eficaz quanto
+trifluoroperazina (Edwards et al. 1980).
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+EQUILID é um neuroléptico do grupo das benzamidas, antagonista farmacológico da dopamina, estruturalmente distinto
+dos fenotiazínicos, butirofenonas e tioxantenos. EQUILID atua de forma bimodal: bloqueia os receptores dopaminérgicos
+1 de 10
+pós-sinápticos, como os neurolépticos convencionais, porém de forma seletiva, bloqueando somente receptores não-
+dependentes da adenilciclase (receptores D2). EQUILID bloqueia também os receptores dopaminérgicos autoinibitórios
+pré-sinápticos, aumentando a quantidade de neurotransmissor na fenda sináptica. Tal ação pré-sináptica é dominante em
+baixas concentrações teciduais do fármaco, o que pode explicar seu efeito antidepressivo em baixa posologia.
+EQUILID também difere dos neurolépticos convencionais em relação aos efeitos observados em testes experimentais em
+animais; é inativo em alguns testes rotineiramente utilizados para avaliação da atividade neuroléptica. Tais efeitos, aliados a
+uma fraca lipofilicidade, podem explicar sua baixa atividade sedante em uso clínico.
+Em baixas posologias, EQUILID apresenta um efeito predominantemente antidepressivo devido a seu mecanismo de ação
+bimodal. Esta ação estimulante simula um efeito dopaminérgico e pode explicar o desencadeamento de crises hipertensivas
+(paralelamente a um aumento da excreção urinária de ácido vanilmandélico) observado em alguns pacientes hipertensos
+tratados com EQUILID ou de feocromocitomas em pacientes em que esta patologia é latente.
+A esquizofrenia, caracterizada por perda de contato social, pode ser tratada com EQUILID. Em geral, em pacientes
+esquizofrênicos, observa-se uma melhor sociabilização após alguns dias de tratamento e controle dos sintomas.
+EQUILID exerce uma ação depressora direta sobre as funções vestibulares. Vários estudos constataram sua eficácia no
+tratamento de vertigens de origens diversas: pós-traumáticas, Menière, de origem cervical, pós-operatórias, vasculares,
+neurológicas, psicossomáticas, iatrogênicas e outras.
+Como outros neurolépticos, que também são inibidores da dopamina, EQUILID pode produzir reações extrapiramidais,
+sedação, inibição central da êmese e induzir a liberação de prolactina.
+Propriedades Farmacocinéticas
+A absorção da sulpirida, após administração via oral, ocorre em 4,5 horas e pode sofrer influência da ingestão concomitante
+de alimentos. A biodisponibilidade do fármaco é de 25 a 35%, com variações individuais significativas. Suas concentrações
+plasmáticas são proporcionais às doses administradas, e são máximas entre 1 e 6 horas da sua administração oral. Ocorre
+baixa difusão ao sistema nervoso central, onde é encontrada em maior proporção na hipófise. Sua taxa de ligação proteica é
+inferior a 40%, sua meia-vida plasmática é de 7 horas e 90% da dose administrada via intravenosa é excretada na urina sem
+metabolização. A eliminação do fármaco é essencialmente renal.
+4. CONTRAINDICAÇÕES
+EQUILID é contraindicado para uso por:
+- pacientes com hipersensibilidade à sulpirida ou a qualquer componente da fórmula;
+- pacientes com tumor dependente de prolactina (ex. prolactinomas da glândula pituitária e câncer de mama);
+- pacientes com diagnóstico ou suspeita de feocromocitoma;
+- lactação (vide “Advertências e Precauções – Lactação”);
+- utilização concomitante com levodopa ou medicamentos antiparkinsonianos (incluindo ropinirol) (vide “Interações
+Medicamentosas”);
+- porfiria aguda.
+2 de 10
+5. ADVERTÊNCIAS E PRECAUÇÕES
+ADVERTÊNCIAS
+Prolongamento do intervalo QT
+A sulpirida pode induzir o prolongamento do intervalo QT (vide “Reações Adversas”). Este efeito é conhecido por
+potencializar o risco de arritmias ventriculares graves como torsades de pointes.
+Antes da administração de sulpirida e se possível de acordo com o estado clínico do paciente, recomenda-se o
+monitoramento de fatores que podem favorecer a ocorrência dessas arritmias, como por exemplo:
+- bradicardia (menos que 55 bpm);
+- desequilíbrio eletrolítico, em particular hipocalemia;
+- prolongamento congênito do intervalo QT;
+- tratamento concomitante com medicamentos que podem causar bradicardia considerável ( 55 bpm);
+- hipocalemia;
+- condução intracardíaca diminuída ou prolongamento do intervalo QT (vide “Interações Medicamentosas”).
+Acidente Vascular Cerebral
+Em estudos clínicos randomizados versus placebo realizados em uma população de pacientes idosos com demência e
+tratados com fármacos antipsicóticos atípicos foi observado um aumento de 3 vezes no risco da ocorrência de eventos
+cerebrovasculares. O mecanismo pelo qual ocorre esse aumento não é conhecido. Um aumento no risco com a
+administração de outros fármacos antipsicóticos ou outras populações de pacientes não pode ser excluído. A sulpirida deve
+ser usada com cautela em pacientes com fatores de risco para acidente vascular cerebral.
+Assim como com outros neurolépticos, pode ocorrer Síndrome Neuroléptica Maligna (SNM), uma complicação
+potencialmente fatal, caracterizada por hipertermia, rigidez muscular e disfunção autonômica. Foram observados casos com
+características atípicas, tais como hipertermia sem rigidez muscular ou hipertonia. Em caso de hipertermia de origem
+desconhecida, que pode ser considerado como um sinal/sintoma precoce de SNM ou como uma SNM atípica, sulpirida
+deve ser descontinuada prontamente com supervisão médica.
+Devido ao aumento do risco de desenvolvimento/agravamento dos sintomas extrapiramidais, sulpirida deve ser usada
+somente quando for absolutamente necessário em pacientes portadores do mal de Parkinson ou demência por corpos de
+Lewy.
+Pacientes idosos com demência
+Os pacientes idosos com psicose relacionada à demência, tratados com medicamentos antipsicóticos, estão sob risco de
+óbito aumentado. A análise de 17 estudos placebo-controlados (duração modal de 10 semanas), majoritariamente em
+pacientes utilizando medicamentos antipsicóticos atípicos, revelou um risco de óbito entre 1,6 a 1,7 vezes maior em
+pacientes tratados com o medicamento do que em pacientes tratados com placebo. Durante o curso de um típico estudo
+controlado por 10 semanas, a taxa de óbito em pacientes tratados com o medicamento foi de aproximadamente 4,5%,
+comparado com a taxa de aproximadamente 2,6% no grupo recebendo placebo. Embora os casos de óbito em ensaios
+clínicos com antipsicóticos atípicos sejam variados, a maioria dos óbitos parece ter ocorrido naturalmente por problemas
+cardiovasculares (exemplo: insuficiência cardíaca, morte súbita) ou infecciosos (exemplo: pneumonia). Estudos
+3 de 10
+observacionais sugerem que, similarmente aos medicamentos antipsicóticos atípicos, o tratamento com medicamentos
+antipsicóticos convencionais pode aumentar a mortalidade. Não está claro o quanto este achado de mortalidade aumentada
+pode ser atribuído ao medicamento antipsicótico ao invés de algumas características dos pacientes.
+Tromboembolismo venoso
+Casos de tromboembolismo venoso, algumas vezes fatais, foram reportados com medicamentos antipsicóticos. Portanto,
+EQUILID deve ser utilizado com cautela em pacientes com fatores de riscos para tromboembolismo (vide “Reações
+Adversas”).
+Câncer de mama
+A sulpirida pode aumentar os níveis de prolactina. Portanto, recomenda-se precaução e os pacientes com história ou uma
+história familiar de câncer de mama devem ser cuidadosamente monitorados durante o tratamento.
+PRECAUÇÕES
+Uma vez que existem relatos de hiperglicemia em pacientes tratados com fármacos antipsicóticos atípicos, os pacientes que
+estão iniciando o tratamento com sulpirida e que apresentam diagnóstico estabelecido de diabetes mellitus ou fatores de
+risco para diabetes, devem receber um monitoramento glicêmico adequado.
+Os neurolépticos podem diminuir o limiar epileptogênico e alguns casos de convulsão foram reportados com o uso de
+sulpirida (vide “Reações Adversas”). Portanto, os pacientes com histórico de epilepsia devem ser cuidadosamente
+monitorados durante o tratamento com a sulpirida.
+Em pacientes com comportamento agressivo ou agitação com impulsividade, a sulpirida pode ser administrada com um
+sedativo.
+Foram reportadas leucopenia, neutropenia e agranulocitose no tratamento com medicamentos antipsicóticos, incluindo
+EQUILID. Infecções inexplicáveis ou febre podem ser evidências de discrasias sanguíneas (vide “Reações Adversas”) e
+requerem investigação hematológica imediata.
+EQUILID deve ser utilizado com cautela em pacientes com histórico de glaucoma, íleo paralítico, estenose digestiva
+congênita, retenção urinária ou hiperplasia de próstata.
+EQUILID deve ser utilizado com cautela em pacientes hipertensos, especialmente em pacientes idosos, devido o risco de
+crise hipertensiva. Monitoramento adequado deve ser realizado.
+Gravidez
+Estudos em animais não indicaram efeitos danosos diretos ou indiretos com respeito à teratogenicidade e
+embriofetotoxicidade. Estudos em animais são insuficientes em relação aos transtornos do desenvolvimento neurológico
+em filhotes. A sulpirida atravessa a placenta. Em humanos, existem dados clínicos muito limitados sobre a exposição de
+mulheres grávidas à sulpirida. O uso de sulpirida não é recomendado durante a gravidez e em mulheres com potencial para
+engravidar que não utilizam métodos contraceptivos eficazes, a menos que os benefícios justifiquem os riscos potenciais.
+Os neonatos expostos a medicamentos antipsicóticos, incluindo EQUILID, durante o terceiro trimestre da gravidez correm
+o risco de apresentar reações adversas incluindo sintomas extrapiramidais e/ou de abstinência que podem variar em
+severidade e duração após o parto (vide “Reações Adversas”). Existem relatos de agitação, hipertonia, hipotonia, tremor,
+4 de 10
+sonolência, dificuldade respiratória ou distúrbios de alimentação. Consequentemente, os recém-nascidos devem ser
+monitorados cuidadosamente.
+Categoria de risco na gravidez: C. Este medicamento não deve ser utilizado por mulheres grávidas sem orientação
+médica.
+Fertilidade
+Foi observada uma diminuição na fertilidade ligada aos efeitos farmacológicos do fármaco (efeito mediado pela prolactina)
+nos animais tratados.
+Lactação
+A sulpirida é excretada no leite materno. A amamentação é contraindicada.
+Populações especiais
+Pacientes idosos: como com outros neurolépticos, a sulpirida deve ser usada com cautela em pacientes idosos, pois a
+sensibilidade ao produto está aumentada nessa faixa etária. No caso de pacientes idosos com demência (vide “Advertências
+e Precauções”).
+Insuficiência renal: deve-se reduzir a dose de sulpirida em casos de insuficiência renal.
+Crianças: a segurança e eficácia de sulpirida não foram completamente investigadas em crianças. Por essa razão, deve-se
+ter cautela ao prescrever sulpirida a crianças.
+Alterações na capacidade de dirigir veículos e operar máquinas
+Mesmo quando utilizado da maneira recomendada, a sulpirida pode causar sedação.
+Durante o tratamento o paciente não deve dirigir veículos ou operar máquinas, pois sua habilidade e atenção podem
+estar prejudicadas.
+6. INTERAÇÕES MEDICAMENTOSAS
+Associação contraindicada
+A levodopa, medicamentos antiparkinsonianos (incluindo ropinirol): antagonismo recíproco dos efeitos entre levodopa ou
+medicamentos antiparkinsonianos (incluindo ropinirol) e neurolépticos.
+Associações não recomendadas
+Álcool: o álcool aumenta o efeito sedativo dos neurolépticos. Bebidas alcoólicas e medicamentos contendo álcool, não
+devem ser ingeridos durante o tratamento com EQUILID.
+Uso concomitante com medicamentos que podem causar o prolongamento do intervalo QT ou induzir torsades de pointes
+(vide “Advertências e Precauções”):
+5 de 10
+- Medicamentos que induzem bradicardia como betabloqueadores, bloqueadores de canal de cálcio (diltiazem, verapamil),
+clonidina, guanfacina e digitálicos.
+- Medicamentos que induzem hipocalemia: diuréticos hipocalêmicos, laxativos, anfotericina B, glicocorticoides e
+tetracosactídeos. A hipocalemia deve ser corrigida.
+- Antiarrítmicos classe Ia como quinidina e disopiramida.
+- Antiarrítmicos classe III como amiodarona e sotalol.
+- Outros medicamentos como pimozida, sultoprida, haloperidol, tioridazina, metadona, antidepressivos imipramínicos, lítio,
+bepridil, cisaprida, eritromicina IV, vincamina IV, halofantrina, pentamidina, esparfloxacino.
+Associações que devem ser consideradas
+Agentes anti-hipertensivos: efeito anti-hipertensivo e possibilidade de hipotensão ortostática aumentada (efeito aditivo).
+Depressores do SNC incluindo narcóticos, analgésicos, anti-histamínicos H1 sedativos, barbitúricos, benzodiazepínicos e
+outros ansiolíticos, clonidina e derivados.
+Antiácidos e sucralfato: quando coadministrados ocorre a diminuição da absorção da sulpirida. Portanto, a sulpirida deve
+ser administrada no mínimo duas horas antes destes fármacos.
+Lítio: aumenta o risco de reações adversas extrapiramidais. A descontinuação dos dois medicamentos é recomendada aos
+primeiros sinais de neurotoxicidade.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+EQUILID deve ser mantido em sua embalagem original, em temperatura ambiente (entre 15 e 30° C). Proteger da luz.
+Prazo de validade: 24 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características físicas e organolépticas
+Comprimidos brancos a branco marfim, redondos e biplanos, apresentando uma face com sulco central e a outra face com
+gravação QE M.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Os comprimidos devem ser administrados com líquido, por via oral.
+Esquizofrenia: 400 a 800 mg ao dia, em duas ingestões. A posologia pode ser aumentada, se necessário, até o máximo de
+1200 mg ao dia.
+6 de 10
+Sintomas predominantemente excitatórios (delírios, alucinações) respondem melhor utilizando-se doses maiores, iniciando-
+se o tratamento com 400 mg duas vezes ao dia e aumentando-se até 1200 mg ao dia, se necessário.
+Sintomas predominantemente depressivos respondem melhor a doses iguais ou inferiores a 800 mg ao dia.
+Pacientes com sintomatologia mista respondem geralmente a uma posologia de 400 - 600 mg duas vezes ao dia.
+Não há estudos dos efeitos de EQUILID administrado por vias não recomendadas. Portanto, por segurança e para garantir a
+eficácia deste medicamento, a administração deve ser somente por via oral.
+Populações especiais
+Pacientes com insuficiência renal: deve-se reduzir a dose de sulpirida em casos de insuficiência renal.
+9. REAÇÕES ADVERSAS
+Reação muito comum (≥ 1/10);
+Reação comum (≥ 1/100 e < 1/10);
+Reação incomum (≥ 1/1.000 e < 1/100);
+Reação rara (≥ 1/10.000 e < 1/1.000);
+Reação muito rara (< 1/10.000);
+Reação desconhecida (não pode ser estimada a partir dos dados disponíveis).
+Distúrbios autonômicos
+Crises hipertensivas (em hipertensos ou portadores de feocromocitomas).
+Distúrbios do sangue e sistema linfático (vide “Advertências e Precauções”)
+Incomum: leucopenia.
+Desconhecido: neutropenia, agranulocitose (vide “Advertências e Precauções”).
+Distúrbios do sistema imunológico
+Desconhecido: reações anafiláticas: urticária, dispneia, hipotensão e choque anafilático.
+Distúrbios endócrinos
+Comum: hiperprolactinemia.
+Distúrbios psiquiátricos
+Comum: insônia.
+Desconhecido: confusão.
+Distúrbios do sistema nervoso
+Comum: sedação ou sonolência, distúrbios extrapiramidais (estes sintomas geralmente são reversíveis após administração
+de medicamentos antiparkinsonianos), parkinsonismo, tremor, acatisia.
+7 de 10
+Incomum: hipertonia, discinesia, distonia.
+Raro: crises oculógiras.
+Desconhecido: síndrome neuroléptica maligna, que é uma complicação potencialmente fatal, hipocinesia, discinesia tardia
+(tem sido reportada, como com todos os neurolépticos, após a administração de neuroléptico por mais de 3 meses.
+Medicação antiparkinsoniana é ineficaz ou pode induzir o agravamento dos sintomas), convulsão.
+Distúrbios metabólicos e de nutrição
+Desconhecido: hiponatremia, síndrome da secreção inapropriada de hormônio antidiurético (SIADH).
+Distúrbios cardíacos
+Raro: arritmia ventricular, fibrilação ventricular, taquicardia ventricular.
+Desconhecido: prolongamento do intervalo QT, parada cardíaca, torsades de pointes, morte súbita (vide “Advertências e
+Precauções”).
+Distúrbios vasculares
+Incomum: hipotensão ortostática.
+Desconhecido: tromboembolismo venoso, embolismo pulmonar, algumas vezes fatal, trombose venosa profunda (vide
+“Advertências e Precauções”) e aumento da pressão arterial (vide “Advertências e Precauções”).
+Distúrbios respiratórios, torácicos e mediastinal
+Desconhecido: pneumonia aspirativa (principalmente em associação com outros depressores do Sistema Nervoso Central).
+Distúrbios gastrintestinais
+Comum: constipação.
+Incomum: hipersecreção salivar.
+Distúrbios hepatobiliares
+Comum: aumento das enzimas do fígado.
+Desconhecido: lesão hepatocelular, lesão colestática ou lesão mista.
+Distúrbios da pele e tecidos subcutâneos
+Comum: rash maculopapular.
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+Desconhecido: torcicolo, trismo, rabdomiólise.
+Gravidez e condições no puerpério e perinatais
+Desconhecido: sintomas extrapiramidais, síndrome de abstinência neonatal (vide “Advertências e Precauções”).
+Distúrbios do sistema reprodutivo e mama
+8 de 10
+Comum: dor nas mamas, galactorreia.
+Incomum: aumento das mamas, amenorreia, orgasmo anormal, disfunção erétil.
+Desconhecido: ginecomastia.
+Distúrbios gerais e Condições do local de administração
+Comum: aumento de peso.
+Desconhecido: hipertermia (vide “Advertências e Precauções”).
+Investigações
+Desconhecido: creatina fosfoquinase sanguínea aumentada.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa
+10. SUPERDOSE
+Sinais e sintomas
+A experiência em superdosagem com a sulpirida é limitada. Quando ocorre superdosagem, podem ocorrer manifestações
+discinéticas com torcicolo espasmódico, protusão da língua e trismo. Alguns pacientes podem desenvolver manifestações
+parkinsonianas que podem levar ao coma e até a morte.
+Desfechos fatais foram relatados principalmente em combinação com outros agentes psicotrópicos.
+A sulpirida é parcialmente removida com hemodiálise.
+Tratamento
+O tratamento é sintomático, não existe um antídoto específico. Medidas de suporte apropriadas devem ser instituídas e a
+supervisão das funções vitais e monitoramento cardíaco (risco do prolongamento do intervalo QT e consequente arritmia
+ventricular) são recomendados até que o paciente se recupere.
+Caso ocorram sintomas extrapiramidais severos, deve-se administrar anticolinérgicos.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro: 1.1524.0022
+Registrado por:
+Blanver Farmoquímica e Farmacêutica S.A.
+São Paulo – Brasil
+CNPJ 53.359.824/0001-19
+Produzido por:
+Opella Healthcare Brazil Ltda.
+Suzano – Brasil
+SAC 0800-892-2166
+9 de 10
+V.00
+VENDA SOB PRESCRIÇÃO COM RETENÇÃO DA RECEITA.
+Esta bula foi aprovada pela ANVISA em31/03/2025.
+10 de 10
+EQUILID®
+(sulpirida)
+Cápsula Gelatinosa Dura
+50 mg
+Blanver Farmoquímica e Farmacêutica S.A.
+BLANVER FARMOQUÍMICA E FARMACÊUTICA S.A.
+IDENTIFICAÇÃO DO MEDICAMENTO
+EQUILID
+sulpirida
+APRESENTAÇÃO
+EQUILID® é apresentado em cápsulas de 50 mg presentes em embalagem blíster com 20 cápsulas.
+USO ORAL.
+USO ADULTO.
+COMPOSIÇÃO
+Cada cápsula contém 50 mg de sulpirida.
+Excipientes: estearato de magnésio, amido de milho seco e lactose monoidratada.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EQUILID é um medicamento a base de sulpirida, indicado para pacientes com problemas neurolépticos, como estados
+neuróticos depressivos, síndromes vertiginosas e esquizofrenia.
+2. RESULTADOS DE EFICÁCIA
+Esquizofrenia
+Quando administrada em altas doses, a sulpirida apresenta efeitos neurolépticos como um antipsicótico atípico, com ação
+nos sintomas negativos e positivos, e que tem mostrado um resultado satisfatório no tratamento de pacientes
+esquizofrênicos. Estudos sugerem que em tratamentos de curto prazo, isto é, entre 3 e 16 semanas de uso, a sulpirida têm se
+mostrado tão eficaz quanto os antipsicóticos típicos. Do mesmo modo, estudos em longo prazo, 4 a 42 meses, têm
+demonstrado sua eficácia, embora na sua maioria sejam estudos abertos (Borenstein et aI., 1968; Cassano et aI., 1975;
+Edwards et aI., 1980; Lepola et aI., 1989; Mauri et al 1996).
+Em estudo para avaliar a eficácia da sulpirida em 38 pacientes com esquizofrenia crônica, randomizado e controlado com
+trifluoroperazina, o grupo que recebeu sulpirida apresentou melhora significativa na avaliação global de gravidade da
+doença em comparação à avaliação basal após 2, 4 e 6 semanas. O grupo da trifluoroperazina também apresentou melhora,
+não havendo diferença estatisticamente significativa entre os dois grupos, concluindo que sulpirida é tão eficaz quanto
+trifluoroperazina (Edwards et al. 1980).
+Depressão
+Quando dada em baixas doses a sulpirida tem uma ação antidepressiva. Estudo realizado com pacientes sofrendo
+componentes depressivos em neuroses de diferentes tipos, demonstrou que a sulpirida foi superior ao placebo no efeito
+antidepressivo (Wada, 1974).
+1 de 10
+Em um estudo duplo-cego comparando o uso de imipramina versus sulpirida em pacientes com depressão de várias
+etiologias, demonstrou que os paciente que fizeram uso da sulpirida apresentaram boa resposta assim como os que fizeram
+uso da imipramina (Yura et aI. 1976). O mesmo foi identificado quando se comparou a sulpirida a amitriptilina no
+tratamento de pacientes com depressão (Aylward et aI., 1981; Standish-Barry et aI., 1983: Bruynooghe et aI., 1992).
+Vertigem
+A sulpirida apresenta efetividade no tratamento da vertigem, sendo que seus efeitos geralmente são notados em 3 a 4 dias
+de tratamento. Entretanto, o aparecimento de resposta terapêutica em 48 horas também tem sido relatado (Lebon, 1983).
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+EQUILID é um neuroléptico do grupo das benzamidas, antagonista farmacológico da dopamina, estruturalmente distinto
+dos fenotiazínicos, butirofenonas e tioxantenos. EQUILID atua de forma bimodal: bloqueia os receptores dopaminérgicos
+pós-sinápticos, como os neurolépticos convencionais, porém de forma seletiva, bloqueando somente receptores não-
+dependentes da adenilciclase (receptores D2). EQUILID bloqueia também os receptores dopaminérgicos autoinibitórios
+pré-sinápticos, aumentando a quantidade de neurotransmissor na fenda sináptica. Tal ação pré-sináptica é dominante em
+baixas concentrações teciduais do fármaco, o que pode explicar seu efeito antidepressivo em baixa posologia.
+EQUILID também difere dos neurolépticos convencionais em relação aos efeitos observados em testes experimentais em
+animais; é inativo em alguns testes rotineiramente utilizados para avaliação da atividade neuroléptica. Tais efeitos, aliados a
+uma fraca lipofilicidade, podem explicar sua baixa atividade sedante em uso clínico.
+Em baixas posologias, EQUILID apresenta um efeito predominantemente antidepressivo devido a seu mecanismo de ação
+bimodal. Esta ação estimulante simula um efeito dopaminérgico e pode explicar o desencadeamento de crises hipertensivas
+(paralelamente a um aumento da excreção urinária de ácido vanilmandélico) observado em alguns pacientes hipertensos
+tratados com EQUILID ou de feocromocitomas em pacientes em que esta patologia é latente.
+A esquizofrenia, caracterizada por perda de contato social, pode ser tratada com EQUILID. Em geral, em pacientes
+esquizofrênicos, observa-se uma melhor sociabilização após alguns dias de tratamento e controle dos sintomas.
+EQUILID exerce uma ação depressora direta sobre as funções vestibulares. Vários estudos constataram sua eficácia no
+tratamento de vertigens de origens diversas: pós-traumáticas, Menière, de origem cervical, pós-operatórias, vasculares,
+neurológicas, psicossomáticas, iatrogênicas e outras.
+Como outros neurolépticos, que também são inibidores da dopamina, EQUILID pode produzir reações extrapiramidais,
+sedação, inibição central da êmese e induzir a liberação de prolactina.
+Propriedades Farmacocinéticas
+A absorção da sulpirida, após administração via oral, ocorre em 4,5 horas e pode sofrer influência da ingestão concomitante
+de alimentos. A biodisponibilidade do fármaco é de 25 a 35%, com variações individuais significativas. Suas concentrações
+plasmáticas são proporcionais às doses administradas e são máximas entre 1 e 6 horas da sua administração oral. Ocorre
+baixa difusão ao sistema nervoso central, onde é encontrada em maior proporção na hipófise. Sua taxa de ligação proteica é
+inferior a 40%, sua meia-vida plasmática é de 7 horas e 90% da dose administrada via intravenosa é excretada na urina sem
+metabolização. A eliminação do fármaco é essencialmente renal.
+2 de 10
+4. CONTRAINDICAÇÕES
+EQUILID é contraindicado para uso por:
+- pacientes com hipersensibilidade à sulpirida ou a qualquer componente da fórmula;
+- pacientes com tumor dependente de prolactina (ex. prolactinomas da glândula pituitária e câncer de mama);
+- pacientes com diagnóstico ou suspeita de feocromocitoma;
+- lactação (vide “Advertências e Precauções – Lactação”);
+- utilização concomitante com levodopa ou medicamentos antiparkinsonianos (incluindo ropinirol) (vide “Interações
+Medicamentosas”);
+- porfiria aguda.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+ADVERTÊNCIAS
+Prolongamento do intervalo QT
+A sulpirida pode induzir o prolongamento do intervalo QT (vide “Reações Adversas”). Este efeito é conhecido por
+potencializar o risco de arritmias ventriculares graves como torsades de pointes.
+Antes da administração de sulpirida e se possível de acordo com o estado clínico do paciente, recomenda-se o
+monitoramento de fatores que podem favorecer a ocorrência dessas arritmias, como por exemplo:
+- bradicardia (menos que 55 bpm);
+- desequilíbrio eletrolítico, em particular hipocalemia;
+- prolongamento congênito do intervalo QT;
+- tratamento concomitante com medicamentos que podem causar bradicardia considerável ( 55 bpm);
+- hipocalemia;
+- condução intracardíaca diminuída ou prolongamento do intervalo QT (vide “Interações Medicamentosas”).
+Acidente Vascular Cerebral
+Em estudos clínicos randomizados versus placebo realizados em uma população de pacientes idosos com demência e
+tratados com fármacos antipsicóticos atípicos foi observado um aumento de 3 vezes no risco da ocorrência de eventos
+cerebrovasculares. O mecanismo pelo qual ocorre esse aumento não é conhecido. Um aumento no risco com a
+administração de outros fármacos antipsicóticos ou outras populações de pacientes não pode ser excluído. A sulpirida deve
+ser usada com cautela em pacientes com fatores de risco para acidente vascular cerebral.
+Assim como com outros neurolépticos, pode ocorrer Síndrome Neuroléptica Maligna (SNM) uma complicação
+potencialmente fatal, caracterizada por hipertermia, rigidez muscular e disfunção autonômica. Foram observados casos com
+características atípicas, tais como hipertermia sem rigidez muscular ou hipertonia. Em caso de hipertermia de origem
+desconhecida, que pode ser considerado como um sinal/sintoma precoce de SNM ou como uma SNM atípica, sulpirida
+deve ser descontinuada prontamente com supervisão médica.
+Devido ao aumento do risco de desenvolvimento/agravamento dos sintomas extrapiramidais, sulpirida deve ser usada
+somente quando for absolutamente necessário em pacientes portadores do mal de Parkinson ou demência por corpos de
+Lewy.
+3 de 10
+Pacientes idosos com demência
+Os pacientes idosos com psicose relacionada à demência, tratados com medicamentos antipsicóticos, estão sob risco de
+óbito aumentado. A análise de 17 estudos placebo-controlados (duração modal de 10 semanas), majoritariamente em
+pacientes utilizando medicamentos antipsicóticos atípicos, revelou um risco de óbito entre 1,6 a 1,7 vezes maior em
+pacientes tratados com o medicamento do que em pacientes tratados com placebo. Durante o curso de um típico estudo
+controlado por 10 semanas, a taxa de óbito em pacientes tratados com o medicamento foi de aproximadamente 4,5%,
+comparado com a taxa de aproximadamente 2,6% no grupo recebendo placebo. Embora os casos de óbito em ensaios
+clínicos com antipsicóticos atípicos sejam variados, a maioria dos óbitos parece ter ocorrido naturalmente por problemas
+cardiovasculares (exemplo: insuficiência cardíaca, morte súbita) ou infecciosos (exemplo: pneumonia). Estudos
+observacionais sugerem que, similarmente aos medicamentos antipsicóticos atípicos, o tratamento com medicamentos
+antipsicóticos convencionais pode aumentar a mortalidade. Não está claro o quanto este achado de mortalidade aumentada
+pode ser atribuído ao medicamento antipsicótico ao invés de algumas características dos pacientes.
+Tromboembolismo venoso
+Casos de tromboembolismo venoso, algumas vezes fatais, foram reportados com medicamentos antipsicóticos. Portanto,
+EQUILID deve ser utilizado com cautela em pacientes com fatores de riscos para tromboembolismo (vide “Reações
+Adversas”).
+Câncer de mama
+A sulpirida pode aumentar os níveis de prolactina. Portanto, recomenda-se precaução e os pacientes com história ou uma
+história familiar de câncer de mama devem ser cuidadosamente monitorados durante o tratamento.
+PRECAUÇÕES
+Uma vez que existem relatos de hiperglicemia em pacientes tratados com fármacos antipsicóticos atípicos, os pacientes que
+estão iniciando o tratamento com sulpirida e que apresentam diagnóstico estabelecido de diabetes mellitus ou fatores de
+risco para diabetes, devem receber um monitoramento glicêmico adequado.
+Os neurolépticos podem diminuir o limiar epileptogênico e alguns casos de convulsão foram reportados com o uso de
+sulpirida (vide “Reações Adversas”). Portanto, os pacientes com histórico de epilepsia devem ser cuidadosamente
+monitorados durante o tratamento com a sulpirida.
+Em pacientes com comportamento agressivo ou agitação com impulsividade, a sulpirida pode ser administrada com um
+sedativo.
+Foram reportadas leucopenia, neutropenia e agranulocitose no tratamento com medicamentos antipsicóticos, incluindo
+EQUILID. Infecções inexplicáveis ou febre podem ser evidências de discrasias sanguíneas (vide “Reações Adversas”) e
+requerem investigação hematológica imediata.
+EQUILID deve ser utilizado com cautela em pacientes com histórico de glaucoma, íleo paralítico, estenose digestiva
+congênita, retenção urinária ou hiperplasia de próstata.
+EQUILID deve ser utilizado com cautela em pacientes hipertensos, especialmente em pacientes idosos, devido o risco de
+crise hipertensiva. Monitoramento adequado deve ser realizado.
+Gravidez
+4 de 10
+Estudos em animais não indicaram efeitos danosos diretos ou indiretos com respeito à teratogenicidade e
+embriofetotoxicidade. Estudos em animais são insuficientes em relação aos transtornos do desenvolvimento neurológico
+em filhotes. A sulpirida atravessa a placenta. Em humanos, existem dados clínicos muito limitados sobre a exposição de
+mulheres grávidas à sulpirida. O uso de sulpirida não é recomendado durante a gravidez e em mulheres com potencial para
+engravidar que não utilizam métodos contraceptivos eficazes, a menos que os benefícios justifiquem os riscos potenciais.
+Os neonatos expostos a medicamentos antipsicóticos, incluindo EQUILID, durante o terceiro trimestre da gravidez correm
+o risco de apresentar reações adversas incluindo sintomas extrapiramidais e/ou de abstinência que podem variar em
+severidade e duração após o parto (vide “Reações Adversas”). Existem relatos de agitação, hipertonia, hipotonia, tremor,
+sonolência, dificuldade respiratória ou distúrbios de alimentação. Consequentemente, os recém-nascidos devem ser
+monitorados cuidadosamente.
+Categoria de risco na gravidez: C. Este medicamento não deve ser utilizado por mulheres grávidas sem orientação
+médica.
+Fertilidade
+Foi observada uma diminuição na fertilidade ligada aos efeitos farmacológicos do fármaco (efeito mediado pela prolactina)
+nos animais tratados.
+Lactação
+A sulpirida é excretada no leite materno. A amamentação é contraindicada.
+Populações especiais
+Pacientes idosos: como com outros neurolépticos, a sulpirida deve ser usada com cautela em pacientes idosos, pois a
+sensibilidade ao produto está aumentada nessa faixa etária. No caso de pacientes idosos com demência (vide “Advertências
+e Precauções”).
+Insuficiência renal: deve-se reduzir a dose de sulpirida em casos de insuficiência renal.
+Crianças: a segurança e eficácia de sulpirida não foram completamente investigadas em crianças. Por essa razão, deve-se
+ter cautela ao prescrever sulpirida a crianças.
+Alterações na capacidade de dirigir veículos e operar máquinas
+Mesmo quando utilizado da maneira recomendada, a sulpirida pode causar sedação.
+Durante o tratamento o paciente não deve dirigir veículos ou operar máquinas, pois sua habilidade e atenção podem
+estar prejudicadas.
+Atenção: contém 42 mg de lactose monoidratada/comprimido. Este medicamento não deve ser usado por pessoas
+com síndrome de má-absorção de glicose-galactose.
+5 de 10
+6. INTERAÇÕES MEDICAMENTOSAS
+Associação contraindicada
+A levodopa, medicamentos antiparkinsonianos (incluindo ropinirol): antagonismo recíproco dos efeitos entre levodopa ou
+medicamentos antiparkinsonianos (incluindo ropinirol) e neurolépticos.
+Associações não recomendadas
+Álcool: o álcool aumenta o efeito sedativo dos neurolépticos. Bebidas alcoólicas e medicamentos contendo álcool, não
+devem ser ingeridos durante o tratamento com EQUILID.
+Uso concomitante com medicamentos que podem causar o prolongamento do intervalo QT ou induzir Torsades de Pointes
+(vide “Advertências e Precauções”):
+- Medicamentos que induzem bradicardia como betabloqueadores, bloqueadores de canal de cálcio (diltiazem, verapamil),
+clonidina, guanfacina e digitálicos.
+- Medicamentos que induzem hipocalemia: diuréticos hipocalêmicos, laxativos, anfotericina B, glicocorticoides e
+tetracosactídeos. A hipocalemia deve ser corrigida.
+- Antiarrítmicos classe Ia como quinidina e disopiramida.
+- Antiarrítmicos classe III como amiodarona e sotalol.
+- Outros medicamentos como pimozida, sultoprida, haloperidol, tioridazina, metadona, antidepressivos imipramínicos, lítio,
+bepridil, cisaprida, eritromicina IV, vincamina IV, halofantrina, pentamidina e esparfloxacino.
+Associações que devem ser consideradas
+Agentes anti-hipertensivos: efeito anti-hipertensivo e possibilidade de hipotensão ortostática aumentada (efeito aditivo).
+Depressores do SNC incluindo narcóticos, analgésicos, anti-histamínicos H1 sedativos, barbitúricos, benzodiazepínicos e
+outros ansiolíticos, clonidina e derivados.
+Antiácidos e sucralfato: quando coadministrados ocorre a diminuição da absorção da sulpirida. Portanto, a sulpirida deve
+ser administrada no mínimo duas horas antes destes fármacos.
+Lítio: aumenta o risco de reações adversas extrapiramidais. A descontinuação dos dois medicamentos é recomendada aos
+primeiros sinais de neurotoxicidade.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+EQUILID deve ser mantido em sua embalagem original, em temperatura ambiente (entre 15 e 30ºC). Proteger da luz.
+Prazo de validade: 24 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características físicas e organolépticas
+Cápsula de gelatina dura de coloração branca.
+6 de 10
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+As cápsulas devem ser administradas com líquido, por via oral.
+Estados neuróticos depressivos: 100 a 200 mg (2 a 4 cápsulas de 50 mg) ao dia, administrados em 2 ingestões diárias
+(manhã e noite).
+Síndromes vertiginosas: 150 a 300 mg ao dia, em duas ingestões.
+Esquizofrenia: 400 a 800 mg ao dia, em duas ingestões. A posologia pode ser aumentada, se necessário, até o máximo de
+1200 mg ao dia.
+Sintomas predominantemente excitatórios (delírios, alucinações) respondem melhor utilizando-se doses maiores, iniciando-
+se o tratamento com 400 mg, duas vezes ao dia e aumentando-se até 1200 mg ao dia, se necessário.
+Sintomas predominantemente depressivos respondem melhor a doses iguais ou inferiores a 800 mg ao dia.
+Pacientes com sintomatologia mista respondem geralmente a uma posologia de 400 - 600 mg, duas vezes ao dia.
+Não há estudos dos efeitos de EQUILID administrado por vias não recomendadas. Portanto, por segurança e para garantir a
+eficácia deste medicamento, a administração deve ser somente por via oral.
+Populações especiais
+Pacientes com insuficiência renal: deve-se reduzir a dose de sulpirida em casos de insuficiência renal.
+Este medicamento não deve ser partido, aberto ou mastigado.
+9. REAÇÕES ADVERSAS
+Reação muito comum (≥ 1/10);
+Reação comum (≥ 1/100 e < 1/10);
+Reação incomum (≥ 1/1.000 e < 1/100);
+Reação rara (≥ 1/10.000 e < 1/1.000);
+Reação muito rara (< 1/10.000);
+Reação desconhecida (não pode ser estimada a partir dos dados disponíveis).
+Distúrbios autonômicos
+Crises hipertensivas (em hipertensos ou portadores de feocromocitomas).
+7 de 10
+Distúrbios do sangue e sistema linfático (vide “Advertências e Precauções”)
+Incomum: leucopenia.
+Desconhecido: neutropenia, agranulocitose (vide “Advertências e Precauções”).
+Distúrbios do sistema imunológico
+Desconhecido: reações anafiláticas: urticária, dispneia, hipotensão, e choque anafilático.
+Distúrbios endócrinos
+Comum: hiperprolactinemia.
+Distúrbios psiquiátricos
+Comum: insônia.
+Desconhecido: confusão.
+Distúrbios do sistema nervoso
+Comum: sedação ou sonolência, distúrbios extrapiramidais (estes sintomas geralmente são reversíveis após administração
+de medicamentos antiparkinsonianos), parkinsonismo, tremor, acatisia.
+Incomum: hipertonia, discinesia, distonia.
+Raro: crises oculógiras.
+Desconhecido: síndrome neuroléptica maligna, que é uma complicação potencialmente fatal, hipocinesia, discinesia tardia
+(tem sido reportada, como com todos os neurolépticos, após a administração de neuroléptico por mais de 3 meses.
+Medicação antiparkinsoniana é ineficaz ou pode induzir o agravamento dos sintomas), convulsão.
+Distúrbios metabólicos e de nutrição
+Desconhecido: hiponatremia, síndrome da secreção inapropriada de hormônio antidiurético (SIADH).
+Distúrbios cardíacos
+Raro: arritmia ventricular, fibrilação ventricular, taquicardia ventricular.
+Desconhecido: prolongamento do intervalo QT, parada cardíaca, Torsades de Pointes, morte súbita (vide “Advertências e
+Precauções”).
+Distúrbios vasculares
+Incomum: hipotensão ortostática.
+Desconhecido: tromboembolismo venoso, embolismo pulmonar, algumas vezes fatal, trombose venosa profunda (vide
+“Advertências e Precauções”) e aumento da pressão arterial (vide “Advertências e Precauções”).
+Distúrbios respiratórios, torácicos e mediastinal
+Desconhecido: pneumonia aspirativa (principalmente em associação com outros depressores do Sistema Nervoso Central).
+8 de 10
+Distúrbios gastrintestinais
+Comum: constipação.
+Incomum: hipersecreção salivar.
+Distúrbios hepatobiliares
+Comum: aumento das enzimas do fígado.
+Desconhecido: lesão hepatocelular, lesão colestática ou lesão mista.
+Distúrbios da pele e tecidos subcutâneos
+Comum: rash maculopapular.
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+Desconhecido: torcicolo, trismo, rabdomiólise.
+Gravidez e condições no puerpério e perinatais
+Desconhecido: sintomas extrapiramidais, síndrome de abstinência neonatal (vide “Advertências e Precauções”).
+Distúrbios do sistema reprodutivo e mama
+Comum: dor nas mamas, galactorreia.
+Incomum: aumento das mamas, amenorreia, orgasmo anormal, disfunção erétil.
+Frequência desconhecida: ginecomastia.
+Distúrbios gerais e Condições do local de administração
+Comum: aumento de peso.
+Desconhecido: hipertermia (vide “Advertências e Precauções”).
+Investigações
+Desconhecido: creatina fosfoquinase sanguínea aumentada
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa
+10. SUPERDOSE
+Sinais e sintomas
+A experiência em superdosagem com a sulpirida é limitada. Quando ocorre superdosagem, podem ocorrer manifestações
+discinéticas com torcicolo espasmódico, protusão da língua e trismo. Alguns pacientes podem desenvolver manifestações
+parkinsonianas que podem levar ao coma e até a morte.
+Desfechos fatais foram relatados principalmente em combinação com outros agentes psicotrópicos.
+A sulpirida é parcialmente removida com hemodiálise.
+9 de 10
+Tratamento
+O tratamento é sintomático, não existe um antídoto específico. Medidas de suporte apropriadas devem ser instituídas e a
+supervisão das funções vitais e o monitoramento cardíaco (risco do prolongamento do intervalo QT e consequente arritmia
+ventricular) são recomendados até que o paciente se recupere.
+Caso ocorram sintomas extrapiramidais severos, deve-se administrar anticolinérgicos.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro: 1.1524.0022
+Registrado por:
+Blanver Farmoquímica e Farmacêutica S.A.
+São Paulo – Brasil
+CNPJ 53.359.824/0001-19
+Produzido por:
+Opella Healthcare Brazil Ltda.
+Suzano – Brasil
+SAC 0800-892-2166
+V.00
+VENDA SOB PRESCRIÇÃO MÉDICA COM RETENÇÃO DA RECEITA.
+Esta bula foi aprovada pela ANVISA em 31/03/2025.
+10 de 10
+Histórico de alteração para bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do N° do Data do N° do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10451 - 11200 -
+MEDICAME MEDICAMENTO
+NTO NOVO - NOVO -
+Notificação de Solicitação de
+50 mg x 20, 200 mg
+01/04/2025 - Alteração de 16/08/2024 1125405/24-4 Transferência de 02/12/2024 Dizeres Legais VP/VPS
+x 20
+Texto de Bula Titularidade de
+- Publicação Registro
+no Bulário (operação
+RDC 60/12 comercial)
+BLANVER FARMOQUÍMICA E FARMACÊUTICA S.A.

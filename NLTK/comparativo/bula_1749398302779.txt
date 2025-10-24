@@ -1,0 +1,16 @@
+INDICAÇÕES Evir (efavirenz) é indicado para o tratamento antiviral combinado de adultos, adolescentes e crianças infectados pelo
+HIV-1.
+2. RESULTADOS DE EFICÁCIA
+Nos estudos clínicos descritos a seguir, a principal medida de eficácia foi a porcentagem de pacientes com níveis
+®
+plasmáticos de RNA do HIV <400 cópias/mL, medidos pelo ensaio monitor de HIV-1 (Amplicor ) PCR-TR. O limite
+inferior de quantificação desse ensaio é mais baixo do que 400 cópias/mL; portanto, ficou estabelecido que, para a
+análise da alteração média em relação ao período basal, valores abaixo do limite de quantificação seriam considerados
+400 cópias/mL. A quantificação de RNA do HIV também foi obtida por um ensaio de PCR-TR, cujo limite inferior era
+de 50 cópias/mL (ultrassensível).
+Nas análises NC = F (pacientes que não completaram o tratamento e que foram considerados falha terapêutica)
+apresentadas, os pacientes que terminaram o estudo precocemente por qualquer razão ou que tinham um resultado de
+RNA do HIV faltante, precedido ou seguido de um resultado acima do limite de quantificação do ensaio (>400
+cópias/mL) foram considerados falhas terapêuticas. Nas análises de dados observados, apresentadas nas tabelas abaixo,
+considerou-se falha terapêutica quando, no ponto de tempo especificado, os pacientes sob tratamento apresentavam
+RNA do HIV >400 cópias/mL.

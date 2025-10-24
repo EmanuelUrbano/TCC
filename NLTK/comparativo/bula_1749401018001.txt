@@ -1,0 +1,50 @@
+INDICAÇÕES Crianças
+Genotropin® (somatropina) é indicado no tratamento do distúrbio de crescimento em crianças devido à secreção
+insuficiente do hormônio de crescimento ou associado à síndrome de Turner.
+Genotropin® é indicado no distúrbio de crescimento (altura atual < −2,5 DP e altura ajustada pelos dados dos pais < −1
+DP) em crianças de baixa estatura nascidas PIG (pequenos para a idade gestacional), com peso e/ou estatura ao nascimento
+abaixo de −2 DP, que não apresentaram catch-up (recuperação do crescimento em altura <0 DP durante o último ano) até
+os 4 anos de idade ou mais.
+Genotropin® é indicado para pacientes que apresentam síndrome de Prader-Willi, com o objetivo de melhorar o
+crescimento e a composição corpórea. O diagnóstico da síndrome de Prader-Willi deve ser confirmado através de teste
+genético apropriado.
+Genotropin® é indicado no tratamento de baixa estatura idiopática, que é definida como altura abaixo de 2 SDS da altura
+média para determinada idade e gênero, associada a taxas de crescimento que provavelmente não permitam alcançar a
+altura adulta normal em pacientes pediátricos, cujas epífises não estejam fechadas e cujo diagnóstico exclui outras causas
+de baixa estatura que possam ser observadas ou tratadas por outros meios.
+Adultos
+Genotropin® também é indicado na terapia de reposição em adultos com deficiência de hormônio de crescimento
+acentuada. Insuficiência grave de hormônio de crescimento na idade adulta pode ser devido à doença hipofisária
+hipotalâmica conhecida e com deficiência de no mínimo um hormônio hipofisário que não seja a prolactina. Estes
+pacientes devem ser submetidos a um teste de estímulo com a finalidade de diagnóstico de deficiência de hormônio de
+crescimento. Em pacientes com deficiência de hormônio de crescimento isolada desde a infância (sem evidência de
+doença hipofisária hipotalâmica ou irradiação craniana), são recomendados dois testes de estímulo, exceto para aqueles
+que apresentam baixa concentração de IGF-I (<2 DP) que pode ser considerado o primeiro teste. O ponto de corte para o
+teste de estímulo deve ser rigoroso.
+2. RESULTADOS DE EFICÁCIA
+ESTUDOS CLÍNICOS
+Deficiência do hormônio de crescimento em adultos (DGHa)
+Genotropin® pó liofilizado para solução injetável foi comparado com placebo em seis ensaios clínicos randomizados
+envolvendo um total de 172 pacientes adultos com DGH. Estes ensaios incluíram um período de tratamento duplo cego
+de 6 meses, durante o qual 85 pacientes receberam Genotropin® e 87 pacientes receberam placebo, seguido por um período
+de tratamento aberto no qual os pacientes participantes receberam Genotropin® por um período de até 24 meses.
+Genotropin® foi administrado por injeção subcutânea diária numa dose de 0,04 mg/kg/semana no primeiro mês de
+tratamento e 0,08 mg/kg/semana nos meses seguintes.
+Alterações benéficas na composição corporal foram observadas no final do período de tratamento de 6 meses para os
+pacientes que receberam Genotropin® comparado aos pacientes que receberam placebo. A massa corporal magra, água
+corporal total e relação massa magra/gorda aumentaram enquanto que a massa corporal gorda total e a circunferência da
+cintura diminuíram. Estes efeitos na composição corporal foram mantidos quando o tratamento foi continuado além de 6
+meses. A densidade mineral óssea diminuiu após 6 meses de tratamento, mas retornou aos valores basais após 12 meses
+de tratamento.
+Deficiência do hormônio de crescimento em crianças (DGHc)
+Dois estudos avaliaram a eficácia e segurança de Genotropin® em crianças com deficiência de hormônio de crescimento
+(DGH). Bierich, em 1987, avaliou 77 crianças, 49 sem tratamento prévio e 28 previamente tratadas com GH hipofisário.
+A dose de Genotropin® utilizada foi 12 UI/m2 (superfície corpórea)/semana (4 mg/m2/semana), por via subcutânea (SC),
+6 vezes por semana. Nos pacientes virgens deste tratamento, a velocidade de crescimento aumentou de 3,7 cm/ano para
+14,9 cm/ano nos primeiros 3 meses, estabilizando-se em 12 cm/ano. Nos pacientes previamente tratados, a taxa de
+crescimento de 5,6 cm/ano, aumentou para 10,7 cm/ano nos primeiros 3 meses e 8,5 cm/ano em 9 a 12 meses. Efeitos
+colaterais indesejáveis não foram observados em nenhum paciente.
+LLD_Bra_CDSv9.0_12Aug2019_EUPIL_06May2024_v1_GENPOI_21_VPS 2
+01/Jul/2024
+Albertsson-Wikland et. al., 1988, avaliaram 51 crianças, 23 sem tratamento prévio (grupo A) e 28 previamente tratadas
+com GH hipofisário (grupo B). A dose de Genotropin® utilizada foi de 0,1 UI/kg/dia (0,033 UI/kg/dia ou 0,23

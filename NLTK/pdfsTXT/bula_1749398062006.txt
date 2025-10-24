@@ -1,0 +1,1257 @@
+®
+ENLUTOZA
+enzalutamida
+Dr. Reddy’s Farmacêutica do Brasil Ltda.
+cápsulas moles
+40 mg
+Bula Profissional de Saúde
+I - IDENTIFICAÇÃO DO MEDICAMENTO:
+ENLUTOZA®
+enzalutamida
+cápsulas moles
+40 mg
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA
+APRESENTAÇÃO
+ENLUTOZA® é fornecido em cápsulas moles contendo 40 mg de enzalutamida e está disponível nas seguintes apresentações:
+Embalagem com 120 cápsulas.
+VIA ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada cápsula mole contém 40 mg de enzalutamida.
+Excipientes: caprilocaprato de polioxilglicerídeos, butil-hidroxianisol, butil-hidroxitolueno, gelatina, Glycerinum, Sorbitol, Dióxido de titânio e
+água purificada.
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+ENLUTOZA® está indicado para o tratamento de homens adultos com câncer de próstata metastático resistente à castração que são
+assintomáticos ou ligeiramente sintomáticos após falha de terapia de privação androgênica.
+ENLUTOZA® está indicado para o tratamento de homens adultos com câncer de próstata metastático resistente à castração que tenham
+recebido terapia com docetaxel.
+ENLUTOZA® está indicado para o tratamento de homens adultos com câncer de próstata não metastático resistente à castração.
+ENLUTOZA® é indicado para o tratamento de homens adultos com câncer de próstata metastático sensível àc astração (CPSCm), sem
+uso de docetaxel concomitante.
+ENLUTOZA®, em monoterapia ou em combinação com leuprolida, é indicado para o tratamento de homens adultos com câncer de
+próstata não metastático sensível à castração (CPSCnm) com recidiva bioquímica (RB) de alto risco.
+2. RESULTADOS DE EFICÁCIA
+Eficácia clínica e segurança
+A eficácia da enzalutamida foi estabelecida em três estudos clínicos de Fase 3, multicêntricos, randomizados e controlados por placebo
+[MDV3100-14 (PROSPER), CRPC2 (AFFIRM), MDV3100-03 (PREVAIL)] de pacientes com câncer de próstata progressivo que não
+apresentaram progressão da doença em uso de terapia de privação de andrógeno (análogo do hormônio liberador do hormônio
+luteinizante [LHRH] ou após orquiectomia bilateral). O estudo PREVAIL incluiu pacientes com câncer de próstata resistente à castração
+(CPRC) metastático não tratados previamente com quimioterapia, enquanto o estudo AFFIRM incluiu pacientes com CPRC metastático
+que já haviam recebido docetaxel; e o estudo PROSPER incluiu pacientes com CPRC não metastático. Além disso, a eficácia em
+pacientes com CPSCm também foi estabelecida em um estudo clínico de fase 3, multicêntrico, randomizado e controlado por placebo
+[9785-CL-0335 (ARCHES)]. Outro estudo clínico de Fase 3, multicêntrico, randomizado e controlado por placebo [MDV3100-13
+(EMBARK)] estabeleceu a eficácia em pacientes com CPSCnm com recidiva bioquímica (RB) de alto risco. Todos os pacientes foram
+tratados com um análogo do LHRH ou foram submetidos previamente a orquiectomia bilateral, exceto quando indicado.
+Enzalutamida foi administrada por via oral na dose diária de 160 mg no grupo de tratamento ativo. Nos cinco estudos clínicos
+(EMBARK, ARCHES, PROSPER, PREVAIL e AFFIRM), os pacientes do grupo controle receberam placebo e os pacientes não foram
+obrigados a tomar prednisona.
+Alterações da concentração sanguínea de PSA nem sempre indicam benefício clínico de forma independente. Portanto, nos cinco
+estudos recomendou-se que os pacientes mantivessem seus tratamentos do estudo até que os critérios de suspensão ou
+descontinuação fossem atingidos, conforme especificado abaixo para cada um dos estudos.
+Estudo MDV3100-13 (EMBARK) (pacientes com CPSC não metastático com recidiva bioquímica (RB) de alto risco)
+O estudo EMBARK incluiu 1.068 pacientes com recidiva bioquímica (RB) de alto risco que foram randomizados 1:1:1 para receber
+tratamento com enzalutamida por via oral na dose de 160 mg uma vez ao dia concomitantemente com terapia de privação
+androgênica (TPA) (N = 355), enzalutamida por via oral na dose de 160 mg uma vez ao dia como monoterapia em caráter aberto (N
+= 355), ou placebo por via oral uma vez ao dia simultaneamente com TPA (N = 358) (TPA definida como leuprolida)1. Todos os
+pacientes tiveram terapia definitiva anterior com prostatectomia radical ou radioterapia (incluindo braquiterapia) ou ambas, com
+intenção curativa. Foi exigido dos pacientes que tivessem confirmação de doença não metastática por revisão central independente
+em caráter cego (BICR) e recidiva bioquímica de alto risco (definida por um tempo de duplicação do PSA ≤ 9 meses). Os pacientes
+também deveriam ter valores de PSA ≥ 1 ng/mL se tivessem sido submetidos a prostatectomia radical anterior (com ou sem
+radioterapia) como tratamento primário para câncer de próstata, ou valores de PSA pelo menos 2 ng/mL acima do nadir se tivessem
+sido submetidos a radioterapia anterior apenas.
+Os pacientes foram estratificados pelo PSA da triagem (≤ 10 ng/mL vs. > 10 ng/mL), tempo de duplicação do PSA (≤ 3 meses
+versus > 3 meses a ≤ 9 meses) e terapia hormonal anterior (terapia hormonal anterior vs. nenhuma terapia hormonal). Para pacientes
+cujos valores de PSA eram indetectáveis (< 0,2 ng/mL) na semana 36, o tratamento foi suspenso na semana 37 e reiniciado quando
+os valores de PSA aumentaram para ≥ 2,0 ng/mL para pacientes com prostatectomia anterior ou ≥5,0 ng/mL para pacientes sem
+prostatectomia anterior. Para pacientes cujos valores de PSA foram detectáveis (≥ 0,2 ng/mL) na semana 36, o tratamento
+continuou sem suspensão até que os critérios de descontinuação permanente do tratamento fossem atendidos.
+As características demográficas e basais estavam bem equilibradas entre os três grupos de tratamento. A idade mediana na
+randomização foi de 69 anos em ambos os grupos de tratamento de enzalutamida mais TPA e enzalutamida em monoterapia. A
+idade mediana na randomização foi de 70 anos no grupo de tratamento com placebo mais TPA. A maioria dos pacientes na
+população total eram caucasianos (83,2%), 7,3% eram asiáticos e 4,4% eram negros. O tempo mediano de duplicação do PSA foi
+de 4,9 meses. Setenta e quatro por cento (74%) dos pacientes tiveram terapia definitiva anterior com prostatectomia radical, 75%
+dos pacientes tiveram terapia anterior com radioterapia (incluindo braquiterapia) e 49% dos pacientes tiveram terapia anterior com
+ambas. Trinta e dois por cento (32%) dos pacientes tiveram uma pontuação de Gleason ≥ 8. A pontuação de status de desempenho
+do Eastern Cooperative Oncology Group (ECOG PS) foi 0 para 92,2% dos pacientes e 1 para 7,6% dos pacientes no entrada no
+estudo.
+A sobrevida livre de metástases (SLM) em pacientes randomizados para receber enzalutamida mais TPA em comparação com
+pacientes randomizados para receber placebo mais TPA foi o desfecho primário. A sobrevida livre de metástases foi definida como
+o tempo desde a randomização até a progressão radiográfica ou morte no estudo, o que ocorrer primeiro.
+Os principais desfechos secundários foram o tempo até a progressão do PSA, o tempo até o primeiro uso de terapia antineoplásica e
+a sobrevida global. Outro desfecho secundário importante foi SLM em pacientes randomizados para receber enzalutamida em
+monoterapia, em comparação com pacientes randomizados para receber placebo mais TPA.
+Enzalutamida mais TPA demonstraram uma redução estatisticamente significativa de 58% no risco de desenvolver um evento de
+SLM em comparação com placebo mais TPA [HR = 0,42 (IC 95%: 0,30, 0,61) p < 0,0001]. O tempo mediano até um evento de
+SLM não foi alcançado em nenhum dos grupos de tratamento (Tabela 1, Figura 1).
+A enzalutamida em monoterapia também demonstrou uma redução estatisticamente significativa de 37% no risco de desenvolver
+um evento de SLM em comparação com placebo mais TPA [HR = 0,63 (IC 95%: 0,46; 0,87) p = 0,0049]. O tempo mediano até um
+evento de SLM não foi alcançado em nenhum dos grupos de tratamento (Tabela 1. Figura 2).
+Tabela 1: Resumo dos resultados de eficácia do estudo EMBARK (análise por intenção de tratar)
+Enzalutamida mais Placebo mais Enzalutamida em
+TPA TPA Monoterapia
+(N = 355) (N = 358) (N = 355)
+Sobrevida livre de metástase
+Número de eventos 45 (12,7) 92 (25,7) 63 (17,7)
+(%)1
+Mediana, meses (IC NA (NA, NA) NA (85,1, NA) NA (NA, NA)
+95%)2
+Hazard Ratio 0,42 (0,30, 0,61) -- 0,63 (0,46, 0,87)
+relacionado ao
+placebo mais TPA
+(IC 95%)3
+Valor p para p < 0,0001 -- p = 0,0049
+comparação ao
+placebo mais TPA4
+Desfechos secundários selecionados
+Tempo até progressão de PSA5
+Número de eventos 8 (2,3) 93 (26,0) 37 (10,4%)
+(%)
+Mediana, meses (IC NA (NA, NA) NA (NA, NA) NA (NA, NA)
+95%)2
+Hazard Ratio 0,07 (0,03, 0,14) -- 0,33 (0,23, 0,49)
+relacionado ao
+placebo mais TPA
+(IC 95%)3
+Valor p para p < 0,0001 -- p < 0,0001
+comparação ao
+placebo mais TPA4
+Tempo até o início de nova terapia antineoplásica
+Número de eventos 58 (16,3) 140 (39,1) 84 (23,7)
+(%)7
+Mediana, meses (IC NA (NA, NA) 76,2 (71,3, NA) NA (NA, NA)
+95%)2
+Hazard Ratio 0,36 (0,26, 0,49) -- 0,54 (0,41, 0,71)
+relacionado ao
+placebo mais TPA
+(IC 95%)3
+Valor p para p < 0,0001 -- p < 0,0001
+comparação ao
+placebo mais TPA4
+Sobrevida Global6
+Número de eventos 33 (9,3) 55 (15,4) 42 (11,8)
+(%)
+Mediana, meses (IC NA (NA, NA) NA (NA, NA) NA (NA, NA)
+95%)2
+Hazard Ratio 0,59 (0,38, 0,91) -- 0,78 (0,52, 1,17)
+relacionado ao
+placebo mais TPA
+(IC 95%)3
+Valor p para p = 0,0153 -- p = 0,2304
+comparação ao
+placebo mais TPA4
+NA = não alcançado.
+1. Com base no evento contribuinte mais precoce (progressão radiográfica ou morte).
+2. Com base nas estimativas de Kaplan-Meier.
+3. A razão de risco (Hazard Ratio) tem como base um modelo de regressão de Cox estratificado pelo PSA da triagem, tempo de
+duplicação do PSA e terapia hormonal anterior.
+4. O valor p bilateral tem como base um teste de log-rank estratificado por PSA de triagem, tempo de duplicação do PSA e
+hormonioterapia anterior.
+5. Com base na progressão do PSA em conformidade com os critérios do Prostate Cancer Clinical Trials Working Group 2.
+6. Com base em uma análise interina pré-especificada com data limite de dados de 31 de janeiro de 2023.
+7. Com base no primeiro uso pós-basal de terapia antineoplásica para câncer de próstata.
+Figura 1. Curvas de Kaplan-Meier de sobrevida livre de metástase nos grupos de tratamento de enzalutamida mais TPA vs.
+placebo mais TPA do estudo EMBARK (análise por intenção de tratar)
+Figura 2. Curvas de Kaplan-Meier de sobrevida livre de metástase nos grupos de tratamento de enzalutamida em
+monoterapia vs. placebo mais TPA do estudo EMBARK (análise por intenção de tratar)
+Figura 3. Forest Plot da sobrevida livre de metástase por subgrupo nos grupos de tratamento de enzalutamida mais TPA vs.
+placebo mais TPA do estudo EMBARK (análise por intenção de tratar)
+Figura 4. Forest Plot da sobrevida livre de metástase por subgrupo nos grupos de tratamento de enzalutamida em
+monoterapia vs. placebo mais TPA do estudo EMBARK (análise por intenção de tratar)
+Enzalutamida mais TPA demonstraram uma redução estatisticamente significativa de 93% no risco de progressão do PSA em
+comparação com placebo mais TPA [HR = 0,07 (IC 95%: 0,03, 0,14) p < 0,0001]. A enzalutamida em monoterapia também demonstrou
+uma redução estatisticamente significativa de 67% no risco de progressão do PSA em comparação com placebo mais TPA [HR = 0,33
+(IC 95%: 0,23, 0,49) p < 0,0001]. O tempo mediano para progressão do PSA não foi alcançado em nenhum dos grupos de tratamento.
+Enzalutamida mais TPA demonstraram uma redução estatisticamente significativa de 64% no risco de nova terapia antineoplásica em
+comparação com placebo mais TPA [HR = 0,36 (IC 95%: 0,26, 0,49), p < 0,0001]. Enzalutamida em monoterapia também demonstrou
+uma redução estatisticamente significativa de 46% no risco de nova terapia antineoplásica em comparação com placebo mais TPA [HR =
+0,54 (IC 95%: 0,41, 0,71), p < 0,0001]. O tempo mediano até o primeiro uso de nova terapia antineoplásica não foi alcançado no grupo
+de enzalutamida mais TPA ou no grupo de enzalutamida em monoterapia e foi de 76,2 meses (IC 95%: 71,3, NR) no grupo placebo mais
+TPA.
+rupo de enzalutamida mais TPA ou no grupo de enzalutamida em monoterapia e foi de 76,2 meses (IC 95%: 71,3, NR) no grupo placebo
+mais TPA.
+upo de enzalutamida mais TPA ou no grupo de enzalutamida em monoterapia e foi de 76,2 meses (IC 95%: 71,3, NR) no grupo placebo
+mais TPA.
+Uma análise interina pré-especificada para a sobrevida global foi planejada no momento da análise da SLM. No momento da análise
+interina, os dados de sobrevida global não estavam maduros e não mostraram uma diferença estatisticamente significativa em pacientes
+tratados com enzalutamida mais TPA em comparação com placebo mais TPA [HR = 0,59 (IC 95%: 0,38, 0,91) p = 0,0153] ou em
+pacientes tratados com enzalutamida em monoterapia em comparação ao placebo mais TPA [HR = 0,78 (IC 95%: 0,52, 1,17) p =
+0,2304]. A sobrevida global mediana não foi alcançada em nenhum dos grupos de tratamento (Tabela 1).
+ESTUDO 9785-CL-0335 (ARCHES) (PACIENTES COM CPHS METASTÁTICO)
+O estudo ARCHES incluiu 1150 pacientes com CPSCm, que foram randomizados em proporção de 1:1 para receber tratamento com
+enzalutamida mais terapia de privação androgênica (TPA) ou placebo mais TPA (TPA definida como análogo do LHRH ou
+orquiectomia bilateral). Os pacientes receberam enzalutamida 160 mg uma vez ao dia (N=574) ou placebo (N=576).
+Os dados demográficos e as características basais foram bem equilibrados entre os dois grupos de tratamento. A idade mediana no
+momento da randomização foi de 70 anos em ambos os grupos de tratamento. A maioria dos pacientes na população total eram
+caucasianos (80,5%); 13,5% eram asiáticos e 1,4% eram negros. O escore do estado de desempenho do Grupo Cooperativo Oriental de
+Oncologia [Eastern Cooperative Oncology Group Performance Status] (ECOG PS) foi 0 para 78% dos pacientes e 1 para 22% dos
+pacientes à entrada no estudo.
+A sobrevida livre de progressão radiográfica (SLPr), com base em uma revisão central independente, foi o desfecho primário definido
+como o tempo desde a randomização até a primeira evidência objetiva da progressão radiográfica da doença ou o óbito (devido a
+qualquer causa desde o tempo da randomização até 24 semanas da descontinuação da droga em estudo), o que ocorresse primeiro. Os
+principais desfechos de eficácia secundários avaliados no estudo foram o tempo até a progressão do PSA, o tempo até o início de nova
+terapia antineoplásica, a taxa indetectável do PSA (diminuição para < 0,2 μg/L), a taxa de resposta objetiva (RECIST 1.1) com base na
+revisão independente e a sobrevida global. Consultar a Tabela 2 abaixo.
+Enzalutamida demonstrou uma redução estatisticamente significativa de 61% no risco de um evento de SLPr em comparação ao placebo
+[HR = 0,39 (IC de 95%: 0,30, 0,50), p < 0,0001]. O tempo mediano para um evento de SLPr não foi alcançado no braço de enzalutamida,
+e foi de 19,4 meses (IC de 95%: 16,6, NA) no braço do placebo.
+Tabela 2: Resumo dos resultados de eficácia em pacientes tratados com enzalutamida ou placebo no estudo ARCHES (análise
+por intenção de tratar)
+Enzalutamida mais TPA Placebo mais TPA
+(N = 574) (N=576)
+Desfecho primário
+Sobrevida livre de progressão radiográfica
+Número de eventos (%) 89 (15,5) 198 (34,4)
+Mediana, meses (IC 95%)1 NA (NA, NA) 19,4 (16,6, NA)
+Hazard Ratio (IC 95%)2 0,39 (0,30, 0,50)
+Valor p2 p < 0,0001
+Desfechos secundários selecionados
+Sobrevida Global3
+Quantidade de eventos (%) 154 (26,8) 202 (35,1)
+Mediana, meses (IC 95%)1 NA (NA, NA) NA (49,7, NA)
+Hazard Ratio (IC 95%)2 0,66 (0,53, 0,81)
+Valor p2 p < 0,0001
+Tempo até a progressão de PSA4
+Número de eventos (%) 45 (7,8) 189 (32,8)
+Mediana, meses (IC 95%) NA (NA, NA) NA (16,6, NA)
+Hazard Ratio (IC 95%)2 0,19 (0,13, 0,26)
+Valor p2 p < 0,0001
+Tempo até o início de nova terapia antineoplásica
+Número de eventos (%) 46 (8,0) 133 (23,1)
+Mediana, meses (IC 95%)2 30,2 (NA, NA)5 NA (21,1, NA)
+Hazard Ratio (IC 95%)2 0,28 (0,20, 0,40)
+Valor p2 p < 0,0001
+Taxas indetectáveis de PSA
+Pacientes com PSA detectável no período basal 511 506
+Pacientes com PSA indetectável 63 70
+no período basal
+PSA indetectável durante o período de tratamento 348/511 (68,1) 89/506 (17,6)
+IC 95% para a taxa (63,9, 72,1) (14,4, 21,2)
+Diferença na taxa (IC 95%)2 50,5% (45,3, 55,7)
+Valor p p < 0,0001
+Taxa de resposta objetiva
+Pacientes com doença mensurável no período basal, n 177 182
+Número de eventos (%) 147 (83,1) 116 (63,7)
+IC 95% para a taxa (76,7, 88,3) (56,3, 70,7)
+Diferença na taxa (IC 95%)2 19,3% (10,4, 28,2)
+Valor p p < 0,0001
+NA = não alcançado.
+1. Calculado com utilização do método Brookmeyer e Crowley.
+2. Estratificado pelo volume de doença (baixo vs. alto) e pelo uso prévio de docetaxel (sim ou não).
+3. Com base em uma análise final pré-especificada com data limite de dados de 28 de maio de 2021.
+4. A progressão de PSA foi definida como um aumento ≥ 25% e um aumento absoluto de ≥ 2 μg/L acima do nadir.
+5. Embora uma estimativa do tempo mediano tenha sido fornecida para enzalutamida mais o braço de TPA (30,2 meses), esta
+estimativa não foi confiável, pois resultou em um evento observado no único paciente remanescente em risco por volta dos 30
+meses, ocasionando uma queda vertical no fim da curva de Kaplan-Meier.
+Na análise final pré-especificada de sobrevida global, conduzida quando 356 mortes foram observadas, uma redução de 34%
+estatisticamente significativa no risco de morte foi demonstrada no grupo randomizado para receber enzalutamida em comparação
+com o grupo randomizado para receber placebo [HR = 0,66, (IC 95%: 0,53; 0,81), p < 0,0001]. O tempo mediano para sobrevida
+global não foi atingido em nenhum grupo de tratamento (Tabela 2, Figura 7).
+Figura 5. Curvas de Kaplan-Meier de SLPr no estudo ARCHES (análise por intenção de tratar)
+Figura 6. Forest plot de SLPr de acordo com subgrupos pré-especificados no estudo ARCHES (análise por intenção de tratar)
+Figura 7. Curvas de Kaplan-Meier da sobrevida global final no estudo ARCHES (análise por intenção de tratar)
+Figura 8. Forest plot da sobrevida global final por análise de subgrupo no estudo ARCHES (análise por intenção de tratar)
+enzalutamida demonstrou uma redução estatisticamente significativa de 81% no risco de progressão de PSA em comparação ao placebo [HR =
+0,19 (IC 95%: 0,13, 0,26), p< 0,0001]. O tempo mediano para a progressão de PSA (IC 95%) não foi alcançado para enzalutamida ou placebo.
+enzalutamida demonstrou uma redução estatisticamente significativa de 72% no risco de início de uma nova terapia antineoplásica em
+comparação ao placebo [HR=0,28 (IC 95%: 0,20, 0,40); p<0,0001].
+enzalutamida aumentou significativamente a taxa de uma redução de PSA a um nível indetectável (<0,2 μg/L) em comparação ao tratamento com
+placebo. A taxa indetectável de PSA foi de 68,1% para enzalutamida e de 17,6% para placebo. A diferença da taxa é estatisticamente significativa
+[50,5% (IC 95%: 45,3, 55,7); p<0,0001].
+A taxa de resposta objetiva (calculada como a porcentagem de pacientes com doença mensurável no período basal que atingiram uma resposta
+completa ou parcial na sua doença nos tecidos moles) foi de 83,1% para pacientes no grupo de tratamento com enzalutamida e de 63,7% no grupo
+de placebo. Enzalutamida demonstrou uma melhora estatisticamente significativa de 19,3% na taxa de resposta objetiva em comparação ao
+placebo.
+ESTUDO ANZUP 1304 (ENZAMET) (PACIENTES COM CPHS METASTÁTICO)
+O estudo ENZAMET incluiu 1125 pacientes com CPSCm, que foram randomizados na proporção de 1:1 para receber tratamento por via oral,
+uma vez ao dia, com enzalutamida 160 mg (N=563) ou antiandrogênio não esteroidal (AANE, N=562). Todos os pacientes no estudo receberam
+um análogo do LHRH ou foram submetidos previamente a orquiectomia bilateral. Os pacientes foram estratificados de acordo com o volume de
+doença (baixo vs. alto), a terapia reabsortiva concomitante (sim vs. não), comorbidades (ACE-27: 0 a 1 vs. 2 a 3) e uso planejado de um total de 6
+ciclos de docetaxel, sendo que foram autorizados 0-2 ciclos antes da randomização (sim vs. não). Foi necessário que os pacientes confirmassem o
+câncer de próstata metastático por cintilografia óssea positiva ou por lesões metastáticas no exame de tomografia computadorizada (TC) ou de
+ressonância magnética (RM). Os pacientes continuaram o tratamento até que fosse evidenciada progressão clínica por meio de TC, RM ou
+cintilografia óssea de corpo inteiro. 3
+Os dados demográficos e as características basais do paciente a seguir foram equilibrados entre os dois braços de tratamento. A idade mediana no
+momento da randomização era de 69 anos no grupo de enzalutamida e de 68 anos no grupo de AANE (tratados com bicalutamida, nilutamida ou
+flutamida). A maioria dos pacientes apresentou no estado de desempenho do ECOG um escore 0 (72%) e um escore de Gleason 2 8 (58%).
+Quarenta e oito por cento (48%) dos pacientes apresentaram um baixo volume de doença e 52% dos pacientes apresentaram alto volume de
+doença. O alto volume de doença é definido como metástases com envolvimento das vísceras ou, na ausência de lesões viscerais, quatro ou mais
+lesões ósseas, sendo que pelo menos uma delas deve estar presente em estrutura óssea além da coluna vertebral e ossos pélvicos. Dez por cento
+(10%) dos pacientes estavam em uso de terapia reabsortiva concomitante, 75% não apresentaram qualquer comorbidade ou apresentaram apenas
+comorbidades leves (pontuação ACE-27 de 0 a 1) e 45% foram submetidos a um total de 6 ciclos de docetaxel, sendo que foram autorizados até 2
+ciclos de 0 a 2 antes da randomização.
+No momento da análise, o acompanhamento mediano para a SG foi de 33,8 meses. A análise interina demonstrou uma redução estatisticamente
+significativa no risco de óbito para pacientes tratados com enzalutamida em comparação ao tratamento convencional com AANE [HR de 0,67 (IC
+de 95%: 0,52, 0,86; p=0,0018)] (Figura 9).
+Figura 9. Curvas de Kaplan-Meier de sobrevida global interina no estudo ENZAMET (análise por intenção de tratar)
+A melhora de SG foi consistente, com HRs < 1 para a maioria dos subgrupos pré-especificados (Figura 10). O subgrupo de pacientes sem
+planejamento antecipado do uso concomitante de docetaxel teve resultado favorável para o tratamento com enzalutamida + TPA versus
+antiandrogênio não esteroidal (AANE) + TPA. Esta é a população que mais se assemelha à população do estudo ARCHES. Importante notar que
+este efeito foi observado tanto para o subgrupo de pacientes com baixo volume de doença (HR: 0,377 [IC 95% 0,200; 0,675]), quanto para alto
+volume de doença (HR: 0,645 [IC 95% 0,417; 0,986]).
+Figura 10. Forest plot de sobrevida global interina – análise de subgrupos no estudo ENZAMET (análise por
+intenção de tratar)
+Todos os pacientes randomizados para o tratamento (População ITT).
+A data limite de análise dos dados foi 28 de fevereiro de 2019.
+Os subgrupos que combinam o uso de docetaxel e o volume não foram pré-especificados.
+ACE-27: Avaliação de Comorbidade em Adultos; IC: intervalo de confiança; ECOG: Eastern Cooperative Oncology Group; HR:
+Hazard Ratio (razão de risco); ITT: intenção para tratar; AANE: antiandrogênio não esteroidal; SG: sobrevida global; TURP:
+ressecção transuretral da próstata.
+[1] Em cada subgrupo, a HR foi estimada usando modelo de riscos proporcionais de Cox não estratificado com tratamento como a
+única variável explanatória. Assumindo riscos proporcionais, HR < 1 indica uma redução na taxa de risco em favor do grupo de
+tratamento.
+[2] A HR relatada para todos os pacientes randomizados foi baseada na análise estratificada.
+[3] “Tratamento local prévio” inclui cirurgias locais (prostatectomia radical, procedimento de RTUP), radioterapia local (próstata
+incluindo linfonodos, próstata não incluindo
+linfonodos) ou outro tratamento local (nanoknife, prostatectomia a laser de luz verde, braquiterapia com baixa taxa de dose,
+ultrassom de alta intensidade ou crioablação a laser).
+No momento da análise final, o acompanhamento mediano para SG foi de 68,2 meses. A análise demonstrou uma redução estatisticamente
+significativa de 30% no risco de morte para pacientes tratados com enzalutamida em comparação com o tratamento convencional com AANEs
+[HR de 0,70 (IC 95%: 0,58; 0,83; p < 0,0001)] (Figura 11).
+Figura 11. Curvas de Kaplan-Meier de sobrevida global final no estudo ENZAMET (análise por intenção de
+tratar)
+A análise final do subgrupo de SG na população com intenção de tratar é apresentada como um gráfico em forest plot na Figura 12. Embora o
+efeito do tratamento com enzalutamida mais TPA versus AANE mais TPA nas análises de subgrupos tenha variado entre os subgrupos, o limite
+superior das estimativas pontuais de HR para enzalutamida mais TPA versus AANE mais TPA caíram abaixo de 1, com exceção dos seguintes
+subgrupos com um tamanho de amostra geralmente menor: doença visceral, terapia reabsortiva, região, uso inicial planejado de docetaxel
+combinado com um volume de doença baixo ou alto; em todos os outros subgrupos, os resultados foram consistentes com um efeito favorável
+para pacientes no grupo enzalutamida mais TPA em comparação com pacientes no grupo de AANE mais TPA, inclusive para o subgrupo de
+pacientes sem o uso inicial planejado de docetaxel combinado com um volume de doença baixo ou alto. De modo geral, os resultados desses
+subgrupos corroboram a consistência do benefício da SG demonstrado na população.
+Figura 12. Forest Plot de sobrevida global final – análise de subgrupo no estudo ENZAMET (análise por intenção de tratar)
+Todos os pacientes alocados aleatoriamente ao tratamento (população ITT).
+Data limite de dados: 19 de janeiro de 2022.
+ACE: Avaliação de Comorbidades em Adultos; IC: intervalo de confiança; ECOG: Eastern Cooperative Oncology Group; HR:
+Hazard Ratio (razão de risco); ITT: intenção de tratar; AANE: antiandrógeno não esteroide; TURP: ressecção transuretral da
+próstata.
+[1] Em cada subgrupo, a HR foi estimada pelo modelo de riscos proporcionais de Cox não estratificado, com tratamento como a
+única variável explanatória. Assumindo os riscos proporcionais, HR < 1 indica uma redução na taxa de risco em favor do grupo de
+enzalutamida.
+[2] A HR relatada para todos os pacientes randomizados foi baseada em análise não estratificada.
+[3] ‘Tratamento local anterior' inclui cirurgias locais (prostatectomia radical, ressecção transuretral da próstata), radioterapia local
+(próstata incluindo linfonodos, próstata não incluindo linfonodos) ou outro tratamento local (nanoknife, prostatectomia a laser de luz
+verde, braquiterapia com baixa taxa de dose, ultrassom de alta intensidade ou crioablação a laser).
+Estudo MDV3100-14 (PROSPER) (pacientes com CPRC não metastático)
+O estudo PROSPER incluiu 1.401 pacientes com CPRC não metastático que continuaram com terapia de privação androgênica (TPA; definida
+como análogo do LHRH ou orquiectomia bilateral anterior). Os pacientes foram randomizados em proporção 2:1 para receber enzalutamida, em
+uma dose de 160 mg uma vez ao dia (N = 933), ou placebo (N = 468).4
+Os dados demográficos e as características basais foram equilibrados entre os dois grupos de tratamento. A idade mediana foi 74 anos no grupo
+de enzalutamida e 73 anos no grupo de placebo. A maioria dos pacientes (aproximadamente 71%) no estudo eram caucasianos; 16% eram
+asiáticos e 2% eram negros.
+A sobrevida livre de metástase (SLM) foi o desfecho primário definido como o momento desde a randomização até a progressão radiográfica ou
+morte em até 112 dias da descontinuação do tratamento sem evidências de progressão radiográfica, o que ocorrer primeiro. Os principais
+desfechos secundários avaliados no estudo foram tempo até a progressão do PSA, tempo até o primeiro uso de nova terapia antineoplásica (TTA)
+e sobrevida global (SG). Os desfechos secundários adicionais incluíam tempo até o primeiro uso de quimioterapia citotóxica e sobrevida livre de
+quimioterapia. Veja os resultados abaixo (Tabela 3).
+Enzalutamida demonstrou uma redução estatisticamente significativa de 71% no risco relativo de progressão radiográfica ou morte em
+comparação ao placebo [HR = 0,29 (IC 95%: 0,24, 0,35), p < 0,0001]. A SLM mediana foi de 36,6 meses (IC 95%: 33,1, NR) no grupo de
+enzalutamida versus 14,7 meses (IC 95%: 14,2, 15,0) no grupo de placebo.
+Tabela 3: Resumo dos resultados de eficácia no estudo PROSPER (análise por Intenção de Tratar)
+Enzalutamida Placebo
+N = 933 N = 468
+Desfecho primário
+Sobrevida livre de metástase
+Quantidade de eventos (%) 219 (23,5) 228 (48,7)
+Mediana, meses (IC 95%)1 36,6 (33,1, NA) 14,7 (14,2, 15,0)
+Hazard Ratio (IC 95%)2 0,29 (0,24, 0,35)
+Valor p2 p < 0,0001
+Desfechos de eficácia secundários principais
+Sobrevida Global4
+Quantidade de Eventos (%) 288 (30,9) 178 (38,0)
+Mediana, meses (IC 95%)1 67,0 (64,0, NA) 56,3 (54,4, 63,0)
+Hazard Ratio (IC 95%)2 0,734 (0,608, 0,885)
+Valor p2 p = 0,0011
+Tempo até a progressão de PSA
+Quantidade de eventos (%) 208 (22,3) 324 (69,2)
+Mediana, meses (IC 95%)1 37,2 (33,1, NA) 3,9 (3,8, 4,0)
+Hazard Ratio (IC 95%)2 0,07 (0,05, 0,08)
+Valor p2 p < 0,0001
+Tempo até o primeiro uso de nova terapia antineoplásica
+Quantidade de eventos (%) 142 (15,2) 226 (48,3)
+Mediana, meses (IC 95%)1 39,6 (37,7, NA) 17,7 (16,2, 19,7)
+Hazard Ratio (IC 95%)2 0,21 (0,17, 0,26)
+Valor p2 p < 0,0001
+Outros desfechos de eficácia secundários
+Tempo até o primeiro uso de quimioterapia citotóxica
+Quantidade de eventos (%) 85 (9,1) 96 (20,5)
+Mediana, meses (IC 95%)1 NA (38,1, NA) 39,7 (38,9, 41,3)
+Hazard Ratio (IC 95%)2 0,38 (0,28, 0,51)
+Valor p2 p < 0,0001
+Sobrevida livre de quimioterapia
+Quantidade de eventos (%) 157 (16,8) 132 (28,2)
+Mediana, meses (IC 95%)1 38,1 (37,7, NA) 34,0 (30,3, 39,7)
+Hazard Ratio (IC 95%)2 0,50 (0,40, 0,64)
+Valor p2 p < 0,0001
+NA = não alcançado.
+1. Com base nas estimativas de Kaplan-Meier.
+2. HR tem como base um modelo de regressão de Cox (com o tratamento como única covariante) estratificado pelo de tempo de duplicação de
+PSA e uso prévio ou atual de um agente direcionado aos ossos. O HR é relativo ao placebo com < 1 favorecendo a enzalutamida.
+3. O valor p tem como base um teste de log-rank estratificado por tempo de duplicação de PSA (< 6 meses, ≥ 6 meses) e uso prévio ou atual de
+um agente direcionado aos ossos (sim, não).
+4. Com base em uma análise parcial pré-especificada com data limite de dados de 15 de outubro de 2019.
+Figura 13: Curvas de Kaplan-Meier de sobrevida livre de metástase no estudo PROSPER (análise por intenção de tratar)
+Enzalutamida (N=933) Mediana 36,6 meses Hazard ratio =0,29
+Placebo (N=468) Mediana 14,7 meses IC 95% (0,24, 0,35), p < 0,0001
+Pacientes em risco Meses
+Enzalutamida
+Placebo
+)%(
+esatsátem
+ed
+ervil
+adiverboS
+Figura 14: Análise de sobrevida livre de metástase por subgrupo com Hazard Ratio e intervalo de confiança de
+95% no estudo PROSPER (análise por intenção de tratar)
+Em uma análise parcial pré-especificada de sobrevida global, conduzida quando 466 mortes foram observadas, uma melhoria
+estatisticamente significativa na sobrevida global foi demonstrada em pacientes randomizados para receber XTANDI em
+comparação com pacientes randomizados para receber placebo com uma redução de 26,6% em risco de morte [Hazard Ratio (HR) =
+0,734, (IC 95%: 0,608; 0,885), p = 0,0011].
+Figura 15. Curvas de Kaplan-Meier da sobrevida global no estudo PROSPER (análise por intenção de tratar)
+Figura 16. Forest Plot da sobrevida global por análise de subgrupo no estudo PROSPER (análise por intenção de
+tratar)
+Enzalutamida demonstrou uma redução de 93% estatisticamente significativa no risco relativo de progressão de PSA em comparação
+com placebo [HR = 0,07 (IC 95%: 0,05, 0,08), p < 0,0001]. O tempo mediano até a progressão de PSA foi de 37,2 meses (IC 95%: 33,1,
+NA) no grupo de enzalutamida versus 3,9 meses (IC 95%: 3,8, 4,0) no grupo de placebo.
+Enzalutamida demonstrou um retardo estatisticamente significativo no tempo até o primeiro uso de nova terapia antineoplástica em comparação
+ao placebo [HR = 0,21 (IC 95%: 0,17, 0,26), p < 0,0001]. Tempo mediano até o primeiro uso de nova terapia antineoplástica foi de 39,6 meses
+(IC 95%: 37,7, NA) no grupo de enzalutamida versus 17,7 meses (IC 95%: 16,2, 19,7) no grupo de placebo.
+Figura 17: Curvas de Kaplan-Meier de tempo até o primeiro uso de nova terapia antineoplásica no estudo PROSPER (análise por
+intenção de tratar)
+Enzalutamida demonstrou um atraso estatisticamente significativo no tempo até o início do primeiro uso de quimioterapia citotóxica
+[HR: 0,38 (IC 95%: 0,28, 0,51), p < 0,0001]. O tempo mediano até o primeiro uso de quimioterapia citotóxica foi NA (IC 95%: 38,1,
+NA) no grupo de enzalutamida versus 39,7 meses (IC 95%: 38,9, 41,3) no grupo de placebo.
+Enzalutamida demonstrou uma melhora estatisticamente significativa na sobrevida livre de quimioterapia em comparação ao tratamento
+com placebo [HR: 0,50 (IC 95%: 0,40, 0,64), p < 0,0001]. A sobrevida livre de quimioterapia mediana foi 38,1 meses (IC 95% 37,7,
+NA) no grupo de enzalutamida versus 34,0 meses (IC 95%: 30,3, 39,7) no grupo de placebo.
+Estudo MDV3100-09 (STRIVE) (pacientes com CPRC metastático/não metastático não tratados previamente com
+quimioterapia)
+O estudo STRIVE incluiu 396 pacientes com CPRC metastático ou não metastático que apresentaram progressão bioquímica ou
+radiográfica da doença apesar da terapia de privação androgênica primária, que foram randomizados para receber enzalutamida em uma
+dose de 160 mg uma vez ao dia (N = 198) + TPA, ou bicalutamida em uma dose de 50 mg uma vez ao dia (N = 198) + TPA. A
+sobrevida livre de progressão (SLP) foi o desfecho primário definido como o tempo desde a randomização até a primeira evidência
+objetiva de progressão radiográfica, progressão do PSA ou morte no estudo. A SLP mediana foi de 19,4 meses (IC 95%: 16,5, NA) no
+grupo de enzalutamida versus 5,7 meses (IC 95%: 5,6, 8,1) no grupo de bicalutamida [HR = 0,24 (IC 95%: 0,18, 0,32), p < 0,0001]. Foi
+observado benefício consistente de enzalutamida sobre bicalutamida em todos os subgrupos de pacientes pré-especificados. Para o grupo
+não metastático (N = 139), um total de 19 de 70 (27,1%) pacientes tratados com enzalutamida e 49 de 69 (71,0%) pacientes tratados com
+bicalutamida apresentou eventos de SLP (total de 68 eventos). Hazard Ratio foi 0,24 (IC 95%: 0,14, 0,42) e o tempo mediano até o
+evento de SLP não foi alcançado no grupo de enzalutamida versus 8,6 meses no grupo de bicalutamida. 5
+Figura 18: Curvas de Kaplan-Meier de sobrevida livre de progressão no estudo STRIVE (análise por intenção de tratar)
+Meses
+Pacientes em risco
+Enzalutamida
+Bicalutamida
+Estudo 9785-CL-0222 (TERRAIN) (pacientes com CPRC metastático, virgens de quimioterapia)
+O estudo TERRAIN incluiu 375 pacientes com CRPC metastático virgens de quimioterapia e terapia antiandrogênica que foram randomizados
+para receber enzalutamida 160 mg uma vez ao dia + TPA (N = 184) ou bicalutamida 50 mg uma vez ao dia + TPA (N = 191). A sobrevida livre
+de progressão (SLP) mediana foi de 15,7 meses nos pacientes em uso de enzalutamida versus 5,8 meses nos pacientes em uso de bicalutamida
+[HR = 0,44 (IC 95%: 0,34; 0,57), p < 0,0001]. Sobrevida livre de progressão foi definida como evidência objetiva de progressão radiográfica da
+doença de acordo com uma revisão central independente, eventos relacionados ao esqueleto, início de nova terapia antineoplásica ou morte
+devido a qualquer causa, o que ocorrer primeiro. Foi observado benefício consistente quanto à SLP em todos os subgrupos de pacientes pré-
+especificados.6
+Figura 19: Curvas de Kaplan-Meier de Sobrevida Livre de Progressão no estudo TERRAIN (Análise da Intenção de Tratar)
+)%(
+oãssergorp
+ed
+ervil
+adiverboS
+Estudo MDV3100-03 (PREVAIL) (pacientes com CPRC metastático não tratados previamente com
+quimioterapia)
+Foi randomizado, em distribuição de 1:1, um total de 1.717 pacientes assintomáticos ou ligeiramente sintomáticos, não tratados
+previamente com quimioterapia, para receber enzalutamida por via oral na dose de 160 mg, uma vez ao dia + TPA (N = 872), ou placebo
+por via oral, uma vez ao dia + TPA (N = 845). Foi permitida a inclusão de pacientes com doença visceral, pacientes com histórico de
+insuficiência cardíaca leve a moderada (NYHA Classes I ou II) e pacientes em uso de medicações associadas à diminuição do limiar
+convulsivo. 7
+Foram excluídos pacientes com histórico de convulsão ou alguma condição que pudesse predispor à convulsão e pacientes com dor
+moderada ou grave decorrente do câncer de próstata. O tratamento do estudo continuou até a progressão da doença (evidência de
+progressão radiográfica, evento relacionado ao esqueleto ou progressão clínica) e o início de quimioterapia citotóxica ou de algum agente
+em investigação, ou até toxicidade inaceitável. Os dados demográficos dos pacientes e as características basais da doença foram
+equilibrados entre os grupos de tratamento. A idade mediana foi 71 anos (variação 42-93) e a distribuição racial foi de 77% caucasianos;
+10% asiáticos; 2% negros e 11% outras raças ou desconhecido. Sessenta e oito por cento (68%) dos pacientes apresentava índice de
+desempenho ECOG 0 e 32% dos pacientes apresentavam um ECOG de 1. A avaliação basal da dor foi de 0-1 (assintomático) em 67%
+dos pacientes e de 2-3 (ligeiramente sintomático) em 32% dos pacientes, conforme definido pelo Inventário Breve de Dor - Forma
+Abreviada (pior dor relatada pelo paciente ao longo das 24 horas anteriores, em escala de 0 a 10). Aproximadamente 45% dos pacientes
+apresentaram doença mensurável nos tecidos moles ao ingressar no estudo, e 12% dos pacientes tinham metástases viscerais (pulmão
+e/ou fígado).
+Os desfechos coprimários de eficácia foram a sobrevida global e a sobrevida livre de progressão radiográfica (SLPr). Além dos
+desfechos coprimários, o benefício também foi avaliado usando o tempo até o início de quimioterapia citotóxica, melhor resposta
+global nos tecidos moles, tempo até o primeiro evento relacionado ao esqueleto, resposta do PSA (diminuição 2 50% em relação ao
+valor basal), tempo até progressão do PSA e tempo até a degradação do escore total do questionário de qualidade de vida FACT-P
+(Avaliação Funcional de Terapia de Câncer - Próstata).
+A progressão radiográfica foi avaliada com uso de estudos de imagens sequenciais de acordo com os critérios definidos pelo Grupo de
+Trabalho dos Ensaios Clínicos de Câncer da Próstata 2 (PCWG2 - Prostate Cancer Clinical Trials Working Group 2) (para lesões
+ósseas) e/ou com os critérios dos Critérios de Avaliação de Resposta em Tumores Sólidos (Response Evaluation Criteria in Solid Tumors
+- RECIST v 1.1) (para lesões em tecidos moles). A análise de SLPr utilizou avaliação radiográfica da progressão revisada centralmente.
+Durante a análise interina pré-especificada para sobrevida global, quando foram observadas 540 mortes, o tratamento com enzalutamida
+demonstrou melhora estatisticamente significativa na sobrevida global comparada com o placebo, com redução do risco de morte em
+29,4% [HR = 0,706; (IC 95%: 0,60; 0,84), p < 0,0001]. Uma análise de sobrevida atualizada foi realizada quando foram observadas 784
+mortes. Os resultados dessa análise foram consistentes com os da análise interina (Tabela 3, Figura 18). Na análise atualizada, 52% dos
+pacientes tratados com enzalutamida e 81% dos pacientes tratados com placebo haviam recebido terapias subsequentes para câncer de
+próstata metastático resistente à castração (CPRCm) que podem prolongar a sobrevida global.
+Uma análise final dos dados de 5 anos do estudo PREVAIL mostrou que um aumento estatisticamente significativo na sobrevida global
+foi mantido em pacientes tratados com enzalutamida em comparação ao placebo [HR = 0,835 (IC 95%: 0,75, 0,93); valor p = 0,0008],
+embora 28% dos pacientes que receberam placebo tenham passado para enzalutamida. A taxa de SG em 5 anos foi de 26% no grupo de
+enzalutamida em comparação a 21% no grupo placebo.
+Tabela 4: Sobrevida Global de Pacientes Tratados com Enzalutamida ou Placebo no estudo PREVAIL (Análise por
+Intenção de Tratar)
+Enzalutamida Placebo
+( N = 872) (N = 845)
+Análise interina pré-especificada
+Número de óbitos (%) 241 (27,6%) 299 (35,4%)
+Sobrevida mediana, meses (IC 95%) 32,4 (30,1; NA) 30,2 (28,0; NA)
+Valor p1 p < 0,0001
+Hazard Ratio (IC 95%)2 0,71 (0,60, 0,84)
+Análise de sobrevida atualizada
+Número de óbitos (%) 368 (42,2%) 416 (49,2%)
+Sobrevida mediana, meses (IC 95%) 35,3 (32,2, NA) 31,3 (28,8; 34,2)
+Valor p1 p = 0,0002
+Hazard Ratio (IC 95%)2 0,77 (0,67; 0,88)
+Análise de sobrevida em 5 anos
+Número de óbitos (%) 689 (79) 693 (82)
+Sobrevida mediana, meses (IC 95%) 35,5 (33,5, 38,0) 31,4 (28,9, 33,8)
+Valor p1 p = 0,0008
+Hazard ratio (IC 95%)2 0,835 (0,75, 0,93)
+NA = não alcançado.
+1. O valor p tem como base um teste de log-rank não estratificado.
+2. Hazard Ratio tem como base um modelo de riscos proporcional não estratificado.
+Hazard Ratio < 1 favorece a enzalutamida.
+Figura 20: Curvas de Kaplan-Meier de sobrevida global baseadas na análise de sobrevida atualizada do estudo
+PREVAIL (análise por intenção de tratar)
+Enzalutamida 160 mg
+Placebo
+Tratamento Mediana
+35,5
+Enzalutamida 160 mg Hazard ratio (IC de 95%): 0,835 (0,751, 0,928) Teste de Log-Rank p=0,0008
+Duração da sobrevida global (meses)
+Enzalutamida 160 mg
+Placebo
+Placebo
+Pacientes em risco
+Figura 21: Análise de sobrevida global por subgrupo atualizada: Hazard Ratio e intervalo de confiança de 95% do
+estudo PREVAIL (análise por intenção de tratar)
+Durante a análise pré-especificada de SLPr, foi demonstrada melhora estatisticamente significativa entre os grupos de tratamento com
+redução de 81,4% do risco de progressão radiográfica ou morte [HR = 0,19 (IC 95%: 0,15; 0,23), p < 0,0001]. Cento e dezoito (14%)
+pacientes tratados com enzalutamida e 321 (40%) dos pacientes tratados com placebo apresentaram um evento. A mediana de SLPr
+não foi alcançada (IC 95%: 13,8, NA) no grupo de pacientes tratados com enzalutamida e foi de 3,9 meses (IC 95%: 3,7; 5,4) no grupo
+de pacientes com placebo (Figura 20). Foi observado um benefício consistente quanto a SLPr em todos os subgrupos pré-especificados
+de pacientes (ex., idade, desempenho do ECOG basal, PSA e LDH basais, escore de Gleason ao diagnóstico e doença visceral na
+triagem). Uma análise do seguimento pré-especificado de SLPr com base na avaliação do investigador da progressão radiográfica
+demonstrou melhora estatisticamente significativa entre os grupos de tratamento, com redução de 69,3% no risco de progressão
+radiográfica ou morte [HR = 0,31 (IC 95%: 0,27; 0,35), p < 0,0001]. A SLPrmediana foi de 19,7 meses no grupo enzalutamida e de 5,4
+meses no grupo placebo.
+)%(
+adiverboS
+Figura 22: Curvas de Kaplan-Meier de Sobrevida Livre de Progressão Radiográfica no estudo PREVAIL (Análise por Intenção de
+Tratar)
+No momento da análise primária havia 1.633 pacientes randomizados.
+Além dos desfechos coprimários de eficácia, também foram demonstradas melhoras estatisticamente significativas nos seguintes
+desfechos prospectivamente definidos.
+O tempo mediano até início da quimioterapia citotóxica foi de 28,0 meses para pacientes recebendo enzalutamida e de 10,8
+meses para pacientes recebendo placebo [HR = 0,35 (IC 95%: 0,30; 0,40);p < 0,0001].
+A proporção de pacientes tratados com enzalutamida com doença mensurável na avaliação basal do estudo que tiveram uma resposta
+objetiva dos tecidos moles foi de 58,8% (IC 95%: 53,8; 63,7) em comparação com 5,0% (IC 95%: 3,0; 7,7) dos pacientes que
+receberam placebo. A diferença absoluta na resposta objetiva dos tecidos moles entre enzalutamida e placebo foi de [53,9% (IC 95%:
+48,5; 59,1);p < 0,0001]. Respostas completas foram relatadas em 19,7% dos pacientes tratados com enzalutamida, em comparação
+com 1,0% dos pacientes tratados com placebo, e respostas parciais foram relatadas em 39,1% dos pacientes tratados com
+enzalutamida, contra 3,9% dos pacientes tratados com placebo.
+A enzalutamida diminuiu significativamente o risco do primeiro evento relacionado ao esqueleto em até 28% [HR = 0,718 (IC 95%:
+0,61; 0,84), p < 0,0001]. Um evento relacionado ao esqueleto foi definido como radioterapia ou cirurgia óssea para câncer de próstata,
+fratura óssea patológica, compressão da medula espinhal ou mudança de terapia antineoplásica para tratar a dor óssea. A análise
+incluiu 587 eventos relacionados ao esqueleto, dos quais 389 eventos (66,3%) foram de radiação óssea, 79 eventos (13,5%) foram de
+compressão da medula espinhal, 70 eventos (11,9%) foram de fratura óssea patológica, 45 eventos (7,6%) foram de mudança de
+terapia antineoplásica para tratar a dor óssea, e 22 eventos (3,7%) foram de cirurgia óssea.
+Os pacientes que recebem enzalutamida demonstraram uma superioridade estatisticamente significativa na taxa de resposta total do PSA
+(definida como uma redução 2 50% desde o basal), em comparação com os pacientes que receberam placebo, 78,0% versus 3,5%
+(diferença = 74,5%; p < 0,0001).
+O tempo mediano para progressão do PSA de acordo com os critérios do PCWG2 foi de 11,2 meses para pacientes tratados com
+enzalutamida e de 2,8 meses para pacientes que receberam placebo [HR = 0,17, (IC 95%: 0,15; 0,20); p < 0,0001].
+O tratamento com enzalutamida diminuiu o risco de degradação da avaliação FACT-P em 37,5% em comparação com o placebo (p <
+0,0001). O tempo mediano até a degradação da avaliação FACT-P foi de 11,3 meses no grupo enzalutamida e 5,6 meses no grupo de
+placebo.
+Estudo CRPC2 (AFFIRM) (pacientes com CPRC metastático que receberam quimioterapia prévia)
+A eficácia e segurança de enzalutamida em pacientes com câncer de próstata resistente à castração metastático (CPRCm) que tenham
+recebido docetaxel e estavam usando um análogo do LHRH ou que foram submetidos à orquiectomia, foram avaliados por um ensaio
+clínico de fase 3, multicêntrico, controlado por placebo, randomizado. Um total de 1.199 pacientes foram randomizados em proporção
+2:1 para receber enzalutamida oralmente, em uma dose de 160 mg uma vez ao dia + TPA (N = 800), ou placebo + TPA uma vez ao dia
+(N = 399). Foi permitido, mas não exigido, que os pacientes tomassem prednisona (dose máxima diária permitida de 10 mg de
+prednisona ou equivalente). Os pacientes randomizados para cada grupo tinham que continuar o tratamento até a progressão da doença
+(definida como progressão radiográfica confirmada ou a ocorrência de um evento relacionado ao esqueleto) e iniciação de novo
+tratamento antineoplásico sistêmico, toxicidade inaceitável ou retirada do consentimento.
+Os dados demográficos de pacientes e características de referência da doença a seguir foram equilibrados entre as unidades de
+tratamento. A idade média foi 69 anos (variação 41-92) e a distribuição racial foi 93% caucasianos; 4% negros; 1% asiáticos e 2%
+outras raças. O índice de desempenho do ECOG foi 0-1 em 91,5% dos pacientes e 2 em 8,5% dos pacientes; 28% tiveram um índice de
+Inventário Breve de Dor de 2 4 (média de pior dor relatada por paciente sobre as 24 horas anteriores calculada por 7 dias antes da
+randomização). A maioria (91%) dos pacientes tinham metástases nos ossos e 23% tinham comprometimento visceral de pulmão e/ou
+fígado. Ao ingressar no estudo, 41% dos pacientes randomizados apresentaram apenas progressão do PSA, enquanto 59% dos pacientes
+apresentaram progressão radiográfica. Cinquenta e um (51%) dos pacientes estavam em uso de bisfosfonados no período basal.
+O estudo AFFIRM excluiu pacientes com afecções clínicas que predispusessem a crises convulsivas e uso de medicamentos que
+sabidamente reduzem o limiar convulsivo, bem como doenças cardiovasculares significativas como hipertensão descontrolada, histórico
+recente de infarto do miocárdio ou angina instável, insuficiência cardíaca classe III ou IV da New York Heart Association (a não ser
+que a fração de ejeção fosse ≥ 45%), arritmias ventriculares clinicamente significativas ou bloqueio AV (sem marca-passo permanente).
+A análise interina pré-especificada do protocolo após 520 óbitos demonstrou uma superioridade estatisticamente significativa na sobrevida
+global mediana em pacientes tratados com enzalutamida comparado com o placebo (Tabela 5 e Figuras 23 e 24).
+Tabela 5: Sobrevida global de pacientes tratados com enzalutamida ou placebo no estudo AFFIRM (análise por intenção de
+tratar)
+enzalutamida (N = 800) Placebo (N = 399)
+Óbitos (%) 308 (38,5%) 212 (53,1%)
+Sobrevida mediana (meses) (IC 95%) 18,4 (17,3; NA) 13,6 (11,3; 15,8)
+Valor p1 p < 0,0001
+Hazard Ratio (IC 95%)2 0,631 (0,53; 0,75)
+NA = não alcançado.
+1. O valor p tem como base um teste de log-rank estratificado pelo status do índice de desempenho ECOG (0-1 vs. 2) e pontuação média de dor
+(< 4 vs. ≥ 4).
+2. Hazard Ratio tem como base um modelo de riscos proporcional estratificado. Hazard Ratio < 1 favorece enzalutamida.
+Figura 23: Curvas de Kaplan-Meier de sobrevida global do estudo AFFIRM (análise por intenção de tratar)
+Figura 24: Sobrevida global por subgrupo no estudo AFFIRM – Hazard Ratio e intervalo de confiança de 95%
+ECOG: Eastern Cooperative Oncology Group; BPI-SF: Brief Pain Inventory-Short Form; PSA: Antígeno Prostático Específico
+Em adição ao aumento de sobrevida global, os principais desfechos secundários (progressão do PSA, sobrevida livre de progressão
+radiográfica e tempo até o primeiro evento relacionado ao esqueleto) favoreceram a enzalutamida e foram estatisticamente
+importantes após o ajuste para testagem múltipla como segue:
+A sobrevida livre de progressão radiográfica, conforme avaliada pelo investigador utilizando o RECIST v1.1 para tecidos moles, e o
+aparecimento de duas ou mais lesões ósseas em exame ósseo foi de 8,3 meses para pacientes tratados com enzalutamida e de 2,9
+meses para pacientes que receberam placebo [HR = 0,40; [IC 95%: 0,35; 0,47), p < 0,0001]. A análise envolveu 216 óbitos sem
+progressão documentada e 645 eventos documentados de progressão, dos quais 303 (47%) foram devido à progressão em tecidos
+moles, 268 (42%) foram devido à progressão de lesão óssea e 74 (11%) foram devido a ambos, progressão em tecidos moles e
+lesões ósseas.
+A redução de PSA confirmada de 50% ou 90% foi de 54,0% e 24,8%, respectivamente, para pacientes tratados com enzalutamida e
+1,5% e 0,9%, respectivamente, para pacientes que receberam placebo (p < 0,0001). O tempo mediano para progressão do PSA foi de
+8,3 meses para pacientes tratados com enzalutamida e de 3,0 meses para pacientes que receberam placebo [HR = 0,248; (IC 95%:
+0,20; 0,30), p < 0,0001].
+O tempo mediano para o primeiro evento relacionado ao esqueleto (SER) foi de 16,7 meses para pacientes tratados com
+enzalutamida e de 13,3 meses para pacientes que receberam placebo [HR = 0,69; (IC 95%: 0,57; 0,84) p < 0,0001]. Evento
+relacionado ao esqueleto foi definido como uma terapia de radiação ou cirurgia óssea, fratura patológica de osso, compressão da
+medula espinhal ou mudança de terapia antineoplásica para tratar a dor óssea. A análise envolveu 448 eventos relacionados ao
+esqueleto, dos quais 277 eventos (62%) foram de radioterapia óssea, 95 eventos (21%) foram de compressão da medula espinhal, 47
+eventos (10%) foram de fratura patológica de osso, 36 eventos (8%) foram de mudança de terapia antineoplásica para tratar a dor
+óssea e 7 eventos (2%) foram de cirurgia óssea.
+A taxa de resposta para qualidade de vida (Avaliação Funcional de Terapia de Câncer – Próstata; FACT-P) foi 43,2% para pacientes
+tratados com enzalutamida e 18,3% para pacientes que receberam placebo (p < 0,0001).
+A taxa de resposta radiográfica objetiva avaliada pelo investigador (definida como a soma das respostas total e parcial) entre
+pacientes tratados com enzalutamida foi 28,9% comparado com uma taxa de resposta objetiva de 3,8% para pacientes que
+receberam placebo (p < 0,0001).
+O risco de progressão da dor foi reduzido em 44% para pacientes tratados com enzalutamida comparado aos pacientes que
+receberam placebo (HR = 0,56; [IC 95%: 0,41; 0,78], p = 0,0004). O tempo mediano para progressão da dor foi de 13,8 meses para
+pacientes que receberam placebo e não foi alcançado nos pacientes tratados com enzalutamida. A progressão da dor foi definida
+- 22 -
+como um aumento acima do valor de referência na avaliação FACT-P da dor, confirmada por uma segunda avaliação consecutiva
+obtida 3 ou mais semanas depois.
+Referências Bibliográficas:
+1. [EMBARK]. Freedland, S.,De Giorgi, U., Gleave, M., Rosbrook, B., Shen, Q., Sugg, J., Haas, GP., Shore, N: A phase 3
+randomised study of enzalutamide plus leuprolide and enzalutamide monotherapy in high-risk nonmetastatic hormone-sensitive
+prostate cancer with rising PSA after local therapy: EMBARK study design. BMJ Open 2021;11:e046588. doi:10.1136/bmjopen-
+2020-046588.
+2. [ARCHES]. Andrew J. Armstrong, Russell Z. Szmulewitz, Daniel P. Petrylak, et al. ARCHES: A Randomized, Phase III Study of
+Androgen Deprivation Therapy With Enzalutamide or Placebo in Men With Metastatic Hormone-Sensitive Prostate Cancer. Journal
+of Clinical Oncology. 2019; 37:2974-86.
+3. [ENZAMET]. Ian D. Davis, Andrew J. Martin, Martin R. Stockler, et al. Enzalutamide with Standard First-Line Therapy in
+Metastatic Prostate Cancer. N Engl J Med 2019; 381:121-31.
+4. [PROSPER]. Maha Hussain, Karim Fizazi, Fred Saad, et al. Enzalutamide in Men with Nonmetastatic, Castration-Resistant
+Prostate Cancer. N Engl J Med 2018; 378:2465-74.
+5. [STRIVE]. David F. Penson, Andrew J. Armstrong, Raoul Concepcion, et al. Enzalutamide versus Bicalutamide in Castration-
+Resistant Prostate Cancer: The STRIVE Trial. Journal of Clinical Oncology. 2016; 34:2098-2106.
+6. [TERRAIN]. Neal D Shore, Simon Chowdhury, Arnauld Villers, et al. Efficacy and safety of enzalutamide versus bicalutamide
+for patients with metastatic prostate cancer (TERRAIN): a randomised, double-blind, phase 2 study. Lancet Oncology. 2016;
+17:153-63.
+7. [PREVAIL]. Tomasz M. Beer, Andrew J. Armstrong, Dana E. Rathkopf, et al. Enzalutamide in Metastatic Prostate Cancer before
+Chemotherapy. N Engl J Med 2014; 371:424-33.
+8. [AFFIRM]. Howard I. Scher, Karim Fizazi, Fred Saad, et al. Increased Survival with Enzalutamide in Prostate Cancer after
+Chemotherapy. N Engl J Med 2012; 367:1187-97
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Grupo farmacoterapêutico: antagonistas hormonais e agentes relacionados, antiandrógenos, código ATC: L02BB04.
+3.1 Mecanismo de ação
+Sabe-se que o câncer de próstata é sensível a andrógenos e responde à inibição de sinalização de receptor de andrógenos
+(RA). Apesar dos baixos ou mesmo imperceptíveis níveis de andrógeno sérico, a sinalização de receptores de andrógenos
+continua a promover a progressão da doença. A estimulação do crescimento das células tumorais via receptor de
+andrógeno exige translocação do RA para o núcleo e ligação ao DNA. A enzalutamida é um potente inibidor da
+sinalização do receptor de andrógenos que bloqueia vários passos no caminho da sinalização deste receptor. A
+enzalutamida inibe competitivamente a ligação dos andrógenos aos receptores dos mesmos e, consequentemente, inibe a
+translocação nuclear de receptores ativados e inibe a associação do receptor de andrógenos ativados com o DNA mesmo
+no caso de superexpressão do receptor de andrógenos e nas células de câncer de próstata resistentes a antiandrógenos. O
+tratamento com enzalutamida diminui o crescimento das células de câncer de próstata e pode induzir a morte das células
+do câncer e a regressão tumoral. Em estudos pré-clínicos, a enzalutamida carece de atividade agonista do receptor de
+andrógenos.
+3.2 Farmacodinâmica
+Em um estudo clínico Fase 3 (AFFIRM) de pacientes cuja quimioterapia anterior com docetaxel falhou, 54% dos pacientes tratados
+com enzalutamida, comparado a 1,5% de pacientes que receberam placebo, tiveram pelo menos uma redução de 50% do valor de
+referência dos níveis de PSA.
+Em outro estudo clínico de Fase 3 (PREVAIL) em pacientes não tratados previamente com quimioterapia, os pacientes que
+receberam enzalutamida demonstraram uma taxa de resposta de PSA total significativamente mais alta (definida como uma redução
+≥ 50% a partir do valor basal), em comparação a pacientes que receberam placebo, 78,0% versus 3,5% (diferença = 74,5%, p <
+0,0001).
+No estudo clínico de Fase 2 (TERRAIN) em pacientes não tratados previamente com quimioterapia, os pacientes que receberam
+enzalutamida demonstraram uma taxa de resposta de PSA total significativamente mais alta (definida como uma redução ≥ 50% a
+partir do valor basal), em comparação a pacientes que receberam bicalutamida, 82,1% versus 20,9% (diferença = 61,2%, p <
+0,0001).
+No estudo clínico MDV3100-09 (STRIVE) de CPRC metastático e não metastático, os pacientes que receberam enzalutamida
+demonstraram uma taxa de resposta de PSA total confirmada significativamente mais alta (definida como uma redução ≥ 50% a
+partir do valor basal), em comparação a pacientes que receberam bicalutamida, 81,3% versus 31,3% (diferença = 50,0%, p <
+0,0001).
+No estudo clínico MDV3100-14 (PROSPER) de CPRC não metastático, os pacientes que receberam enzalutamida demonstraram
+uma taxa de resposta de PSA total confirmada significativamente mais alta (definida como uma redução ≥ 50% a partir do valor
+basal), em comparação a pacientes que receberam placebo, 76,3% versus 2,4% (diferença = 73,9%, p < 0,0001).
+- 23 -
+No estudo clínico MDV3100-13 (EMBARK) de pacientes com CPSCnm com recidiva bioquímica (RB) de alto risco, os níveis
+médios basais de testosterona sérica foram comparáveis entre os três grupos de tratamento (enzalutamida mais TPA: 329,3 ng/dL;
+placebo mais TPA: 329,7 ng/dL; enzalutamida como monoterapia em caráter aberto: 316,7 ng/dL) (TPA definida como leuprolida).
+Durante a terapia, os grupos de tratamento que receberam TPA mostraram uma diminuição nos níveis séricos médios de testosterona
+na semana 37, enquanto o grupo de tratamento que recebeu enzalutamida como monoterapia em caráter aberto mostrou um aumento
+nos níveis séricos médios de testosterona (enzalutamida mais TPA: 44,5 ng/dL; placebo mais TPA: 38,8 ng/dL; enzalutamida em
+monoterapia: 564,5 ng/dL). Após a suspensão do tratamento, os níveis séricos médios de testosterona aumentaram nos grupos de
+TPA (229,6 ng/dL para o grupo de enzalutamida mais TPA e 218,2 ng/dL para o grupo placebo mais TPA, na semana 85). Em
+contrapartida, os níveis séricos médios de testosterona diminuíram após a suspensão da enzalutamida em monoterapia (407,2 ng/dL
+na semana 61). Com o acompanhamento contínuo e um aumento do número de pacientes submetidos ao reinício do tratamento, os
+níveis séricos médios de testosterona foram consistentemente suprimidos nos grupos de TPA, e consistentemente elevados no grupo
+de enzalutamida em monoterapia, quando comparados aos respectivos níveis basais médios (vide Figura 25).
+Figura 25: Níveis médios (IC 95%) de testosterona (ng/dL) em pacientes por visita no estudo EMBARK (população de
+segurança)
+3.3 Farmacocinética
+A enzalutamida é pouco solúvel em água. A solubilidade da enzalutamida é aumentada por caprilocaproil
+macrogolglicerídeos que agem como emulsificantes/surfactantes. Nos estudos pré-clínicos, houve aumento da absorção de
+enzalutamida quando dissolvida em caprilocaproil macrogolglicerídeos.
+A farmacocinética de enzalutamida foi avaliada em pacientes com câncer de próstata e em indivíduos saudáveis do sexo
+masculino. A meia-vida terminal média (t ) para enzalutamida em pacientes após uma única dose oral é 5,8 dias (variação
+1/2
+2,8 a 10,2 dias) e o estado de equilíbrio é atingido em aproximadamente um mês. Com administração oral diária, o acúmulo
+de enzalutamida é aproximadamente 8,3 vezes maior que com a dose única. As variações diárias nas concentrações
+plasmáticas são baixas (taxa de máxima para mínima de 1,25). A depuração da enzalutamida ocorre principalmente via
+metabolismo hepático, produzindo um metabólito ativo que é tão ativo quanto a enzalutamida e circula aproximadamente
+na mesma concentração da enzalutamida.
+Absorção
+As concentrações plasmáticas máximas (C ) de enzalutamida nos pacientes são observadas de 1 a 2 horas após a
+máx
+administração.
+Com base em um estudo de equilíbrio de massa em humanos, a absorção oral de enzalutamida é estimada em pelo menos
+84,2%. A enzalutamida não é um substrato dos transportadores de efluxo P-gp ou BCRP.
+No estado de equilíbrio, os valores de C médios para enzalutamida e seu metabólito ativo são 16,6 µg/mL (coeficiente
+máx
+de variação [CV] 23%) e 12,7 µg/mL (CV 30%), respectivamente.
+Os alimentos não têm efeito clinicamente importante na absorção. Em ensaios clínicos, a enzalutamida foi administrada
+independentemente dos alimentos.
+Distribuição
+O volume aparente médio de distribuição (V/F) da enzalutamida em pacientes após uma dose única oral é 110 L (CV 29%).
+O volume de distribuição da enzalutamida é maior do que o volume de água corporal total, indicativo da extensiva
+distribuição extravascular. Estudos em roedores indicam que a enzalutamida e seu metabólito ativo podem atravessar a
+barreira hematoencefálica.
+- 24 -
+A enzalutamida é de 97% a 98% ligada às proteínas plasmáticas, principalmente à albumina. O metabólito ativo é
+95% ligado às proteínas plasmáticas. Não houve deslocamento da ligação proteica in vitro entre enzalutamida e outras
+medicações altamente ligadas (varfarina, ibuprofeno e ácido salicílico).
+Metabolismo
+A enzalutamida é extensivamente metabolizada. Existem dois principais metabólitos no plasma humano: N-desmetil
+enzalutamida (ativa) e um derivado do ácido carboxílico (inativo). A enzalutamida é metabolizada pelo CYP2C8 e, em
+menor grau, pelo CYP3A4/5 (verificar Seção 6. INTERAÇÕES MEDICAMENTOSAS), ambos os quais executam um
+papel na formação do metabólito ativo. In vitro, a N-desmetil enzalutamida é metabolizada a um metabólito do ácido
+carboxílico pela carboxilesterase 1, que também tem um papel menor no metabolismo de enzalutamida ao metabólito ácido
+carboxílico. A N- desmetil enzalutamida não foi metabolizada por CYPs in vitro.
+Sob condições de uso clínico, a enzalutamida é um indutor forte de CYP3A4, um indutor moderado de CYP2C9 e
+CYP2C19 e não tem efeito clinicamente relevante sobre CYP2C8 (vide Seção 6.INTERAÇÕES
+MEDICAMENTOSAS).
+Eliminação
+A depuração aparente média (CL/F) da enzalutamida em pacientes varia de 0,520 e 0,564 L/h. O estado de equilíbrio
+com administração oral diária é atingido em cerca de 1 mês.
+Após a administração oral de 14C-enzalutamida, 84,6% da radioatividade é recuperada 77 dias pós-dose: 71,0% são
+recuperados na urina (principalmente como o metabólito inativo, com quantidades residuais de enzalutamida e o
+metabólito ativo) e 13,6% são recuperados nas fezes (0,39% da dose como enzalutamida inalterada).
+Dados in vitro indicam que a enzalutamida não é um substrato para o polipeptídeo de transporte de ânion orgânico 1B1
+(OATP1B1), OATP1B3 ou transportador de cátion orgânico 1 (OCT1), e a N-desmetil enzalutamida não é um substrato
+para a P-gp ou BCRP.
+Dados in vitro indicam que a enzalutamida e seus principais metabólitos não inibem os seguintes transportadores em
+concentrações clinicamente relevantes: OATP1B1, OATP1B3, OCT2 ou OAT1.
+Linearidade
+Não foram observados grandes desvios da proporcionalidade da dose no intervalo de doses de 40 a 160 mg. No estado
+de equilíbrio, os valores de C para enzalutamida e seu metabólito ativo em pacientes diferentes permaneceram
+mín
+constantes por mais de um ano de terapia crônica, demonstrando farmacocinética linear de tempo assim que o estado de
+equilíbrio é alcançado.
+Populações especiais
+Idosos
+Dos 5.110 pacientes nos estudos controlados que receberam enzalutamida, 3.988 pacientes (78%) tinham 65 anos ou mais e 1.703
+pacientes (33%) tinham 75 anos ou mais. Não foram observadas diferenças globais na segurança ou na eficácia entre esses pacientes
+idosos e os pacientes mais jovens.
+Não foi observado qualquer efeito clinicamente relevante da idade na farmacocinética da enzalutamida na população idosa de
+análise farmacocinética.
+Pediátrica
+A enzalutamida é contraindicada para pacientes menores de 18 anos.
+Sexo
+A enzalutamida não é indicada para uso em mulheres. A farmacocinética da enzalutamida em mulheres não foi avaliada.
+Raça
+A maioria dos pacientes nos estudos clínicos controlados era caucasiana (> 77%). Com base nos dados farmacocinéticos
+de estudos em pacientes japoneses e chineses com câncer de próstata, não houve diferença clinicamente significativa na
+exposição entre a população. Não existem dados suficientes para avaliar potenciais diferenças na farmacocinética da
+enzalutamida em outras raças.
+Comprometimento renal
+Não foi concluído qualquer estudo formal sobre comprometimento renal para enzalutamida. Pacientes com creatinina
+sérica > 177 µmol/L (2 mg/dL) foram excluídos dos ensaios clínicos. Com base na análise farmacocinética da população,
+não são necessários ajustes para pacientes com valores calculados de depuração de creatinina (CrCL) ≥ 30 mL/min
+(estimado pela fórmula Cockcroft & Gault). A enzalutamida não foi avaliada em pacientes com comprometimento renal
+grave (CrCL < 30 mL/min) ou doença renal em estágio terminal, sendo aconselhável cautela ao tratar esses pacientes. É
+improvável que a enzalutamida seja removida por hemodiálise intermitente ou diálise peritoneal ambulatorial contínua.
+Comprometimento hepático
+Dois estudos dedicados sobre comprometimento hepático compararam a exposição sistêmica composta da enzalutamida
+mais N-desmetil enzalutamida em voluntários com comprometimento hepático basal leve, moderado ou grave (Classe A, B
+ou C de Child-Pugh, respectivamente) versus voluntários saudáveis com função hepática normal. A AUC composta de
+enzalutamida mais N-desmetil enzalutamida foi similar em voluntários com comprometimento hepático basal leve,
+moderado ou grave em comparação com os voluntários com função hepática normal. Não é necessário ajustar a dose em
+pacientes com comprometimento hepático basal leve, moderado ou grave.
+- 25 -
+3.4 Segurança não-clínica
+Fertilidade
+O tratamento de fêmeas prenhas de camundongos com enzalutamida resultou em aumento da incidência de mortes
+embriofetais e alterações externas e esqueléticas. Não foram conduzidos estudos toxicológicos de reprodução com
+enzalutamida, mas em pesquisas com ratos (4 e 26 semanas) e cães (4, 13 e 39 semanas), foram observados atrofia,
+aspermia/hipospermia e hipertrofia/hiperplasia no sistema reprodutor, consistentes com a atividade da enzalutamida. Nas
+pesquisas com camundongos (4 semanas), ratos (4 e 26 semanas) e cães (4, 13 e 39 semanas), as alterações observadas nos
+órgãos reprodutivos associadas com a enzalutamida foram reduções no peso do órgão com atrofia da próstata e epidídimo.
+Foram observadas hipertrofia e/ou hiperplasia de células de Leydig em camundongos (4 semanas) e cães (39 semanas).
+Alterações adicionais nos tecidos reprodutivos incluíram hipertrofia/ hiperplasia da glândula pituitária e atrofia nas
+vesículas seminais em ratos e hipospermia e degeneração do túbulo seminífero em cães. Foram observadas diferenças de
+gênero em glândulas mamárias de ratos (atrofia em machos e hiperplasia lobular em fêmeas). As alterações nos órgãos
+reprodutivos em ambas as espécies foram consistentes com a atividade farmacológica de enzalutamida e revertidas ou
+parcialmente resolvidas após um período de recuperação de 8 semanas. Não houve outras alterações importantes na
+patologia clínica ou histopatologia em qualquer outro sistema orgânico, inclusive o fígado, em qualquer espécie.
+Estudos em ratas grávidas demonstraram que a enzalutamida e/ou seus metabólitos passam para os fetos. Após
+administração oral de 14C-enzalutamida radiomarcada a ratas no dia 14 da gravidez na dose de 30 mg/kg, a radioatividade
+máxima no feto foi alcançada 4 horas após a administração e foi menor que a encontrada no plasma materno com uma
+proporção tecido/plasma de 0,27. A radioatividade no feto diminuiu para 0,08 vezes a concentração máxima 72 horas após
+a administração.
+Estudos em ratas lactantes demonstraram que a enzalutamida e/ou seus metabólitos são secretados no leite de rata. Após
+administração oral de 14C-enzalutamida radiomarcada a ratas lactantes na dose de 30 mg/kg, a radioatividade máxima no
+leite foi alcançada 4 horas após a administração e era até 3,54 vezes maior que a encontrada no plasma materno. Os
+resultados dos estudos também demonstram que a enzalutamida e/ou seus metabólitos passam para os tecidos dos ratos
+lactentes por meio do leite e são eliminados posteriormente.
+Carcinogênese, mutagênese e fototoxicidade
+Em um estudo de 6 meses em camundongos rasH2 transgênicos, a enzalutamida não mostrou potencial carcinogênico
+(ausência de achados neoplásicos) em doses de até 20 mg / kg por dia (AUC24h ~ 317 μg.h/mL), o que resultou em níveis
+de exposição plasmática semelhantes à exposição clínica (AUC24h 322 μg.h/mL) em pacientes com CRPCm que
+receberam 160 mg diários. A dosagem diária de ratos durante dois anos com enzalutamida a 10-100 mg/kg/dia produziu um
+aumento na incidência de vários tipos de tumores, principalmente benignos. Os mais proeminentes destes foram tumores de
+células de Leydig benignos e papiloma de urotélio e carcinoma de bexiga urinária, cuja indução não é considerada relevante
+para os seres humanos. Outros tumores incluem fibroadenoma de glândulas mamárias e timoma benigno em machos,
+tumores de células granulosas benignas de ovários em fêmeas e adenoma da pars distalis hipofisária em ambos os sexos. Os
+níveis de exposição (com base na AUC) alcançados neste estudo, para a enzalutamida mais o seu metabolito ativo M2,
+foram inferiores ou semelhantes aos dos pacientes com câncer da próstata na dose recomendada de enzalutamida.
+A enzalutamida não induziu mutações no ensaio de mutagênese microbiana (Ames) e foi não clastogênica no ensaio
+citogenético in vitro com células de linfoma de camundongo nem no ensaio de micronúcleos de camundongo in vivo. Não
+foram realizados estudos de longo prazo em animais para avaliar o potencial carcinogênico da enzalutamida.
+Enzalutamida não foi fototóxica in vitro.
+4. CONTRAINDICAÇÕES
+ENLUTOZA® é contraindicado a pacientes com hipersensibilidade à substância ativa ou a qualquer dos excipientes
+do medicamento e em mulheres que estejam ou possam ficar grávidas (consulte a Seção 5. ADVERTÊNCIAS E
+PRECAUÇÕES).
+Este medicamento é contraindicado para menores de 18 anos.
+Este medicamento é contraindicado durante o aleitamento ou doação de leite, pois é excretado no leite humano e pode
+causar reações indesejáveis no bebê. Seu médico ou cirurgião-dentista deve apresentar alternativas para o seu tratamento ou
+para a alimentação do bebê.
+Categoria de risco na gravidez: X. Este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar
+grávidas durante o tratamento. Ele provoca anomalias fetais, sendo o risco ao feto maior do que qualquer benefício possível
+para a paciente.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Risco de convulsões
+O uso de enzalutamida tem sido associado a convulsões (vide a seção 9. REAÇÕES ADVERSAS). Descontinue
+permanentemente a enzalutamida em pacientes que apresentarem convulsões durante o tratamento.
+- 26 -
+Síndrome de encefalopatia posterior reversível
+Houve relatos raros de síndrome de encefalopatia posterior reversível (PRES) em pacientes recebendo enzalutamida.
+PRES é uma doença neurológica rara e reversível que pode apresentar sintomas com rápida evolução, incluindo
+convulsões, dor de cabeça, confusão, cegueira e outros distúrbios visuais e neurológicos, com ou sem hipertensão
+associada. Um diagnóstico de PRES requer confirmação por exame de imagem cerebral, preferencialmente por
+ressonância magnética (RM). Recomenda-se a descontinuação do ENLUTOZA® em pacientes que desenvolvam
+PRES.
+Segundas malignidades primárias
+Casos de segundas malignidades primárias foram relatados em pacientes tratados com enzalutamida em estudos
+clínicos. Nos estudos clínicos de fase 3, os eventos mais frequentes relatados em pacientes tratados com enzalutamida,
+e maiores do que placebo, foram câncer de bexiga (0,3%), adenocarcinoma do cólon (0,2%), carcinoma de células
+transicionais (0,2%) e melanoma maligno (0,2%).
+Os pacientes devem ser aconselhados a procurar imediatamente o seu médico se notarem sinais de hemorragia
+gastrointestinal, hematúria macroscópica ou outros sintomas como disúria ou urgência urinária durante o tratamento
+com enzalutamida.
+Reações de hipersensibilidade
+Foram observadas com enzalutamida reações de hipersensibilidade manifestadas por sintomas que incluíam, entre outros,
+erupção cutânea ou e edema na face, na língua, no lábio ou na faringe (consulte a seção 9). Aconselhe os pacientes que
+apresentarem quaisquer sintomas de hipersensibilidade a descontinuar a enzalutamida e a procurar imediatamente
+atendimento médico.
+Disfagia relacionada ao tamanho do produto
+Foram relatados casos de pacientes com dificuldade para engolir enzalutamida, incluindo relatos de engasgamento,
+devido ao tamanho do produto. As dificuldades de deglutição foram principalmente relatadas com a formulação em
+cápsulas. Os pacientes devem ser orientados a engolir as cápsulas inteiras com uma quantidade suficiente de água.
+Comprometimento renal
+É necessária cautela em pacientes com comprometimento renal grave, já que enzalutamida não foi avaliado nesta
+população de pacientes.
+Comprometimento hepático
+Foi observado um aumento da meia-vida da enzalutamida em pacientes com insuficiência hepática grave, possivelmente
+relacionada ao aumento da distribuição nos tecidos. A relevância clínica desta observação permanece desconhecida.
+Prevê-se, no entanto, um tempo prolongado para atingir as concentrações no estado de equilíbrio e o tempo para o efeito
+farmacológico máximo, bem como o tempo para o início e declínio da indução enzimática podem ser aumentados. Não é
+necessário ajustar a dose em pacientes com comprometimento hepático basal leve, moderado ou grave (Classe A, B ou
+C de Child-Pugh, respectivamente).
+Doença cardiovascular recente
+Os estudos de fase 3 excluíram pacientes com infarto do miocárdio recente (nos últimos 6 meses) ou angina instável (nos
+últimos 3 meses), insuficiência cardíaca de classe III ou IV segundo a New York Heart Association (NYHA), salvo se
+fração de ejeção ventricular esquerda (LVEF) 2 45%, bradicardia ou hipertensão não controlada. Isso deve ser considerado
+se enzalutamida for prescrito a esses pacientes.
+Terapia de privação de andrógenos pode prolongar o intervalo QT
+Em pacientes com histórico ou fatores de risco para prolongamento do intervalo QT, e em pacientes recebendo
+medicamentos concomitantes que possam prolongar o intervalo QT, os médicos devem avaliar a relação risco-benefício,
+incluindo o potencial para torsades de pointes, antes de iniciar terapia com enzalutamida.
+Uso com quimioterapia
+A segurança e a eficácia do uso concomitante de enzalutamida com quimioterapia citotóxica não foram definidas. A
+coadministração de enzalutamida não tem efeito clinicamente relevante sobre a farmacocinética de docetaxel
+endovenoso; contudo, não se pode excluir um aumento na ocorrência de neutropenia induzida por docetaxel.
+Excipientes
+Atenção: Contém sorbitol.
+Efeitos na capacidade de dirigir ou operar máquinas
+enzalutamida pode ter influência moderada na capacidade de conduzir e utilizar máquinas, uma vez que foram
+notificados eventos psiquiátricos e neurológicos, incluindo convulsões. Os pacientes devem ser avisados do risco
+potencial de sofrer um evento psiquiátrico ou neurológico ao dirigir ou operar máquinas.
+Não foram feitos estudos para estabelecer os efeitos da enzalutamida sobre a capacidade de dirigir e usar m áquinas.
+Fertilidade, gravidez e lactação
+- 27 -
+Contracepção em homens e mulheres
+É desconhecida a presença de enzalutamida ou seus dos metabólitos no sêmen. Durante e após 3 meses de tratamento com
+ENLUTOZA®, é necessário o uso de preservativo se o paciente mantiver atividade sexual com uma mulher grávida. Se o
+paciente mantiver atividade sexual com uma mulher em idade fértil, preservativo ou outra forma de controle de natalidade
+deve ser usado durante e por 3 meses após o tratamento. Estudos em animais demonstraram toxicidade reprodutiva.
+Gravidez e mulheres com potencial de engravidar
+enzalutamida não é indicado para uso em mulheres.
+É contraindicado para mulheres que estejam ou possam engravidar (consulte as seções 3. CARACTERÍSTICAS
+FARMACOLÓGICAS e 4. CONTRAINDICAÇÕES). Não existem dados em humanos sobre o uso de enzalutamida durante a
+gravidez. Esse medicamento pode causar danos fetais ou possível perda gestacional se tomado por mulheres grávidas (vide Seção 5.
+ADVERTÊNCIAS E PRECAUÇÕES).
+Atenção: Contém o corante dióxido de titânio que pode, eventualmente, causar reações alérgicas.
+ENLUTOZA® não deve ser manuseado por outras pessoas fora o paciente e seus cuidadores.
+As cápsulas moles não devem ser dissolvidas ou abertas.
+A prescrição deste medicamento para mulheres com potencial de engravidar deve ser acompanhada por métodos
+contraceptivos adequados, com orientação quanto aos riscos de seu uso e rigoroso acompanhamento médico.
+Amamentação
+ENLUTOZA® não é indicado para uso em mulheres. Não se sabe se a enzalutamida está presente no leite humano.
+A enzalutamida e/ou seus metabólitos são secretados no leite de ratas (vide Seção 5.ADVERTÊNCIAS E
+PRECAUÇÕES).
+Fertilidade
+Estudos em animais mostraram que a enzalutamida afetou o sistema reprodutivo em ratos e cães machos.
+6. INTERAÇÕES MEDICAMENTOSAS
+Uso concomitante com outros medicamentos
+A enzalutamida é um potente indutor enzimático e pode levar à perda de eficácia de muitos medicamentos comumente usados
+(consulte exemplos nesta seção). Deve-se então fazer uma revisão dos medicamentos concomitantes antes de iniciar o tratamento
+com enzalutamida. O uso concomitante de enzalutamida com medicamentos que são substratos sensíveis de muitas enzimas
+metabolizadoras ou transportadores (veja abaixo) deve ser de modo geral evitado se o efeito terapêutico deles for muito importante
+para o paciente, e se não for possível ajustar facilmente a dose com base no monitoramento da eficácia ou das concentrações
+plasmáticas.
+Deve-se evitar a administração concomitante com varfarina e anticoagulantes cumarínicos. Se enzalutamida for
+administrado juntamente com um anticoagulante metabolizado por CYP2C9 (como varfarina ou acenocumarol), deve-se
+fazer um monitoramento adicional com a razão normalizada internacional (RNI).
+Potencial para outros medicamentos afetarem exposições a enzalutamida
+Inibidores do CYP2C8
+O CYP2C8 desempenha um importante papel na eliminação da enzalutamida e na formação de seu metabólito ativo. Após
+a administração oral do forte inibidor de CYP2C8 genfibrozila (600 mg duas vezes por dia) em indivíduos saudáveis do
+sexo masculino, a AUC da enzalutamida aumentou 326%, enquanto a Cmáx diminuiu 18%. A AUC da soma de
+enzalutamida não ligada mais o metabólito ativo não ligado aumentou 77%, enquanto a Cmáx diminui 19%. Fortes
+inibidores (ex.: genfibrozila) do CYP2C8 devem ser evitados ou usados com cautela durante o tratamento com
+enzalutamida. Se os pacientes precisarem usar um inibidor forte de CYP2C8, a dose de enzalutamida deve ser reduzida
+para 80 mg, uma vez ao dia.
+Inibidores do CYP3A4
+O CYP3A4 desempenha um papel secundário no metabolismo da enzalutamida. Após a administração oral do forte inibidor
+do CYP3A4 itraconazol (200 mg uma vez ao dia) em indivíduos saudáveis do sexo masculino, a AUC da enzalutamida
+aumentou em 41%, enquanto a C não sofreu alteração. A AUC da soma da enzalutamida não ligada mais o metabólito
+máx
+ativo não ligado aumentou 27%, enquanto a C novamente não sofreu alteração. Ajustes de dose não são necessários
+máx
+quando enzalutamida é coadministrada com inibidores do CYP3A4.
+Indutores de CYP2C8 e CYP3A4
+Após administração oral do indutor moderado de CYP2C8 e forte de CYP3A4 rifampicina (600 mg uma vez ao dia) a
+indivíduos saudáveis do sexo masculino, a AUC da enzalutamida mais o metabólito ativo diminuíram 37%, enquanto que
+a C permaneceu inalterada. Não é necessário ajustar a dose de enzalutamida quando administrado com indutores de
+máx
+CYP2C8 ou CYP3A4.
+Potencial para enzalutamida afetar exposições a outros medicamentos
+- 28 -
+Indução enzimática
+A enzalutamida é um forte indutor enzimático e aumenta a síntese de muitas enzimas e transportadores; portanto, é
+esperado que haja interação com muitos medicamentos comuns que são substratos de enzimas ou transportadores. A
+redução da concentração plasmática pode ser substancial e levar à perda ou diminuição do efeito clínico. Há também o
+risco de aumento da formação de metabólitos ativos. As enzimas que podem ser induzidas incluem CYP3A no fígado e no
+intestino, CYP2B6, CYP2C9, CYP2C19 e uridina 5'-difosfato-glicuroniltransferase (UGTs - enzimas conjugadoras de
+glucuronídeo). Alguns transportadores podem também ser induzidos, por exemplo, a proteína de resistência a múltiplas
+drogas 2 (MRP2) e o polipeptídeo transportador de ânions orgânicos 1B1 (OATP1B1).
+Estudos in vivo demonstraram que a enzalutamida é um forte indutor do CYP3A4 e um indutor moderado do CYP2C9 e
+do CYP219. A coadministração de enzalutamida (160 mg uma vez ao dia) com doses orais únicas de substratos sensíveis
+ao CYP em pacientes com câncer de próstata resultou em uma redução de 86% na AUC do midazolam (substrato
+CYP3A4), uma redução de 56% na AUC da S-varfarina (substrato CYP2C9) e uma redução de 70% na AUC do omeprazol
+(substrato CYP2C19). A uridina 5-difosfato-glucoronosiltransferase (UGT1A1) também pode ter sido induzida.
+Em um estudo clínico em pacientes com CPRC metastático, enzalutamida (160 mg uma vez por dia) não teve efeito
+clinicamente relevante sobre a farmacocinética do docetaxel administrado por via intravenosa (75 mg/m2 por infusão a cada
+3 semanas). A AUC do docetaxel diminuiu em 12% (razão da média geométrica [GMR = 0,882 (IC 90%: 0,767; 1,02]
+enquanto a C diminuiu em 4% [GMR = 0,963 (IC 90%: 0,834; 1,11)].
+máx
+São esperadas interações com certos medicamentos que são eliminados por meio do metabolismo ou transporte ativo. Caso
+o seu efeito terapêutico seja de grande importância para o paciente e ajustes de dose não forem facilmente realizados com
+base no monitoramento da eficácia ou das concentrações plasmáticas, estes medicamentos devem ser evitados ou usados
+com cuidado. Há suspeita de que o risco de lesão hepática após a administração de paracetamol seja maior em pacientes
+tratados concomitantemente com indutores enzimáticos.
+Os grupos de medicamentos que podem ser afetados incluem os seguintes medicamentos, mas não estão limitados a eles:
+Certos medicamentos usados para tratar asma e outras doenças respiratórias (ex.: aminofilina, teofilina).
+Medicamentos usados para tratar certos transtornos psiquiátricos como depressão e esquizofrenia (ex.: clozapina,
+olanzapina, risperidona, ziprasidona, bupropiona, lítio, clorpromazina, mesoridazina, tioridazina, amitriptilina,
+desipramina, doxepina, imipramina, maprotilina, mirtazapina).
+- Analgésicos (ex.: fentanila, tramadol, petidina).
+- Antibióticos (ex.: claritromicina, doxiciclina).
+- Agentes anticâncer (ex.: cabazitaxel).
+- Antiepiléticos (ex.: carbamazepina, clonazepam, fenitoína, primidona, ácido valproico).
+- Antipsicóticos (ex.: haloperidol).
+- Antitrombóticos (ex.: acenocumarol, varfarina, clopidogrel).
+- Betabloqueadores (ex.: bisoprolol, propranolol).
+- Bloqueadores dos canais de cálcio (ex.: diltiazem, felodipina, nicardipina, nifedipina, verapamil).
+- Glicosídeos cardíacos (ex.: digoxina).
+- Corticoides (ex.: dexametasona, prednisolona).
+- Antivirais HIV (ex.: indinavir, ritonavir).
+- Hipnóticos (ex: diazepam, midazolam, zolpidem).
+- Imunossupressores (ex: ciclosporina, tacrolimo).
+- Inibidor de bomba de prótons (ex.: omeprazol)
+- Estatinas metabolizadas pelo CYP3A4 (ex.: atorvastatina, sinvastatina).
+- Agentes tiroideanos (ex.: levotiroxina).
+O potencial total de indução da enzalutamida pode não ocorrer até cerca de 1 mês após o início do tratamento, quando as
+concentrações plasmáticas da enzalutamida no estado de equilíbrio forem atingidas, embora alguns efeitos de indução
+possam aparecer anteriormente. Os pacientes em uso de medicamentos que são substratos do CYP2B6, CYP3A4, CYP2C9,
+CYP2C19, ou UGT1A1 devem ser avaliados para possível perda de efeitos farmacológicos (ou aumento dos efeitos nos
+casos em que há formação de metabólitos ativos) durante o primeiro mês de tratamento com enzalutamida, e o ajuste de
+dose deve ser considerado conforme apropriado. Levando em consideração a longa meia-vida da enzalutamida (5,8 dias,
+consulte a Seção 3. CARACTERÍSTICAS FARMACOLÓGICAS), o efeito nas enzimas pode persistir por um mês ou mais
+após a interrupção da enzalutamida. Uma redução gradual da dose do medicamento concomitante pode ser necessária
+quando o tratamento com enzalutamida for interrompido.
+Substratos CYP1A2 e CYP2C8
+A enzalutamida (160 mg uma vez ao dia) não causou uma alteração clinicamente relevante na AUC ou na C da cafeína
+máx
+(substrato CYP1A2) ou da pioglitazona (substrato CYP2C8). A AUC da pioglitazona aumentou 20% enquanto a C
+máx
+diminuiu 18%. A AUC e a C da cafeína diminuíram 11% e 4%, respectivamente. Não é indicado ajuste de dose quando
+máx
+um substrato CYP1A2 ou CYP2C8 é coadministrado com enzalutamida.
+- 29 -
+Substratos P-gp
+Dados in vitro indicam que a enzalutamida pode ser um inibidor do transportador de efluxo P-gp. Um leve efeito inibidor
+da enzalutamida, em estado estacionário, na P-gp foi observado em um estudo em pacientes com câncer da próstata que
+receberam uma dose oral única de digoxina, um substrato da P-gp, antes da e concomitantemente à enzalutamida
+(administração concomitante após, no mínimo, 55 dias de uma dose diária de 160 mg de enzalutamida). A AUC e a Cmáx
+da digoxina aumentaram em 33% e 17%, respectivamente. Medicamentos com abrangência terapêutica estreita que são
+substratos para P-gp (ex., colchicina, etexilato de dabigatrana, digoxina) devem ser usados com cautela quando
+administrados concomitantemente à enzalutamida e podem exigir ajustes de dose para manterem concentrações plasmáticas
+ideais.
+Substratos BCRP
+Com base nos dados in vitro, a inibição da proteína de resistência ao câncer de mama (BCRP) não pode ser excluída.
+Entretanto, em estado estacionário, a enzalutamida não causou uma alteração clinicamente relevante na exposição da
+rosuvastatina, substrato da BCRP, em pacientes com câncer de próstata que receberam uma dose oral única de
+rosuvastatina antes da e concomitantemente à enzalutamida (administração concomitante após, no mínimo, 55 dias de uma
+dose diária de 160 mg de enzalutamida). A AUC de rosuvastatina diminuiu em 14%, enquanto a C aumentou em 6%.
+máx
+Nenhum ajuste de dose é necessário quando um substrato da BCRP é coadministrado com enzalutamida.
+Substratos MRP2, OAT3 e OCT1
+Com base em dados in vitro, não é possível excluir a inibição de MRP2 (proteína-2 associada à resistência a múltiplas
+drogas) (no intestino), bem como transportador de ânions orgânicos 3 (OAT3) e transportador de cátions orgânicos 1
+(OCT1) (sistemicamente). Teoricamente, a indução desses transportadores é também possível e o efeito resultante é
+desconhecido no momento.
+Medicamentos que prolongam o intervalo QT
+Como o tratamento de privação androgênica pode prolongar o intervalo QT, o uso concomitante de enzalutamida com
+medicamentos que reconhecidamente prolonguem o intervalo QT ou medicamentos que possam induzir torsades de
+pointes, tais como os antiarrítmicos de classe IA (por ex., quinidina, disopiramida) ou classe III (por ex., amiodarona,
+sotalol, dofetilida, ibutilida), metadona, moxifloxacino, antipsicóticos, etc., deve ser cuidadosamente avaliado (vide a
+seção 5. ADVERTÊNCIAS E PRECAUÇÕES).
+Efeito dos alimentos sobre exposições à enzalutamida
+Os alimentos não têm efeito clinicamente significativo sobre o grau de exposição à enzalutamida. Em ensaios clínicos,
+foi administrada enzalutamida independentemente dos alimentos.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+ENLUTOZA® deve ser armazenado à temperatura ambiente (entre 15°C e 30°C), protegido da umidade.
+A validade é de 36 meses após a data de fabricação.
+Não use este medicamento após a data de validade informada na caixa, bolsa e blíster. A data de validade refere-se ao
+último dia daquele mês.
+Não tome qualquer cápsula mole que esteja vazando, danificada ou mostre sinais de adulteração.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+ENLUTOZA® é fornecido em cápsula gelatinosa mole, de forma oblonga, cor branca a esbranquiçada opaca contendo líquido
+incolor a levemente amarelado.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Posologia
+A dose recomendada de ENLUTOZA® é 160 mg (quatro cápsulas de 40 mg) como dose oral única diária.
+A castração medicamentosa com um análogo do hormônio liberador do hormônio luteinizante (LHRH) deve
+continuar durante o tratamento de pacientes com câncer de próstata resistente à castração (CPRC) ou com câncer de
+próstata metastático sensível à castração (CPSCm) que não sejam castrados cirurgicamente.
+Pacientes com câncer de próstata não metastático sensível à castração (CPSCnm) com recidiva bioquímica (RB) de
+alto risco podem ser tratados com ENLUTOZA® com ou sem leuprolida. Para pacientes que recebem
+ENLUTOZA® com ou sem leuprolida, o tratamento pode ser suspenso se o PSA for indetectável (< 0,2 ng/mL) após
+36 semanas de terapia. O tratamento deve ser reiniciado quando o PSA tiver aumentado para ≥ 2,0 ng/mL para
+pacientes submetidos à prostatectomia radical anterior ou ≥ 5,0 ng/mL para pacientes submetidos à radioterapia
+primária anterior (consulte a seção 2).
+- 30 -
+Se o paciente se esquecer de tomar ENLUTOZA® no horário usual, a dose prescrita deve ser tomada o mais
+próximo possível deste horário. Se o paciente esquecer uma dose por um dia inteiro, o tratamento deve ser reiniciado
+no dia seguinte com a dose diária usual.
+Se o paciente apresentar toxicidade de grau ≥ 3 ou uma reação adversa intolerável, a administração deve ser
+suspensa por uma semana ou até que os sintomas melhorem a grau ≤ 2, e então reiniciada com a mesma dose ou uma
+dose reduzida (120 mg ou 80 mg), se justificável.
+Na população controlada combinada, a duração mediana do tratamento foi de 19,3 meses para os pacientes que
+receberam enzalutamida mais TPA e de 8,4 meses para os pacientes que receberam placebo mais TPA (TPA
+definida como análogo de LHRH ou orquiectomia bilateral).
+Uso concomitante com inibidores fortes do CYP2C8
+O uso concomitante de inibidores fortes do CYP2C8 deve ser evitado, se possível. Se os pacientes precisam
+coadministrar um inibidor forte do CYP2C8, a dose de enzalutamida deve ser reduzida para 80 mg uma vez ao dia. Se
+a coadministração do inibidor forte do CYP2C8 for suspensa, a dose de enzalutamida deve retornar ao valor usado
+antes de introduzir o inibidor forte do CYP2C8.
+Populações especiais
+Pacientes idosos
+Não é necessário ajuste de dose para pacientes idosos (consulte a Seção 3. CARACTERÍSTICAS
+FARMACOLÓGICAS).
+Pacientes com comprometimento hepático
+Não é necessário ajuste de dose para pacientes com comprometimento hepático leve, moderado ou grave (Child-Pugh
+Classe A, B ou C, respectivamente). Foi observado, entretanto, aumento da meia-vida do medicamento em pacientes com
+comprometimento hepático grave (consulte as Seções 3. CARACTERÍSTICAS FARMACOLÓGICAS e 5.
+ADVERTÊNCIAS E PRECAUÇÕES).
+Pacientes com comprometimento renal
+Não é necessário ajuste de dose para pacientes com comprometimento renal leve ou moderado (consulte a Seção 3.
+CARACTERÍSTICAS FARMACOLÓGICAS). É necessária cautela em pacientes com comprometimento renal grave ou
+doença renal em estágio terminal (consulte a Seção 5. ADVERTÊNCIAS E PRECAUÇÕES).
+Sexo
+A enzalutamida não é indicada para uso em mulheres.
+População pediátrica
+A enzalutamida contraindicada para uso em pacientes menores de 18 anos.
+Método de administração
+As cápsulas de ENLUTOZA® destinam-se a uso por via oral. As cápsulas não devem ser mastigadas, dissolvidas nem ou
+abertas, mas devem ser ingeridas inteiras com uma quantidade suficiente de água, e podem ser tomadas com ou sem
+alimentos.
+Este medicamento não deve ser partido, aberto ou mastigado.
+Com base em seu mecanismo de ação e toxicidade embrionária-fetal observada em camundongos, enzalutamida pode
+prejudicar um feto em desenvolvimento. As mulheres que estão ou podem engravidar não devem manusear cápsulas de
+enzalutamida danificadas ou abertas sem proteção, por exemplo, luvas.
+9. REAÇÕES ADVERSAS
+As reações adversas mais comuns são fadiga, náusea, fogachos, diarreia, hipertensão, astenia, fratura e quedas.
+Outras reações adversas importantes incluem doença cardíaca isquêmica e convulsão.
+Ocorreram convulsões em 0,6% dos pacientes tratados com enzalutamida, 0,12% dos pacientes tratados com placebo
+e 0,3% dos pacientes tratados com bicalutamida.
+Casos raros de síndrome de encefalopatia posterior reversível (PRES) foram relatados em pacientes tratados com
+enzalutamida (vide seção 5 ADVERTÊNCIAS E PRECAUÇÕES).
+Lista tabulada das reações adversas
+As reações adversas observadas em estudos clínicos estão listadas abaixo por categoria de frequência. As categorias de
+frequência são definidas como segue: muito comuns (≥ 1/10); comuns (≥ 1/100 a < 1/10); incomuns (≥ 1/1.000 a < 1/100);
+raras (≥ 1/10.000 a < 1/1.000); muito raras (< 1/10.000); desconhecidas (a frequência não pode ser estimada a partir dos
+- 31 -
+dados disponíveis). Dentro de cada grupo de frequência, as reações adversas estão apresentadas por ordem decrescente de
+frequência.
+Tabela 6: Reações adversas identificadas nos ensaios clínicos controlados e pós-comercialização
+Reação adversa e frequência
+Distúrbios do sangue e sistema linfático Incomuns: leucopenia, neutropenia
+Desconhecidos*: trombocitopenia
+Distúrbios do sistema imune Desconhecidos*: edema facial, edema da língua, edema do lábio,
+edema faríngeo
+Distúrbios do metabolismo e nutrição Desconhecidos*: diminuição de apetite
+Distúrbios psiquiátricos Comuns: ansiedade
+Incomuns: alucinações visuais
+Distúrbios do sistema nervoso Comuns: dor de cabeça, distúrbios cognitivos**, disgeusia,
+síndrome das pernas inquietas
+Incomuns: convulsão¥
+Desconhecidos*: síndrome de encefalopatia posterior reversível
+Distúrbios cardíacos Comuns: doença cardíaca isquêmica†
+Desconhecidos*: prolongamento do intervalo QT (vide Seções 5.
+ADVERTÊNCIAS E PRECAUÇÕES e 6. INTERAÇÕES
+MEDICAMENTOSAS)
+Distúrbios vasculares Muito comuns: fogachos, hipertensão
+Distúrbios gastrointestinais Desconhecidos*: náusea, diarreia, vômito, disfagia
+Distúrbios do tecido subcutâneo e pele Comuns: prurido, pele seca
+Desconhecidos*: erupção cutânea, reações cutâneas graves§
+Distúrbios dos tecidos conjuntivo e musculoesquelético Muito comuns: fraturas‡
+Desconhecidos*: mialgia, espasmos musculares, fraqueza
+muscular, dor lombar
+Distúrbios do sistema reprodutivo e das mamas Comuns: ginecomastia, dor nos mamilos#, sensibilidade
+mamária#
+Distúrbios gerais e no local de administração Muito comuns: astenia, fadiga
+Lesões, envenenamento e complicações processuais Muito comuns: quedas
+* Relatos espontâneos da experiência pós-comercialização.
+** Inclui amnésia, perda de memória, distúrbio cognitivo e déficit de atenção.
+¥ Conforme avaliado por buscas específicas de “Convulsões” incluindo convulsão, convulsão tipo grande mal,
+convulsões parciais complexas, convulsões parciais e status epilepticus. Isso inclui casos raros de convulsão
+com complicações que levam ao óbito.
+† Conforme avaliado por buscas específicas de 'Infarto do Miocárdio' e 'Outras Doenças Isquêmicas do Coração'
+incluindo os seguintes termos preferidos observados em pelo menos dois pacientes nos estudos randomizados de
+fase 3 controlados por placebo: angina pectoris, doença arterial coronariana, infarto do miocárdio, infarto agudo
+do miocárdio, síndrome coronariana aguda, angina instável, isquemia miocárdica e doença arterial coronaria.
+‡ Inclui todos os termos preferidos com a palavra “fratura” óssea.
+§ Conforme avaliado por buscas específicas de “Reações Cutâneas Adversas Graves”, Pustulose exantematosa
+generalizada aguda, dermatite bolhosa, dermatite esfoliativa generalizada, reação medicamentosa com
+eosinofilia e sintomas sistêmicos, eritema multiforme, erupção cutânea esfoliativa, síndrome de Stevens-
+Johnson (SJS), necrólise epidérmica tóxica (TEN) e erupção cutânea tóxica foram relatados em casos pós-
+comercialização.
+A disfagia foi relatada devido ao tamanho do produto enzalutamida (veja a seção 5. ADVERTÊNCIAS E
+PRECAUÇÕES).
+# Reação adversa para enzalutamida em monoterapia. A categoria de frequência nesta tabela é baseada em um
+agrupamento de dados de pacientes tratados com enzalutamida como monoterapia no estudo EMBARK,
+juntamente com pacientes de uma coleção de estudos que foram tratados com enzalutamida mais TPA (n =
+5110).
+Descrição de reações adversas selecionadas
+Convulsão
+Nos estudos clínicos controlados, 31 pacientes (0,6%) de um total de 5.110 pacientes tratados com uma dose diária de 160
+mg de enzalutamida apresentaram convulsão, enquanto quatro pacientes (0,1%) recebendo placebo e um paciente (0,3%)
+recebendo bicalutamida apresentaram convulsão. A dose parece ser um importante fator preditivo do risco de convulsão,
+conforme refletem os dados pré-clínicos e os dados de um estudo de escalonamento da dose. Nos estudos clínicos
+controlados, foram excluídos pacientes com convulsões prévias ou fatores de risco para convulsão.
+- 32 -
+No estudo 9785-CL-0403 (UPWARD) com braço único para avaliar a incidência de convulsões em pacientes com
+fatores predisponentes a convulsões (dos quais 1,7% apresentavam histórico de convulsões), 8 de 366 (2,2%) pacientes
+tratados com enzalutamida apresentaram convulsões. A duração mediana do tratamento foi 9,3 meses.
+O mecanismo pelo qual a enzalutamida pode reduzir o limiar de convulsões é desconhecido, mas pode ser relacionado a
+dados de estudos in vitro que mostram que a enzalutamida e seu metabólito ativo se ligam ao canal de cloreto acoplado
+ao receptor GABA e podem inibir sua atividade.
+Ginecomastia
+Em pacientes com câncer de próstata não metastático sensível à castração (CPSCnm) com recidiva bioquímica (RB) de alto risco
+incluídos no estudo EMBARK, ginecomastia (de todos os graus) foi observada em 29 de 353 pacientes (8,2%) que foram tratados
+com enzalutamida mais TPA, 159 de 354 pacientes (44,9%) que foram tratados com enzalutamida em monoterapia em caráter
+aberto e 32 de 354 pacientes (9%) que foram tratados com placebo mais TPA (TPA definida como leuprolida). A ginecomastia de
+grau 3 ou superior não foi observada em nenhum paciente que foi tratado com enzalutamida mais TPA ou placebo mais TPA, e foi
+observada em 3 pacientes (0,8%) que foram tratados com enzalutamida em monoterapia em caráter aberto.
+Dor nos mamilos
+Em pacientes com recidiva bioquímica (RB) de alto risco incluídos no estudo EMBARK, dor nos mamilos (de todos os graus) foi
+observada em 54 de 354 pacientes (15,3%) que foram tratados com enzalutamida em monoterapia (frequência muito comum).
+Também foi observada em 11 de 353 pacientes (3,1%) que foram tratados com enzalutamida mais TPA e em 4 de 354 pacientes
+(1,1%) que foram tratados com placebo mais TPA. Dor nos mamilos de grau 3 ou superior não foi observada em nenhum dos
+pacientes tratados com enzalutamida mais TPA, enzalutamida em monoterapia ou placebo mais TPA.
+Sensibilidade mamária
+Em pacientes com recidiva bioquímica (RB) de alto risco incluídos no estudo EMBARK, sensibilidade mamária (de todos os graus)
+foi observada em 51 de 354 pacientes (14,4%) que foram tratados com enzalutamida em monoterapia (frequência muito comum).
+Também foi observada em 5 de 353 pacientes (1,4%) que foram tratados com enzalutamida mais TPA e em 4 de 354 pacientes
+(1,1%) que foram tratados com placebo mais TPA. Sensibilidade mamária de grau 3 ou superior não foi observada em nenhum dos
+pacientes tratados com enzalutamida mais TPA, enzalutamida em monoterapia ou placebo mais TPA.
+Doença Cardíaca Isquêmica
+Em estudos clínicos randomizados controlados com placebo, doença cardíaca isquêmica ocorreu em 3,5% dos pacientes tratados
+com enzalutamida mais TPA em comparação com 2% dos pacientes tratados com placebo mais TPA. Quatorze (0,4%) pacientes
+tratados com enzalutamida mais TPA e 3 (0,1%) pacientes tratados com placebo mais TPA tiveram um evento de doença cardíaca
+isquêmica que levou à morte.
+Atenção: este produto é um medicamento que possui nova forma farmacêutica e nova indicação terapêutica no país e,
+embora as pesquisas tenham indicado que sua eficácia e segurança são aceitáveis, mesmo que indicado e utilizado
+corretamente, podem ocorrer eventos adversos imprevisíveis ou desconhecidos. Nesse caso, notifique os eventos adversos
+pelo Sistema VigiMed, disponível no Portal da ANVISA.
+10. SUPERDOSE
+Não existe antídoto para ENLUTOZA®. No caso de superdose, o tratamento com enzalutamida deve ser interrompido
+e medidas gerais de suporte devem ser iniciadas levando em consideração a meia-vida de 5,8 dias. Pacientes podem ter
+o risco aumentado de convulsões após uma superdose.
+Em caso de intoxicação, ligue para 0800 722 6001 se você precisar de mais orientações.
+III – DIZERES LEGAIS
+Registro: 1.5143.0073
+Produzido por:
+Lotus Pharmaceutical Co. Ltd.
+Nantou City, Taiwan.
+Importado e Registrado por:
+Dr. Reddy’s Farmacêutica do Brasil Ltda.
+Av. Guido Caloi, 1985, galpão 11
+Jd. São Luís – São Paulo – SP
+CEP: 05802-140
+CNPJ nº 03.978.166/0001-75
+VENDA SOB PRESCRIÇÃO
+- 33 -
+Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em 07/11/2024.
+EZ_0325/BL-01PS
+- 34 -
+Histórico de Alteração para a bula
+Dados da submissão eletrônica Dados da Petição/notificação que altera bula Dados das alterações de bulas
+Data do N° do expediente Assunto Data do N° do Assunto Data de Itens de bula Versão Apresentações relacionadas
+expediente expediente expediente aprovação (VP/VPS)
+23/05/2025 Versão atual 10457 - SIMILAR - 23/05/2025 Versão atual 10457 - SIMILAR - 23/05/2025 Inclusão Inicial VP
+Inclusão Inicial de Texto Inclusão Inicial de Texto 40 MG CAP MOLE CT BL AL PLAS
+de Bula - publicação no de Bula - publicação no Inclusão Inicial PVC/PCTFE TRANS X 120
+Bulário RDC 60/12 Bulário RDC 60/12 VPS
+- 35 -

@@ -1,0 +1,1231 @@
+ERBITUX®
+cetuximabe
+Merck S/A
+Bula para o profissional de saúde
+Solução injetável
+5 mg/ml
+Erbitux®
+cetuximabe
+APRESENTAÇÕES
+Solução injetável 5 mg/mL - Frasco-ampola com 20 mL e 100 mL
+USO INTRAVENOSO
+USO ADULTO
+COMPOSIÇÃO
+Cada frasco-ampola de solução injetável de Erbitux® contém:
+cetuximabe .......................... 5 mg/mL
+Excipientes: cloreto de sódio, glicina, polissorbato 80, ácido cítrico monoidratado, hidróxido
+de sódio e água para injetáveis.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Erbitux® é indicado para o tratamento de pacientes com câncer colorretal metastático RAS não
+mutado:
+− em combinação com quimioterapia à base de irinotecano ou com oxaliplatina mais 5-
+fluoruracila e ácido folínico em infusão contínua;
+− como agente único em pacientes que tenham falhado à terapia baseada em oxaliplatina e
+irinotecano, e que sejam intolerantes ao irinotecano.
+Erbitux® é indicado, em combinação com encorafenibe, para o tratamento de pacientes adultos
+com câncer colorretal metastático (CCR) com mutação BRAF V600E, que tenham recebido
+terapia sistêmica prévia.
+Erbitux® é indicado para o tratamento de pacientes com carcinoma de células escamosas de
+cabeça e pescoço:
+− em combinação com radioterapia para doença localmente avançada em pacientes que, de
+acordo com critério médico, não podem ser tratados com a associação de quimioterapia
+mais radioterapia;
+− em combinação com quimioterapia baseada em platina para doença recidivada e/ou
+metastática.
+2. RESULTADOS DE EFICÁCIA
+Câncer colorretal
+Um ensaio diagnóstico (EGFR pharmDx™) foi utilizado para a detecção imunohistoquímica
+da expressão de EGFR em material tumoral. Aproximadamente 75% dos pacientes com
+carcinoma colorretal metastático selecionados para os estudos clínicos possuíam tumor com
+expressão de EGFR e, portanto, foram considerados elegíveis ao tratamento com cetuximabe.
+Dados de estudos demonstram que pacientes portadores de câncer colorretal com RAS não-
+mutado têm uma chance significativamente maior de se beneficiarem do tratamento com
+cetuximabe ou da combinação de cetuximabe com quimioterapia.
+O cetuximabe foi investigado como agente isolado ou em combinação com agentes
+antineoplásicos em 6 estudos clínicos controlados randomizados e em diversos estudos
+complementares. Cinco estudos randomizados investigaram um total de 3.734 pacientes com
+câncer colorretal metastático, nos quais a expressão de EGFR era detectável e que apresentavam
+status de desempenho ECOG ≤ 2. A maior parte dos pacientes incluídos possuía status de
+desempenho ECOG ≤ 1. O sexto estudo investigou 665 pacientes com mutações BRAF V600E.
+Em todos os estudos, o cetuximabe foi administrado conforme descrito na seção “Posologia e
+modo de usar”.
+O status do gene KRAS foi reconhecido como um fator preditivo para o tratamento com
+cetuximabe em 4 dos estudos controlados randomizados. O status de mutação do KRAS foi
+avaliado em 2.072 pacientes. Foram realizadas análises adicionais para o estudo EMR 62 202-
+047, nas quais também foram determinadas mutações nos genes RAS (NRAS e KRAS), além
+da mutação KRAS no exon 2. Somente no estudo EMR 62 202-007, não foi possível uma
+análise.
+FIRE-3, um estudo clínico fase III patrocinado pelo investigador, comparou o tratamento de
+FOLFIRI em combinação com cetuximabe ou bevacizumabe no tratamento de primeira linha
+de pacientes com CCRm KRAS selvagem no exon 2. Outras análises post-hoc sobre mutações
+em outros genes RAS além do exon 2 de KRAS foram avaliadas.
+O cetuximabe em combinação com quimioterapia
+ EMR 62 202-013: Este estudo randomizado em pacientes com câncer colorretal metastático
+que não receberam tratamento prévio para doença metastática comparou a combinação de
+cetuximabe e irinotecano mais 5-fluorouracil/ácido folínico (FOLFIRI) infusional (599
+pacientes) versus mesma quimioterapia isolada (599 pacientes). A proporção de pacientes
+com tumores KRAS não-mutados compreendeu 63% da população de pacientes avaliável
+para o status do KRAS. Para a avaliação do status de RAS foram determinadas outras
+mutações, além das mutações no exon 2, do gene KRAS, em todas as amostras de tumores
+avaliáveis na população com KRAS não mutado. A população com RAS mutado consiste de
+pacientes com mutações conhecidas de KRAS, assim como outras mutações de RAS
+identificadas.
+Os dados de eficácia gerados neste estudo estão resumidos na tabela abaixo:
+População RAS não-mutado População RAS mutado
+Cetuximabe + Cetuximabe +
+Variável/estatística FOLFIRI FOLFIRI
+FOLFIRI FOLFIRI
+(N=178) (N=189) (N=246) (N=214)
+OS
+Meses, mediana 28,4 20,2 16,4 17,7
+(IC95%) (24,7; 31,6) (17,0; 24,5) (14,9; 18,4) (15,4; 19,6)
+Hazard Ratio (IC95%) 0,691 (0,543; 0,879) 1,049 (0,860; 1,281)
+Valor p 0,0024 0,6355
+PFS
+Meses, mediana 11,4 8,4 7,4 7,5
+(IC95%) (10,0; 14,6) (7,4; 9,4) (6,4; 8,0) (7,2; 8,5)
+Hazard Ratio (IC95%) 0,556 (0,406; 0,761) 1,098 (0,852; 1,415)
+Valor p 0,0002 0,4696
+ORR
+% 66,3 38,6 31,7 36,0
+(IC95%) (58,8; 73,2) (31,7; 46,0) (25,9; 37,9) (29,6; 42,8)
+Odds ratio (IC95%) 3,1145 (2,0279; 4,7835) 0,8478 (0,5767; 1,2462)
+Valor p < 0,0001 0,3970
+IC = intervalo de confiança, FOLFIRI = irinotecano + 5-fluorouracila/ácido folínico infusional, ORR =
+taxa de resposta objetiva (pacientes com resposta completa ou parcial), OS = sobrevida global, PFS = tempo
+de sobrevida sem progressão.
+Na população geral com RAS não mutado, a adição de cetuximabe a irinotecano + 5-
+fluorouracil/ácido folínico infusional (FOLFIRI) melhorou significativamente o tempo de
+sobrevida global, sobrevida livre de progressão e taxa de resposta objetiva.
+ EMR 62 202-047: Este estudo randomizado em pacientes com câncer colorretal metastático
+que não receberam tratamento prévio para doença metastática comparou a combinação de
+cetuximabe e oxaliplatina + infusão contínua de 5-fluorouracil/ácido folínico (FOLFOX4)
+(169 pacientes) versus a mesma quimioterapia isolada (168 pacientes). A proporção de
+pacientes com tumores KRAS não-mutados compreendeu 57% da população de pacientes
+avaliável para o status do KRAS. Para a avaliação do status de RAS foram determinadas
+outras mutações, além das mutações no exon 2, do gene KRAS, em todas as amostras de
+tumores avaliáveis na população com KRAS não mutado. A população com RAS mutado
+consiste de pacientes com mutações conhecidas de KRAS, assim como outras mutações de
+RAS identificadas.
+Os dados de eficácia gerados neste estudo estão resumidos na tabela abaixo:
+População RAS não-mutado População RAS mutado
+Cetuximabe + Cetuximabe +
+Variável/estatística FOLFOX4 FOLFOX
+FOLFOX FOLFOX
+(N=38) (N=49) (N=92) (N= 75)
+OS
+Meses, mediana 19,8 17,8 13,5 17,8
+(IC95%) (16,6; 25,4) (13,8; 23,9) (12,1; 17,7) (15,9; 23,6)
+Hazard Ratio (IC95%) 0,937 (0,563; 1,558) 1,291 (0,905; 1,842)
+Valor p 0,8002 0,1573
+PFS
+Meses, mediana 12,0 5,8 5,6 7,8
+(IC95%) (5,8; NE) (4,7; 7,9) (4,4; 7,5) (6,7; 9,3)
+Hazard Ratio (IC95%) 0,533 (0,272; 1,042) 1,541 (1,037; 2,289)
+Valor p 0,0615 0,0309
+ORR
+% (IC95%) 57,9 28,6 37,0 50,7
+(40,8; 73,7) (16,6; 43,3) (27,1; 47,7) (38,9; 62,4)
+Odds ratio (IC95%) 3,302 (1,375; 8,172) 0,508 (0,311; 1,080)
+Valor p 0,0084 0,0865
+IC = intervalo de confiança, FOLFOX4 = oxaliplatina + 5-fluorouracila/ácido folínico em infusão contínua,
+ORR = taxa de resposta objetiva (pacientes com resposta completa ou parcial), OS = sobrevida global, PFS
+= tempo de sobrevida livre de progressão. NE = não estimável.
+ FIRE-3: Combinação em primeira linha de cetuximabe com FOLFIRI. O estudo FIRE-3 é
+um estudo fase III multicêntrico randomizado head-to-head com 5-fluorouracil, ácido
+folínico e irinotecano (FOLFIRI) combinado com cetuximabe ou bevacizumabe em
+pacientes com câncer colorretal metastático (CCRm) KRAS exon-2 não mutado. Foi
+realizada análise retrospectiva de subgrupo de 592 pacientes com CCRm KRAS exon-2 não
+mutado. Nesta análise, amostras de tumores de 407 pacientes com status KRAS exon-2 não
+mutado (códons 12/13) puderam ser testadas por pirosequenciamento para mutações
+adicionais RAS em KRAS exon-3 (códons 59/61) e exon-4 (códons 117/146) e NRAS exon-
+2 (códons 12/13), exon-3 (códons 59/61) e exon-4 (códons 117/146), de forma a avaliar o
+efeito sobre a taxa de resposta objetiva (ORR), o tempo de sobrevida livre de progressão
+(PFS) e a sobrevida global (OS) em ambos os braços de tratamento.
+Os 342 pacientes dentro do subgrupo com RAS não-mutado apresentou ORR maior com
+cetuximabe + FOLFIRI em relação aos pacientes que receberam bevacizumabe + FOLFIRI.
+A OS foi prolongada no braço cetuximabe no subgrupo RAS não-mutado. A PFS mostrou
+ligeiramente também mais benefícios nos indivíduos com RAS não-mutado sob tratatamento
+com cetuximabe+FOLFIRI.
+Nenhum benefício foi observado sobre todos os endpoints de eficácia nos indivíduos com
+tumores RAS mutados no braço cetuximabe+FOLFIRI. Estes dados sugerem ser improvável
+que indivíduos com mutações NRAS/KRAS além de KRAS exon-2 se beneficiem a partir
+de tratamento anti-EGFR.
+Os dados de eficácia deste estudo são resumidos na tabela abaixo:
+População RAS não-mutado População RAS mutado
+Variável/estatística Cetuximabe + Bevacizumabe Cetuximabe + Bevacizumabe
+FOLFIRI + FOLFIRI FOLFIRI + FOLFIRI
+(N=171) (N=171) (N=92) (N=86)
+OS
+Meses, mediana 33,1 25,6 20,3 20,6
+(IC95%) (24,5; 39,4) (22,7; 28,6) (16,4; 23,4) (17,0; 26,7)
+Hazard Ratio (IC95%) 0,70 (0,53; 0,92) 1,09 (0,78; 1,52)
+Valor p 0,011 0,60
+PFS
+Meses, mediana 10,4 10,2 7,5 10,1
+(IC95%) (9,5; 12,2) (9,3; 11,5) (6,1; 9,0) (8,9; 12,2)
+Hazard Ratio (IC95%) 0,93 (0,74; 1,17) 1,31 (0,98; 1,78)
+Valor p 0,54 0,085
+ORR
+% 65,5 59,6 38,0 51,2
+(IC95%) (57,9; 72,6) (51,9; 67,1) (28,1; 48,8) (40,1; 62,1)
+Odds Ratio (IC95%) 1,28 (0,83; 1,99) 0,59 (0,32; 1,06)
+Valor p 0,32 0,097
+IC = intervalo de confiança, FOLFIRI = irinotecano + 5-fluorouracila/ácido folínico infusional, ORR =
+taxa de resposta objetiva (pacientes com resposta completa ou parcial), OS = sobrevida global, PFS = tempo
+de sobrevida livre de progressão.
+ CA225006: Este estudo randomizado em pacientes com câncer colorretal metastático que
+receberam tratamento inicial associado com oxaliplatina + fluoropirimidina para doença
+metastática comparou a combinação de cetuximabe e irinotecano (648 pacientes) com
+irinotecano como agente isolado (650 pacientes). A proporção de pacientes com tumores
+KRAS não-mutados compreendeu 64% da população de pacientes avaliável para o status do
+KRAS.
+Não pôde ser demonstrada diferença significativa no tempo total de sobrevida neste estudo.
+Seguindo a progressão da doença, o tratamento com agentes anti-EGFR foi iniciado em 50%
+dos pacientes do braço irinotecano-isolado, o que impactou principalmente em resultados de
+sobrevida. A taxa de resposta objetiva e o tempo de sobrevida livre de progressão melhoraram
+significativamente com cetuximabe. Entretanto, como não foi conduzida uma revisão
+independente dos dados de imagem, estes resultados devem ser interpretados com cautela.
+ EMR 62 202-207: Este estudo randomizado em pacientes com câncer colorretal metastático
+após falha no tratamento baseado em irinotecano para doença metastática como último
+tratamento antes do início do estudo comparou a combinação de cetuximabe + irinotecano
+(218 pacientes) versus a monoterapia com cetuximabe (111 pacientes). A combinação de
+cetuximabe com irinotecano comparada ao cetuximabe isolado reduziu o risco total de
+progressão da doença em 46% e aumentou significativamente a taxa de resposta. No estudo
+randomizado, o aumento do tempo total de sobrevida não foi estatisticamente significativo;
+entretanto, no tratamento de acompanhamento, aproximadamente 50% dos pacientes do
+tratamento do braço cetuximabe-isolado receberam uma combinação de cetuximabe +
+irinotecano após a progressão da doença, que pode ter influenciado o tempo total de
+sobrevida.
+O cetuximabe como agente isolado
+ CA225025: Este estudo randomizado em pacientes com câncer colorretal metastático que
+receberam tratamento prévio baseado em oxaliplatina, irinotecano e fluoropirimidina para
+doença metastática comparou a adição de cetuximabe como agente isolado em combinação
+ao melhor tratamento de suporte (best supportive care - BSC) (287 pacientes) versus o
+melhor tratamento de suporte (285 pacientes). A proporção de pacientes com tumores KRAS
+não-mutado compreendeu 58% da população de pacientes avaliável para o status do KRAS.
+Os dados de eficácia deste estudo são resumidos na tabela abaixo:
+População KRAS não-mutado População KRAS mutado
+Variável/estatística Cetuximabe + BSC Cetuximabe + BSC
+BSC BSC
+(N=117) (N=113) (N=81) (N=83)
+OS
+Meses, mediana 9,5 (7,7; 10,3) 4,8 (4,2; 5,5) 4,5 (3,8; 5,6) 4,6 (3,6; 5,5)
+(IC95%)
+Hazard Ratio (IC95%) 0,552 (0,408; 0,748) 0,990 (0,705; 1,389)
+Valor p < 0,0001 0,9522
+PFS
+Meses, mediana 3,7 (3,1; 5,1) 1,9 (1,8; 2,0) 1,8 (1,7; 1,8) 1,8 (1,7; 1,8)
+(IC95%)
+Hazard Ratio (IC95%) 0,401 (0,299; 0,536) 1,002 (0,732; 1,371)
+Valor p < 0,0001 0,9895
+ORR
+% (IC95%) 12,8 (7,4; 20,3) 0 (-) 1,2 (0,0; 6,7) 0 (-)
+Valor p < 0,001 0,314
+BSC = melhor terapia de suporte, IC = intervalo de confiança, ORR = taxa de resposta objetiva (pacientes
+com resposta completa ou parcial), OS = sobrevida global, PFS = tempo de sobrevida livre de progressão.
+O cetuximabe em combinação com encorafenibe
+Cetuximabe, em combinação com encorafenibe, foi avaliado em um estudo multicêntrico
+randomizado, controlado por comparador ativo, aberto (ARRAY 818-302 BEACON CCR). Os
+pacientes elegíveis apresentavam obrigatoriamente câncer colorretal metastático com mutação
+BRAF V600E que tivesse progredido após 1 ou 2 regimes anteriores. Os pacientes admitidos
+eram elegíveis para receber cetuximabe de acordo com a indicação aprovada localmente em
+relação ao status RAS do tumor.
+Foi vetado o uso prévio de inibidores de RAF, inibidores de MEK ou inibidores de EGFR. A
+randomização foi estratificada pelo status de desempenho do Eastern Cooperative Oncology
+Group (ECOG), uso anterior de irinotecano e cetuximabe.
+Um total de 665 pacientes foram randomizados (1:1:1) para receber cetuximabe em combinação
+com encorafenibe 300 mg por via oral diariamente (n = 220), ou cetuximabe em combinação
+com encorafenibe 300 mg por via oral diariamente e binimetinibe 45 mg por via oral duas vezes
+ao dia (n = 224) ou controle (cetuximabe com irinotecano ou cetuximabe com irinotecano/5-
+fluorouracil/ácido folínico (FOLFIRI), n = 221). O tratamento foi mantido até a progressão da
+doença ou toxicidade inaceitável.
+Os objetivos primários de eficácia foram a sobrevida global (OS) e a taxa de resposta global
+(ORR), avaliadas por um comitê de revisão central independente e cego (BIRC), comparando
+cetuximabe em combinação com encorafenibe 300 mg versus controle. Outras medidas de
+eficácia estão resumidas na tabela abaixo.
+A idade mediana dos pacientes foi de 61 anos (intervalo: 26 a 91), 47% eram do sexo masculino
+e 83% eram brancos. 51% dos pacientes apresentavam status de desempenho ECOG basal de 0
+e 51% receberam irinotecano anteriormente. 46,8% dos pacientes tinham pelo menos 3 órgãos
+com comprometimento tumoral na linha de base.
+A duração mediana da exposição foi de 3,2 meses em pacientes tratados com cetuximabe em
+combinação com encorafenibe 300 mg, e 1,4 meses em pacientes tratados com
+cetuximabe/irinotecano ou cetuximabe/FOLFIRI (braço controle). Em pacientes tratados com
+a combinação cetuximabe e encorafenibe 300 mg, a intensidade da dose relativa mediana (IDR)
+foi de 98% para encorafenibe e 93,5% para cetuximabe. No braço controle, a IDR mediana foi
+de 85,4% para cetuximabe, 75,7% para irinotecano e no grupo de pacientes que receberam ácido
+folínico e 5-FU, a IDR mediana foi de 75,2% e 75%, respectivamente.
+Cetuximabe, em combinação com encorafenibe 300 mg, demonstrou uma melhora
+estatisticamente significativa na OS, ORR e PFS em comparação com o controle. Os resultados
+de eficácia estão resumidos na tabela e figuras abaixo.
+Estudo ARRAY-818-302 BEACON CCR: Dados de eficácia
+Cetuximabe com encorafenibe cetuximabe com irinotecano
+ou cetuximabe com
+FOLFIRI (Controle)
+Data do cut-off: 11 fevereiro 2019 (Análise primária)
+OS
+Número of pacientesa 220 221
+Número de eventos 93 (42,3) 114 (51,6)
+(%)
+Mediana, meses 8,4 (7,5-11,0) 5,4 (4,8; 6,6)
+(IC 95%)
+Hazard Ratio (IC 0,60 (0,41-0,88)
+95%)b,c (vs controle)
+Valor pb,c 0,0002
+Duração mediana de 7,6 7,2
+acompanhamento,
+meses
+(IC 95%) (6,4; 9,20) (6,1; 8,1)
+ORR (pelo BIRC)
+Número de pacientese 113 107
+ORR n (%) 23 (20,4) 2 (1,9)
+(IC 95%)f (13,4; 29.0) (0,2; 6,6)
+Valor pb,d,g <0.0001
+CR, n (%) 6 (5,3) 0
+PR, n (%) 17 (15,0) 2 (1,9)
+SD, n (%) 57 (50,4) 26 (24,3)
+DCR, n (%) 84 (74.3) 33 (30.8)
+(IC 95%)f (65.3, 82.1) (22.3, 40.5)
+PFS (pelo BIRC)
+Número de pacientesa 220 221
+Número de eventos 133 (60,5) 128 (57,9)
+(%)
+PFS mediana, 4,2 (37; 5,4) 1,5 (1,5; 1,7)
+meses (IC 95%)
+HR (IC 95%)b,c 0,40 (0,30; 0,55
+Valor pb,d < 0.0001
+Análise atualizada, cut-off: 15 agosto 2019
+OS
+Número de pacientesa 220 221
+Número de eventos 128 (58,2) 157 (71,0)
+(%)
+Mediana, meses 9,3 (8,0; 11,3) 5,9 (5,1; 7.1)
+(IC 95%)
+HR (IC 95%)b (vs 0,61 (0,48; 0,77)
+controle)
+Valor pb,d,h < 0.0001
+Duração média de 12.3 12.9
+acompanhamento,
+meses
+(IC 95%)
+(11,1; 14,1) (10,9; 14,6)
+ORR (pelo BIRC)
+Número de pacientesa 220 221
+ORR n (%) 43 (19,5) 4 (1,8)
+(IC 95%f (14,5; 25,4) (0,5; 4,6)
+Valor pb,d,g,h <0.0001
+CR, n (%) 7 (3,2) 0
+PR, n (%) 36 (16,4) 4 (1,8)
+SD, n (%) 117 (53,2) 59 (26,7)
+DCR, n (%) 167 (75,9) 69 (31,2)
+(95% CI)f (69,7; 81,4) (25,2; 37,8)
+PFS (pelo BIRC)
+Número de pacientesa 220 221
+Número de eventos 167 (75,9) 147 (66,5)
+(%)
+PFS mediana, 4,3 1,5
+meses (IC 95%) (4,1; 5,5) (1,5; 1,9)
+HR (IC 95%)b 0,44 (0,35; 0,55)
+Valor pb,d, h < 0.0001
+IC = intervalo de confiança; CR = resposta completa; HR = Hazard ratio; ORR = taxa de resposta objetiva; OS = sobrevida global; PR
+= resposta parcial; SD = doença estável, DCR: taxa de controle da doença (CR+PR+SD+Não-CR/Não-PD; Não-CR/Não-PD
+aplicável somente a pacientes com uma doença não mensurável que não alcançaram CR ou tiveram PD)
+a Fase randomizada 3, Conjunto completo de análise
+b Estratificado por ECOG PS, fonte de cetuximabe, e uso anterior de irinotecano na randomização
+c Intervalo de confiança repetido derivado usando limites Lan DeMets O’Brien-Fleming associados à fração de informação
+observada na análise interina
+d Unilateral
+e Entre os primeiros 331 pacientes randomizados
+f Método de Clopper-Pearson
+g Teste Cochran Mantel-Haenszel
+h Valor p nominal
+Estudo ARRAY-818-302 BEACON CCR: gráfico de Kaplan-Meier de sobrevida global
+(cut-off: 11 de fevereiro de 2019)
+Estudo ARRAY-818-302 BEACON CCR: gráfico de Kaplan-Meier de sobrevida global
+(cut-off: 15 de agosto de 2019)
+Carcinoma de células escamosas de cabeça e pescoço
+Não se efetuou a detecção imunohistoquímica da expressão do EGFR, já que mais de 90% dos
+pacientes com carcinoma de células escamosas de cabeça e pescoço têm tumores que expressam
+o EGFR.
+O cetuximabe em combinação com radioterapia para doença localmente avançada
+ EMR 62 202-006: este estudo randomizado comparou a combinação de cetuximabe +
+radioterapia (211 pacientes) com radioterapia isoladamente (213 pacientes) em pacientes
+com carcinoma de células escamosas de cabeça e pescoço localmente avançado. O
+cetuximabe foi iniciado uma semana antes da radioterapia e administrado até ao fim do
+período de radioterapia.
+Os dados de eficácia gerados por este estudo estão resumidos na tabela abaixo:
+Variável / estatística Radioterapia + cetuximabe Radioterapia isolada
+(N=211) (N=213)
+Controle locorregional
+Meses, mediana 24,4 (15,7; 45,1) 14,9 (11,8; 19,9)
+(IC95%)
+Hazard Ratio (IC95%) 0,68 (0,52; 0,89)
+Valor p 0,005
+OS
+Meses, mediana 49,0 (32,8; 62,6+) 29,3 (20,6; 42,8)
+(IC95%)
+Hazard Ratio (IC95%) 0,74 (0,56; 0,97)
+Valor p 0,032
+IC = intervalo de confiança; OS = sobrevida global; um ‘+’ denota que o limite superior não foi atingido
+no ponto de cut-off
+Pacientes com bom prognóstico, como indicado pelo estágio do tumor, pelo nível de
+desempenho de Karnofsky (KPS) e pela idade, tiveram um benefício mais pronunciado quando
+cetuximabe foi associado à radioterapia. Não pôde ser demonstrado nenhum benefício clínico
+em pacientes com KPS ≤ 80 e idade ≥ 65.
+O uso de cetuximabe em combinação à quimioradioterapia ainda não foi adequadamente
+investigado. Deste modo, o balanço risco/benefício não foi determinado.
+O cetuximabe em combinação com quimioterapia baseada em platina em doença recorrente
+e/ou metastática
+ EMR 62 202 002: Este estudo randomizado em pacientes com câncer de células escamosas
+de cabeça e pescoço que não receberam tratamento anterior com quimioterapia comparou a
+combinação de cetuximabe e cisplatina ou carboplatina + 5-fluorouracil infusional (222
+pacientes) à mesma terapia isolada (220 pacientes). O braço tratado com cetuximabe
+consistiu de até 6 ciclos de quimioterapia baseada em platina + cetuximabe, seguido de
+cetuximabe como terapia de manutenção, até a progressão da doença.
+Os dados de eficácia gerados neste estudo estão resumidos na tabela apresentada abaixo:
+Variável / estatística Cetuximabe + CTX CTX
+(N=222) (N=220)
+OS
+Meses, mediana (IC 95%) 10,1 (8,6; 11,2) 7,4 (6,4; 8,3)
+Hazard Ratio (IC 95%) 0,797 (0,644; 0,986)
+Valor p 0,0362
+PFS
+Meses, mediana (IC 95%) 5,6 (5,0; 6,0) 3,3 (2,9; 4,3)
+Hazard Ratio (IC 95%) 0,538 (0,431; 0,672)
+Valor p <0,0001
+ORR
+% (IC 95%) 35,6 (29,3; 42,3) 19,5 (14,5; 25,4)
+Valor p 0,0001
+IC = intervalo de confiança, CTX = quimioterapia baseada em platina, ORR = taxa de resposta objetiva,
+OS = sobrevida global, PFS = tempo de sobrevida livre de progressão
+Pacientes com bom prognóstico, de acordo com o indicado pelo estágio do tumor, KPS
+(Karnofsky performance status) e idade, tiveram um benefício mais pronunciado quando
+cetuximabe foi adicionado à quimioterapia baseada em platina. Em contraste ao tempo de
+sobrevida livre de progressão, não pôde ser demonstrado benefício no tempo de sobrevida
+global em pacientes com KPS ≤ 80 e idade ≥ 65.
+Imunogenicidade
+O desenvolvimento de anticorpos humanos antiquiméricos (HACA) é um efeito classe-
+específico dos anticorpos monoclonais quiméricos. Valores mensuráveis de HACA foram
+desenvolvidos em 3,4% dos pacientes estudados. Até hoje, não existem dados conclusivos sobre
+o efeito neutralizante sobre o cetuximabe. O aparecimento de HACA não está relacionado à
+ocorrência de reações de hipersensibilidade ou qualquer outro efeito indesejável relacionado ao
+cetuximabe.
+Referências Bibliográficas:
+Bokemeyer C, Bondarenko I, Makhson A, Hartmann JT, Aparicio J, de Braud F, et al.
+Fluorouracil, leucovorin, and oxaliplatin with and without cetuximab in the first-line treatment
+of metastatic colorectal cancer. J Clin Oncol. 2009;27(5):663-71.
+Cunningham D, Humblet Y, Siena S, Khayat D, Bleiberg H, Santoro A, et al. Cetuximab
+monotherapy and cetuximab plus irinotecan in irinotecan-refractory metastatic colorectal
+cancer. N Engl J Med. 2004; 351:337–345.
+Heinemann V, von Weikersthal LF, Decker T, Kiani A, Vehling-Kaiser U, Al-Batran SE, et al.
+FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab as first-line treatment for patients
+with metastatic colorectal cancer (FIRE-3): a randomised, open-label, phase 3 trial. Lancet
+Oncol. 2014;15(10):1065-75.
+Bonner JA, Harari PM, Giralt J, Azarnia N, Shin DM, Cohen RB, et al. Radiotherapy plus
+cetuximab for squamous-cell carcinoma of the head and neck. N Engl J Med. 2006; 354(6):567-
+78.
+Jonker DJ, O'Callaghan CJ, Karapetis CS, Zalcberg JR, Tu D, Au HJ, et al. Cetuximab for the
+treatment of colorectal cancer. N Engl J Med. 2007;357(20):2040-8.
+Maughan TS, Adams RA, Smith CG, Meade AM, Seymour MT, Wilson RH, et al. Addition of
+cetuximab to oxaliplatin-based first-line combination chemotherapy for treatment of advanced
+colorectal cancer: results of the randomised phase 3 MRC COIN trial. Lancet.
+2011;377(9783):2103-14.
+Sobrero AF, Maurel J, Fehrenbacher L, et al. EPIC: Phase III trial of cetuximab plus irinotecan
+after fluoropyrimidine and oxaliplatin failure in patients with metastatic colorectal cancer. J
+Clin Oncol. 2008; 26:2311–9.
+Van Cutsem E, Köhne CH, Hitre E, Zaluski J, Chang Chien CR, Makhson A, et al. Cetuximab
+and chemotherapy as initial treatment for metastatic colorectal cancer. N Engl J Med.
+2009;360(14):1408-17.
+Venook AP, Blanke CD, Niedzwiecki D, Lenz HJ, Taylor JR, Hollis DR, et al. Cancer and
+Leukemia Group B/Southwest Oncology Group trial 80405: a phase III trial of chemotherapy
+and biologics for patients with untreated advanced colorectal adenocarcinoma. Clin Colorectal
+Cancer. 2005;5(4):292-4.
+Vermorken JB, Mesia R, Rivera F, Remenar E, Kawecki A, Rottey S, et al. Platinum-based
+chemotherapy plus cetuximab in head and neck cancer. N Engl J Med. 2008;359(11):1116-27.
+Kopetz S, Grothey A, Yaeger R, Van Cutsem E, Desai J, Yoshino T, et al. Encorafenib,
+Binimetinib, and Cetuximab in BRAF V600E-Mutated Colorectal Cancer. N Engl J Med.
+2019;381(17):1632-1643.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Grupo farmacoterapêutico: Agente antineoplásico, anticorpo monoclonal, código ATC:
+L01FE01.
+Mecanismo de ação
+O receptor do fator de crescimento epidérmico (EGFR – Epidermal Growth Factor Receptor -,
+em inglês) faz parte da via de sinalização envolvida no controle de sobrevivência da célula,
+progressão do ciclo celular, angiogênese, migração celular e invasão celular/metástase. O
+cetuximabe é um anticorpo monoclonal quimérico IgG1 especificamente direcionado ao
+receptor do fator de crescimento epidérmico (EGFR). Ele se liga ao EGFR com uma afinidade
+que é aproximadamente 5 a 10 vezes maior do que o ligante endógeno e bloqueia a ligação de
+ligantes endógenos do EGFR, resultando em uma inibição da função do receptor. O cetuximabe
+induz a internalização do EGFR, o que pode levar a uma redução da regulação do EGFR. O
+cetuximabe também envia células imunoefetoras citotóxicas na direção de células tumorais que
+expressam EGFR (Toxicidade Celular Dependente de Anticorpos (ADCC)).
+O cetuximabe não se liga a outros receptores pertencentes à família HER.
+O produto proteico do proto-oncogene RAS (sarcoma de rato) é um transdutor de sinal central
+downstream do EGFR. Em tumores, a ativação do RAS por EGFR contribui para o aumento da
+proliferação EGFR-mediada, sobrevivência e produção de fatores pró-angiogênicos.
+RAS é uma das famílias de oncogenes mais frequentemente ativadas em carcinomas humanos.
+Mutações dos genes RAS em certos pontos preferenciais nos exons 2, 3 e 4 resultam em
+ativação constitutiva das proteinas RAS, independente da sinalização do EFGR.
+No cenário de CCR BRAF mutante, a indução da ativação da via MAPK mediada por EGFR
+foi identificada como um mecanismo de resistência aos inibidores de BRAF. Combinações de
+um inibidor de BRAF e agentes direcionados ao EGFR demonstraram superar esse mecanismo
+de resistência em modelos não clínicos. A coadministração de cetuximabe e encorafenibe
+demonstrou melhorar a eficácia anti-tumoral em modelos não clínicos.
+Farmacodinâmica
+O cetuximabe inibe a proliferação e induz a apoptose de células tumorais humanas que
+expressam EGFR. O cetuximabe também inibe a produção de fator angiogênico por células
+tumorais, bloqueia a migração celular endotelial e provoca uma redução da revascularização
+tumoral e da metástase
+Farmacocinética
+Administração: o cetuximabe é administrado por via intravenosa.
+Distribuição: Observou-se que a farmacocinética das infusões endovenosas de cetuximabe é
+dose-dependente, quando administrado em doses semanais que variaram entre 5 e 500 mg/m2
+de superfície corporal.
+Quando cetuximabe foi administrado a uma dose inicial de 400 mg/m2 de superfície corporal,
+o volume médio de distribuição foi aproximadamente equivalente ao espaço vascular (2,9 l/m2
+numa faixa entre 1,5 e 6,2 l/m2).
+O valor médio de Cmax foi de 185 ± 55 mcg/mL. O clearance médio foi de 0,022 l/h por m2 de
+superfície corporal. A meia-vida de eliminação foi longa, com valores na faixa de 70 a 100
+horas na dose-alvo.
+Quando cetuximabe foi administrado em um regime posológico semanal (dose inicial de 400
+mg/m² seguida por uma dose semanal de 250 mg/m²), a concentração no soro sanguíneo
+alcançou níveis estáveis após 3 semanas de monoterapia com cetuximabe. As concentrações
+máximas médias de cetuximabe foram de 155,8 mcg/mL na semana 3 e 151,6 mcg/mL na
+semana 8, ao passo que as concentrações mínimas médias foram de 41,3 e 55,4 mcg/mL,
+respectivamente. Em um estudo de cetuximabe administrado em combinação ao irinotecano, os
+níveis mínimos médios de cetuximabe foram de 50 mcg/mL na semana 12 e 49,4 mcg/mL na
+semana 36.
+Quando cetuximabe foi administrado em um regime posológico quinzenal (500 mg/m²
+quinzenalmente), a concentração no soro sanguíneo alcançou níveis estáveis após 5 semanas de
+monoterapia com cetuximabe. A concentração máxima média de cetuximabe foi de 297
+mcg/mL na semana 5, enquanto a concentração mínima média foi de 31,0 mcg/mL.
+Metabolismo/Eliminação: Diversas vias foram descritas como contribuintes do metabolismo de
+anticorpos. Todas estas vias envolvem a biodegradação do anticorpo a moléculas menores, tais
+como peptídeos pequenos ou aminoácidos.
+Uma análise integrada de todos os estudos clínicos demonstrou que as características
+farmacocinéticas de cetuximabe não são influenciadas por raça, idade, sexo ou por função
+renal/hepática alterada.
+Dados não-clínicos de segurança
+Alterações de pele dose-dependentes foram os mais importantes dados encontrados em estudos
+de toxicidade animal, iniciando-se em níveis de dose equivalentes aos utilizados em humanos.
+Um estudo embrio-fetal de toxicidade em macacos Cynomolgus não revelou sinais de
+teratogenicidade. Entretanto, dependendo da dose, foi observada uma maior incidência de
+abortos.
+Dados não-clínicos de genotoxicidade e tolerância local, incluindo vias acidentais de
+administração, revelaram que não há perigo específico para humanos.
+Não foram realizados estudos formais em animais para estabelecer o potencial carcinogênico
+de cetuximabe ou para determinar seus efeitos na fertilidade masculina ou feminina.
+Não foram realizados estudos de toxicidade com a coadministração de cetuximabe e agentes
+quimioterápicos.
+Não se dispõe, até o momento, de dados não-clínicos sobre o efeito de cetuximabe na
+cicatrização de feridas. Entretanto, em modelos pré-clínicos de cicatrização de feridas,
+inibidores EGFR seletivos da tirosina-quinase demonstraram retardar a cicatrização de feridas.
+4. CONTRAINDICAÇÕES
+Erbitux® é contraindicado para pacientes com conhecida hipersensibilidade grave (grau 3 ou 4;
+US National Cancer Institute - Common Terminology Criteria for Adverse Events, CTCAE) ao
+cetuximabe.
+Antes do início do tratamento em combinação, deve se considerar as contraindicações do uso
+concomitante de agentes quimioterápicos ou radioterápicos.
+A combinação de Erbitux® com quimioterapia contendo oxaliplatina é contraindicada em
+pacientes com câncer colorretal metastático (CCRm) RAS mutado com base nos testes
+disponíveis ou cujo status RAS seja desconhecido.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Reações relacionadas à infusão, incluindo reações anafiláticas
+Podem ocorrer frequentemente reações graves relacionadas com a infusão, incluindo reações
+anafiláticas, em alguns casos com desfecho fatal.
+A ocorrência de uma reação grave relacionada com a infusão requer a suspensão imediata e
+permanente do tratamento com cetuximabe, podendo necessitar de tratamento de emergência.
+Algumas destas reações podem ser de natureza anafilática ou anafilactoide ou representarem
+uma síndrome de liberação de citocinas (SLC).
+Os sintomas podem ocorrer durante a infusão inicial e em até várias horas depois desta, ou ainda
+em infusões subsequentes. É recomendável advertir os pacientes quanto à possibilidade destas
+reações tardias e instruí-los a contatar o médico caso ocorram sinais ou sintomas relacionados
+à infusão. Os sintomas podem incluir broncospasmo, urticária, hipo ou hipertensão, perda de
+consciência ou choque. Em casos raros, angina pectoris, infarto do miocárdio ou parada
+cardíaca foram observados.
+Reações anafiláticas podem ocorrer poucos minutos após a primeira infusão, por exemplo,
+devido à reação cruzada de anticorpos IgE pré-formados com o cetuximabe. Estas reações estão
+frequentemente associadas com broncospasmo e urticária, podendo ocorrer apesar da utilização
+de pré-medicação. O risco de reações anafiláticas aumenta muito em pacientes com histórico
+de alergia à carne vermelha, ou à picadas de carrapato ou com resultados positivos de testes
+para detecção de anticorpos IgE contra o cetuximabe (α-1-3-galactose). Nestes pacientes, o
+cetuximabe deve ser administrado somente após avaliação cuidadosa da relação benefício/risco,
+incluindo tratamentos alternativos, e apenas sob a supervisão cuidadosa de pessoal com
+treinamento adequado e equipamento de reanimação disponível.
+A primeira dose deve ser administrada lentamente, monitorizando-se cuidadosamente todos os
+sinais vitais durante pelo menos duas horas. Se, durante a primeira infusão ocorrer uma reação
+relacionada com a infusão nos primeiros 15 minutos, a infusão deve ser interrompida. Avaliação
+cuidadosa da relação benefício/risco deve ser efetuada antes de ser administrada uma infusão
+subsequente, levando em consideração a possibilidade do paciente ter anticorpos IgE pré-
+formados.
+No caso de se desenvolver uma reação relacionada com a infusão mais tarde durante a infusão
+ou numa infusão subsequente, a conduta dependerá da gravidade (ver “Modificação de dose
+para reações adversas”):
+a) Grau 1: continuar a infusão lentamente sob supervisão cuidadosa
+b) Grau 2: continuar a infusão lentamente e administrar imediatamente tratamento sintomático
+c) Grau 3 e 4: interromper imediatamente a infusão, tratar vigorosamente os sintomas e
+contraindicar a utilização posterior de cetuximabe.
+Uma síndrome de liberação de citocinas (SLC) ocorre tipicamente no período de uma hora após
+a infusão e está menos frequentemente associada com broncospasmo e urticária. A SLC é
+normalmente mais grave na primeira infusão.
+As reações leves ou moderadas relacionadas com a infusão compreendem muito
+frequentemente sintomas como febre, calafrios, tonturas ou dispneia, que ocorrem numa relação
+temporal próxima, principalmente com a primeira infusão de cetuximabe. Caso o paciente
+apresente uma reação leve ou moderada relacionada com a infusão, a velocidade da infusão
+deve ser reduzida. Recomenda-se que a velocidade de infusão seja mantida neste patamar mais
+baixo em todas as infusões seguintes.
+É necessária uma monitorização cuidadosa dos pacientes, em particular durante a primeira
+administração. Recomenda-se atenção especial para pacientes com queda do estado geral e
+doenças cardiopulmonares preexistentes.
+Distúrbios respiratórios
+Foram descritos casos de doença pulmonar intersticial (DPI), incluindo casos fatais, com a
+maioria dos pacientes sendo de população japonesa. Fatores de confundimento ou contribuintes,
+como quimioterapia concomitante, conhecida por estar associada a DPI, e doenças pulmonares
+preexistentes foram frequentes nos casos fatais. Esses pacientes devem ser cuidadosamente
+monitorados. Caso ocorram sintomas (como dispneia, tosse, febre) ou achados radiográficos
+sugestivos de DPI, uma investigação diagnóstica imediata deve ser realizada. No caso de se
+diagnosticar doença pulmonar intersticial, o tratamento com cetuximabe deve ser
+descontinuado e o paciente tratado adequadamente (ver “Modificação de dose para reações
+adversas”).
+Reações cutâneas
+As reações cutâneas são muito frequentes, podendo ser necessária a interrupção ou
+descontinuação do tratamento. De acordo com as orientações da prática clínica, deve ser
+considerada a utilização profilática de tetraciclinas orais (6 – 8 semanas) e a aplicação tópica
+de creme de hidrocortisona a 1% com hidratante. Para o tratamento de reações cutâneas foram
+utilizados corticosteroides tópicos de potência média a alta ou tetraciclinas orais.
+Caso o paciente apresente reações cutâneas graves (≥ grau 3; US National Cancer Institute -
+Common Terminology Criteria for Adverse Events, CTCAE), o tratamento com Erbitux® deve
+ser interrompido. O tratamento só poderá ser retomado se as reações regredirem para grau 2.
+Caso a reação cutânea grave tiver ocorrido pela primeira vez, o tratamento pode ser reiniciado
+sem qualquer alteração na dosagem.
+Caso ocorram reações cutâneas graves pela segunda ou terceira vez, o tratamento com Erbitux®
+deve ser interrompido novamente. O tratamento poderá ser reiniciado com uma redução de dose
+de 20% (200 mg/m² de superfície corporal no regime posológico semanal, 400 mg/m² de
+superfície corporal no regime posológico quinzenal) após a segunda ocorrência e com uma
+redução de dose de 40% (150 mg/m² de superfície corporal no regime posológico semanal, 300
+mg/m² de superfície corporal no regime posológico quinzenal) após a terceira ocorrência, se as
+reações regredirem para grau 2.
+Caso uma reação grave ocorra pela quarta vez, ou não regredir ao grau 2 durante a interrupção
+do tratamento, é necessária a descontinuação permanente do tratamento com Erbitux®.
+Distúrbios eletrolíticos
+Foram frequentemente observados níveis de magnésio no soro progressivamente decrescentes,
+que podem levar pacientes à hipomagnesemia grave. Esta é reversível após a descontinuação
+do tratamento com Erbitux®. Além disso, pode ser desenvolvida hipopotassemia como
+consequência da diarreia.
+Hipocalcemia também pode ocorrer. A frequência de hipocalcemia grave pode aumentar, em
+particular na combinação com quimioterapia baseada em platina.
+A determinação dos níveis séricos de eletrólitos é recomendada antes e periodicamente durante
+o tratamento com Erbitux®. A reposição dos eletrólitos é recomendada, conforme apropriado.
+Neutropenia e complicações infecciosas relacionadas
+Pacientes que receberam cetuximabe em combinação com quimioterapia baseada em platina
+têm um risco aumentado para ocorrência de neutropenia grave, que pode levar à complicações
+infecciosas subsequentes, como neutropenia febril, pneumonia ou sepse. É recomendado
+monitoramento constante destes pacientes, em particular os que apresentam lesões de pele,
+mucosite ou diarreia, que podem facilitar a ocorrência de infecções.
+Distúrbios cardiovasculares
+Uma frequência aumentada de eventos cardiovasculares graves e, por vezes, fatais e de mortes
+decorrentes do tratamento foi observada no tratamento de câncer de células não-pequenas de
+pulmão, câncer de células escamosas de cabeça e pescoço e de câncer colorretal. Em alguns
+estudos tem sido observada a associação com idade ≥ 65 anos. Ao se prescrever Erbitux®, deve-
+se levar em conta o estado cardiovascular e o estado geral do paciente e a administração
+concomitante de compostos cardiotóxicos, como fluoropirimidinas.
+Distúrbios oculares
+Casos de ceratite e de ceratite ulcerativa têm sido relatados com o uso de cetuximabe. É
+recomendado que pacientes com sinais e sintomas sugestivos de ceratite consultem um
+oftalmologista.
+Se for diagnosticada ceratite, os benefícios e riscos da continuação do tratamento devem ser
+cuidadosamente considerados. Se o diagnóstico de ceratite ulcerativa for confirmado, o
+tratamento com cetuximabe tem que ser interrompido ou suspenso.
+Recomenda-se atenção especial em pacientes com histórico de ceratite, ceratite ulcerativa ou
+olho seco grave.
+Pacientes portadores de câncer colorretal com tumores RAS mutados
+Erbitux® não deve ser utilizado no tratamento de pacientes com câncer colorretal cujos tumores
+apresentem mutação de RAS ou naqueles que o status de mutação de RAS seja desconhecido.
+Resultados provenientes de estudos clínicos demonstraram um balanço de risco-benefício
+negativo em tumores com mutação de RAS, particularmente quando em combinação com
+regime de 5-fluorouracila/ácido folínico mais oxaliplatina em infusão contínua.
+Tratamento associado
+Quando Erbitux® é associado a agentes quimioterápicos, utilize também como referência as
+informações destes produtos.
+A experiência de utilização de cetuximabe em combinação à radioterapia em câncer colorretal
+é limitada.
+Pacientes com câncer colorretal com tumores de mutação BRAF
+Antes de utilizar cetuximabe em combinação com encorafenibe, os pacientes devem ter câncer
+colorretal metastático com mutação BRAF V600E confirmado por um teste validado. A eficácia
+e segurança de cetuximabe em combinação com encorafenibe foram estabelecidas apenas em
+pacientes com tumores colorretais que apresentam a mutação BRAF V600E. Cetuximabe em
+combinação com encorafenibe não deve ser usado em pacientes com câncer colorretal que não
+apresente mutação BRAF V600E ou naqueles em o status da mutação BRAF V600E é
+desconhecido.
+Gravidez e lactação
+Categoria de risco para gravidez: C. Este medicamento não deve ser utilizado por
+mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+O receptor do fator de crescimento epidérmico (EGFR) está envolvido no desenvolvimento
+fetal. Estudos limitados em animais indicam que cetuximabe e outros anticorpos IgG1
+demonstraram atravessar a barreira placentária. Dados de estudos com animais revelaram que
+não há evidência de teratogenicidade. No entanto, dependendo da dose, foi observada uma
+maior incidência de abortos.
+Não estão disponíveis dados suficientes de estudos com mulheres grávidas. É altamente
+recomendado que Erbitux® só seja administrado durante a gravidez ou em mulheres que não
+estejam com a contracepção adequada caso o benefício justifique os riscos potenciais para o
+feto.
+Uso criterioso no aleitamento ou na doação de leite humano. O uso deste medicamento no
+período da lactação depende da avaliação e acompanhamento do seu médico ou cirurgião-
+dentista.
+Recomenda-se que as mulheres não amamentem durante o tratamento com Erbitux®, nem
+durante 2 meses após a última dose, uma vez que não se sabe se cetuximabe é excretado pelo
+leite materno.
+Pacientes pediátricos
+A segurança e eficácia de cetuximabe não foram estabelecidas para pacientes pediátricos.
+Idosos
+Não há necessidade de ajuste de dose para os idosos, ainda que testes tenham sido limitados a
+pacientes com idade igual ou superior a 75 anos.
+Outros grupos de risco
+Foram investigados até o momento somente pacientes com os parâmetros renais e hepáticos
+adequados (creatinina sérica ≤ 1,5 vezes, transaminases ≤ 5 vezes e bilirrubina ≤ 1,5 vezes o
+limite normal máximo).
+Erbitux® não foi estudado em pacientes com um ou mais dos seguintes parâmetros laboratoriais
+anormais: hemoglobina < 9 g/dl, contagem de leucócitos < 3.000/mm3, contagem absoluta de
+neutrófilos < 1.500/mm3, contagem de plaquetas < 100.000/mm3.
+Efeitos na habilidade de dirigir e operar máquinas
+Não foram realizados estudos referentes a efeitos na habilidade de dirigir e operar máquinas.
+Caso o paciente apresente sintomas relacionados ao tratamento que afetem a sua capacidade de
+concentração e reação, é recomendável que ele não dirija ou opere máquinas até que os efeitos
+cessem.
+6. INTERAÇÕES MEDICAMENTOSAS
+Quando Erbitux® é utilizado em combinação a agentes quimioterápicos, utilize também como
+referência as informações destes produtos.
+Em combinação à radioterapia local nas áreas da cabeça e do pescoço, efeitos indesejáveis
+adicionais foram os típicos da radioterapia (mucosite, dermatite por radiação, disfagia,
+leucopenia, apresentando-se principalmente como linfocitopenia). Em um estudo clínico
+randomizado controlado com 424 pacientes, as taxas reportadas de dermatite aguda grave por
+radiação e mucosite, assim como eventos tardios relacionados à radioterapia, foram
+ligeiramente mais elevados em pacientes recebendo radioterapia em combinação com Erbitux®
+do que os que receberam radioterapia isoladamente.
+Em combinação com quimioterapia baseada em platina, as frequências de leucopenia ou
+neutropenia graves podem estar aumentadas, o que pode levar a um aumento da taxa de
+complicações infecciosas, tais como neutropenia febril, pneumonia e sepse, quando comparado
+com a quimioterapia à base de platina isolada.
+Em combinação com as fluoropirimidinas, a frequência de isquemia cardíaca – incluindo infarto
+agudo do miocárdio e insuficiência cardíaca congestiva –, bem como a frequência de síndrome
+mão-pé (eritrodisestesia palmo-plantar) demonstrou-se aumentada, quando comparada às
+fluoropirimidinas isoladas.
+Um estudo formal de interação mostrou que as características farmacocinéticas do cetuximabe
+permanecem inalteradas após coadministração de uma dose única de irinotecano (350 mg/m²
+de superfície corporal). Do mesmo modo, a coadministração do cetuximabe não alterou a
+farmacocinética do irinotecano. Não foram realizados outros estudos formais de interação com
+cetuximabe em humanos.
+Em associação com capecitabina e oxaliplatina (XELOX), a frequência da diarreia grave pode
+estar aumentada.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar em geladeira (de 2°C a 8°C).
+Não utilize após a data de validade. Prazo de validade: 48 meses a partir da data de fabricação.
+Uma vez aberto, Erbitux® deve ser usado imediatamente.
+A estabilidade física e química de Erbitux® em uso foi demonstrada por um período de 48 horas
+a 25°C, se preparado conforme as recomendações no item “Modo de usar”.
+Erbitux® não contém nenhum conservante antimicrobiano ou agente bacteriostático. Do ponto
+de vista microbiológico, recomenda-se seu uso imediatamente após aberto. Se não for usado
+imediatamente, o tempo e as condições de armazenamento são de responsabilidade do usuário,
+mas não devem exceder 24 horas a uma temperatura entre 2°C e 8°C.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Características do produto: Erbitux® é uma solução estéril, límpida a opalescente, incolor a
+levemente amarelada. A solução após diluição mantém as características da solução não diluída,
+dentro das condições de armazenamento recomendadas.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem
+original.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Erbitux® deve ser administrado sob a supervisão de um médico com experiência na
+administração de medicamentos antineoplásicos. É necessário um monitoramento minucioso
+durante a infusão e por pelo menos uma hora após seu término. Deve ser assegurada a
+disponibilidade de equipamento para reanimação.
+Antes da administração da primeira infusão, os pacientes devem receber uma pré-medicação
+antialérgica (anti-histamínico e corticoide) pelo menos 1 hora antes da administração do
+cetuximabe. Esta pré-medicação é recomendada para todas as infusões subsequentes.
+A dose inicial deve ser administrada lentamente para minimizar o risco de reações relacionadas
+à infusão (Veja “Advertências e precauções”). O período de infusão recomendado é de 120
+minutos. Para as administrações subsequentes, a velocidade de infusão não deve exceder 10
+mg/min. Se a infusão inicial for bem tolerada, o período de infusão recomendado para o regime
+posológico semanal de 250 mg/m2 é de 60 minutos e o período de infusão recomendado para o
+regime posológico quinzenal de 500 mg/m2 é de 120 minutos.
+Posologia para câncer colorretal
+Como agente único ou em combinação com quimioterapia à base de irinotecano ou com
+oxaliplatina mais 5-fluoruracila e ácido folínico em infusão contínua:
+É necessária evidência do estado de RAS não mutado (KRAS e NRAS) antes de se iniciar o
+tratamento com Erbitux®. O estado mutacional deve ser determinado por um laboratório
+experiente, utilizando métodos de ensaio validados para detecção de mutações KRAS e NRAS
+(exons 2, 3 e 4).
+Erbitux® pode ser administrado em esquema posológico semanal ou quinzenal.
+− Regime posológico semanal: Erbitux® é administrado uma vez por semana. A primeira
+dose inicial é de 400 mg/m2 de superfície corporal. Todas as doses semanais
+subsequentes são de 250 mg/m2 cada.
+− Esquema posológico quinzenal: Erbitux® é administrado quinzenalmente. Cada dose é
+de 500 mg/m2 de superfície corporal.
+Para dose ou modificações de dose recomendadas de agentes antineoplásicos empregados
+concomitantemente, utilize como referência as informações específicas de bula destes produtos.
+Eles não devem ser administrados até 1 hora após o término da infusão de Erbitux®.
+É recomendada a continuação do tratamento com Erbitux® até a progressão da doença.
+Em combinação com encorafenibe:
+A evidência do status da mutação BRAF V600E é necessária antes de iniciar o tratamento com
+Erbitux® em combinação com encorafenibe. O status mutacional deve ser determinado por um
+laboratório experiente usando métodos validados para a detecção de mutações BRAF V600E.
+Erbitux® é administrado uma vez por semana. A primeira dose inicial é de 400 mg/m2 de
+superfície corporal. Todas as doses semanais subsequentes são de 250 mg/m2 cada.
+Para dose ou modificações de dose recomendadas de encorafenibe, utilize como referência as
+informações específicas de bula deste produto. O encorafenibe deve ser administrado antes do
+início da infusão de Erbitux®.
+É recomendada a continuação do tratamento com Erbitux® até a progressão da doença.
+Posologia para carcinoma de células escamosas de cabeça e pescoço
+Em combinação com radioterapia:
+Erbitux® é administrado uma vez por semana. A primeira dose inicial é de 400 mg/m2 de
+superfície corporal. Todas as doses semanais subsequentes são de 250 mg/m2 cada.
+É recomendado iniciar o tratamento com Erbitux® uma semana antes da radioterapia e continuar
+o tratamento com Erbitux® até o final do período de radioterapia.
+Como agente único ou em combinação com quimioterapia baseada em platina:
+Erbitux® pode ser administrado em esquema posológico semanal ou quinzenal.
+− Regime posológico semanal: Erbitux® é administrado uma vez por semana. A primeira
+dose inicial é de 400 mg/m2 de superfície corporal. Todas as doses semanais
+subsequentes são de 250 mg/m2 cada.
+− Esquema posológico quinzenal: Erbitux® é administrado quinzenalmente. Cada dose é
+de 500 mg/m2 de superfície corporal.
+A quimioterapia deve ser administrada com pelo menos 1 hora de intervalo após a infusão de
+Erbitux®.
+É recomendada a continuação do tratamento com Erbitux® até a progressão da doença.
+Modificação de dose para reações adversas
+Reduza, retarde ou descontinue Erbitux® para manejar as reações adversas conforme descrito
+na tabela abaixo.
+Reação adversa Severidade Modificação na dose
+Continuar a infusão lentamente
+Grau 1
+sob supervisão cuidadosa.
+Continuar a infusão lentamente e
+Reações relacionadas à Grau 2 administrar imediatamente
+infusão (ver “Advertências e tratamento sintomático.
+precauções”) Interromper imediatamente a
+infusão, tratar vigorosamente os
+Grau 3 ou 4
+sintomas e contraindicar a
+utilização posterior de Erbitux®.
+Distúrbios respiratórios Erbitux® deve ser descontinuado
+No caso de se diagnosticar
+(ver “Advertências e e o paciente tratado
+doença pulmonar intersticial
+precauções”) adequadamente.
+Tratamento com Erbitux® deve
+ser interrompido e só poderá ser
+retomado se as reações
+1a ocorrência, Grau 3 or 4 regredirem para grau 2. O
+tratamento com Erbitux® pode ser
+reiniciado sem qualquer alteração
+na dose.
+Tratamento com Erbitux® deve
+ser interrompido novamente. O
+tratamento só poderá ser
+reiniciado com uma redução de
+dose de 20% (200 mg/m² de
+2a ocorrência, Grau 3 ou 4
+Reações cutâneas superfície corporal no regime
+(ver “Advertências e posológico semanal, 400 mg/m²
+precauções”) de superfície corporal no regime
+posológico quinzenal), se as
+reações regredirem para grau 2.
+Tratamento com Erbitux® deve
+ser interrompido novamente. O
+tratamento só poderá ser
+reiniciado com uma redução de
+dose de 40% (150 mg/m² de
+3a ocorrência, Grau 3 ou 4
+superfície corporal no regime
+posológico semanal, 300 mg/m²
+de superfície corporal no regime
+posológico quinzenal), se as
+reações regredirem para grau 2.
+Descontinuação permanente do
+4a ocorrência; Grau 3 ou 4
+tratamento com Erbitux®.
+Reação não regride ao grau 2
+Descontinuação permanente do
+durante a interrupção do
+tratamento com Erbitux®.
+tratamento
+Modo de usar
+Erbitux® é administrado por via endovenosa através de bomba de infusão, sistema de
+gotejamento por gravidade ou através de uma bomba de seringa.
+Deve-se utilizar uma via de infusão exclusiva para Erbitux®, que deve ser lavada com solução
+estéril de cloreto de sódio a 9 mg/mL (0,9%) ao final da infusão. Erbitux® 5 mg/mL é uma
+solução incolor.
+Erbitux® 5 mg/mL é compatível com:
+ Bolsas de PE (polietileno), EVA (etil vinil acetato), ou PVC (cloreto de polivinil);
+ Equipo de infusão de PE, EVA, PVC, TP (poliolefine termoplástico) ou PUR (poliuretano);
+ Seringas perfusoras de PP (polipropileno).
+Erbitux® não contém nenhum conservante antimicrobiano ou agente bacteriostático. Portanto,
+condições assépticas de manuseio devem ser asseguradas durante o preparo da infusão. É
+recomendado uso imediato após a abertura do frasco.
+Erbitux® 5 mg/mL deve ser preparado da seguinte maneira:
+- Para administração com uma bomba de infusão ou gotejador por gravidade (diluído com
+solução estéril de cloreto de sódio 9 mg/mL (0,9%): Utilize uma bolsa de infusão com o
+tamanho adequado com solução estéril de cloreto de sódio 9 mg/mL (0,9%). Calcule o volume
+necessário de Erbitux®. Remova um volume apropriado de solução de cloreto de sódio da bolsa
+de infusão, utilizando uma seringa estéril com uma agulha adequada. Pegue uma seringa estéril
+e acople uma agulha adequada. Puxe o volume requerido de Erbitux® do frasco. Transfira o
+Erbitux® para a bolsa de infusão previamente preparada. Repita este procedimento até que o
+volume calculado tenha sido alcançado. Conecte a via de infusão à seringa e prepare-a com o
+Erbitux® já diluído antes do início da infusão. Utilize bomba de infusão ou gotejador por
+gravidade para administração. Prepare e controle a velocidade de infusão conforme explicado
+acima.
+- Para administração com uma bomba de infusão ou gotejador por gravidade (não-diluído):
+Calcule o volume requerido de Erbitux®. Utilize uma seringa estéril apropriada (mínimo de 50
+mL) e acople uma agulha adequada. Puxe o volume requerido de Erbitux® do frasco. Transfira
+o Erbitux® para um recipiente ou bolsa vazio estéril. Repita este procedimento até que o volume
+desejado seja atingido. Conecte a via de infusão à seringa e prepare-a com Erbitux® antes do
+início da infusão. Utilize um gotejador por gravidade ou uma bomba de infusão para a
+administração. Defina e controle a velocidade de infusão conforme explicado acima.
+- Para administração com uma bomba de seringa: Calcule o volume requerido de Erbitux®.
+Utilize uma seringa estéril apropriada e acople a uma agulha adequada. Puxe o volume
+requerido de Erbitux® do frasco. Remova a agulha e coloque a seringa em uma bomba de
+seringa.
+Conecte a linha de infusão à seringa, defina e controle a velocidade de infusão conforme
+explicado abaixo e inicie a infusão após preencher a linha com Erbitux® ou com solução estéril
+de cloreto de sódio 9 mg/mL (0,9%). Se necessário, repita este procedimento até que o volume
+calculado tenha sido infundido.
+Incompatibilidades
+Erbitux® não deve ser misturado com outros medicamentos a serem administrados por via
+endovenosa, exceto os mencionados acima na seção “Modo de Usar”. Uma linha separada de
+infusão deve ser utilizada.
+9. REAÇÕES ADVERSAS
+Os efeitos indesejáveis descritos nesta seção podem ser esperados no tratamento com Erbitux®.
+As seguintes definições aplicam-se à terminologia de frequência utilizada abaixo:
+Reação muito comum (≥ 1/10)
+Reação comum (≥ 1/100 e < 1/10)
+Reação incomum (≥ 1/1.000 e < 1/100)
+Reação rara (≥ 1/10.000 e < 1.000)
+Reação muito rara (< 1/10.000)
+Frequência desconhecida (não pode ser estimada a partir dos dados disponíveis).
+Um asterisco (*) indica que abaixo da tabela há informação adicional sobre o efeito adverso
+citado.
+A tabela abaixo lista as reações adversas por classe de sistema de órgãos MedDRA relatadas
+com o uso de Erbitux® em ensaios clínicos e experiência pós comercialização para câncer
+colorretal e carcinoma de células escamosas de cabeça e pescoço.
+Classe de sistema de órgãos/Reação adversa Frequência
+Distúrbios do Sistema Nervoso
+Cefaleia Comum
+Meningite asséptica Frequência desconhecida
+Distúrbios oculares
+Conjuntivite Comum
+Blefarite, ceratite. Incomum
+Distúrbios respiratórios, torácicos e do mediastino
+Embolia pulmonar Incomum
+Doença pulmonar intersticial, que pode ser fatal (veja
+Raro
+“Advertências e precauções”)
+Distúrbios gastrintestinais
+Diarreia, náusea, vômitos Comum
+Distúrbios dos tecidos cutâneos e subcutâneos
+Reações cutâneas* Muito comum
+Síndrome de Stevens-Johnson / necrólise epidérmica tóxica Muito raro
+Superinfecções de lesões cutâneas*. Frequência desconhecida
+Distúrbios do metabolismo e da nutrição
+Hipomagnesemia Muito comum
+Desidratação, em particular secundária à diarreia ou à mucosite;
+Comum
+hipocalcemia; anorexia, que pode levar à perda de peso
+Distúrbios vasculares
+Trombose venosa profunda Incomum
+Distúrbios gerais e condições do local de administração
+Reações leves a moderadas no local de administração (veja
+“Advertências e precauções”); mucosite, grave em alguns casos. Muito comum
+Mucosite pode levar à epistaxe
+Reações graves relacionadas à infusão, em alguns casos com
+Comum
+desfecho fatal (veja “Advertências e precauções”), fadiga
+Distúrbios hepatobiliares
+aumento nos níveis enzimáticos hepáticos (AST, ALT, fosfatase
+Muito comum
+alcalina).
+Informações adicionais
+No geral, não foi observada diferença clínica relevante entre homens e mulheres.
+Reações cutâneas
+Reações cutâneas podem se desenvolver em mais de 80% dos pacientes e se apresentam
+principalmente na forma de rash cutâneo (similar à acne) e/ou, menos frequentemente, prurido,
+pele seca, descamação, hipertricose ou alterações nas unhas (paroníquia).
+Aproximadamente 15% das reações de pele são graves, incluindo casos isolados de necrose
+cutânea. A maioria das reações cutâneas se desenvolvem dentro das primeiras 3 semanas de
+tratamento. Elas geralmente resolvem, sem sequelas, com o tempo, após a interrupção do
+tratamento com o Erbitux®, caso os ajustes recomendados em regime de dose sejam seguidos.
+Lesões cutâneas induzidas por Erbitux® podem predispor pacientes a superinfecções (por
+exemplo, com S. aureus), que podem levar a complicações subsequentes como, por exemplo,
+celulite, erisipela ou, como resultado potencialmente fatal, síndrome estafilocóccica da pele
+escaldada, fasciíte necrosante ou sepse.
+Tratamento associado
+Quando Erbitux® é utilizado em combinação com outros agentes antineoplásicos, utilize
+também como referência as informações destes produtos.
+Para efeitos adversos em combinação com outros agentes antineoplásicos, veja “Interações
+Medicamentosas”.
+Carcinoma de células escamosas de cabeça e pescoço (doença localmente avançada) em
+combinação com radioterapia:
+Em combinação com radioterapia local nas áreas da cabeça e do pescoço, efeitos indesejáveis
+adicionais foram os típicos da radioterapia (mucosite, dermatite por radiação, disfagia,
+leucopenia, apresentando-se principalmente como linfocitopenia). Em um estudo clínico
+randomizado controlado com 424 pacientes, as taxas reportadas de dermatite aguda grave por
+radiação e mucosite, assim como eventos tardios relacionados à radioterapia, foram
+ligeiramente mais elevados em pacientes recebendo radioterapia em combinação com Erbitux®
+do que os que receberam radioterapia isoladamente.
+Carcinoma de células escamosas de cabeça e pescoço (doença recidivada e/ou metastática)
+em combinação com quimioterapia baseada em platina:
+As frequências de leucopenia ou neutropenia graves podem estar aumentadas, o que pode levar
+a um aumento da taxa de complicações infecciosas, tais como neutropenia febril, pneumonia e
+sepse, quando comparado com a quimioterapia à base de platina isolada.
+Carcinoma de células escamosas de cabeça e pescoço (doença recidivada e/ou metastática)
+em combinação com as fluoropirimidinas:
+A frequência de isquemia cardíaca – incluindo infarto agudo do miocárdio e insuficiência
+cardíaca congestiva –, bem como a frequência de síndrome mão-pé (eritrodisestesia palmo-
+plantar) demonstrou-se aumentada, quando comparada às fluoropirimidinas isoladas.
+Câncer colorretal (doença metastática com mutação BRAF V600E) em combinação com
+encorafenibe:
+A segurança de encorafenibe em combinação com Erbitux® foi avaliada em 216 pacientes com
+câncer colorretal metastático com mutação BRAF V600E no estudo ARRAY-818-302
+BEACON CRC (ver “Resultados de eficácia”). Com base nesta avaliação dos dados de
+segurança, não foram identificadas novas reações adversas além das atualmente conhecidas
+com Erbitux® ou encorafenibe. Não houve aumento significativo ou exacerbação de reações
+adversas conhecidas. Consulte as informações do produto encorafenibe.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da
+Anvisa.
+10. SUPERDOSE
+Há, até o momento, experiência limitada com administrações semanais de doses superiores a
+250 mg/m2 de superfície corporal ou administrações quinzenais de doses superiores a 500
+mg/m2 de superfície corporal. Em estudos clínicos com doses de até 700 mg/m2 administradas
+quinzenalmente, o perfil de segurança foi consistente com o descrito na seção “Reações
+Adversas”.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro: 1.0089.0335
+Importado e registrado por: MERCK S.A.
+CNPJ 33.069.212/0001-84
+Produzido por:
+Merck Healthcare KGaA - Darmstadt - Alemanha
+VENDA SOB PRESCRIÇÃO.
+USO RESTRITO A ESTABELECIMENTOS DE SAÚDE.
+Esta bula foi aprovada pela Anvisa em 13/01/2025.
+ERBITUX® (cetuximabe) - Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bula
+Data do Nº do Data do Nº do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10456 -
+10456 - PRODUTO PRODUTO
+BIOLÓGICO – BIOLÓGICO –
+VPS: Inclusão do histórico Solução injetável
+24/02/2025 Notificação de 24/02/2025 Notificação de Não se aplica VPS
+de versionamento 5 mg/ml
+Alteração de Texto de Alteração de Texto
+Bula – RDC 60/12 de Bula – RDC
+60/12
+VP: Apresentações /
+Composição / O que devo
+saber antes de usar este
+medicamento? / Onde,
+como e por quanto tempo
+posso guardar este
+medicamento? / Como devo
+usar este medicamento? / O
+que fazer se alguém usar
+10456 - PRODUTO 11966 - uma quantidade maior do
+13/01/2025
+BIOLÓGICO – PRODUTOS que a indicada deste
+(Resolução - Solução injetável
+12/02/2025 0200660/25-0 Notificação de 24/03/2023 0297995/23-1 BIOLÓGICOS - medicamento? / Dizeres VP/VPS
+RE 122, de 5 mg/ml
+Alteração de Texto de 76. Alteração de legais
+09/01/2025)
+Bula – RDC 60/12 posologia VPS: Apresentações /
+Composição /
+Características
+farmacológicas /
+Advertências e precauções /
+Cuidados de
+armazenamento do
+medicamento / Posologia e
+modo de usar / Superdose /
+Dizeres legais
+10456 - PRODUTO 11969 - 05/12/2022
+BIOLÓGICO – PRODUTOS (Resolução - VP: Para que este
+Solução injetável
+02/01/2023 5114322/23-1 Notificação de 19/05/2021 1932638/21-6 BIOLÓGICOS - RE medicamento é indicado? VP/VPS
+5 mg/ml
+Alteração de Texto de 77c. Ampliação de 3.946, de VPS: Indicações
+Bula – RDC 60/12 uso 01/12/2022)
+ERBITUX® (cetuximabe) - Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bula
+Data do Nº do Data do Nº do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+VP: Para que este
+medicamento é indicado? /
+O que devo saber antes de
+usar este medicamento? /
+11967 - Quais os males que este
+10456 - PRODUTO PRODUTOS medicamento pode me
+30/05/2022
+BIOLÓGICO – BIOLÓGICOS - causar? / Dizeres legais
+(Resolução - Solução injetável
+06/06/2022 4259563/22-0 Notificação de 19/08/2021 3259839/21-4 77a. Inclusão ou VPS: Indicações / VP/VPS
+RE 1.711, de 5 mg/ml
+Alteração de Texto de modificação de Resultados de eficácia /
+26/05/2022)
+Bula – RDC 60/12 indicação Características
+terapêutica farmacológicas /
+Advertências e precauções /
+Posologia e modo de usar /
+Reações adversas / Dizeres
+legais
+10456 -
+10456 - PRODUTO PRODUTO
+BIOLÓGICO – BIOLÓGICO –
+VPS: Reações adversas Solução injetável
+24/02/2021 0738823/21-3 Notificação de 24/02/2021 0738823/21-3 Notificação de Não se aplica VPS
+(alerta VigiMed) 5 mg/ml
+Alteração de Texto de Alteração de Texto
+Bula – RDC 60/12 de Bula – RDC
+60/12
+70411 - DOU de
+MEDICAMENTOS 06/01/2020
+VP/VPS: Composição (DCB
+10456 - PRODUTO - Renovação de (Certificação
+excipiente) e Dizeres Legais
+BIOLÓGICO – Certificação de de BPF com
+(razão social do Solução injetável
+23/01/2020 0230452/20-0 Notificação de 11/07/2019 0611586/19-1 Boas Práticas de nova razão VP/VPS
+fabricante/embalador) 5 mg/ml
+Alteração de Texto de fabricação de social do
+VPS: Reações adversas
+Bula – RDC 60/12 indústria fabricante,
+(alerta VigiMed)
+internacional Resolução RE
+exceto Mercosul 3.698/19)
+10456 -
+VP: Quais os males que
+10456 - PRODUTO PRODUTO
+este medicamento pode me
+BIOLÓGICO – BIOLÓGICO –
+causar? Solução injetável
+10/08/2018 0790225/18-5 Notificação de 10/08/2018 0790225/18-5 Notificação de Não se aplica VP/VPS
+VPS: Advertências e 5 mg/ml
+Alteração de Texto de Alteração de Texto
+precauções / Reações
+Bula – RDC 60/12 de Bula – RDC
+adversas
+60/12
+ERBITUX® (cetuximabe) - Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bula
+Data do Nº do Data do Nº do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10456 -
+10456 - PRODUTO PRODUTO
+BIOLÓGICO – BIOLÓGICO –
+VP/VPS: Dizeres legais Solução injetável
+21/09/2016 2309011/16-1 Notificação de 21/09/2016 2309011/16-1 Notificação de Não se aplica VP/VPS
+(Farm. Resp.) 5 mg/ml
+Alteração de Texto de Alteração de Texto
+Bula – RDC 60/12 de Bula – RDC
+60/12
+10408 -
+PRODUTO
+BIOLÓGICO -
+1148199/14-4 Ampliação do
+prazo
+de validade do
+10456 - PRODUTO VP: Dizeres legais
+produto terminado 11/01/2016
+BIOLÓGICO – VPS: Cuidados de
+(Resolução - Solução injetável
+04/02/2016 1244387/16-5 Notificação de 19/12/2014 armazenamento do VP/VPS
+RE 64, de 5 mg/ml
+Alteração de Texto de medicamento / Dizeres
+07/01/2016)
+Bula – RDC 60/12 legais
+1925 - PRODUTO
+BIOLÓGICO -
+1148240/14-1 Alteração do local
+de fabricação do
+produto a granel
+ERBITUX® (cetuximabe) - Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bula
+Data do Nº do Data do Nº do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+VP: Para que este
+medicamento é indicado?
+09/10/2014 Quando não devo usar este
+10279 - (Ofício medicamento?
+PRODUTO 0886661149/2 Onde, como e por quanto
+10/06/2014 0478352/14-2 BIOLÓGICO - 014 da tempo posso guardar este
+1 B 0 IO 45 L 6 Ó - G P IC R O O D – UTO A de lt e B r u a l ç a ã o de Texto d C e o B or io d l e ó n g a ic ç o ã s o ) m O e q d u i e ca d m e e vo n t f o a ? z er quando eu
+me esquecer de usar este Solução injetável
+14/10/2014 0919536/14-0 Notificação de VP/VPS
+medicamento? 5 mg/ml
+Alteração de Texto de
+VPS: Indicações,
+Bula – RDC 60/12
+Resultados de eficácia,
+Características
+1513 - PRODUTO farmacológicas,
+25/08/2014
+BIOLÓGICO - Contraindicações,
+(Resolução -
+24/06/2014 0494491/14-7 Alteração dos Advertências e precauções,
+RE 3.241, de
+cuidados de Cuidados de conservação,
+22/08/2014)
+conservação Posologia e modo de usar.
+VP: Quando não devo usar
+este medicamento? O que
+devo saber antes de usar
+este medicamento? Quais
+10456 - os males que este
+10456 - PRODUTO PRODUTO medicamento pode me
+BIOLÓGICO – BIOLÓGICO – causar?
+Solução injetável
+10/06/2014 0459573/14-4 Notificação de 10/06/2014 0459573/14-4 Notificação de Não se aplica VPS: Advertências e VP/VPS
+5 mg/ml
+Alteração de Texto de Alteração de Texto precauções, Interações
+Bula – RDC 60/12 de Bula – RDC medicamentosas, Cuidados
+60/12 de armazenamento,
+Posologia e modo de usar,
+Reações adversas.
+Dizeres legais: Responsável
+técnico
+ERBITUX® (cetuximabe) - Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bula
+Data do Nº do Data do Nº do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10456 -
+10456 - PRODUTO PRODUTO
+BIOLÓGICO – BIOLÓGICO –
+Dizeres legais Solução injetável
+19/11/2013 0967903/13-1 Notificação de 19/11/2013 0967903/13-1 Notificação de Não se aplica VP/VPS
+(Responsável técnico) 5 mg/ml
+Alteração de Texto de Alteração de Texto
+Bula – RDC 60/12 de Bula – RDC
+60/12
+10463 -
+10463 - PRODUTO PRODUTO Não se aplica.
+BIOLÓGICO - Inclusão BIOLÓGICO - Peticionamento para Solução injetável
+03/04/2013 0252369/13-8 03/04/2013 0252369/13-8 Não se aplica VP/VPS
+Inicial de Texto de Inclusão Inicial de publicação no bulário 5 mg/ml
+Bula – RDC 60/12 Texto de Bula – eletrônico
+RDC 60/12
+25/03/2013
+1512 – PRODUTO
+(Ofício
+BIOLÓGICO – Não se aplica
+0223712131/2 Solução injetável
+31/01/2013 0081585/13-3 Notificação de (versão inicial) VP/VPS
+013, 5 mg/ml
+Alteração de Texto
+Coordenação
+de Bula
+de Biológicos)

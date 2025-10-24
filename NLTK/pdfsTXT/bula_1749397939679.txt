@@ -1,0 +1,1513 @@
+ELAPRASE®
+(idursulfase)
+Takeda Pharma Ltda.
+Solução Injetável
+2 mg/mL
+ELAPRASE®
+idursulfase
+APRESENTAÇÃO
+Solução injetável, 2 mg/mL. Embalagem com 1 frasco-ampola com 3 mL.
+VIA INTRAVENOSA
+USO ADULTO E PEDIÁTRICO
+COMPOSIÇÃO
+Cada mL de solução injetável contém 2,0 mg de idursulfase (6,0 mg por frasco).
+Excipientes: cloreto de sódio, fosfato de sódio dibásico heptaidratado, fosfato de sódio monobásico
+monoidratado, polissorbato 20 e água para injetáveis.
+1. INDICAÇÕES
+ELAPRASE está indicado para o tratamento de pacientes com a síndrome de Hunter (Mucopolissacaridose II-
+MPS II).
+ELAPRASE tem demonstrado melhorar a capacidade de caminhar destes pacientes.
+2. RESULTADOS DE EFICÁCIA
+A segurança e a eficácia de ELAPRASE foram demonstradas em três estudos. Esses estudos foram
+complementados pela demonstração de administração segura pelo estudo HGT-ELA-038 em crianças de 16
+meses a 7,5 anos de idade.
+.
+Um total de 108 pacientes do sexo masculino com síndrome de Hunter foi incluído em 2 estudos clínicos
+randomizados controlados por placebo, e aqueles que concluíram os estudos clínicos continuaram o tratamento
+em 2 estudos de extensão abertos.
+Estudos TKT008, TKT018
+Em um estudo de Fase I/II de 24 semanas, duplo-cego, controlado por placebo (TKT008), 12 pacientes com
+síndrome de Hunter foram recrutados e 9 pacientes receberam tratamento com idursulfase em doses de 0,15
+mg/kg (N = 3), 0,5 mg /kg (N=3) e 1,5 mg/kg (N=3) em semanas alternadas; 3 pacientes foram randomizados
+para placebo. A idade dos pacientes variou de 6 a 20 anos. Neste estudo, os níveis de GAG diminuíram em todos
+os pacientes tratados em comparação ao placebo. Além disso, os volumes hepático e esplênico diminuíram em
+todos os pacientes tratados com ELAPRASE. A função pulmonar (medida pela capacidade vital forçada (FVC) e
+volume expiratório forçado em 1 segundo (FEV1) também melhorou nos grupos de dose de 0,5 e 1,5 mg/kg.
+Os 12 pacientes do estudo controlado por placebo de Fase I/II foram posteriormente inscritos em um estudo de
+extensão aberto (TKT018). Após aproximadamente 8 a 18 meses do início do tratamento com ELAPRASE,
+todos os pacientes passaram para uma dose de 0,5 mg/kg a cada duas semanas. Os pacientes tratados por até 66
+Página 1 de 19
+meses apresentaram diminuição ou normalização dos volumes hepático e esplênico, estabilizados no teste de
+caminhada de 6 minutos (ou 6MWT). Seis dos 12 pacientes tratados apresentaram níveis de GAG na urina
+abaixo do limite superior do normal (definido como 126,6 μg GAG/mg creatinina) na última observação do
+estudo.
+Estudos TKT 024/024EXT
+Em um estudo clínico de 53 semanas randomizado, duplo-cego e controlado por placebo (TKT024), 96 pacientes
+com síndrome de Hunter receberam ELAPRASE 0,5 mg/kg por semana (N=32) ou a cada duas semanas (N=32),
+ou placebo (N=32). A idade dos pacientes variou de 5 a 31 anos. O estudo incluiu pacientes com deficiência
+documentada na atividade da enzima iduronato-2-sulfatase que tinham uma porcentagem da capacidade vital
+forçada predita (%FVC predita) inferior a 80%, e um amplo espectro de gravidade da doença. A avaliação do
+desfecho de eficácia primária foi a distância percorrida durante o teste de caminhada de seis minutos (6-MWT)
+como medida de resistência e %FVC predita como medida de função pulmonar. O desfecho primário foi a
+pontuação composta de dois componentes baseado na soma das classificações da alteração a partir do basal até a
+Semana 53 no 6-MWT e %FVC predita entre o grupo tratado com ELAPRASE semanal e o grupo placebo. No
+estudo de extensão (TKT024EXT) no qual todos os pacientes recebiam idursulfase semanal, aumentos médios
+estatisticamente significativos do tratamento basal foram observados na distância percorrida no 6-MWT na
+maioria dos tempos testados, com aumentos médios e percentuais significativos variando de 13,7 m a 41,5 m
+(máximo no mês 20) e de 6,4% a 13,3%, respectivamente, (máximo no mês 24). Na maioria dos momentos
+testados, os pacientes do grupo Semanal original do TKT024 melhoraram sua distância percorrida em maior
+medida do que os pacientes nos outros 2 grupos de tratamento.
+No estudo TKT024, o desfecho primário composto de 2 componentes diferiu significativamente do placebo tanto
+para os grupos de tratamento semanal quanto a cada duas semanas (EOW) (idursulfase semanal vs. placebo,
+p=0,0049 (ver Figura 1); EOW idursulfase vs. placebo, p=0,0416).
+Figura 1. Média Ajustada, Pontuações Compostas de Dois Componentes Classificadas no Basal e na Semana 53:
+grupos semanais e EOW (estudo TKT024)
+Página 2 de 19
+p
+p=0.0049
+p=0.0416
+Página 3 de 19
+)ES
+-/+(
+naeM
+detsujdA
+80
+70
+60
+50
+40
+30
+WSeemeaknlyal Placebo EOW Placebo
+Treatment
+Análises individuais dos componentes da pontuação composta mostraram que, para o 6MWT, a diferença da
+média ajustada do grupo de idursulfase semanal em metros percorridos a partir do basal até a Semana 53 foi de
+35,1 metros em relação ao placebo (p=0,0131). O percentual de FVC predito no grupo semanal foi 4,3% maior
+em relação ao placebo (p=0,0650, ver Tabela 1).
+Como os pacientes com síndrome de Hunter têm distúrbios intrínsecos de crescimento devido à displasia
+esquelética, as alterações absolutas de volume no FVC também foram avaliadas. As alterações médias ajustadas
+a partir do basal até a Semana 53 no FVC absoluto mostraram um efeito significativo no grupo tratado com
+ELAPRASE semanal em comparação com o placebo (diferença de 0,19 L p=0,0011), como mostrado na Tabela
+1.
+Tabela 1. Alteração a partir do basal no 6MWT e FVC, comparado ao Placebo (N=32/grupo de
+tratamento) na Semana 53. (Estudo TKT024)
+Alteração da
+Diferença em Intervalo de
+Média Ajustada a
+comparação com confiança de Valor-p b
+partir do basal
+o placebo (SE) a 95%
+(EP) a
+Distância Total Percorrida no 6MWT (metros)
+Idursulfase semanal 37,0 (10,9) 35,1 (13,7) 7,66, 62,5 0,0131
+FVC (% do normal predito)
+Idursulfase semanal 1,3 (1,7) 4,3 (2,3) -0,3, 8,8 0,0650
+FVC (L)
+Idursulfase semanal 0,18 (0,04) 0,19 (0,06) 0,08, 0,3 0,0011
+a Médias ajustadas (LS) e erros padrão (SEs) do modelo ANCOVA ajustado
+b Os efeitos do modelo são região, tratamento, idade do paciente no basal (3 níveis) e gravidade do 6MWT ou
+FVC no basal [dependendo da análise] (3 níveis).
+)PE(
+adatsuja
+aidém
+p=0,0049
+p=0,0416
+A cada duas
+semanas
+Tratamento
+Também foi observada melhora na função respiratória na análise do valor absoluto de FEV1 associado ao
+melhor valor absoluto de FVC ou o melhor esforço (se os valores de FVC fossem idênticos). Um total de 11/31
+(36%) pacientes do grupo ELAPRASE semanal e 5/31 (16%) pacientes do grupo placebo apresentaram um
+aumento no FEV1 de pelo menos 200 mL antes ou na Semana 53, indicando uma melhora relacionada à dose na
+obstrução das vias aéreas. Os pacientes do grupo tratado com ELAPRASE semanal apresentaram uma melhora
+média clinicamente significativa de 15% no FEV na Semana 53. No estudo de extensão (TKT024EXT), foram
+1
+observados aumentos estatisticamente significativos a partir do tratamento basal no volume absoluto de FVC
+para na maioria das visitas para todos os pacientes e para cada um dos grupos de tratamento anteriores do
+TKT024. As alterações médias variaram de 0,07 L a 0,31 L e as alterações percentuais variaram de 6,3% a
+25,5% (máximo no mês 30). As alterações médias e percentuais a partir do tratamento basal foram maiores no
+grupo TKT024 Semanal em todos os momentos. O percentual de FVC predita permaneceu estável em todos os
+pacientes com síndrome de Hunter tratados por 2 a 3 anos com idursulfase 0,5 mg/kg semanalmente.
+A atividade ELAPRASE também foi avaliada medindo alterações nos níveis de GAG na urina, volumes hepático
+e esplênico (Tabela 2), e alterações na massa ventricular esquerda.
+Tabela 2. Alteração a Partir do Basal nos Volumes Hepático e Esplênico, comparado com Placebo
+(n=32/grupo de dose) na Semana 53 (Estudo TKT024)
+Alteração da Diferença em
+Média Ajustada a Comparação Intervalo de
+partir do Basal com o placebo confiança de
+(EP) a (EP) a 95% Valor-p b
+Volume hepático (% de alteração)
+Idursulfase semanal -25,6 (1,7) -25,2 (2,2) -29,6, -20,8 < 0,0001
+Volume esplênico (% de alteração)
+Idursulfase semanal -25,1 (3,5) -33,2 (4,8) -42,8, -23,6 < 0,0001
+a Médias Ajustadas (LS) e EPs do modelo ANCOVA ajustado
+b Os efeitos do modelo são região, tratamento, idade do paciente no basal e volume hepático ou esplênico no
+basal [dependendo da análise] (3 níveis).
+No grupo de tratamento semanal (Estudo TKT024), os volumes hepático e esplênico foram estatisticamente e
+significativamente menores em comparação com o placebo (p<0,0001). Um subconjunto de pacientes nos grupos
+de tratamento semanal e placebo teve hepatomegalia no basal (25 pacientes no ELAPRASE semanal e 23 no
+placebo). Dos 25 pacientes com fígados anormalmente aumentados no basal no grupo de tratamento de
+ELAPRASE semanal, 20 pacientes (80%) apresentaram reduções no volume hepático para dentro da faixa
+normal até a Semana 53. Em contraste, apenas 1 paciente no grupo placebo apresentou um volume hepático
+normal na Semana 53.
+A maioria dos pacientes em todos os 3 grupos de tratamento apresentou um volume esplênico normal no basal.
+Nove dos 32 pacientes do grupo ELAPRASE semanal apresentavam baços anormalmente aumentados no basal.
+Desses 9 pacientes, 6 apresentaram baços que permaneceram aumentados até a Semana 53 e 3 pacientes
+apresentaram volumes esplênicos que normalizaram até a Semana 53.
+Página 4 de 19
+A diminuição dos volumes hepático e esplênico na semana 53 foi mantida durante o estudo de extensão
+(TKT024EXT) em todos os pacientes, independentemente da designação prévia de tratamento no TKT024.
+Setenta e um dos 94 pacientes apresentavam hepatomegalia no basal. O volume hepático normalizou-se no Mês
+24 para 73% (52 de 71) desses pacientes. Além disso, o volume médio do fígado diminuiu próximo a uma
+extensão máxima no Mês 8 em todos os grupos de tratamento do TKT024, aumentando ligeiramente a partir
+deste nadir no Mês 36. Diminuições no volume médio do fígado foram observadas independentemente da idade,
+gravidade da doença, status de anticorpos IgG ou status de anticorpo neutralizante. Para a população do estudo
+como um todo, o volume médio do baço também diminuiu rapidamente após o início da idursulfase e
+permaneceu bem abaixo do volume basal médio durante o estudo de extensão.
+As mulheres heterozigotas não foram estudadas por nossos ensaios clínicos.
+Estudo HGT-ELA-038
+Um estudo aberto, multicêntrico, braço-único (HGT-ELA-038) foi conduzido para avaliar a segurança das
+infusões de ELAPRASE em pacientes do sexo masculino com a Síndrome de Hunter de 16 meses a 7,5 anos de
+idade. Além disso, o estudo avaliou a eficácia, resultados clínicos e a farmacocinética de ELAPRASE nessa
+população de pacientes.
+A segurança foi monitorada ao longo do estudo pelas avaliações de eventos adversos (EAs), medicamentos e
+procedimentos cirúrgicos concomitantes, sinais vitais, exames físicos e testes laboratoriais clínicos (bioquímica
+clínica, hematologia e urinálise). Os testes para anticorpos anti-idursulfase foram realizados no basal e nas
+Semanas 9, 18, 27, 36, 45 e 53. O desfecho primário farmacodinâmico deste estudo foi a medição da depuração
+urinária de GAG. Os desfechos exploratórios de eficácia incluíram alteração média no tamanho do fígado e no
+volume esplênico medido por ultrassom.
+Todos os grupos de pacientes apresentaram uma diminuição nos níveis urinários de uGAG, tamanho do fígado e
+volume esplênico após o início do tratamento com ELAPRASE. Pacientes com genótipo de deleção completa/
+amplo rearranjo apresentaram uma diminuição menos acentuada nos níveis de uGAG do que pacientes com o
+genótipo de mutação missense. Nos pacientes com a genótipo de deleção completa/amplo rearranjo, a resposta
+inicial foi seguida por um aumento no tamanho do fígado para aproximadamente valores basais em 53 semanas e
+o volume esplênico também aumentou, mas permaneceu abaixo dos valores basais em 53 semanas. Pacientes
+com genótipo de frameshift/splice apresentaram resposta menos pronunciada ao ELAPRASE. Esses resultados
+baseados no genótipo são consistentes com a análise baseada em anticorpos, que mostrou que pacientes com
+anticorpos e anticorpos neutralizantes tiveram uma diminuição ligeiramente menos pronunciada no uGAG,
+tamanho do fígado e volume esplênico. No entanto, pacientes individuais com um genótipo de deleção
+completa/amplo rearranjo e altos títulos de anticorpos apresentaram uma resposta terapêutica semelhante ou
+melhor do que alguns pacientes com um genótipo de mutação missense e sem resposta a anticorpos.
+Referências Bibliográficas
+HGT-ELA-038: Giugliani R, Harmatz P, Jones SA, et al. Evaluation of impact of anti-idursulfase antibodies
+during long-term idursulfase enzyme replacement therapy in mucopolysaccharidosis II patients. Mol Genet
+Metab. 2017;12:2-7.
+TKT008 – Muenzer J, Gucsavas-Calikoglu M, McCandless SE et al. A phase I/II clinical trial of enzyme
+replacement therapy in mucopolysaccharidosis II (Hunter syndrome), Mol Genet Metab. 2007; 90(3): 329-337
+Página 5 de 19
+TKT024 - Muenzer J, Wraith JE, Beck M, et al. A phase II/III clinical study of enzyme replacement therapy with
+idursulfase in mucopolysaccharidosis II (Hunter syndrome). Genet Med. 2006 Aug;8(8):465-73 Erratum in:
+Genet Med. 2006 Sep;8(9):599.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+ELAPRASE é uma formulação de idursulfase, forma purificada da iduronato-2-sulfatase, uma enzima
+lisossômica. A idursulfase é produzida por tecnologia de DNA recombinante em linhagens de células humanas
+conferindo um perfil de glicosilação humano, que é análogo à enzima de ocorrência natural.
+Mecanismo de ação
+A síndrome de Hunter é uma doença recessiva ligada ao cromossomo X causada por níveis insuficientes de
+enzima lisossomal iduronato-2-sulfatase. A Iduronato-2-sulfatase (I2S) cataboliza os glicosaminoglicanos
+dermatan sulfato e heparan sulfato, por clivagem de porções de sulfato ligadas a oligossacarídeos. Devido à
+ausência ou deficiência da enzima I2S em pacientes com síndrome de Hunter, os GAGs se acumulam
+progressivamente nos lisossomas de uma variedade de células, levando ao ingurgitamento celular, a
+organomegalia, a destruição de tecido e a disfunção do sistema de órgãos.
+A idursulfase é uma forma purificada da I2S humana e é produzida por tecnologia de DNA recombinante em
+linhagem celular humana. A idursulfase é expressa como uma única cadeia polipeptídica de 550 aminoácidos,
+que, após a remoção de um peptídeo sinal, é segregada como uma glicoproteína de 525 aminoácidos. A enzima
+contém 8 locais de glicosilação ligados a N que são ocupados por cadeias de oligossacarídeos do tipo complexo,
+híbrido e de alta manose. A idursulfase tem um peso molecular de aproximadamente 76 kD.
+O tratamento de pacientes com síndrome de Hunter com idursulfase intravenosa fornece enzima exógena para
+absorção pelos lisossomas celulares. Resíduos de manose-6-fosfato nas cadeias de oligossacarídeos permitem a
+ligação específica da enzima aos receptores M6P na superfície celular, levando à internalização celular da
+enzima, direcionando para lisossomas intracelulares e subsequente catabolismo de GAGs acumulados.
+Farmacodinâmica
+.
+Foram observadas diminuições nos níveis urinários de GAG após o tratamento com ELAPRASE. A resposta do
+GAG urinário às alterações de dosagem de ELAPRASE é desconhecida, e a relação do GAG urinário com outras
+medidas de resposta clínica não foi estabelecida. Os pacientes que testaram positivo para anticorpos anti-
+idursulfase (Ab) experimentaram uma diminuição menos pronunciada nos níveis urinários de GAG.
+Farmacocinética
+A idursulfase é captada por mecanismos seletivos mediados por receptores que envolvem a ligação a receptores
+da manose-6-fosfato. Após a captação pelas células, localiza-se no interior dos lisossomas celulares, limitando
+assim a distribuição da proteína. A degradação da idursulfase é realizada por mecanismos de hidrólise de
+proteínas geralmente bem compreendidos que produzem pequenos peptídeos e os e aminoácidos; em
+consequência, não é de esperar que o compromisso renal e hepático afete a farmacocinética da idursulfase.
+Página 6 de 19
+As características farmacocinéticas (PK) do ELAPRASE foram avaliadas em alguns estudos em pacientes com
+síndrome de Hunter. A área da curva tempo-concentração aumentou de forma proporcional, à medida que a dose
+aumentou de 0,15 mg/kg para 1,5 mg/kg após uma única infusão de 1 hora de ELAPRASE..
+A PK foi avaliada na Semana 1 e na Semana 27 em 10 pacientes que receberam 0,5 mg/kg de ELAPRASE
+semanalmente na forma de infusão de 3 horas no estudo TKT024 (ver Tabela 4). Não houve diferenças nos
+parâmetros PK como resultado da repetição da dosagem do ELAPRASE. O tempo para a concentração sérica
+máxima (Tmáx) geralmente coincidiu com o fim da infusão do ELAPRASE.
+Tabela 4 - Parâmetros Farmacocinéticos Médios no Estudo TKT024 (n=10)a
+Parâmetros farmacocinéticos Semana 1 (DP) Semana 27 (DP)
+C (µg/mL) 1,5 (0,6) 1,1 (0,3)
+max
+AUC (min x µg/mL) 206 (87) 169 (55)
+t (min) 44 (19) 48 (21)
+1/2
+Cl (mL/min/kg) 3,0 (1,2) 3,4 (1,0)
+V (% PC) 21 (8) 25 (9)
+ss
+a n = 10 é um subconjunto de pacientes em TKT024 com parâmetros PK avaliáveis nas semanas 1 e 27.
+No estudo TKT024EXT, no qual os pacientes receberam idursulfase 0,5 mg/ kg semanalmente como uma
+infusão de 3 horas, não houve alterações nos parâmetros de farmacocinética com dosagem repetida (semana 18,
+n = 68) e os parâmetros de farmacocinética foram semelhantes aos do estudo TKT024. Não houve efeito dos
+anticorpos anti-idursulfase IgG na PK da idursulfase
+A farmacocinética também foi avaliada no estudo HGT-ELA-038 em pacientes entre 16 meses e 7,5 anos de
+idade que receberam 0,5 mg/kg de ELAPRASE em infusão de 3h de duração. A farmacocinética foi avaliada na
+semana 1 (n=27) e na semana 27 (n=19) (vide Tabela 5). As concentrações séricas estavam abaixo do limite
+inferior de quantificação (LLOQ) em todos os pontos de tempo em 8 dos 27 indivíduos (30%) na semana 27, e
+mensurável somente em alguns pontos de tempo nos demais 19 indivíduos (70%). Os perfis farmacocinéticos de
+todos os 11 indivíduos anticorpos-negativos na semana 27 foram similares aos perfis na semana 1. Os 8
+indivíduos anticorpos-positivos com concentrações séricas mensuráveis, exibiram taxa de depuração
+significantemente altas na semana 27 quando comparada à semana 1. Maiores informações sobre a
+imunogenicidade na eficácia e segurança estão descritas no item 9. REAÇÕES ADVERSAS, Imunogenicidade.
+Tabela 5 Parâmetros Farmacocinéticos Médios no Estudo HGT-ELA-038 (n=27)
+Parâmetro Média da Semana 1 Média da Semana 27 Média da Semana 27
+(DP) Anticorpos IgG anti-idursulfase Anticorpos IgG anti-idursulfase
+n=27 negativo (DP)** positivo (DP)***
+n=11 n=8
+Cmáx (μg/mL) 1,3 (0,8) 1,4 (0,4) 0,6 (0,5)
+Página 7 de 19
+ASC0-∞ (min*μg/mL) 224,3 (76,9) 269,9 (78,3) 93,1 (81,8)
+t1/2 (min) 160 (69) 138(24) 64 (19)
+Cl (mL/min/kg) 2,4 (0,7) 2,0 (1,0) 8,9 (6,1)
+Vss (mL/Kg) 394 (423) 280 (102) 977 (653)
+* Valores de t ½ estimados na fase terminal de 240 min até o último ponto de dados mensurável
+**Pacientes na Semana 27 que testaram negativo para anticorpos IgG anti-idursulfase
+***Pacientes na Semana 27 que testaram positivo para anticorpos IgG anti-idursulfase
+.
+A exposição sistêmica (C e AUC0-∞) e a depuração (Cl e Vss) de ELAPRASE observados na semana 1 nos
+max
+estudos TKT024 e HGT-ELA-038 estão resumidos na Tabela 4, na Tabela 5 e na Tabela 6.
+Na análise, os pacientes no TKT024 foram segmentados por idade em populações pediátrica (5 a 11 anos; n =
+11), adolescente (12 a 18 anos; n=8) e adulto (> 18 anos; n=9).*
+Tabela 6 Parâmetros farmacocinéticos em função da Idade nos Estudos TKT024 e HGT-ELA-038 (Semana 1)
+Estudo
+HGT-ELA-038 TKT024
+Idade (anos) 1,4 a 7,5 5 a 11 12 a 18 > 18
+(n=27) (n=11) (n=8) (n=9)
+Cmáx (μg/mL) 1,3 ± 0,8 1,6 ± 0,7 1,4 ± 0,3 1,9 ± 0,5
+Média ± DP
+ASC0-∞ 224,3 ± 76,9 238 ± 103,7 196 ± 40,5 262 ± 74,5
+(min*μg/mL)
+Média ± DP
+CL (mL/min/kg) 2,4 ± 0,7 2,7 ± 1,3 2,8 ± 0,7 2,2 ± 0,7
+Média ± DP
+Vss (mL/kg) 394 ± 423 217 ± 109 184 ± 38 168 ± 32
+Média ± DP
+Na Semana 1, ELAPRASE demonstrou comportamentos de exposição sistêmica (ou seja, Cmáx e ASC) e taxas
+de depuração (ou seja, CL) comparáveis em diferentes faixas etárias.
+A exposição sistêmica (Cmáx e ASC0-∞) e a depuração (CL e Vss) do ELAPRASE observadas na semana 1
+para os estudos TKT024 e HGT-ELA 038 estão resumidos na Tabela 8. Na análise, os pacientes dos estudos
+TKT024 e HGT-ELA-038 foram estratificados em cinco categorias de peso; < 20 kg, ≥ 20 e < 30 kg, ≥ 30 e < 40
+kg, ≥ 40 e < 50 kg e ≥ 50 kg.
+Tabela 7 Parâmetros farmacocinéticos em função do peso corporal nos estudos TKT024 e HGT-ELA-038 (Semana 1)
+<20 ≥ 40 e < 50 (n=5) ≥ 50
+≥ 20 e < 30
+Peso (kg) (n=17) ≥ 30 e < 40 (n=9) (n=6)
+(n=18)
+Página 8 de 19
+Cmáx (μg/mL)
+1,2 ± 0,3 1,5 ± 1,0 1,7 ± 0,4 1,7 ± 0,7 1,7 ± 0,7
+Média ± DP
+ASC0-∞
+(min*μg/mL) 206,2 ± 33,9 234,3 ± 103,0 231,1 ± 681,0 260,2 ± 113,8 251,3 ± 86,2
+Média ± DP
+CL (mL/min/kg)
+2,5 ± 0,5 2,6 ± 1,1 2,4 ± 0,6 2,4 ± 1,0 2,4 ± 1,1
+Média ± DP
+Vss
+(mL/kg) 321 ± 105 397 ± 528 171 ± 52 160 ± 59 181 ± 34
+Média ± DP
+Os principais parâmetros farmacocinéticos para ELAPRASE foram comparáveis entre os diferentes grupos de
+peso. Esses resultados indicam que a exposição sistêmica total e a taxa de depuração do ELAPRASE não são
+afetadas pelo peso corporal. No entanto, observou-se maior volume de distribuição no estado de equilíbrio (Vss)
+nos grupos de menor peso.
+De forma geral, não houve tendência aparente nem para a exposição sistêmica nem para taxa de depuração de
+ELAPRASE em relação a idade ou ao peso corporal.
+4. CONTRAINDICAÇÕES
+ELAPRASE está contraindicado para indivíduos hipersensíveis à idursulfase ou a qualquer outro componente da
+fórmula.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Pacientes tratados com ELAPRASE podem desenvolver reações relacionadas à infusão [ver REAÇÕES
+ADVERSAS]. Em estudos clínicos, as reações relacionadas à infusão mais comuns incluíram reações cutâneas
+(erupção cutânea, prurido e urticária), pirexia, cefaleia, hipertensão e rubor. As reações relacionadas à infusão
+foram tratadas ou amenizadas pela redução da taxa de infusão, interrupção da infusão, ou por administração de
+medicamentos, como anti-histamínicos, antipiréticos, corticosteroides de baixa dose (prednisona e
+metilprednisolona), ou nebulização com beta-agonista. Nenhum paciente interrompeu o tratamento com
+ELAPRASE devido a uma reação à infusão durante os estudos clínicos.
+Reações graves relacionadas à infusão têm sido relatadas em pacientes com doença subjacente grave das vias aéreas.
+Portanto, especificamente esses pacientes devem ser monitorados de perto e infundidos com ELAPRASE em um
+ambiente clínico adequado. Considere adiar a infusão de ELAPRASE em pacientes que apresentam uma doença
+respiratória febril aguda. Pacientes que usam oxigênio suplementar devem ter este tratamento prontamente
+disponível durante a infusão no caso de uma reação relacionada à infusão.
+As reações anafilactóides/anafiláticas, que têm potencial para serem fatais, têm sido observadas em alguns pacientes
+tratados com ELAPRASE até vários anos após o início do tratamento. Sintomas emergentes tardios e sinais de
+Página 9 de 19
+reações anafilactóides/anafiláticas foram observados até 24 horas após uma reação inicial. Se uma reação
+anafilactóide/anafilática ocorrer, a infusão de ELAPRASE deve ser imediatamente suspensa e iniciados o
+tratamento apropriado e a observação. Os padrões médicos atuais para o tratamento de emergência devem ser
+seguidos. Pacientes que apresentam reações anafilactóides/anafiláticas graves ou refratárias podem exigir um
+acompanhamento clínico prolongado.
+Uso em crianças
+O uso de ELAPRASE demonstrou ser seguro em crianças e adolescentes entre 16 meses e 18 anos de idade.
+O perfil de segurança para doses semanais de 0,5 mg/kg de ELAPRASE foi similar ao observado em estudos
+clínicos anteriores, com exceção do vômito.
+Nos pacientes de 16 meses a 5 anos de idade, não há dados disponíveis demonstrando a melhoria dos sintomas
+relacionados à doença ou dos desfechos clínicos em longo prazo. No entanto, o tratamento com ELAPRASE
+reduziu o volume do baço de modo similar ao observado em adultos e em crianças maiores de 5 anos de idade. A
+segurança e eficácia em pacientes com idade inferior a 16 meses ainda não foi estabelecida.
+Uso em idosos
+Os estudos clínicos realizados com o ELAPRASE não incluíram pacientes com idade igual ou superior a 65
+anos.
+Pacientes com deleção completa/grande rearranjo de genótipo
+Pacientes com deleção completa estão mais sujeitos a manifestar uma forma grave de MPS II quando
+comparados com outros genótipos conhecidos. Pacientes pediátricos com deleção completa/grande rearranjo de
+genótipo possuem alta probabilidade de desenvolver anticorpos, incluindo anticorpos neutralizantes (AcN), em
+resposta ao ELAPRASE. Pacientes com esse genótipo possuem alta probabilidade de desenvolver reações
+adversas relacionadas à infusão e tendem a demonstrar uma resposta menor, como avaliado pela queda nos
+níveis de GAG urinário, tamanho do fígado e volume do baço, quando comparados aos pacientes com genótipo
+missense. Em geral, pacientes com o genótipo de mutação frameshift/splice desenvolvem respostas aos
+anticorpos entre as observadas em pacientes com genótipos de deleção completa/amplo rearranjo e o genótipo
+missenses. No entanto, em estudos clínicos, foi observado que alguns indivíduos com genótipo de deleção
+completa e altos títulos de anticorpos apresentaram uma resposta terapêutica semelhante ou melhor do que
+alguns pacientes com um genótipo de mutação missense e nenhuma resposta aos anticorpos.
+Fertilidade
+Não foram estudadas nos ensaios clínicos mulheres heterozigotas.
+Não foram realizados estudos de fertilidade em humanos. Não foram observados efeitos sobre a fertilidade em
+doses intravenosas até 5mg/Kg de ELAPRASE administrado duas vezes na semana (cerca de 1.6 vezes a dose
+semanal recomendada para humanos com base na área de superfície corporal) em estudos reprodutivos
+realizados em ratos machos.
+Página 10 de 19
+Uso em mulheres grávidas (Categoria C)
+.
+Não existem estudos adequados e bem controlados com o uso de ELAPRASE em mulheres grávidas. Os dados
+disponíveis de um pequeno número de casos pós-comercialização com o uso de ELAPRASE na gravidez são
+insuficientes para informar os riscos associados ao medicamento para grandes defeitos congênitos, aborto
+espontâneo ou resultados maternos ou fetais adversos. Em um estudo de reprodução animal, nenhuma evidência
+de efeitos adversos no desenvolvimento pré e pós-natal foi observada com a administração intravenosa de
+idursulfase duas vezes por semana a ratas grávidas desde o 6º dia de gestação até o 19º dia de lactação em cerca
+de 4 vezes a dose semanal humana recomendada de 0,5 mg/kg com base na área de superfície corporal.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Lactação
+Desconhece-se se a idursulfase é excretada no leite humano. Os dados disponíveis em animais mostraram
+excreção da idursulfase no leite. Não pode ser excluído qualquer risco para os recém-nascidos/lactentes. Os
+benefícios do aleitamento materno para o desenvolvimento e para a saúde devem ser considerados juntamente
+com a necessidade clínica da mãe de ELAPRASE e quaisquer efeitos adversos potenciais sobre a criança
+amamentada por ELAPRASE ou pela condição materna subjacente.
+Insuficiência hepática
+Como a idursulfase não é eliminada através de mecanismos hepáticos, acredita-se que pacientes com
+insuficiência hepática não responderiam de forma diferente ao tratamento com ELAPRASE, e, portanto, não
+exigiriam um ajuste de dose.
+Insuficiência Renal
+Como a idursulfase não é eliminada através de mecanismos renais, acredita-se que pacientes com insuficiência
+renal não responderiam de forma diferente ao tratamento com ELAPRASE, e, portanto, não exigiriam um ajuste
+de dose.
+6. INTERAÇÕES MEDICAMENTOSAS
+Não foram realizados estudos específicos para verificar a interação medicamentosa com ELAPRASE. Como a
+idursulfase é em si uma enzima, ela seria uma candidata improvável para interações medicamentosas mediadas
+pelo citocromo P450
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar sob refrigeração entre 2°C e 8°C. Proteger da luz. Não congelar. Não agitar.
+Prazo de validade: ELAPRASE, solução injetável, tem validade de 36 meses a partir da data de sua fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Página 11 de 19
+A solução deve ser utilizada imediatamente após a diluição. Este produto não contém conservante. Se não for
+possível utilizá-la imediatamente, depois de preparada a solução diluída deve ser armazenada em geladeira a 2°C
+a 8°C por até 24 horas.
+Aparência: ELAPRASE, solução injetável, é uma solução clara a levemente opalescente ou incolor em frasco-
+ampola de vidro.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+ELAPRASE deve ser preparado e administrado por um profissional de saúde.
+Infusões de ELAPRASE em ambiente doméstico podem ser consideradas para pacientes que tiverem recebido
+vários meses de tratamento no hospital e tolerado-as bem. Essas infusões devem ser realizadas sob vigilância de
+um médico ou outro profissional de saúde em ambiente dotado de infraestrutura necessária ao manejo clínico
+relacionado às intercorrências decorrentes de anafilaxia (Home Care).
+Usar Técnicas de Assepsia.
+1. Determine o volume total de ELAPRASE a ser administrado e o número de frascos necessários, com
+base no peso corpóreo do paciente e na dose recomendada de 0,5 mg/kg.
+Peso corpóreo (kg) x 0,5 mg por kg de ELAPRASE ÷2 mg por mL = Volume total de ELAPRASE, em
+mL.
+Volume total de ELAPRASE, em mL ÷ 3 mL por frasco = Número de frascos
+Determine o número necessário de frascos a partir dos quais será retirado o volume a ser administrado.
+Retire a quantidade necessária de frascos da geladeira para permitir que atinjam a temperatura ambiente.
+2. Proceda à inspeção visual de cada um dos frascos de ELAPRASE para verificar se a solução está clara a
+levemente opalescente ou incolor. Não utilize a solução caso esteja com alguma coloração ou com
+partículas. Não agite os frascos.
+3. Retire o volume calculado do número apropriado de frascos.
+4. Dilua o volume total de ELAPRASE em 100 mL de solução 0,9% de cloreto de sódio para injeção,
+USP. Uma vez diluída a solução na bolsa de infusão, homogeneíze gentilmente sem agitar. A solução
+diluída pode ser armazenada em geladeira por um período de até 24 horas.
+5. ELAPRASE é fornecido em frascos de uso único. Caso nem todo o conteúdo de um determinado frasco
+tenha sido utilizado, o restante deverá ser desprezado de acordo com os requisitos locais de disposição
+de materiais.
+ELAPRASE deve ser administrado apenas por via intravenosa.
+Posologia
+O esquema posológico recomendado para o ELAPRASE é de 0,5 mg por kg de peso corpóreo, administrados
+semanalmente por via intravenosa.
+ELAPRASE é uma solução concentrada para infusão intravenosa e deve ser diluída antes da administração, em
+100 mL de solução 0,9% de cloreto de sódio para injeção, USP. Cada frasco de ELAPRASE contém uma
+Página 12 de 19
+solução de 2,0 mg/mL de idursulfase (6,0 mg) equivalente a 6 mg de proteína, em um volume de 3 mL, somente
+para uma única utilização. Recomenda-se o uso de uma bomba de infusão com um filtro de 0,2 μm.
+O volume total de infusão deve ser administrado em um período de 3 horas, o qual pode ser gradualmente
+reduzido para 1 hora caso nenhuma reação relacionada a infusão seja observada. Podem ser necessários períodos
+mais longos de infusão dependendo da reação do paciente, no entanto, o período total de infusão não deve ser
+maior que 8 horas (vide 7. Cuidados de Armazenamento do Medicamento). A velocidade inicial de infusão deve
+ser de 8 mL/h durante os primeiros 15 minutos. Se a infusão estiver sendo bem tolerada pelo paciente, pode-se
+aumentar a velocidade em 8 mL/h a cada 15 minutos para que seja administrado todo o volume no período
+desejado. Contudo, em nenhum momento durante a infusão, a velocidade poderá exceder 100 mL/h. Se
+ocorrerem reações durante a infusão com ELAPRASE, a velocidade da administração deve ser reduzida e/ou
+temporariamente interrompida ou descontinuada, com base na avaliação clínica do paciente (vide 5. Precauções
+e Advertências). ELAPRASE não deve ser administrado com outros medicamentos no mesmo equipo de infusão.
+9. REAÇÕES ADVERSAS
+As reações adversas ao medicamento estão listadas na Tabela 9. As informações estão apresentadas por classe de
+sistema de órgãos e frequência (muito comum ≥1/10; comum ≥1/100, incomum<1/100). Dentro de cada
+agrupamento de frequências, efeitos indesejáveis são apresentados por ordem decrescente de gravidade. Reações
+adversas ao medicamento derivadas de relatos pós-comercialização que não sejam ensaios clínicos de
+intervenção estão marcadas em itálico.
+As reações mais comuns são reações relacionadas à infusão, incluindo reações cutâneas (erupção cutânea,
+prurido, urticária e eritema), pirexia, rubor, chiado, dispneia, cefaleia, vômito, dor abdominal, náusea e dor no
+peito. Uma reação relacionada à infusão foi definida como um EA que ocorreu no dia da infusão (ou seja, dentro
+de 24 horas após receber uma infusão), começou durante ou após a infusão, foi julgado como possivelmente ou
+provavelmente relacionada ao medicamento do estudo, e não foi associada a testes ou avaliações definidas pelo
+protocolo.
+Tabela 8 - Reações Adversas ao Medicamento (ADRs) relatadas com ELAPRASE
+Texto itálico denota evento pós-comercialização
+Reação Adversa ao
+Classe de sistema de
+Categoria de Incidência Medicamento (Termo
+órgãos
+Preferido)
+Distúrbios do sistema Frequência não conhecida Reação anafilactóide/
+imunológico anafilática
+Distúrbios do sistema
+Muito comum: Cefaleia
+nervoso
+Distúrbios cardíacos Comum: Cianose
+Arritmia
+Taquicardia
+Muito comum: Rubor
+Distúrbios vasculares
+Comum: Hipertensão
+Hipotensão
+Página 13 de 19
+Reação Adversa ao
+Classe de sistema de
+Categoria de Incidência Medicamento (Termo
+órgãos
+Preferido)
+Muito comum: Sibilo
+Dispneia
+Distúrbios respiratórios,
+Comum Hipóxia
+torácico e do mediastino
+Broncoespasmo
+Incomum: Taquipneia
+Distúrbios gastrointestinais Muito comum: Vômito
+Dor abdominal
+Náusea
+Comum: Língua inchada
+Dispepsia
+Distúrbios de pele e do Muito comum: Urticaria
+tecido subcutâneo Erupção cutânea
+Prurido
+Eritema
+Distúrbios gerais e Muito comum: Pirexia
+condições no local da Dor no Peito
+administração
+Comum: Inchaço no local da infusão
+Edema na face
+Edema periférico
+Lesões, intoxicação e Muito comum: Reação relacionada à
+complicações do infusão
+procedimento
+Estudos Clínicos
+TKT024
+As reações adversas mais comuns no estudo de 53 semanas (TKT024) foram reações relacionadas à infusão.
+Todas foram relatadas como leves a moderadas em intensidade. 202 reações relacionadas à infusão foram
+relatadas em 22 dos 32 pacientes após a administração de 1580 infusões semanais; 145 reações relacionadas à
+infusão foram relatadas em 22 dos 32 pacientes após a administração de 1629 infusões uma vez a cada duas
+semanas. A frequência de reações relacionadas à infusão diminuiu ao longo do tempo com a continuidade do
+tratamento com ELAPRASE.
+No estudo clínico TKT024, reações adversas graves foram as seguintes: Quatro pacientes apresentaram um
+episódio de hipóxia durante uma ou várias infusões, o que exigiu oxigenoterapia em 3 pacientes com doença
+obstrutiva subjacente grave das vias aéreas (2 com traqueostomia). O episódio mais grave ocorreu em um
+paciente com doença respiratória febril e foi associado a hipóxia durante a infusão, resultando em uma convulsão
+de curta duração. No último paciente, que apresentava doença subjacente menos grave, a resolução espontânea
+ocorreu logo após a infusão ser interrompida. Esses eventos não se repetiram com infusões subsequentes usando
+Página 14 de 19
+uma taxa de infusão mais lenta e administração de medicamentos pré-infusão, geralmente com corticosteroides
+de baixa dose, anti-histamínicos e nebulização com beta-agonista.
+A Tabela 9 apresenta reações adversas ao medicamento para ELAPRASE no ensaio clínico controlado por
+placebo TKT024 e representa um subconjunto dos dados apresentados na Tabela 8.
+Tabela 9 Reações adversas ao medicamento para ELAPRASE em comparação com os controles no Estudo
+Clínico controlado por Placebo de 53 semanas, TKT024, (0,5 mg/kg de ELAPRASE Semanal ou a Cada
+Duas Semanas)
+Classe de Sistema de Órgão ELAPRASE (0,5mg/kg ELAPRASE (0,5mg/kg Placebo
+Reação adversa ao semanalmente) a cada duas semanas) N=32
+medicamento (Termo N=32 N=32
+preferido)
+Distúrbios do sistema nervoso
+Cefaleia
+19 (59,4%) 21 (65,6%) 14 (43,8%)
+Distúrbios Cardíacos
+Cianose 1 (3,1%) 1 (3,1%) 0 (0%)
+Arritmia 1 (3,1%) 1 (3,1%) 0 (0%)
+Taquicardia 1 (3,1%) 3 (9,4%) 2 (6,3%)
+Distúrbios Vasculares
+Hipertensão 8 (25%) 5 (15,6%) 7 (21,9%)
+Rubor 5 (15,6%) 5 (15,6%) 6 (18,8%)
+Hipotensão 3 (9,4%) 2 (6,3%) 4 (12,5%)
+Distúrbios Respiratórios, Torácicos e do Mediastino
+Sibilo 5 (15,6%) 5 (15,6%) 5 (15,6%)
+Dispneia 4 (12,5%) 3 (9,4%) 9 (28,1%)
+Broncoespasmo 3 (9,4%) 2 (6,3%) 5 (15,6%)
+Taquipneia 2 (6,3%) 0 (0%) 2 (6,3%)
+Hipóxia 1 (3,1%) 3 (9,4%) 1 (3,1%)
+Distúrbios Gastrointestinais
+Dor abdominal 11 (34,4%) 17 (53,1%) 11 (34,4%)
+Náusea 7 (21,9%) 9 (28,1%) 9 (28,1%)
+Dispepsia 4 (12,5%) 4 (12,5%) 0 (0%)
+Língua inchada 2 (6,3%) 0 (0%) 0 (0%)
+Distúrbios de pele e do tecido subcutâneo
+Prurido 10 (31,3%) 6 (18,8%) 5 (15,6%)
+Erupção cutânea 8 (25%) 11 (34,4%) 11 (34,4%)
+Urticária 5 (15,6%) 4 (12,5%) 0 (0%)
+Página 15 de 19
+Classe de Sistema de Órgão ELAPRASE (0,5mg/kg ELAPRASE (0,5mg/kg Placebo
+Reação adversa ao semanalmente) a cada duas semanas) N=32
+medicamento (Termo N=32 N=32
+preferido)
+Eritema 2 (6,3%) 1 (3,1%) 1 (3,1%)
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+Dor no peito 5 (15,6%) 3 (9,4%) 0 (0%)
+Distúrbios Gerais e Condições do Local da Administração
+Reação relacionada à infusão 22 (68,8%) 22 (68,8%) 21 (65,6%)
+Pirexia 20 (62,5%) 18 (56,3%) 19 (59,4%)
+Inchaço no local da infusão 4 (12,5%) 4 (12,5%) 1 (3,1%)
+Edema da face 1 (3,1%) 0 (0%) 0 (0%)
+Edema periférico 2 (6,3%) 0 (0%) 1 (3,1%)
+Pós-Comercialização
+Na experiência pós-comercialização, sintomas e sinais tardios de reações anafilactóide/anafilática foram
+observados até 24 horas após o tratamento inicial e recuperados a partir de uma reação inicial.
+As reações adversas mais sérias relacionadas à infusão com ELAPRASE foram reações anafiláticas e alérgicas
+(vide 5. Precauções e Advertências).
+Segurança em Crianças
+Em um estudo de segurança, aberto, com duração de 53 semanas (HGT-ELA-038), incluindo 20 crianças com
+idade entre 16 meses e 4 anos, e 8 crianças entre 5 e 7 anos no início do estudo, o perfil de segurança para doses
+semanais de 0,5 mg/kg de ELAPRASE foi similar ao observado em estudos clínicos anteriores, com quase todas
+as reações adversas sendo relacionadas a infusão, com exceção do vômito.
+Estudo clínico em pacientes com 7 anos ou menos
+Um estudo de segurança de 53 semanas, aberto, de braço único, com tratamento de ELAPRASE 0,5 mg/kg uma
+vez por semana, foi realizado em pacientes com síndrome de Hunter, com idades entre 16 meses e 4 anos (n=20)
+e idades 5 a 7,5 anos (n=8). Os pacientes apresentaram reações adversas semelhantes as observadas em ensaios
+Página 16 de 19
+clínicos em pacientes com 5 anos ou mais, após o tratamento com ELAPRASE, sendo as reações adversas mais
+comuns as de hipersensibilidade (57%). Uma maior incidência das seguintes reações de hipersensibilidade
+comuns foram relatadas nesta faixa etária mais jovem: pirexia (36%), erupção cutânea (32%) e vômito (14%).
+As reações adversas graves mais comuns ocorrendo em pelo menos 10% dos pacientes (≥3 pacientes) incluiu:
+broncopneumonia/pneumonia (18%), infecção de ouvido (11%) e pirexia (11%).
+Vinte e sete pacientes tiveram resultados de análise genotípica: 15 pacientes tiveram deleção completa de gene,
+grande rearranjo genético, nonsense, frameshift ou mutação splice e 12 pacientes tiveram mutações missense.
+Os resultados de segurança demonstraram que pacientes com deleção genética completa, grande rearranjo
+gênico, mutações nonsense, frameshift ou mutação splice têm maior probabilidade de apresentar reações de
+hipersensibilidade e reações adversas graves após a administração de ELAPRASE, em comparação aos pacientes
+com mutações missense. A Tabela 10 resume essas descobertas.
+Table 10. Impacto do status do anticorpo e mutações genéticas na ocorrência de reações adversas graves e
+hipersensibilidade em pacientes com 7 anos ou menos tratados com Elaprase
+Anticorpo Anti- Anticorpo Anti-
+idursulfase idursulfase
+(Ab) neutralizante
+(Nab)
+Total Positivo Negativo Positivo Negativo
+Status do anticorpo reportadoo (pacientes) 28 19 9 15 13
+Reações Adversas Graves* (pacientes) 13 11 2 9 4
+Hipersensibilidade (pacientes) 16 12 4 10 6
+Pacientes com dados genotípicos 27
+Mutação Status Anticorpo 12 3 9 1 11
+Missense
+Reações Adversas 2 0 2 0 2
+(n=12)
+Graves
+Reações de 5 1 4 0 5
+hipersensibilidade
+Deleção Status Anticorpo 15 15 0 13 2
+complete do
+Reações Adversas 9 9 0 7 2
+gene,
+Mutações Graves
+Grande
+Reações de 11 11 0 10 1
+Rearranjo
+hipersensibilidade
+Gênicot,
+Mutações
+Nonsense,
+Frameshift,
+Splice Site
+(n=15)
+* Reações Adversas Graves incluem: broncopneumonia/pneumonia, infecções ouvido e pirexia.
+Imunogenicidade
+Em 4 estudos clínicos (TKT08, TKT018, TKT024, TKT024EXT) que avaliaram a imunogenicidade, 53/107
+(50%) pacientes expostos ao ELAPRASE desenvolveram anticorpos IgG anti-idursulfase. Todas as amostras de
+Página 17 de 19
+soro positivas para IgG foram testadas para a atividade de anticorpos neutralizantes (NAb). Um máximo de 26
+de 107 pacientes (24,3%) testou positivo para qualquer NAb em algum momento durante o tratamento com
+idursulfase.
+Em uma análise pós-hoc da imunogenicidade no TKT024/024EXT, aproximadamente metade (51%) dos
+pacientes expostos ao ELAPRASE semanal 0,5 mg/kg durante 2 anos desenvolveram uma resposta de anticorpos
+e 13% desenvolveram uma resposta neutralizante persistente definida como 3 amostras consecutivas positivas
+para NAb. Não houve associação estatisticamente significativa entre o status de anticorpos e o efeito do
+ELAPRASE nos desfechos clínicos (6MWT ou %FVC). Todos os grupos de status de anticorpos apresentaram
+melhora com ELAPRASE, embora a magnitude do efeito tenha sido menos acentuada em pacientes com
+anticorpos positivos. Da mesma forma, os níveis de uGAG diminuíram em todos os grupos de status de
+anticorpos, mas houve uma diminuição leve a moderada na magnitude da resposta do uGAG induzida pelo
+ELAPRASE em pacientes com anticorpos, anticorpos neutralizantes e aqueles que testaram positivo para
+anticorpos em pelo menos três visitas consecutivas.
+O estudo clínico HGT-ELA-038 avaliou a imunogenicidade em crianças de 16 meses a 7,5 anos. Durante o
+estudo de 53 semanas, 67,9% (19 de 28) dos pacientes apresentaram pelo menos uma amostra de sangue que deu
+positivo para anticorpos anti-ELAPRASE, e 57,1% (15 de 28) testaram positivo para anticorpos em pelo menos
+três consultas consecutivas do estudo. Cinquenta e quatro por cento desses pacientes testaram positivo para
+anticorpos neutralizantes pelo menos uma vez e metade dos pacientes testaram positivos para neutralizantes em
+pelo menos três consultas consecutivas do estudo.
+Houve uma clara ligação entre genótipo e imunogenicidade. Todos os pacientes com genótipo de deleção
+completa/amplo rearranjo desenvolveram anticorpos, e a maioria deles (7/8) também testou positivo para
+anticorpos neutralizantes em pelo menos 3 ocasiões consecutivas. Todos os pacientes com o genótipo de
+mutação do local frameshift/splice desenvolveram anticorpos e 4/6 também testaram positivo para anticorpos
+neutralizantes em pelo menos 3 visitas consecutivas do estudo. Os pacientes com anticorpos negativos foram
+encontrados exclusivamente no grupo de genótipo da mutação missense.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed disponível no Portal da Anvisa.
+10. SUPERDOSE
+Há informações limitadas sobre sobredose com ELAPRASE. Evidências sugerem que os pacientes podem
+apresentar uma reação anafilactóide devido à superdose.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+MS - 1.0639.0300
+Farm. Resp.: Alex Bernacchi, CRF-SP 33.461
+Fabricado e embalado (emb. primária) por:
+ou por:
+Cangene BioPharma LLC Vetter Pharma-Fertigung GmbH & Co. KG
+Baltimore, Estados Unidos da América Langenargen, Alemanha
+Página 18 de 19
+Vide cartucho para confirmar o local de fabricação do produto.
+Embalado (emb. secundária) por:
+DHL Supply Chain (Netherlands) B.V.
+Wijchen,, Holanda
+Importado por:
+Takeda Pharma Ltda.
+Rodovia SP 340 S/N, km 133,5, Ed. Adm. - Jaguariúna-SP
+CNPJ/MF: 60.397.775/0001-74
+SAC 0800 771 0345
+USO RESTRITO A HOSPITAIS.
+VENDA SOB PRESCRIÇÃO MÉDICA.
+ELA_0120_0324_VPS
+Página 19 de 19
+ELAPRASE®
+(idursulfase)
+Ministério da Saúde
+Takeda Pharma Ltda.
+Solução Injetável
+2 mg/mL
+ELAPRASE®
+idursulfase
+APRESENTAÇÃO
+Solução injetável, 2 mg/mL. Embalagem com 1 frasco-ampola com 3 mL.
+VIA INTRAVENOSA
+USO ADULTO E PEDIÁTRICO
+COMPOSIÇÃO
+Cada mL de solução injetável contém 2,0 mg de idursulfase (6,0 mg por frasco).
+Excipientes: cloreto de sódio, fosfato de sódio dibásico heptaidratado, fosfato de sódio monobásico
+monoidratado, polissorbato 20 e água para injetáveis.
+1. INDICAÇÕES
+ELAPRASE está indicado para o tratamento de pacientes com a síndrome de Hunter (Mucopolissacaridose II-
+MPS II).
+ELAPRASE tem demonstrado melhorar a capacidade de caminhar destes pacientes.
+2. RESULTADOS DE EFICÁCIA
+A segurança e a eficácia de ELAPRASE foram demonstradas em três estudos. Esses estudos foram
+complementados pela demonstração de administração segura pelo estudo HGT-ELA-038 em crianças de 16
+meses a 7,5 anos de idade.
+.
+Um total de 108 pacientes do sexo masculino com síndrome de Hunter foi incluído em 2 estudos clínicos
+randomizados controlados por placebo, e aqueles que concluíram os estudos clínicos continuaram o tratamento
+em 2 estudos de extensão abertos.
+Estudos TKT008, TKT018
+Em um estudo de Fase I/II de 24 semanas, duplo-cego, controlado por placebo (TKT008), 12 pacientes com
+síndrome de Hunter foram recrutados e 9 pacientes receberam tratamento com idursulfase em doses de 0,15
+mg/kg (N = 3), 0,5 mg /kg (N=3) e 1,5 mg/kg (N=3) em semanas alternadas; 3 pacientes foram randomizados
+para placebo. A idade dos pacientes variou de 6 a 20 anos. Neste estudo, os níveis de GAG diminuíram em todos
+os pacientes tratados em comparação ao placebo. Além disso, os volumes hepático e esplênico diminuíram em
+todos os pacientes tratados com ELAPRASE. A função pulmonar (medida pela capacidade vital forçada (FVC) e
+volume expiratório forçado em 1 segundo (FEV1) também melhorou nos grupos de dose de 0,5 e 1,5 mg/kg.
+Os 12 pacientes do estudo controlado por placebo de Fase I/II foram posteriormente inscritos em um estudo de
+extensão aberto (TKT018). Após aproximadamente 8 a 18 meses do início do tratamento com ELAPRASE,
+todos os pacientes passaram para uma dose de 0,5 mg/kg a cada duas semanas. Os pacientes tratados por até 66
+Página 1 de 19
+meses apresentaram diminuição ou normalização dos volumes hepático e esplênico, estabilizados no teste de
+caminhada de 6 minutos (ou 6MWT). Seis dos 12 pacientes tratados apresentaram níveis de GAG na urina
+abaixo do limite superior do normal (definido como 126,6 μg GAG/mg creatinina) na última observação do
+estudo.
+Estudos TKT 024/024EXT
+Em um estudo clínico de 53 semanas randomizado, duplo-cego e controlado por placebo (TKT024), 96 pacientes
+com síndrome de Hunter receberam ELAPRASE 0,5 mg/kg por semana (N=32) ou a cada duas semanas (N=32),
+ou placebo (N=32). A idade dos pacientes variou de 5 a 31 anos. O estudo incluiu pacientes com deficiência
+documentada na atividade da enzima iduronato-2-sulfatase que tinham uma porcentagem da capacidade vital
+forçada predita (%FVC predita) inferior a 80%, e um amplo espectro de gravidade da doença. A avaliação do
+desfecho de eficácia primária foi a distância percorrida durante o teste de caminhada de seis minutos (6-MWT)
+como medida de resistência e %FVC predita como medida de função pulmonar. O desfecho primário foi a
+pontuação composta de dois componentes baseado na soma das classificações da alteração a partir do basal até a
+Semana 53 no 6-MWT e %FVC predita entre o grupo tratado com ELAPRASE semanal e o grupo placebo. No
+estudo de extensão (TKT024EXT) no qual todos os pacientes recebiam idursulfase semanal, aumentos médios
+estatisticamente significativos do tratamento basal foram observados na distância percorrida no 6-MWT na
+maioria dos tempos testados, com aumentos médios e percentuais significativos variando de 13,7 m a 41,5 m
+(máximo no mês 20) e de 6,4% a 13,3%, respectivamente, (máximo no mês 24). Na maioria dos momentos
+testados, os pacientes do grupo Semanal original do TKT024 melhoraram sua distância percorrida em maior
+medida do que os pacientes nos outros 2 grupos de tratamento.
+No estudo TKT024, o desfecho primário composto de 2 componentes diferiu significativamente do placebo tanto
+para os grupos de tratamento semanal quanto a cada duas semanas (EOW) (idursulfase semanal vs. placebo,
+p=0,0049 (ver Figura 1); EOW idursulfase vs. placebo, p=0,0416).
+Figura 1. Média Ajustada, Pontuações Compostas de Dois Componentes Classificadas no Basal e na Semana 53:
+grupos semanais e EOW (estudo TKT024)
+Página 2 de 19
+p
+p=0.0049
+p=0.0416
+Página 3 de 19
+)ES
+-/+(
+naeM
+detsujdA
+80
+70
+60
+50
+40
+30
+WSeemeaknlyal Placebo EOW Placebo
+Treatment
+Análises individuais dos componentes da pontuação composta mostraram que, para o 6MWT, a diferença da
+média ajustada do grupo de idursulfase semanal em metros percorridos a partir do basal até a Semana 53 foi de
+35,1 metros em relação ao placebo (p=0,0131). O percentual de FVC predito no grupo semanal foi 4,3% maior
+em relação ao placebo (p=0,0650, ver Tabela 1).
+Como os pacientes com síndrome de Hunter têm distúrbios intrínsecos de crescimento devido à displasia
+esquelética, as alterações absolutas de volume no FVC também foram avaliadas. As alterações médias ajustadas
+a partir do basal até a Semana 53 no FVC absoluto mostraram um efeito significativo no grupo tratado com
+ELAPRASE semanal em comparação com o placebo (diferença de 0,19 L p=0,0011), como mostrado na Tabela
+1.
+Tabela 1. Alteração a partir do basal no 6MWT e FVC, comparado ao Placebo (N=32/grupo de
+tratamento) na Semana 53. (Estudo TKT024)
+Alteração da
+Diferença em Intervalo de
+Média Ajustada a
+comparação com confiança de Valor-p b
+partir do basal
+o placebo (SE) a 95%
+(EP) a
+Distância Total Percorrida no 6MWT (metros)
+Idursulfase semanal 37,0 (10,9) 35,1 (13,7) 7,66, 62,5 0,0131
+FVC (% do normal predito)
+Idursulfase semanal 1,3 (1,7) 4,3 (2,3) -0,3, 8,8 0,0650
+FVC (L)
+Idursulfase semanal 0,18 (0,04) 0,19 (0,06) 0,08, 0,3 0,0011
+a Médias ajustadas (LS) e erros padrão (SEs) do modelo ANCOVA ajustado
+b Os efeitos do modelo são região, tratamento, idade do paciente no basal (3 níveis) e gravidade do 6MWT ou
+FVC no basal [dependendo da análise] (3 níveis).
+)PE(
+adatsuja
+aidém
+p=0,0049
+p=0,0416
+A cada duas
+semanas
+Tratamento
+Também foi observada melhora na função respiratória na análise do valor absoluto de FEV1 associado ao
+melhor valor absoluto de FVC ou o melhor esforço (se os valores de FVC fossem idênticos). Um total de 11/31
+(36%) pacientes do grupo ELAPRASE semanal e 5/31 (16%) pacientes do grupo placebo apresentaram um
+aumento no FEV1 de pelo menos 200 mL antes ou na Semana 53, indicando uma melhora relacionada à dose na
+obstrução das vias aéreas. Os pacientes do grupo tratado com ELAPRASE semanal apresentaram uma melhora
+média clinicamente significativa de 15% no FEV na Semana 53. No estudo de extensão (TKT024EXT), foram
+1
+observados aumentos estatisticamente significativos a partir do tratamento basal no volume absoluto de FVC
+para na maioria das visitas para todos os pacientes e para cada um dos grupos de tratamento anteriores do
+TKT024. As alterações médias variaram de 0,07 L a 0,31 L e as alterações percentuais variaram de 6,3% a
+25,5% (máximo no mês 30). As alterações médias e percentuais a partir do tratamento basal foram maiores no
+grupo TKT024 Semanal em todos os momentos. O percentual de FVC predita permaneceu estável em todos os
+pacientes com síndrome de Hunter tratados por 2 a 3 anos com idursulfase 0,5 mg/kg semanalmente.
+A atividade ELAPRASE também foi avaliada medindo alterações nos níveis de GAG na urina, volumes hepático
+e esplênico (Tabela 2), e alterações na massa ventricular esquerda.
+Tabela 2. Alteração a Partir do Basal nos Volumes Hepático e Esplênico, comparado com Placebo
+(n=32/grupo de dose) na Semana 53 (Estudo TKT024)
+Alteração da Diferença em
+Média Ajustada a Comparação Intervalo de
+partir do Basal com o placebo confiança de
+(EP) a (EP) a 95% Valor-p b
+Volume hepático (% de alteração)
+Idursulfase semanal -25,6 (1,7) -25,2 (2,2) -29,6, -20,8 < 0,0001
+Volume esplênico (% de alteração)
+Idursulfase semanal -25,1 (3,5) -33,2 (4,8) -42,8, -23,6 < 0,0001
+a Médias Ajustadas (LS) e EPs do modelo ANCOVA ajustado
+b Os efeitos do modelo são região, tratamento, idade do paciente no basal e volume hepático ou esplênico no
+basal [dependendo da análise] (3 níveis).
+No grupo de tratamento semanal (Estudo TKT024), os volumes hepático e esplênico foram estatisticamente e
+significativamente menores em comparação com o placebo (p<0,0001). Um subconjunto de pacientes nos grupos
+de tratamento semanal e placebo teve hepatomegalia no basal (25 pacientes no ELAPRASE semanal e 23 no
+placebo). Dos 25 pacientes com fígados anormalmente aumentados no basal no grupo de tratamento de
+ELAPRASE semanal, 20 pacientes (80%) apresentaram reduções no volume hepático para dentro da faixa
+normal até a Semana 53. Em contraste, apenas 1 paciente no grupo placebo apresentou um volume hepático
+normal na Semana 53.
+A maioria dos pacientes em todos os 3 grupos de tratamento apresentou um volume esplênico normal no basal.
+Nove dos 32 pacientes do grupo ELAPRASE semanal apresentavam baços anormalmente aumentados no basal.
+Desses 9 pacientes, 6 apresentaram baços que permaneceram aumentados até a Semana 53 e 3 pacientes
+apresentaram volumes esplênicos que normalizaram até a Semana 53.
+Página 4 de 19
+A diminuição dos volumes hepático e esplênico na semana 53 foi mantida durante o estudo de extensão
+(TKT024EXT) em todos os pacientes, independentemente da designação prévia de tratamento no TKT024.
+Setenta e um dos 94 pacientes apresentavam hepatomegalia no basal. O volume hepático normalizou-se no Mês
+24 para 73% (52 de 71) desses pacientes. Além disso, o volume médio do fígado diminuiu próximo a uma
+extensão máxima no Mês 8 em todos os grupos de tratamento do TKT024, aumentando ligeiramente a partir
+deste nadir no Mês 36. Diminuições no volume médio do fígado foram observadas independentemente da idade,
+gravidade da doença, status de anticorpos IgG ou status de anticorpo neutralizante. Para a população do estudo
+como um todo, o volume médio do baço também diminuiu rapidamente após o início da idursulfase e
+permaneceu bem abaixo do volume basal médio durante o estudo de extensão.
+As mulheres heterozigotas não foram estudadas por nossos ensaios clínicos.
+Estudo HGT-ELA-038
+Um estudo aberto, multicêntrico, braço-único (HGT-ELA-038) foi conduzido para avaliar a segurança das
+infusões de ELAPRASE em pacientes do sexo masculino com a Síndrome de Hunter de 16 meses a 7,5 anos de
+idade. Além disso, o estudo avaliou a eficácia, resultados clínicos e a farmacocinética de ELAPRASE nessa
+população de pacientes.
+A segurança foi monitorada ao longo do estudo pelas avaliações de eventos adversos (EAs), medicamentos e
+procedimentos cirúrgicos concomitantes, sinais vitais, exames físicos e testes laboratoriais clínicos (bioquímica
+clínica, hematologia e urinálise). Os testes para anticorpos anti-idursulfase foram realizados no basal e nas
+Semanas 9, 18, 27, 36, 45 e 53. O desfecho primário farmacodinâmico deste estudo foi a medição da depuração
+urinária de GAG. Os desfechos exploratórios de eficácia incluíram alteração média no tamanho do fígado e no
+volume esplênico medido por ultrassom.
+Todos os grupos de pacientes apresentaram uma diminuição nos níveis urinários de uGAG, tamanho do fígado e
+volume esplênico após o início do tratamento com ELAPRASE. Pacientes com genótipo de deleção completa/
+amplo rearranjo apresentaram uma diminuição menos acentuada nos níveis de uGAG do que pacientes com o
+genótipo de mutação missense. Nos pacientes com a genótipo de deleção completa/amplo rearranjo, a resposta
+inicial foi seguida por um aumento no tamanho do fígado para aproximadamente valores basais em 53 semanas e
+o volume esplênico também aumentou, mas permaneceu abaixo dos valores basais em 53 semanas. Pacientes
+com genótipo de frameshift/splice apresentaram resposta menos pronunciada ao ELAPRASE. Esses resultados
+baseados no genótipo são consistentes com a análise baseada em anticorpos, que mostrou que pacientes com
+anticorpos e anticorpos neutralizantes tiveram uma diminuição ligeiramente menos pronunciada no uGAG,
+tamanho do fígado e volume esplênico. No entanto, pacientes individuais com um genótipo de deleção
+completa/amplo rearranjo e altos títulos de anticorpos apresentaram uma resposta terapêutica semelhante ou
+melhor do que alguns pacientes com um genótipo de mutação missense e sem resposta a anticorpos.
+Referências Bibliográficas
+HGT-ELA-038: Giugliani R, Harmatz P, Jones SA, et al. Evaluation of impact of anti-idursulfase antibodies
+during long-term idursulfase enzyme replacement therapy in mucopolysaccharidosis II patients. Mol Genet
+Metab. 2017;12:2-7.
+TKT008 – Muenzer J, Gucsavas-Calikoglu M, McCandless SE et al. A phase I/II clinical trial of enzyme
+replacement therapy in mucopolysaccharidosis II (Hunter syndrome), Mol Genet Metab. 2007; 90(3): 329-337
+Página 5 de 19
+TKT024 - Muenzer J, Wraith JE, Beck M, et al. A phase II/III clinical study of enzyme replacement therapy with
+idursulfase in mucopolysaccharidosis II (Hunter syndrome). Genet Med. 2006 Aug;8(8):465-73 Erratum in:
+Genet Med. 2006 Sep;8(9):599.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+ELAPRASE é uma formulação de idursulfase, forma purificada da iduronato-2-sulfatase, uma enzima
+lisossômica. A idursulfase é produzida por tecnologia de DNA recombinante em linhagens de células humanas
+conferindo um perfil de glicosilação humano, que é análogo à enzima de ocorrência natural.
+Mecanismo de ação
+A síndrome de Hunter é uma doença recessiva ligada ao cromossomo X causada por níveis insuficientes de
+enzima lisossomal iduronato-2-sulfatase. A Iduronato-2-sulfatase (I2S) cataboliza os glicosaminoglicanos
+dermatan sulfato e heparan sulfato, por clivagem de porções de sulfato ligadas a oligossacarídeos. Devido à
+ausência ou deficiência da enzima I2S em pacientes com síndrome de Hunter, os GAGs se acumulam
+progressivamente nos lisossomas de uma variedade de células, levando ao ingurgitamento celular, a
+organomegalia, a destruição de tecido e a disfunção do sistema de órgãos.
+A idursulfase é uma forma purificada da I2S humana e é produzida por tecnologia de DNA recombinante em
+linhagem celular humana. A idursulfase é expressa como uma única cadeia polipeptídica de 550 aminoácidos,
+que, após a remoção de um peptídeo sinal, é segregada como uma glicoproteína de 525 aminoácidos. A enzima
+contém 8 locais de glicosilação ligados a N que são ocupados por cadeias de oligossacarídeos do tipo complexo,
+híbrido e de alta manose. A idursulfase tem um peso molecular de aproximadamente 76 kD.
+O tratamento de pacientes com síndrome de Hunter com idursulfase intravenosa fornece enzima exógena para
+absorção pelos lisossomas celulares. Resíduos de manose-6-fosfato nas cadeias de oligossacarídeos permitem a
+ligação específica da enzima aos receptores M6P na superfície celular, levando à internalização celular da
+enzima, direcionando para lisossomas intracelulares e subsequente catabolismo de GAGs acumulados.
+Farmacodinâmica
+.
+Foram observadas diminuições nos níveis urinários de GAG após o tratamento com ELAPRASE. A resposta do
+GAG urinário às alterações de dosagem de ELAPRASE é desconhecida, e a relação do GAG urinário com outras
+medidas de resposta clínica não foi estabelecida. Os pacientes que testaram positivo para anticorpos anti-
+idursulfase (Ab) experimentaram uma diminuição menos pronunciada nos níveis urinários de GAG.
+Farmacocinética
+A idursulfase é captada por mecanismos seletivos mediados por receptores que envolvem a ligação a receptores
+da manose-6-fosfato. Após a captação pelas células, localiza-se no interior dos lisossomas celulares, limitando
+assim a distribuição da proteína. A degradação da idursulfase é realizada por mecanismos de hidrólise de
+proteínas geralmente bem compreendidos que produzem pequenos peptídeos e os e aminoácidos; em
+consequência, não é de esperar que o compromisso renal e hepático afete a farmacocinética da idursulfase.
+Página 6 de 19
+As características farmacocinéticas (PK) do ELAPRASE foram avaliadas em alguns estudos em pacientes com
+síndrome de Hunter. A área da curva tempo-concentração aumentou de forma proporcional, à medida que a dose
+aumentou de 0,15 mg/kg para 1,5 mg/kg após uma única infusão de 1 hora de ELAPRASE..
+A PK foi avaliada na Semana 1 e na Semana 27 em 10 pacientes que receberam 0,5 mg/kg de ELAPRASE
+semanalmente na forma de infusão de 3 horas no estudo TKT024 (ver Tabela 4). Não houve diferenças nos
+parâmetros PK como resultado da repetição da dosagem do ELAPRASE. O tempo para a concentração sérica
+máxima (Tmáx) geralmente coincidiu com o fim da infusão do ELAPRASE.
+Tabela 4 - Parâmetros Farmacocinéticos Médios no Estudo TKT024 (n=10)a
+Parâmetros farmacocinéticos Semana 1 (DP) Semana 27 (DP)
+C (µg/mL) 1,5 (0,6) 1,1 (0,3)
+max
+AUC (min x µg/mL) 206 (87) 169 (55)
+t (min) 44 (19) 48 (21)
+1/2
+Cl (mL/min/kg) 3,0 (1,2) 3,4 (1,0)
+V (% PC) 21 (8) 25 (9)
+ss
+a n = 10 é um subconjunto de pacientes em TKT024 com parâmetros PK avaliáveis nas semanas 1 e 27.
+No estudo TKT024EXT, no qual os pacientes receberam idursulfase 0,5 mg/ kg semanalmente como uma
+infusão de 3 horas, não houve alterações nos parâmetros de farmacocinética com dosagem repetida (semana 18,
+n = 68) e os parâmetros de farmacocinética foram semelhantes aos do estudo TKT024. Não houve efeito dos
+anticorpos anti-idursulfase IgG na PK da idursulfase
+A farmacocinética também foi avaliada no estudo HGT-ELA-038 em pacientes entre 16 meses e 7,5 anos de
+idade que receberam 0,5 mg/kg de ELAPRASE em infusão de 3h de duração. A farmacocinética foi avaliada na
+semana 1 (n=27) e na semana 27 (n=19) (vide Tabela 5). As concentrações séricas estavam abaixo do limite
+inferior de quantificação (LLOQ) em todos os pontos de tempo em 8 dos 27 indivíduos (30%) na semana 27, e
+mensurável somente em alguns pontos de tempo nos demais 19 indivíduos (70%). Os perfis farmacocinéticos de
+todos os 11 indivíduos anticorpos-negativos na semana 27 foram similares aos perfis na semana 1. Os 8
+indivíduos anticorpos-positivos com concentrações séricas mensuráveis, exibiram taxa de depuração
+significantemente altas na semana 27 quando comparada à semana 1. Maiores informações sobre a
+imunogenicidade na eficácia e segurança estão descritas no item 9. REAÇÕES ADVERSAS, Imunogenicidade.
+Tabela 5 Parâmetros Farmacocinéticos Médios no Estudo HGT-ELA-038 (n=27)
+Parâmetro Média da Semana 1 Média da Semana 27 Média da Semana 27
+(DP) Anticorpos IgG anti-idursulfase Anticorpos IgG anti-idursulfase
+n=27 negativo (DP)** positivo (DP)***
+n=11 n=8
+Cmáx (μg/mL) 1,3 (0,8) 1,4 (0,4) 0,6 (0,5)
+Página 7 de 19
+ASC0-∞ (min*μg/mL) 224,3 (76,9) 269,9 (78,3) 93,1 (81,8)
+t1/2 (min) 160 (69) 138(24) 64 (19)
+Cl (mL/min/kg) 2,4 (0,7) 2,0 (1,0) 8,9 (6,1)
+Vss (mL/Kg) 394 (423) 280 (102) 977 (653)
+* Valores de t ½ estimados na fase terminal de 240 min até o último ponto de dados mensurável
+**Pacientes na Semana 27 que testaram negativo para anticorpos IgG anti-idursulfase
+***Pacientes na Semana 27 que testaram positivo para anticorpos IgG anti-idursulfase
+.
+A exposição sistêmica (C e AUC0-∞) e a depuração (Cl e Vss) de ELAPRASE observados na semana 1 nos
+max
+estudos TKT024 e HGT-ELA-038 estão resumidos na Tabela 4, na Tabela 5 e na Tabela 6.
+Na análise, os pacientes no TKT024 foram segmentados por idade em populações pediátrica (5 a 11 anos; n =
+11), adolescente (12 a 18 anos; n=8) e adulto (> 18 anos; n=9).*
+Tabela 6 Parâmetros farmacocinéticos em função da Idade nos Estudos TKT024 e HGT-ELA-038 (Semana 1)
+Estudo
+HGT-ELA-038 TKT024
+Idade (anos) 1,4 a 7,5 5 a 11 12 a 18 > 18
+(n=27) (n=11) (n=8) (n=9)
+Cmáx (μg/mL) 1,3 ± 0,8 1,6 ± 0,7 1,4 ± 0,3 1,9 ± 0,5
+Média ± DP
+ASC0-∞ 224,3 ± 76,9 238 ± 103,7 196 ± 40,5 262 ± 74,5
+(min*μg/mL)
+Média ± DP
+CL (mL/min/kg) 2,4 ± 0,7 2,7 ± 1,3 2,8 ± 0,7 2,2 ± 0,7
+Média ± DP
+Vss (mL/kg) 394 ± 423 217 ± 109 184 ± 38 168 ± 32
+Média ± DP
+Na Semana 1, ELAPRASE demonstrou comportamentos de exposição sistêmica (ou seja, Cmáx e ASC) e taxas
+de depuração (ou seja, CL) comparáveis em diferentes faixas etárias.
+A exposição sistêmica (Cmáx e ASC0-∞) e a depuração (CL e Vss) do ELAPRASE observadas na semana 1
+para os estudos TKT024 e HGT-ELA 038 estão resumidos na Tabela 8. Na análise, os pacientes dos estudos
+TKT024 e HGT-ELA-038 foram estratificados em cinco categorias de peso; < 20 kg, ≥ 20 e < 30 kg, ≥ 30 e < 40
+kg, ≥ 40 e < 50 kg e ≥ 50 kg.
+Tabela 7 Parâmetros farmacocinéticos em função do peso corporal nos estudos TKT024 e HGT-ELA-038 (Semana 1)
+<20 ≥ 40 e < 50 (n=5) ≥ 50
+≥ 20 e < 30
+Peso (kg) (n=17) ≥ 30 e < 40 (n=9) (n=6)
+(n=18)
+Página 8 de 19
+Cmáx (μg/mL)
+1,2 ± 0,3 1,5 ± 1,0 1,7 ± 0,4 1,7 ± 0,7 1,7 ± 0,7
+Média ± DP
+ASC0-∞
+(min*μg/mL) 206,2 ± 33,9 234,3 ± 103,0 231,1 ± 681,0 260,2 ± 113,8 251,3 ± 86,2
+Média ± DP
+CL (mL/min/kg)
+2,5 ± 0,5 2,6 ± 1,1 2,4 ± 0,6 2,4 ± 1,0 2,4 ± 1,1
+Média ± DP
+Vss
+(mL/kg) 321 ± 105 397 ± 528 171 ± 52 160 ± 59 181 ± 34
+Média ± DP
+Os principais parâmetros farmacocinéticos para ELAPRASE foram comparáveis entre os diferentes grupos de
+peso. Esses resultados indicam que a exposição sistêmica total e a taxa de depuração do ELAPRASE não são
+afetadas pelo peso corporal. No entanto, observou-se maior volume de distribuição no estado de equilíbrio (Vss)
+nos grupos de menor peso.
+De forma geral, não houve tendência aparente nem para a exposição sistêmica nem para taxa de depuração de
+ELAPRASE em relação a idade ou ao peso corporal.
+4. CONTRAINDICAÇÕES
+ELAPRASE está contraindicado para indivíduos hipersensíveis à idursulfase ou a qualquer outro componente da
+fórmula.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Pacientes tratados com ELAPRASE podem desenvolver reações relacionadas à infusão [ver REAÇÕES
+ADVERSAS]. Em estudos clínicos, as reações relacionadas à infusão mais comuns incluíram reações cutâneas
+(erupção cutânea, prurido e urticária), pirexia, cefaleia, hipertensão e rubor. As reações relacionadas à infusão
+foram tratadas ou amenizadas pela redução da taxa de infusão, interrupção da infusão, ou por administração de
+medicamentos, como anti-histamínicos, antipiréticos, corticosteroides de baixa dose (prednisona e
+metilprednisolona), ou nebulização com beta-agonista. Nenhum paciente interrompeu o tratamento com
+ELAPRASE devido a uma reação à infusão durante os estudos clínicos.
+Reações graves relacionadas à infusão têm sido relatadas em pacientes com doença subjacente grave das vias aéreas.
+Portanto, especificamente esses pacientes devem ser monitorados de perto e infundidos com ELAPRASE em um
+ambiente clínico adequado. Considere adiar a infusão de ELAPRASE em pacientes que apresentam uma doença
+respiratória febril aguda. Pacientes que usam oxigênio suplementar devem ter este tratamento prontamente
+disponível durante a infusão no caso de uma reação relacionada à infusão.
+As reações anafilactóides/anafiláticas, que têm potencial para serem fatais, têm sido observadas em alguns pacientes
+tratados com ELAPRASE até vários anos após o início do tratamento. Sintomas emergentes tardios e sinais de
+Página 9 de 19
+reações anafilactóides/anafiláticas foram observados até 24 horas após uma reação inicial. Se uma reação
+anafilactóide/anafilática ocorrer, a infusão de ELAPRASE deve ser imediatamente suspensa e iniciados o
+tratamento apropriado e a observação. Os padrões médicos atuais para o tratamento de emergência devem ser
+seguidos. Pacientes que apresentam reações anafilactóides/anafiláticas graves ou refratárias podem exigir um
+acompanhamento clínico prolongado.
+Uso em crianças
+O uso de ELAPRASE demonstrou ser seguro em crianças e adolescentes entre 16 meses e 18 anos de idade.
+O perfil de segurança para doses semanais de 0,5 mg/kg de ELAPRASE foi similar ao observado em estudos
+clínicos anteriores, com exceção do vômito.
+Nos pacientes de 16 meses a 5 anos de idade, não há dados disponíveis demonstrando a melhoria dos sintomas
+relacionados à doença ou dos desfechos clínicos em longo prazo. No entanto, o tratamento com ELAPRASE
+reduziu o volume do baço de modo similar ao observado em adultos e em crianças maiores de 5 anos de idade. A
+segurança e eficácia em pacientes com idade inferior a 16 meses ainda não foi estabelecida.
+Uso em idosos
+Os estudos clínicos realizados com o ELAPRASE não incluíram pacientes com idade igual ou superior a 65
+anos.
+Pacientes com deleção completa/grande rearranjo de genótipo
+Pacientes com deleção completa estão mais sujeitos a manifestar uma forma grave de MPS II quando
+comparados com outros genótipos conhecidos. Pacientes pediátricos com deleção completa/grande rearranjo de
+genótipo possuem alta probabilidade de desenvolver anticorpos, incluindo anticorpos neutralizantes (AcN), em
+resposta ao ELAPRASE. Pacientes com esse genótipo possuem alta probabilidade de desenvolver reações
+adversas relacionadas à infusão e tendem a demonstrar uma resposta menor, como avaliado pela queda nos
+níveis de GAG urinário, tamanho do fígado e volume do baço, quando comparados aos pacientes com genótipo
+missense. Em geral, pacientes com o genótipo de mutação frameshift/splice desenvolvem respostas aos
+anticorpos entre as observadas em pacientes com genótipos de deleção completa/amplo rearranjo e o genótipo
+missenses. No entanto, em estudos clínicos, foi observado que alguns indivíduos com genótipo de deleção
+completa e altos títulos de anticorpos apresentaram uma resposta terapêutica semelhante ou melhor do que
+alguns pacientes com um genótipo de mutação missense e nenhuma resposta aos anticorpos.
+Fertilidade
+Não foram estudadas nos ensaios clínicos mulheres heterozigotas.
+Não foram realizados estudos de fertilidade em humanos. Não foram observados efeitos sobre a fertilidade em
+doses intravenosas até 5mg/Kg de ELAPRASE administrado duas vezes na semana (cerca de 1.6 vezes a dose
+semanal recomendada para humanos com base na área de superfície corporal) em estudos reprodutivos
+realizados em ratos machos.
+Página 10 de 19
+Uso em mulheres grávidas (Categoria C)
+.
+Não existem estudos adequados e bem controlados com o uso de ELAPRASE em mulheres grávidas. Os dados
+disponíveis de um pequeno número de casos pós-comercialização com o uso de ELAPRASE na gravidez são
+insuficientes para informar os riscos associados ao medicamento para grandes defeitos congênitos, aborto
+espontâneo ou resultados maternos ou fetais adversos. Em um estudo de reprodução animal, nenhuma evidência
+de efeitos adversos no desenvolvimento pré e pós-natal foi observada com a administração intravenosa de
+idursulfase duas vezes por semana a ratas grávidas desde o 6º dia de gestação até o 19º dia de lactação em cerca
+de 4 vezes a dose semanal humana recomendada de 0,5 mg/kg com base na área de superfície corporal.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Lactação
+Desconhece-se se a idursulfase é excretada no leite humano. Os dados disponíveis em animais mostraram
+excreção da idursulfase no leite. Não pode ser excluído qualquer risco para os recém-nascidos/lactentes. Os
+benefícios do aleitamento materno para o desenvolvimento e para a saúde devem ser considerados juntamente
+com a necessidade clínica da mãe de ELAPRASE e quaisquer efeitos adversos potenciais sobre a criança
+amamentada por ELAPRASE ou pela condição materna subjacente.
+Insuficiência hepática
+Como a idursulfase não é eliminada através de mecanismos hepáticos, acredita-se que pacientes com
+insuficiência hepática não responderiam de forma diferente ao tratamento com ELAPRASE, e, portanto, não
+exigiriam um ajuste de dose.
+Insuficiência Renal
+Como a idursulfase não é eliminada através de mecanismos renais, acredita-se que pacientes com insuficiência
+renal não responderiam de forma diferente ao tratamento com ELAPRASE, e, portanto, não exigiriam um ajuste
+de dose.
+6. INTERAÇÕES MEDICAMENTOSAS
+Não foram realizados estudos específicos para verificar a interação medicamentosa com ELAPRASE. Como a
+idursulfase é em si uma enzima, ela seria uma candidata improvável para interações medicamentosas mediadas
+pelo citocromo P450
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar sob refrigeração entre 2°C e 8°C. Proteger da luz. Não congelar. Não agitar.
+Prazo de validade: ELAPRASE, solução injetável, tem validade de 36 meses a partir da data de sua fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Página 11 de 19
+A solução deve ser utilizada imediatamente após a diluição. Este produto não contém conservante. Se não for
+possível utilizá-la imediatamente, depois de preparada a solução diluída deve ser armazenada em geladeira a 2°C
+a 8°C por até 24 horas.
+Aparência: ELAPRASE, solução injetável, é uma solução clara a levemente opalescente ou incolor em frasco-
+ampola de vidro.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+ELAPRASE deve ser preparado e administrado por um profissional de saúde.
+Infusões de ELAPRASE em ambiente doméstico podem ser consideradas para pacientes que tiverem recebido
+vários meses de tratamento no hospital e tolerado-as bem. Essas infusões devem ser realizadas sob vigilância de
+um médico ou outro profissional de saúde em ambiente dotado de infraestrutura necessária ao manejo clínico
+relacionado às intercorrências decorrentes de anafilaxia (Home Care).
+Usar Técnicas de Assepsia.
+1. Determine o volume total de ELAPRASE a ser administrado e o número de frascos necessários, com
+base no peso corpóreo do paciente e na dose recomendada de 0,5 mg/kg.
+Peso corpóreo (kg) x 0,5 mg por kg de ELAPRASE ÷2 mg por mL = Volume total de ELAPRASE, em
+mL.
+Volume total de ELAPRASE, em mL ÷ 3 mL por frasco = Número de frascos
+Determine o número necessário de frascos a partir dos quais será retirado o volume a ser administrado.
+Retire a quantidade necessária de frascos da geladeira para permitir que atinjam a temperatura ambiente.
+2. Proceda à inspeção visual de cada um dos frascos de ELAPRASE para verificar se a solução está clara a
+levemente opalescente ou incolor. Não utilize a solução caso esteja com alguma coloração ou com
+partículas. Não agite os frascos.
+3. Retire o volume calculado do número apropriado de frascos.
+4. Dilua o volume total de ELAPRASE em 100 mL de solução 0,9% de cloreto de sódio para injeção,
+USP. Uma vez diluída a solução na bolsa de infusão, homogeneíze gentilmente sem agitar. A solução
+diluída pode ser armazenada em geladeira por um período de até 24 horas.
+5. ELAPRASE é fornecido em frascos de uso único. Caso nem todo o conteúdo de um determinado frasco
+tenha sido utilizado, o restante deverá ser desprezado de acordo com os requisitos locais de disposição
+de materiais.
+ELAPRASE deve ser administrado apenas por via intravenosa.
+Posologia
+O esquema posológico recomendado para o ELAPRASE é de 0,5 mg por kg de peso corpóreo, administrados
+semanalmente por via intravenosa.
+ELAPRASE é uma solução concentrada para infusão intravenosa e deve ser diluída antes da administração, em
+100 mL de solução 0,9% de cloreto de sódio para injeção, USP. Cada frasco de ELAPRASE contém uma
+Página 12 de 19
+solução de 2,0 mg/mL de idursulfase (6,0 mg) equivalente a 6 mg de proteína, em um volume de 3 mL, somente
+para uma única utilização. Recomenda-se o uso de uma bomba de infusão com um filtro de 0,2 μm.
+O volume total de infusão deve ser administrado em um período de 3 horas, o qual pode ser gradualmente
+reduzido para 1 hora caso nenhuma reação relacionada a infusão seja observada. Podem ser necessários períodos
+mais longos de infusão dependendo da reação do paciente, no entanto, o período total de infusão não deve ser
+maior que 8 horas (vide 7. Cuidados de Armazenamento do Medicamento). A velocidade inicial de infusão deve
+ser de 8 mL/h durante os primeiros 15 minutos. Se a infusão estiver sendo bem tolerada pelo paciente, pode-se
+aumentar a velocidade em 8 mL/h a cada 15 minutos para que seja administrado todo o volume no período
+desejado. Contudo, em nenhum momento durante a infusão, a velocidade poderá exceder 100 mL/h. Se
+ocorrerem reações durante a infusão com ELAPRASE, a velocidade da administração deve ser reduzida e/ou
+temporariamente interrompida ou descontinuada, com base na avaliação clínica do paciente (vide 5. Precauções
+e Advertências). ELAPRASE não deve ser administrado com outros medicamentos no mesmo equipo de infusão.
+9. REAÇÕES ADVERSAS
+As reações adversas ao medicamento estão listadas na Tabela 9. As informações estão apresentadas por classe de
+sistema de órgãos e frequência (muito comum ≥1/10; comum ≥1/100, incomum<1/100). Dentro de cada
+agrupamento de frequências, efeitos indesejáveis são apresentados por ordem decrescente de gravidade. Reações
+adversas ao medicamento derivadas de relatos pós-comercialização que não sejam ensaios clínicos de
+intervenção estão marcadas em itálico.
+As reações mais comuns são reações relacionadas à infusão, incluindo reações cutâneas (erupção cutânea,
+prurido, urticária e eritema), pirexia, rubor, chiado, dispneia, cefaleia, vômito, dor abdominal, náusea e dor no
+peito. Uma reação relacionada à infusão foi definida como um EA que ocorreu no dia da infusão (ou seja, dentro
+de 24 horas após receber uma infusão), começou durante ou após a infusão, foi julgado como possivelmente ou
+provavelmente relacionada ao medicamento do estudo, e não foi associada a testes ou avaliações definidas pelo
+protocolo.
+Tabela 8 - Reações Adversas ao Medicamento (ADRs) relatadas com ELAPRASE
+Texto itálico denota evento pós-comercialização
+Reação Adversa ao
+Classe de sistema de
+Categoria de Incidência Medicamento (Termo
+órgãos
+Preferido)
+Distúrbios do sistema Frequência não conhecida Reação anafilactóide/
+imunológico anafilática
+Distúrbios do sistema
+Muito comum: Cefaleia
+nervoso
+Distúrbios cardíacos Comum: Cianose
+Arritmia
+Taquicardia
+Muito comum: Rubor
+Distúrbios vasculares
+Comum: Hipertensão
+Hipotensão
+Página 13 de 19
+Reação Adversa ao
+Classe de sistema de
+Categoria de Incidência Medicamento (Termo
+órgãos
+Preferido)
+Muito comum: Sibilo
+Dispneia
+Distúrbios respiratórios,
+Comum Hipóxia
+torácico e do mediastino
+Broncoespasmo
+Incomum: Taquipneia
+Distúrbios gastrointestinais Muito comum: Vômito
+Dor abdominal
+Náusea
+Comum: Língua inchada
+Dispepsia
+Distúrbios de pele e do Muito comum: Urticaria
+tecido subcutâneo Erupção cutânea
+Prurido
+Eritema
+Distúrbios gerais e Muito comum: Pirexia
+condições no local da Dor no Peito
+administração
+Comum: Inchaço no local da infusão
+Edema na face
+Edema periférico
+Lesões, intoxicação e Muito comum: Reação relacionada à
+complicações do infusão
+procedimento
+Estudos Clínicos
+TKT024
+As reações adversas mais comuns no estudo de 53 semanas (TKT024) foram reações relacionadas à infusão.
+Todas foram relatadas como leves a moderadas em intensidade. 202 reações relacionadas à infusão foram
+relatadas em 22 dos 32 pacientes após a administração de 1580 infusões semanais; 145 reações relacionadas à
+infusão foram relatadas em 22 dos 32 pacientes após a administração de 1629 infusões uma vez a cada duas
+semanas. A frequência de reações relacionadas à infusão diminuiu ao longo do tempo com a continuidade do
+tratamento com ELAPRASE.
+No estudo clínico TKT024, reações adversas graves foram as seguintes: Quatro pacientes apresentaram um
+episódio de hipóxia durante uma ou várias infusões, o que exigiu oxigenoterapia em 3 pacientes com doença
+obstrutiva subjacente grave das vias aéreas (2 com traqueostomia). O episódio mais grave ocorreu em um
+paciente com doença respiratória febril e foi associado a hipóxia durante a infusão, resultando em uma convulsão
+de curta duração. No último paciente, que apresentava doença subjacente menos grave, a resolução espontânea
+ocorreu logo após a infusão ser interrompida. Esses eventos não se repetiram com infusões subsequentes usando
+Página 14 de 19
+uma taxa de infusão mais lenta e administração de medicamentos pré-infusão, geralmente com corticosteroides
+de baixa dose, anti-histamínicos e nebulização com beta-agonista.
+A Tabela 9 apresenta reações adversas ao medicamento para ELAPRASE no ensaio clínico controlado por
+placebo TKT024 e representa um subconjunto dos dados apresentados na Tabela 8.
+Tabela 9 Reações adversas ao medicamento para ELAPRASE em comparação com os controles no Estudo
+Clínico controlado por Placebo de 53 semanas, TKT024, (0,5 mg/kg de ELAPRASE Semanal ou a Cada
+Duas Semanas)
+Classe de Sistema de Órgão ELAPRASE (0,5mg/kg ELAPRASE (0,5mg/kg Placebo
+Reação adversa ao semanalmente) a cada duas semanas) N=32
+medicamento (Termo N=32 N=32
+preferido)
+Distúrbios do sistema nervoso
+Cefaleia
+19 (59,4%) 21 (65,6%) 14 (43,8%)
+Distúrbios Cardíacos
+Cianose 1 (3,1%) 1 (3,1%) 0 (0%)
+Arritmia 1 (3,1%) 1 (3,1%) 0 (0%)
+Taquicardia 1 (3,1%) 3 (9,4%) 2 (6,3%)
+Distúrbios Vasculares
+Hipertensão 8 (25%) 5 (15,6%) 7 (21,9%)
+Rubor 5 (15,6%) 5 (15,6%) 6 (18,8%)
+Hipotensão 3 (9,4%) 2 (6,3%) 4 (12,5%)
+Distúrbios Respiratórios, Torácicos e do Mediastino
+Sibilo 5 (15,6%) 5 (15,6%) 5 (15,6%)
+Dispneia 4 (12,5%) 3 (9,4%) 9 (28,1%)
+Broncoespasmo 3 (9,4%) 2 (6,3%) 5 (15,6%)
+Taquipneia 2 (6,3%) 0 (0%) 2 (6,3%)
+Hipóxia 1 (3,1%) 3 (9,4%) 1 (3,1%)
+Distúrbios Gastrointestinais
+Dor abdominal 11 (34,4%) 17 (53,1%) 11 (34,4%)
+Náusea 7 (21,9%) 9 (28,1%) 9 (28,1%)
+Dispepsia 4 (12,5%) 4 (12,5%) 0 (0%)
+Língua inchada 2 (6,3%) 0 (0%) 0 (0%)
+Distúrbios de pele e do tecido subcutâneo
+Prurido 10 (31,3%) 6 (18,8%) 5 (15,6%)
+Erupção cutânea 8 (25%) 11 (34,4%) 11 (34,4%)
+Urticária 5 (15,6%) 4 (12,5%) 0 (0%)
+Página 15 de 19
+Classe de Sistema de Órgão ELAPRASE (0,5mg/kg ELAPRASE (0,5mg/kg Placebo
+Reação adversa ao semanalmente) a cada duas semanas) N=32
+medicamento (Termo N=32 N=32
+preferido)
+Eritema 2 (6,3%) 1 (3,1%) 1 (3,1%)
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+Dor no peito 5 (15,6%) 3 (9,4%) 0 (0%)
+Distúrbios Gerais e Condições do Local da Administração
+Reação relacionada à infusão 22 (68,8%) 22 (68,8%) 21 (65,6%)
+Pirexia 20 (62,5%) 18 (56,3%) 19 (59,4%)
+Inchaço no local da infusão 4 (12,5%) 4 (12,5%) 1 (3,1%)
+Edema da face 1 (3,1%) 0 (0%) 0 (0%)
+Edema periférico 2 (6,3%) 0 (0%) 1 (3,1%)
+Pós-Comercialização
+Na experiência pós-comercialização, sintomas e sinais tardios de reações anafilactóide/anafilática foram
+observados até 24 horas após o tratamento inicial e recuperados a partir de uma reação inicial.
+As reações adversas mais sérias relacionadas à infusão com ELAPRASE foram reações anafiláticas e alérgicas
+(vide 5. Precauções e Advertências).
+Segurança em Crianças
+Em um estudo de segurança, aberto, com duração de 53 semanas (HGT-ELA-038), incluindo 20 crianças com
+idade entre 16 meses e 4 anos, e 8 crianças entre 5 e 7 anos no início do estudo, o perfil de segurança para doses
+semanais de 0,5 mg/kg de ELAPRASE foi similar ao observado em estudos clínicos anteriores, com quase todas
+as reações adversas sendo relacionadas a infusão, com exceção do vômito.
+Estudo clínico em pacientes com 7 anos ou menos
+Um estudo de segurança de 53 semanas, aberto, de braço único, com tratamento de ELAPRASE 0,5 mg/kg uma
+vez por semana, foi realizado em pacientes com síndrome de Hunter, com idades entre 16 meses e 4 anos (n=20)
+e idades 5 a 7,5 anos (n=8). Os pacientes apresentaram reações adversas semelhantes as observadas em ensaios
+Página 16 de 19
+clínicos em pacientes com 5 anos ou mais, após o tratamento com ELAPRASE, sendo as reações adversas mais
+comuns as de hipersensibilidade (57%). Uma maior incidência das seguintes reações de hipersensibilidade
+comuns foram relatadas nesta faixa etária mais jovem: pirexia (36%), erupção cutânea (32%) e vômito (14%).
+As reações adversas graves mais comuns ocorrendo em pelo menos 10% dos pacientes (≥3 pacientes) incluiu:
+broncopneumonia/pneumonia (18%), infecção de ouvido (11%) e pirexia (11%).
+Vinte e sete pacientes tiveram resultados de análise genotípica: 15 pacientes tiveram deleção completa de gene,
+grande rearranjo genético, nonsense, frameshift ou mutação splice e 12 pacientes tiveram mutações missense.
+Os resultados de segurança demonstraram que pacientes com deleção genética completa, grande rearranjo
+gênico, mutações nonsense, frameshift ou mutação splice têm maior probabilidade de apresentar reações de
+hipersensibilidade e reações adversas graves após a administração de ELAPRASE, em comparação aos pacientes
+com mutações missense. A Tabela 10 resume essas descobertas.
+Table 10. Impacto do status do anticorpo e mutações genéticas na ocorrência de reações adversas graves e
+hipersensibilidade em pacientes com 7 anos ou menos tratados com Elaprase
+Anticorpo Anti- Anticorpo Anti-
+idursulfase idursulfase
+(Ab) neutralizante
+(Nab)
+Total Positivo Negativo Positivo Negativo
+Status do anticorpo reportadoo (pacientes) 28 19 9 15 13
+Reações Adversas Graves* (pacientes) 13 11 2 9 4
+Hipersensibilidade (pacientes) 16 12 4 10 6
+Pacientes com dados genotípicos 27
+Mutação Status Anticorpo 12 3 9 1 11
+Missense
+Reações Adversas 2 0 2 0 2
+(n=12)
+Graves
+Reações de 5 1 4 0 5
+hipersensibilidade
+Deleção Status Anticorpo 15 15 0 13 2
+complete do
+Reações Adversas 9 9 0 7 2
+gene,
+Mutações Graves
+Grande
+Reações de 11 11 0 10 1
+Rearranjo
+hipersensibilidade
+Gênicot,
+Mutações
+Nonsense,
+Frameshift,
+Splice Site
+(n=15)
+* Reações Adversas Graves incluem: broncopneumonia/pneumonia, infecções ouvido e pirexia.
+Imunogenicidade
+Em 4 estudos clínicos (TKT08, TKT018, TKT024, TKT024EXT) que avaliaram a imunogenicidade, 53/107
+(50%) pacientes expostos ao ELAPRASE desenvolveram anticorpos IgG anti-idursulfase. Todas as amostras de
+Página 17 de 19
+soro positivas para IgG foram testadas para a atividade de anticorpos neutralizantes (NAb). Um máximo de 26
+de 107 pacientes (24,3%) testou positivo para qualquer NAb em algum momento durante o tratamento com
+idursulfase.
+Em uma análise pós-hoc da imunogenicidade no TKT024/024EXT, aproximadamente metade (51%) dos
+pacientes expostos ao ELAPRASE semanal 0,5 mg/kg durante 2 anos desenvolveram uma resposta de anticorpos
+e 13% desenvolveram uma resposta neutralizante persistente definida como 3 amostras consecutivas positivas
+para NAb. Não houve associação estatisticamente significativa entre o status de anticorpos e o efeito do
+ELAPRASE nos desfechos clínicos (6MWT ou %FVC). Todos os grupos de status de anticorpos apresentaram
+melhora com ELAPRASE, embora a magnitude do efeito tenha sido menos acentuada em pacientes com
+anticorpos positivos. Da mesma forma, os níveis de uGAG diminuíram em todos os grupos de status de
+anticorpos, mas houve uma diminuição leve a moderada na magnitude da resposta do uGAG induzida pelo
+ELAPRASE em pacientes com anticorpos, anticorpos neutralizantes e aqueles que testaram positivo para
+anticorpos em pelo menos três visitas consecutivas.
+O estudo clínico HGT-ELA-038 avaliou a imunogenicidade em crianças de 16 meses a 7,5 anos. Durante o
+estudo de 53 semanas, 67,9% (19 de 28) dos pacientes apresentaram pelo menos uma amostra de sangue que deu
+positivo para anticorpos anti-ELAPRASE, e 57,1% (15 de 28) testaram positivo para anticorpos em pelo menos
+três consultas consecutivas do estudo. Cinquenta e quatro por cento desses pacientes testaram positivo para
+anticorpos neutralizantes pelo menos uma vez e metade dos pacientes testaram positivos para neutralizantes em
+pelo menos três consultas consecutivas do estudo.
+Houve uma clara ligação entre genótipo e imunogenicidade. Todos os pacientes com genótipo de deleção
+completa/amplo rearranjo desenvolveram anticorpos, e a maioria deles (7/8) também testou positivo para
+anticorpos neutralizantes em pelo menos 3 ocasiões consecutivas. Todos os pacientes com o genótipo de
+mutação do local frameshift/splice desenvolveram anticorpos e 4/6 também testaram positivo para anticorpos
+neutralizantes em pelo menos 3 visitas consecutivas do estudo. Os pacientes com anticorpos negativos foram
+encontrados exclusivamente no grupo de genótipo da mutação missense.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed disponível no Portal da Anvisa.
+10. SUPERDOSE
+Há informações limitadas sobre sobredose com ELAPRASE. Evidências sugerem que os pacientes podem
+apresentar uma reação anafilactóide devido à superdose.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+MS - 1.0639.0300
+Farm. Resp.: Alex Bernacchi, CRF-SP 33.461
+Fabricado e embalado (emb. primária) por:
+ou por:
+Cangene BioPharma LLC Vetter Pharma-Fertigung GmbH & Co. KG
+Baltimore, Estados Unidos da América Langenargen, Alemanha
+Página 18 de 19
+Vide cartucho para confirmar o local de fabricação do produto.
+Embalado (emb. secundária) por:
+DHL Supply Chain (Netherlands) B.V.
+Wijchen,, Holanda
+Importado por:
+Takeda Pharma Ltda.
+Rodovia SP 340 S/N, km 133,5, Ed. Adm. - Jaguariúna-SP
+CNPJ/MF: 60.397.775/0001-74
+SAC 0800 771 0345
+USO RESTRITO A HOSPITAIS.
+USO SOB PRESCRIÇÃO MÉDICA
+VENDA PROIBIDA AO COMÉRCIO.
+ELA_0120_0324_VPS_MS
+Página 19 de 19
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do N° Data do N° do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10456 - PRODUTO 11973 PRODUTOS Resultados de Eficácia
+BIOLÓGICO - BIOLÓGICOS - 80. -Características Farmacológicas
+06/03/2024
+XXXXXXXXX
+Notificação de 01/04/2022
+1485891/22-6
+Exclusão ou Alteração 05/02/2024 -Advertências e Precauções VPS 2 mg/mL
+X
+Alteração de Texto de de Informações de
+Bula - RDC 60 Segurança -Reações Adversas
+11979 - PRODUTOS
+10456 - PRODUTO
+BIOLÓGICOS - 41.
+BIOLÓGICO -
+Alteração de
+29/06/2023 0669707/23-6 Notificação de 30/06/2023 0673187/23-2 07/08/2023 - Dizeres legais VPS 2 mg/mL
+instalação de
+Alteração de Texto de
+fabricação do produto
+Bula - RDC 60
+terminado - Menor (*)
+10456 - PRODUTO 10456 - PRODUTO
+BIOLÓGICO - BIOLÓGICO -
+- Advertências e Precauções
+25/02/2022 0718698/22-3 Notificação de 25/02/2022 0718698/22-3 Notificação de 25/02/2022 VPS 2 mg/mL
+- Reações Adversas
+Alteração de Texto de Alteração de Texto de
+Bula - RDC 60 Bula - RDC 60
+10456 - PRODUTO 10408 - PRODUTO
+BIOLÓGICO - BIOLÓGICO -
+Notificação de 29/12/2020 4620804/20-6 Ampliação do prazo 30/08/2021
+Alteração de Texto de de validade do produto
+- Apresentação
+Bula - RDC 60 terminado
+- Cuidados de armazenamento do
+09/11/2021 4431528/21-1 10456 - PRODUTO 11979 - PRODUTOS medicamento VPS 2 mg/mL
+BIOLÓGICO - BIOLÓGICOS - 41. - Dizeres Legais
+Alteração de
+Notificação de 07/07/2021 2638661/21-5 07/07/2021
+instalação de
+Alteração de Texto de
+fabricação do produto
+Bula - RDC 60
+terminado - Menor (*)
+11201 - PRODUTO
+10456 - PRODUTO BIOLÓGICO -
+BIOLÓGICO - Solicitação de
+26/01/2021 0337593/21-5 Notificação de 06/08/2020 2615420/20-0 Transferência de 28/09/2020 - Dizeres legais VPS 2 mg/mL
+Alteração de Texto de Titularidade de
+Bula - RDC 60 Registro (operação
+comercial)
+21/02/2020 0537003/20-5 10456 - PRODUTO - - - - - Superdose VPS 2 mg/mL
+BIOLÓGICO -
+Notificação de
+Alteração de Texto de
+Bula - RDC 60
+17/05/2019 0440381/19-9 10456 - PRODUTO - - - - - Dizeres legais VPS 2 mg/mL
+BIOLÓGICO -
+Notificação de
+Alteração de Texto de
+Bula - RDC 60
+16/04/2018 0294125/18-2 10456 - PRODUTO - - - - - Dizeres legais VPS 2 mg/mL
+BIOLÓGICO -
+Notificação de
+Alteração de Texto de
+Bula - RDC 60
+23/11/2016 2517859/16-8 10456 - PRODUTO 13/07/2015 0611930/15-1 10279 - PRODUTO 05/08/2015 - Resultados de eficácia VPS 2 mg/mL
+BIOLÓGICO - BIOLÓGICO - - Precauções e advertências
+Notificação de Alteração de Texto de - Reações adversas
+Alteração de Texto de Bula
+Bula - RDC 60
+29/06/2015 0572088/15-5 10456 - PRODUTO 20/08/2013 0690181/13-6 1692 - PRODUTO 29/06/2015 - Resultados de eficácia VPS 2 mg/mL
+BIOLÓGICO - BIOLÓGICO - - Características farmacológicas
+Notificação de Ampliação de Uso - Contraindicações
+Alteração de Texto de - Precauções e advertências
+Bula - RDC 60 - Reações adversas
+29/10/2014 0969961/14-9 10456 - PRODUTO - - - - - Dizeres legais VPS 2 mg/mL
+BIOLÓGICO -
+Notificação de
+Alteração de Texto de
+Bula - RDC 60
+24/06/2014 0492499/14-1 10456 - PRODUTO - - - - - Características farmacológicas VPS 2 mg/mL
+BIOLÓGICO - - Precauções e advertências
+Notificação de - Posologia e modo de usar
+Alteração de Texto de
+Bula - RDC 60
+27/08/2013 0716050/13-0 10463 - PRODUTO - - - - N/A VPS 2 mg/mL
+BIOLÓGICO -
+Inclusão Inicial de
+Texto de Bula - RDC
+60/12

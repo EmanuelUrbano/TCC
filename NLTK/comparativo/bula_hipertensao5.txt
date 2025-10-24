@@ -1,0 +1,76 @@
+INDICAÇÕES Hipertensão
+Amlodil® (besilato de anlodipino) é indicado como fármaco de primeira linha no tratamento da hipertensão, podendo ser
+utilizado na maioria dos pacientes como agente único de controle da pressão sanguínea. Pacientes que não são
+adequadamente controlados com um único agente anti-hipertensivo (diferente do anlodipino) podem ser beneficiados
+com a adição de anlodipino, que tem sido utilizado em combinação com diuréticos tiazídicos, alfa-bloqueadores, agentes
+beta-bloqueadores adrenérgicos ou inibidores da enzima conversora da angiotensina (ECA).
+Angina Estável Crônica
+Amlodil® é indicado no tratamento da isquemia miocárdica como fármaco de primeira linha, devido tanto à obstrução
+fixa (angina estável) e/ou ao vasoespasmo/vasoconstrição (angina de Prinzmetal ou angina variante) da vasculatura
+coronária. Amlodil® pode ser utilizado em situações clínicas sugestivas, mas não confirmadas, de possível componente
+vasoespástico/vasoconstritor. Pode ser utilizado isoladamente, como monoterapia, ou em combinação com outros
+fármacos antianginosos em pacientes com angina refratária a nitratos e/ou doses adequadas de beta-bloqueadores.
+2. RESULTADOS DE EFICÁCIA
+Uso em Pacientes com Doença Arterial Coronária16
+Os efeitos do anlodipino na morbidade e mortalidade cardiovascular, a progressão de aterosclerose coronária e
+aterosclerose carótida foram estudados no estudo clínico Avaliação Prospectiva Randomizada dos Efeitos Vasculares de
+besilato de anlodipino (PREVENT – Prospective Randomized Evaluation of the Vascular Effects of Norvasc Trial). Este
+estudo multicêntrico, randomizado, duplo-cego, placebo-controlado, acompanhou por 3 anos 825 pacientes com doença
+arterial coronária (DAC) definida angiograficamente. A população incluiu pacientes com infarto prévio do miocárdio
+2
+Bula_Profissional de saúde
+(IM) (45%), angioplastia coronária percutânea transluminal (ACPT) na linha de base (42%) e história de angina (69%). A
+gravidade da DAC variou de 1 vaso doente (45%) a 3 ou mais vasos doentes (21%). Os pacientes com hipertensão não
+controlada (pressão arterial diastólica [PAD] > 95 mmHg) foram excluídos do estudo. Um comitê de avaliação de
+desfecho avaliou, de modo cego, os principais eventos cardiovasculares. Embora não tenha existido nenhum efeito
+demonstrável da taxa de progressão das lesões na artéria coronária, o anlodipino impediu a progressão do espessamento
+da íntima-média da carótida. Foi observada uma redução significante (- 31%) em pacientes tratados com anlodipino no
+desfecho combinado de morte cardiovascular, infarto do miocárdio, derrame, angioplastia coronária percutânea
+transluminal (ACPT), revascularização cirúrgica do miocárdio (CABG – coronary artery by-pass graft), hospitalização
+para angina instável e piora da insuficiência cardíaca congestiva. Uma redução significante (- 42%) nos procedimentos de
+revascularização (ACPT e revascularização cirúrgica do miocárdio) também foi observada em pacientes tratados com
+anlodipino. Foi observado um número de hospitalizações (- 33%) menor para angina instável em pacientes tratados
+quando comparado ao grupo placebo.
+A eficácia do anlodipino na prevenção de eventos clínicos em pacientes com DAC foi avaliada de forma independente,
+multicêntrico, randomizado, duplo cego, controlado por placebo em 1997 pacientes, a comparação de anlodipino versus
+enalapril para limitar a ocorrência de trombose (CAMELOT). Destes pacientes, 663 foram tratados com anlodipino de
+5 mg a 10 mg e 655 pacientes foram tratados com o placebo, em adição ao tratamento padrão das estatinas, beta-
+bloqueadores, diuréticos, e aspirina, por 2 anos. Os resultados da eficácia são apresentados na Tabela 1. Os resultados
+indicam que o tratamento com anlodipino foi associado com menos hospitalizações por angina e procedimentos de
+revascularização em pacientes com DAC.
+Tabela 1. Incidência de desfechos clínicos significativos no estudo CAMELOT
+CAMELOT
+Resultados Clínicos anlodipino Placebo Redução de risco
+N (%) (n = 663) (n = 655) (valor-p)
+Desfecho 110 151 31%
+Cardiovascular (16.6) (23.1) (0.003)
+Composto*
+Hospitalização por 51 84 42%
+Angina (7.7) (12.8) (0.002)
+Revascularização 78 103 27%
+Coronária (11.8) (15.7) (0.033)
+*1) Definido no estudo CAMELOT como a morte cardiovascular, enfarte do miocárdio não fatal,
+parada cardíaca com ressuscitação, revascularização coronária, hospitalização por angina de peito,
+hospitalização por CHF, acidente vascular cerebral fatal ou não fatal ou ataque isquêmico
+transitório (AIT), qualquer diagnóstico das doenças vasculares periféricas doença (DVP) em um
+sujeito não previamente diagnosticado como tendo DVP ou qualquer admissão para um processo
+para o tratamento de DVP.
+2) O desfecho cardiovascular composto (CV) foi o objetivo primário de eficácia em CAMELOT.
+Uso em Pacientes com Insuficiência Cardíaca17
+Estudos hemodinâmicos e estudos clínicos controlados baseados na resposta ao exercício em pacientes portadores de
+insuficiência cardíaca classes NYHA II a IV, demonstraram que o anlodipino não levou a uma deterioração clínica
+quando avaliada em relação à tolerância ao exercício, fração de ejeção ventricular esquerda e sintomatologia clínica.
+Um estudo placebo-controlado (PRAISE) para avaliar pacientes portadores de insuficiência cardíaca classes NYHA III e
+IV recebendo digoxina, diuréticos e inibidores da enzima conversora de angiotensina (ECA) demonstrou que o
+anlodipino não leva a um aumento no risco da mortalidade ou mortalidade e morbidade combinadas em pacientes com
+insuficiência cardíaca.
+3
+Bula_Profissional de saúde
+Em um estudo placebo-controlado com anlodipino, de acompanhamento de longo prazo (PRAISE-2), em pacientes com
+insuficiência cardíaca classes NYHA III e IV, sem sintomas clínicos ou sinais sugestivos de doença isquêmica
+preexistente, em doses estáveis de inibidores da ECA, digitálicos e diuréticos, o anlodipino não teve qualquer efeito na
+mortalidade total ou cardiovascular. Nesta mesma população, o anlodipino foi associado a um aumento de relatos de
+edema pulmonar, apesar de não existir qualquer diferença significante na incidência de piora da insuficiência cardíaca
+quando comparada ao placebo.
+Referências
+1. de Bruijn B, Cocco G, Tyler HM, et al. Multicenter placebo-controlled comparison of amlodipine and atenolol in

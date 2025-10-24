@@ -1,0 +1,27 @@
+INDICAÇÕES Este medicamento é indicado como analgésico e antitérmico.
+2. RESULTADOS DE EFICÁCIA
+A ação antipirética e analgésica da dipirona oral foi avaliada em estudos clínicos duplo-cego.
+Em um estudo duplo-cego com pacientes com febre tifoide, 25 pacientes receberam 500 mg de dipirona VO e 28 receberam
+500 mg de paracetamol VO. A temperatura retal e os registros de pulso foram monitorados a cada 30 minutos. Efeitos
+antipiréticos foram observados no grupo dipirona e paracetamol aos 30 e 60 minutos respectivamente. Foram calculadas a
+área sob a curva tempo-temperatura tanto para a dipirona (148ºC·h) quanto para o paracetamol (128ºC·h), a diferença entre
+as áreas foi significativamente maior para os pacientes que receberam dipirona. O total de antipirese nos dois grupos foi
+calculado pelos escores das somas de redução de temperatura até 6 horas após administração da medicação, que foi maior
+que 300 para os pacientes recebendo dipirona e menor que 300 para os pacientes que receberam paracetamol (p<0,05)
+(Ajgaonkar VS, 1988).
+A ação analgésica da dipirona oral versus placebo foi avaliada em estudo clínico multicêntrico, randomizado, duplo-cego,
+cruzado, controlado por placebo, envolvendo 73 pacientes com crise de enxaqueca com ou sem aura, selecionados para
+receber 1 g de dipirona via oral ou placebo. A intensidade da dor foi medida através da escala verbal de dor antes e 1, 2, 4
+e 24 h após o tratamento e foram considerados pacientes que reportaram dor intensa a moderada. Melhora significativa da
+dor foi observada com dipirona, comparativamente ao placebo em todos os pontos medidos. As percentagens de "alívio
+da dor" obtidas 1, 2 e 4 horas após a ingestão oral de 1 g de dipirona variaram de 42% a 57,1% “versus”19,6% a 28,6%
+para o placebo (p<0,001) (Tulunay et al, 2004).
+Doses orais únicas de dipirona 500 mg e 1 g versus ácido acetilsalicílico (AAS) 1 g foram comparadas em estudo clínico
+multicêntrico, randomizado, duplo-cego, de grupos paralelos, controlado com placebo e comparador ativo, envolvendo
+417 pacientes com cefaleia tensional episódica. O intervalo de tempo resultante da soma da média ponderada da diferença
+de intensidade da dor sobre ambos os episódios chegou a 12,20, 12,64, 10,56 e 8,10 para 500 mg e 1 g de dipirona, 1 g de
+AAS e placebo, respectivamente (p <0,0001 para ambos os grupos dipirona e p <0,0150 para AAS versus placebo).
+Observou-se uma tendência para início mais precoce de alívio da dor mais profunda com dipirona 500 mg e 1 g sobre 1 g
+de AAS. Todos os medicamentos foram seguros e bem tolerados (Martínez-Martín et al, 2001).
+REFERÊNCIAS BIBLIOGRÁFICAS
+- Ajgaonkar VS, Marathe SN, Virani AR. Dipyrone versus paracetamol: a double-blind study in typhoid fever. J Int Med

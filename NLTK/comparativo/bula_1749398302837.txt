@@ -1,0 +1,33 @@
+INDICAÇÕES A carboplatina, princípio ativo de EVOCARB® pó liófilo injetável, faz parte da segunda geração
+de derivados da cisplatina que mostram atividade antineoplásica contra uma série de
+malignidades.
+EVOCARB® (carboplatina) pó liófilo injetável está indicado no tratamento de estados avançados
+do carcinoma de ovário de origem epitelial (incluindo tratamentos de segunda linha e paliativo
+em pacientes que já tenham recebido medicamentos contendo cisplatina). Está também indicado
+no tratamento do carcinoma de pequenas células de pulmão, nos carcinomas espinocelulares de
+cabeça e pescoço e nos carcinomas de cérvice uterina.
+2. RESULTADOS DE EFICÁCIA
+Oitenta e oito pacientes com câncer epitelial de ovário fase IIB-III foram randomizados para
+receber em primeira linha cisplatina como único agente (100 mg/m2) mensal ou carboplatina (400
+mg/m2) mensal de até 5 ciclos. Crossover para o análogo inverso ocorreu com a progressão ou a
+falta de resposta. O número mediano de episódios de vômitos por ciclo com cisplatina foi 16 e
+com carboplatina 2 (p < 0,001). No braço cisplatina, 27/40 (67,5 %) desenvolveram toxicidade
+renal leve, 9/40 (22,5%) neurotoxicidade OMS grau 1 e 18/ 40 (45%) evidência de ototoxicidade
+em audiometria. No braço carboplatina não foi observada neuro ou ototoxicidade e 1/40 (2,5%)
+desenvolveram toxicidade renal OMS grau 1. Mielossupressão e anemia foram mais comuns com
+EVOCARB_P07_24.07.2018_VPS00
+1
+carboplatina, mas apenas um episódio de trombocitopenia grau IV foi visto com a primeira linha
+de carboplatina. A taxa de resposta clínica (CR + PR) para a cisplatina foi de 19/40 e para
+carboplatina 27/40. A sobrevida para o grupo cisplatina em 24 meses foi de 50% e para o grupo
+de carboplatina 58%, sem diferença significativa. A carboplatina parece ser menos tóxica do que
+a cisplatina, com taxas de sobrevida e resposta semelhantes.
+Um estudo de fase III (n=637) comparou a dose convencional de paclitaxel e carboplatina
+administrados a cada 3 semanas versus a administração dose-densa semanalmente de paclitaxel
+combinado com a administração de carboplatina (AUC = 6) a cada 3 semanas em pacientes com
+câncer epitelial avançado de ovário, câncer de trompa de falópio ou câncer peritoneal primário.
+A mediana de Sobrevida Livre de Progressão (SLP), desfecho primário deste estudo, foi
+substancialmente melhorada no grupo de tratamento com dose densa (28 vs 17,2 meses, Hazard
+Ratio (HR) 0.71, IC 95% 0.58-0.88, P = 0.0015). A sobrevida global (SG) aos 3 anos também foi
+maior no tratamento com dose densa com paclitaxel (72,1%) do que no grupo de tratamento
+convencional (65.1%, HR 0.75, 0.57-0.98; P = 0.03). Os resultados a longo prazo em um período

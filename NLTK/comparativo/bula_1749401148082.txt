@@ -1,0 +1,34 @@
+INDICAÇÕES As soluções injetáveis de glicose nas concentrações de 5% e 10% são indicadas como fonte de
+água, calorias e diurese osmótica. As soluções de glicose 5 e 10% são indicadas em casos de
+desidratação, reposição calórica, nas hipoglicemias e como veículo para diluição de
+medicamentos compatíveis.
+A solução de glicose 5% é frequentemente a concentração empregada na depleção de fluido,
+sendo usualmente administrada através de uma veia periférica. Já as soluções de glicose de
+concentrações mais elevadas, como a glicose 10%, por serem hiperosmóticas, são usadas
+geralmente como uma fonte de carboidratos.
+Desta maneira, a glicose é a fonte preferida de carboidratos em regimes parenterais de nutrição,
+sendo frequentemente usada também em soluções de reidratação para prevenção e/ou
+tratamento da desidratação, ocasionada pela diarreia.
+GLICOSE_VPS04
+2. CARACTERÍSTICAS FARMACOLÓGICAS
+As soluções injetáveis de glicose são estéreis e apirogênicas e usadas no restabelecimento de
+fluido e suprimento calórico.
+A glicose é um nutriente facilmente metabolizado pelo organismo para fornecimento de energia,
+dispensando em alguns casos o uso de lipídios e proteínas como fontes de energia, evitando,
+assim, acidose e cetose resultantes de seus metabolismos. A solução de glicose é útil como fonte
+de água e calorias e é capaz de induzir diurese dependendo das condições clínicas do paciente.
+As concentrações de glicose em concentrações isotônicas (solução parenteral de glicose 5%) são
+adequadas para a manutenção das necessidades de água quando o sódio não é necessário ou
+deve ser evitado
+A glicose é metabolizada através do ácido pirúvico ou lático em dióxido de carbono e água com
+liberação de energia. A glicose é usada, distribuída e estocada nos tecidos. Todas as células do
+corpo são capazes de oxidar a glicose, sendo a mesma a principal fonte de energia no
+metabolismo celular. Uma vez dentro da célula, a glicose é prontamente fosforilada, formando a
+glicose-6-fosfato, que logo se polimeriza em glicogênio, ou é catabolizada. A glicose pode ainda
+ser convertida em gordura, através da AcetilCoA. Requer, por isso, constante equilíbrio entre as
+necessidades metabólicas do organismo e a sua oferta.
+A glicose atinge o seu pico plasmático 40 minutos após sua administração em pacientes
+hipoglicêmicos.
+3. CONTRAINDICAÇÕES
+As soluções de glicose sem eletrólitos não devem ser administradas simultaneamente a infusão
+de sangue devido à possibilidade de coagulação.

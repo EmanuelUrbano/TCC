@@ -1,0 +1,67 @@
+INDICAÇÕES O folinato de cálcio solução injetável é indicado para reduzir a toxicidade e como antídoto após terapia com antagonistas
+do ácido fólico, como o metotrexato (resgate com ácido folínico, "rescue"); em casos de eliminação diminuída do
+metotrexato e na superdosagem acidental de antagonistas do ácido fólico.
+Folinato de cálcio é também indicado no tratamento da anemia megaloblástica devido à deficiência de folatos, quando a
+terapia oral não é adequada.
+Folinato de cálcio pode também ser utilizado em terapia combinada com 5-fluoruracila (5-FU) para aumentar a eficácia
+desse fármaco no tratamento paliativo de pacientes portadores de carcinoma colorretal avançado.
+2. RESULTADOS DE EFICÁCIA
+Folinato de cálcio foi avaliado em vários estudos como parte de esquemas utilizados no tratamento do câncer colorretal.
+Estudo de fase 3 avaliou a eficácia da combinação de irinotecano/fluouracila/folinato de cálcio (FOLFIRI) em pacientes
+com câncer colorretal avançado, em termos de sobrevida livre de progressão e sobrevida global mediana. Entretanto,
+estudos subsequentes demonstraram maior taxa de mortalidade com esta associação quando comparado com
+fluouracila/folinato de cálcio. Estudo randomizado, multicêntrico demonstrou que o regime fluouracila/folinato de
+cálcio/oxaliplatina (FOLFOX) foi mais efetivo e melhor tolerado quando comparado aos regimes irinotecano/oxaliplatina
+(IROX) ou irinotecano/fluouracila em bolos (IFL), em pacientes com câncer colorretal avançado sem tratamento prévio.
+Estudo de fase 3 comparando a utilização sequencial de FOLFIRI seguido de FOLFOX6 versus FOLFOX6 seguido de
+FOLFIRI não demonstrou diferença em termos de eficácia entre as duas sequências de tratamento.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+O ácido folínico é o derivado 5-formil do ácido tetraidrofólico (THF), a forma ativa do ácido fólico. O ácido folínico
+participa como cofator em muitas reações metabólicas, incluindo a síntese de purina e pirimidina e a conversão de
+aminoácidos. O ácido folínico é utilizado em terapia citotóxica como um antídoto para os antagonistas do ácido fólico (tais
+como o metotrexato) que bloqueiam a conversão do ácido fólico para tetraidrofolato por ligação à enzima diidrofolato-
+redutase.
+02_Bula para profissional VERSÃO 04 - Esta versão altera a VERSÃO anterior 03
+Folinato de cálcio é uma solução estéril, isotônica, sem conservantes.
+Propriedades Farmacocinéticas
+Após sua administração, o ácido folínico entra no "pool" orgânico geral de folatos reduzidos.
+Foi relatado que, após administração intravenosa e intramuscular, os picos séricos de folatos reduzidos totais são atingidos
+em média dentro de 10 e 52 minutos, respectivamente. Os picos séricos de 5-formil-THF são atingidos em 10 e 28 minutos,
+respectivamente. A redução nos níveis do fármaco inalterado coincide com o aparecimento do metabólito ativo 5-metil-
+THF, a principal forma circulante do fármaco. Os níveis séricos máximos são observados 1,5 e 2,8 horas após a
+administração intravenosa e intramuscular, respectivamente. A meia-vida terminal para os folatos reduzidos totais é de 6,2
+horas. O folinato se concentra no líquido cerebrospinal, embora a distribuição ocorra em todos os tecidos orgânicos. Os
+folatos são excretados na urina.
+4. CONTRAINDICAÇÕES
+Este medicamento é contraindicado em pacientes com hipersensibilidade ao folinato de cálcio ou a qualquer
+componente da fórmula.
+Folinato de cálcio não deve ser utilizado no tratamento de anemia perniciosa ou outras anemias megaloblásticas secundárias
+à deficiência de vitamina B12. Pode ocorrer remissão hematológica, enquanto continuam a progredir as manifestações
+neurológicas.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Folinato de cálcio apenas deve ser utilizado com antagonistas do ácido fólico (como metotrexato) ou fluoropirimidinas
+(como a fluoruracila) sob a supervisão de médicos experientes em quimioterapia antineoplásica.
+Folinato de cálcio não deve ser administrado simultaneamente com um antagonista de ácido fólico (como o metotrexato),
+a fim de se reduzir ou evitar a toxicidade clínica; além disso, o efeito terapêutico do antagonista pode ser anulado.
+A eficácia do folinato de cálcio em antagonizar a toxicidade induzida pela superdosagem acidental do metotrexato diminui
+à medida em que aumenta o período de tempo entre a administração desses dois fármacos. Portanto, folinato de cálcio deve
+ser administrado o mais rapidamente possível após o metotrexato. A dose ótima e a duração do tratamento com folinato de
+cálcio devem ser determinadas por meio da monitoração dos níveis séricos de metotrexato.
+No caso de situações que levem a uma eliminação reduzida do metotrexato, o tratamento com folinato de cálcio deve ser
+prolongado, ou as doses aumentadas. O ácido folínico aumenta a toxicidade do 5-fluoruracila (vide item 6. Interações
+Medicamentosas).
+Convulsões e/ou síncope têm sido reportadas raramente em pacientes recebendo folinato de cálcio, usualmente em
+associação com fluoropirimidina e mais comumente com metástases no Sistema Nervoso Central.
+Após a terapia com antagonistas do ácido fólico, é preferível a administração parenteral de ácido folínico à via oral, se
+existir a possibilidade de que o paciente vomite e não absorva o fármaco.
+Folinato de cálcio não tem efeito sobre a toxicidade não hematológica do metotrexato, tal como a nefrotoxicidade resultante
+da ação ou da precipitação do fármaco ou seus metabólitos nos rins.
+Recomendam-se cuidados especiais quando do tratamento de carcinoma colorretal em pacientes idosos ou debilitados, pois
+esses pacientes podem ter um risco aumentado de toxicidade grave. Pacientes tratados em conjunto com folinato de cálcio
+e fluoruracila (5-FU) devem fazer hemograma completo com contagem diferencial de leucócitos e plaquetas antes de cada
+tratamento. Durante os dois primeiros ciclos de administração, o hemograma completo com contagem diferencial de
+leucócitos e plaquetas deve ser repetido semanalmente e, em seguida, uma vez a cada ciclo, para se prevenir que a contagem
+de leucócitos caia a um nível extremamente baixo. Testes de função hepática e eletrólitos devem ser realizados antes de
+02_Bula para profissional VERSÃO 04 - Esta versão altera a VERSÃO anterior 03
+cada tratamento para os primeiros três ciclos e, em seguida, imediatamente antes de cada ciclo. As doses de 5-FU devem

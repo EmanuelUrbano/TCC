@@ -1,0 +1,65 @@
+INDICAÇÕES Firialta® (finerenona) é indicado para o tratamento da doença renal crônica (estágios 3 e 4
+com albuminúria) associada ao diabetes tipo 2 em adultos.
+2. RESULTADOS DE EFICÁCIA
+ Eficácia clínica e segurança
+- Doença renal crônica e diabetes tipo 2
+O estudo FIDELIO-DKD foi um estudo randomizado, duplo-cego, controlado por placebo,
+multicêntrico de Fase III que investigou o efeito de Firialta® (finerenona) em comparação
+com o placebo nos desfechos renais e cardiovasculares em pacientes adultos com doença
+renal crônica e diabetes tipo 2. Os pacientes eram elegíveis com base na evidência de
+albuminúria persistente (> 30 mg/g a 5.000 mg/g), TFGe de 25 a 75 mL/min/ 1,73m2,
+potássio sérico ≤ 4,8 mmol/L na randomização e deveriam estar recebendo tratamento
+padrão, incluindo uma dose máxima tolerada aprovada de um inibidor da enzima de
+conversão da angiotensina (iECA) ou bloqueador do receptor da angiotensina (BRA).
+Pacientes com diagnóstico de insuficiência cardíaca com fração de ejeção reduzida e New
+York Heart Association II-IV foram excluídos devido à recomendação classe 1A para
+terapia de ARM.
+O desfecho primário no estudo FIDELIO-DKD foi um composto de tempo até a primeira
+ocorrência de falência renal (definida como diálise crônica ou transplante renal, ou uma
+diminuição sustentada na TFGe para <15 mL/min/1,73m2 em pelo menos 4 semanas), um
+declínio sustentado na TFGe de 40% ou mais em comparação com o basal ao longo de pelo
+menos 4 semanas, ou morte renal. O desfecho secundário principal foi um composto de
+tempo até a primeira ocorrência de morte cardiovascular (CV), infarto do miocárdio (IM)
+não-fatal, acidente vascular cerebral não-fatal ou hospitalização por insuficiência cardíaca.
+O estudo analisou 5.674 pacientes selecionados randomicamente para receber Firialta®
+(finerenona) 10 mg ou 20 mg uma vez ao dia (N = 2833), ou placebo (N = 2841), com uma
+duração média de acompanhamento de 2,6 anos. Após a notificação de término do estudo,
+o estado vital foi obtido para 99,7% dos pacientes. A população do estudo foi de 63%
+brancos, 25% asiáticos e 5% negros. A idade média na inclusão era de 66 anos e 70% dos
+pacientes eram do sexo masculino. Na linha de base a TFGe média foi de 44,3 mL/min
+/1,73m2, com 55% dos pacientes tendo uma TFGe <45 mL/min/1,73m2, a razão albumina/
+creatinina mediana na urina (RACU) foi de 852 mg/g, e a hemoglobina glicada A1c média
+(HbA1c) foi de 7,7%, 46% tinham histórico de doença cardiovascular aterosclerótica, 30%
+tinham histórico de doença arterial coronariana, 8% tinham histórico de insuficiência
+cardíaca e a pressão arterial média era 138/76 mmHg. A duração média do diabetes tipo 2
+na linha de base era de 16,6 anos e um histórico de retinopatia diabética e neuropatia
+diabética foi relatado em 47% e 26% dos pacientes, respectivamente, na linha de base. Na
+linha de base, quase todos os pacientes estavam com iECA (34%) ou BRA (66%), e 97%
+dos pacientes usavam um ou mais medicamentos antidiabéticos (insulina [64%],
+biguanidas [44%], agonistas do receptor peptídeo-1 semelhante ao glucagon [GLP-1] [7%],
+inibidores do cotransportador sódio-glicose 2 [SGLT2] [5%]). Os outros medicamentos
+mais frequentemente tomados na linha de base foram estatinas (74%) e bloqueadores dos
+canais de cálcio (63%).
+Firialta® (finerenona) demonstrou superioridade em relação ao placebo reduzindo
+significativamente o risco do desfecho composto primário em comparação com o placebo
+em uma análise de tempo até o evento usando o modelo de riscos proporcionais Cox e teste
+log-rank (HR 0,82, IC 95% 0,73-0,93, p = 0,0014). Vide Figura 1/ Tabela 1 abaixo.
+Firialta® (finerenona) também reduziu significativamente o risco do desfecho composto
+secundário principal de tempo para a primeira ocorrência de morte CV, IM não-fatal,
+acidente vascular cerebral não-fatal ou hospitalização por insuficiência cardíaca em
+comparação com placebo (HR 0,86, IC 95% 0,75-0,99, p = 0,0339). Vide Figura 2. Os
+desfechos secundários pré-especificados de tempo até o evento estão incluídos na Tabela 1.
+Para o desfecho secundário de mudança na RACU da linha de base até o mês 4, uma
+redução relativa de 31,2% foi observada no grupo Firialta® (finerenona) em comparação
+com o placebo. O efeito do tratamento para os desfechos primários e secundários principais
+foi geralmente consistente ao longo de todos os subgrupos, incluindo região, TFGe,
+RACU, pressão arterial sistólica (PA) e HbA1c na linha de base.
+No estudo FIDELIO-DKD, eventos de diminuição da taxa de filtração glomerular foram
+relatados em 6,3% dos pacientes tratados com Firialta® (finerenona) em comparação com
+4,7% dos pacientes tratados com placebo, e aqueles que levaram à descontinuação
+permanente em pacientes que receberam Firialta® (finerenona) foram 0,2% versus 0,3% no
+grupo placebo. Os pacientes em uso de Firialta® (finerenona) experienciaram uma
+diminuição inicial na TFGe (média 2 mL/min/1,73m2) que foi atenuada ao longo do tempo
+em comparação com o placebo. Esta diminuição demonstrou ser reversível após a
+descontinuação do tratamento. A diminuição inicial da TFGe foi associada à preservação a
+longo prazo da função renal.

@@ -1,0 +1,2100 @@
+EPCLUSA®
+(sofosbuvir/velpatasvir)
+Gilead Sciences Farmacêutica do Brasil Ltda
+Comprimidos revestidos 400 mg/100 mg
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+BULA AO PROFISSIONAL DE SAÚDE
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+EPCLUSA®
+sofosbuvir+velpatasvir
+APRESENTAÇÃO
+Epclusa® é apresentado em frascos contendo 28 comprimidos revestidos. Cada comprimido
+revestido contém 400 mg de sofosbuvir e 100 mg de velpatasvir.
+USO ORAL
+USO ADULTO E PEDIÁTRICO ACIMA DE 12 ANOS OU COM PESO CORPORAL DE
+PELO MENOS 30 KG
+COMPOSIÇÃO
+Cada comprimido revestido contém:
+sofosbuvir ....................................................400 mg
+velpatasvir.....................................................100 mg
+Excipientes: copovidona, celulose microcristalina, croscarmelose sódica, estearato de magnésio.
+O filme de revestimento do comprimido contém: álcool polivinílico, dióxido de titânio, macrogol,
+talco, óxido de ferro vermelho e óxido de ferro amarelo.
+II- INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Epclusa é indicado para o tratamento da infecção crônica pelo vírus da hepatite C (VHC) em
+pacientes com 12 anos ou mais ou pesando pelo menos 30 kg.
+2. RESULTADOS DE EFICÁCIA
+- Eficácia e segurança clínica
+Adultos
+A eficácia de Epclusa foi avaliada em três estudos de Fase 3 em pacientes com infecção por VHC
+de genótipo 1 a 6 sem cirrose ou com cirrose compensada, um estudo de Fase 3 em pacientes com
+infecção por VHC de genótipo 1 a 6 com cirrose descompensada, e um estudo de Fase 3 em
+pacientes coinfectados pelos vírus VHC/HIV-1 com infecção por VHC de genótopos 1 a 6. Os
+desenhos dos estudos são resumidos na Tabela 1.
+2
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Tabela 1: Desenhos dos estudos realizados com Epclusa em pacientes adultos com infecção
+pelo VHC de genótipo 1, 2, 3, 4, 5 ou 6
+Estudo População Braço do estudo
+(Número de pacientes tratados)
+Genótipo 1, 2, 4, 5 e 6
+Pacientes sem e com Epclusa 12 semanas (624)
+ASTRAL-1
+experiência* a tratamento, sem
+Placebo 12 semanas (116)
+cirrose ou com cirrose
+compensada
+Genótipo 2
+Pacientes sem e com Epclusa 12 semanas (134)
+ASTRAL-2
+experiência a tratamento, sem
+SOF+RBV 12 semanas (132)
+cirrose ou com cirrose
+compensada
+Genótipo 3
+Pacientes sem e com Epclusa 12 semanas (277)
+ASTRAL-3
+experiência a tratamento, sem
+SOF+RBV 24 semanas (275)
+cirrose ou com cirrose
+compensada
+Genótipo 1, 2, 3, 4, 5 e 6
+Epclusa 12 semanas (90)
+Pacientes sem e com
+ASTRAL-4 Epclusa + RBV 12 semanas (87)
+experiência a tratamento, com
+cirrose descompensada de
+Epclusa 24 semanas (90)
+Classe B de CPT
+Genótipo 1, 2, 3, 4, 5 e 6
+Pacientes sem e com
+ASTRAL-5 Epclusa 12 semanas (106)
+experiência a tratamento, sem
+ou com cirrose compensada,
+coinfectado VHC e HIV-1
+*pacientes com experiência a tratamento (incluindo aqueles que falharam um regime à base de
+peg-interferona alfa + ribavirina com ou sem inibidor da protease do VHC). SOF=sofosbuvir,
+RBV=ribavirina, CPT=Child Pugh Turcotte
+A dose de ribavirina foi baseada no peso (1.000 mg diários administrados em duas doses divididas
+em pacientes < 75 kg e 1.200 mg em pacientes com ≥ 75 kg) e administrada em duas doses
+divididas quando utilizada em associação com sofosbuvir nos estudos ASTRAL-2 e ASTRAL-3
+ou em associação com Epclusa no estudo ASTRAL-4. Foram efetuados ajustes à dose de
+ribavirina de acordo com as informações de prescrição da ribavirina. Os valores de RNA VHC
+no soro foram determinados durante os estudos clínicos utilizando o teste COBAS
+AmpliPrep/COBAS Taqman HCV (versão 2.0) com um limite inferior de quantificação (LIQ) de
+15 UI/ml. Utilizou-se a resposta virológica sustentada (RVS12), definida como um valor de
+RNA VHC inferior ao LIQ às 12 semanas após terminar o tratamento, como critério de avaliação
+primário para determinar a taxa de cura do VHC.
+3
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Estudos clínicos em pacientes sem cirrose e pacientes com cirrose compensada
+Adultos infectados pelo VHC de genótipo 1, 2, 4, 5 e 6 – ASTRAL-1 (estudo 1138)
+ASTRAL-1 foi um estudo randomizado, duplo-cego, controlado com placebo, que avaliou
+12 semanas de tratamento com Epclusa comparativamente a 12 semanas de placebo em pacientes
+com infecção pelo VHC de genótipo 1, 2, 4, 5 ou 6. Pacientes com infecção pelo VHC de
+genótipo 1, 2, 4 ou 6 foram randomizados numa razão de 5:1 para o tratamento com Epclusa
+durante 12 semanas ou com placebo durante 12 semanas. Pacientes com infecção pelo VHC de
+genótipo 5 foram incluídos no grupo de Epclusa. A randomização foi estratificada por genótipo
+de VHC (1, 2, 4, 6 e indeterminado) e pela presença ou ausência de cirrose.
+As características iniciais e demográficas eram equilibradas entre o grupo de Epclusa e o de
+placebo. Dos 740 pacientes tratados, a idade mediana era de 56 anos (intervalo: 18 a 82); 60%
+dos pacientes eram do sexo masculino; 79% eram de raça branca, 9% eram de raça negra; 21%
+apresentavam índice de massa corporal no início do estudo de pelo menos 30 kg/m2; as proporções
+de pacientes com infecção pelo VHC de genótipo 1, 2, 4, 5 ou 6 eram de 53%, 17%, 19%, 5% e
+7%, respectivamente; 69% tinham alelos IL28B não CC (CT ou TT); 74% tinham níveis de
+RNA VHC no início do estudo de pelo menos 800.000 UI/ml; 19% tinham cirrose compensada;
+e 32% tinham experiência a tratamento prévio.
+A Tabela 2 apresenta a RVS12 e o desfecho virológico para pacientes sem RVS12 para o estudo
+ASTRAL-1 por genótipos do VHC, e a Tabela 3 apresenta o RVS12 por genótipo do VHC e
+estado da cirrose. Nenhum paciente no grupo de placebo obteve RVS12.
+Tabela 2: RVS12 e desfecho virológico no estudo ASTRAL-1 por genótipo de VHC
+Epclusa 12 semanas (n = 624)
+Total GT-1 GT-2 GT-4 GT-5 GT-6
+(todos GT-1a GT-1b Total (n = 104) (n = 116) (n = 35) (n = 41)
+GTs)
+(n = 210) (n = 118) (n = 328)
+(n = 624
+)
+99%
+98% 99% 98% 100% 100% 97% 100%
+RVS12
+(618/624
+(206/210) (117/118) (323/328) (104/104) (116/116) (34/35) (41/41)
+)
+Resultados em pacientes sem RVS12
+Falha
+virológica
+0/624 0/210 0/118 0/328 0/104 0/116 0/35 0/41
+sob
+tratamento
+< 1% < 1% 1% 1%
+Recidivaa 0/104 0/116 0/35 0/41
+(2/623) (1/209) (1/118) (2/327)
+1% 1% 1% 3%
+Outrosb 0/118 0/104 0/116 0/41
+(4/624) (3/210) (3/328) (1/35)
+GT = genótipo
+a. O denominador nas recidivas é o número de pacientes com RNA VHC < LIQ no momento da última avaliação
+sob tratamento.
+b. Outros inclui pacientes que não obtiveram uma RVS12 e não satisfizeram os critérios de falha virológica.
+4
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Tabela 3: RVS12 no estudo ASTRAL-1 por genótipo do VHC e estado da cirrose
+Epclusa 12 semanas (n = 624)
+Total GT-1 GT-2 GT-4 GT-5 GT-6
+(todos GT-1a GT-1b Total (n = 104) (n = 116) (n = 35) (n = 41)
+GTs)
+(n = 210) (n = 118) (n = 328)
+(n =
+624)
+99% 98% 99% 98% 100% 100% 97% 100%
+SVR12
+(618/624) (206/210) (117/118) (323/328) (104/104) (116/116) (34/35) (41/41)
+SVR12 99% 100% 96% 99% 100% 100% 100% 100%
+com
+cirrose (120/121) (49/49) (23/24) (72/73) (10/10) (27/27) (5/5) (6/6)
+SVR12 99% 97% 100% 98% 100% 100% 97% 100%
+sem
+cirrose (496/501) (157/161) (94/94) (251/255) (93/93) (89/89) (28/29) (35/35)
+GT = genótipo
+2 pacientes não tinham disponíveis o estado da cirrose.
+Adultos infectados pelo VHC de genótipo 2 – ASTRAL-2 (estudo 1139)
+ASTRAL-2 foi um estudo aberto, randomizado que avaliou 12 semanas de tratamento com
+Epclusa comparativamente com 12 semanas de tratamento com SOF+RBV em pacientes com
+infecção pelo VHC de genótipo 2. Os pacientes foram randomizados numa razão de 1:1 para o
+tratamento com Epclusa durante 12 semanas ou com SOF+RBV durante 12 semanas. A
+randomização foi estratificada em função da presença ou ausência de cirrose e da experiência de
+tratamento (sem experiência de tratamento versus com experiência de tratamento).
+As características iniciais e demográficas eram equilibradas nos dois grupos de tratamento. Dos
+266 pacientes tratados, a idade mediana era de 58 anos (intervalo: 23 a 81); 59% dos pacientes
+eram do sexo masculino; 88% eram de raça branca, 7% eram de raça negra; 33% apresentavam
+índice de massa corporal no início do estudo de pelo menos 30 kg/m2; 62% tinham alelos IL28B
+não CC (CT ou TT); 80% tinham níveis de RNA VHC no início do estudo de pelo menos
+800.000 UI/ml; 14% tinham cirrose compensada e 15% tinham experiência a tratamento.
+A Tabela 4 apresenta a RVS12 e o desfecho virológico para o estudo ASTRAL-2.
+Tabela 4: RVS12 e o desfecho virológico no estudo ASTRAL-2 (VHC de genótipo 2)
+Epclusa 12 semanas SOF+RBV
+(n = 134) 12 semanas
+(n = 132)
+RVS12 99% (133/134) 94% (124/132)
+Resultados em pacientes sem RVS12
+5
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Epclusa 12 semanas SOF+RBV
+(n = 134) 12 semanas
+(n = 132)
+Falha virológica sob 0/134 0/132
+tratamento
+Recidivaa 0/133 5% (6/132)
+Outrosb 1% (1/134) 2% (2/132)
+a. O denominador nas recidivas é o número de pacientes com RNA VHC < LIQ no momento da última avaliação sob
+tratamento.
+b. Outros inclui pacientes que não obtiveram uma RVS12 e não satisfizeram os critérios de falha virológica.
+O tratamento com Epclusa durante 12 semanas demonstrou superioridade estatística (p = 0,018)
+sobre o tratamento com SOF+RBV durante 12 semanas (diferença entre tratamentos de +5,2%;
+intervalo de confiança de 95%: +0,2% a +10,3%).
+Adultos infectados pelo VHC de genótipo 3 – ASTRAL-3 (estudo 1140)
+ASTRAL-3 foi um estudo aberto, randomizado que avaliou 12 semanas de tratamento com
+Epclusa comparativamente com 24 semanas de tratamento com SOF+RBV em pacientes com
+infecção pelo VHC de genótipo 3. Os pacientes foram randomizados numa razão de 1:1 para o
+tratamento com Epclusa durante 12 semanas ou com SOF+RBV durante 24 semanas. A
+randomização foi estratificada em função da presença ou ausência de cirrose e de tratamento
+anterior (sem experiência a tratamento versus com experiência a tratamento).
+As características iniciais e demográficas eram equilibradas nos dois grupos de tratamento. Dos
+552 pacientes tratados, a idade mediana era de 52 anos (intervalo: 19 a 76); 62% dos pacientes
+eram do sexo masculino; 89% eram de raça branca, 9% eram de raça asiática, 1% eram de raça
+negra; 20% apresentavam índice de massa corporal no início do estudo de pelo menos 30 kg/m2;
+61% tinham alelos IL28B não CC (CT ou TT); 70% tinham níveis de RNA VHC no início do
+estudo de pelo menos 800.000 UI/ml; 30% tinham cirrose compensada e 26% tinham experiência
+a tratamento.
+A Tabela 5 apresenta a RVS12 e o desfecho virológico para o estudo ASTRAL-3.
+Tabela 5: RVS12 e o desfecho virológico no estudo ASTRAL-3 (VHC de genótipo 3)
+Epclusa 12 semanas SOF+RBV
+(n = 277) 24 semanas
+(n = 275)
+RVS12 95% (264/277) 80% (221/275)
+Resultados em pacientes sem RVS12
+Falha virológica sob 0/277 < 1% (1/275)
+tratamento
+Recidivaa 4% (11/276) 14% (38/272)
+6
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Epclusa 12 semanas SOF+RBV
+(n = 277) 24 semanas
+(n = 275)
+Outrosb 1% (2/277) 5% (15/275)
+a. O denominador nas recidivas é o número de pacientes com RNA VHC < LIQ no momento da última avaliação sob
+tratamento.
+b. Outros inclui pacientes que não obtiveram uma RVS12 e não satisfizeram os critérios de falha virológica.
+O tratamento com Epclusa durante 12 semanas demonstrou superioridade estatística (p < 0,001)
+sobre o tratamento com SOF+RBV durante 24 semanas (diferença entre tratamentos de +14,8%;
+intervalo de confiança de 95%: +9,6% a +20,0%).
+As RVS12 em subgrupos selecionados são apresentadas na Tabela 6.
+Tabela 6: RVS12 para subgrupos selecionados no estudo ASTRAL-3 (VHC de genótipo 3)
+Epclusa SOF+RBV
+12 semanas 24 semanasa
+RVS12 Sem experiência Com experiência Sem experiência Com experiência
+a tratamento a tratamento a tratamento a tratamento
+(n = 206) (n = 71) (n = 201) (n = 69)
+Sem cirrose 98% (160/163) 91% (31/34) 90% (141/156) 71% (22/31)
+Com cirrose 93% (40/43) 89% (33/37) 73% (33/45) 58% (22/38)
+a. Foram excluídos desta análise de subgrupos cinco pacientes em que faltava o estado de cirrose no grupo
+SOF+RBV 24 semanas.
+Estudos clínicos em pacientes com cirrose descompensada– ASTRAL-4 (estudo 1137)
+ASTRAL-4 foi um estudo aberto, randomizado em pacientes com infecção pelo VHC de
+genótipo 1, 2, 3, 4, 5 ou 6 e cirrose de Classe B de CPT. Os pacientes foram randomizados numa
+razão de 1:1:1 para o tratamento com Epclusa durante 12 semanas, Epclusa + RBV durante
+12 semanas ou Epclusa durante 24 semanas. A randomização foi estratificada por genótipo de
+VHC (1, 2, 3, 4, 5, 6 e indeterminado).
+As características iniciais e demográficas eram equilibradas nos grupos de tratamento. Dos
+267 pacientes tratados, a idade mediana era de 59 anos (intervalo: 40 a 73); 70% dos pacientes
+eram do sexo masculino; 90% eram de raça branca; 6% eram de raça negra; 42% tinham índice
+de massa corporal no início do estudo de pelo menos 30 kg/m2. As proporções de pacientes com
+VHC de genótipo 1, 2, 3, 4 ou 6 eram de 78%, 4%, 15%, 3% e < 1% (1 paciente), respectivamente.
+Não foram incluídos pacientes com infecção pelo VHC de genótipo 5. 76% dos pacientes tinham
+alelos IL28B não CC (CT ou TT); 56% tinham níveis de RNA VHC iniciais de pelo menos
+800.000 UI/ml, 55% tinham experiência a tratamento; 90% e 95% dos pacientes tinham cirrose
+de Classe B de CPT e uma pontuação de modelo de doença hepática em fase terminal (MELD)
+≤ 15 no início do estudo, respectivamente.
+7
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+A Tabela 7 apresenta a RVS12 para o estudo ASTRAL-4 por genótipo de VHC.
+Tabela 7: RVS12 no estudo ASTRAL-4 por genótipo de VHC
+Genótipo
+Total (Todos GT-1
+GT-1a GT-1b GT-2 GT-3 GT-4 GT-6
+os genótipos) Total
+Epclusa por 12 Semanas
+RVS12 75/90 44/50 16/18 60/68 4/4 7/14 4/4 0
+(83,3 %) (88,0 %) (88,9 %) (88,2 %) (100,0 %) (50,0 %) (100,0 %)
+Epclusa + RBV por 12 Semanas
+RVS12 82/87 51/54 14/14 65/68 4/4 11/13 2/2 0
+(94,3 %) (94,4 %) (100,0 %) (95,6 %) (100,0 %) (84,6 %) (100,0 %)
+Epclusa por 24 Semanas
+RVS12 77/90 51/55 14/16 65/71 3/4 6/12 2/2 1/1
+(85,6 %) (92,7 %) (87,5 %) (91,5 %) (75,0 %) (50,0 %) (100,0 %) (100,0 %)
+GT = genótipo
+Nenhum paciente com infecção pelo VHC de genótipo 5 ou 6 foi tratado com Epclusa + RBV por 12
+semanas.
+A Tabela 8 apresenta o resultado virológico de pacientes com infecção pelo VHC de genótipo 1
+ou 3 no estudo ASTRAL-4.
+Nenhum paciente com infecção pelo VHC de genótipo 2 ou 4 tratado com Epclusa + RBV
+apresentou falha virológica.
+Tabela 8: Resultado virológico de pacientes com infecção pelo VHC de genótipo 1 e 3 no
+estudo ASTRAL-4
+Epclusa Epclusa + RBV 12 semanas Epclusa 24 semanas
+12 semanas
+Falha virológica (recidiva e falha sob tratamento)
+Genótipo 1a 7% (5/68) 1% (1/68) 4% (3/71)
+Genótipo 1a 6% (3/50) 2% (1/54) 4% (2/55)
+Genótipo 1b 11% (2/18) 0% (0/14) 6% (1/16)
+Genótipo 3 43% (6/14) 15% (2b/13) 42% (5c/12)
+Outrosd 5% (4/82) 2% (2/81) 5% (4/83)
+a. Nenhum paciente com infecção pelo VHC de genótipo 1 teve falha virológica sob tratamento.
+8
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+b. Um paciente teve falha virológica sob tratamento; os dados farmacocinéticos deste paciente eram
+consistentes com falta de adesão ao tratamento.
+c. Um paciente teve falha virológica sob tratamento.
+d. Outros inclui pacientes que não obtiveram uma RVS12 e não satisfizeram os critérios de falha virológica.
+As alterações observadas nos parâmetros no sistema de pontuação de CPT em pacientes que
+obtiveram uma RVS12 no estudo ASTRAL-4 (todos os 3 regimes) são apresentadas na Tabela 9.
+Tabela 9: Alterações nos parâmetros da pontuação de CPT desde o início do estudo até às
+semanas 12 e 24 pós-tratamento em pacientes que obtiveram RVS12, no estudo ASTRAL-4
+Albumina Bilirrubina Índice Ascite Encefalopatia
+normalizado
+internacional
+(INR –
+International
+normalised ratio)
+Semana 12 pós-tratamento (N=236), % (n/N)
+Redução da pontuação
+(Melhoria)
+34,5% (79/229) 17,9% (41/229) 2,2% (5/229) 7,9% (18/229) 5,2% (12/229)
+Sem alteração 60,3% 76,4% 96,5% 89,1% 91,3%
+(138/229) (175/229) (221/229) (204/229) (209/229)
+Aumento da pontuação
+(Agravamento)
+5,2% (12/229) 5,7% (13/229) 1,3% (3/229) 3,1% (7/229) 3,5% (8/229)
+Sem avaliação 7 7 7 7 7
+Semana 24 pós-tratamento (N=236), % (n/N)
+Redução da pontuação
+(Melhoria)
+39,4% (84/213) 16,4% (35/213) 2,3% (5/213) 15,0% (32/213) 9,4% (20/213)
+Sem alteração 54,0% 80,8% 94,8% 81,2% 88,3%
+(115/213) (172/213) (202/213) (173/213) (188/213)
+Aumento da pontuação
+(Agravamento)
+6,6% (14/213) 2,8% (6/213) 2,8% (6/213) 3,8% (8/213) 2,3% (5/213)
+Sem avaliação 23 23 23 23 23
+Nota: A frequência de ascite no início do estudo era: 20% nenhuma, 77% leve/moderada, 3% grave.
+A frequência de encefalopatia no início do estudo era: 38% nenhuma, 62% grau 1-2.
+Estudos clínicos em pacientes coinfectados pelos vírus VHC/HIV-1 – ASTRAL-5 (estudo
+1202)
+ASTRAL-5 (estudo aberto, braço único) avaliou o tratamento com EPCLUSA por 12 semanas
+em pacientes com infecção pelo VHC de genótipo 1, 2, 3, 4 e coinfectados com vírus HIV-1
+(VHC genótipo 5 e 6 foram permitidos, mas nenhum paciente foi incluido). Pacientes estavam
+9
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+em terapia antiretroviral HIV-1 estável que incluiam entricitabina/fumarato de tenofovir
+desoproxila ou abacavir/lamivudina administrados com atazanavir potencializado com ritonavir,
+darunavir potencializado com ritonavir, lopinavir pontencializado com ritonavir, rilpivirina,
+raltegravir ou elvitegravir/cobicistate.
+Dos 106 pacientes tratados, a idade mediana era de 57 anos (intervalo:25 a 72); 86% dos pacientes
+era do sexo masculino; 51% eram brancos; 45% negros; 22% tinham índice de massa corporal
+inicial de no mínimo 30 Kg/m2; 19 pacientes(18%) tinham cirrose compensada; e 29% já haviam
+tido exposição anterior a tratamento. A média global da contagem de CD4+ foi 598 céluas/µL
+(intervalo: 183-1513 células/ µL).
+A tabela 10 apresenta a RVS12 e o desfecho virológico para pacientes sem RVS12 no estudo
+ASTRAL-5 para genótipos VHC.
+Tabela 10: RVS12 e desfecho virológico para os genótitpos do VHC no estudo ASTRAL-5
+EPCLUSA 12 semanas
+(N=106)
+GT -1
+Total
+GT -1a GT -1b Total GT -2 GT -3 GT -4
+(todos
+GTs)
+(N=66) (N=12) (N=78) (N=11) (N=12) (N=5)
+(N=106)
+95% 96% 92% 95% 100% 92% 100%
+RVS12 (101/106) (63/66) (11/12) (74/78) (11/11) (11/12) (5/5)
+Resultado para pacientes sem RVS12
+Falha
+virológica 0/106 0/66 0/12 0/78 0/11 0/12 0/5
+no
+tratamento
+2% 3% 3%
+0/11 0/11 0/11 0/5
+Recidivaa (2/103) (2/65) (2/76)
+3% 2% 8% 3% 8%
+0/11
+Outrosb (3/106) (1/66) (1/12) (2/78) (1/12) (0/5)
+GT = genótipo
+a O denominador nas recidivas é o número de pacientes com RNA VHC < LLOQ da última avaliação sob
+tratamento.
+b. Outros inclui pacientes que não obtiveram uma RVS e não se enquadram nos critérios de falha virológica
+A RVS12 foi obtida por 19/19 pacientes com cirrose. Nenhum paciente apresentou recaída pelo
+vírus HIV-1, e as contagens de CD4+ foram estáveis durante o tratamento.
+10
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Estudo clínico em pacientes que falharam previamente à terapia com um regime contendo
+NS5A (Estudo 1553)
+O estudo 1553 (estudo de fase 2, aberto, braço único) avaliou 24 semanas de Epclusa+RBV em
+pacientes com infecção crônica do VHC que não atingiram a RVS no estudo anterior da Gilead
+para tratamento do VHC.
+Dos 69 pacientes, a idade mediana foi de 57 anos (faixa: 31 a 74); 77% dos pacientes eram
+homens; 88% eram brancos, 4% negros; 29% apresentavam índice de massa corporal ≥ 30 kg/m2;
+as proporções de pacientes infectados com genótipo 1, 2 ou 3 foram 54%, 20%, 26%,
+respectivamente; 67% tinham alelos IL28B não CC (CT ou TT); 78% tinham níveis de RNA do
+VHC no início do estudo de pelo menos 800.000 UI/mL; 18 pacientes (26%) tinham cirrose
+compensada. Todos os pacientes foram previamente tratados com 4 a 12 semanas com sofosbuvir
+e velpatasvir, isoladamente (39%), com RBV (20%) ou voxilaprevir (um inibidor da protease
+NS3/4a, 41%).
+A tabela 11 apresenta a RVS12 e o desfecho virológico para pacientes sem a RVS12 no estudo
+1553 por genótipo do VHC.
+Tabela 11: RVS 12 e desfecho virológico no Estudo 1553 por genótipo de VHC
+EPCLUSA + RBV 24 semanas
+(N=69)
+GT -1
+Total
+GT -1a GT -1b Total GT -2 GT -3
+(all GTs)
+(N=69) (N=32) (N=5) (N=37) (N=14) (N=18)
+91% 97% 100% 97% 93% 78%
+RVS12 (63/69) (31/32) (5/5) (36/37) (13/14) (14/18)
+Falha 3% 3% 3% 6%
+0/5 0/14
+virológica no (2/69) (1/32) (1/37) (3/18)
+tratamento
+5% 7% 12%
+0/31 0/5 0/36
+Recidivaa (3/67) (1/14) (2/17)
+1% 6%
+0/32 0/5 0/37 0/14
+Outrosb (1/69) (1/18)
+GT = genótipo
+a. O denominador da recaída é o número de pacientes com RNA do VHC <LLOQ (limite inferior de
+quantificação) na sua última avaliação em tratamento.
+b. Outros incluem pacientes que não atingiram a RVS12 e não preencheram os critérios de falha virológica.
+Pacientes com Comprometimento Renal
+O estudo GS-US-342-4062 foi um ensaio clínico aberto que avaliou 12 semanas de tratamento
+com Epclusa em 59 indivíduos infectados pelo VHC com Doença Renal em Estágio Final (DREF)
+necessitando hemodiálise. As proporções de indivíduos com infecção pelo VHC genótipo 1, 2, 3,
+11
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+4, 6 ou indeterminada foram de 42%, 12%, 27%, 7%, 3% e 9%, respectivamente. No início do
+estudo, 29% dos indivíduos tinham cirrose, 22% já haviam sido tratados, 32% haviam recebido
+transplante de rim, 92% estavam em hemodiálise, e 8% estavam em diálise peritoneal; a duração
+média da diálise foi de 7,3 anos (variação: 0 a 40 anos). A taxa total de RVS foi de 95% (56/59);
+dos 3 indivíduos que não alcançaram RVS12, 1 completou o tratamento com Epclusa e recidivou
+e 2 não atingiram aos critérios de falha virológica.
+População pediátrica
+A eficácia de 12 semanas de tratamento com sofosbuvir/velpatasvir em pacientes pediátricos com
+12 anos ou mais infectados pelo VHC de genótipo 1, 2, 3, 4 ou 6 foi avaliada em um estudo clínico
+aberto de Fase 2 em 102 pacientes com infecção pelo VHC.
+Um total de 80 pacientes (78%) eram virgens de tratamento e 22 pacientes (22%) tinham realizado
+tratamento anterior. A idade mediana foi de 15 anos (variação: 12 a 17); 51% dos pacientes eram
+mulheres; 73% eram brancos, 9% eram negros e 11% eram asiáticos; 14% eram
+hispânicos/latinos; o índice de massa corporal médio foi de 22,7 kg/m2 (variação: 12,9 a 48,9
+kg/m2); o peso médio foi de 61 kg (variação de 22 a 147 kg); 58% tinham níveis basais de RNA
+do VHC maiores ou iguais a 800.000 UI/mL; as proporções de indivíduos com infecção por VHC
+de genótipo 1, 2, 3, 4 ou 6 foram 74%, 6%, 12%, 2% e 6%, respectivamente; cirrose não era
+conhecida em nenhum paciente. A maioria dos pacientes (89%) foi infectada por transmissão
+vertical.
+A taxa de RVS foi de 95% no geral (97/102), 93% (71/76) em pacientes com infecção por VHC
+de genótipo 1 e 100% em pacientes com genótipo 2 (6/6), genótipo 3 (12/12), genótipo 4 (2/2) e
+genótipo 6 (6/6). Um paciente que interrompeu o tratamento precocemente teve recaída; os outros
+quatro pacientes que não alcançaram RVS12 não atenderam aos critérios de falha virológica (por
+exemplo, perda de acompanhamento).
+Idosos
+Estudos clínicos de Epclusa incluíram 156 pacientes com idade igual ou superior a 65 (12% do
+número total de pacientes nos estudos clínicos de Fase 3). As taxas de resposta observadas em
+pacientes com idade ≥ 65 anos foram semelhantes às dos pacientes com < 65 nos grupos de
+tratamento.
+Referências
+• ASTRAL-1: J.J. Feld, et al. Sofosbuvir and Velpatasvir for HCV Genotype 1, 2, 4, 5,
+and 6 Infection. N Engl J Med. 2015 Dec 31;373(27):2599-607.
+• ASTRAL-2 and ASTRAL-3: G.R. Foster, et al. Sofosbuvir and Velpatasvir for HCV
+Genotype 2 and 3 Infection. N Engl J Med. 2015 Dec 31;373(27):2608-17.
+• ASTRAL-4: M.P. Curry, et al. Sofosbuvir and Velpatasvir for HCV in Patients with
+Decompensated Cirrhosis. N Engl J Med. 2015 Dec 31;373(27):2618-28.
+• ASTRAL-5: D. Wyles, et al. Sofosbuvir and Velpatasvir for the Treatment of Hepatitis
+C Virus in Patients Coinfected With Human Immunodeficiency Virus Type 1: An
+Open-Label, Phase 3 Study. Clin Infect Dis. 2017 Jul 1;65(1):6-12.
+12
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+• Study 1553: E.J. Gane, et al. Sofosbuvir-velpatasvir with ribavirin for 24 weeks in
+hepatitis C virus patients previously treated with a direct-acting antiviral regimen.
+Hepatology. 2017 Oct;66(4):1083-1089.
+• Study 4062: S.M. Borgia, et al. Sofosbuvir/velpatasvir for 12 weeks in hepatitis C virus-
+infected patients with end-stage renal disease undergoing dialysis. J Hepatol. 2019
+Oct;71(4):660-665.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas:
+- Mecanismo de ação
+O sofosbuvir é um inibidor pan-genotípico da RNA polimerase NS5B do VHC, RNA dependente,
+que é essencial para a replicação viral. O sofosbuvir é um pró-fármaco nucleotídeo que é sujeito
+a metabolismo intracelular para formar o análogo farmacologicamente ativo da uridina trifosfato
+(GS 461203), que pode ser incorporado no RNA do VHC pela polimerase NS5B e atua como
+terminador de cadeia. O GS 461203 (o metabólito ativo do sofosbuvir) não é um inibidor das
+DNA e RNA polimerases humanas, nem é um inibidor da RNA polimerase mitocondrial.
+O velpatasvir é um inibidor do VHC dirigido à proteína NS5A do VHC, que é essencial para a
+replicação do RNA e para a agregação de vírions do VHC. Estudos in vitro de seleção de
+resistência e de resistência cruzada indicam que o modo de ação do velpatasvir tem como alvo a
+NS5A.
+- Atividade antiviral
+Os valores da concentração efetiva 50% (CE ) de sofosbuvir e velpatasvir contra replicons de
+50
+comprimento completo ou quiméricos que codificam sequências da NS5B e NS5A das cepas
+laboratoriais são apresentados na Tabela 12. Os valores da CE de sofosbuvir e velpatasvir contra
+50
+isolados clínicos são apresentados na Tabela 13.
+Tabela 12: Atividade de sofosbuvir e velpatasvir contra replicons laboratoriais de
+comprimento completo ou quiméricos
+Genótipo dos replicons CE do sofosbuvir, nMa CE do velpatasvir, nMa
+50 50
+1a 40 0,014
+1b 110 0,016
+2a 50 0,005-0,016c
+2b 15b 0,002-0,006c
+3a 50 0,004
+4a 40 0,009
+4d ND 0,004
+5a 15b 0,021-0,054d
+6a 14b 0,006-0,009
+6e ND 0,130d
+ND = Não disponível
+13
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+a. Valor médio de múltiplas experiências de replicons do mesmo laboratório.
+b. Para os testes, foram utilizados replicons quiméricos 1b estáveis portadores de genes da NS5A dos
+genótipos 2b, 5a ou 6a.
+c. Dados de várias cepas de replicons de comprimento completo da NS5A ou replicons quiméricos da
+NS5A portadores de genes da NS5A de comprimento completo que contêm polimorfismos L31 ou M31.
+d. Dados de um replicon quimérico da NS5A portador dos aminoácidos 9-184 da NS5A.
+Tabela 13: Atividade do sofosbuvir e velpatasvir contra replicons transitórios contendo
+NS5A ou NS5B de isolados clínicos
+Genótipo Replicons de isolados clínicos Replicons de isolados clínicos
+dos contendo NS5B contendo NS5A
+replicons
+Número de CE mediana do Número de CE mediana do
+50 50
+isolados clínicos sofosbuvir, nM isolados clínicos velpatasvir, nM
+(intervalo) (intervalo)
+1a 67 62 (29-128) 23 0,019 (0,011-0,078)
+1b 29 102 (45-170) 34 0,012 (0,005-0,500)
+2a 15 29 (14-81) 8 0,011 (0,006-0,364)
+2b ND ND 16 0,002
+(0,0003-0,007)
+3a 106 81 (24-181) 38 0,005 (0,002-1,871)
+4a ND ND 5 0,002 (0,001-0,004)
+4d ND ND 10 0,007 (0,004-0,011)
+4r ND ND 7 0,003 (0,002-0,006)
+5a ND ND 42 0,005 (0,001-0,019)
+6a ND ND 26 0,007
+(0,0005-0,113)
+6e ND ND 15 0,024 (0,005-0,433)
+ND = Não disponível
+A presença de 40% de soro humano não teve qualquer efeito na atividade anti-VHC do sofosbuvir,
+mas diminuiu 13 vezes a atividade anti-VHC do velpatasvir contra replicons do VHC de
+genótipo 1a.
+A avaliação do sofosbuvir em associação com velpatasvir não apresentou qualquer efeito
+antagonista na redução dos níveis de RNA VHC em células de replicons.
+14
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+- Resistência
+Em cultura de células
+Replicons do VHC de múltiplos genótipos, incluindo os genótipos 1b, 2a, 2b, 3a, 4a, 5a e 6a, com
+sensibilidade reduzida ao sofosbuvir foram selecionados em cultura de células. A sensibilidade
+reduzida ao sofosbuvir foi associada à substituição primária S282T da NS5B em todos os
+genótipos de replicons examinados. A mutagênese sítio-dirigida da substituição S282T em
+replicons de genótipo 1 a 6 conferiu uma sensibilidade 2 a 18 vezes inferior ao sofosbuvir e
+diminuiu a capacidade de replicação viral em 89% a 99%, em comparação com o tipo selvagem
+correspondente. Em ensaios bioquímicos, a capacidade do trifosfato ativo de sofosbuvir
+(GS-461203) em inibir a polimerase NS5B recombinante de genótipos 1b, 2a, 3a e 4a que
+expressam a substituição de S282T foi reduzida comparativamente com a sua capacidade de inibir
+a polimerase NS5B recombinante de tipo selvagem, conforme indicado por um aumento de 8,5 a
+24 vezes na concentração inibitória 50% (CI ).
+50
+A seleção in vitro de replicons do VHC de múltiplos genótipos, incluindo os genótipos 1a, 1b, 2a,
+3a, 4a, 5a e 6a, com sensibilidade reduzida ao velpatasvir foi efetuada em cultura de células.
+Foram selecionadas variantes associadas à resistência da NS5A nas posições 24, 28, 30, 31, 32,
+58, 92 e 93. As variantes associadas à resistência (VARs) selecionadas em 2 ou mais genótipos
+foram F28S, L31I/V e Y93H. A mutagénese sítio-dirigida de VARs da NS5A conhecidas
+demonstrou que as substituições que conferem uma redução > 100 vezes na sensibilidade a
+velpatasvir são M28G, A92K e Y93H/N/R/W no genótipo 1a, A92K no genótipo 1b, C92T e
+Y93H/N no genótipo 2b, Y93H no genótipo 3 e L31V e P32A/L/Q/R no genótipo 6. Nenhuma
+substituição individual testada nos genótipos 2a, 4a ou 5a conferiu uma redução > 100 vezes na
+sensibilidade ao velpatasvir. As combinações destas variantes demonstraram frequentemente
+reduções superiores na sensibilidade ao velpatasvir do que as VARs únicas isoladamente.
+- Nos estudos clínicos
+Estudos em pacientes sem cirrose e pacientes com cirrose compensada
+Numa análise agrupada de pacientes sem cirrose ou com cirrose compensada que receberam
+Epclusa durante 12 semanas em três estudos de Fase 3, 12 pacientes (2 com genótipo 1 e 10 com
+genótipo 3) qualificaram-se para análise da resistência resultante de falha virológica. Um paciente
+adicional com infecção pelo VHC de genótipo 3 no início do estudo foi novamente infectado com
+VHC de genótipo 1a no momento da falha virológica e foi excluído da análise virológica. Nenhum
+paciente com infecção pelo VHC de genótipo 2, 4, 5 ou 6 apresentou falha virológica.
+Dos 2 pacientes genótipo 1 com falha virológica, um apresentou vírus com VAR da NS5A
+emergente Y93N e o outro paciente apresentou vírus com VARs da NS5A emergente L31I/V e
+Y93H no momento da falha virológica. Ambos os pacientes apresentaram no início do estudo
+vírus que incluíam VARs da NS5A. Não foram observadas VARs do inibidor nucleosídeo (IN)
+da NS5B no momento da falha nos 2 pacientes.
+Dos 10 pacientes de genótipo 3 com falha virológica, a VAR Y93H foi observada nos
+10 pacientes no momento da falha (6 pacientes tinham Y93H emergente no pós-tratamento e
+4 pacientes apresentaram Y93H no início do estudo e no pós-tratamento). Não foram observadas
+VARs do IN da NS5B no momento da falha nos 10 pacientes.
+- Estudos em pacientes com cirrose descompensada
+Num estudo de Fase 3 em pacientes com cirrose descompensada tratados com Epclusa + RBV
+durante 12 semanas, 3 pacientes (1 com genótipo 1 e 2 com genótipo 3) qualificaram-se para
+15
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+análise da resistência resultante de falha virológica. Nenhum paciente com infecção pelo VHC de
+genótipo 2 ou 4, no grupo de Epclusa + RBV durante 12 semanas, apresentou falha virológica.
+O paciente com VHC de genótipo 1 com falha virológica não apresentou VARs da NS5A ou da
+NS5B no momento da falha.
+Dos 2 pacientes de genótipo 3 com falha virológica, um apresentou VAR da NS5A Y93H
+emergente no momento da falha. Outro paciente apresentou vírus com VAR Y93H no início do
+estudo e no momento da falha virológica, tendo também desenvolvido níveis baixos (< 5%) de
+VARs do NI da NS5B N142T e E237G no momento da falha. Os dados farmacocinéticos deste
+paciente foram consistentes com falta de adesão ao tratamento.
+Neste estudo, 2 pacientes tratados com Epclusa durante 12 ou 24 semanas sem ribavirina
+apresentaram S282T emergente da NS5B com níveis baixos (< 5%) juntamente com L159F.
+Efeito das variantes do VHC associadas a resistência no início do estudo sobre os resultados
+do tratamento
+Estudos em pacientes sem cirrose e pacientes com cirrose compensada
+Foram realizadas análises para explorar a associação entre VARs da NS5A pré-existentes, no
+início do estudo, e os resultados do tratamento em pacientes sem cirrose ou com cirrose
+compensada em três estudos clínicos de Fase 3 (ASTRAL-1, ASTRAL-2 e ASTRAL-3). Dos
+1.035 pacientes tratados com sofosbuvir/velpatasvir nos três estudos de Fase 3, 1.023 pacientes
+foram incluídos na análise de VARs da NS5A; 7 pacientes foram excluídos pois não obtiveram
+resposta virológica sustentada (RVS12) nem apresentaram falha virológica e 5 pacientes
+adicionais foram excluídos uma vez que ocorreu falha de sequenciação do gene da NS5A. Na
+análise agrupada dos estudos de Fase 3, os vírus de 380/1023 (37%) pacientes apresentaram
+VARs da NS5A no início do estudo. Pacientes infectados com VHC de genótipo 2, 4 e 6
+apresentaram uma maior prevalência de VARs da NS5A (70%, 63% e 52%, respectivamente) em
+comparação com pacientes infectados com VHC de genótipo 1 (23%), genótipo 3 (16%) e
+genótipo 5 (18%).
+As VARs no início do estudo não apresentaram impacto relevante nas taxas de RVS12 em
+pacientes infectados com VHC de genótipo 1, 2, 4, 5 e 6, conforme resumido na Tabela 14.
+Pacientes infectados com o genótipo 3 com a VAR da NS5A Y93H no início do estudo
+apresentaram uma taxa de RVS12 inferior aos pacientes sem Y93H, após o tratamento com
+Epclusa durante 12 semanas, conforme resumido na Tabela 15. No estudo ASTRAL-3, a VAR
+Y93H foi detetada no início do estudo em 9% dos pacientes tratados com Epclusa.
+Tabela 14: RVS12 em pacientes com ou sem VARs da NS5A no início do estudo, por
+genótipo de VHC (estudos ASTRAL-1, ASTRAL-2 e ASTRAL-3)
+Epclusa 12 semanas
+Genótipo 1 Genótipo 3 Genótipo 2, 4, 5 Total
+ou 6
+Com quaisquer
+VARs da NS5A
+97% (73/75) 88% (38/43) 100% (262/262) 98% (373/380)
+no início do
+estudo
+16
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Epclusa 12 semanas
+Genótipo 1 Genótipo 3 Genótipo 2, 4, 5 Total
+ou 6
+Sem VARs da
+NS5A no início 100% (251/251) 97% (225/231) 100% (161/161) 99% (637/643)
+do estudo
+Tabela 15: RVS12 em pacientes com e sem Y93H no início do estudo, Cut-off 1% (conjunto
+de população para análise da resistência) ASTRAL-3
+Epclusa 12 semanas
+Todos os
+Com cirrose Sem cirrose
+indivíduos
+(n = 80) (n = 197)
+(n = 274)
+Global 95,3% (263/274) 91,3% (73/80) 97,9% (190/194)
+95% IC 92,9% a 98,0% 82,8% a 96,4% 92,8% a 98,6%
+RVS com Y93H 84,0% (21/25) 50,0% (2/4) 90,5% (19/21)
+95% IC 63,9% a 95,5% 6,8% a 93,2% 69,6% a 98,8%
+RVS sem Y93H 96,4% (242/249) 93,4% (71/76) 98,8% (171/173)
+95% IC 94,3% a 98,9% 85,3% a 97,8% 95,9% a 99,9%
+A VAR S282T do IN da NS5B não foi detetada na sequência da NS5B no início do estudo em
+nenhum dos pacientes nos estudos de Fase 3. Foi obtida RVS12 em todos os 77 pacientes que
+apresentaram VARs do IN da NS5B no início do estudo, incluindo N142T, L159F, E/N237G,
+C/M289L/I, L320F/I/V, V321A/I e S282G+V321I.
+Estudos em pacientes com cirrose descompensada [Classe B de CPT (Child-Pugh-
+Turcotte)]
+Foram realizadas análises para explorar a associação entre VARs da NS5A pré-existentes no
+início do estudo e o resultado do tratamento em pacientes com cirrose descompensada num estudo
+de Fase 3 (ASTRAL-4). Dos 87 pacientes tratados com Epclusa + RBV, 85 pacientes foram
+incluídos na análise de VARs da NS5A; 2 pacientes foram excluídos pois não obtiveram RVS12
+nem apresentaram falha virológica. Entre os pacientes que receberam tratamento com Epclusa +
+RBV durante 12 semanas, 29% (25/85) dos pacientes apresentaram vírus no início do estudo com
+VARs da NS5A: 29% (19/66), 75% (3/4), 15% (2/13) e 50% (1/2) nos pacientes infectados com
+VHC de genótipo 1, 2, 3 e 4, respectivamente.
+A RVS12 em pacientes com ou sem VARs da NS5A no início do estudo no grupo de
+Epclusa + RBV durante 12 semanas para este estudo é apresentada na Tabela 16.
+17
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Tabela 16: RVS12 em pacientes com ou sem VARs da NS5A, no início do estudo, por
+genótipo de VHC (estudo ASTRAL-4)
+Epclusa + RBV 12 semanas
+Genótipo 1 Genótipo 3 Genótipo 2 ou 4 Total
+Com quaisquer
+VARs da NS5A
+100% (19/19) 50% (1/2) 100% (4/4) 96% (24/25)
+no início do
+estudo
+Sem VARs da
+NS5A no início 98% (46/47) 91% (10/11) 100% (2/2) 98% (58/60)
+do estudo
+O único paciente com genótipo 3 que apresentou VARs da NS5A no início do estudo e que não
+obteve RVS12 apresentou substituição Y93H da NS5A no início do estudo; os dados
+farmacocinéticos deste paciente foram consistentes com falta de adesão ao tratamento.
+Três pacientes no grupo de Epclusa + RBV durante 12 semanas apresentaram VARs do IN da
+NS5B no início do estudo (N142T e L159F) e todos obtiveram RVS12.
+- População pediátrica
+A presença de VARs da NS5A e NS5B não afetou o resultado do tratamento no Estudo 1143;
+todos os pacientes com VARs NS5A basal (n=16) ou NS5B NI (n=5) alcançaram RVS após 12
+semanas de tratamento com Epclusa.
+- Resistência cruzada
+Os dados in vitro sugerem que a maioria das VARs da NS5A que conferem resistência ao
+ledipasvir e ao daclatasvir permaneceram com sensibilidade ao velpatasvir. O velpatasvir
+apresentou uma atividade completa contra a substituição S282T na NS5B, associada à resistência
+ao sofosbuvir, e todas as substituições na NS5A associadas à resistência ao velpatasvir foram
+completamente sensíveis ao sofosbuvir. Tanto o sofosbuvir como o velpatasvir apresentaram uma
+atividade completa contra substituições associadas à resistência a outras classes de antiviróticos
+de ação direta com diferentes mecanismos de ação, como os inibidores não nucleosídeos da NS5B
+e os inibidores da protease NS3. A eficácia de Epclusa não foi avaliada em pacientes que tenham
+anteriormente falhado o tratamento com outros regimes que incluam um inibidor da NS5A.
+Propriedades Farmacocinéticas:
+Absorção
+As propriedades farmacocinéticas do sofosbuvir, GS-331007 e do velpatasvir foram avaliadas em
+indivíduos adultos sadios e em pacientes com hepatite C crônica. Após administração oral de
+Epclusa, o sofosbuvir foi rapidamente absorvido e a concentração plasmática máxima mediana
+foi observada 1 hora pós-dose. A concentração plasmática máxima mediana de GS-331007 foi
+observada 3 horas pós-dose. As concentrações máximas medianas de velpatasvir foram
+observadas 3 horas pós-dose.
+Com base na análise farmacocinética populacional em pacientes infectados pelo VHC, a média
+das AUC no estado estacionário do sofosbuvir (n = 982), do GS-331007 (n = 1.428) e do
+0-24
+velpatasvir (n = 1.425) foram, respectivamente, de 1.260, 13.970 e 2.970 ng•h/ml. As C no
+max
+18
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+estado estacionário do sofosbuvir, do GS-331007 e do velpatasvir foram respectivamente de 566,
+868 e 259 ng/ml. As AUC e C do sofosbuvir e do GS-331007 foram semelhantes em
+0-24 max
+indivíduos adultos sadios e em pacientes com infecção pelo VHC. Em relação aos indivíduos
+sadios (n = 331), a AUC e C do velpatasvir foram respectivamente 37% e 41% mais baixas
+0-24 max
+em pacientes infectados pelo VHC.
+Efeito dos alimentos
+Em relação às condições de jejum, a administração de uma dose única de Epclusa com uma
+refeição com um teor moderado em gorduras (~600 kcal, 30% de gordura) ou uma refeição de
+teor elevado em gorduras (~800 kcal, 50% de gordura) resultou num aumento de 34% e 21% na
+AUC do velpatasvir, respectivamente, e num aumento de 31% e 5% na C do velpatasvir,
+0-inf max
+respectivamente. A refeição de teor moderado ou elevado em gorduras aumentou a AUC do
+0-inf
+sofosbuvir em 60% e 78%, respectivamente, mas não afetou substancialmente a % do sofosbuvir.
+A refeição de teor moderado ou elevado em gorduras não alterou a AUC do GS-331007, mas
+0-inf
+resultou numa diminuição de 25% e 37% na sua C , respectivamente. As taxas de resposta em
+max
+estudos de Fase 3 foram semelhantes em pacientes infectados pelo VHC que receberam Epclusa
+com alimentos ou sem alimentos. Epclusa pode ser administrado independentemente dos
+alimentos.
+Distribuição
+A ligação do sofosbuvir às proteínas plasmáticas humanas é de aproximadamente 61-65% e esta
+ligação é independente da concentração do fármaco no intervalo de 1 μg/ml a 20 μg/ml. A ligação
+às proteínas de GS-331007 foi mínima no plasma humano. Após uma dose única de 400 mg de
+[14C]-sofosbuvir em indivíduos sadios, a razão de radioatividade de [14C] entre sangue e plasma
+foi aproximadamente de 0,7.
+A ligação do velpatasvir às proteínas plasmáticas humanas é de > 99,5% e esta ligação é
+independente da concentração do fármaco no intervalo de 0,09 μg/ml a 1,8 μg/ml. Após uma dose
+única de 100 mg de [14C]-velpatasvir em indivíduos sadios, a razão de radioatividade de [14C]
+entre sangue e plasma variou entre 0,52 e 0,67.
+Biotransformação
+O sofosbuvir é extensivamente metabolizado no fígado para formar o análogo nucleosídeo
+trifosfatado GS-461203, farmacologicamente ativo. A via de ativação metabólica envolve a
+hidrólise sequencial da fração éster de carboxila catalisada pela catepsina A (CatA) humana ou
+pela carboxilesterase 1 (CES1) e a clivagem do fosforamidato pela proteína 1 da tríade de
+histidinas de ligação a nucleótidos (HINT1), seguida de fosforilação pela via de biossíntese do
+nucleótido pirimidina. A desfosforilação resulta na formação do metabólito nucleosídeo
+GS-331007 que não pode ser eficientemente refosforilado e não possui atividade anti-VHC
+in vitro. O sofosbuvir e o GS-331007 não são substratos nem inibidores das enzimas UGT1A1 ou
+CYP3A4, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 e CYP2D6. Após uma dose oral
+única de 400 mg de [14C]-sofosbuvir, o GS-331007 foi responsável por aproximadamente > 90%
+de exposição sistêmica total.
+O velpatasvir é um substrato de CYP2B6, CYP2C8 e CYP3A4 com conversão lenta. Após uma
+dose única de 100 mg de [14C]-velpatasvir, a maioria (> 98%) de radioatividade no plasma era de
+fármaco original. O velpatasvir mono-hidroxilado e desmetilado foram os metabólitos
+identificados no plasma humano. O velpatasvir inalterado é a principal espécie presente nas fezes.
+19
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Eliminação
+Após uma dose oral única de 400 mg de [14C]-sofosbuvir, a recuperação total média da
+radioatividade de [14C] foi superior a 92%, consistindo aproximadamente em 80%, 14% e 2,5%
+recuperada, respectivamente, na urina, fezes e ar expirado. A maior parte da dose de sofosbuvir
+recuperada na urina correspondeu a GS-331007 (78%) enquanto que 3,5% foi recuperado como
+sofosbuvir. Estes dados indicam que a depuração renal é a principal via de eliminação do
+GS-331007. As meia vidas terminais medianas de eliminação do sofosbuvir e do GS-331007 após
+a administração de Epclusa foram, respectivamente, de 0,5 e 25 horas.
+Após uma dose oral única de 100 mg de [14C]-velpatasvir, a recuperação total média da
+radioatividade de [14C] foi de 95%, consistindo aproximadamente em 94% e 0,4%, recuperada,
+respectivamente, nas fezes e urina. O velpatasvir inalterado foi a principal espécie presente nas
+fezes, responsável por uma média de 77% da dose administrada, seguida de velpatasvir mono-
+hidroxilado (5,9%) e de velpatasvir demetilado (3,0%). Estes dados indicam que a excreção biliar
+de fármaco original foi uma via de eliminação principal de velpatasvir. A meia vida terminal
+mediana do velpatasvir após a administração de Epclusa foi de aproximadamente 15 horas.
+Linearidade/não linearidade
+A AUC de velpatasvir aumenta de forma quase proporcional à dose no intervalo de doses de
+25 mg a 150 mg. As AUC do sofosbuvir e do GS-331007 foram quase proporcionais à dose num
+intervalo de doses de 200 mg a 1.200 mg.
+Potencial para interações medicamentosas de sofosbuvir/velpatasvir in vitro
+O sofosbuvir e o velpatasvir são substratos dos transportadores de fármacos P-gp e BCRP,
+enquanto o GS-331007 não é. O velpatasvir é também um substrato do OATP1B. Foi observada
+in vitro uma conversão metabólica lenta de velpatasvir pelo CYP2B6, CYP2C8 e CYP3A4.
+O velpatasvir é um inibidor dos transportadores de fármacos P-gp, BCRP, OATP1B1 e OATP1B3
+e o seu envolvimento em interações medicamentosas com estes transportadores é principalmente
+limitado ao processo de absorção. Na concentração plasmática clinicamente relevante, o
+velpatasvir não é um inibidor dos transportadores hepáticos da bomba de exportação de sais
+biliares (BSEP, bile salt export pump), da proteína cotransportadora sódio/taurocolato (NTCP),
+OATP2B1, OATP1A2 ou do transportador de cátions orgânicos (OCT, organic cation
+transporter) 1, transportadores renais OCT2, OAT1, OAT3, proteína associada à resistência a
+múltiplos fármacos (MRP, multidrug resistance protein) 2 ou proteína de extrusão de compostos
+tóxicos e de múltiplos fármacos (MATE, multidrug and toxic compound extrusion) 1 ou enzimas
+CYP ou uridina glucuronosiltransferase (UGT) 1A1.
+O sofosbuvir e o GS-331007 não são inibidores dos transportadores de fármacos P-gp, BCRP,
+MRP2, BSEP, OATP1B1, OATP1B3 e OCT1. O GS-331007 não é um inibidor do OAT1, OCT2
+e MATE1.
+Farmacocinética em populações especiais
+- Raça e sexo
+Não se identificaram diferenças farmacocinéticas clinicamente relevantes devidas à raça ou sexo
+com o sofosbuvir, o GS-331007 ou o velpatasvir.
+20
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+- Idosos
+A análise farmacocinética populacional em pacientes infectados pelo VHC revelou que no
+intervalo etário analisado (18 a 82 anos), a idade não teve um efeito clinicamente relevante sobre
+a exposição ao sofosbuvir, ao GS-331007 ou ao velpatasvir.
+- Comprometimento renal
+A farmacocinética do sofosbuvir foi estudada em pacientes adultos VHC negativos com
+comprometimento renal leve (VFGe ≥ 50 e < 80 ml/min/1,73 m2), moderado (VFGe ≥ 30 e
+< 50 ml/min/1,73 m2), grave (VFGe < 30 ml/min/1,73 m2) e em pacientes com Doença Renal em
+Estágio Final (DREF) necessitando de hemodiálise, após uma dose única de 400 mg de
+sofosbuvir. Em relação a pacientes com função renal normal (VFGe > 80 ml/min/1,73 m2), a
+AUC do sofosbuvir estava respectivamente 61%, 107% e 171% mais elevada no
+0-inf
+comprometimento renal leve, moderado e grave, enquanto que a AUC do GS-331007 estava
+0-inf
+respectivamente 55%, 88% e 451% mais elevada. Em pacientes com DREF, a AUC do
+0-inf
+sofosbuvir foi 28% mais elevada quando o sofosbuvir foi administrado 1 hora antes da
+hemodiálise, em comparação com 60% mais elevada quando o sofosbuvir foi administrado 1 hora
+após a hemodiálise, respectivamente. A AUC do GS-331007 em pacientes com DREF, aos
+0-inf
+quais se administrou sofosbuvir 1 hora antes ou 1 hora após a hemodiálise, foi respectivamente,
+pelo menos 10 vezes e 20 vezes mais elevada. O GS-331007 é removido eficazmente por
+hemodiálise com um coeficiente de extração de aproximadamente 53%. Após uma dose única de
+400 mg de sofosbuvir, uma sessão de hemodiálise de 4 horas removeu 18% da dose administrada.
+A farmacocinética do velpatasvir foi estudada com uma dose única de 100 mg de velpatasvir em
+pacientes VHC-negativos com comprometimento renal grave (VFGe < 30 ml/min pela fórmula
+de Cockcroft-Gault). Não foram observadas diferenças clinicamente relevantes na
+farmacocinética do velpatasvir entre indivíduos saudáveis e indivíduos com comprometimento
+renal grave.
+A farmacocinética do sofosbuvir, GS-331007 e velpatasvir foi estudada em indivíduos infectados
+pelo VHC com DREF requerendo de hemodiálise tratados com Epclusa por 12 semanas. A AUC
+tau
+no estado estacionário do sofosbuvir, GS-331007 e velpatasvir aumentaram 81%, 1719% e 41%,
+respectivamente, em comparação com indivíduos sem comprometimento renal nos estudos de
+fase 2/3 do sofosbuvir/velpatasvir. Não foram observadas relações de exposição-segurança em
+indivíduos infectados pelo VHC com DREF que requerem hemodiálise tratados com Epclusa.
+Não é necessário ajuste da dose de Epclusa para pacientes com comprometimento renal, incluindo
+DREF necessitando de hemodiálise.
+- Comprometimento hepático
+A farmacocinética do sofosbuvir foi estudada após a administração de doses de 400 mg de
+sofosbuvir durante 7 dias em pacientes adultos infectados pelo VHC com comprometimento
+hepático moderado e grave (Classe B e C de CPT). Em relação aos pacientes com função hepática
+normal, a AUC do sofosbuvir foi respectivamente 126% e 143% mais elevada no
+0-24
+comprometimento hepático moderado e grave, enquanto a AUC do GS-331007 foi
+0-24
+respectivamente 18% e 9% mais elevada. A análise farmacocinética populacional em pacientes
+adultos infectados pelo VHC indicou que a cirrose (incluindo cirrose descompensada) não teve
+um efeito clinicamente relevante na exposição ao sofosbuvir e ao GS-331007.
+A farmacocinética do velpatasvir foi estudada com a administração de uma dose única de 100 mg
+de velpatasvir em pacientes adultos VHC-negativos com comprometimento hepático moderado e
+grave (Classe B e C de CPT). Em comparação com indivíduos com função hepática normal, a
+exposição plasmática total ao velpatasvir (AUC ) foi semelhante em pacientes com insuficiência
+inf
+21
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+hepática moderada ou grave. A análise farmacocinética populacional em pacientes infectados pelo
+VHC indicou que a cirrose (incluindo a cirrose descompensada) não teve um efeito clinicamente
+relevante na exposição ao velpatasvir.
+- Peso corporal
+Em adultos, o peso corporal não teve um efeito clinicamente significativo na exposição ao
+sofosbuvir ou ao velpatasvir de acordo com uma análise farmacocinética populacional.
+- População pediátrica
+As exposições a sofosbuvir, GS 331007 e velpatasvir em pacientes pediátricos com 12 anos ou
+mais recebendo doses orais uma vez ao dia de sofosbuvir/velpatasvir 400 mg/100 mg foram
+semelhantes às de adultos recebendo doses diárias de sofosbuvir/velpatasvir 400 mg/100 mg.
+A farmacocinética do sofosbuvir, do GS-331007 e do velpatasvir em pacientes pediátricos com
+idade inferior a 12 anos e peso <30 kg não foi estabelecida.
+Dados de segurança pré-clínica
+- Sofosbuvir
+Não foi possível detetar a exposição ao sofosbuvir nos estudos com roedores, provavelmente
+devido à elevada atividade das esterases, tendo sido em vez disso utilizada a exposição ao
+metabolito principal GS-331007 para calcular as margens de exposição.
+O sofosbuvir não foi genotóxico numa bateria de ensaios in vitro ou in vivo, incluindo
+mutagenicidade bacteriana, aberração cromossômica utilizando linfócitos humanos do sangue
+periférico e em ensaios do micronúcleo de camundongo in vivo. Não foram observados efeitos
+teratogênicos nos estudos da toxicidade do desenvolvimento de ratos e coelhos com o sofosbuvir.
+O sofosbuvir não teve efeitos adversos no comportamento, reprodução ou desenvolvimento na
+descendência no estudo de desenvolvimento pré e pós natal no rato.
+O sofosbuvir não foi carcinogênico nos estudos de carcinogenicidade de 2 anos em camundongos
+e ratos com exposições a GS-331007 até 15 e 9 vezes, respectivamente, superiores à exposição
+humana.
+- Velpatasvir
+O velpatasvir não foi genotóxico numa bateria de ensaios in vitro ou in vivo, incluindo
+mutagenicidade bacteriana, aberração cromossômica utilizando linfócitos humanos do sangue
+periférico e em ensaios do micronúcleo de rato in vivo.
+O velpatasvir não foi carcinogênico no estudo de 26 semanas com camundongos transgênicos e
+em 2 anos de estudos de carcinogenicidade em ratos com exposições até 91 e 7 vezes,
+respectivamente, superiores à exposição humana. O velpatasvir não teve efeitos adversos no
+acasalamento e fertilidade. Não foram observados efeitos teratogênicos nos estudos de toxicidade
+do desenvolvimento de camundongos e ratos com o velpatasvir a exposições de AUC de
+aproximadamente 31 e 6 vezes superiores, respectivamente, que a exposição humana na dose
+clínica recomendada. No entanto, foi indicado um possível efeito teratogénico em coelhos, nos
+quais foi observado um aumento no total de malformações viscerais nos animais expostos em
+exposições de AUC até 0,7 vezes superiores à exposição humana na dose clínica recomendada.
+Desconhece-se o risco potencial para o ser humano. O velpatasvir não teve efeitos adversos no
+comportamento, reprodução ou desenvolvimento na descendência no estudo de desenvolvimento
+pré e pós-natal no rato em exposições de AUC de aproximadamente 5 vezes superiores à
+exposição humana, na dose clínica recomendada.
+22
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+4. CONTRAINDICAÇÕES
+Hipersensibilidade às substâncias ativas ou a qualquer um dos excipientes.
+- Utilização com indutores potentes da P-gp e do CYP
+Medicamentos que são indutores potentes da glicoproteína P (P-gp) ou indutores potentes do
+citocromo P450 (CYP) (rifampicina, rifabutina, hipérico – Erva de São João [Hypericum
+perforatum], carbamazepina, fenobarbital e fenitoína). A coadministração irá diminuir
+significativamente as concentrações plasmáticas de sofosbuvir ou velpatasvir, podendo resultar
+na perda de eficácia de Epclusa (ver seção 6 – INTERAÇÕES MEDICAMENTOSAS).
+Gravidez – Epclusa em combinação com ribavirina (Categoria X)
+EPCLUSA em combinação com ribavirina não deve ser prescrito para mulheres grávidas
+ou por mulheres que possam ficar grávidas. Ele provoca anomalias fetais, sendo o risco ao
+feto maior do que qualquer benefício possível para a paciente.
+A prescrição deste tratamento combinado para mulheres com potencial de engravidar deve
+ser acompanhada por métodos contraceptivos adequados, com orientação quanto aos riscos
+de seu uso e rigoroso acompanhamento médico.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Epclusa não deve ser administrado concomitantemente com outros medicamentos contendo
+sofosbuvir.
+- Bradicardia grave e bloqueio cardíaco
+Têm sido observados casos de bradicardia grave e bloqueio cardíaco quando sofosbuvir, utilizado
+em associação com outro antiviral de ação direta (AAD), é utilizado com amiodarona
+concomitantemente, com ou sem outros medicamentos que diminuem a frequência cardíaca. O
+mecanismo não foi estabelecido.
+A utilização concomitante da amiodarona foi limitada através do desenvolvimento clínico de
+sofosbuvir em associação com AAD. Os casos são potencialmente fatais. Por consequência, a
+amiodarona só deve ser utilizada em pacientes que tomam Epclusa quando outros tratamentos
+antiarrítmicos alternativos não são tolerados ou são contraindicados.
+No caso de a utilização concomitante da amiodarona ser considerada necessária, recomenda-se
+que os pacientes sejam atentamente monitorizados quando iniciarem o tratamento com Epclusa.
+Os pacientes identificados em situação de alto risco de bradicardia devem ser continuamente
+monitorizados durante 48 horas num contexto clínico adequado.
+Devido à longa meia vida da amiodarona, deve proceder-se também a uma monitorização
+adequada no caso dos pacientes que suspenderam a utilização da amiodarona nos últimos meses
+e que irão iniciar a toma de Epclusa.
+Todos os pacientes que recebem Epclusa em associação com a amiodarona, com ou sem outros
+medicamentos que diminuem a frequência cardíaca, devem ser igualmente alertados para os
+sintomas de bradicardia e bloqueio cardíaco e informados da necessidade de contatarem
+urgentemente um médico caso verifiquem algum desses sintomas.
+23
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+- Pacientes que não responderam previamente ao tratamento com um regime contendo um inibidor
+da NS5A
+Com base em variantes associadas à resistência (VARs) da NS5A tipicamente observadas em
+pacientes que não responderam ao tratamento com outros regimes com inibidores da NS5A, a
+farmacologia in vitro de velpatasvir, os resultados do tratamento com sofosbuvir/velpatasvir em
+pacientes sem exposição prévia a inibidores da NS5A que apresentaram VARs da NS5A no início
+dos estudos ASTRAL e os dados clínicos disponíveis (ver seção 2.RESULTADOS DE
+EFICÁCIA), o tratamento com Epclusa + RBV durante 24 semanas pode ser considerado em
+pacientes com falha ao tratamento num regime com NS5A e que sejam considerados em risco
+elevado de progressão clínica da doença e que não tenham opções de tratamento alternativas.
+- Comprometimento renal
+Não é necessário um ajuste posológico de Epclusa em pacientes com comprometimento renal,
+incluindo Doença Renal em Estágio Final (DREF) necessitando hemodiálise (ver seção 3.
+CARACTERÍSTICAS FARMACOLÓGICAS, 2. RESULTADOS DE EFICÁCIA, 9.
+REAÇÕES ADVERSAS).
+- Utilização com indutores moderados da P-gp ou do CYP
+Os medicamentos que são indutores moderados da P-gp ou indutores moderados do CYP
+(p. ex., oxcarbazepina, modafinil ou efavirenz) podem diminuir as concentrações plasmáticas do
+sofosbuvir ou velpatasvir, levando à redução do efeito terapêutico de Epclusa. A coadministração
+destes medicamentos com Epclusa não é recomendada (ver seção 6 – INTERAÇÕES
+MEDICAMENTOSAS).
+- Uso com certos regimes antirretrovirais no HIV
+Verificou-se que Epclusa aumentou a exposição a tenofovir, especialmente quando usado em
+conjunto com um regime para HIV contendo fumarato de tenofovir desoproxila e um potenciador
+farmacocinético (ritonavir ou cobicistate). A segurança do fumarato de tenofovir desoproxila no
+contexto terapêutico de Epclusa e um potenciador farmacocinético não foi estabelecida. Os
+potenciais riscos e benefícios associados à coadministração de Epclusa com o comprimido de
+combinação de dose fixa contendo elvitegravir/cobicistate/entricitabina/ fumarato de tenofovir
+desoproxila ou fumarato de tenofovir desoproxila administrado em conjunto com um inibidor da
+protease do HIV potencializado (por exemplo, atazanavir ou darunavir) devem ser considerados,
+particularmente em pacientes com maior risco de disfunção renal. Pacientes recebendo Epclusa
+concomitantemente com elvitegravir/cobicistate/entricitabina/fumarato de tenofovir desoproxila
+ou com fumarato de tenofovir desoproxila e um inibidor da protease do HIV potencializado
+devem ser monitorados para reações adversas associadas a tenofovir. Consulte o texto de bula do
+medicamento fumarato de tenofovir desoproxila, entricitabina/ fumarato de tenofovir desoproxila,
+ou de elvitegravir/cobicistate/entricitabina/fumarato de tenofovir desoproxila para
+recomendações sobre o monitoramento renal.
+- Coinfecção VHC/VHB (vírus da Hepatite B)
+Casos de reativação do vírus da Hepatite B (VHB) foram reportados durante o tratamento com
+antivirais de ação direta, incluindo regimes contendo sofosbuvir. Deve ser realizada uma triagem
+para VHB em todos os pacientes antes de ser iniciado tratamento com EPCLUSA. Pacientes
+coinfectados com VHC/VHB estão em risco de reativação e devem ser monitorados e
+acompanhados conforme os guias clínicos atuais.
+24
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+- Cirrose de Classe C de CPT
+A segurança e eficácia de Epclusa não foram avaliadas em pacientes com cirrose de Classe C de
+CPT (ver seções 9. REAÇÕES ADVERSAS e 3. CARACTERÍSTICAS FARMACOLÓGICAS).
+- Pacientes com transplante hepático
+A segurança e eficácia de Epclusa no tratamento da infecção por VHC em pacientes
+pós-transplante hepático não foram avaliadas. O tratamento com Epclusa de acordo com a
+posologia recomendada (ver seção 8. POSOLOGIA E MODO DE USAR) deve ser orientado por
+uma avaliação dos potenciais benefícios e riscos para o paciente individual.
+Fertilidade, Gravidez e Lactação
+Gravidez - Categoria B
+A quantidade de dados sobre a utilização de sofosbuvir, velpatasvir ou Epclusa em mulheres
+grávidas é limitada (menos de 300 gravidezes expostas) ou inexistente.
+- Sofosbuvir
+Os estudos em animais não indicam efeitos nocivos diretos ou indiretos no que diz respeito à
+toxicidade reprodutiva (ver seção 3.CARACTERÍSTICAS FARMACOLÓGICAS).
+Não foi possível estimar na totalidade as margens de exposição atingidas com o sofosbuvir em
+ratos em relação à exposição humana com a dose clínica recomendada (ver seção
+3.CARACTERÍSTICAS FARMACOLÓGICAS).
+- Velpatasvir
+Os estudos em animais demonstraram uma possível ligação à toxicidade reprodutiva (ver seção
+3.CARACTERÍSTICAS FARMACOLÓGICAS).
+Como medida de precaução, não é recomendada a utilização de Epclusa durante a gravidez.
+- Amamentação
+Desconhece-se se o sofosbuvir, os metabólitos de sofosbuvir ou o velpatasvir são excretados no
+leite humano.
+Os dados farmacocinéticos disponíveis em animais mostraram excreção de velpatasvir e de
+metabólitos de sofosbuvir no leite.
+Não pode ser excluído qualquer risco para os recém-nascidos/lactentes. Por conseguinte, Epclusa
+não deve ser utilizado durante a amamentação.
+- Fertilidade
+Não estão disponíveis dados em humanos sobre o efeito de Epclusa na fertilidade. Os estudos em
+animais não indicam efeitos nocivos de sofosbuvir ou velpatasvir na fertilidade.
+Se a ribavirina for coadministrada com Epclusa, consulte a bula da ribavirina para recomendações
+detalhadas relativamente a gravidez, contracepção e amamentação.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica.
+25
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Efeitos Sobre a Capacidade de Dirigir e Operar Máquinas
+Os efeitos de Epclusa sobre a capacidade de conduzir e utilizar máquinas são nulos ou
+desprezíveis.
+6. INTERAÇÕES MEDICAMENTOSAS
+Como Epclusa contém sofosbuvir e velpatasvir, quaisquer interações que tenham sido
+identificadas com cada uma destas substâncias ativas individualmente podem ocorrer com
+Epclusa.
+- Potencial de Epclusa para afetar outros medicamentos
+O velpatasvir é um inibidor do transportador de fármacos P-gp, da proteína de resistência ao
+câncer da mama (BCRP), do polipeptídeo transportador de anions orgânicos (OATP) 1B1 e
+OATP1B3. A coadministração de Epclusa com medicamentos que são substratos destes
+transportadores pode aumentar a exposição a tais medicamentos. Consulte a Tabela 16 para
+exemplos de interações com substratos sensíveis à P-gp (digoxina), BCRP (rosuvastatina) e
+OATP (pravastatina).
+- Potencial de outros medicamentos para afetar Epclusa
+O sofosbuvir e o velpatasvir são substratos dos transportadores de fármacos P-gp e BCRP. O
+velpatasvir também é um substrato do transportador de fármacos OATP1B. Foi observada in vitro
+uma conversão metabólica lenta do velpatasvir pelo CYP2B6, CYP2C8 e CYP3A4.
+Medicamentos que são indutores potentes da P-gp ou indutores potentes do CYP2B6, CYP2C8
+ou CYP3A4 [por ex., rifampicina, rifabutina, hipérico (erva de são joão), carbamazepina,
+fenobarbital e fenitoína] podem diminuir as concentrações plasmáticas de sofosbuvir ou
+velpatasvir, levando à redução do efeito terapêutico de sofosbuvir/velpatasvir. A utilização destes
+medicamentos com Epclusa é contraindicada (ver seção 4.CONTRAINDICAÇÕES). Os
+medicamentos que são indutores moderados da P-gp ou indutores moderados do CYP (p. ex.,
+oxcarbazepina, modafinil ou efavirenz) podem diminuir a concentração plasmática do sofosbuvir
+ou velpatasvir, levando à redução do efeito terapêutico de Epclusa. A coadministração destes
+medicamentos com Epclusa não é recomendada (ver seção 4.CONTRAINDICAÇÕES). A
+coadministração com medicamentos que inibem a P-gp ou a BCRP pode aumentar as
+concentrações plasmáticas de sofosbuvir ou velpatasvir. Medicamentos que inibem o OATP,
+CYP2B6, CYP2C8 ou CYP3A4 podem aumentar a concentração plasmática de velpatasvir. Não
+se esperam interações medicamentosas clinicamente significativas com Epclusa mediadas por
+inibidores da P-gp, BCRP, OATP ou CYP450; Epclusa pode ser coadministrado com inibidores
+da P-gp, BCRP, OATP e CYP.
+- Pacientes em tratamento com antagonistas da vitamina K
+Como a função hepática pode ser alterada durante o tratamento com Epclusa, recomenda-se um
+monitoramento rigoroso dos valores do Índice Normalizado Internacional - International
+Normalised Ratio (INR).
+- Interações entre Epclusa e outros medicamentos
+A Tabela 17 apresenta uma lista de interações medicamentosas estabelecidas ou que são,
+potencialmente, clinicamente significativas (onde o intervalo de confiança [IC] de 90% da razão
+da média geométrica pelos mínimos quadrados [GLSM, geometric least-squares mean] era
+semelhante “↔”, estava acima “↑”, ou estava abaixo “↓” dos limites de interação
+predeterminados). As interações medicamentosas descritas baseiam-se em estudos realizados com
+26
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+sofosbuvir/velpatasvir ou com velpatasvir e sofosbuvir como agentes individuais, ou são
+interações medicamentosas previstas, que podem ocorrer com sofosbuvir/velpatasvir. Esta tabela
+não é totalmente abrangente.
+Tabela 17: Interações entre Epclusa e outros medicamentos
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+AGENTES REDUTORES DE ÁCIDO
+A solubilidade de velpatasvir
+diminui com o aumento do
+pH. Prevê-se que os
+medicamentos que aumentam
+o pH gástrico diminuam a
+concentração de velpatasvir.
+Antiácidos
+p. ex., hidróxido de alumínio ou Interação não estudada. Recomenda-se separar a
+hidróxido de magnésio; administração do antiácido e
+carbonato de cálcio Previsto: de Epclusa em pelo menos
+4 horas.
+↔ sofosbuvir
+(Aumento do pH gástrico) ↓ velpatasvir
+27
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+Antagonistas dos receptores H
+2
+famotidina sofosbuvir ↔ ↔ Os antagonistas dos
+recetores H podem ser
+2
+(dose única de 40 mg)/ administrados
+sofosbuvir/velpatasvir (dose simultaneamente ou
+única de 400/100 mg)c alternadamente com Epclusa
+numa dose que não exceda
+velpatasvir ↓ ↓
+doses comparáveis a 40 mg de
+famotidina duas vezes por dia.
+famotidina administrada 0,80 0,81
+simultaneamente com Epclusad (0,70; (0,71;
+0,91) 0,91)
+cimetidinae
+nizatidinae
+ranitidinae
+(Aumento do pH gástrico)
+famotidina sofosbuvir ↓ ↓
+(dose única de 40 mg)/ 0,77 0,80
+sofosbuvir/velpatasvir (dose (0,68; (0,73;
+única de 400/100 mg)c 0,87) 0,88)
+velpatasvir ↔ ↔
+famotidina administrada
+12 horas antes de epclusad
+(Aumento do pH gástrico)
+28
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+Inibidores de bomba de prótons
+omeprazol sofosbuvir ↓ ↓ Não se recomenda a
+coadministração com
+(20 mg uma vez por dia)/ 0,66 0,71 inibidores de bomba de
+sofosbuvir/velpatasvir (dose (0,55; (0,60; prótons. Caso a
+0,78) 0,83)
+única de 400/100 mg em coadministração seja
+jejum)c considerada necessária,
+velpatasvir ↓ ↓ Epclusa deve ser administrado
+omeprazol administrado com alimentos e 4 horas antes
+simultaneamente com Epclusad 0,63 0,64 do inibidor da bomba de
+(0,50; (0,52;
+prótons, numa dose que não
+lansoprazole 0,78) 0,79)
+exceda doses comparáveis a
+20 mg de omeprazol.
+rabeprazole
+pantoprazole
+esomeprazole
+(Aumento do pH gástrico)
+omeprazol sofosbuvir ↓ ↔
+(20 mg uma vez por dia)/ 0,79
+sofosbuvir/velpatasvir (dose (0,68;
+única de 400/100 mg após 0,92)
+ingestão de alimentos)c
+omeprazol administrado 4 horas
+após Epclusad
+(Aumento do pH gástrico)
+velpatasvir ↓ ↓
+0,67 0,74
+(0,58; (0,63;
+0,78) 0,86)
+29
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+ANTIARRÍTMICOS
+amiodarona Interação não estudada. Deve-se utilizar apenas se não
+existir outra alternativa
+Efeito sobre as concentrações de disponível. Recomenda-se
+amiodarona, velpatasvir e sofosbuvir uma monitorização atenta no
+desconhecido. caso de este medicamento ser
+administrado com Epclusa
+(ver Seções 5.
+ADVERTÊNCIAS E
+PRECAUÇÕES e 9.
+REAÇÕES ADVERSAS).
+digoxina Interação apenas estudada com A coadministração de Epclusa
+velpatasvir. com digoxina pode aumentar a
+concentração de digoxina.
+Previsto: É necessária precaução e
+recomenda-se a monitorização
+↔ sofosbuvir das concentrações terapêuticas
+de digoxina quando esta é
+digoxina (dose única de Efeito sobre a exposição a
+coadministrada com Epclusa.
+0,25 mg)f/velpatasvir (dose velpatasvir não estudado
+única de 100 mg)
+Previsto:
+↔ velpatasvir
+(Inibição da P-gp)
+Observado:
+digoxina ↑ ↑
+1,9 1,3
+(1,7; (1,1;
+2,1) 1,6)
+30
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+ANTICOAGULANTES
+etexilato de dabigatrana Interação não estudada. Recomenda-se a
+monitorização clínica, à
+Previsto: procura de sinais de
+hemorragia e anemia, quando
+↑ dabigatrana o etexilato de dabigatrana é
+coadministrado com Epclusa.
+↔ sofosbuvir
+Um teste de coagulação ajuda
+a identificar os pacientes com
+↔ velpatasvir
+um maior risco de hemorragia
+devido ao aumento da
+(Inibição da P-gp)
+exposição à dabigatrana.
+ANTICÂNCER
+topotecano ↑ topotecano A coadministração não é
+recomendada.
+ANTICONVULSIVANTES
+carbamazepina Interação não estudada. Epclusa é contraindicado com
+carbamazepina, fenobarbital e
+fenitoína Previsto: fenitoína, indutores potentes
+da P-gp e do CYP (ver
+fenobarbital ↓ sofosbuvir seção 4.CONTRAINDICA-
+ÇÕES).
+↓ velpatasvir
+(Indução da P-gp e CYPs)
+Oxcarbazepina Interação não estudada. Prevê-se que a
+coadministração de Epclusa
+Previsto: com oxcarbazepina diminua a
+concentração de sofosbuvir e
+↓ sofosbuvir velpatasvir, levando a uma
+redução do efeito terapêutico
+(Indução da P-gp e CYPs) ↓ velpatasvir
+de Epclusa. A coadministração
+não é recomendada (ver
+seção 5.ADVERTÊNCIAS E
+PRECAUÇÕES).
+31
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+ANTIFÚNGICOS
+cetoconazol Interação apenas estudada com Não são necessários ajustes da
+velpatasvir dose de Epclusa ou de
+cetoconazol.
+Previsto:
+↔ sofosbuvir
+cetoconazol (200 mg duas Efeito sobre a exposição a cetoconazol
+vezes por dia)/velpatasvir (dose não estudado.
+única de 100 mg)d
+Previsto:
+↔ cetoconazol
+Observado:
+velpatasvir ↑ ↑
+(Inibição da P-gp e CYPs)
+1,3 1,7
+(1,0; (1,4;
+1,6) 2,2)
+itraconazol
+voriconazol
+posaconazol
+isavuconazol
+ANTIBACTERIANOS
+rifampicina (600 mg uma vez Efeito sobre a exposição a rifampicina Epclusa é contraindicado com
+por dia)/sofosbuvir (dose única não estudado. rifampicina, um indutor
+de 400 mg)d potente da P-gp e do CYP (ver
+seção 4.CONTRAINDICAÇÕ
+ES).
+Previsto:
+↔ rifampicina
+(Indução da P-gp e CYPs)
+Observado:
+sofosbuvir ↓ ↓
+0,23 0,28
+(0,19; (0,24;
+0,29) 0,32)
+32
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+rifampicina (600 mg uma vez Efeito sobre a exposição a rifampicina
+por dia)/velpatasvir (dose única não estudado.
+de 100 mg)
+Previsto:
+↔ rifampicina
+Observado: ↓ ↓
+velpatasvir 0,29 0,18
+(Indução da P-gp e CYPs) (0,23; (0,15;
+0,37) 0,22)
+rifabutina Interação não estudada. Epclusa é contraindicado com
+rifabutina, um indutor potente
+rifapentina Previsto: da P-gp e CYP (ver
+seção 4.CONTRAINDICAÇÕ
+↓ sofosbuvir ES).
+↓ velpatasvir
+Prevê-se que a
+coadministração de Epclusa
+(Indução da P-gp e CYPs)
+com rifapentina diminua a
+concentração de sofosbuvir e
+velpatasvir, levando a uma
+redução do efeito terapêutico
+de Epclusa. A coadministração
+não é recomendada (ver
+seção 4.CONTRAINDICAÇÕ
+ES).
+33
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+ANTIRRETROVIRAIS: INIBIDORES DA TRANSCRIPTASE REVERSA
+Fumarato de tenofovir Epclusa demonstrou aumentar a exposição ao tenofovir (inibição da
+desoproxila P-gp). O aumento na exposição ao tenofovir (AUC e C ) foi de
+max
+aproximadamente 40-80% durante o tratamento em associação com
+Epclusa e fumarato de tenofovir desoproxila /entricitabina como parte de
+vários regimes contra o HIV.
+Os pacientes que utilizarem fumarato de tenofovir desoproxila
+concomitantemente com Epclusa devem ser monitorizados para deteção
+de reações adversas associadas ao fumarato de tenofovir desoproxila.
+Consulte a bula do fumarato de tenofovir desoproxila para
+recomendações sobre monitorização renal.
+Efavirenz/entricitabina/ efavirenz ↔ ↔ ↔ Prevê-se que a
+fumarato de tenofovir coadministração de Epclusa
+desoproxila com efavirenz/entricitabina/
+fumarato de tenofovir
+(600/200/300 mg/uma vez por desoproxila diminua a
+dia)/sofosbuvir/ concentração de velpatasvir. A
+velpatasvir (400/100 mg uma sofosbuvir ↑ ↔ coadministração de Epclusa
+vez por dia)c, d com regimes com efavirenz
+1,2
+não é recomendada (ver
+(1,1,
+seção 5. ADVERTÊNCIAS E
+1,7)
+PRECAUÇÕES).
+velpatasvir ↓ ↓ ↓
+0,53 0,47 0,43
+(0,43; (0,39; (0,36;
+0,64) 0,57) 0,52)
+entricitabina/rilpivirina/ rilpivirina ↔ ↔ ↔ Não são necessários ajustes da
+fumarato de tenofovir dose de Epclusa ou de
+desoproxila sofosbuvir ↔ ↔ entricitabina/rilpivirina/
+fumarato de tenofovir
+(200/25/300 mg/uma vez por velpatasvir ↔ ↔ ↔ desoproxila.
+dia)/sofosbuvir/velpatasvir
+(400/100 mg uma vez por dia)c,
+d
+ANTIRRETROVIRAIS: INIBIDORES DA PROTEASE DO HIV
+atazanavir potencializado com atazanavir ↔ ↔ ↑
+ritonavir (300/100 mg uma vez
+por dia) + entricitabina/ 1,4
+fumarato de tenofovir (1,2;
+desoproxila (200/300 mg uma 1,6)
+34
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+vez por ritonavir ↔ ↑ Não são necessários ajustes da
+dia)/sofosbuvir/velpatasvir dose de Epclusa, atazanavir
+(400/100 mg uma vez por dia)c, 1,3 (potencializado com ritonavir)
+d (1,5; ou entricitabina/ fumarato de
+1,4) tenofovir desoproxila.
+sofosbuvir ↔ ↔
+velpatasvir ↑ ↑ ↑
+1,6 2,4 4,0
+(1,4; (2,2; (3,6;
+1,7) 2,6) 4,5)
+ANTIRRETROVIRAIS: INIBIDORES DA PROTEASE DO HIV
+darunavir potencializado com darunavir ↔ ↔ ↔ Não são necessários ajustes da
+ritonavir (800 mg/100 mg uma dose de Epclusa, darunavir
+vez por dia) + entricitabina/ ritonavir ↔ ↔ ↔ (potenciado com ritonavir) ou
+fumarato de tenofovir entricitabina/ fumarato de
+desoproxila (200/300 mg uma sofosbuvir ↓ ↓ tenofovir desoproxila.
+vez por
+0,62 0,72
+dia)/sofosbuvir/velpatasvir
+(0,54; (0,66;
+(400/100 mg uma vez por dia)c,
+0,71) 0,80)
+d
+velpatasvir ↓ ↔ ↔
+0,76
+(0,65;
+0,89)
+lopinavir potencializado com lopinavir ↔ ↔ ↔ Não são necessários ajustes da
+ritonavir (4x200 mg/50 mg uma dose de Epclusa, lopinavir
+vez por dia) + entricitabina/ ritonavir ↔ ↔ ↔ (potencializado com ritonavir)
+fumarato de tenofovir ou entricitabina/ fumarato de
+desoproxila (200/ tenofovir desoproxila.
+300 mg uma vez por dia)/
+sofosbuvir/velpatasvir
+sofosbuvir ↓ ↓
+(400/100 mg uma vez por dia) c,
+0,59 0,7
+d
+(0,49; (0,6;
+0,71) 0,8)
+velpatasvir ↓ ↔ ↑
+0,70 1,6
+(0,59; (1,4;
+0,83) 1,9)
+35
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+ANTIRRETROVIRAIS: INIBIDORES DA INTEGRASE
+raltegravir (400 mg duas vezes raltegravir ↔ ↔ ↓ Não são necessários ajustes da
+por dia)g + entricitabina/ dose de Epclusa, raltegravir ou
+fumarato de tenofovir 0,79 entricitabina/ fumarato de
+desoproxila (200/300 mg uma (0,42; tenofovir desoproxila.
+1,5)
+vez por
+dia)/sofosbuvir/velpatasvirir
+sofosbuvir ↔ ↔
+(400/100 mg uma vez por dia)c,
+d
+velpatasvir ↔ ↔ ↔
+elvitegravir/cobicistate/ elvitegravir ↔ ↔ ↔ Não são necessários ajustes da
+entricitabina/fumarato de dose de Epclusa ou de
+tenofovir alafenamida cobicistate ↔ ↔ ↑ elvitegravir/cobicistate/
+entricitabina/fumarato de
+(150/150/200/10 mg uma vez 2,0 tenofovir alafenamida.
+por dia)/sofosbuvir/ (1,7;
+velpatasvir (400/100 mg uma 2,5)
+vez por dia)c, d
+tenofovir ↔ ↔
+alafenami-
+da
+sofosbuvir ↔ ↑
+1,4
+(1,2,
+1,5)
+velpatasvir ↑ ↑ ↑
+1,3 1,5 1,6
+(1,2; (1,4; (1,4;
+1,5) 1,7) 1,8)
+elvitegravir/cobicistate/ elvitegravir ↔ ↔ ↔ Não são necessários ajustes da
+entricitabina/fumarato de dose de Epclusa ou de
+tenofovir desoproxila cobicistate ↔ ↑ ↑ elvitegravir/cobicistate/
+entricitabina/fumarato de
+(150/150/200/300 mg uma vez 1,2 1,7 tenofovir desoproxila.
+por dia)/sofosbuvir/ (1,2; (1,5;
+velpatasvir (400/100 mg uma 1,3) 1,9)
+vez por dia)c, d
+sofosbuvir ↔ ↔
+velpatasvir ↔ ↔ ↑
+1,4
+(1,2;
+1,5)
+36
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+dolutegravir (50 mg uma vez dolutegravir ↔ ↔ ↔ Não são necessários ajustes da
+por dia)/sofosbuvir/ dose de Epclusa ou de
+velpatasvir (400/100 mg uma sofosbuvir ↔ ↔ dolutegravir.
+vez por dia)
+velpatasvir ↔ ↔ ↔
+tipranavir/ritonavir ↓ sofosbuvir A coadministração não é
+↓ velpatasvir recomendada.
+SUPLEMENTOS À BASE DE PLANTAS
+hipérico (erva de São João) Interação não estudada. Epclusa é contraindicado com
+hipérico, um indutor potente
+Previsto: da P-gp e do CYP (ver
+seção 4.
+↓ sofosbuvir CONTRAINDICAÇÕES).
+↓ velpatasvir
+(Indução da P-gp e CYPs)
+INIBIDORES DA HMG-CoA REDUTASE
+rosuvastatina Interação apenas estudada com A coadministração de Epclusa
+velpatasvir com rosuvastatina aumenta a
+concentração de rosuvastatina,
+Previsto: o que está associado a um
+aumento do risco de miopatia,
+↔ sofosbuvir incluindo rabdomiólise. A
+rosuvastatina, numa dose que
+rosuvastatina (dose única de Observado:
+não ultrapasse os 10 mg, pode
+10 mg)/velpatasvir (100 mg
+ser administrada com Epclusa.
+uma vez por dia)d rosuvastatina ↑ ↑
+2,6 2,7
+(2,3; (2,5;
+2,9) 2,9)
+Efeito sobre a exposição a velpatasvir
+não estudado
+(Inibição do OATP1B e BCRP)
+Previsto:
+↔ velpatasvir
+pravastatina Interação apenas estudada com Não são necessários ajustes da
+velpatasvir dose de Epclusa ou de
+pravastatina.
+Previsto:
+↔ sofosbuvir
+37
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+pravastatina (dose única de Observado:
+40 mg)/velpatasvir (100 mg
+uma vez por dia)d Pravastatina ↑ ↑
+1,3 1,4
+(1,1; (1,2;
+1,5) 1,5)
+(Inibição do OATP1B) Efeito sobre a exposição a velpatasvir
+não estudado
+Previsto:
+↔ velpatasvir
+Atorvatastina ↑ atorvatastina A coadministração de Epclusa
+com a atorvastatina deverá
+aumentar as concentrações de
+atorvastatina, que está
+associada ao aumento do risco
+de miopatia, incluindo
+rabdomiólise. Monitorar de
+perto as reacções adversas
+associadas ao inibidor da
+HMG-CoA redutase, tais
+como miopatia e rabdomiólise.
+Outras estatinas Previsto: Não se podem excluir
+interações com outros
+↑ estatinas inibidores da HMG-CoA
+redutase. Quando
+coadministradas com Epclusa,
+deve ser efetuada uma
+monitorização cuidadosa das
+reações adversas relacionadas
+com as estatinas e deve ser
+considerada uma dose menor
+de estatinas, se for necessário.
+ANALGÉSICOS NARCÓTICOS
+metadona R-metadona ↔ ↔ ↔ Não são necessários ajustes da
+dose de Epclusa ou de
+(terapêutica de manutenção metadona.
+com metadona [30 a
+130 mg/dia])/sofosbuvir S-metadona ↔ ↔ ↔
+(400 mg uma vez por dia)d
+38
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+sofosbuvir ↔ ↑
+1,3
+(1,0;
+1,7)
+metadona Interação apenas estudada com
+sofosbuvir
+Previsto:
+↔ velpatasvir
+IMUNOSSUPRESSORES
+ciclosporina ciclosporina ↔ ↔ Não são necessários ajustes da
+dose de Epclusa ou de
+(dose única de 600 mg)/ ciclosporina.
+sofosbuvir (dose única de
+400 mg)f sofosbuvir ↑ ↑
+2,5 4,5
+(1,9; (3,3;
+3,5) 6,3)
+ciclosporina ciclosporina ↔ ↓
+(dose única de 600 mg)f/ 0,88
+velpatasvir (dose única de (0,78;
+100 mg)d 1,0)
+velpatasvir ↑ ↑
+1,6 2,0
+(1,2; (1,5;
+2,0) 2,7)
+tacrolímus tacrolímus ↓ ↑ Não são necessários ajustes da
+dose de Epclusa ou de
+(dose única de 5 mg)f/ 0,73 1,1 tacrolímus.
+sofosbuvir (dose única de (0,59; (0,84;
+400 mg)d 0,90) 1,4)
+sofosbuvir ↓ ↑
+0,97 1,1
+(0,65; (0,81;
+1,4) 1,6)
+39
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Medicamento por áreas Efeitos sobre os níveis dos
+terapêuticas/Possível medicamentos.
+mecanismo de interação
+Razão média (intervalo de confiança
+de 90%)a,b
+Recomendação com relação
+Substância à coadministração com
+ativa C AUC C Epclusa
+max min
+tacrolímus Efeito sobre a exposição a velpatasvir
+não estudado.
+Previsto:
+↔ velpatasvir
+CONTRACEPTIVOS ORAIS
+norgestimato/etinilestradiol norelges- ↔ ↔ ↔ Não são necessários ajustes da
+(norgestimato 0,180 mg/ tromina dose dos contraceptivos orais.
+0,215 mg/0,25 mg/
+etinilestradiol 0,025 mg)/
+sofosbuvir (400 mg uma vez
+por dia)d
+norgestrel ↔ ↑ ↑
+1,2 1,2
+(0,98; (1,0;
+1,5) 1,5)
+etinilestra- ↔ ↔ ↔
+diol
+norgestimato/etinilestradiol norelges- ↔ ↔ ↔
+(norgestimato 0,180 mg/ tromina
+0,215 mg/0,25 mg/
+etinilestradiol 0,025 mg)/
+velpatasvir (100 mg uma vez norgestrel ↔ ↔ ↔
+por dia)d
+etinilestra- ↑ ↔ ↓
+diol
+1,4 (1,2; 0,83
+1,7) (0,65;
+1,1)
+a. Razão média (IC de 90%) da farmacocinética dos fármacos coadministrados com um medicamento do
+estudo isolado ou em associação com ambos os medicamentos do estudo. Sem efeito = 1,00.
+b. Todos os estudos de interação foram realizados em voluntários sadios.
+c. Administrado como Epclusa.
+d. Ausência de ligações de interação farmacocinética 70-143%.
+e. Estes são medicamentos dentro de uma classe na qual se podem prever interações semelhantes.
+f. Limites de equivalência/bioequivalência 80-125%.
+g. Ausência de ligações de interação farmacocinética 50-200%.
+Outras formas de interação
+A melhora da função hepática como resultado do tratamento do vírus da Hepatite C com antivirais
+de ação direta pode requerer a monitorização de parâmetros laboratoriais relevantes em pacientes
+40
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+suscetíveis (por exemplo, Razão Normalizada Internacional (RNI) em pacientes que tomam
+antagonistas da vitamina K, níveis de glicose no sangue em pacientes diabéticos). Medicamentos
+concomitantes que são significativamente afetados por alterações na função hepática (por
+exemplo, inibidores da calcineurina) podem requerer monitoramento ou modificação da dose para
+assegurar eficácia continuada.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar à temperatura ambiente (entre 15° e 30° C).
+Este medicamento tem o prazo de validade de 24 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem
+original.
+Características físicas e organolépticas: o comprimido revestido de Epclusa é vermelho, em
+forma de losango, gravado com “GSI” de um lado e com “7916” do outro.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+O tratamento com Epclusa deve ser iniciado e monitorizado por um médico com experiência no
+tratamento de pacientes com infecção por VHC.
+A dose recomendada de Epclusa em adultos é de um comprimido 400 mg/100 mg, administrado
+por via oral, uma vez por dia, com ou sem alimentos (ver seção 3. CARACTERÍSTICAS
+FARMACOLÓGICAS).
+A dose recomendada de Epclusa em pacientes com 12 a <18 anos ou pesando pelo menos 30 kg
+é de um comprimido de 400 mg/100 mg, administrado por via oral, uma vez por dia, com ou sem
+alimentos (ver seção 3. CARACTERÍSTICAS FARMACOLÓGICAS).
+41
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Tabela 18: Tratamento recomendado e duração para pacientes adultos e pediátricos com
+12 anos ou mais ou pesando pelo menos 30 kg
+População de pacientesa Tratamento e duração
+Pacientes sem cirrose e pacientes
+com cirrose compensada infectados
+com VHC genótipos 1, 2, 3, 4, 5, 6
+Pacientes sem cirrose e pacientes Epclusa durante 12 semanas
+com cirrose compensada,
+coinfectados com o vírus da
+imunodeficiência humana (HIV) em
+um regime estável de terapia
+antirretroviral (HIV RNA < 50
+cópias/mL), com VHC genótipos 1,
+2, 3 e 4
+Pacientes com cirrose
+descompensada infectados com Epclusa + ribavirina durante 12 semanas
+VHC genótipos 1, 2, 3 e 4
+a. Inclui pacientes com VHC recorrente pós-transplante hepático (ver seção 5. ADVERTÊNCIAS E
+PRECAUÇÕES).
+Quando utilizado em associação com a ribavirina, consulte também a bula da ribavirina.
+Os pacientes devem ser orientados a engolir o comprimido inteiro com ou sem alimentos (ver
+seção 3. CARACTERÍSTICAS FARMACOLÓGICAS). Devido ao sabor amargo, recomenda-se
+que o comprimido revestido não seja mastigado ou esmagado.
+Este medicamento não deve ser partido, aberto ou mastigado.
+É recomendada a seguinte posologia para adultos nos casos em que a ribavirina é repartida em
+duas doses diárias e administrada com alimentos:
+42
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Tabela 19: Orientações relativas à posologia de ribavirina quando administrada com
+Epclusa em adultos com cirrose descompensada
+Paciente adulto Dose de ribavirina
+Cirrose de Classe B CPT pré- 1.000 mg por dia em pacientes com um peso < 75 kg e
+transplante 1.200 mg em pacientes com um peso ≥ 75 kg
+Cirrose de Classe C de CPT Dose inicial de 600 mg, que pode ser aumentada
+pré-transplante gradualmente até um máximo de 1.000/1.200 mg
+(1.000 mg em pacientes com um peso < 75 kg e 1.200 mg
+em pacientes com um peso ≥ 75 kg), se for bem tolerada.
+Se a dose inicial não for bem tolerada, a dose deverá ser
+Classe B ou C de CPT pós-
+diminuída conforme clinicamente indicado com base nos
+transplante
+níveis da hemoglobina.
+Se a ribavirina for utilizada em pacientes adultos infectados com genótipo 3 com cirrose
+compensada (pré- ou pós-transplante) a dose de ribavirina recomendada é de 1.000/1.200 mg
+(1.000 mg em pacientes adultos com um peso < 75 kg e 1.200 mg em pacientes adultos com um
+peso ≥ 75 kg).
+Tabela 20. Dose recomendada de ribavirina em terapia combinada com Epclusa para
+pacientes pediátricos com 12 anos ou mais ou pesando pelo menos 30 kg
+Peso corporal (kg) Dose diária de ribavirina oral
+Menos de 47 15 mg por kg por dia
+(duas vezes ao dia, 7,5 mg por kg pela manhã e 7,5 mg por kg à noite)
+47-49 600 mg por dia
+(duas vezes ao dia, 1 x 200 mg pela manhã e 2 x 200 mg à noite)
+50-65 800 mg por dia
+(duas vezes ao dia, 2 x 200 mg pela manhã e 2 x 200 mg à noite)
+66-80 1.000 mg por dia
+(duas vezes ao dia, 2 x 200 mg pela manhã e 3 x 200 mg à noite)
+Mais de 80 1.200 mg por dia
+(duas vezes ao dia, 3 x 200 mg pela manhã e 3 x 200 mg à noite)
+aA dose diária de ribavirina é baseada no peso e é administrada por via oral dividida em duas
+doses com alimento.
+Epclusa coadministrado com ribavirina não foi estudado na população pediátrica.
+Para modificação da dose de ribavirina, consulte também a bula da ribavirina.
+Os pacientes devem ser informados de que se ocorrerem vômitos no período de 3 horas após a
+administração da dose, devem tomar um comprimido de Epclusa adicional. Se ocorrerem vómitos
+mais de 3 horas após a administração da dose de Epclusa, não é necessária uma dose adicional
+(ver seção 3. CARACTERÍSTICAS FARMACOLÓGICAS).
+Se houver esquecimento de uma dose de Epclusa e isto acontecer no período de 18 horas após a
+hora normal, os pacientes devem ser instruídos a tomar o comprimido assim que possível e a
+tomar a dose seguinte à hora habitual. Se isto acontecer após 18 horas, então os pacientes devem
+43
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+ser instruídos a esperar e tomar a dose seguinte de Epclusa no horário habitual. Os pacientes
+devem ser instruídos a não tomar uma dose dobrada de Epclusa.
+- Pacientes com 12 anos ou mais ou pesando pelo menos 30 kg que não responderam previamente
+ao tratamento com um regime contendo um inibidor da NS5A
+Pode ser considerado o tratamento com Epclusa + ribavirina durante 24 semanas em pacientes
+que falharam ao tratamento num regime com NS5A e que sejam considerados em risco elevado
+de progressão clínica da doença e que não tenham opções de tratamento alternativas (ver seção 5.
+ADVERTÊNCIAS E PRECAUÇÕES).
+- Idosos
+Não é necessário ajuste posológico em pacientes idosos (ver seção 3. CARACTERÍSTICAS
+FARMACOLÓGICAS).
+- Comprometimento renal
+Não é necessário um ajuste posológico de Epclusa em pacientes com comprometimento renal,
+incluindo Doença Renal em Estágio Final (DREF) necessitando hemodiálise (ver seção 3 -
+CARACTERÍSTICAS FARMACOLÓGICAS, 2. RESULTADOS DE EFICÁCIA, 9.
+REAÇÕES ADVERSAS).
+- Comprometimento hepático
+Não é necessário ajuste posológico de Epclusa em pacientes com comprometimento hepático leve,
+moderado ou grave (Classe A, B ou C de CPT) (ver seção 3. CARACTERÍSTICAS
+FARMACOLÓGICAS). A segurança e eficácia de Epclusa foram avaliadas em pacientes com
+cirrose de Classe B de CPT, mas não foram avaliadas em pacientes com cirrose de Classe C de
+CPT (ver seções 5. ADVERTÊNCIAS E PRECAUÇÕES, 9. REAÇÕES ADVERSAS e 3.
+CARACTERÍSTICAS FARMACOLÓGICAS).
+- População pediátrica
+A segurança e eficácia de Epclusa em crianças com menos de 12 anos de idade e pesando menos
+de 30 kg ainda não foram estabelecidas.
+9. REAÇÕES ADVERSAS
+Se o Epclusa for administrado com Ribavirina, verifique a bula da ribavirina para verificar a
+descrição das reações adversas associadas à ribavirina.
+Estudos clínicos
+Reações adversas em pacientes sem cirrose ou com cirrose compensada
+Os dados das reações adversas do Epclusa em pacientes sem cirrose ou com cirrose compensada
+foram derivadas de três Estudos Clínicos de fase 3 (ASTRAL-1, ASTRAL-2 e ASTRAL-3) que
+avaliou um total de 1035 indivíduos infectados com o VHC genótipo 1, 2, 3, 4, 5 ou 6, sem cirrose
+ou com cirrose compensada, que receberam EPCLUSA por 12 semanas. Epclusa foi estudado em
+estudos placebo e ativo-controlados.
+A proporção de indivíduos que descontinuaram permanentemente o tratamento devido a eventos
+adversos foi 0,2% para os pacientes que receberam Epclusa por 12 semanas.
+44
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+As seguintes reações adversas (eventos adversos avaliados pelo investigador como causalmente
+relacionados), todos os graus, observadas em mais que ou igual a 5% dos pacientes recebendo
+tratamento com Epclusa por 12 semanas no ASTRAL-1 incluem:
+- Reação adversa muito comum (>1/10): dor de cabeça (22%) e fadiga (15%).
+- Reação adversa comum (>1/100 e ≤1/10): náusea (9%), astenia (5%) e insônia (5%).
+Dos pacientes recebendo Epclusa que apresentaram estas reações adversas, 79% teve uma reação
+adversa de severidade moderada (grau 1). Com exceção de astenia, cada uma destas reações
+adversas ocorreu em uma frequência similar ou mais frequentemente em indivíduos tratados com
+placebo em comparação com indivíduos tratados com Epclusa (astenia: grupos de 3% versus 5%
+para o placebo e Epclusa, respectivamente).
+As reações adversas observadas em pacientes tratados com Epclusa no ASTRAL-2 e ASTRAL-
+3 foram consistentes com aqueles observados no ASTRAL-1. Irritabilidade também foi uma
+reação adversa comum observada em mais que ou igual a 5% dos indivíduos tratados com Epclusa
+no ASTRAL-3.
+Reações adversas em pacientes coinfectados com VHC e HIV-1
+A avaliação da segurança do Epclusa em pacientes coinfectados com VHC/HIV-1 foi baseada em
+um Estudo clínico aberto (ASTRAL-5) em 106 pacientes que estavam em terapia antirretroviral
+estável. O perfil de segurança em pacientes coinfectados com VHC/HIV-1 foi semelhante ao
+observado em indivíduos monoinfectados pelo VHC. As reações adversas muito comuns nos
+pacientes foram fadiga (22%) e dor de cabeça (10%).
+Reações adversas em pacientes com cirrose descompensada
+A avaliação da segurança do Epclusa em pacientes infectados com o VHC com genótipo 1, 2, 3,
+4 ou 6 com cirrose descompensada foi baseado em um Estudo clínico fase 3 (ASTRAL-4)
+incluindo 87 pacientes que receberam Epclusa e ribavirina por 12 semanas. Todos os 87 sujeitos
+tinham cirrose de Child-Pugh B na triagem. No primeiro dia de tratamento com Epclusa e
+ribavirina, 6 pacientes e 4 pacientes foram avaliados com cirrose de Child-Pugh A e de Child-
+Pugh C, respectivamente.
+As reações adversas muito comuns (eventos adversos avaliados pelo investigador como
+causalmente relacionados) nos 87 pacientes que receberam Epclusa e ribavirina por 12 semanas
+foram: fadiga (32%), anemia (26%), náuseas (15%), dor de cabeça (11%), insônia (11%) e
+diarreia (10%). Dos pacientes que apresentaram estas reações adversas, 98% tiveram reações
+adversas de leve a moderada severidade.
+Um total de 4 (5%) dos pacientes descontinuaram permanentemente Epclusa e ribavirina, devido
+a um evento adverso; não houve nenhum evento adverso, levando a descontinuação que ocorreu
+em mais que 1 paciente.
+Foi observada uma reação adversa muito comum em 23% e 7% dos pacientes tratados com
+Epclusa e ribavirina por 12 semanas, uma diminuição da hemoglobina durante o tratamento para
+menos do que 10 g/dL e 8,5 g/dL, respectivamente. A ribavirina foi descontinuada
+permanentemente em 17% dos indivíduos tratados com Epclusa e ribavirina por 12 semanas,
+devido a reações adversas.
+45
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Outras reações adversas relatadas em Estudos clínicos
+As seguintes reações adversas ocorreram em menos de 5% dos pacientes sem cirrose ou com
+cirrose compensada tratados com Epclusa por 12 semanas e foram incluídos devido à uma
+potencial relação causal.
+• Erupção cutânea (rash): No estudo ASTRAL-1, a erupção cutânea ocorreu em 2% dos
+pacientes tratados com Epclusa e em 1% dos pacientes tratados com placebo. Não ocorreu
+nenhuma reação adversa séria de erupção cutânea, todas as erupções foram leves ou
+moderadas em severidade.
+• Depressão: No estudo ASTRAL-1, o humor deprimido ocorreu em 1% dos indivíduos
+tratados com Epclusa e não foi relatado por nenhum dos pacientes que tomaram placebo.
+Não ocorreu nenhuma reação adversa séria de humor deprimido e todos os eventos de
+humor deprimido foram leves ou moderados em severidade.
+As seguintes reações adversas comuns ocorreram em indivíduos com cirrose descompensada
+(ASTRAL-4) tratados com Epclusa e ribavirina por 12 semanas e são incluídas devido à uma
+potencial relação causal.
+• Erupção cutânea (rash): Erupções cutâneas ocorreram em 5% dos pacientes tratados com
+Epclusa e ribavirina. Não ocorreu nenhuma reação adversa séria de erupção cutânea,
+todas as erupções foram leves ou moderadas em severidade.
+Anormalidades laboratoriais
+Elevações da lipase: No ASTRAL-1, isolado, elevações da lipase assintomáticas maiores que
+3xLSN (limite superior da normalidade) foram observadas em 3% e 1% dos pacientes tratados
+com Epclusa e placebo por 12 semanas, respectivamente; e em 6% e 3% dos pacientes tratados
+com Epclusa no ASTRAL-2 e ASTRAL-3, respectivamente.
+No Estudo clínico de fase 3 em indivíduos com cirrose descompensada (ASTRAL-4), a lipase foi
+avaliada quando os valores de amilase foram maiores que ou igual a 1.5xLSN (limite superior da
+normalidade). Isoladas, elevações da lipase assintomática maiores que 3xLSN (limite superior da
+normalidade) foram observadas em 2% dos pacientes tratados com Epcusa com ribavirina por 12
+semanas.
+Creatina quinase: No ASTRAL-1, isolado, elevações assintomáticas da creatina quinase maiores
+ou iguais a 10xLSNULN (limite superior da normalidade) foram relatadas em 1% e 0% dos
+indivíduos tratados com EPCLUSA e placebo por 12 semanas, respectivamente; e em 2% e 1%
+dos indivíduos tratados com EPCLUSA no ASTRAL-2 e 3-ASTRAL, respectivamente.
+No Estudo clínico fase 3 fase com cirrose descompensada (ASTRAL-4), isolado, elevações da
+creatina quinase assintomáticas maiores ou iguais a 10xLSN (limite superior da normalidade)
+foram relatadas em 1% dos pacientes tratados com Epclusa e ribavirina por 12 semanas.
+Bilirrubina indireta: Um aumento da bilirrubina indireta em até 3 mg/dL acima da linha de base
+foram verificados em pacientes coinfectados com VHC/HIV-1 tratados com com Epclusa e um
+regime antirretroviral baseado em atazanavir/ritonavir. Os valores elevados da bilirrubina indireta
+não foram associados com eventos adversos clínicos e todas os pacientes completaram 12
+semanas de Epclusa sem ajuste de dose ou interrupção do tratamento do Epclusa ou dos HIV
+agentes antirretroviral.
+Pacientes com comprometimento renal
+Não foram identificadas reações adversas específicas ao Epclusa em um estudo aberto (Estudo
+GS-US-342-4062) no qual um total de 59 indivíduos com HCV e DREF que necessitavam de
+46
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+diálise receberam Epclusa por 12 semanas. Os eventos adversos observados foram consistentes
+com as sequelas clínicas esperadas da DREF.
+População pediátrica
+A avaliação da segurança de Epclusa em pacientes pediátricos com 12 anos ou mais baseia-se em
+dados de um estudo clínico aberto de Fase 2 (Estudo 1143) que incluiu 102 pacientes que foram
+tratados com sofosbuvir/velpatasvir durante 12 semanas. As reações adversas observadas foram
+consistentes com as observadas em estudos clínicos de Epclusa em adultos.
+Experiência pós-comercialização
+As seguintes reações adversas foram identificadas durante o uso após a aprovação do sofosbuvir.
+Como essas reações pós-comercialização foram relatadas voluntariamente a partir de uma
+população de tamanho incerto, nem sempre é possível estimar fiavelmente sua frequência ou
+estabelecer uma relação causal à exposição do medicamento.
+Distúrbios cardíacos
+• Bradicardia sintomática grave tem sido relatada em pacientes que tomam amiodarona ao
+iniciar o tratamento com um regime contendo sofosbuvir (Veja o item 5.
+ADVERTÊNCIAS E PRECAUÇÕES e 6. INTERAÇÕES MEDICAMENTOSAS).
+Distubios da pele e tecido subcutâneo
+• Erupções cutâneas, às vezes com bolhas ou inchaço parecido com angioedema.
+• Angioedema.
+Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado
+eficácia e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem
+ocorrer eventos adversos imprevisíveis ou desconhecidos. Nesse caso, notifique os eventos
+adversos pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+As doses mais elevadas documentadas de sofosbuvir e velpatasvir foram, respectivamente, de
+uma dose única de 1.200 mg e de uma dose única de 500 mg. Nestes estudos em voluntários
+adultos sadios, não se observaram efeitos indesejáveis nestes níveis de dose e os eventos adversos
+tiveram uma frequência e gravidade semelhantes aos que foram notificados nos grupos do
+placebo. Desconhecem se os efeitos de doses/exposições mais elevadas.
+Não existe um antídoto específico para a superdose com Epclusa. Caso ocorra uma superdose, o
+paciente deve ser monitorizado quanto a sinais de toxicidade. O tratamento da superdose com
+Epclusa consiste em medidas gerais de suporte incluindo monitorização dos sinais vitais e
+observação do estado clínico do paciente. A hemodiálise pode remover eficazmente o metabólito
+circulante predominante do sofosbuvir, o GS 331007, com uma razão de extração de 53%. É
+improvável que a hemodiálise resulte numa remoção significativa de velpatasvir, dado que o
+velpatasvir está altamente ligado às proteínas plasmáticas.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III - DIZERES LEGAIS
+Registro: 1.0929.0003
+47
+EPCLUSA®
+Gilead Sciences Farmacêutica do Brasil Ltda.
+Produzido por:
+Patheon Inc., Mississauga, Ontário, Canadá
+Importado e Registrado por:
+Gilead Sciences Farmacêutica do Brasil Ltda
+Av. Dr. Chucri Zaidan, 1240, Vila São Francisco
+São Paulo - SP
+CNPJ 15.670.288/0001-89
+SAC 0800 7710744
+sac@gilead.com
+VENDA SOB PRESCRIÇÃO.
+OU
+USO SOB PRESCRIÇÃO – VENDA PROIBIDA AO COMÉRCIO.
+Esta bula foi aprovada pela Anvisa em 01/08/2024.
+BR-APR24-EU-JUN20-ROW-AUG20-CCDSv9
+48
+Histórico de Alterações da Bula
+EPCLUSA®
+Dados da Submissão Eletrônica Dados da petição/notificação que altera a bula Dados da alteração de bula
+Data do No do Assunto Data do No. Do Assunto Data de Itens de bula Versões Apresentações relacionadas
+expediente expediente expediente expediente aprovação (VP/VPS)
+01/08/2024 NA 10451 - 01/08/2024 NA 10451 - MEDICAMENTO 01/08/2024 DIZERES LEGAIS VP/VPS 400 MG + 100 MG COM REV
+MEDICAMENTO NOVO - Notificação de CT FR PLAS OPC X 28
+NOVO - Notificação Alteração de Texto de Bula –
+de Alteração de publicação no Bulário RDC
+Texto de Bula – 60/12
+publicação no
+Bulário RDC 60/12
+25/10/2021 4219847/21-9 10451 - 30/09/2020 3366033/20-6 11119 - RDC 73/2016 - 27/09/2021 I - IDENTIFICAÇÃO DO VP/VPS 400 MG + 100 MG COM REV
+MEDICAMENTO NOVO – Ampliação de uso MEDICAMENTO CT FR PLAS OPC X 28
+NOVO - Notificação 1. INDICAÇÕES
+de Alteração de 2. RESULTADOS DE EFICÁCIA
+Texto de Bula – 3. CARACTERÍSTICAS
+publicação no FARMACOLÓGICAS
+Bulário RDC 60/12 8. POSOLOGIA E MODO DE USAR
+9. REAÇÕES ADVERSAS
+DIZERES LEGAIS
+26/11/2020 4174275/20-3 10451 - 26/11/2020 NA 10451 - MEDICAMENTO 26/11/2020 9.REAÇÕES ADVERSAS VP/VPS 400 MG + 100 MG COM REV
+MEDICAMENTO NOVO - Notificação de DIZERES LEGAIS CT FR PLAS OPC X 28
+NOVO - Notificação Alteração de Texto de Bula –
+de Alteração de RDC 60/12
+Texto de Bula – RDC
+60/12
+06/10/2020 3431521/20-7 10451 - 19/12/2019 3517816/19-7 11119 - RDC 73/2016 - 08/09/2020 2.RESULTADOS DE EFICÁCIA VP/VPS 400 MG + 100 MG COM REV
+MEDICAMENTO NOVO – Ampliação de uso 3.CARACTERÍSTICAS CT FR PLAS OPC X 28
+NOVO - Notificação FARMACOLÓGICAS
+de Alteração de 8.POSOLOGIA E MODO DE USAR
+Texto de Bula – RDC 9.REAÇÕES ADVERSAS
+60/12 DIZERES LEGAIS
+07/03/2019 0205987/19-8 10451 - 07/03/2019 0205987/19-8 10451 - MEDICAMENTO 07/03/2019 6.INTERAÇÕES MEDICAMENTOSAS VP/VPS 400 MG + 100 MG COM REV
+MEDICAMENTO NOVO - Notificação de 9.REAÇÕES ADVERSAS CT FR PLAS OPC X 28
+NOVO - Notificação Alteração de Texto de Bula – DIZERES LEGAIS
+de Alteração de RDC 60/12
+Texto de Bula – RDC
+60/12
+26/02/2019 0182281/19-1 10458 – 08/05/2017 0871275/17-1 10464 - MEDICAMENTO 25/06/2018 NA VP/VPS 400 MG + 100 MG COM REV
+Medicamento Novo – NOVO - Registro Eletrônico CT FR PLAS OPC X 28
+Inclusão Inicial de de Medicamento Novo
+Texto de bula – RDC
+60/12

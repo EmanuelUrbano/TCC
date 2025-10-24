@@ -1,0 +1,657 @@
+ENEK®
+(fosaprepitanto dimeglumina)
+Laboratório Químico Farmacêutico Bergamo Ltda.
+Pó liofilizado para solução para
+infusão
+150 mg
+ENEK®
+fosaprepitanto dimeglumina
+APRESENTAÇÕES
+ENEK®
+Pó liofilizado para solução para infusão de 150 mg de fosaprepitanto dimeglumina em embalagem com 1 frasco-ampola
+USO INTRAVENOSO
+USO ADULTO
+COMPOSIÇÃO
+Cada frasco-ampola contém:
+150 mg
+fosaprepitanto dimeglumina........................................................................................................................... 245,3 mg*
+Excipientes: edetato dissódico, polissorbato 80, lactose anidra, hidróxido de sódio e/ou ácido clorídrico (para q.s
+ajuste de pH)..........................................................................................................................................................
+*equivalente a 150 mg de fosaprepitanto ácido livre
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+ENEK®, em associação com outros antieméticos, é indicado para a prevenção de náuseas e vômitos agudos e tardios associados a ciclos iniciais e
+repetidos de:
+ quimioterapia antineoplásica altamente emetogênica (veja o item 8. POSOLOGIA E ADMINISTRAÇÃO);
+ quimioterapia antineoplásica moderadamente emetogênica (veja o item 8. POSOLOGIA E ADMINISTRAÇÃO).
+2. RESULTADOS DE EFICÁCIA
+Quimioterapia Moderadamente Emetogênica (QME)
+Em um estudo randômico, de grupos paralelos, duplo-cego, controlado com medicação ativa, o fosaprepitanto 150 mg como infusão
+intravenosa única (N = 502) em combinação com ondansetrona e dexametasona (regime de fosaprepitanto) foi comparado com ondansetrona
+e dexametasona isoladas (regime controle) (N =498) (veja tabela 3) em pacientes recebendo regime de quimioterapia moderadamente
+emetogênico. Os agentes de QME mais comumente administrados foram carboplatina, oxaliplatina e ciclofosfamida.
+1
+TABELA 1: REGIMES DE TRATAMENTO NO ESTUDO QME*
+Dia 1 Dia 2 Dia 3
+Regime de fosaprepitanto para prevenção de náusea
+e vômito induzidos por quimioterapia (NVIQ)
+Fosaprepitanto 150 mg intravenoso durante 20 a 30 nenhum nenhum
+minutos
+Aproximadamente 30 minutos antes da
+quimioterapia
+†
+Dexametasona oral 12 mg nenhum nenhum
+Ondansetrona oral ‡ 8 mg para 2 doses nenhum nenhum
+Regime controle para prevenção de náusea e
+vômito induzidos por quimioterapia (NVIQ)
+Dexametasona oral 20 mg nenhum nenhum
+Ondansetrona oral ‡ 8 mg para 2 doses 8 mg duas 8 mg duas
+vezes ao dia vezes ao dia
+* fosaprepitanto placebo e dexametasona placebo (no dia 1) foram usados para manter o cegamento.
+† Dexametasona foi administrada 30 minutos antes do tratamento com quimioterapia no dia 1. A dose de 12 mg de dexametasona reflete o ajuste
+de dose para considerar a interação medicamentosa com regime de fosaprepitanto (veja 3. Características Farmacológicas).
+‡
+A primeira dose de ondansetrona foi administrada 30 a 60 minutos antes do tratamento com quimioterapia no dia 1 e a segunda dose foi
+administrada 8 horas após a primeira dose de ondansetrona.
+A eficácia de fosaprepitanto foi avaliada com base nos desfechos primário e secundário listados na tabela 4 abaixo e mostrou ser superior ao
+regime controle com relação à resposta completa nas fases tardia e geral.
+Tabela 2 – Porcentagem de pacientes recebendo QME respondendo por grupo e fase de
+tratamento
+Desfechos Regime de Regime Valor de p
+fosaprepitant controle (N =
+o (N = 502)* 498)*
+% %
+Desfecho Primário
+†
+Resposta Completa
+‡ 78,9 68,5 <0,001
+Fase Tardia
+Desfechos secundários principais
+†
+Resposta Completa
+§ 77,1 66,9 <0.001
+Geral
+¶ 93,2 91 0,184
+Fase aguda
+*N: número de pacientes incluídos na população intenção de tratar
+† Resposta completa = sem vômito e sem uso de terapia de resgate
+‡ Fase tardia = 25 a 120 horas após o início da quimioterapia
+§ Geral = 0 a 120 horas após o início da quimioterapia
+¶ Fase aguda = 0 a 24 horas após o início da quimioterapia
+As curvas de Kaplan-Meier na figura 1 mostram que o tempo para o primeiro vômito foi maior nos pacientes do regime fosaprepitanto em
+comparação ao regime controle (valor de p nominal <0,001 pelo teste de log-rank).
+2
+Figura 1: Porcentagem de pacientes recebendo QME e que permanecem livres de êmese ao longo do tempo
+Regime de fosaprepitanto: fosaprepitanto 150 mg no dia 1 em combinação com ondansetrona 16 mg oral no dia 1 e dexametasona 12 mg no
+dia 1. Dias 2-3: placebo para ondansetrona a cada 12 horas.
+Regime controle: 16 mg de ondansetrona oral no dia 1 em combinação com 20 mg de dexametasona oral no dia 1. Dias 2-3: 8 mg de
+ondansetrona oral duas vezes ao dia.
+Quimioterapia Altamente Emetogênica (QAE)
+Em um estudo randômico, de grupos paralelos, duplo-cego, controlado com medicação ativa, o fosaprepitanto 150 mg (N = 1147) como
+infusão intravenosa única foi comparado a um esquema de 3 dias com aprepitanto (N = 1175) em pacientes que receberam quimioterapia
+2
+altamente emetogênica que incluiu cisplatina (≥70 mg/m ). Outros agentes quimioterápicos concomitantes comumente administrados foram
+fluorouracil, gencitabina, paclitaxel e etoposídeo. Todos os pacientes em ambos os grupos receberam dexametasona e ondansetrona (vide
+tabela 3).
+TABELA 3: REGIME DE TRATAMENTO NO ESTUDO QAE*
+Dia 1 Dia 2 Dia 3 Dia 4
+Regime de fosaprepitanto
+para prevenção de náusea
+e vômito induzidos por
+quimioterapia (NVIQ)
+Fosaprepitanto nenhum nenhum nenhum
+150 mg intravenoso durante
+20 a 30 minutos
+Aproximadamente
+30 minutos antes da
+quimioterapia
+† 12 mg 8 mg 8 mg duas 8 mg duas vezes
+Dexametasona oral
+vezes ao dia ao dia
+Ondansetrona ‡ nenhum nenhum nenhum
+Ondansetrona
+Regime de aprepitanto oral
+para prevenção de náusea e
+vômito induzidos por
+quimioterapia (NVIQ)
+Aprepitanto em cápsula 125 mg 80 mg 80 mg nenhum
+§ 12 mg 8 mg 8 mg 8 mg
+Dexametasona oral
+Ondansetrona ‡ nenhum nenhum nenhum
+Ondansetrona
+* fosaprepitanto placebo, aprepitanto placebo em cápsulas e dexametasona placebo (nas tardes dos dias 3 e 4) foram usados para manter o
+cegamento.
+3
+† Dexametasona foi administrada 30 minutos antes do tratamento com quimioterapia no dia 1 e nas manhãs dos dias 2 a 4. Dexametasona foi
+também administrada nas tardes dos dias 3 e 4. A dose de 12 mg de dexametasona no dia 1 e de 8 mg uma vez ao dia no dia 2 reflete o ajuste
+de dose para considerar a interação medicamentosa com o regime de fosaprepitanto (veja 3.Características Farmacológicas).† Ondansetrona
+32 mg intravenosa foi utilizado nos estudos clínicos de fosaprepitanto e aprepitanto. Embora esta dose tenha sido utilizada nos estudos
+clínicos, esta não é mais a dose atualmente recomendada. Consultar a bula de ondasetrona para a dose atualmente recomendada.
+§ Dexametasona foi administrada 30 minutos antes do tratamento com quimioterapia no dia 1 e na manhã dos dias 2 a 4. A dose de 12 mg de
+dexametasona no dia 1 e 8 mg uma vez ao dia nos dias 2 a 4 reflete o ajuste de dose para considerar a interação medicamentosa com o regime
+de aprepitanto oral (veja 3. Características Farmacológicas).
+A eficácia foi baseada na avaliação das seguintes medidas compostas: resposta completa tanto na fase global como na fase tardia e ausência de
+vômitos na fase global. fosaprepitanto dimeglumina 150 mg foi não-inferior ao esquema de 3 dias de aprepitanto. Um resumo dos desfechos
+primários e secundários é mostrado na Tabela 4.
+TABELA 4
+Porcentagem de pacientes recebendo quimioterapia altamente emetogênica que apresentaram resposta
+por grupo de tratamento e fase— ciclo 1
+DESFECHOS* Esquema com Esquema †
+Diferença
+Fosaprepitanto com
+(IC 95%)
+(N =1106) ** Aprepitanto
+% (N =1134)
+**
+%
+‡
+Resposta Completa
+§ 71,9 72,3 -0,4 (-4,1, 3,3)
+Global
+§§ 74,3 74,2 0,1 (-3,5, 3,7)
+Fase tardia
+Ausência de Vômitos
+§
+Global 72,9 74,6 -1,7 (-5,3, 2,0)
+* Desfecho Primário em negrito.
+** N: Número de pacientes incluídos na análise primária de resposta completa.
+† Diferença e intervalo de confiança (IC) foram calculados utilizando o método proposto por Miettinen e Nurminen e ajustados por
+sexo.
+‡ Resposta Completa = ausência de vômitos e nenhum uso de terapia de resgate.
+§ Global = 0 a 120 horas pós-início da quimioterapia com cisplatina.
+§§ Fase tardia = 25 a 120 horas pós-início da quimioterapia com cisplatina.
+Referências bibliográficas
+1. Grunberg S, Chua D, Maru A, Dinis J, DeVandry S, Boice JA et al. Single-dose fosaprepitant for the prevention of chemotherapy-induced
+nausea and vomiting associated with cisplatin therapy: randomized, double-blind study protocol-EASE. J Clin Oncol
+2011:29(11):1495-1501.
+4
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+FARMACOLOGIA CLÍNICA
+Mecanismo de Ação
+O fosaprepitanto dimeglumina é uma pró-droga do aprepitanto, e os efeitos antieméticos são atribuídos ao aprepitanto.
+O aprepitanto possui mecanismo de ação exclusivo: trata-se de um antagonista seletivo com alta afinidade pelos receptores da substância P
+neurocinina 1 (NK1). Ensaios de contrasseleção mostraram que o aprepitanto foi, no mínimo, 3.000 vezes mais seletivo pelo receptor da
+NK1 do que por outros sítios receptores enzimáticos, transportadores, de canais de íon, incluindo os receptores de dopamina e serotonina
+alvos de terapias para náuseas e vômitos induzidos por quimioterapia (NVIQ) existentes.
+Demonstrou-se em estudos pré-clínicos que os antagonistas do receptor da NK1 inibem os vômitos induzidos por agentes quimioterápicos
+citotóxicos, tais como a cisplatina, por ação central. Os exames PET (sigla em inglês para Tomografia por Emissão de Pósitron) realizados
+nos estudos pré-clínicos e clínicos com o aprepitanto demonstraram que esse fármaco penetra o cérebro e ocupa os receptores de NK1
+cerebrais. Os estudos pré-clínicos demonstram que o aprepitanto apresenta atividade central de longa duração, inibe as fases aguda e tardia
+das êmeses induzidas por cisplatina e aumenta a atividade antiemética da ondansetrona (um antagonista do receptor 5-HT3) e da
+dexametasona (um corticosteroide) contra êmeses induzidas pela cisplatina.
+Farmacocinética
+Absorção
+Após uma única dose de 150 mg de fosaprepitanto administrado com uma infusão de 20 minutos em voluntários saudáveis, a média AUC0-∞ de
+aprepitanto foi 35,0 mcg•hr/mL e a concentração máxima média foi 4,01 mcg/mL.
+Distribuição
+O fosaprepitanto é rapidamente convertido a aprepitanto.
+A taxa de ligação a proteínas plasmáticas do aprepitanto é maior que 95%. A média geométrica do volume de distribuição aparente no estado de
+equilíbrio (VdSS) é de aproximadamente 66 litros em humanos.
+O aprepitanto atravessa a placenta em ratos e a barreira hematoencefálica em ratos e furões. As PETs em humanos indicam que o aprepitanto
+atravessa a barreira hematoencefálica (veja o item 3. CARACTERÍSTICAS FARMACOLÓGICAS, Mecanismo de Ação).
+METABOLISMO
+O fosaprepitanto foi rapidamente convertido em aprepitanto in vitro, em meios com preparado de fígado de espécies não clínicas (ratos e
+cães) e humanos. Além disso, o fosaprepitanto sofreu rápida e quase completa conversão para aprepitanto na preparação S9 para múltiplos
+outros tecidos humanos, incluindo rins, pulmão e íleo. Assim, parece que a conversão do fosaprepitanto em aprepitanto pode ocorrer em
+múltiplos tecidos extra-hepáticos. Em humanos, o fosaprepitanto administrado por via intravenosa foi rapidamente convertido a aprepitanto,
+30 minutos após o fim da infusão.
+O aprepitanto é amplamente metabolizado. Em adultos jovens saudáveis, o aprepitanto é responsável por aproximadamente 24%
+14
+daradioatividade no plasma 72 horas após a administração oral de uma dose única de 300 mg de [ C]-aprepitanto, o que indica a presença
+considerável de metabólitos no plasma. Foram identificados no plasma humano 7 metabólitos do aprepitanto, os quais apresentam atividade
+apenas fraca. O metabolismo do aprepitanto ocorre em grande parte por meio da oxidação do anel morfolina e suas cadeias laterais. Os
+estudos in vitro com microssomos hepáticos humanos indicam que o aprepitanto é metabolizado primariamente pela CYP3A4 e
+secundariamente pelas isoenzimas CYP1A2 e CYP2C19. O aprepitanto não é metabolizado pelas isoenzimas CYP2D6, CYP2C9 ou
+CYP2E1.
+14
+Todos os metabólitos observados na urina, fezes e plasma após administração intravenosa da dose 100 mg [ C]-fosaprepitanto são também
+14
+observados após a dose oral de [ C]-aprepitanto. Após conversão de 245,3 mg de fosaprepitanto dimeglumina (equivalente a 150 mg de
+fosaprepitanto ácido livre) a aprepitanto, 23,9 mg de ácido fosfórico e 95,3 mg de meglumina são liberados.
+ELIMINAÇÃO
+14
+Após administração de uma dose única IV de 100 mg de [ C]-fosaprepitanto em indivíduos saudáveis, 57% da radioatividade foi recuperada
+na urina e 45% nas fezes.
+O aprepitanto é eliminado principalmente pelo metabolismo e não é excretado por via renal. Após a administração oral de uma dose única de
+14
+300 mg de [ C]-aprepitanto a indivíduos saudáveis, 5% da radioatividade foi recuperada na urina e 86% nas fezes.
+A meia-vida terminal aparente variou aproximadamente de 9 a 13 horas.
+4. CONTRAINDICAÇÕES
+ENEK® é contraindicado para pacientes hipersensíveis a fosaprepitanto, aprepitanto, polissorbato 80 ou qualquer outro componente do
+produto.
+ENEK® não deve ser usado concomitantemente com pimozida, terfenadina, astemizol ou cisaprida. A inibição da isoenzima 3A4 (CYP
+5
+3A4) do citocromo P450 pelo aprepitanto pode resultar em aumento das concentrações plasmáticas desses medicamentos, o que pode
+causar reações graves ou potencialmente fatais (veja o item 6. INTERAÇÕES MEDICAMENTOSAS).
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Como o fosaprepitanto é rapidamente convertido a aprepitanto (inibidor fraco a moderado da CYP3A4), o fosaprepitanto deve ser usado com
+cautela em pacientes que recebem concomitantemente produtos medicinais administrados por via oral que são primariamente metabolizados
+pela CYP3A4; alguns agentes quimioterápicos são metabolizados pela CYP3A4 (veja o item 6. INTERAÇÕES MEDICAMENTOSAS). A
+inibição fraca da CYP3A4 pelo fosaprepitanto 150 mg pode resultar em elevação da concentração plasmática destes produtos quando
+administrados concomitantemente por via oral (veja o item 6. INTERAÇÕES MEDICAMENTOSAS).
+Reações de hipersensibilidade imediata incluindo rubor, eritema, dispneia e anafilaxia/choque anafilático ocorreram durante ou logo após a
+infusão do fosaprepitanto. Essas reações de hipersensibilidade em geral responderam à descontinuação da infusão e administração de terapia
+apropriada. Não se recomenda reiniciar a infusão em pacientes que apresentem reações de hipersensibilidade.
+Reações no local da infusão (RLI) foram reportadas com o uso de ENEK® (veja o item 9. REAÇÕES ADVERSAS). A maioria das RLI
+severas, incluindo tromboflebite e vasculite, foram reportadas com concomitante administração de quimioterapia vesicante (por exemplo.,
+baseada em antraciclina) particularmente quando associada com extravasamento. Necrose também foi reportada em alguns pacientes com
+quimioterapia vesicante concomitante.
+A administração concomitante de fosaprepitanto com varfarina pode resultar em diminuição clinicamente significativa do INR (Razão
+Normalizada Internacional) do tempo de protrombina. Em pacientes sob tratamento crônico com a varfarina, o tempo de protrombina (INR)
+deve ser atentamente monitorado no período de 2 semanas, particularmente no período de 7 a 10 dias após o início do fosaprepitanto em cada
+ciclo de quimioterapia (veja o item 6. INTERAÇÕES MEDICAMENTOSAS).
+A eficácia dos contraceptivos hormonais durante e por 28 dias após a administração de fosaprepitanto pode ser reduzida. Um método
+contraceptivo alternativo ou adicional deve ser usado durante o tratamento e por 1 mês após a administração de fosaprepitanto (veja o item 6.
+INTERAÇÕES MEDICAMENTOSAS).
+Gravidez e Lactação
+Categoria de risco: B
+Quando administrado por via via intravenosa, o fosaprepitanto é rapidamente convertido a aprepitanto. Em estudos teratogênicos conduzidos
+com fosaprepitanto e aprepitanto, a maior exposição sistêmica ao aprepitanto foi obtida após administração oral de aprepitanto.
+Estudos de reprodução não têm revelado evidência de danos à fertilidade ou ao feto causados pelo aprepitanto, como demonstrado em ratos e
+coelhos com doses até 1,5 vezes a exposição sistêmica da dose em adultos humanos após administração de 125 mg de aprepitanto
+administrado por via oral. Entretanto não existem estudos adequados e bem controlados envolvendo mulheres grávidas. Como os estudos de
+reprodução em animais não são sempre preditivos da resposta em humanos, este fármaco deve ser usado durante a gravidez somente se for
+claramente necessário.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+Lactantes
+ENEK®, quando administrado intravenosamente, é rapidamente convertido em aprepitanto.
+O aprepitanto é excretado no leite de ratas em fase de amamentação. Não se sabe se esse fármaco é excretado no leite humano. Como muitos
+fármacos são excretados no leite humano e em razão dos possíveis efeitos adversos de aprepitanto em crianças lactentes, a decisão entre parar
+a amamentação ou descontinuar a administração do medicamento deve ser tomada levando-se em conta a importância do uso do
+medicamento para a mãe.
+Uso criterioso no aleitamento ou na doação de leite humano: O uso deste medicamento no período da lactação depende da avaliação e
+acompanhamento do seu médico ou cirurgião-dentista.
+Crianças: a segurança e a eficácia de ENEK® em pacientes pediátricos ainda não foram estabelecidas.
+Idosos: em estudos clínicos, a eficácia e a segurança de aprepitanto em idosos (≥65 anos de idade) foram equivalentes às observadas em
+pacientes mais jovens (<65 anos de idade). Não é necessário ajustar a dose para pacientes idosos.
+Raça: após a administração oral de uma dose única de aprepitanto, a AUC é cerca de 27% e 31% mais alta em hispânicos do que em
+0-24h
+caucasianos e negros, respectivamente, enquanto a C máx é 19% e 29% mais alta em hispânicos em comparação com caucasianos e negros,
+respectivamente. A administração de dose única de aprepitanto oral a asiáticos resultou em um aumento de AUC 0-24h e da C máx de 74% e
+47%, respectivamente, em comparação com caucasianos. Essas diferenças não são consideradas clinicamente significativas; portanto, não é
+necessário ajustar a dose de aprepitanto de acordo com a raça.
+Índice de Massa Corporal (IMC)
+O Índice de Massa Corporal (IMC) não apresentou nenhum efeito clinicamente significativo sobre a farmacocinética do aprepitanto.
+Insuficiência Hepática: o fosaprepitanto é metabolizado em vários tecidos extra-hepáticos; consequentemente, não se espera alteração da
+conversão de fosaprepitanto a aprepitanto em caso de insuficiência hepática. O aprepitanto oral é bem tolerado por pacientes com
+insuficiência hepática leve a moderada. Após a administração de uma dose única de 125 mg de aprepitanto no 1º dia e 80 mg 1x/dia no 2º e
+6
+no 3º dia a pacientes com insuficiência hepática leve (escore de Child-Pugh de 5 a 6), a AUC 0-24h do aprepitanto foi 11% e 36% mais baixa no
+1º e no 3º dia, respectivamente, em comparação com indivíduos saudáveis que receberam o mesmo esquema. Em pacientes com insuficiência
+hepática moderada (escore de Child-Pugh de 7 a 9), a AUC 0-24h do aprepitanto foi 10% e 18% mais alta no 1º e no 3º dia, respectivamente, do
+que em indivíduos saudáveis que receberam o mesmo esquema. Essas diferenças de AUC 0-24h não são consideradas clinicamente
+significativas; portanto, não é necessário ajustar a dose de aprepitanto para pacientes com insuficiência hepática leve a moderada.
+Não há dados clínicos nem farmacocinéticos para pacientes com insuficiência hepática grave (escore de Child-Pugh >9).
+Insuficiência Renal: foi administrada uma dose única de 240 mg de aprepitanto por via oral a pacientes com insuficiência renal grave (ClCr
+<30 mL/min) e a pacientes com doença renal em estágio terminal (DRET) que necessitam de hemodiálise.
+Em pacientes com insuficiência renal grave, a AUC 0-∞ do aprepitanto total (livre e ligado à proteína) diminuiu 21% e a C máx diminuiu 32%
+em relação a indivíduos saudáveis. Em pacientes com DRET submetidos à hemodiálise, a AUC 0-∞ do aprepitanto total diminuiu 42% e a
+C máx reduziu 32%. Por causa de pequenas reduções na taxa de ligação a proteínas do aprepitanto em pacientes com doença renal, a AUC do
+fármaco livre farmacologicamente ativo não sofreu alteração significativa em pacientes com insuficiência renal em comparação com
+indivíduos saudáveis. A hemodiálise realizada 4 ou 48 horas após a administração não apresentou efeito significativo sobre a farmacocinética
+do aprepitanto; menos de 0,2% da dose foi recuperada no dialisado.
+Não é necessário ajustar a dose para pacientes com insuficiência renal grave ou pacientes com DRET submetidos à hemodiálise.
+6. INTERAÇÕES MEDICAMENTOSAS
+Quando administrado por via intravenosa, fosaprepitanto é rapidamente convertido a aprepitanto. Portanto, as interações medicamentosas
+após administração de fosaprepitanto são provavelmente como as que ocorrem com medicações que interagem com aprepitanto oral. As
+seguintes informações são derivadas de estudos conduzidos com aprepitanto oral e de estudos conduzidos com fosaprepitanto coadministrado
+com dexametasona e midazolam ou diltiazem.
+O aprepitanto é um substrato, um inibidor fraco a moderado e indutor da CYP3A4. O aprepitanto é também indutor da CYP2C9.
+ENEK® 150 mg, administrado em dose única, é um fraco inibidor da CYP3A4, e não induz a CYP3A4. Estima-se que ENEK® 150 mg
+causaria menos indução ou indução menor da CYP2C9 do que a causada pela administração de aprepitanto oral.
+Efeito do fosaprepitanto/aprepitanto sobre a farmacocinética de outros medicamentos
+O aprepitanto, como um inibidor fraco a moderado da CYP3A4, e ENEK® 150 mg, como um fraco inibidor da CYP3A4, podem aumentar
+as concentrações plasmáticas de medicamentos coadministrados por via oral que são metabolizados pela CYP3A4.
+O fosaprepitanto não deve ser usado concomitantemente com pimozida, terfenadina, astemizol ou cisaprida. A inibição da CYP3A4 pelo
+aprepitanto pode resultar em aumento das concentrações plasmáticas desses medicamentos, o que pode causar reações graves ou
+potencialmente fatais (veja o item 4. CONTRAINDICAÇÕES).
+Demonstrou-se que o aprepitanto induz o metabolismo da S(-) varfarina e da tolbutamida, as quais são metabolizadas pela CYP2C9. A
+administração concomitante de fosaprepitanto com esses fármacos ou outros sabidamente metabolizados pela CYP2C9, tais como a
+fenitoína, pode resultar em diminuição das concentrações plasmáticas desses fármacos.
+É improvável que ocorra interação de fosaprepitanto com fármacos que são substratos para o transportador da glicoproteína P, conforme
+demonstrado pela ausência de interação de aprepitanto oral com a digoxina em um estudo clínico de interações medicamentosas.
+Antagonistas da 5-HT 3 : em estudos clínicos de interações medicamentosas, o aprepitanto, quando administrado em um regime de 125 mg
+no 1º dia e 80 mg no 2º e 3º dias, não apresentou efeitos clinicamente importantes sobre a farmacocinética da ondansetrona, da granisetrona
+ou da hidrodolasetrona (metabólito ativo da dolasetrona).
+Corticosteroides:
+Dexametasona: o fosaprepitanto 150 mg administrado em dose única intravenosa no 1º dia aumentou a AUC 0-24h da dexametasona, um
+substrato da CYP3A4, em aproximadamente 2,0 vezes no 1º e 2º dias quando a dexametasona foi coadministrada como dose única oral de 8
+mg no 1º, 2º e 3º dias. A dose oral de dexametasona no 1º e no 2º dia deve ser reduzida em aproximadamente 50% quando coadministrado
+com o fosaprepitanto 150 mg IV no 1º dia para atingir exposições de dexametasona semelhantes às obtidas quando administradas sem
+fosaprepitanto 150 mg (veja o item 8. POSOLOGIA E MODO DE USAR).
+Metilprednisolona: a administração oral de 125 mg de aprepitanto no 1º dia e 80 mg/dia no 2º e no 3º dia aumentou a AUC da
+metilprednisolona, um substrato da CYP3A4, 1,3 e 2,5 vezes no 1º e no 3º dia, respectivamente, quando a metilprednisolona foi administrada
+concomitantemente por via IV na dose de 125 mg no 1º dia e por via oral na dose de 40 mg no 2º e no 3º dia.
+Quimioterápicos: em estudos clínicos, o esquema com aprepitanto VO foi administrado com os seguintes agentes quimioterápicos
+metabolizados principal ou parcialmente pela CYP3A4: etoposídeo, vinorelbina, docetaxel, ifosfamida, ciclofosfamida, irinotecano e
+paclitaxel. As doses desses agentes não foram ajustadas para compensar as possíveis interações medicamentosas. São aconselhados
+precaução e monitoramento de pacientes recebendo estes agentes ou outros agentes quimioterápicos metabolizados primariamente pela
+CYP3A4. Foram reportados eventos pós-comercialização de neurotoxicidade, um evento adverso potencial da ifosfamida, após
+coadministração de aprepitanto e ifosfamida (veja o item 5. ADVERTÊNCIAS E PRECAUÇÕES).
+7
+Docetaxel: em um estudo farmacocinético separado, o aprepitanto VO (esquema NVIQ) não influenciou a farmacocinética do docetaxel.
+Vinorelbina: em um estudo farmacocinético separado, o aprepitanto VO (esquema NVIQ) não influenciou a farmacocinética da vinorelbina.
+Varfarina: administrou-se uma dose oral única de 125 mg de aprepitanto no 1º dia e 80 mg/dia no 2º e no 3º dia a indivíduos saudáveis
+estabilizados em tratamento crônico com a varfarina. Embora não tivesse sido observado efeito de aprepitanto sobre a AUC plasmática de
+R(+) ou S(-) varfarina (substrato da CYP2C9) no 3º dia, ocorreu diminuição de 34% da concentração mínima de S(-) varfarina, acompanhada
+de diminuição de 14% do tempo de protrombina (expresso como INR), 5 dias após o término da administração de aprepitanto VO. Em
+pacientes sob tratamento crônico com a varfarina, o tempo de protrombina (INR) deve ser atentamente monitorado no período de 2 semanas,
+particularmente de 7 a 10 dias, após o início do fosaprepitanto, em cada ciclo de quimioterapia.
+Tolbutamida: administração de 125 mg de aprepitanto VO no 1º dia e 80 mg/dia no 2º e no 3º dia diminuiu a AUC da tolbutamida (um
+substrato da CYP2C9) em 23% no 4º dia, 28% no 8º dia e 15% no 15º dia quando uma dose única de 500 mg de tolbutamida foi administrada
+oralmente antes da administração de um esquema de três dias de aprepitanto e no 4º, 8º e 15º dias.
+Contraceptivos orais: quando administrado uma vez ao dia por 14 dias em cápsulas de 100 mg com um contraceptivo oral que continha 35
+mcg de etinilestradiol e 1 mg de noretindrona, o aprepitanto diminuiu a AUC do etinilestradiol em 43% e da noretindrona em 8%.
+o o
+Em outro estudo, foi administrada uma dose única de um contraceptivo oral contendo etinilestradiol e noretindrona do 1 ao 21 dias junto
+o o o o
+com aprepitanto VO administrado na dose de 125 mg no 8 dia e de 80 mg/dia no 9 e no 10 dias com ondansetrona 32 mg IV no 8 dia e
+o o o o
+dexametasona oral administrada na dose de 12 mg no 8 dia e 8 mg/dia no 9 , 10 , e 11 dias. No estudo, a AUC do etinilestradiol diminuiu
+o o o
+em 19% no 10 dia e houve redução da ordem de 64% nas concentrações do etinilestradiol durante o 9 ao 21 dia. Embora não haja efeitos
+o
+do aprepitanto VO sobre a AUC da noretindrona no 10 dia, houve redução da ordem de 60% nas concentrações de vale da noretindrona
+o o
+entre o 9 e o 21 dias.
+A eficácia dos contraceptivos hormonais durante e por 28 dias após a administração de fosaprepitanto pode ser reduzida. Durante o
+tratamento e por 1 mês após a última dose de fosaprepitanto devem ser utilizados métodos contraceptivos alternativos ou adicionais (back-
+up).
+Midazolam: o fosaprepitanto 150 mg administrado em uma dose única intravenosa no 1º dia aumentou a AUC 0-∞ de midazolam em
+aproximadamente 1,8 vez no 1º dia e não teve nenhum efeito (1,0 vez) no 4º dia quando midazolam foi coadministrado como uma dose única
+oral de 2 mg no 1º e no 4º dias. O fosaprepitanto 150 mg IV é um fraco inibidor da CYP3A4 como uma dose única no 1º dia sem nenhuma
+evidência de inibição ou indução da CYP3A4 observada no 4º dia.
+Efeito de outros agentes sobre a farmacocinética do aprepitanto
+O aprepitanto é um substrato da CYP3A4; consequentemente, a administração concomitante de fosaprepitanto com fármacos que inibem a
+atividade dessa enzima pode resultar em aumento das concentrações plasmáticas do aprepitanto. Portanto, deve-se ter cuidado ao administrar
+fosaprepitanto concomitantemente com inibidores potentes da CYP3A4 (p.ex., cetoconazol), mas a administração concomitante de
+aprepitanto com inibidores moderados da CYP3A4 (p.ex., diltiazem), no entanto, não resulta em alterações clinicamente significativas nas
+concentrações plasmáticas do aprepitanto.
+O aprepitanto é um substrato da CYP3A4; portanto, a administração concomitante de fosaprepitanto com fármacos indutores potentes da
+atividade da CYP3A4 (p.ex., rifampicina) pode resultar na diminuição das concentrações plasmáticas do aprepitanto, o que pode causar
+redução da eficácia.
+Cetoconazol: após administração de dose única de 125 mg de aprepitanto VO foi administrada no 5º dia de um esquema de 10 dias de 400
+mg/dia de cetoconazol, um potente inibidor da CYP3A4, a AUC do aprepitanto aumentou cerca de 5 vezes e sua meia-vida terminal média
+aumentou aproximadamente 3 vezes. Deve-se ter cuidado ao administrar concomitantemente fosaprepitanto com inibidores potentes da
+CYP3A4.
+Rifampicina: quando uma dose única de 375 mg de aprepitanto VO foi administrada no 9º dia de um esquema de 14 dias de 600 mg/dia de
+rifampicina, um potente indutor da CYP3A4, a AUC do aprepitanto diminuiu cerca de 11 vezes e sua meia-vida terminal média diminuiu
+aproximadamente 3 vezes. A administração concomitante de fosaprepitanto com fármacos que induzem a atividade da CYP3A4 pode resultar
+na redução da concentração plasmática e da eficácia.
+Outras interações
+Diltiazem: nos pacientes com hipertensão leve ou moderada, a infusão de 100 mg de fosaprepitanto em 15 minutos com diltiazem 120 mg 3
+vezes ao dia resultou em aumento de 1,5 vez da AUC do aprepitanto e um aumento de 1,4 vez da AUC do diltiazem. Os efeitos
+farmacocinéticos são pequenos, mas clinicamente significativos no decréscimo da pressão arterial diastólica (decréscimo de 16,8 mmHg com
+fosaprepitanto versus 10,5 mmHg sem fosaprepitanto) e pode também resultar em um pequena, mas clinicamente significativa diminuição da
+pressão arterial sistólica (diminuição de 24,4 mmHg com fosaprepitanto versus 18,8 mmHg sem fosaprepitanto), mas sem resultados
+clinicamente significativos na frequência cardíaca ou no intervalo PR, além das alterações induzidas apenas pelo diltiazem.
+Paroxetina: a administração concomitante de dose única diária de comprimidos de aprepitanto na apresentação comprimido comparável a 85
+mg ou 170 mg da apresentação cápsula com 20 mg de paroxetina 1x/dia resultou em cerca de 25% e 20% de diminuição da AUC e da C ,
+máx
+respectivamente, tanto do aprepitanto como da paroxetina.
+8
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar em geladeira.
+Validade: 36 meses após a data de fabricação impressa na embalagem.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido.
+GUARDE-O EM SUA EMBALAGEM ORIGINAL.
+Após preparo, a solução final reconstituída é estável por 24 horas em temperatura até 25°C.
+Aspecto
+ENEK® é um pó liofilizado de cor branca a esbranquiçada.
+ANTES DE USAR, OBSERVE O ASPECTO DO MEDICAMENTO.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+ENEK® para administração intravenosa é uma pró-droga liofilizada de aprepitanto oral, que contém polissorbato 80 (PS80). ENEK® está
+disponível na forma de 150 mg IV para infusão.
+ENEK® 150 mg
+ENEK® 150 mg é administrado no 1º dia como infusão durante 20–30 minutos, iniciada aproximadamente 30 minutos antes da quimioterapia.
+ENEK® deve ser administrado junto com um corticosteroide e um antagonista da 5-HT 3 conforme especificado nas tabelas abaixo. A bula do
+antagonista de 5-HT 3 co-administrado deve ser consultada antes do início do tratamento de ENEK® 150 mg.
+Posologia recomendada para prevenção de náuseas e vômitos associados à quimioterapia altamente emetogênica:
+Dia 1 Dia 2 Dia 3 Dia 4
+ENEK® 150 mg IV Não Não administrada Não
+administrada administrada
+dexametasona* 12 mg VO 8 mg VO 8 mg VO 2x/dia 8 mg VO
+2x/dia
+ondansetrona Consulte a bula de Não Não administrada Não
+ondansetrona para administrada administrada
+informações sobre a
+posologia apropriada
+* A dexametasona deve ser administrada 30 minutos antes da quimioterapia no 1º dia e na manhã do 2º e 4º dias. A dexametasona também
+deve ser administrada nas noites do 3º e 4º dias. A dose de dexametasona compensa as interações medicamentosas.
+Posologia recomendada para prevenção de náuseas e vômitos associados à quimioterapia moderadamente emetogênica:
+Dia 1
+ENEK® 150 mg IV
+dexametasona* 12 mg VO
+ondansetrona Consulte a bula de ondansetrona para
+informações sobre a posologia apropriada
+* A dexametasona deve ser administrada 30 minutos antes da quimioterapia no 1º dia. A dose de dexametasona compensa as interações
+medicamentosas.
+PREPARAÇÃO DE ENEK® 150 MG
+1. Injete 5,0 mL de solução salina dentro do frasco. Assegure-se de que a solução salina seja adicionada no frasco ao longo de suas paredes,
+para evitar a formação de espuma. Balance o frasco gentilmente. Evite agitar e injetar a solução salina muito vigorosamente dentro do frasco.
+2. Prepare a bolsa de infusão com 145 mL de solução salina.
+3. Retire o volume total do frasco e transfira para a bolsa de infusão com 145 mL de solução salina, para um rendimento total de 150 mL
+de volume. Inverta gentilmente a bolsa 2-3 vezes.
+ENEK® é incompatível com qualquer solução com cátions bivalentes (p.ex. Ca2+, Mg2+), incluindo solução de Hartman e lactato de
+Ringer. ENEK® não deve ser reconstituído ou misturado com soluções para as quais as compatibilidades físicas e químicas não foram
+estabelecidas.
+9
+INFORMAÇÕES GERAIS
+Veja a seção 6. INTERAÇÕES MEDICAMENTOSAS para informações adicionais sobre a administração de ENEK® juntamente com
+corticosteróide.
+Veja bula completa para administração concomitante com outros fármacos antieméticos.
+Não é necessário ajuste da dose de acordo com a idade, sexo, raça ou Índice de Massa Corporal (IMC). Não é necessário ajuste da dose para
+pacientes com insuficiência renal grave (creatinina <30 mL/min) ou para pacientes com doença renal em estágio final que se submetem a
+hemodiálise.
+Não é necessário ajuste de dose para pacientes com insuficiência hepática leve a moderada (Child- Pugh 5 a 9). Não há dados clínicos para
+pacientes com insuficiência hepática grave (Child-Pugh >9).
+Recomendação ao profissional de saúde: Utilização de agulha de no máximo 40 mm x 12 mm calibre.
+9. REAÇÕES ADVERSAS
+Como o fosaprepitanto é convertido ao aprepitanto, as experiências adversas associadas ao aprepitanto também podem ser esperadas com
+ENEK®.
+A segurança global de fosaprepitanto foi avaliada em aproximadamente 1.600 indivíduos, e o perfil de segurança geral do aprepitanto foi
+avaliado em cerca de 6.800 indivíduos.
+PREVENÇÃO DE NAUSEA E VÔMITO INDUZIDOS POR QUIMIOTERAPIA (NVIQ)
+- aprepitanto oral
+Quimioterapia Altamente Emetogênica (QAE)
+Em 2 estudos clínicos bem controlados que envolveram pacientes tratados com quimioterapia antineoplásica altamente emetogênica (QAE),
+544 pacientes foram tratados com esquema de 3 dias com aprepitanto no 1º ciclo da quimioterapia, dos quais 413 continuaram a participar
+durante a extensão com ciclos múltiplos por até 6 ciclos de quimioterapia. O esquema de 3 dias com aprepitanto VO foi administrado com
+ondansetrona e dexametasona e, em geral, foi bem tolerado. A maioria das experiências adversas relatadas nesses estudos clínicos foi descrita
+como de intensidade leve a moderada.
+No 1º ciclo foram relatadas experiências adversas clínicas relacionadas ao medicamento por aproximadamente 19% dos pacientes tratados
+com o esquema de 3 dias com aprepitanto VO em comparação com cerca de 14% dos que receberam a terapia-padrão. O tratamento foi
+descontinuado em consequência de experiências adversas clínicas relacionadas ao medicamento por 0,6% dos pacientes tratados com o
+esquema de 3 dias com aprepitanto VO em comparação com 0,4% dos que receberam a terapia-padrão.
+A experiência adversa relacionada ao medicamento mais comumente relatada por pacientes que receberam o esquema de 3 dias com o
+aprepitanto VO e com maior incidência do que as da terapia- padrão foram: soluços (4,6%), aumento de ALT (2,8%), dispepsia (2,6%),
+constipação (2,4%), cefaleia (2,0%) e redução do apetite (2,0%).
+Em um estudo clínico adicional controlado por agente ativo em 1.169 pacientes que recebiam o esquema de 3 dias com aprepitanto VO e
+QAE, o perfil de eventos adversos foi similar ao observado nos outros estudos de QAE com o esquema de 3 dias com aprepitanto VO.
+Quimioterapia Moderadamente Emetogênica (QME)
+Em dois estudos clínicos bem controlados que envolveram pacientes tratados com quimioterapia antineoplásica moderadamente emetogênica
+(QME), 868 pacientes receberam o esquema de 3 dias com aprepitanto VO no 1º ciclo da quimioterapia, dos quais 686 continuaram a
+participar durante as extensões com ciclos múltiplos por até 4 ciclos de quimioterapia. Em ambos os estudos, o esquema de 3 dias com
+aprepitanto VO foi administrado com ondansetrona e dexametasona e, em geral, foi bem tolerado. A maioria das experiências adversas
+relatadas nesses estudos clínicos foi descrita como de intensidade leve a moderada.
+Na análise combinada do 1º ciclo desses dois estudos, foram relatadas experiências adversas clínicas relacionadas ao medicamento por
+aproximadamente 14% dos pacientes tratados com o esquema de 3 dias com aprepitanto VO em comparação com cerca de 15% dos que
+receberam a terapia-padrão. O tratamento foi descontinuado em consequência de experiências adversas relacionadas ao medicamento por
+0,7% dos pacientes tratados com o esquema de 3 dias com aprepitanto VO em comparação com 0,2% dos que receberam a terapia-padrão.
+A experiência adversa relacionada ao medicamento mais comumente relatada por pacientes que receberam o esquema de 3 dias com o
+aprepitanto VO e com maior incidência do que as da terapia- padrão foi fadiga (1,4%).
+Quimioterapia Alta e Moderadamente Emetogênica
+Em uma análise agrupada dos estudos de QAE e QME as seguintes experiências adversas relacionadas ao medicamento foram relatadas em
+pacientes tratados com o esquema de 3 dias com aprepitanto VO, com incidência maior do que a verificada nos indivíduos que receberam a
+terapia-padrão:
+10
+[Comum (≥1/100, <1/10), Incomum (≥1/1.000, <1/100) Raro (≥1/10.000, <1/1.000)]
+Infecção e infestações
+Raros: candidíase, infecção estafilocócica.
+Distúrbios do sistema linfático e sanguíneo
+Incomuns: anemia, neutropenia febril.
+Distúrbios metabólicos e nutricionais
+Comum: redução de apetite.
+Raro: polidipsia.
+Distúrbios psiquiátricos
+Incomum: ansiedade.
+Raros: desorientação, euforia.
+Distúrbios do sistema nervoso
+Incomuns: tontura, sonolência.
+Raros: distúrbio cognitivo, letargia, disgeusia.
+Distúrbios oculares
+Raro: conjuntivite.
+Distúrbios do ouvido e labirinto
+Raro: zumbido.
+Distúrbios cardíacos
+Incomum: palpitações.
+Raros: bradicardia, distúrbio cardiovascular.
+Distúrbios vasculares
+Incomum: rubor quente.
+Distúrbios respiratórios, torácicos e mediastinais
+Comum: soluços.
+Raros: dor orofaríngea, espirro, tosse, gotejamento pós-nasal, irritação da garganta.
+Distúrbios gastrintestinais
+Comum: dispepsia.
+Incomuns: eructação, náusea, doença do refluxo gastroesofágico, êmeses, dor abdominal, boca seca, flatulência.
+Raros: fezes duras, perfuração de úlcera duodenal, colite neutropênica, estomatite, distensão abdominal.
+Distúrbios dos tecidos cutâneo e subcutâneo
+Incomuns: erupções cutâneas, acne.
+Raros: fotossensibilidade, hiperidrose, seborreia, lesão cutânea, erupção cutânea pruriginosa.
+Distúrbios musculoesqueléticos e em tecidos conjuntivos
+Raros: espasmos musculares, fraqueza muscular.
+Distúrbios renais e urinários
+Incomum: disúria.
+Raro: polaciúria.
+Distúrbios gerais e condições no local da administração
+Comum: fadiga.
+Incomuns: astenia, mal estar.
+Raros: edema, desconforto torácico, alterações da marcha.
+Exames
+Comum: ALT elevada.
+Incomuns: AST elevada, fosfatase alcalina sanguínea elevada.
+Raros: aumento do débito urinário, positivo para eritrócitos na urina, sódio sanguíneo aumentado, redução de peso, presença de glicose na
+urina, redução da contagem de neutrófilos.
+Os perfis de experiências adversas nas extensões com ciclos múltiplos dos estudos de QAE e QME por até 6 ciclos de quimioterapia foram,
+em geral, semelhantes aos observados no 1º ciclo.
+Em outro estudo sobre NVIQ, a síndrome de Stevens-Johnson foi relatada como efeito adverso grave em um paciente que recebia
+aprepitanto com quimioterapia antineoplásica.
+- fosaprepitanto
+Quimioterapia Moderadamente Emetogênica
+Em um estudo controlado ativamente, em pacientes recebendo QME, a segurança foi avaliada em 504 pacientes recebendo dose única de
+fosaprepitanto dimeglumina 150 mg em combinação com ondansetrona e dexametasona (regime de fosaprepitanto) comparado à 497 pacientes
+recebendo ondansetrona e dexametasona isoladamente (regime controle). As seguintes experiências adversas clinicamente importantes,
+relacionadas à droga, foram reportadas pelos pacientes tratados com o regime de fosaprepitanto e com incidência superior ao grupo controle.
+[Comum (≥1/100, <1/10) e Incomum (≥1/1.000, <1/100)]
+Distúrbios cardíacos
+Incomum: palpitações.
+Distúrbios gastrintestinais
+Comum: constipação.
+Incomuns: distensão abdominal, dor abdominal, dor abdominal superior, dispepsia.
+11
+Distúrbios gerais e condições no local da administração
+Comum: dor no local de aplicação.
+Incomum: astenia.
+Infecções e Infestações
+Incomum: candidíase oral.
+Distúrbios metabólicos e nutricionais
+Incomum: redução de apetite.
+Distúrbios respiratórios, torácicos e mediastinais
+Incomuns: tosse, dor orofaríngea e irritação da garganta.
+Distúrbios vasculares
+Incomum: rubor.
+Quimioterapia Altamente Emetogênica
+Em um estudo clínico controlado com placebo que incluiu pacientes recebendo QAE, a segurança foi avaliada em 1.143 pacientes que
+recebiam o esquema de dose única de fosaprepitanto dimeglumina 150 mg em comparação com 1.169 pacientes que recebiam o esquema
+de 3 dias de aprepitanto oral. O perfil de segurança foi geralmente semelhante ao observado no estudo de com fosaprepitanto para QME.
+As seguintes experiências adversas adicionais clinicamente importantes relacionadas ao medicamento ocorreram com fosaprepitanto 150 mg
+e não foram relatados nos estudos clínicos iniciais com aprepitanto oral ou no estudo com fosaprepitanto para QME conforme descrito acima.
+[Incomum (≥1/1000, <1/100), Raro (≥1/10.000, <1/1.000)]
+Distúrbios gerais e condições no local da administração:
+Incomuns: eritema no local da infusão, prurido no local da infusão.
+Raro: endurecimento no local da infusão.
+Investigações:
+Incomum: aumento da pressão arterial.
+Distúrbios dos tecidos cutâneo e subcutâneo:
+Incomum: eritema.
+Distúrbios Vasculares:
+Incomuns: rubor, tromboflebite (predominantemente, tromboflebite no local da infusão).
+Outros Estudos
+Doses únicas de 40 mg de aprepitanto oraltambém foram estudadas para prevenção de náuseas e vômitos no pós-operatório (NVPO) em
+pacientes não submetidos à quimioterapia que recebiam anestesia geral balanceada. Nesses estudos, outras reações adversas observadas com
+maior incidência do que com o agente comparador ativo (ondansetrona) incluíram: aumento de ALT, dor na parte superior do abdômen,
+ruídos hidroaéreos anormais, disartria, dispneia, hipoestesia, insônia, miose, náuseas, distúrbio sensorial, desconforto estomacal, acuidade
+visual reduzida e sibilos.
+Além disso, dois eventos adversos graves foram relatados nos estudos clínicos NVPO em pacientes que tomaram uma dose maior de
+aprepitanto: um caso de constipação e um caso de subíleo.
+Um caso de angioedema e urticária foi relatado como evento adverso grave em um paciente que recebeu aprepitanto em um estudo não-
+NVIQ/não-NVPO.
+Experiência pós-comercialização
+As seguintes reações adversas foram identificadas durante a utilização pós-comercialização. Como essas reações são relatadas
+voluntariamente por uma população de dimensão incerta, geralmente não é possível estimar de maneira confiável a frequência ou estabelecer
+uma relação causal com o medicamento.
+Distúrbios da pele e tecidos subcutâneos: prurido, erupções cutâneas, urticária, raramente síndrome de Stevens-Johnson/necrólise
+epidérmica tóxica.
+Distúrbios do sistema imunológico: reações de hipersensibilidade, incluindo reações anafiláticas/choque anafilático.
+Reações de hipersensibilidade imediata foram observadas durante a infusão de fosaprepitanto, a qual pode incluir: rubor, eritema, dispneia
+(veja o item 5. ADVERTÊNCIAS E PRECAUÇÕES).
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Não há informações específicas disponíveis sobre o tratamento da superdose. Doses únicas de 200 mg de fosaprepitanto e 600 mg de
+aprepitanto foram, em geral, bem toleradas por indivíduos saudáveis. Três de 33 indivíduos que receberam 200 mg de fosaprepitanto
+apresentaram trombose leve no local da injeção. O aprepitanto normalmente foi bem tolerado quando administrado em dose única diária de
+375 mg por até 42 dias a pacientes em estudos não-NVIQ. Em 33 pacientes com câncer, a administração de uma dose única de 375 mg de
+aprepitanto no 1º dia e 250 mg 1x/dia do 2º ao 5º dia foi, em geral, bem tolerada.
+Foram relatadas sonolência e cefaléia em um paciente que tomou 1.440 mg de aprepitanto.
+12
+No caso de superdose, ENEK® deve ser descontinuado e deve ser instituído um tratamento de suporte geral com monitoração do paciente.
+Em razão da atividade antiemética do aprepitanto, fármacos indutores de vômitos podem não ser eficazes.
+O aprepitanto não é removido por hemodiálise.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+VENDA SOB PRESCRIÇÃO
+USO RESTRITO À ESTABELECIMENTOS DE SAÚDE
+Registro: 1.0646.0229
+Importado e registrado por:
+Laboratório Químico Farmacêutico Bergamo LTDA.
+CNPJ 61.282.661/0001-41
+Rua Rafael de Marco, nº 43.
+CEP: 06765-000. Taboão da Serra, SP.
+Produzido por:
+MSN Laboratories Private Limited.
+Nandigama, Índia.
+Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em 27/05/2024.
+ENEK_PÓ_LIOF_VPS_01-3
+13
+Histórico de alteração para bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do Data do Versões
+Nº expediente Assunto Nº expediente Assunto Data de aprovação Itens de bula Apresentações relacionadas
+expediente expediente (VP/VPS)
+4. O QUE DEVO SABER
+10450 - SIMILAR – ANTES DE USAR ESTE
+150 MG PO LIOF SOL INFUS IV
+Notificação de Alteração MEDICAMENTO?
+CT FA VD TRANS 150MG PO
+11/07/2024 Versão atual de Texto de Bula - N/A N/A N/A N/A 5. ADVERTÊNCIAS E VP/VPS
+LIOF SOL INFUS IV CT 10 FA VD
+publicação no Bulário PRECAUÇÕES
+TRANS
+RDC 60/12 DIZERES LEGAIS
+10450 - SIMILAR – 8. QUAIS OS MALES QUE
+150 MG PO LIOF SOL INFUS IV
+Notificação de Alteração ESTE MEDICAMENTO
+CT FA VD TRANS 150MG PO
+09/05/2024 0618206/24-8 de Texto de Bula - N/A N/A N/A N/A PODE ME CAUSAR? VP/VPS
+LIOF SOL INFUS IV CT 10 FA VD
+publicação no Bulário 9. REAÇÕES ADVERSAS
+TRANS
+RDC 60/12 Adequação à RDC 768/22
+10457- SIMILAR- 150 MG PO LIOF SOL INFUS IV
+INCLUSÃO INICIAL DE CT FA VD TRANS 150MG PO
+28/04/2023 0429919/23-9 N/A N/A N/A N/A N/A VP/VPS
+TEXTO DE BULA – LIOF SOL INFUS IV CT 10 FA VD
+RDC 60/12 TRANS
+14

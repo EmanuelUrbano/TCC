@@ -1,0 +1,888 @@
+EPREX®
+(alfaepoetina)
+Janssen-Cilag Farmacêutica Ltda.
+solução injetável
+2.000 UI/mL; 10.000 UI/mL;
+40.000 UI/mL
+IDENTIFICAÇÃO DO MEDICAMENTO
+Eprex®
+alfaepoetina Solução Injetável
+APRESENTAÇÕES
+EPREX® (alfaepoetina) é uma solução injetável para administração intravenosa ou subcutânea, disponível nas seguintes apresentações:
+Seringa preenchida com dispositivo de segurança (PROTECS):
+Seringa preenchida de 0,4 mL com 4.000 UI/0,4 mL (10.000 UI/mL), em embalagem com 6 unidades.
+Seringa preenchida de 1,0 mL com 10.000 UI/mL, em embalagem com 6 unidades.
+Seringa preenchida de 1,0 mL com 40.000 UI/mL, em embalagem com 1 unidade.
+USO INTRAVENOSO E SUBCUTÂNEO
+USO ADULTO E PEDIÁTRICO
+COMPOSIÇÃO
+Veja a composição por mL na tabela a seguir:
+Composição por mL 10.000 UI 40.000 UI
+alfaepoetina 0,0840 mg 0,336 mg
+Excipientes: cloreto de sódio, fosfato de sódio monobásico di-hidratado, fosfato de sódio dibásico di-hidratado, glicina, polissorbato 80, água
+para injetáveis.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EPREX® (alfaepoetina) está indicado:
+₋ no tratamento da anemia secundária a insuficiência renal crônica em pacientes pediátricos e adultos em diálise (hemodiálise ou peritoneal)
+ou em adultos ainda não submetidos a diálise (pré-diálise);
+₋ no tratamento da anemia associada ao câncer não mieloide e secundária a quimioterapia para redução de necessidade de transfusão de
+hemácias;
+₋ em pacientes adultos infectados pelo HIV com anemia, e submetidos ao tratamento com zidovudina (AZT), com níveis de eritropoetina ≤
+500 mU/mL;
+1
+₋ no programa de doação sanguínea autóloga para facilitar a coleta de sangue autólogo e diminuir o risco de transfusões alogênicas em
+pacientes com anemia moderada (hemoglobina entre 10-13 g/dL e sem deficiência de ferro). Esses pacientes serão submetidos a cirurgia eletiva
+de grande porte onde se estima uma necessidade transfusional elevada (mais de 4 unidades para o sexo feminino e mais de 5 unidades para o
+sexo masculino);
+- para aumentar os níveis de hemoglobina no período pré-operatório, evitando-se transfusões autólogas, em pacientes adultos que serão
+submetidos a cirurgias ortopédicas de grande porte. A anemia deve ser moderada (hemoglobina entre 10 e 13 g/dL), o paciente não deve estar
+em programa de doação sanguínea autóloga e a perda de sangue deve ser moderada (900-1800 mL).
+2. RESULTADOS DE EFICÁCIA
+Insuficiência renal crônica
+A alfaepoetina foi avaliada em estudos clínicos em pacientes adultos com insuficiência renal crônica e anemia, incluindo pacientes em diálise
+ou ainda não submetidos à diálise, para tratar anemia e manter o hematócrito na concentração de 30-36%.
+Em estudos clínicos com doses iniciais de 50-150 UI/kg, três vezes por semana, aproximadamente 95% de todos os pacientes responderam com
+aumento clinicamente significante do hematócrito. Depois de aproximadamente dois meses de tratamento, praticamente todos os pacientes não
+dependiam de transfusão. Uma vez atingida a concentração do hematócrito, a dose de manutenção era individualizada para cada paciente.
+Nos três maiores estudos clínicos conduzidos em pacientes adultos em diálise, a dose mediana de manutenção necessária para manter o
+hematócrito entre 30-36% foi aproximadamente 75 UI/kg, três vezes por semana.
+Em um estudo duplo-cego multicêntrico, controlado com placebo, de avaliação da qualidade de vida em pacientes com insuficiência renal
+crônica em hemodiálise, houve melhora clínica e estatisticamente significante nos pacientes tratados com alfaepoetina em comparação ao grupo
+placebo, quando se avaliou fadiga, sintomas físicos, relacionamentos e depressão (Questionário de “Doença Renal”) após 6 meses de tratamento.
+Os pacientes do grupo tratado com alfaepoetina também foram recrutados em um estudo de extensão aberto, o qual demonstrou a melhora na
+qualidade de vida foi mantida por mais 12 meses.
+Em estudos clínicos conduzidos em pacientes com insuficiência renal crônica não submetidos à diálise, tratados com alfaepoetina, a duração
+média do tratamento foi aproximadamente cinco meses. Estes pacientes responderam ao tratamento com alfaepoetina de forma semelhante ao
+observado em pacientes em diálise. Pacientes com insuficiência renal crônica não submetidos à diálise demonstraram um aumento dependente
+da dose e prolongado no hematócrito quando a alfaepoetina foi administrada por via intravenosa ou subcutânea. Taxas semelhantes de aumento
+do hematócrito foram observadas quando a alfaepoetina foi administrada por ambas as vias. Além disso, doses de 75-150 UI/kg de alfaepoetina
+por semana mantiveram hematócritos de 36-38% por até 6 meses.
+Um estudo prospectivo randomizado (CHOIR) avaliou 1432 pacientes com anemia por insuficiência renal crônica não submetidos à diálise. Os
+pacientes foram designados para o tratamento com alfaepoetina almejando a manutenção de um nível de hemoglobina de 13,5 g/dL (maior que
+o nível alvo recomendado) ou 11,3 g/dL. Evento cardiovascular importante (óbito, infarto do miocárdio ou hospitalização por insuficiência
+cardíaca congestiva) ocorreu entre 125 (18%) dos 715 pacientes no grupo de hemoglobina mais alta comparado a 97 (14%) entre os 717
+pacientes no grupo de hemoglobina mais baixa (razão de risco 1,3, IC de 95%: 1,0. 1,7, p=0,03).
+Pacientes pediátricos em hemodiálise
+Cento e vinte e oito crianças entre 2 meses a 19 anos de idade com IRC foram incluídos em 4 estudos clínicos com EPREX®. A dose inicial de
+EPREX® foi 50 UI/kg IV ou SC 3 vezes por semana. A dose foi titulada para obter hemoglobina de 10 a 12 g/dL ou aumento absoluto na
+hemoglobina de 2 g/dL em relação à condição de base. Ao final das 12 semanas iniciais houve aumento estatisticamente significante na
+hemoglobina apenas para EPREX® (9,4% versus 0,9% com placebo). A proporção de crianças atingindo hemoglobina de 10 g/dL ou um
+aumento de 2 g/dL na hemoglobina em relação ao valor basal em qualquer tempo durante as primeiras 12 semanas foi maior no grupo de
+EPREX® (95% versus 58%). Dentro de 12 semanas após o início do tratamento com EPREX®, 92% dos pacientes pediátricos estavam livres
+de transfusões em comparação com 65,4% daqueles que receberam placebo.
+2
+Pacientes portadores de AIDS tratados com zidovudina
+EPREX® foi avaliado em 4 estudos controlados envolvendo 297 pacientes anêmicos infectados por HIV (hemoglobina < 10 g/dL), recebendo
+tratamento concomitante com zidovudina. No subgrupo de pacientes (89/125 EPREX® e 88/130 placebo) com níveis séricos de eritropoetina
+endógena menor ou igual a 500 µm/mL antes do estudo, EPREX® reduziu o número cumulativo médio de unidades de transfusão de hemácias
+por paciente em aproximadamente 40% em relação ao grupo placebo. Entre aqueles pacientes que necessitaram de transfusão na condição de
+base, 43% dos pacientes tratados com EPREX® versus 18% dos tratados com placebo não necessitaram de transfusão no segundo e terceiro
+meses de tratamento. O tratamento com EPREX® também resultou em aumento significante do hematócrito em relação ao placebo.
+Anemia induzida por quimioterapia
+A alfaepoetina foi avaliada em estudos clínicos, em pacientes adultos com anemia em virtude do câncer, com tumores linfóides e sólidos, e em
+pacientes em vários esquemas de quimioterapia, incluindo esquemas contendo ou não platina. Nestes estudos, a alfaepoetina administrada três
+vezes por semana e uma vez por semana aumentou a hemoglobina e diminuiu as necessidades de transfusão após o primeiro mês de tratamento
+em pacientes com câncer e anemia. Em alguns estudos, a fase duplo-cega foi seguida por uma fase aberta durante a qual todos os pacientes
+receberam alfaepoetina e foi observada uma manutenção no efeito.
+A evidência disponível sugere que a resposta hematopoiética ao tratamento com alfaepoetina é semelhante entre pacientes com tumores
+hematológicos não mieloides e sólidos e em pacientes com ou sem infiltração do tumor na medula óssea. Nos estudos de quimioterapia, a
+intensidade comparável da quimioterapia entre os grupos tratados com alfaepoetina e placebo foi demonstrada através da semelhança na área
+sob a curva de neutrófilo nos pacientes destes grupos, assim como por uma proporção semelhante nos pacientes dos grupos tratados com
+alfaepoetina e placebo cuja contagem absoluta de neutrófilos caiu para um valor abaixo de 1000 e 500 células/mcL em grupos tratados com
+alfaepoetina e placebo.
+Em um estudo prospectivo, randomizado, duplo-cego, controlado com placebo, conduzido em 375 pacientes anêmicos com várias doenças
+malignas não mieloides recebendo quimioterapia não a base de platina, houve redução significante nas sequelas relacionadas à anemia (por
+exemplo, fadiga, energia reduzida e redução da atividade), conforme mensurado pelos seguintes instrumentos e escalas: Escala Geral de
+Avaliação Funcional de Anemia Associada à Terapia do Câncer (FACT-An), Escala de Fadiga da FACT-An e Escala Linear Analógica de
+Câncer (CLAS).
+Um estudo randomizado, aberto e multicêntrico foi conduzido em 2098 mulheres anêmicas com câncer de mama metastático, que receberam
+quimioterapia de primeira ou segunda linha. Este foi um estudo de não inferioridade desenhado para excluir um aumento de risco de 15% na
+progressão do tumor ou morte do paciente em uso de alfaepoetina associado à conduta padrão quando comparado com a conduta padrão isolada.
+A mediana de sobrevida livre de progressão (SLP) pela avaliação do investigador da progressão da doença foi 7,4 meses em cada braço (HR
+1,09; IC de 95%:0,99; 1,20), indicando que o objetivo do estudo não foi encontrado. A mediana SLP com a progressão da doença avaliada pelo
+Comitê Independente de Revisão foi 7,6 meses em cada braço (HR 1,03; IC de 95%: 0,92; 1,15). No corte clínico, 1337 mortes foram reportadas.
+A mediana de sobrevida global no grupo alfaepoetina associado à conduta padrão foi 17,2 meses comparado com 17,4 meses no grupo de
+conduta padrão isolado (HR 1,06; IC de 95%: 0,95; 1,18). De forma significativa poucos pacientes receberam transfusões de concentrado de
+hemácias no braço alfaepoetina associado à conduta padrão (5,8% versus 11,4%). No entanto, significativamente mais pacientes tiveram eventos
+vasculares trombóticos no braço alfaepoetina associado à conduta padrão (2,8% versus 1,4%). Na análise final, 1653 mortes foram relatadas. A
+sobrevida global mediana no grupo alfaepoetina associada à conduta padrão foi de 17,8 meses em comparação com 18,0 meses no grupo de
+conduta padrão isolado (HR 1,07, IC de 95%: 0,97, 1,18). O tempo mediano até a progressão (TTP) com base na progressão da doença (DP)
+determinada pelo investigador foi de 7,5 meses no grupo alfaepoetina associada à conduta padrão e de 7,5 meses no grupo de conduta padrão
+(HR 1,099, IC de 95%: 0,998, 1,210). O TTP mediano baseado na DP determinada pelo IRC foi de 8,0 meses no grupo alfaepoetina associada
+à conduta padrão e de 8,3 meses no grupo de conduta padrão (HR 1,033, IC de 95%: 0,924, 1,156).
+3
+A totalidade da evidência, incluindo resultados de metanálises e experiência clínica de estudos controlados de agentes estimulantes de
+eritropoese (ESAs) em pacientes com câncer, continua a suportar um balanço favorável entre o benefício e o risco para o uso de ESAs em
+pacientes com anemia induzida por quimioterapia, quando empregados de acordo com a prescrição. Nas metanálises dos estudos nos quais os
+pacientes estavam recebendo quimioterapia, não houve aumento estatisticamente significante na mortalidade ou progressão do tumor. Sinais
+em estudos individuais conduzidos fora das recomendações da bula do produto (nível alvo de hemoglobina acima de 12 g/dL e/ou sem
+quimioterapia) deram origem à preocupação.
+Pacientes adultos cirúrgicos em Programa Pré-Doação Autólogo
+O efeito da alfaepoetina de facilitar a doação de sangue autóloga em pacientes com baixos hematócritos (≤ 39% e sem anemia subjacente devido
+à deficiência de ferro) programados para cirurgia ortopédica de grande porte foi avaliada em um estudo duplo-cego, placebo controlado
+conduzido em 204 indivíduos, e um estudo simples-cego placebo controlado em 55 indivíduos.
+No estudo duplo-cego, os indivíduos foram tratados com alfaepoetina 600 UI/kg, ou placebo por via intravenosa uma vez ao dia a cada 3 a 4
+dias por 3 semanas (total de 6 doses). Em média, os indivíduos tratados com alfaepoetina foram capazes de pré depositar significativamente
+mais unidades de sangue (4,5 unidades) do que os indivíduos tratados com placebo (3,0 unidades).
+Num estudo em que o indivíduo, cirurgião e anestesista eram ocultos, os indivíduos foram tratados com alfaepoetina 300 UI/kg ou 600 UI/kg,
+ou placebo por via intravenosa uma vez ao dia a cada 3 a 4 dias por 3 semanas (total de 6 doses). Os indivíduos tratados com alfaepoetina
+também foram capazes de pré depositar significativamente mais unidades de sangue (alfaepoetina 300 UI/kg = 4,4 unidades; alfaepoetina 600
+UI/kg = 4,7 unidades) do que os indivíduos tratados com placebo (2,9 unidades).
+Tratamento com alfaepoetina reduziu o risco de exposição a sangue alogênico em 50% em comparação com indivíduos que não receberam
+alfaepoetina.
+Cirurgia ortopédica eletiva de grande porte
+O efeito da alfaepoetina (300 UI/kg ou 100 UI/kg) sobre a exposição à transfusão de sangue alogênico foi avaliada em um estudo clínico duplo-
+cego, placebo controlado em indivíduos adultos sem deficiência de ferro, programados para cirurgia ortopédica eletiva de grande porte do joelho
+ou quadril. A alfaepoetina foi administrada subcutaneamente durante 10 dias antes da cirurgia, no dia da cirurgia, e durante quatro dias após a
+cirurgia. Os indivíduos foram estratificados de acordo com o seu valor inicial de hemoglobina (≤ 10 g/dL, > 10 a ≤ 13 g/dL e > 13 g/dL).
+A alfaepoetina 300 UI/kg reduziu de forma significativa o risco de transfusão alogênica em indivíduos com uma hemoglobina pré-tratamento
+entre 10 e 13 g/dL. Requeriram transfusão dezesseis por cento dos pacientes que receberam alfaepoetina 300 UI/kg, 23% dos pacientes que
+recebereram alfaepoetina 100 UI/kg e 45% dos indivíduos tratados com placebo.
+Um estudo aberto, de grupo paralelo em indivíduos adultos sem deficiência de ferro, com uma hemoglobina pré-tratamento ≥ 10 a ≤ 13 g/dL,
+os quais foram programados para cirurgia eletiva de grande porte de quadril ou joelho, comparou alfaepoetina 300 UI/kg administrada
+diariamento por via subcutânea por 10 dias anteriores à cirurgia, no dia da cirurgia e durante quatro dias após a cirurgia, com alfaepoetina 600
+UI/kg por via subcutânea uma vez por semana durante 3 semanas antes da cirurgia e no dia da cirurgia.
+Desde o pré-tratamento até a pré-cirurgia, o aumento médio na hemoglobina no grupo 600 UI/kg semanalmente (1,44 g/dL) foi duas vezes
+superior ao observado no grupo 300 UI/kg diariamente (0,73 g/dL). Os níveis médios de hemoglobina foram semelhantes para os dois grupos
+de tratamento durante todo o período pós-cirúrgico.
+A resposta eritropoiética observada em ambos os grupos de tratamento resultaram em taxas semelhantes de transfusão (16% no grupo 600 UI/kg
+semanalmente e 20% no grupo 300 IU/kg diariamente).
+População pediátrica
+Insuficiência renal crônica
+Alfaepoetina foi avaliada em um estudo clínico aberto, não-randomizado, de dose escalada, de 52 semanas em indivíduos pediátricos com IRC
+em hemodiálise. A idade média dos indivíduos incluídos no estudo foi de 11,6 anos (variando de 0,5 a 20,1 anos).
+4
+A alfaepoetina foi administrada por via intravenosa a 75 UI/kg/semana em 2 ou 3 doses divididas após diálise, titulado para 75 UI/kg/semana a
+intervalos de 4 semanas (até um máximo de 300 UI/kg/semana), para atingir um aumento na hemoglobina de 1 g/dL/mês. O intervalo de
+concentração de hemoglobina desejado foi de 9,6 a 11,2 g/dL. Oitenta e um por cento dos indivíduos atingiram concentrações de hemoglobina
+no intervalo desejado. O tempo médio para alcançar o objetivo foi de 11 semanas e a dose média foi de 150 UI/kg/semana. Dos indivíduos que
+atingiram o objetivo, 90% o fizeram em um regime de dosagem 3 vezes por semana.
+Após 52 semanas, 57% dos indivíduos permaneceram no estudo, recebendo uma dose média de 200 UI/kg/semana.
+Os dados clínicos com administração subcutânea em crianças são limitados. Em 5 estudos pequenos, abertos e não-controlados (número de
+pacientes variando de 9-22, total de N = 72), a alfaepoetina foi administrada subcutaneamente em crianças em doses iniciais de 100
+UI/kg/semana a 150 UI/kg/semana com a possibilidade de aumentar até 300 UI/kg/semana. Nestes estudos, a maioria eram pacientes em pré-
+diálise (N = 44), 27 pacientes estavam em diálise peritoneal e 2 estavam em hemodiálise, com idade variando de 4 meses a 17 anos. Em geral,
+esses estudos têm limitações metodológicas, mas o tratamento se associou a tendências positivas para níveis mais elevados de hemoglobina.
+Não foram relatados eventos adversos inesperados.
+Anemia induzida por quimioterapia
+A alfaepoetina 600 UI/kg (administrada por via intravenosa ou subcutânea uma vez por semana) foi avaliada em estudo randomizado, duplo-
+cego, controlado por placebo, de 16 semanas e em estudo randomizado, controlado, aberto, de 20 semanas em pacientes pediátricos anêmicos
+que recebiam quimioterapia mielossupressora para o tratamento de várias neoplasias malignas não-mieloides infantis.
+No estudo de 16 semanas (n = 222), nos pacientes tratados com alfaepoetina, não houve efeito estatisticamente significante no Inventário
+Pediátrico de Qualidade de Vida ou nos escores de câncer relatados pelo paciente ou pelos pais, em comparação com o placebo (desfecho
+primário de eficácia). Além disso, não houve diferença estatística entre a proporção de pacientes que necessitaram de transfusões de hemácias
+entre o grupo alfaepoetina e o placebo.
+No estudo de 20 semanas (n = 225), nenhuma diferença significativa foi observada no desfecho primário de eficácia; a proporção de pacientes
+que necessitaram de uma transfusão de hemácias após o Dia 28 (62% dos pacientes com alfaepoetina versus 69% dos pacientes com terapia
+padrão).
+Pacientes em pré-operatório
+Em estudo duplo-cego, controlado com placebo envolvendo 316 pacientes com cirurgia ortopédica eletiva de grande porte, o tratamento com
+EPREX® 300 UI/kg reduziu significantemente (p=0,024) o risco de transfusão de hemácias em pacientes com hemoglobina pré-tratamento
+entre 10 e 13 g/dL; 16% (5/31) dos pacientes tratados com 300 UI/kg de EPREX®, 23% (6/26) com 100 UI/kg e 45% (13/29) tratados com
+placebo receberam transfusões.
+Referências bibliográficas
+1. Data on File. Ortho Biologics, Inc.
+2. de Andrade JR and Jove M., Baseline Hemoglobin as a Predictor of Risk of Transfusion and Response to Epoetin alfa in Orthopedic
+Surgery Patients. Am. J. of Orthoped. 1996, 25(8): 533-542.
+5
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+Mecanismo de ação
+A eritropoetina (EPO) é um hormônio glicoproteico produzido primariamente pelo rim em resposta à hipóxia e é o principal regulador da
+produção de glóbulos vermelhos. A EPO está envolvida em todas as fases de desenvolvimento eritroides e tem seu efeito principal ao nível dos
+precursores eritróides. Depois que a EPO se liga aos seus receptores na superfície celular, ela ativa as vias de transdução do sinal que interferem
+com a apoptose e estimulam a proliferação de células eritroides. A EPO humana recombinante (alfaepoetina), expressa em células de ovário de
+hamster chinês, tem uma sequência de 165 aminoácidos idêntica à da EPO urinária humana; as duas são indistinguíveis com base em ensaios
+funcionais. O peso molecular aparente da eritropoetina é 32.000 a 40.000 daltons.
+As respostas farmacodinâmicas da alfaepoetina sem albumina humana, mudança na porcentagem de reticulócitos, hemoglobina e total de
+glóbulos vermelhos e a ASC destes parâmetros farmacodinâmicos, foram similares entre dois esquemas posológicos, 150 UI/kg SC 3x/semana
+a 40.000 UI/mL SC 1x/semana.
+Os agentes estimulantes de eritropoese (ESAs) são fatores de crescimento que estimulam primariamente a produção de células vermelhas. Os
+receptores da eritropoetina podem estar expressos na superfície de uma variedade de células tumorais.
+Voluntários sadios
+Após doses individuais (20.000 a 160.000 UI por via subcutânea) de alfaepoetina, uma resposta dose dependente foi observada para os
+marcadores farmacodinâmicos investigados incluindo: reticulócitos, contagem de glóbulos vermelhos e hemoglobina. Foi observado um perfil
+definido tempo-concentração com pico e retorno à linha base para mudanças no percentual de reticulócitos. Um perfil menos definido foi
+observado para a contagem de glóbulos vermelhos e hemoglobina. Em geral, todos os marcadores farmacodinâmicos aumentaram de um modo
+linear com a dose alcançando uma resposta máxima nos níveis de dose mais altos.
+Outros estudos farmacodinâmicos investigaram 40.000 UI uma vez por semana comparado a 150 UI/kg 3 vezes por semana. Apesar das
+diferenças em perfis de tempo-concentração a resposta farmacodinâmica (medido por alterações na porcentagem de reticulócitos, hemoglobina
+e contagem total de células vermelhas do sangue) foi semelhante entre estes regimes. Estudos adicionais compararam o regime de 40.000 UI
+uma vez por semana de alfaepoetina com doses quinzenais variando de 80.000 a 120.000 UI por via subcutânea. Em geral, com base nos
+resultados destes estudos farmacodinâmicos em indivíduos saudáveis, o regime de dose de 40.000 UI uma vez por semana parece ser mais
+eficiente na produção de glóbulos vermelhos do que os regimes quinzenais, apesar de uma semelhança observada na produção de reticulócitos
+nos regimes de uma vez por semana e quinzenais.
+Insuficiência renal crônica
+A alfaepoetina demonstrou estimular a eritropoiese em indivíduos anêmicos com insuficiência renal crônica, incluindo indivíduos em diálise e
+pré-diálise. A primeira evidência de uma resposta à alfaepoetina é um aumento na contagem de reticulócitos dentro de 10 dias, seguido por
+aumentos na contagem de glóbulos vermelhos, hemoglobina e hematócrito, normalmente dentro de 2 a 6 semanas. A resposta da hemoglobina
+varia entre os indivíduos e pode ser afetada por reservas de ferro e pela presença de problemas médicos concomitantes.
+Anemia induzida por quimioterapia
+Alfaepoetina administrada 3 vezes por semana ou uma vez por semana demonstrou aumentar a hemoglobina e diminuir os a necessidade de
+transfusão após o primeiro mês de tratamento em indivíduos anêmicos com câncer que receberam quimioterapia.
+Em um estudo comparando os regimes de dosagem de 150 UI/kg, 3 vezes-por-semana, e 40.000 UI , uma vez por semana, em indivíduos
+saudáveis e em individuos com câncer anêmicos, os perfis de tempo de mudanças nas porcentagens de reticulócitos, hemoglobina e glóbulos
+vermelhos totais foram semelhantes entre os dois regimes de dosagem tanto nos sujeitos saudáveis quanto nos anêmicos com câncer. As ASC
+6
+dos respectivos parâmetros farmacodinâmicos foram semelhantes entre os regimes de dosagem de 150 UI/kg, 3 vezes por semana, e 40.000 UI,
+uma vez por semana, nos indivíduos saudáveis e também nos pacientes anêmicos com câncer..
+Pacientes adultos cirúrgicos em programa de pré-doação de sangue autóloga
+Alfaepoetina demonstrou estimular a produção de células vermelhas do sangue, a fim de aumentar a coleta de sangue autólogo, e limitar o
+declínio dos níveis de hemoglobina em pacientes adultos programados para cirurgia eletiva de grande porte, os quais não se espera que tenham
+pré-depositadas suas necessidades de sangue pré-operatória completas.
+Tratamento de pacientes adultos programados para cirurgia ortopédica eletiva de grande porte
+Em pacientes programados para cirurgia ortopédica eletiva de grande porte com uma hemoglobina pré-tratamento de > 10 a ≤ 13 g/dL, a
+alfaepoetina demonstrou diminuir o risco de recebimento de transfusões alogênicas e acelerar a recuperação eritroide (aumento dos níveis de
+hemoglobina, hematócrito e contagem de reticulócitos).
+Propriedades Farmacocinéticas
+Administração Intravenosa
+A medida da alfaepoetina após a administração intravenosa de doses de 50 a 100 UI/kg revelou uma meia-vida de aproximadamente 4 horas
+em voluntários normais. Em pacientes com insuficiência renal crônica, a meia vida após doses de 50, 100 e 150 UI/kg foi de aproximadamente
+5 horas. Para crianças a meia-vida relatada foi de aproximadamente 6 horas. Pacientes com câncer recebendo doses de 667 a 1500 UI/kg de
+alfaepoetina por via intravenosa apresentaram valores de meia-vida entre 20,1 a 33,0 horas, com pelo menos 4 dias de coleta de sangue.
+Administração Subcutânea
+As concentrações séricas após a administração subcutânea são menores do que aquelas após administração intravenosa. Os níveis séricos
+aumentam lentamente e atingem o pico 12 a 18 horas após a administração subcutânea. O pico de concentração sérica é inferior ao pico atingido
+com a via intravenosa (aproximadamente 1/20 do valor).
+Não existe acúmulo: o nível sérico permanece o mesmo, quer seja determinado 24 horas após a primeira injeção ou 24 horas após a última
+injeção. Os perfis de concentração x tempo da eritropoetina na Semana 1 e na Semana 4 foram similares durante a administração de 600
+UI/kg/semana em indivíduos sadios.
+Os dados de farmacocinética não indicam diferença aparente na meia-vida de pacientes com idade superior ou inferior a 65 anos.
+Um estudo envolvendo 7 neonatos prematuros com peso muito baixo e 10 adultos saudáveis que receberam eritropoetina por via intravenosa,
+sugeriu que o volume de distribuição era aproximadamente 1,5 a 2 vezes maior nos neonatos prematuros do que nos adultos saudáveis e a
+eliminação era aproximadamente 3 vezes maior do que nos adultos saudáveis.
+A meia-vida para a administração subcutânea é de aproximadamente 24 horas. Os valores da meia-vida, em indivíduos sadios, para doses de
+150 UI/kg 3x/semana e 40.000 UI/mL/semana foram, respectivamente 19,4±8,1 e 15,0±6,1.
+Em um estudo comparando 150 UI/kg SC 3x/semana e 40.000 UI SC 1x/semana de alfaepoetina com albumina humana em indivíduos sadios,
+os parâmetros a seguir foram estimados usando dados corrigidos para a concentração de eritropoetina endógena antes da administração durante
+a Semana 4.
+C (mUI/mL) C (mUI/mL) t (h)
+máx mín 1/2
+150 UI/kg 3x/semana (n=24) 191 (100,1) 39 (17,9) 31,8
+7
+40.000 UI 1x/semana (n=22) 785 (427,3) 13 (9,5) 39,3
+Dados do estudo EPO-PHI-370.
+A biodisponibilidade relativa da alfaepoetina no esquema posológico de 40.000 UI/semana em relação à administração de 150 UI/kg 3x/semana,
+com base na comparação da ASC, foi de 176%.
+Em um estudo comparando 150 UI/kg SC 3x/semana e 40.000 UI SC 1x/semana de alfaepoetina sem albumina humana em indivíduos sadios,
+os parâmetros a seguir foram estimados usando os dados corrigidos para a concentração de eritropoetina endógena antes da administração
+durante a Semana 4.
+C (mUI/mL) C (mUI/mL) t (h)
+máx mín 1/2
+150 UI/kg 3x/semana (n=17) 143 (54,2) 18 (9,3) 19,4
+40.000 UI 1x/semana (n=17) 861 (445,1) 3,8 (4,27) 15,0
+Dados do estudo EPO-PHI-373.
+A biodisponibilidade relativa da alfaepoetina no esquema posológico de 40.000 UI/mL/semana em relação a 150 UI/kg 3x/semana, com base
+na comparação da ASC, foi de 239%.
+A biodisponibilidade da alfaepoetina, por via subcutânea, após uma dose de 120 UI/kg é muito menor do que após a administração intravenosa
+(aproximadamente 20%).
+A farmacocinética da alfaepoetina com albumina humana foi estudada em indivíduos sadios e em pacientes com anemia por câncer recebendo
+ciclos de quimioterapia e alfapoetina 150 UI/kg 3x/semana ou 40.000 UI/mL 1x/semana. Em geral, os perfis de concentração-tempo e os
+parâmetros farmacocinéticos de pacientes com anemia por câncer foram diferentes daqueles de indivíduos sadios durante a Semana 1 (quando
+os pacientes estavam recebendo quimioterapia) mas similar durante a Semana 3 (quando os pacientes com anemia por câncer não estavam
+recebendo quimioterapia).
+Indivíduos sadios
+C (mUI/mL) C a t (h) t (h) CL/F (mL/h/kg)
+máx mín máx 1/2
+150 UI/kg 3x/semana (n=6) 163 (53,6) 28,6 (10,4) 9,00 (3,29) 25,0 (7,13) [n=4] 31,2 (11,5)
+40.000 UI 1x/semana (n=6) 1036 (238) 9,25 (5,74) 21,0 (7,10) 28,8 (8,10) 12,6 (3,05)
+a C foi estimada durante o estudo calculando a média semanal das concentrações séricas antes da dose.
+mín
+Dados do estudo EPO-PHI-377.
+Pacientes com anemia por câncer: semana 1 quando os indivíduos estavam recebendo quimioterapia
+C (mUI/mL) C a t (h) t (h) CL/F (mL/h/kg)
+máx mín máx 1/2
+150 UI/kg 3x/semana (n=14) 414 (312) 90,4 (41,4) 13,3 (12,4) 43,7 (3,94) [n=3] 20,2 (15,9)
+40.000 UI 1x/semana (n=18) 1077 (510) 116 (230) 38,5 (17,8) 35,3 (16,8) [n=11] 9,16 (4,69)
+a C foi estimada durante o estudo calculando a média semanal das concentrações séricas antes da dose.
+mín
+Dados do estudo EPO-PHI-377.
+Pacientes com anemia por câncer: semana 3 quando os indivíduos não estavam recebendo quimioterapia
+C (mUI/mL) C a t (h) t (h) CL/F (mL/h/kg)
+máx mín máx 1/2
+150 UI/kg 3x/semana (n=4) 178 (57,5) --- 14,2 (6,67) 41,9 (14,8) [n=2] 23,6 (9,51)
+40.000 UI 1x/semana (n=7) 897 (322) --- 22,3 (4,54) 38,8 (11,0) 13,9 (7,55)
+8
+a C foi estimada durante o estudo calculando a média semanal das concentrações séricas antes da dose.
+mín
+Dados do estudo EPO-PHI-377.
+A farmacocinética da alfaepoetina sem albumina humana foi estudada em indivíduos com anemia por câncer recebendo quimioterapia e
+alfaepoetina 150 UI/kg 3x/semana ou 40.000 UI/mL 1x/semana. Em geral, houve um alto grau de variabilidade associado aos parâmetros
+farmacocinéticos em indivíduos com anemia por câncer. O primeiro perfil farmacocinético da alfaepoetina durante a Semana 1 (quando os
+indivíduos com anemia por câncer estavam recebendo quimioterapia) demonstrou C maior, aumento da meia-vida e menor depuração do que
+máx
+o segundo perfil farmacocinético durante a Semana 3 ou 4 (quando os pacientes com anemia por câncer não estavam recebendo quimioterapia).
+Semana 1 quando os pacientes estavam recebendo quimioterapia
+C (mUI/mL) C a t (h) t (h) CL/F(mL/h/kg)
+máx mín máx 1/2
+150 UI/kg 3x/semana (n=16) 642 (402,7) 207 (301,4) 14,98 (8,8) 28,3 (19,2) [n=7] 12,1 (11,2)
+40.000 UI 1x/semana (n=19) 1289 (431,0) 148 (144,2) 48,74 (283) 76,2 (45,8) [n=9] 5,6 (1,8)
+a C foi estimada durante o estudo calculando a média semanal das concentrações séricas antes da dose.
+mín
+Dados do estudo EPO-P01-108.
+Semana 3 ou 4 quando os pacientes não estavam recebendo quimioterapia
+C (mUI/mL) C a t (h) t (h) CL/F (mL/h/kg)
+máx mín máx 1/2
+150 UI/kg 3x/semana (n=9) 357 (246,2) --- 20,67 (20,1) 30,0 (10,0) [n=6] 17,2 (7,8)
+40.000 UI 1x/semana (n=11) 941 (372,7) --- 24,54 (10,8) 46,7 (22,3) 12,7 (7,5)
+a C foi estimada durante o estudo calculando a média semanal das concentrações séricas antes da dose.
+mín
+Dados do estudo EPO-P01-108.
+Dados pré-clínicos de segurança
+• Toxicidade crônica
+Em alguns estudos de dose repetitiva de toxicidade em cães e ratos, mas não em macacos, o tratamento com alfaepoetina foi associado com
+fibrose subclínica da medula óssea. Esta é uma complicação conhecida da insuficiência renal crônica em seres humanos e pode estar relacionada
+ao hiperparatireoidismo secundário ou a fatores desconhecidos. Em um estudo, não houve diferença na incidência de fibrose da medula óssea
+em pacientes em hemodiálise tratados com alfaepoetina por 3 anos e em pacientes em hemodiálise não tratados com alfaepoetina.
+• Carcinogenicidade
+Estudos de carcinogenicidade de longo prazo não foram conduzidos. Há relatos conflitantes na literatura em relação aos ESA como causadores
+de proliferação de tumores. A significância clínica destes relatos, com base nos achados in vitro de amostras de tumores humanos, é
+desconhecida.
+• Mutagenicidade
+A alfaepoetina não induz mutação genética bacteriana (teste de Ames), aberrações cromossômicas em células de mamíferos, micronúcleo em
+camundongos ou mutação gênica no loco HGPRT.
+• Toxicidade reprodutiva
+9
+Os estudos pré-clínicos não mostraram nenhuma evidência de teratogenicidade em ratos ou coelhos em doses até 500 UI/kg/dia, por via
+intravenosa. No entanto, a administração intravenosa de alfaepoetina causa uma diminuição leve, mas não estatisticamente significante, da
+fertilidade na dose de 500 UI/kg, aumentou a perda antes e depois da implantação e diminuiu o peso corporal fetal na dose de 100 e 500 UI/kg/dia
+e retardou a ossificação na dose de 20, 100 e 500 UI/kg/dia. O último achado estava associado com peso corporal materno reduzido. A
+administração intravenosa a ratas em lactação resultou em diminuições no ganho de peso, atraso no aparecimento de pelo abdominal e abertura
+das pálpebras e diminuições no número de vértebras caudais nos fetos F no grupo recebendo 500 UI/kg/dia. Não houve efeitos relacionados
+1
+com a alfaepoetina nos fetos da geração F.
+2
+4. CONTRAINDICAÇÕES
+Pacientes que desenvolveram anticorpos em virtude de Aplasia Pura de Células Vermelhas por tratamento com qualquer eritropoetina, não
+devem receber EPREX® ou qualquer outra eritropoetina.
+Hipertensão arterial não controlada.
+Hipersensibilidade à substância ativa ou a qualquer componente da fórmula.
+Todas as contraindicações associadas aos programas de pré-doação de sangue autólogo devem ser respeitadas em pacientes recebendo EPREX®.
+Doença grave no coração, nas artérias, nas carótidas ou doença vascular cerebral, incluindo infarto do miocárdio ou acidente vascular cerebral
+recentes, em pacientes que serão submetidos a cirurgia ortopédica de grande porte e não serão incluídos em programa de doação sanguínea
+autóloga.
+Qualquer razão em que o paciente cirúrgico não possa receber profilaxia adequada com antitrombóticos.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Hipertensão
+A pressão arterial deve ser adequadamente monitorada e controlada, se necessário, em todos os pacientes recebendo EPREX® e o seu uso deve
+ser realizado com cautela na presença de hipertensão arterial não tratada, tratada de forma inadequada ou mal controlada.
+Durante o tratamento com EPREX®, pode ser necessário iniciar tratamento anti-hipertensivo ou aumentar a dose do anti-hipertensivo em uso.
+Caso a pressão arterial não seja controlada, interromper o uso do EPREX®.
+Crises hipertensivas com encefalopatia e convulsões que exigem a atenção imediata de um médico e cuidados médicos intensivos, também
+ocorreram durante o tratamento com EPREX® em pacientes com pressão arterial prévia normal ou baixa. Atenção especial deve ser dada ao
+aparecimento súbito de cefaleias tipo enxaqueca lancinante como um possível sinal de cuidado (vide “Reações Adversas”).
+Aplasia Pura de Células Vermelhas mediada por anticorpos
+A ocorrência de Aplasia Pura de Células Vermelhas mediada por anticorpos foi relatada depois da administração subcutânea da alfaepoetina.
+Os casos também foram raros em pacientes com hepatite C tratados com interferon e ribavirina que usaram ESAs concomitantemente. Os ESAs
+não são aprovados para tratamento da anemia associada à hepatite C.
+Em pacientes com insuficiência renal crônica desenvolvendo falta de eficácia repentina, definida por diminuição da hemoglobina (1 a 2 g/dL
+por mês) com aumento da necessidade de transfusões, deve ser solicitada a contagem de reticulócitos e as causas típicas de não resposta (por
+exemplo, deficiências de folatos, ferro e Vitamina B12, intoxicação por alumínio, infecção ou inflamação, perdas sanguíneas, hemólise e fibrose
+da medula óssea de qualquer origem) devem ser investigadas. Se a contagem de reticulócitos corrigida para anemia (isto é, “índice” de
+reticulócito) estiver baixa (< 20.000/mm3 ou < 20.000 mcL ou < 0,5%), a contagem de plaquetas e glóbulos brancos estiver normal e nenhuma
+10
+outra causa for encontrada para a perda de efeito, o teste para anticorpos anti-eritropoetina deve ser realizado e um exame de medula óssea deve
+ser considerado para o diagnóstico da Aplasia Pura de Células Vermelhas.
+Se houver suspeita de Aplasia Pura de Células Vermelhas, a terapia com EPREX® deve ser imediatamente interrompida. Nenhuma outra terapia
+com ESAs deve ser iniciada devido ao risco de reação cruzada. Terapia apropriada, como transfusões de sangue, pode ser administrada, quando
+indicado.
+Geral
+EPREX® deve ser usado com cautela em pacientes com epilepsia, história de convulsões, ou condições médicas associadas a uma predisposição
+para atividade convulsiva, tais como infecções do SNC e metástases cerebrais.
+EPREX® deve ser usado com cautela em pacientes com insuficiência hepática crônica. A segurança de EPREX® não foi estabelecida em
+pacientes com disfunção hepática. Devido ao reduzido metabolismo, estes pacientes podem apresentar eritropoese aumentada com EPREX®.
+A incidência aumentada de eventos trombóticos vasculares foi observada em pacientes recebendo ESAs, incluindo tromboses arteriais e venosas
+e embolia (incluindo alguns desfechos fatais), tais como trombose venosa profunda, embolia pulmonar, trombose da retina e infarto do
+miocárdio. Adicionalmente, episódios de acidente vascular cerebral (incluindo infarto cerebral, hemorragia cerebral e ataques de isquemia
+transitória) foram relatados.
+O risco relatado de eventos trombóticos vasculares deve ser avaliado contra os benefícios proporcionados pelo tratamento com EPREX®,
+particularmente em pacientes com fatores de risco preexistentes.
+Em todos os pacientes, concentração de hemoglobina deve ser monitorada com cautela devido ao potencial de risco aumentado de eventos
+tromboembólicos e casos fatais quando os pacientes são tratados em concentrações de hemoglobina acima da faixa para a indicação de uso.
+A segurança e a eficácia do tratamento com EPREX® não foram estabelecidas em pacientes com doenças hematológicas subjacentes (por
+exemplo: anemia hemolítica, anemia falciformes, talassemia).
+Durante o tratamento pode ocorrer aumento dose-dependente de grau moderado da contagem plaquetária (dentro do nível normal), o qual regride
+durante o curso do tratamento. Além disso, o desenvolvimento de trombocitemia acima do nível normal foi relatado. Recomenda-se que a
+contagem plaquetária seja regularmente monitorada durante as primeiras 8 semanas de tratamento.
+Outras causas de anemia (deficiência de ferro, folato ou vitamina B , intoxicação por alumínio, infecção ou inflamação, perda de sangue,
+12
+hemólise e fibrose da medula óssea de qualquer origem) devem ser avaliadas e tratadas antes do início do tratamento com EPREX® e quando
+houver aumento da dose. Na maioria dos casos, as concentrações séricas de ferritina diminuem simultaneamente ao aumento do volume globular.
+A fim de garantir uma resposta ótima à EPREX®, os estoques de ferro devem ser adequados e suplementação de ferro deve ser administrada se
+necessário:
+• Em pacientes com insuficiência renal crônica, recomenda-se a suplementação de ferro (ferro elementar 200-300 mg/dia em adultos e 100-
+200 mg/dia em crianças, por via oral) se os níveis de ferritina sérica forem menores que 100 ng/mL.
+• Em pacientes com câncer, recomenda-se suplementação de ferro (ferro elementar 200-300 mg/dia, por via oral) se a saturação de
+transferência for menor que 20%.
+11
+• Para pacientes em programa de pré-doação autóloga, a suplementação de ferro (ferro elementar 200 mg/dia por via oral) deve ser
+administrada várias semanas antes de iniciar o pré-depósito autólogo a fim de obter estoques altos de ferro antes do início do tratamento com
+EPREX® e durante o curso do tratamento.
+• Para pacientes com cirurgia ortopédica eletiva de grande porte, a suplementação de ferro (ferro elementar 200 mg/dia por via oral) deve
+ser realizada durante o curso de tratamento com EPREX®. Se possível, a suplementação deve ser iniciada antes do início do tratamento com
+EPREX® para alcançar estoques adequados de ferro.
+Muito raramente, a apresentação inicial ou exacerbação da porfiria foi observada em pacientes tratados com EPREX®. EPREX® deve ser usado
+com cautela em pacientes com porfiria.
+Reações bolhosas e esfoliativas da pele, incluindo eritema multiforme e Síndrome de Stevens-Johnson (SSJ)/necrólise epidérmica tóxica (NET),
+foram relatadas em um pequeno número de pacientes tratados com EPREX®. Interrompa a terapia com EPREX® imediatamente se houver
+suspeita de reação cutânea grave, como SSJ/NET.
+A proteção da agulha na seringa preenchida de EPREX® contém uma borracha natural seca (um derivado do látex), o qual pode causar reações
+alérgicas em pessoas sensíveis ao látex.
+Agentes estimulantes de eritropoese (ESAs) não são necessariamente equivalentes. Portanto, deve ser enfatizado que os pacientes apenas podem
+mudar de agente estimulante da eritropoese (como EPREX®) para outro agente com autorização de um médico.
+Esta embalagem contém látex.
+Pacientes com insuficiência renal
+Em pacientes com insuficiência renal crônica, tratados com EPREX®, os níveis de hemoglobina devem ser determinados regularmente até a
+sua estabilização e periodicamente após esta.
+Em pacientes com insuficiência renal crônica a taxa de aumento da hemoglobina deve ser de aproximadamente 1 g/dL (0,62 mmol/L) por mês
+e não deve exceder 2 g/dL (1,2 mmol/L) por mês para minimizar os riscos de aumento da hipertensão. A dose deve ser reduzida quando a
+hemoglobina se aproximar de 12 g/dL.
+Em pacientes com insuficiência renal crônica, a concentração de manutenção da hemoglobina não deve exceder o limite superior da faixa de
+concentração recomendada no item “Posologia e Modo de Usar”, uma vez que níveis de hemoglobina iguais a 13 g/dL ou superiores podem
+estar associados a um maior risco de incidentes cardiovasculares, incluindo morte.
+Alguns pacientes com intervalos de dose de EPREX® mais prolongados (maior que uma vez por semana) podem não manter níveis de
+hemoglobina adequados (vide “Propriedades Farmacológicas” e “Propriedades Farmacodinâmicas”) e necessitar de um aumento na dose de
+EPREX®. Os níveis de hemoglobina devem ser monitorados regularmente.
+Pacientes com insuficiência renal crônica e resposta insuficiente da hemoglobina ao tratamento com ESAs podem estar sob maior risco de
+eventos cardiovasculares e mortalidade do que outros pacientes.
+De acordo com os dados atualmente disponíveis, o uso de EPREX® em pacientes em pré-diálise com insuficiência renal em fase terminal não
+acelera a progressão da insuficiência renal.
+12
+Tromboses do “shunt” ocorreram em pacientes em hemodiálise, especialmente naqueles com tendência à hipotensão ou cuja fístula
+arteriovenosa exibe complicações (por exemplo, estenoses, aneurismas, etc.). A revisão precoce do “shunt” e a profilaxia para trombose com
+ácido acetilsalicílico, por exemplo, é recomendada nestes pacientes.
+Hiperpotassemia foi observada em casos isolados, embora a causalidade não tenha sido estabelecida. Os eletrólitos séricos devem ser
+monitorados em pacientes com insuficiência renal crônica. Se for detectado nível sérico de potássio elevado ou em elevação, além do tratamento
+apropriado da hiperpotassemia, deve-se considerar a interrupção da administração de EPREX® até a correção do nível sérico de potássio.
+Como resultado do aumento do volume globular, os pacientes sob hemodiálise frequentemente requerem aumento da dose de heparina durante
+a diálise. Se a heparinização não é adequada pode ocorrer oclusão do sistema de diálise.
+Em algumas pacientes com insuficiência renal crônica, a menstruação recomeça após o início do tratamento com EPREX®, portanto, a
+possibilidade de ocorrência de gravidez deve ser discutida, avaliando a necessidade de uso de contraceptivos.
+Pacientes com câncer
+Os níveis de hemoglobina devem ser determinados regularmente em pacientes com câncer recebendo EPREX®, até a sua estabilização e depois
+periodicamente.
+Os ESAs são fatores de crescimento que estimulam principalmente a produção de glóbulos vermelhos. Os receptores de eritropoetina podem
+estar expressos na superfície de uma variedade de células tumorais. Assim como para todos os fatores de crescimento, há uma preocupação que
+os ESAs possam estimular o crescimento de tumores.
+Em estudos clínicos controlados, o uso de EPREX® e de outros ESAs demonstrou:
+• Controle locorregional diminuído em pacientes com câncer avançado de cabeça e pescoço recebendo radioterapia, quando administrado
+para atingir um nível de concentração de hemoglobina maior que 14 g/dL (8,7 mmol/L).
+• Sobrevida global menor e o aumento do número de óbitos atribuídos à progressão da doença em 4 meses em pacientes com câncer de
+mama metastático recebendo quimioterapia, quando administrado para nível de concentração de hemoglobina de 12 a 14 g/dL (7,5 a 8,7
+mmol/L).
+• Outro ESA (alfadarbepoetina) aumentou o risco de morte quando administrado para alcançar um nível de concentração de 12 g/dL (7,5
+mmol/L) de hemoglobina em pacientes com doença maligna ativa não recebendo nem quimioterapia nem radioterapia. Os ESA não são
+indicados para esta população de pacientes.
+Face ao exposto anteriormente, a decisão de administrar tratamento com eritropoetina recombinante deve ser baseada na avaliação do
+risco/benefício com participação do próprio paciente, a qual deve levar em conta o contexto clínico específico. Os fatores a serem considerados
+nesta avaliação incluem: tipo de tumor e seu estágio, grau de anemia, expectativa de vida, ambiente no qual o paciente está sendo tratado e a
+preferência do paciente.
+Em pacientes com câncer recebendo quimioterapia, deve-se levar em consideração uma demora de 2-3 semanas entre a administração de agentes
+estimulantes de eritropoese (ESAs) e o aparecimento de glóbulos vermelhos induzidos pela eritropoetina ao avaliar se o tratamento com
+EPREX® é adequado (em particular em pacientes sob risco de transfusão).
+13
+Pacientes infectados com HIV
+Se os pacientes infectados com HIV não apresentarem resposta ou não mantiverem a resposta ao EPREX®, outras etiologias, incluindo anemia
+ferropriva, devem ser consideradas e avaliadas.
+Pacientes adultos em pré-operatório em programa de pré-doação de sangue autólogo
+Todas as advertências e precauções associadas aos programas de doação de sangue autólogo, especialmente reposição rotineira de volume,
+devem ser respeitadas em pacientes recebendo EPREX®.
+Pacientes adultos em pré-operatório (sem participar do programa de doação de sangue autólogo)
+Boas práticas de gerenciamento hematológico sempre devem ser usadas no cenário pré-operatório.
+Pacientes que serão submetidos a cirurgia ortopédica eletiva de grande porte devem receber profilaxia antitrombótica adequada, uma vez que
+eventos trombóticos e vasculares podem ocorrer em pacientes cirúrgicos, especialmente naqueles com doença cardiovascular subjacente. Além
+disso, recomenda-se precaução especial em pacientes com predisposição ao desenvolvimento de trombose venosa profunda. Em pacientes com
+nível de base de hemoglobina > 13 g/dL, a possibilidade do tratamento com EPREX® estar associado com aumento do risco de eventos
+trombóticos/vasculares após a cirurgia não pode ser excluída. Portanto, a alfaepoetina não deve ser usada em pacientes com nível basal de
+hemoglobina > 13 g/dL.
+O uso de EPREX® não é recomendado em pacientes em pré-operatório com valores basais de hemoglobina superiores a 13 g/dL.
+Efeitos sobre a capacidade de dirigir veículos e operar máquinas
+Não foram conduzidos estudos para avaliar os efeitos de EPREX® sobre a capacidade de dirigir veículos e operar máquinas.
+Uso em idosos, crianças e outros grupos de risco
+A segurança de EPREX® não foi estabelecida em pacientes com disfunção hepática, pois, devido ao reduzido metabolismo, esses pacientes
+podem apresentar aumento da eritropoese.
+Em pacientes com insuficiência renal crônica e doença cardíaca isquêmica clinicamente evidente ou insuficiência cardíaca congestiva a
+porcentagem de manutenção da hemoglobina não deve exceder o limite superior da concentração alvo, conforme recomendado.
+A seleção e o ajuste da dose devem ser individualizados em pacientes idosos, a fim de atingir e manter a faixa de concentração da hemoglobina.
+Gravidez (Categoria C) e Lactação
+Em estudos em animais, a alfaepoetina demonstrou diminuir o peso fetal, retardou a ossificação e aumentou a mortalidade fetal quando
+administrada em doses semanais de aproximadamente 20 vezes a dose semanal recomendada para seres humanos. Estas alterações são
+consideradas como secundárias à diminuição do ganho de peso materno.
+Não há estudos adequados e controlados em gestantes.
+EPREX® deve ser usado durante a gestação apenas se o benefício potencial justificar o risco potencial para o feto.
+A eritropoetina está presente no leite humano. No entanto, não se sabe se a alfaepoetina é distribuída para o leite humano. EPREX® deve ser
+usado com cautela em lactantes.
+O uso de EPREX® não é recomendado em pacientes cirúrgicas gestantes ou lactantes participando de programa de pré-doação de sangue
+autólogo.
+O efeito de EPREX® na fertilidade humana não foi estudado.
+14
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião dentista.
+Uso criterioso no aleitamento ou na doação de leite humano: O uso deste medicamento no período da lactação depende da avaliação e
+acompanhamento do seu médico ou cirurgião-dentista.
+Este medicamento pode causar doping.
+6. INTERAÇÕES MEDICAMENTOSAS
+Não existem evidências de que o tratamento com EPREX® altera o metabolismo de outros medicamentos. Fármacos que diminuem a eritropoese
+podem diminuir a resposta ao EPREX®. Uma vez que a ciclosporina é ligada aos eritrócitos, existe a possibilidade de interação medicamentosa.
+Em casos de administração concomitante com ciclosporina, os níveis sanguíneos da ciclosporina devem ser monitorados e a dose ajustada a
+medida que o hematócrito aumenta.
+Não há evidência indicando uma interação entre o EPREX® e G-CSF (fator estimulador de colônia de granulócito) ou GM-CSF (fator
+estimulador de colônia de granulócito-macrófago) em relação à diferenciação hematológica ou proliferação de células tumorais a partir das
+amostras de biópsia in vitro.
+A ação de EPREX® poderá ser potencializada pela administração terapêutica simultânea de um agente hematínico, como o sulfato ferroso,
+quando houver um estado deficitário de precursores da hemoglobina.
+A coadministração subcutânea de 40.000 UI/mL de EPREX® com trastuzumabe (6 mg/kg) não teve efeito na farmacocinética de trastuzumabe
+em indivíduos com câncer de mama metastático.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar em geladeira (entre 2ºC e 8ºC). Manter na embalagem original até o final do uso para proteger da luz. Não congelar. Não agitar.
+Os seguintes pontos devem ser considerados:
+- EPREX® seringa preenchida deve ser conservada na geladeira. Contudo, não guardar no congelador e nem no "freezer".
+- Conservar EPREX® na embalagem original até o instante de utilizá-lo.
+- Antes de usar EPREX® seringa preenchida deixá-lo a temperatura ambiente por 15 a 30 minutos. Nunca deixe EPREX® em temperatura
+ambiente por mais de 60 minutos antes da aplicação da injeção, nem deixe o medicamento exposto ao sol.
+- Nunca aqueça EPREX®.
+EPREX® em seringas preenchidas tem validade de 18 meses a partir da data de sua fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Aspecto físico
+EPREX® é uma solução injetável transparente e translúcida.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+15
+8. POSOLOGIA E MODO DE USAR
+Considerações gerais para administração
+EPREX® pode ser administrado por via intravenosa ou subcutânea.
+Quanto a qualquer medicamento administrado via parenteral, a solução injetável deve ser inspecionada quanto a partículas e descoloração antes
+da administração. Não agite. A agitação pode desnaturar a glicoproteína, tornando-a inativa.
+Cada seringa de EPREX® é apenas para uso único. Apenas uma dose de EPREX® deve ser administrada em cada seringa.
+EPREX® em seringas de uso único não contém conservantes. Não reutilize a seringa. Descarte a porção não utilizada.
+Injeção intravenosa
+EPREX® deve ser administrado durante pelo menos de um a cinco minutos, dependendo da dose total.
+É preferível uma injeção mais lenta em pacientes que reagem ao tratamento com sintomas semelhantes a gripe.
+Em pacientes em hemodiálise, uma injeção de bolus pode ser administrada durante a diálise através de um orifício venoso adequado na linha
+de diálise. Alternativamente, na conclusão de uma sessão de hemodiálise, a injeção pode ser administrada através da tubulação da agulha da
+fístula, seguida de 10 mL de solução salina isotônica para enxaguar a tubagem e assegurar uma injeção satisfatória do produto na circulação.
+EPREX® não deve ser administrado por infusão intravenosa ou misturado com outras drogas.
+Injeção subcutânea
+O volume máximo por local de injeção deve ser de 1 mL. No caso de volumes maiores, deve-se usar mais de um local de injeção.
+As injeções devem ser administradas nos membros ou na parede abdominal anterior.
+Em situações em que o médico determina que o paciente ou cuidador pode, de forma segura e eficaz, administrar EPREX® por via subcutânea,
+devem ser fornecidas instruções sobre a dosagem e administração adequadas.
+Pacientes com insuficiência renal crônica
+Em pacientes com insuficiência renal crônica, e acesso intravenoso disponível (pacientes em hemodiálise), a administração de EPREX® por
+via intravenosa é preferível. Se o acesso intravenoso não estiver disponível (pacientes ainda não submetidos à diálise ou em diálise peritoneal),
+EPREX® pode ser administrado por via subcutânea. A concentração de hemoglobina ideal deve ser entre 10 e 12 g/dL (6,2 e 7,5 mmol/L) em
+adultos e entre 9,5 e 11 g/dL (5,9 e 6,8 mmol/L) em crianças.
+Em pacientes com insuficiência renal crônica a concentração de manutenção da hemoglobina não deve exceder o limite superior da faixa de
+concentração da hemoglobina. Quando se altera a via de administração, a mesma dose deve ser usada inicialmente, e, então, deve ser titulada
+para manter a hemoglobina na faixa de concentração da hemoglobina.
+Na fase de correção da anemia, a dose de EPREX® deve ser aumentada se a hemoglobina não aumentar 1 g/dL (0,62 mmol/L)/mês.
+Um aumento clinicamente significativo na hemoglobina geralmente não é observado em menos de 2 semanas e pode requerer até 6-10 semanas
+em alguns pacientes.
+16
+Quando a concentração de hemoglobina estiver dentro da faixa, a dose deve ser diminuída em 25 UI/kg/dose para evitar exceder a faixa de
+concentração da hemoglobina. Se a concentração de hemoglobina se aproximar de 12 g/dL, a dose deve ser reduzida. Reduções da dose podem
+ser feitas através da omissão de uma das doses semanais ou pela redução da quantidade de cada dose.
+Pacientes adultos em hemodiálise
+Em pacientes em hemodiálise, com acesso intravenoso disponível, a administração de EPREX® por via intravenosa é preferível. O tratamento
+é dividido em duas fases:
+- Fase de Correção:
+Dose de 50 UI/kg, três vezes por semana.
+Quando necessário, os ajustes de dose devem ser feitos em incrementos de 25 UI/kg, três vezes por semana em intervalos de pelo menos 4
+semanas até que a faixa de concentração da hemoglobina de 10-12 g/dL (6,2-7,5 mmol/L) seja atingida.
+- Fase de Manutenção:
+Ajustar a dose a fim de manter os valores de hemoglobina no nível desejado de 10 a 12 g/dL (6,2-7,5 mmol/L).
+A dose de manutenção deve ser individualizada para cada paciente com insuficiência renal crônica. A dose semanal total recomendada é de 75
+a 300 UI/kg.
+Os dados disponíveis sugerem que pacientes com hemoglobina de base < 6 g/dL (< 3,7 mmol/L) podem requerer doses de manutenção maiores
+que os pacientes com hemoglobina de base > 8 g/dL (> 5 mmol/L).
+Pacientes pediátricos em hemodiálise
+O tratamento é dividido em duas fases:
+- Fase de Correção:
+Dose de 50 UI/kg, três vezes por semana, por via intravenosa.
+Quando necessário, os ajustes de dose devem ser feitos em incrementos de 25 UI/kg, três vezes por semana em intervalos de pelo menos 4
+semanas até que a faixa de concentração da hemoglobina de 9,5-11 g/dL (5,9-6,8 mmol/L) seja atingida.
+- Fase de Manutenção:
+A dose deve ser ajustada a fim de manter a concentração de hemoglobina na faixa desejada de 9,5 g/dL a 11 g/dL (5,9-6,8 mmol/L).
+Geralmente, crianças com peso inferior a 30 kg requerem uma dose de manutenção maior que as crianças com peso superior a 30 kg e os adultos.
+Em estudos clínicos, as seguintes doses de manutenção foram observadas em estudos clínicos após 6 meses de tratamento:
+Dose (UI/kg administrada 3x/semana)
+Peso (kg) Mediana da dose Dose usual de manutenção
+< 10 100 75-150
+10-30 75 60-150
+17
+> 30 33 30-100
+Os dados disponíveis sugerem que os pacientes com valores basais de hemoglobina muito baixos (hemoglobina < 6,8 g/dL) podem requerer
+doses de manutenção maiores que os pacientes com hemoglobina inicial mais alta (hemoglobina > 6,8 g/dL).
+Pacientes adultos em diálise peritoneal
+Em pacientes em diálise peritoneal, sem acesso intravenoso disponível, EPREX® pode ser administrado por via subcutânea. O tratamento é
+dividido em duas fases:
+- Fase de Correção:
+Dose de 50 UI/kg, duas vezes por semana. Quando necessário, os ajustes de dose devem ser feitos em incrementos de 25 UI/kg, duas vezes por
+semana em intervalos de pelo menos 4 semanas até que a faixa de concentração da hemoglobina de 10-12 g/dL (6,2-7,5 mmol/L) seja atingida.
+- Fase de Manutenção:
+A dose usual para manter a faixa de concentração da hemoglobina de 10-12 g/dL (6,2-7,5 mmol/L) está entre 25 e 50 UI/kg, duas vezes por
+semana, em duas injeções idênticas.
+Pacientes pediátricos em diálise peritoneal
+O tratamento é dividido em duas fases:
+- Fase de Correção:
+Dose de 50 UI/kg, três vezes por semana, por via intravenosa ou subcutânea.
+Quando necessário, os ajustes de dose devem ser feitos em incrementos de 25 UI/kg, três vezes por semana em intervalos de pelo menos 4
+semanas até que a faixa de concentração da hemoglobina de 9,5-11 g/dL (5,9-6,8 mmol/L) seja atingida.
+- Fase de Manutenção:
+Geralmente, crianças com peso inferior a 30 kg requerem uma dose de manutenção maior que as crianças com peso superior a 30 kg e os adultos.
+Em estudos clínicos, as seguintes doses de manutenção foram observadas em estudos clínicos após 6 meses de tratamento:
+Dose (UI/kg administrada 3x/semana)
+Peso (kg) Mediana da dose Dose usual de manutenção
+< 10 100 75-150
+10-30 75 60-150
+> 30 33 30-100
+Os dados disponíveis sugerem que os pacientes com valores basais de hemoglobina muito baixos (hemoglobina < 6,8 g/dL) podem requerer
+doses de manutenção maiores que os pacientes com hemoglobina inicial mais alta (hemoglobina > 6,8 g/dL).
+18
+Pacientes adultos em pré-diálise (Pacientes adultos em estágio final de insuficiência renal)
+Em pacientes com insuficiência renal ainda não submetidos a diálise, sem acesso intravenoso disponível, EPREX® pode ser administrado por
+via subcutânea. O tratamento é dividido em duas fases:
+- Fase de Correção:
+Dose de 50 UI/kg, três vezes por semana.
+Quando necessário, os ajustes de dose devem ser feitos em incrementos de 25 UI/kg, três vezes por semana em intervalos de pelo menos 4
+semanas até que a faixa de concentração da hemoglobina de 10-12 g/dL (6,2-7,5 mmol/L) seja atingida.
+- Fase de Manutenção:
+A dose usual para manter a faixa de concentração da hemoglobina está entre 17 e 33 UI/kg, três vezes por semana.
+A dose máxima não deve exceder 200 UI/kg três vezes por semana.
+Pacientes adultos com câncer
+A via subcutânea deve ser usada.
+A faixa de concentração da hemoglobina deve ser de 10 a 12 g/dL em homens e mulheres e não deve ser excedida.
+O tratamento com EPREX® deve ser mantido até um mês após o término da quimioterapia. Entretanto, a necessidade de continuar o tratamento
+deve ser reavaliada periodicamente.
+A dose inicial para tratamento da anemia deve ser de 150 UI/kg, 3 vezes por semana.
+Em pacientes adultos o tratamento da anemia também pode ser feito com EPREX® 40.000 UI por via subcutânea uma vez por semana.
+Se após 4 semanas de tratamento com a dose inicial, a hemoglobina aumentou em pelo menos 1g/dL (0,6 mmol/L), ou a contagem de
+reticulócitos aumentou acima do basal em ≥ 40.000 células/µL, a dose deve permanecer a mesma.
+Se após 4 semanas de tratamento com a dose inicial, a hemoglobina não aumentou em ≥ 1g/dL (0,6 mmol/L), e a contagem de reticulócitos não
+aumentou acima do basal em ≥ 40.000 células/mcL, na ausência de transfusão sanguínea de células vermelhas, a dose deve ser aumentada para
+300 UI/kg 3 vezes por semana ou 60.000 UI por semana.
+Se após 4 semanas de tratamento de terapia adicional com 300 UI/kg 3 vezes por semana ou 60.000 UI por semana, a hemoglobina aumentou
+≥ 1g/dL ou a contagem de reticulócitos aumentou ≥ 40.000 células/mcL, a dose deve permanecer a mesma.
+Se após 4 semanas de terapia com 300 UI/kg, a hemoglobina tiver aumentado menos que 1 g/dL, a resposta do indivíduo ao EPREX® é
+improvável e o tratamento deve ser descontinuado.
+Um aumento de hemoglobina > 1 g/dL em 2 semanas ou 2 g/dL em um mês ou níveis de hemoglobina > 12 g/dL devem ser evitados. Se os
+níveis de hemoglobina aumentam em mais de 1 g/dL por 2 semanas ou 2 g/dL por mês ou se a hemoglobina estiver próxima de 12 g/dL, deve-
+se reduzir a dose de EPREX® em cerca de 25 - 50%, dependendo da taxa de aumento da hemoglobina. Se a hemoglobina exceder 12 g/dL, a
+terapia deve ser descontinuada até que estes níveis caiam para < 12 g/dL e então, reinstitui-se a terapia com EPREX® com uma dose 25%
+abaixo da dose prévia.
+Pacientes portadores de AIDS tratados com zidovudina (AZT)
+Antes do início do tratamento com EPREX® (alfaepoetina), recomenda-se que o nível de eritropoetina sérica seja determinado antes da
+transfusão. Os dados disponíveis sugerem que os pacientes com níveis séricos de eritropoetina > 500 mUI/mL provavelmente não responderão
+à terapia com EPREX® (alfaepoetina).
+19
+O tratamento é dividido em duas fases:
+- Fase de Correção:
+Dose de 100 UI/kg três vezes por semana, por via subcutânea ou intravenosa, durante 8 semanas. Se a resposta não for satisfatória (isto é,
+redução das necessidades de transfusões ou hemoglobina aumentada) após 8 semanas de tratamento, a dose de EPREX® pode ser aumentada.
+Os aumentos de dose devem ser feitos em incrementos de 50-100 UI/kg três vezes por semana em intervalos de pelo menos 4 semanas. Se os
+pacientes não tiverem respondido satisfatoriamente a uma dose de 300 UI/kg três vezes por semana, é pouco provável que eles responderão a
+doses maiores.
+- Fase de Manutenção:
+Após a obtenção da resposta desejada, a dose deve ser titulada para manutenção da hemoglobina entre 10-12 g/dL, baseado em fatores tais como
+variações na dose de zidovudina e a presença de infecções intercorrentes ou episódios inflamatórios. Se a hemoglobina exceder 13 g/dL, a dose
+deve ser descontinuada até que a hemoglobina diminua a 12 g/dL. Quando o tratamento é reiniciado, a dose deve ser reduzida em 25% e então
+titulada para a manutenção da hemoglobina desejada.
+Em pacientes portadores de AIDS tratados com zidovudina a concentração de hemoglobina não pode exceder 12 g/dL.
+Programa de doação de sangue autólogo em pacientes adultos a serem submetidos a cirurgia
+EPREX® pode ser administrado após o término de cada procedimento de doação, por via endovenosa.
+Para pacientes que necessitam um menor grau de estimulação da eritropoese, um regime de 150-300 UI/kg, duas vezes por semana, demonstrou
+aumentar a pré-doação autóloga e diminuir o declínio subsequente no hematócrito.
+Para pacientes com anemia leve (hemoglobina entre 10-13 g/dL) que necessitam de pré-depósito de pelo menos 4 unidades de sangue,
+recomenda-se a posologia de 600 UI/kg por via intravenosa, duas vezes por semana, por 3 semanas antes da cirurgia.
+Pacientes em pré-operatório (que não participam de programa de doação de sangue autólogo)
+Deve ser usada a via subcutânea de administração.
+A dose recomendada é de 600 UI/kg de EPREX®, por semana, durante três semanas antes da cirurgia (dias -21, -14 e -7) e no dia da cirurgia.
+Caso a cirurgia tenha indicação médica de ocorrer em menos de 3 semanas, a dose de 300 UI/kg deve ser administrada diariamente durante dez
+dias consecutivos antes da cirurgia, no dia da cirurgia e nos quatro dias imediatamente posteriores à mesma. Esta dose é recomendada para
+níveis de hemoglobina ≤ 13 g/dL. A administração deve ser interrompida caso a hemoglobina atinja 15 g/dL ou acima e doses adicionais não
+devem ser administradas.
+Populações especiais
+Pediátricos (17 anos de idade ou menos)
+Tratamento de pacientes pediátricos com anemia induzida por quimioterapia
+A segurança e eficácia de EPREX® em pacientes pediátricos submetidos à quimioterapia não foram estabelecidas.
+Tratamento de pacientes pediátricos infectados pelo HIV tratados com zidovudina
+A segurança e eficácia de EPREX® em pacientes pediátricos infectados pelo HIV tratados com zidovudina não foram estabelecidas.
+20
+Tratamento de pacientes pediátricos a serem submetidos à cirurgia em um programa de pré-doação autóloga
+A segurança e eficácia de EPREX® em pacientes pediátricos a serem submetidos a cirurgia em um programa de pré-doação autóloga não foram
+estabelecidas.
+Tratamento de pacientes pediátricos a serem submetidos à cirurgia ortopédica eletiva de grande porte
+A segurança e eficácia de EPREX® em pacientes pediátricos em programação para cirurgia ortopédica eletiva de grande porte não foram
+estabelecidas.
+Idosos (65 anos de idade ou mais)
+A seleção e o ajuste de dose para pacientes idosos devem ser individualizados para atingir e manter a faixa de concentração da hemoglobina.
+Como usar
+Recomenda-se que a aplicação seja feita por uma pessoa treinada por um profissional de saúde.
+O medicamento é para apenas uma única aplicação. O medicamento não deve ser usado e deve ser descartado se o lacre estiver rompido, o
+liquido apresentar coloração ou partículas em suspensão, o medicamento possa ter sido congelado ou se houve falha na refrigeração.
+USO SUBCUTÂNEO
+A) Cuidados com a seringa preenchida:
+1. Retire a seringa da geladeira; a seringa não deve estar congelada. O líquido precisa ficar em temperatura ambiente antes de ser aplicado.
+Isso pode levar de 15 a 30 minutos para ocorrer. Não remova a tampa da agulha enquanto estiver aguardando para atingir a temperatura ambiente.
+Nunca deixe EPREX® em temperatura ambiente por mais de 60 minutos antes da aplicação da injeção, nem deixe o medicamento exposto ao
+sol. Nunca aqueça EPREX®.
+2. Verifique o aspecto do medicamento e se a seringa está com a dose certa e dentro da data de validade, se o líquido está claro e não
+congelado. Não use EPREX® se houver partículas em suspensão dentro da seringa.
+3. Não agite a solução, pois isto pode alterar o medicamento, tornando-a inativo.
+4. NÃO ADMINISTRE OUTRAS MEDICAÇÕES SIMULTANEAMENTE NA MESMA SERINGA. Apenas uma dose de EPREX® deve
+ser aplicada a partir de cada seringa preenchida ou frasco-ampola. Qualquer fluido que sobrar deve ser descartado. Deve-se tomar cuidado para
+que a dose correta seja administrada.
+5. Como EPREX® não contém conservantes, deve ser usado como dose única, desprezando-se possíveis sobras na seringa.
+B) Manipulação da seringa com sistema PROTECS
+1. EPREX® seringa preenchida (figura a seguir) apresenta dispositivo de segurança (PROTECS) o qual contribui para a prevenção de acidentes
+perfurocortantes.
+21
+2. Segure a seringa preenchida pelo corpo com a agulha coberta apontando para cima.
+Não segure pela cabeça do êmbolo, êmbolo, cobertura da agulha ou asa de proteção da agulha.
+Não puxe o êmbolo de volta, em nenhum momento.
+Não remova a cobertura da agulha da seringa preenchida até o momento de realizar a aplicação de EPREX®.
+Para evitar a ativação do dispositivo de segurança antes da aplicação do medicamento, não toque nas asas de proteção da agulha.
+3. Para remover a proteção da agulha, segure o corpo da seringa. Retire cuidadosamente a proteção da agulha sem girar. Não empurre o êmbolo,
+não toque na agulha nem agite a seringa.
+C) Aplicação do Eprex® PROTECS:
+1. Lave as mãos.
+2. Selecione o local para aplicação: pode-se utilizar, por exemplo, a face anterior da coxa, os braços ou a parede abdominal anterior (longe
+do umbigo). O volume máximo por local de injeção é 1 mL. Portanto, no caso de volumes maiores, deve-se utilizar mais de um local de
+aplicação.
+3. A área de aplicação deve ser desinfetada com álcool antes da aplicação.
+4. Faça uma prega cutânea usando o polegar e o indicador. Não aperte.
+5. Introduza a agulha por inteiro.
+6. Empurre o êmbolo com o polegar o máximo possível para injetar todo o líquido. Empurre de maneira lenta e constante, mantendo a prega
+cutânea. O protetor de agulha será ativado somente quando a dose tiver sido administrada por inteiro. Você deve ouvir um clique quando o
+dispositivo de segurança for ativado.
+7. Depois de empurrar o êmbolo até o fim, retire a agulha e solte a pele.
+8. Lentamente, retire o polegar do êmbolo. Quando você soltar o êmbolo, o protetor cobre a agulha por inteiro.
+22
+D) Cuidados após aplicação do EPREX® PROTECS
+1. Quando a agulha é retirada da pele, pode haver um sangramento no local da injeção. Passe um algodão com antisséptico no local da
+aplicação e comprima por alguns segundos depois da injeção.
+2. Descarte a seringa usada em um recipiente seguro.
+USO INTRAVENOSO
+Antes da administração intravenosa, verificar o item anterior “Cuidados com a seringa preenchida”.
+A injeção deve ser aplicada durante 1 a 5 minutos, dependendo da dose total. Em pacientes em hemodiálise, a medicação deve ser aplicada
+durante ou após a sessão de diálise. Para lavar o sistema de administração e garantir uma injeção satisfatória do medicamento na circulação, a
+injeção deve ser seguida por 10 mL de solução salina. Injeções mais lentas, durante 5 minutos, podem ser benéficas em pacientes que apresentem
+efeitos colaterais do tipo gripal. EPREX® não deve ser administrado em infusão ou combinado a outras soluções parenterais.
+9. REAÇÕES ADVERSAS
+Resumo do perfil de segurança
+A reação adversa mais frequente durante o tratamento com EPREX® é o aumento dose-dependente da pressão arterial ou piora da hipertensão
+arterial pré-existente. Deve ser feito, portanto, um monitoramento da pressão arterial, particularmente no início do tratamento.
+As reações adversas mais frequentes em estudos clínicos de EPREX® são diarreia, náusea, vômito, febre e cefaleia. Sintomas gripais podem
+ocorrer principalmente no início do tratamento.
+Incidência aumentada de eventos trombóticos vasculares foi observada em pacientes recebendo ESA (vide “Advertências e Precauções”).
+Reações de hipersensibilidade, incluindo erupção cutânea (inclusive urticária), reação anafilática e angioedema foram relatadas.
+Crise hipertensiva com encefalopatia e convulsões requerendo atenção imediata de um médico e cuidados intensivos foram relatados durante o
+tratamento com EPREX® nos pacientes com pressão arterial normal ou baixa. Atenção particular deve ser dada a súbita e lancinante enxaqueca
+como um possível sinal de advertência.
+Experiência de estudos clínicos
+De um total de 3559 indivíduos em 27 estudos randomizados, duplo-cegos, controlados com placebo ou tratamento padrão, o perfil de segurança
+de EPREX® foi avaliado em 2136 pacientes com anemia, incluindo: 228 indivíduos com insuficiência renal crônica tratados com EPREX® em
+23
+4 estudos em insuficiência renal crônica [2 estudos em pré-diálise, N=131 indivíduos com IRF expostos ainda não em diálise e 2 em diálise,
+N=97 indivíduos com IRC expostos em diálise; 1404 indivíduos com câncer expostos em 16 estudos de anemia devido à quimioterapia; 144
+indivíduos expostos em 4 estudos em infecção por HIV; 147 indivíduos expostos em 2 estudos para doação de sangue autóloga; e 213 indivíduos
+expostos em 1 estudo no cenário pré-operatório. As reações adversas relatadas por ≥ 1% dos sujeitos tratados com EPREX® nestes estudos são
+apresentadas na Tabela a seguir.
+24
+Resumo das reações adversas relatadas por ≥ 1% dos indivíduos em estudos clínicos com EPREX®
+Insuficiência renal crônica
+Pré-diálise Diálise Oncologia HIV DSA Cirurgia
+EPO Placebo EPO Placebo EPO Não ESA EPO Placebo EPO Não ESA EPO Placebo
+Classe de sistema/órgão N=131 N=79 N=97 N=46 N=1404 N=930 N=144 N=153 N=147 N=112 N=213 N=103
+Reação adversa n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%)
+Distúrbios gastrintestinais
+náusea 14 (11) 10 (13) 23 (24) 13 (28) 265 (19) 193 (21) 36 (25) 39 (25) 26 (18) 11 (10) 96 (45) 46 (45)
+diarreia 16 (12) 8 (10) 7 (7) 4 (9) 168 (12) 102 (11) 43 (30) 51 (33) 5 (3) 7 (6) 18 (8) 12 (12)
+vômito 12 (9) 6 (8) 9 (9) 8 (17) 173 (12) 134 (14) 21 (15) 24 (16) 7 (5) 1 (1) 36 (17) 14 (14)
+Distúrbios gerais e condições nos locais
+de aplicação
+calafrios 6 (5) 2 (3) 10 (10) 3 (7) 33 (2) 32 (3) 5 (3) 14 (9) 8 (5) 4 (4) 12 (6) 1 (1)
+sintomas gripais 1 (1) NR 9 (9) 6 (13) 23 (2) 10 (1) 3 (2) 1 (1) 4 (3) 1 (1) 1 (<1) NR
+reação no local da injeção 14 (11) 16 (20) 1 (1) NR 42 (3) 31 (3) 14 (10) 13 (9) NR 1 (1) 39 (18) 19 (18)
+Febre 4 (3) 4 (5) 9 (9) 6 (13) 189 (13) 130 (14) 61 (42) 52 (34) 7 (5) 3 (3) 37 (17) 27 (26)
+edema periférico 9 (7) 10 (13) NR NR 72 (5) 34 (4) 7 (5) 5 (3) 2 (1) 2 (2) 14 (7) 4 (4)
+Distúrbios metabólicos e nutricionais
+hiperpotassemia 3 (2) 3 (4) 10 (10) 2 (4) 2 (<1) 2 (<1) NR NR NR NR NR 1 (1)
+Distúrbios musculoesqueléticos e do
+tecido conjuntivo
+artralgia 16 (12) 6 (8) 23 (24) 3 (7) 45 (3) 43 (5) 5 (3) 11 (7) 3 (2) 3 (3) 5 (2) 3 (3)
+dor óssea 1 (1) NR 6 (6) 1 (2) 47 (3) 26 (3) 3 (2) NR NR 1 (1) 1 (<1) NR
+mialgia 3 (2) 1 (1) 6 (6) NR 46 (3) 25 (3) 8 (6) 9 (6) 2 (1) 3 (3) 2 (1) NR
+dor em extremidade 7 (5) 7 (9) 15 (15) 2 (4) 37 (3) 19 (2) 10 (7) 13 (8) 6 (4) 2 (2) 7 (3) 4 (4)
+Distúrbios do sistema nervoso
+convulsão 1 (1) 2 (3) 2 (2) NR 12 (1) 4 (<1) 2 (1) 2 (1) NR NR NR NR
+cefaleia 22 (17) 14 (18) 33 (34) 20 (43) 98 (7) 50 (5) 28 (19) 32 (21) 17 (12) 16 (14) 25 (12) 9 (9)
+Distúrbios respiratórios, torácicos e do
+mediastino
+tosse 5 (4) 1 (1) 9 (9) 8 (17) 98 (7) 66 (7) 37 (26) 22 (14) 2 (1) 2 (2) 10 (5) NR
+25
+Insuficiência renal crônica
+Pré-diálise Diálise Oncologia HIV DSA Cirurgia
+EPO Placebo EPO Placebo EPO Não ESA EPO Placebo EPO Não ESA EPO Placebo
+Classe de sistema/órgão N=131 N=79 N=97 N=46 N=1404 N=930 N=144 N=153 N=147 N=112 N=213 N=103
+Reação adversa n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%) n (%)
+congestão do trato respiratório NR NR 9 (9) 2 (4) NR NR 1 (1) NR NR NR NR NR
+Distúrbios da pele e tecido subcutâneo
+erupção cutâneaa 8 (6) 6 (8) 11 (11) 2 (4) 93 (7) 47 (5) 36 (25) 19 (12) 3 (2) 2 (2) 8 (4) 2 (2)
+Distúrbios vasculares
+embolismo e tromboseb 2 (2) NR 15 (15) 2 (4) 76 (5) 33 (4) 7 (5) 1 (1) 6 (4) 3 (3) 18 (8) 6 (6)
+trombose de veia profunda NR NR NR) NR 24 (2) 6 (1) NR NR 2 (1) 2 (2) 10 (5) 3 (3)
+trombose NR NR 4 (4) 1 (2) 18 (1) 6 (1) NR NR 2 (1) NR 3 (1) NR
+hipertensãoc 35 (27) 20 (25) 32 (33) 5 (11) 43 (3) 24 (3) 3 (2) 4 (3) NR 2 (2) 23 (11) 9 (9)
+DSA = doação de sangue autólogo; NR = não relatado.
+a Erupção cutânea inclui urticária e angioedema.
+b Inclui eventos arterial e venoso, fatal e não fatal, tais como trombose venosa profunda, embolia pulmonar, trombose da retina, trombose arterial (incluindo infarto do miocárdio), acidentes vascular cerebral (isto
+é, derrame incluindo infarto cerebral e hemorragia cerebral), ataques de isquemia transitória e trombose de “shunt” (incluindo equipamento de diálise) e trombose em aneurismas de shunt arteriovenoso.
+c hipertensão inclui crise hipertensiva e encefalopatia hipertensiva.
+26
+Dados de pós-comercialização
+As reações adversas identificadas durante a experiência de pós-comercialização com alfaepoetina, por frequência da categoria estimada a partir
+de relatos espontâneos, estão apresentadas a seguir.
+A Aplasia Pura de Células Vermelhas mediada por anticorpos foi muito raramente relatada (< 1/10.000 caso por paciente/ano) após meses a
+anos de tratamento com EPREX®.
+Reação muito rara (< 1/10.000):
+Distúrbios do sangue e sistema linfático: Aplasia Pura de Células Vermelhas mediada por anticorpos; trombocitemia.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+A margem de segurança terapêutica de EPREX® é muito ampla. A superdose por EPREX® pode produzir efeitos que são derivados dos efeitos
+farmacológicos do hormônio. Flebotomia pode ser realizada na ocorrência de níveis excessivamente altos de hemoglobina. Deve-se tomar
+cuidados adicionais de suporte de acordo com o necessário.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro – 1.1236.3337
+Farm. Resp.: Erika Diago Rufino – CRF/SP n° 57.310
+Produzido por:
+Cilag AG – Schaffhausen – Suíça
+Importado por:
+Janssen-Cilag Farmacêutica Ltda. – São José dos Campos, Brasil
+Registrado por:
+JANSSEN-CILAG FARMACÊUTICA LTDA.
+Avenida Presidente Juscelino Kubitschek, 2041, São Paulo – SP - CNPJ 51.780.468/0001-87
+27
+® Marca Registrada
+VENDA SOB PRESCRIÇÃO.
+Esta bula foi aprovada pela Anvisa em 20/08/2024.
+CCDS 2109
+VPS TV 6.0
+28
+#NAME? HISTÓRICO DE BULAS
+Dados da submissão eletrônica Dados da petição que altera bula Dados das alterações de bulas
+Produto exDpaetdai ednot e Nº do expediente Assunto exDpaetdai ednot e Nº do expediente Assunto Data de aprovação Itens de bula Versões (VP/VPS) Apresentações relacionadas
+Eprex (alfaepoetina) 25/6/2014 051642/14-8 104te6x3t o- PdeR bOuDlaU -T pOu bBliIcOaLçãÓoG nIoC OBu -l áInricol uRsDãoC i n6i0c/i1al2 de 25/06/2014 051642/14-8 10463 - PRODUTO BIOLÓGICOBu -l áInricol uRsDãoC i n6i0c/i1a2l de texto de bula - publicação no 25/06/2014 Inclusão Inicial VP01/VPS01 1 2 4 1 3 4 . . . 0 0 0 0 0 0 . 0 0 0 0 0 . 0 0 0 0 0 0 0 0 U U U U 0 I U I I I / U / / / 0 0 0 0 I/ I , , , , M 3 / 5 5 4X M X X X 1 M L 1 M M M L 0 , 0 0 0 , 0 0 L S, L L L , , , 4 S 5 5 3 O M M S O S S S M M M M L O O O O LLL L L L L L I L L L N I+ + N I + + + I I I+ J N 1 N N N 1J 1 1 1 C 1 J J J J DCD T D D DC D C C C TI I S S6 T I I I T T TI S S S SP S P S 6 P P P E 6 6 6P O OE O O O R S O S S S S SR E S S S E E E I S PI T T R I I I P R R RI R T T T I T I R V V I I IP E I P P P V V V VE O O R E R R R O O O OE N E E E E N E C E E E C N N N N H H C C C C ID I H H H H D A I I I I A D D D D X A X A A A
+Eprex (alfaepoetina) 09/03/2014 0733207/14-6 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 08/06/2014 0645121/14-7 10279 - PRODUTO BIOLÓGICO - Alteração de Texto de Bula 25/08/2014 VVPPS:: 6 8 VP02/VPS02 4 1 2 1 3 4 . . . 0 0 0 0 0 0 . 0 0 0 0 0 . 0 0 0 0 0 0 0 0 U U U U 0 I U I I I / U / / / 0 0 0 0 I/ I , , , , M 3 / 4 5 5 X M X X X 1 M L 1 M M M L 0 , 0 0 0 , 0 0 L S,L L L , , , 4 S 5 3 5 O M M S O S S S M M M M L O O O O LLL L LL L L I L L L N I+ + N I+ + + I I I + J N 1 N N N 1J 1 1 1 C 1 J J J J DCD T D D D C DC C C ITI S S6 TI I I T T T I S S S S P S P S 6P P E P 6 6 6 P O OE O O R O S OS S S S SR E S S S E E E I S PI T T RI I I P R R R I R T T T I T I V R V I I I P E IP P PV V V V O EO R E R R RO O O OE N E E E E N E C E E E C N N N N H H C C C C ID I H H H H D A I I I I A D D D D X A X A A A
+Eprex (alfaepoetina) 27/7/2015 0661561/15-9 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 06/11/2015 0516308/15-1 10279 - PRODUTO BIOLÓGICO - Alteração de Texto de Bula 17/07/2015 VPVSP: :2 8 e 9 VP03/VPS03 4 1 2 1 3 4 . . . 0 0 0 0 0 0 . 0 0 0 0 0 . 0 0 0 0 0 0 0 0 U U U U 0 I U I I I / U / / / 0 0 0 0 I/ I , , , , M 3 / 4 5 5 X M X X X 1 M L 1 M M M L 0 , 0 0 0 , 0 0 L S,L L L , , , 4 S 5 3 5 O M M S O S S S M M M M L O O O O LLL L LL L L I L L L N I+ + N I+ + + I I I + J N 1 N N N 1J 1 1 1 C 1 J J J J DCD T D D D C DC C C TI I S S6 TI I I T T T I S S S S P S P S 6P P E P 6 6 6 P O OE O O R O S OS S S S SR E S S S E E E I S PI T T RI I I P R R R I R T T T I T I R V V I I I P E IP P PV V V VE O O R E R R RO O O OE N E E E E N E C E E E C N N N N H H C C C C ID I H H H H D A I I I I A D D D D X A X A A A
+E E E p p p r r r e e e x x x ( ( ( a a a l l l f f f a a a e e e p p p o o o e e e t t t i i i n n n a a a ) ) ) 1 2 1 7 8 5 / / / 1 9 3 1 / / / 2 2 2 0 0 0 1 1 1 5 7 5 0 0 1 8 4 0 6 1 0 2 1 3 0 1 2 4 2 9 3 3 1 / / / 1 1 1 5 7 5 - - - 1 1 6 A A A l l l t t t 1 1 e e 1e r r r 0 0 0 a a a 4 4 4 ç ç ç 5 5 5 ã ã ã 6 6 o o 6o - - d d -d e e e P P P R R R T T T e e e O O O x x x D D D t t t o o o U U U d d d T T T e e e O O O B B B B B B u u u l l l I I I 6 6 6 a a a O O O 0 0 0 – – – L L L / / / 1 1 1 Ó Ó Ó p p p2 2 2 u u u G G G b b b I I I l l l C C C i i i c c c O O O a a a ç ç ç - - - ã ã ã o o o N N N o o o n n n o o o t t t i i i f f f B B B i i i c c c u u u a a a l l l ç ç ç á á á r r r ã ã ã i i i o o o o o o d d d R R R e e e D D D C C C 1 2 1 7 8 5 / / / 1 0 0 1 9 3 / / / 2 2 2 0 0 0 1 1 1 5 5 7 1 0 0 0 8 4 0 6 1 3 2 1 2 0 1 9 4 2 1 3 3 / / / 1 1 1 5 5 7 - - - 6 1 1 1 1 1 0 0 0 4 4 4 5 5 5 6 6 6 - - - P P P R R R O O O D D D U U U T T T O O O B B B I I I O O O p p p u u u L L L b b b Ó Ó Ó l l l i i i G G G c c c a a a I I I C C C ç ç ç ã ã ã O O O o o o - - - n n n N N N o o o o o o B B B t t t u u u i i i f f f l l l i i i á á á c c c r r r a a a i i i o o o ç ç ç ã ã ã R R R o o o D D D d d d C C C e e e A A A 6 6 6 0 0 0 l l l t t t / / / e e e 1 1 1 r r r 2 2 2 a a a ç ç ç ã ã ã o o o d d d e e e T T T e e e x x x t t t o o o d d d e e e B B B u u u l l l a a a – – – 1 2 1 7 8 5 / / / 1 0 0 1 9 3 / / / 2 2 2 0 0 0 1 1 1 5 5 7 V V P P Se e: : A D DA V V p i ipz zr P P re ee V V e S S r rs P P se : e : e e : : s s 2 3 n n 6 4 t L L e e t a ae e ç 8 5 çg gõ õa ae ei is s ss , , 5 7 V V V P P P 0 0 0 6 5 4 / / / V V V P P P S S S 0 0 0 6 5 4 1 2 4 1 2 1 2 4 1 1 3 3 4 4 . . . . . . . . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 . . 0 0 0 0 0 0 0 0 0 0 0 0 . . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 U U U U U U U U U U 0 0 I I U U I I I I I I I I / / U U / / / / / / / / 0 0 0 0 0 0 0 0 0 0 I I / / I I , , , , , , , , , , M M 3 3 / / 5 5 4 5 5 5 5 4X X M M X X X X X X X X 1 1 M M L L 1 1 M M M M M M M M L L 0 0 , , 0 0 0 0 0 0 0 0 , , 0 0 0 0 L L S S , , L L L L L L L L , , , , , , , 4 4 S S 5 5 5 3 5 5 5 3 O O M M M M S S O O S S S S S S S S M M M M M M M M M M L L O O O O O O O O O O L L L L L L L L L L L L L L L L L L I I L L L L L L L L N N I I + + + + N N I I + + + + + + + + I I I I I I I I+ + J J N N 1 1 N N N N N N N N 1 1 J J 1 1 1 1 1 1 1 1 C C 1 1 J J J J J J J J J J D D C C D D T T D D D D D D D DC C D D C C C C C C C C IT IT I I S S S S 6 6 T T I I I I I I I I T T T T T T T TI I S S S S S S S S S S P P S S P P S S 6 6 P P P P P P P P E E 6 6 6 6 6 6 6 6P P O O O O E E O O O O O O O O R R S S O O S S S S S S S S S S S S R R E E S S S S S S S S E E E E E E E E I I S S P P I I T T T T R R I I I I I I I I P P R R R R R R R RI I R R T T T T T T T T I I T T I I R R V V V V I I I I I I I IP P E E I I P P P P P P P P V V V V V V V V V V E E O O O O R R E E R R R R R R R R O O O O O O O O O O E E N N E E E E E E E E E E N N E E C C E E E E E E E E C C N N N N N N N N N N H H H H C C C C C C C C C C I I D D I I H H H H H H H H H H D D A A I I I I I I I I I I A A D D D D D D D D D D X X A A X X A A A A A A A A
+Eprex (alfaepoetina) 06/09/2017 1144216/17-6 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 06/09/2017 1144216/17-6 10456 - PRODUTO BIOpuLbÓliGcaICçãOo -n No oBtuifliácraioç ãRoD dCe A60lt/e1r2ação de Texto de Bula – 06/09/2017 VVPPS:: 4 5 VP07/VPS07 1 2 4 1 3 4 . . . 0 0 0 0 0 0 . 0 0 0 0 0 . 0 0 0 0 0 0 0 0 U U U U 0 I U I I I / U / / / 0 0 0 0 I/ I , , , , M 3 / 5 5 4X M X X X 1 M L 1 M M M L 0 , 0 0 0 , 0 0 L S, L L L , , , 4 S 5 5 3 O M M S O S S S M M M M L O O O O LLL L L L L L I L L L N I+ + N I + + + I I I+ J N 1 N N N 1J 1 1 1 C 1 J J J J DCD T D D DC D C C C ITI S S6 T I I I T T TI S S S SP S P S 6 P P P E 6 6 6P O OE O O O R S O S S S S SR E S S S E E E I S PI T T R I I I P R R RI R T T T I T I R V V I I IP E I P P P V V V VE O O R E R R R O O O OE N E E E E N E C E E E C N N N N H H C C C C ID I H H H H D A I I I I A D D D D X A X A A A
+Eprex (alfaepoetina) 25/10/2017 2146483/17-9 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 25/10/2017 2146483/17-9 10456 - PRODUTO BIOpuLbÓliGcaICçãOo -n No oBtuifliácraioç ãRoD dCe A60lt/e1r2ação de Texto de Bula – 25/10/2017 VPVSP: :2 4 e 5 VP08/VPS08 4 1 2 1 3 4 . . . 0 0 0 0 0 0 . 0 0 0 0 0 . 0 0 0 0 0 0 0 0 U U U U 0 I U I I I / U / / / 0 0 0 0 I/ I , , , , M 3 / 4 5 5 X M X X X 1 M L 1 M M M L 0 , 0 0 0 , 0 0 L S,L L L , , , 4 S 5 3 5 O M M S O S S S M M M M L O O O O LLL L LL L L I L L L N I+ + N I+ + + I I I + J N 1 N N N 1J 1 1 1 C 1 J J J J DCD T D D D C DC C C ITI S S6 TI I I T T T I S S S SP S P S 6P P P E 6 6 6 P O OE O O O R S OS S S S SR E S S S E E E I S PI T T RI I I P R R R I R T T T I T I R V V I I I P E IP P PV V V VE O O R E R R RO O O OE N E E E E N E C E E E C N N N N H H C C C C ID I H H H H D A I I I I A D D D D X A X A A A
+Eprex (alfaepoetina) 16/5/2019 0435177/19-1 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 12/05/2017 2262025/17-7 10279 - PRODUTO BIOLÓGICO - Alteração de Texto de Bula 15/04/2019 VVPPS:: 1 1 e e 6 8 VP08.2/VPS08.24 1 2 1 3 4 . . . 0 0 0 0 0 0 . 0 0 0 0 0 . 0 0 0 0 0 0 0 0 U U U U 0 I U I I I / U / / / 0 0 0 0 I/ I , , , , M 3 / 4 5 5 X M X X X 1 M L 1 M M M L 0 , 0 0 0 , 0 0 L S,L L L , , , 4 S 5 3 5 O M M S O S S S M M M M L O O O O LLL L LL L L I L L L N I+ + N I+ + + I I I + J N 1 N N N 1J 1 1 1 C 1 J J J J DCD T D D D C DC C C ITI S S6 TI I I T T T I S S S SP S P S 6P P P E 6 6 6 P O OE O O O R S OS S S S SR E S S S E E E I S PI T T RI I I P R R R I R T T T I T I R V V I I I P E IP P PV V V VE O O R E R R RO O O OE N E E E E N E C E E E C N N N N H H C C C C ID I H H H H D A I I I I A D D D D X A X A A A
+Eprex (alfaepoetina) 21/8/2020 2811947/20-9 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 21/08/2020 2811947/20-9 10456 - PRODUTO BIOpuLbÓliGcaICçãOo -n No oBtuifliácraioç ãRoD dCe A60lt/e1r2ação de Texto de Bula – 21/08/2020 C C V V o o P P m m S A A M: M p p : p p I o o I de er r d s s e e ed d eLi iL n s si i ç ç nc ce e t e e ã ã t i a an n g g i f o o m m f t t i a a i a a c e e i i ce eç ç s s a an n D D õ õ ç çt tã e e i i o o ã o z z s s o, , e e , , d r r d o e e o s s VP TVTV 2 .20./0 VPS 1 4 1 4 . . 0 0 0 0 . 0 0 0 .0 0 0 0 0 0 U U 0 U I I U / / 0 0 I/ I , , M / 5 4X M X 1 1 L M M L 0 , 0 , 0 0 S, L L , 4 S 5 OM M O S S M M L O O L LL L L I L L N +I+ N +I I +J 1 N N 1J 1 C 1 J J DCD T D D C C ITI S S6 I T TI S SP S P S P E 6 6 O P OE O R O S S S SR SE E I S PI T T I P R RI R T I T I V R V I E I P PV V O EOE R RO OE N E E N C E E C N N H H C C ID I H H D A I I A D D X X A A
+Eprex (alfaepoetina) 02/04/2021 0469818/21-5 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 02/04/2021 0469818/21-5 10456 - PRODUTO BIOpuLbÓliGcaICçãOo -n No oBtuifliácraioç ãRoD dCe A60lt/e1r2ação de Texto de Bula – 02/04/2021 VPVSP:: 5 4, 9 VP TTVV 3 3.0.0/VPS 1 4 1 4 . . 0 0 0 0 . 0 0 0 .0 0 0 0 0 0 U U 0 U I I U / / 0 0 I/ I , , M / 5 4X M X 1L 1 M M L 0 , 0 , 0 0 S, L L , 4 S 5 OM M O S S M M L O O LLL L L I L L N I+ + N +I I+ J 1 N N 1J 1 C 1 J J DCD T D D C C ITI S S6 I T TI S SP S P S P E 6 6P O OE O R O S S S SR SE E I S PI T T I P R RI R T I T IR V V I E I P PV VE O OE R RO OE N E E N C E E C N N H H C C ID I H H D A I I A D D X X A A
+Eprex (alfaepoetina) 28/04/2021 1633652/21-6 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 28/04/2021 1633652/21-6 10456 - PRODUTO BIOpuLbÓliGcaICçãOo -n No oBtuifliácraioç ãRoD dCe A60lt/e1r2ação de Texto de Bula – 28/04/2021 V V P P S : :C C A Ao o p pm m r r e ep p so os e es s n ni i tç çt a aã ã ç ço o õ õ e e s s , , VP TTVV 4 4.0.0/VPS 4 1 4 . 0 0 0 . 0 0 .0 0 0 0 0 U 0 U I U /0 I/ I , M / 4X M 1L 1 M L 0 , , 0 0 S,L 4 S OM M O SML O LLL LI L N I+ + N I+ J 1 N 1J C 1 J DCD T DC TI I S S6 TI SP S P S E 6P O OE R OS S SR E I S PI T TP RI RI T IR V VE IPVE O OE ROE N E N C E C N H H C ID I H D A I A D X X A
+Eprex (alfaepoetina) 04/11/2021 4360521/21-9 Alt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 04/11/2021 4360521/21-9 10456 - PRODUTO BIOpuLbÓliGcaICçãOo -n No oBtuifliácraioç ãRoD dCe A60lt/e1r2ação de Texto de Bula – 04/11/2021 VVPPS:: 6 8 VP TTVV 5 5.0.0/VPS 4 1 4 . 0 0 0 . 0 0 .0 0 0 0 0 U 0 U I U /0 I/ I , M / 4X M 1L 1 M L 0 , , 0 0 S,L 4 S OM M O SML O LLL LI L N I+ + N I+ J 1 N 1J C 1 J DCD T DC TI I S S6 TI SP S P S E 6P O OE R OS S SR E I S PI T TP RI RI T IR V VE IPVE O OE ROE N E N C E C N H H C ID I H D A I A D X X A
+Eprex (alfaepoetina) 20/08/2024 XXXXXXX/XX-XAlt1er0a4ç5ã6o -d eP RTeOxDtoU dTeO B BulI 6aO 0–L / 1 Óp2uGbIlCicOaç -ã oN onoti fBicualçárãioo dReD C 20/08/2024 XXXXXXX/XX-X 10456 - PRODUTO BIOpuLbÓliGcaICçãOo -n No oBtuifliácraioç ãRoD dCe A60lt/e1r2ação de Texto de Bula – 20/08/2024 V VM MP P S e eD : D : d d I i di iIi z c cdz e e a aer n r em mn t e s i t s e e f i L f in nL c iet tc a e o o ga ç g , , aç ã a 4 5 iã o i s, ,o s 5 7 d d o, , o VP TTVV 6 6.0.0/VPS 4 1 4 . 0 0 0 . 0 0 .0 0 0 0 0 U 0 U I U /0 I/ I , M / 4X M 1L 1 M L 0 , , 0 0 S,L 4 S OM M O SML O LLL LI L N I+ + N I+ J 1 N 1J C 1 J DCD T DC TI I S S6 TI SP S P S E 6P O OE R OS S SR E I S PI T TP RI RI T IR V VE IPVE O OE ROE N E N C E C N H H C ID I H D A I A D X X A

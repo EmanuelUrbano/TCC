@@ -1,0 +1,854 @@
+EMGALITY®
+(galcanezumabe)
+Libbs Farmacêutica Ltda.
+solução injetável
+120 mg/mL
+Auto injetor
+EMGALITY®
+galcanezumabe
+APRESENTAÇÕES
+EMGALITY® é disponibilizado como uma solução injetável contendo 120 mg de galcanezumabe em 1 mL (120
+mg/mL).
+Cada embalagem contém 1 auto-injetor preenchido, para dose única, com 1 mL de solução contendo 120 mg de
+galcanezumabe.
+USO SUBCUTÂNEO
+USO ADULTO
+COMPOSIÇÃO
+Cada 1 mL contém:
+galcanezumabe ...........................................................................................................................................120 mg
+Excipientes: histidina, cloridrato de histidina monoidratado, polissorbato 80, cloreto de sódio e água para
+injetáveis.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EMGALITY® é indicado para a profilaxia da enxaqueca em adultos que apresentam pelo menos quatro dias de
+enxaqueca por mês.
+2. RESULTADOS DE EFICÁCIA
+A eficácia de galcanezumabe foi avaliada como um tratamento preventivo para enxaqueca episódica ou crônica
+em três estudos randomizados, multicêntricos, duplo-cegos e controlados por placebo: dois estudos de 6 meses
+em pacientes com enxaqueca episódica (estudos 1 e 2) e um estudo de 3 meses em pacientes com enxaqueca
+crônica (estudo 3).
+Enxaqueca episódica:
+O estudo 1 (NCT02614183) e o estudo 2 (NCT02614196) incluíram adultos com histórico de enxaqueca
+episódica (4 a 14 dias de enxaqueca por mês). Todos os pacientes foram randomizados na proporção 1:1:2 para
+receber injeções subcutâneas mensais de galcanezumabe 120 mg, galcanezumabe 240 mg, ou placebo. Todos
+os pacientes no grupo de galcanezumabe 120 mg receberam uma dose de ataque inicial de 240 mg. Os pacientes
+foram autorizados a usar tratamentos para cefaleia aguda, incluindo medicamentos específicos para enxaqueca
+(isto é, triptanos, derivados da ergotamina), anti-inflamatórios não-esteroidais (AINEs) e paracetamol durante
+o estudo.
+Os estudos excluíram pacientes em qualquer outro tratamento preventivo de enxaqueca, pacientes com cefaleia
+por uso excessivo de medicação, pacientes com anomalias no eletrocardiograma (ECG) compatíveis com um
+evento cardiovascular agudo e pacientes com histórico de acidente vascular cerebral, infarto do miocárdio,
+angina instável, intervenção coronariana percutânea, revascularização do miocárdio, trombose venosa profunda,
+ou embolia pulmonar dentro de 6 meses da triagem.
+O desfecho primário de eficácia dos estudos 1 e 2 foi a alteração média em relação ao período basal do número
+de dias de enxaqueca por mês durante o período de seis meses de tratamento. Os desfechos secundários
+principais incluíram a taxa de resposta (porcentagem média de pacientes com redução em relação ao período
+basal de pelo menos 50%, 75% e 100% do número de dias de enxaqueca por mês, durante o período de seis
+meses de tratamento), a alteração média em relação ao período basal no número de dias de enxaqueca por mês
+nos quais qualquer medicação para cefaleia aguda foi utilizada durante o período de seis meses de tratamento,
+e o impacto da enxaqueca nas atividades diárias, conforme avaliado pela alteração média em relação ao período
+basal, no domínio de Restrição Funcional do Questionário de Qualidade de Vida Específico para Enxaqueca
+versão 2.1 (MSQ v2.1) durante os últimos três meses de tratamento (meses 4 a 6). As pontuações são
+escalonadas de 0 a 100, com pontuações mais altas indicando menor impacto da enxaqueca nas atividades
+diárias.
+EMGA_V.1-24
+No estudo 1, um total de 858 pacientes (718 mulheres, 140 homens) com idade variando de 18 a 65 anos, foram
+randomizados. Um total de 703 pacientes completaram a fase duplo-cega de 6 meses. No estudo 2, um total de
+915 pacientes (781 mulheres, 134 homens) com idade variando de 18 a 65 anos, foram randomizados. Um total
+de 703 pacientes completaram a fase duplo-cega de 6 meses. No estudo 2,
+um total de 915 pacientes (781 mulheres, 134 homens) com idade variando de 18 a 65 anos, foram
+randomizados. Um total de 785 pacientes completaram a fase duplo-cega de 6 meses. No estudo 1 e no estudo
+2, a frequência média de enxaqueca no período basal foi de aproximadamente 9 dias de enxaqueca por mês, e
+foi semelhante entre os grupos de tratamento.
+Galcanezumabe 120 mg demonstrou melhorias estatisticamente significantes nos desfechos de eficácia em
+comparação com placebo no período de 6 meses, conforme resumido na Tabela 1. O tratamento com
+galcanezumabe com a dose de 240 mg por mês não demonstrou benefício adicional em relação à dose de
+galcanezumabe 120 mg uma vez por mês.
+Tabela 1: Desfechos de eficácia nos estudos 1 e 2
+Estudo 1 Estudo 2
+EMGALITY® EMGALITY®
+Placebo Placebo
+120 mg 120 mg
+N= 425 N= 450
+N= 210 N= 226
+Dias de enxaqueca por mês (durante os meses 1 a 6)
+Dias de enxaqueca no período basal
+9,2 9,1 9,1 9,2
+Alteração média em relação ao período
+-4,7 -2,8 -4,3 -2,3
+basal
+Diferença do placebo*
+-1,9 -2,0
+≥ 50% de redução dos dias de enxaqueca por mês (durante os meses 1 a 6)
+% de pacientes responsivos*
+62% 39% 59% 36%
+≥ 75% de redução dos dias de enxaqueca por mês (durante os meses 1 a 6)
+% de pacientes responsivos*
+39% 19% 34% 18%
+100% de redução dos dias de enxaqueca por mês (durante os meses 1 a 6)
+% de pacientes responsivos*
+16% 6% 12% 6%
+Dias mensais de enxaqueca que a medicação aguda foi utilizada (durante os meses 1 a 6)
+Alteração média em relação ao período
+-4,0 -2,2 -3,7 -1,9
+basal (dias)*
+Pontuação do Domínio de Restrição Funcional do MSQ (durante os meses 1 a 6)
+Período basal
+51,4 52,9 52,5 51,4
+Alteração média em relação ao período
+32,4 24,7 28,5 19,7
+basala
+Diferença do placebo*
+7,7 8,8
+a N= 189 para galcanezumabe 120 mg e N= 377 para placebo no estudo 1; N= 213 para galcanezumabe 120 mg e N= 396
+para placebo no estudo 2.
+* p < 0,001
+Figura 1: Alteração no número de dias de enxaqueca por mês em relação ao período basal no estudo 1a
+EMGA_V.1-24
+a São apresentadas as médias dos mínimos quadrados e intervalos de confiança de 95%.
+Figura 2: Alteração no número de dias de enxaqueca por mês em relação ao período basal no estudo 2a
+a São apresentadas as médias dos mínimos quadrados e intervalos de confiança de 95%.
+A Figura 3 mostra a distribuição da alteração em relação ao período basal no número médio de dias de enxaqueca
+por mês em intervalos de 2 dias, por grupo de tratamento, no estudo 1. Um benefício do tratamento com
+galcanezumabe em relação ao placebo é observado ao longo de uma série de alterações nos dias de enxaqueca
+por mês em relação ao período basal.
+EMGA_V.1-24
+Figura 3: Distribuição da alteração da média de dias de enxaqueca por mês em relação ao período basal
+durante os meses 1 a 6 por grupo de tratamento no estudo 1
+A Figura 4 mostra a distribuição da alteração em relação ao período basal no número médio de dias de enxaqueca
+por mês em intervalos de 2 dias, por grupo de tratamento, no estudo 2. Um benefício do tratamento com
+galcanezumabe em relação ao placebo é observado ao longo de uma série de alterações nos dias de enxaqueca
+por mês em relação ao período basal.
+Figura 4: Distribuição da alteração da média de dias de enxaqueca por mês em relação ao período basal
+durante os meses 1 a 6 por grupo de tratamento no estudo 2
+Enxaqueca crônica:
+O estudo 3 (NCT02614261) incluiu adultos com histórico de enxaqueca crônica (≥ 15 dias de cefaleia por mês
+com ≥ 8 dias de enxaqueca por mês). Todos os pacientes foram randomizados na proporção 1:1:2 para receber
+injeções subcutâneas mensais de galcanezumabe 120 mg, galcanezumabe 240 mg, ou placebo, durante um
+período de tratamento de 3 meses. Todos os pacientes no grupo de galcanezumabe 120 mg receberam uma dose
+de ataque inicial de 240 mg.
+Os pacientes foram autorizados a usar tratamentos para cefaleia aguda, incluindo medicamentos específicos
+para enxaqueca (isto é, triptanos, derivados da ergotamina), anti-inflamatórios não-esteroidais (AINEs) e
+paracetamol. Um subconjunto de pacientes (15%) foi autorizado a usar uma medicação preventiva de enxaqueca
+concomitantemente. Pacientes com cefaleia por uso excessivo de medicação foram autorizados a se inscrever.
+O estudo excluiu pacientes com anomalias no eletrocardiograma (ECG) compatíveis com um evento
+cardiovascular agudo e pacientes com histórico de acidente vascular cerebral, infarto do miocárdio, angina
+EMGA_V.1-24
+instável, intervenção coronariana percutânea, revascularização do miocárdio, trombose venosa profunda, ou
+embolia pulmonar dentro de 6 meses da triagem.
+O desfecho primário foi a alteração média em relação ao período basal no número de dias de enxaqueca por
+mês durante o período de 3 meses de tratamento. Os desfechos secundários foram as taxas de resposta
+(porcentagem média de pacientes com redução em relação ao período basal de pelo menos 50%, 75% e 100%
+de dias de enxaqueca no mês, durante o período de 3 meses de tratamento), a alteração média em relação ao
+período basal no número de dias de enxaqueca por mês nos quais qualquer medicação para cefaleia aguda foi
+utilizada durante o período de 3 meses de tratamento, e o impacto da enxaqueca nas atividades diárias, conforme
+avaliado pela alteração média em relação ao período basal, no domínio de Restrição Funcional do Questionário
+de Qualidade de Vida Específico para Enxaqueca versão 2.1 (MSQ v2.1) no mês 3. As pontuações são
+escalonadas de 0 a 100, com pontuações mais altas indicando menor impacto da enxaqueca nas atividades
+diárias.
+No estudo 3, um total de 1113 pacientes (946 mulheres, 167 homens) com idade variando de 18 a 65 anos,
+foram randomizados. Um total de 1037 pacientes completou a fase duplo-cega de 3 meses. O número médio de
+dias de enxaqueca por mês no período basal era de aproximadamente 19.
+Galcanezumabe 120 mg demonstrou melhora estatisticamente significante para a alteração média em relação
+ao período basal no número de dias de enxaqueca por mês ao longo do período de tratamento de 3 meses, e na
+porcentagem média de pacientes atingindo pelo menos 50% de redução em relação ao período basal do número
+de dias de enxaqueca por mês ao longo do período de 3 meses de tratamento, conforme resumido na Tabela 2.
+O tratamento com galcanezumabe com a dose mensal de 240 mg não demonstrou qualquer benefício adicional
+em relação à dose de galcanezumabe 120 mg uma vez por mês.
+Tabela 2: Desfechos de eficácia no estudo 3
+EMGALITY®
+Placebo
+120 mg
+N= 538
+N= 273
+Dias de enxaqueca por mês (durantes os meses 1 a 3)
+Dias de enxaqueca no período basal
+19,4 19,6
+Alteração média em relação ao período basal
+-4,8 -2,7
+Diferença do placeboa
+-2,1
+≥ 50% de redução dos dias de enxaqueca por mês (durantes os meses 1 a 3)
+% de pacientes responsivosa
+28% 15%
+a
+p < 0,001
+O estudo 3 utilizou um procedimento de teste sequencial para controlar a taxa de erro do Tipo-I para os múltiplos
+desfechos secundários. Uma vez que um desfecho secundário não atingiu o nível requerido de significância
+estatística, o teste formal de hipóteses foi terminado para desfechos subsequentes, e os valores-p foram
+considerados apenas nominais. No estudo 3, galcanezumabe 120 mg não foi significativamente melhor do que
+o placebo na proporção de pacientes com redução ≥ 75% ou 100% dos dias de enxaqueca. Pacientes tratados
+com galcanezumabe 120 mg apresentaram uma redução nominalmente maior no número de dias de enxaqueca
+por mês em que a medicação aguda foi tomada (-4,7 para galcanezumabe 120 mg versus. -2,2 para placebo;
+valor-p nominal < 0,001), e a alteração média em relação ao período basal no domínio de Restrição Funcional
+do MSQ no mês 3 foi nominalmente maior em pacientes tratados com galcanezumabe 120 mg do que em
+pacientes com placebo (21,8 para galcanezumabe 120 mg versus 16,8 para placebo; valor-p nominal < 0,001).
+Figura 5: Alteração no número de dias de enxaqueca por mês em relação ao período basal no estudo 3a
+EMGA_V.1-24
+a São apresentadas as médias dos mínimos quadrados e intervalos de confiança de 95%.
+A Figura 6 mostra a distribuição da alteração em relação ao período basal no número médio de dias de enxaqueca
+por mês durante o período de 3 meses de estudo, em intervalos de 3 dias, por grupo de tratamento. Um benefício
+do tratamento com galcanezumabe em relação ao placebo é observado ao longo de uma série de alterações nos
+dias de enxaqueca por mês em relação ao período basal.
+Figura 6: Distribuição da alteração da média de dias de enxaqueca por mês em relação ao período basal
+durante os meses 1 a 3 por grupo de tratamento no estudo 3
+Estudo de Fase 3 em população com falha prévia em 2 a 4 categorias de medicamentos profiláticos para
+enxaqueca:
+O estudo CONQUER teve um período de tratamento de 3 meses, randomizado, duplo-cego, controlado por
+placebo, seguido por uma extensão de 3 meses de estudo aberto. O estudo recrutou pacientes que tiveram falhas
+prévias em 2 a 4 categorias de medicamentos profiláticos para enxaqueca nos últimos 10 anos, com idade entre
+18 e 75 anos, que atenderam o critério do International Classification of Headache Disorders (ICHD) para o
+diagnóstico de enxaqueca, com ou sem aura, com pelo menos 4 dias de enxaqueca por mês ou enxaqueca
+EMGA_V.1-24
+crônica. O galcanezumabe 120 mg/mês com uma dose de ataque de 240 mg demonstrou uma redução
+clinicamente importante e estatisticamente significativa no número médio de dias de enxaqueca por mês durante
+a fase dos 3 meses de tratamento duplo-cego em comparação com placebo. Os dados do estudo CONQUER
+suportam as principais descobertas dos estudos anteriores de eficácia na enxaqueca, ou seja, o tratamento com
+galcanezumabe levou a uma redução média nos dias de enxaqueca por mês (4,1 dias em comparação com 1,0
+dia no grupo placebo; p < 0,0001). Também foi observada uma redução média nos dias de enxaqueca por mês
+nas subpopulações de enxaqueca episódica (2,9 dias para galcanezumabe em comparação com 0,3 dias para
+placebo; p < 0,0001) e enxaqueca crônica (5,9 dias para galcanezumabe em comparação com 2,2 dias para
+placebo; p < 0,0001).
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Descrição: galcanezumabe é um anticorpo monoclonal humanizado de IgG4, que se liga ao peptídeo
+relacionado ao gene da calcitonina (CGRP) e impede sua atividade biológica sem bloquear o receptor do CGRP.
+O galcanezumabe é produzido em células de ovário de Hamster Chinês (CHO) por tecnologia de DNA
+recombinante. Galcanezumabe é composto por duas cadeias kappa leves idênticas de imunoglobulina e duas
+cadeias gama pesadas idênticas de imunoglobulina, e tem um peso molecular de 144.084 Da, não glicosilado,
+com ligação dissulfeto.
+Propriedades farmacodinâmicas:
+Mecanismo de ação: galcanezumabe é um anticorpo monoclonal humanizado de IgG4, que se liga ao peptídeo
+relacionado ao gene da calcitonina (CGRP) e impede sua atividade biológica, sem bloquear o receptor do CGRP.
+Concentrações séricas elevadas de CGRP foram associadas à enxaqueca. Além disso, infusões de CGRP podem
+induzir ataques semelhantes à enxaqueca em alguns indivíduos com histórico de enxaqueca. O galcanezumabe
+tem como alvo o CGRP e se liga com alta afinidade (KD= 31 pM) e elevada especificidade (> 10.000 vezes
+versus os peptídeos relacionados adrenomedulina, amilina, calcitonina e intermedina).
+O CGRP é um mediador importante do fluxo sanguíneo cutâneo induzido por capsaicina. Doses únicas de
+galcanezumabe (75, 200 ou 600 mg) resultaram na atenuação do fluxo sanguíneo cutâneo induzido por
+capsaicina no dia 3. A administração de galcanezumabe 150 mg a cada 2 semanas durante 6 semanas (total de
+4 doses) resultou na inibição do fluxo sanguíneo cutâneo induzido por capsaicina por ao menos 134 dias depois
+que a última dose foi administrada.
+Propriedades farmacocinéticas:
+Absorção: com base em uma análise da farmacocinética (PK) da população, após uma dose de ataque de 240
+mg, a concentração sérica máxima (C ) de galcanezumabe foi de aproximadamente 30 μg/mL [coeficiente de
+máx
+variação (CV) de 27%]. Doses mensais de 120 mg ou 240 mg alcançaram o steady-state C (C ) de
+máx máx,ss
+aproximadamente 28 μg/mL (CV de 35%) ou 54 μg/mL (CV de 31%), respectivamente. O local da injeção não
+influenciou a absorção de galcanezumabe de modo significativo.
+Distribuição: com base em uma análise de PK da população, o volume de distribuição aparente (V/F) de
+galcanezumabe foi de 7,3 L.
+Metabolismo: por ser um anticorpo monoclonal de IgG4 humanizado, espera-se que galcanezumabe seja
+degradado em pequenos peptídeos e aminoácidos por meio de vias catabólicas, do mesmo modo que a IgG
+endógena.
+Eliminação: com base em uma análise de PK da população, o clearance aparente (CL/F) de galcanezumabe foi
+de aproximadamente 0,008 L/h e a meia-vida de galcanezumabe foi de 27 dias.
+Linearidade da dose: a exposição a galcanezumabe aumenta proporcionalmente com a dose. Com base em
+uma análise de PK da população que incluiu doses que variaram de 5 – 300 mg, a taxa de absorção, o CL/F e o
+V/F foram independentes da dose.
+Farmacocinética em populações especiais:
+Idade, sexo, peso, raça e etnia: não é necessário nenhum ajuste da dose com base na idade, sexo, peso, raça
+ou etnia, já que não houve efeito clinicamente significativo desses fatores no CL/F ou no V/F de galcanezumabe.
+Comprometimento renal ou hepático: não foram realizados estudos de farmacologia clínica específicos para
+avaliar os efeitos do comprometimento renal e do comprometimento hepático na PK de galcanezumabe. A
+eliminação renal de anticorpos monoclonais de IgG é baixa. Do mesmo modo, os anticorpos monoclonais de
+IgG são eliminados principalmente via catabolismo intracelular, e não se espera que o comprometimento
+hepático influencie no clearance de galcanezumabe. Com base em uma análise de PK da população, a
+concentração de bilirrubina ou o clearance de creatinina não influenciaram significativamente o CL/F de
+galcanezumabe.
+EMGA_V.1-24
+4. CONTRAINDICAÇÕES
+EMGALITY® é contraindicado para pacientes com hipersensibilidade grave conhecida a galcanezumabe ou a
+qualquer um de seus excipientes.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Hipersensibilidade grave: reações graves de hipersensibilidade, incluindo casos de anafilaxia, angioedema e
+urticária foram relatados. Se ocorrer uma reação grave de hipersensibilidade, descontinuar EMGALITY®
+imediatamente e iniciar a terapia apropriada. As reações graves de hipersensibilidade podem ocorrer dias após
+a administração e podem se prolongar.
+Imunogenicidade: do mesmo modo que com todas as proteínas terapêuticas, existe o potencial de
+imunogenicidade. A detecção da formação de anticorpos é altamente dependente da sensibilidade e
+especificidade do ensaio. Além disso, a incidência observada de positividade para anticorpos (incluindo
+anticorpos neutralizantes) em um ensaio pode ser influenciada por diversos fatores, incluindo a metodologia do
+ensaio, o manuseio das amostras, o momento da coleta das amostras, as medicações concomitantes e doença de
+base. Por essas razões, comparar a incidência de anticorpos contra galcanezumabe à incidência de anticorpos
+em diferentes estudos ou contra outros produtos pode induzir ao erro. A presença de anticorpos anti-
+medicamento não afetou a farmacocinética, eficácia ou segurança de galcanezumabe. Em 12 meses de
+tratamento, até 12,5% dos pacientes tratados com galcanezumabe desenvolveram anticorpos anti-medicamento,
+a maioria dos quais apresentava baixa titulação e resultado positivo para atividade neutralizante in vitro.
+Toxicologia não-clínica:
+Carcinogênese e mutagênese: estudos não clínicos para avaliar o potencial carcinogênico ou mutagênico de
+galcanezumabe não foram realizados. Não há evidências que indiquem que o tratamento crônico com
+galcanezumabe aumentaria o risco de carcinogênese com base em dados de estudos de farmacologia e de
+toxicologia crônica com galcanezumabe, bem como em uma avaliação da literatura a respeito de CGRP.
+Comprometimento da fertilidade: não foram observados efeitos nos parâmetros de fertilidade, tais como
+órgãos reprodutores, cio, análise do esperma ou acasalamento e fertilidade, em ratos que receberam
+galcanezumabe em doses subcutâneas de 250 mg/Kg (exposições de 4 a 20 vezes a dose humana máxima
+recomendada).
+Uso durante a gestação, lactação e em pessoas com potencial reprodutivo:
+Uso durante a gestação (categoria B): estudos de toxicidade no desenvolvimento realizados em coelhas e ratas
+prenhes não revelaram nenhuma evidência de dano ao feto. Há dados insuficientes em humanos para estabelecer
+a segurança de galcanezumabe durante a gestação. Sabe-se que a IgG humana atravessa a barreira placentária;
+desse modo, galcanezumabe pode ser transmitido da mãe para o feto em desenvolvimento. EMGALITY® deve
+ser utilizado na gestação somente se o benefício potencial justificar o possível risco à mãe ou ao feto.
+Uso durante a lactação: não há dados sobre a presença de galcanezumabe no leite humano, sobre os efeitos no
+bebê amamentado ou sobre os efeitos na produção de leite. Sabe-se que a IgG humana é excretada no leite
+materno. Desse modo, galcanezumabe pode ser transmitido da mãe para o bebê amamentado. Os benefícios da
+amamentação para o desenvolvimento e a saúde devem ser considerados, junto à necessidade clínica da mãe
+por EMGALITY® e qualquer potencial efeito adverso no bebê amamentado.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Uso criterioso no aleitamento ou na doação de leite humano.
+O uso deste medicamento no período da lactação depende da avaliação e acompanhamento do seu médico
+ou cirurgião-dentista.
+Uso pediátrico: a segurança e a eficácia em pacientes pediátricos menores de 18 anos de idade não foram
+estabelecidas.
+Uso geriátrico: há informações limitadas em pacientes geriátricos maiores de 65 anos de idade.
+Efeitos na capacidade de dirigir e utilizar máquinas: EMGALITY® pode ter uma pequena influência sobre
+a capacidade de conduzir e utilizar máquinas. Vertigem pode ocorrer após a administração de EMGALITY®
+(ver “REAÇÕES ADVERSAS”).
+EMGA_V.1-24
+6. INTERAÇÕES MEDICAMENTOSAS
+Não foi realizado nenhum estudo de interação medicamentosa. Interações medicamentosas farmacocinéticas
+não são esperadas, com base nas características de EMGALITY®.
+Nenhum estudo foi conduzido para investigar possível interação entre EMGALITY® e plantas medicinais,
+álcool, nicotina e exames laboratoriais e não laboratoriais.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Proteger EMGALITY® da luz até a sua utilização. Armazenar refrigerado de 2°C a 8°C. Não congelar. Não
+agitar.
+EMGALITY® pode ser armazenado sem refrigeração por até 7 dias na embalagem original, desde que
+armazenado em temperatura de até 30°C. Se estas condições não forem cumpridas, EMGALITY® deve ser
+descartado.
+O prazo de validade de EMGALITY® é de 24 meses após a data de fabricação, quando respeitadas as condições
+de armazenamento acima.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+EMGALITY® é uma solução estéril, livre de conservantes, límpida e incolor a ligeiramente amarela.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Posologia: a dose recomendada é de 120 mg, injetada pela via subcutânea uma vez por mês, com uma dose de
+ataque de 240 mg como dose inicial.
+Orientar os pacientes a aplicar, assim que possível, a dose eventualmente esquecida. Subsequentemente, retomar
+a administração mensal.
+O benefício do tratamento deve ser avaliado em até 3 meses após o seu início. A decisão de continuar o
+tratamento deverá ser tomada individualmente para cada paciente. Posteriormente, é recomendada a avaliação
+da necessidade de continuar o tratamento regularmente.
+Método de administração: EMGALITY® é para administração subcutânea. O paciente pode se auto-injetar
+EMGALITY® seguindo as instruções de uso. Os locais para injeção incluem abdome, coxa, parte posterior do
+braço e nádegas.
+Antes da administração e sempre que a solução e o recipiente permitirem, medicamentos parenterais devem ser
+inspecionados visualmente quanto a material particulado e descoloração. Não utilizar EMGALITY® caso o
+medicamento esteja turvo ou se houver partículas visíveis.
+As INSTRUÇÕES DE USO que acompanham o produto contêm informações mais detalhadas sobre a
+preparação e administração de EMGALITY®. Em caso de problemas de funcionamento do dispositivo
+injetor de EMGALITY®, consulte o folheto informativo e entre em contato com o Libbs SAC 0800 0135044.
+Instruções de uso de EMGALITY®, solução injetável em auto-injetor
+Antes de começar
+Retire o auto-injetor da Coloque de volta na geladeira a embalagem original se nela contiver
+geladeira algum auto-injetor não utilizado.
+Não remova a tampa da base até que você esteja pronto para
+aplicar a injeção.
+Não agite.
+Não levar o auto-injetor ao micro-ondas, não colocar água quente sobre
+ele ou deixá-lo sob a luz solar direta.
+Para uma injeção mais confortável, deixe o auto-injetor à temperatura
+ambiente por 30 minutos antes de aplicar.
+Examine o auto-injetor e o Certifique-se de que você está com o medicamento correto. O
+medicamento medicamento dentro deve ser claro. Sua cor pode ser incolor a
+levemente amarela.
+Não utilize o auto-injetor e descarte-o conforme orientado pelo seu
+médico ou farmacêutico se:
+EMGA_V.1-24
+• ele parecer danificado;
+• o medicamento estiver turvo, descolorido ou apresentar
+pequenas partículas;
+• a data de validade impressa no rótulo já tiver passado;
+• o medicamento estiver congelado.
+Data de validade
+Prepare-se para a aplicação Lave as mãos com água e sabão antes de injetar EMGALITY®.
+Certifique-se de que haja por perto um recipiente para descarte
+de materiais perfurocortantes.
+Escolha seu local de aplicação Seu médico pode ajudá-lo a escolher o melhor local de aplicação
+para você.
+• Você pode aplicar EMGALITY® na região do abdome ou
+da coxa. Não aplique a menos de 5 cm do umbigo.
+Atrás do braço • Outra pessoa pode aplicar a injeção na parte de trás do
+seu braço ou nas nádegas.
+• Não aplique sempre no mesmo lugar. Por exemplo, se a
+Abdome
+primeira injeção foi no abdome, a próxima injeção pode
+ser em outra área do abdome.
+• Limpe e seque o local de aplicação antes de injetar.
+Nádegas
+Coxa
+1 Destampe o auto-injetor
+Certifique-se de que o auto-injetor esteja
+travado. Não remova a tampa da base até que
+esteja pronto para aplicar a injeção.
+• Gire a tampa da base para removê-la e jogue-a no
+lixo comum.
+• Não coloque a tampa da base de volta - isso pode
+danificar a agulha.
+• Não toque na agulha.
+2 Posicione e Destrave
+• Posicione e segure firmemente a base transparente
+contra a pele.
+EMGA_V.1-24
+Gire o anel de travamento para a posição
+destravar.
+3 Pressione e Segure
+5 - 10
+segundos
+Clique
+• Pressione e segure o botão de injeção verde-
+azulado; você ouvirá um clique alto.
+• Continue segurando a base transparente
+firmemente contra a pele. Você ouvirá um
+segundo clique em cerca de 5 a 10 segundos após o
+primeiro. Esse segundo clique indica que a injeção
+está completa.
+• Retire o auto-injetor da pele.
+Você saberá que a
+injeção está
+completa quando
+o êmbolo cinza
+estiver visível.
+9. REAÇÕES ADVERSAS
+Dados de estudos clínicos:
+Sistema do corpo/reação adversa ao Muito Comum Comum Incomum
+medicamento (≥ 10%) (≥ 1% e < 10%) (≥ 0,1% e < 1%)
+Distúrbios do ouvido e do labirinto
+Vertigem 14 (0,98%)
+Distúrbios gastrointestinais
+Constipação 18 (1,25%)
+Distúrbios gerais e condições no local de administração
+Dor no local da injeção 156 (10,87%)
+Reações no local da injeção (excluindo 176 (12,26%)
+dor)
+Distúrbios da pele e do tecido subcutâneo
+Prurido 14 (0,98%)
+Urticária 3 (0,21%)
+Reações no local da injeção: dor no local da injeção foi o evento mais frequentemente relatado (≥ 10%). Outras
+reações adversas no local da injeção, relatadas em ≥ 1% dos casos, foram: reação local, eritema, prurido,
+EMGA_V.1-24
+hematoma e edema. A maioria dos eventos foi de intensidade leve a moderada e não levou à descontinuação de
+galcanezumabe.
+Dados pós-comercialização:
+Os seguintes efeitos indesejáveis (reações adversas ao medicamento) são baseados em relatos espontâneos pós-
+comercialização:
+Distúrbios da pele e do tecido subcutâneo:
+Reação comum (≥ 1% e < 10%): rash.
+Distúrbios do sistema imunológico:
+Reação rara (≥ 0,01% e < 0,1%): anafilaxia e angioedema.
+Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado eficácia e
+segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos
+imprevisíveis ou desconhecidos. Nesse caso, notifique os eventos adversos pelo Sistema VigiMed,
+disponível no Portal da Anvisa.
+10. SUPERDOSE
+Doses de até 600 mg foram administradas pela via subcutânea em humanos, sem toxicidade limitante da dose.
+No caso de superdosagem, recomenda-se que o paciente seja monitorado quanto a quaisquer sinais ou sintomas
+de reações adversas e que o tratamento sintomático apropriado seja instituído imediatamente.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro: 1.0033.0224
+EMGALITY® é uma marca registrada da Eli Lilly and Company.
+Copyright © 2023, Eli Lilly and Company. Todos os direitos reservados.
+Produzido por:
+Eli Lilly and Company - Indianápolis – EUA
+Importado e Registrado por:
+Libbs Farmacêutica Ltda.
+Av. Marquês de São Vicente, 2219, 2° andar – São Paulo – SP;
+CNPJ 61.230.314/0001-75
+Venda sob prescrição.
+Libbs SAC 0800 0135044
+libbs@libbs.com.br
+www.libbs.com.br
+Esta bula foi aprovada pela ANVISA em 02/10/2023.
+EMGA_V.1-24
+Histórico de alteração da bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do
+Nº Data do Nº do Data de Versões Apresentações
+expediente Assunto Assunto Itens de bula
+expediente expediente expediente aprovação (VP/VPS) relacionadas
+120 MG/ML SOL
+11201 – INJ
+PRODUTO CT 1 SER PREENC
+BIOLÓGICO – VD TRANS X 1 ML
+Inclusão inicial Solicitação de +
+05/01/2024 - de texto de bula – 27/07/2023 0780666232 Transferência de 02/10/2023 Versão Inicial VP/VPS 1 CAN APLIC
+RDC 60/12 Titularidade
+Registro 100 MG/ML SOL
+(operação INJ CT 3 SER
+comercial) PREENC VD
+TRANS X 1 ML
+EMGALITY®
+(galcanezumabe)
+Libbs Farmacêutica Ltda.
+solução injetável
+100 mg/mL
+Seringa preenchida
+EMGALITY®
+galcanezumabe
+APRESENTAÇÕES
+EMGALITY® é disponibilizado como uma solução injetável contendo 100 mg de galcanezumabe em 1 mL (100
+mg/mL).
+Cada embalagem contém 3 seringas preenchidas, para dose única, com 1 mL de solução contendo 100 mg de
+galcanezumabe.
+USO SUBCUTÂNEO
+USO ADULTO
+COMPOSIÇÃO
+Cada 1 mL contém:
+galcanezumabe ...........................................................................................................................................100 mg
+Excipientes: histidina, cloridrato de histidina monoidratado, polissorbato 80, cloreto de sódio e água para
+injetáveis.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+EMGALITY® é indicado para a prevenção de crises durante o período de salvas em adultos com cefaleia em
+salvas episódica.
+2. RESULTADOS DE EFICÁCIA
+A eficácia de galcanezumabe foi avaliada como um tratamento preventivo de cefaleia em salvas episódica em
+um estudo de fase 3, randomizado, multicêntrico, de 8 semanas, duplo-cego, controlado por placebo em
+pacientes adultos. O Estudo 4 (cefaleia em salvas episódica) (NCT02397473) incluiu adultos que atenderam aos
+critérios diagnósticos do ICHD-3-beta para cefaleia em salvas episódica e que apresentaram um máximo de 8
+crises por dia, um mínimo de uma crise a cada dois dias e pelo menos 4 crises durante o período basal de 7 dias
+prospectivo. Todos os pacientes foram randomizados em uma proporção 1:1 para receber injeções subcutâneas
+mensais de galcanezumabe 300 mg ou placebo. Os pacientes foram autorizados a usar determinados tratamentos
+agudos/abortivos para cefaleia em salvas, incluindo triptanos, oxigênio, paracetamol e anti-inflamatórios não
+esteroidais (AINEs) durante o estudo.
+O estudo excluiu pacientes em uso de qualquer outro tratamento preventivo para cefaleia em salvas, pacientes
+com cefaleia por uso excessivo de medicação, pacientes com anormalidades de ECG compatíveis com um
+evento cardiovascular agudo ou atraso de condução e pacientes com um histórico de infarto do miocárdio,
+angina instável, intervenção coronariana percutânea, revascularização do miocárdio, trombose venosa profunda
+ou embolia pulmonar, nos 6 meses anteriores à triagem. Além disso, pacientes com qualquer histórico de
+acidente vascular cerebral, aneurisma intracraniano ou da carótida, hemorragia intracraniana, angina
+vasoespástica ou evidência clínica de vasculopatia periférica ou diagnóstico de doença de Raynaud foram
+excluídos.
+O desfecho primário de eficácia do Estudo 4 foi a alteração global média em relação ao período basal na
+frequência de crises de cefaleia em salvas por semana durante as Semanas 1 a 3. O desfecho secundário principal
+foi a porcentagem de pacientes que alcançaram uma resposta (definida como uma redução em relação ao período
+basal de 50% ou mais na frequência de crises de cefaleia em salvas por semana) na Semana 3.
+O estudo avaliou a porcentagem de pacientes que relataram pontuações de 1 ou 2 na escala de Impressão-
+Melhora Global do Paciente (PGI-I) nas Semanas 4 e 8. As pontuações de PGI-I são escaladas de 1 a 7, com
+pontuações de 1 ou 2 que indicam a descrição do paciente sobre sua condição de cefaleia em salvas como
+muitíssimo melhor ou muito melhor.
+No Estudo 4, um total de 106 pacientes (88 homens, 18 mulheres) variando entre 19 a 65 anos de idade, foram
+randomizados e tratados. Um total de 90 pacientes concluiu a fase duplo-cega de 8 semanas. Na fase basal
+EMGA_V.1-24
+prospectiva, o número médio de crises de cefaleia em salvas por semana foi de 17,5, e foi similar entre os grupos
+de tratamento.
+O galcanezumabe 300 mg demonstrou melhoras estatisticamente significativas para os desfechos de eficácia
+em comparação ao placebo, conforme resumido na Tabela 1.
+Tabela 1: Desfechos de eficácia no Estudo 4
+galcanezumabe 300 mg placebo
+N= 49 N= 57
+Redução média na frequência de crises de cefaleia em salvas por semana (nas Semanas 1 a 3)
+Frequência de crises de cefaleia em salvas 17,8 17,3
+basal no período basal prospectivo
+Alteração média em relação ao período -8,7 -5,2
+basal
+Diferença de placebo -3,5
+Valor-p 0,036
+≥ 50% de redução na frequência de crises de cefaleia em salvas por semana (na Semana 3)
+% Responsivos 76,1% 56,6%
+Diferença em relação ao placebo 19,5%
+Odds ratio em relação ao placebo 2,4
+Valor-p 0,040
+Pontuações de PGI-I 1 ou 2 (na Semana 4)
+% Responsivosa 72,5% 46,4%
+Diferença em relação ao placebo 26,1%
+Odds ratio em relação ao placebo 3,0
+Valor-p 0,016b
+Pontuações de PGI-I 1 ou 2 (na Semana 8)
+% Responsivosc 71,9% 66,1%
+Diferença em relação ao placebo 5,8%
+Odds ratio em relação ao placebo 1,3
+Valor-p 0,575b
+a N= 44 para galcanezumabe 300 mg e N= 49 para placebo.
+b Valor-p nominal, sem ajuste para comparação múltipla.
+c N= 38 para galcanezumabe 300 mg e N= 40 para placebo.
+EMGA_V.1-24
+Figura 1: Alteração média na frequência de crises de cefaleia em salvas por semana nas Semanas 1 a 3
+no Estudo 4a
+a Abreviações: BL = período basal; LS = mínimo quadrado; EP = Erro Padrão.
+A Figura 1 mostra a distribuição da alteração percentual média desde o período basal na frequência de crises de
+cefaleia em salvas por semana entre as Semanas 1 a 3 em grupos de 20%, por grupo de tratamento, no Estudo
+4. Foi observada uma tendência no grupo galcanezumabe com níveis maiores de melhora, com o maior
+percentual de pacientes observados na categoria de redução de > 80% a 100% na frequência de crises de cefaleia
+em salvas por semana.
+Figura 2: Distribuição da alteração percentual média em relação ao período basal na frequência de
+crises de cefaleia em salvas por semana durante as Semanas 1 a 3 no Estudo 4a
+EMGA_V.1-24
+a N= número de pacientes com intenção de tratar com alteração percentual média em relação ao período basal presente
+na frequência de crises de cefaleia em salvas por semana durante as Semanas 1 a 3.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Descrição: galcanezumabe é um anticorpo monoclonal humanizado de IgG4, que se liga ao peptídeo
+relacionado ao gene da calcitonina (CGRP) e impede sua atividade biológica sem bloquear o receptor do CGRP.
+O galcanezumabe é produzido em células de ovário de Hamster Chinês (CHO) por tecnologia de DNA
+recombinante. O galcanezumabe é composto por duas cadeias kappa leves idênticas de imunoglobulina e duas
+cadeias gama pesadas idênticas de imunoglobulina, e tem um peso molecular de 144.084 Da, não glicosilado,
+com ligação dissulfeto.
+Propriedades farmacodinâmicas:
+Mecanismo de ação: galcanezumabe é um anticorpo monoclonal humanizado de IgG4, que se liga ao peptídeo
+relacionado ao gene da calcitonina (CGRP) e impede sua atividade biológica, sem bloquear o receptor do CGRP.
+Concentrações séricas elevadas de CGRP foram associadas à cefaleia em salvas episódica. Além disso, infusões
+de CGRP podem induzir crises em pacientes com cefaleia em salvas. O galcanezumabe tem como alvo o CGRP
+e se liga com alta afinidade (KD= 31 pM) e elevada especificidade (> 10.000 vezes versus os peptídeos
+relacionados adrenomedulina, amilina, calcitonina e intermedina).
+O CGRP é um mediador importante do fluxo sanguíneo cutâneo induzido por capsaicina. Doses únicas de
+galcanezumabe (75, 200 ou 600 mg) resultaram na atenuação do fluxo sanguíneo cutâneo induzido por
+capsaicina no dia 3. A administração de galcanezumabe 150 mg a cada 2 semanas durante 6 semanas (total de
+4 doses) resultou na inibição do fluxo sanguíneo cutâneo induzido por capsaicina por ao menos 134 dias depois
+que a última dose foi administrada.
+Propriedades farmacocinéticas:
+Absorção: com base em uma análise da farmacocinética (PK) da população, após uma dose inicial de 300 mg,
+a concentração sérica máxima (C ) de galcanezumabe foi de aproximadamente 36 μg/mL [coeficiente de
+máx
+variação (CV) de 23%]. Doses mensais de 300 mg alcançaram o steady-state C (C ) de aproximadamente
+máx máx,ss
+62 μg/mL (CV de 24%). O local da injeção não influenciou a absorção de galcanezumabe de modo significativo.
+Distribuição: com base em uma análise de PK da população, o volume de distribuição aparente (V/F) de
+galcanezumabe foi de 7,5 L.
+Metabolismo: por ser um anticorpo monoclonal de IgG4 humanizado, espera-se que galcanezumabe seja
+degradado em pequenos peptídeos e aminoácidos por meio de vias catabólicas, do mesmo modo que a IgG
+endógena.
+Eliminação: com base em uma análise de PK da população, o clearance aparente (CL/F) de galcanezumabe foi
+de aproximadamente 0,008 L/h e a meia-vida de galcanezumabe foi de 26 dias.
+EMGA_V.1-24
+Linearidade da dose: a exposição a galcanezumabe aumenta proporcionalmente com a dose. Com base em
+uma análise de PK da população que incluiu doses que variaram de 5 – 300 mg, a taxa de absorção, o CL/F e o
+V/F foram independentes da dose.
+Farmacocinética em populações especiais:
+Idade, sexo, peso, raça e etnia: não é necessário nenhum ajuste da dose com base na idade, sexo, peso, raça
+ou etnia, já que não houve efeito clinicamente significativo desses fatores no CL/F ou no V/F de galcanezumabe.
+Comprometimento renal ou hepático: não foram realizados estudos de farmacologia clínica específicos para
+avaliar os efeitos do comprometimento renal e do comprometimento hepático na PK de galcanezumabe. A
+eliminação renal de anticorpos monoclonais de IgG é baixa. Do mesmo modo, os anticorpos monoclonais de
+IgG são eliminados principalmente via catabolismo intracelular, e não se espera que o comprometimento
+hepático influencie no clearance de galcanezumabe. Com base em uma análise de PK da população, a
+concentração de bilirrubina ou o clearance de creatinina não influenciaram significativamente o CL/F de
+galcanezumabe.
+4. CONTRAINDICAÇÕES
+EMGALITY® é contraindicado para pacientes com hipersensibilidade grave conhecida a galcanezumabe ou a
+qualquer um de seus excipientes.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Hipersensibilidade grave: reações graves de hipersensibilidade, incluindo casos de anafilaxia, angioedema e
+urticária foram relatados. Se ocorrer uma reação grave de hipersensibilidade, descontinuar EMGALITY®
+imediatamente e iniciar a terapia apropriada. As reações graves de hipersensibilidade podem ocorrer dias após
+a administração e podem se prolongar.
+Imunogenicidade: do mesmo modo que com todas as proteínas terapêuticas, existe o potencial de
+imunogenicidade. A detecção da formação de anticorpos é altamente dependente da sensibilidade e
+especificidade do ensaio. Além disso, a incidência observada de positividade para anticorpos (incluindo
+anticorpos neutralizantes) em um ensaio pode ser influenciada por diversos fatores, incluindo a metodologia do
+ensaio, o manuseio das amostras, o momento da coleta das amostras, as medicações concomitantes e doença de
+base. Por essas razões, comparar a incidência de anticorpos contra galcanezumabe à incidência de anticorpos
+em diferentes estudos ou contra outros produtos pode induzir ao erro. A presença de anticorpos anti-
+medicamento não afetou a farmacocinética, eficácia ou segurança de galcanezumabe. Em 12 meses de
+tratamento, até 12,5% dos pacientes tratados com galcanezumabe desenvolveram anticorpos anti-medicamento,
+a maioria dos quais apresentava baixa titulação e resultado positivo para atividade neutralizante in vitro.
+Doenças cardiovasculares: pacientes com certas doenças cardiovasculares graves foram excluídos dos estudos
+clínicos (ver “RESULTADOS DE EFICÁCIA”). Não há dados de segurança disponíveis nesses pacientes.
+Toxicologia não-clínica:
+Carcinogênese e mutagênese: estudos não clínicos para avaliar o potencial carcinogênico ou mutagênico de
+galcanezumabe não foram realizados. Não há evidências que indiquem que o tratamento crônico com
+galcanezumabe aumentaria o risco de carcinogênese com base em dados de estudos de farmacologia e de
+toxicologia crônica com galcanezumabe, bem como em uma avaliação da literatura a respeito de CGRP.
+Comprometimento da fertilidade: não foram observados efeitos nos parâmetros de fertilidade, tais como
+órgãos reprodutores, cio, análise do esperma ou acasalamento e fertilidade, em ratos que receberam
+galcanezumabe em doses subcutâneas de 250 mg/Kg (exposições de 4 a 20 vezes a dose humana máxima
+recomendada).
+Uso durante a gestação, lactação e em pessoas com potencial reprodutivo:
+Uso durante a gestação (categoria B): estudos de toxicidade no desenvolvimento realizados em coelhas e ratas
+prenhes não revelaram nenhuma evidência de dano ao feto. Há dados insuficientes em humanos para estabelecer
+a segurança de galcanezumabe durante a gestação. Sabe-se que a IgG humana atravessa a barreira placentária;
+desse modo, galcanezumabe pode ser transmitido da mãe para o feto em desenvolvimento. EMGALITY® deve
+ser utilizado na gestação somente se o benefício potencial justificar o possível risco à mãe ou ao feto.
+Uso durante a lactação: não há dados sobre a presença de galcanezumabe no leite humano, sobre os efeitos no
+bebê amamentado ou sobre os efeitos na produção de leite. Sabe-se que a IgG humana é excretada no leite
+EMGA_V.1-24
+materno. Desse modo, galcanezumabe pode ser transmitido da mãe para o bebê amamentado. Os benefícios da
+amamentação para o desenvolvimento e a saúde devem ser considerados, junto à necessidade clínica da mãe
+por EMGALITY® e qualquer potencial efeito adverso no bebê amamentado.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Uso criterioso no aleitamento ou na doação de leite humano: O uso deste medicamento no período da
+lactação depende da avaliação e acompanhamento do seu médico ou cirurgião-dentista.
+Uso pediátrico: a segurança e a eficácia em pacientes pediátricos menores de 18 anos de idade não foram
+estabelecidas.
+Uso geriátrico: os estudos clínicos de galcanezumabe não incluíram número suficiente de pacientes com 65
+anos ou mais para determinar se eles respondem diferentemente de pacientes mais jovens.
+Efeitos na capacidade de dirigir e utilizar máquinas: EMGALITY® pode ter uma pequena influência sobre
+a capacidade de conduzir e utilizar máquinas. Vertigem pode ocorrer após a administração de EMGALITY®
+(ver “REAÇÕES ADVERSAS”).
+6. INTERAÇÕES MEDICAMENTOSAS
+Não foi realizado nenhum estudo de interação medicamentosa. Interações medicamentosas farmacocinéticas
+não são esperadas, com base nas características de EMGALITY®.
+Nenhum estudo foi conduzido para investigar possível interação entre EMGALITY® e plantas medicinais,
+álcool, nicotina e exames laboratoriais e não laboratoriais.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Proteger EMGALITY® da luz até a sua utilização. Armazenar refrigerado de 2°C a 8°C. Não congelar. Não
+agitar.
+EMGALITY® pode ser armazenado sem refrigeração por até 7 dias na embalagem original, desde que
+armazenado em temperatura de até 30°C. Se estas condições não forem cumpridas, EMGALITY® deve ser
+descartado.
+O prazo de validade de EMGALITY® é de 24 meses após a data de fabricação, quando respeitadas as condições
+de armazenamento acima.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+EMGALITY® é uma solução estéril, livre de conservantes, límpida e incolor a ligeiramente amarela.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Posologia: a dose recomendada é de 300 mg (três injeções subcutâneas consecutivas de 100 mg cada), injetada
+pela via subcutânea uma vez por mês, durante o período de salvas.
+Método de administração: EMGALITY® é para administração subcutânea. O paciente pode se autoinjetar
+EMGALITY® seguindo as instruções de uso. Os locais para injeção incluem abdome, coxa, parte posterior do
+braço e nádegas.
+Antes da administração e sempre que a solução e o recipiente permitirem, medicamentos parenterais devem ser
+inspecionados visualmente quanto a material particulado e descoloração. Não utilizar EMGALITY® caso o
+medicamento esteja turvo ou se houver partículas visíveis.
+As INSTRUÇÕES DE USO que acompanham o produto contêm informações mais detalhadas sobre a
+preparação e administração de EMGALITY®. Em caso de problemas de funcionamento do dispositivo
+injetor de EMGALITY®, consulte o folheto informativo e entre em contato com o Libbs SAC 0800 0135044.
+Instruções de uso de EMGALITY®, solução injetável em seringa preenchida
+Antes de começar Retire 3 seringas preenchidas de EMGALITY® da geladeira.
+EMGA_V.1-24
+Retire a seringa preenchida da Não remova a tampa da agulha até que você esteja pronto para
+geladeira aplicar a injeção.
+Não agite.
+Não levar a seringa preenchida ao micro-ondas, não colocar água
+quente sobre ela ou deixá-la sob a luz solar direta.
+Para uma injeção mais confortável, deixe a seringa preenchida à
+temperatura ambiente por 30 minutos antes de aplicar.
+Examine a seringa preenchida e o Certifique-se de que você está com o medicamento correto. O
+medicamento medicamento dentro da seringa deve ser claro. Sua cor pode ser
+incolor a levemente amarela.
+Não utilize a seringa preenchida e descarte-a conforme orientado
+pelo seu médico ou farmacêutico se:
+• ela parecer danificada;
+• o medicamento estiver turvo, descolorido ou apresentar
+pequenas partículas;
+• a data de validade impressa no rótulo já tiver passado;
+• o medicamento estiver congelado.
+Data de validade
+Prepare-se para a aplicação Lave as mãos com água e sabão antes de injetar EMGALITY®.
+Certifique-se de que haja por perto um recipiente para descarte de
+materiais perfurocortantes.
+Escolha o local de aplicação Seu médico pode ajudá-lo a escolher o melhor local de aplicação
+para você.
+• Você pode aplicar EMGALITY® na região do estômago
+(abdome) ou na coxa. Não aplique a menos de 5 cm do
+umbigo.
+Atrás do braço
+• Outra pessoa pode aplicar a injeção na parte de trás do seu
+braço ou nas nádegas.
+• Não aplique sempre no mesmo lugar. Por exemplo, se a
+Abdome
+primeira injeção foi no abdome, a próxima injeção pode ser
+em outra área do abdome.
+• Limpe e seque o local de aplicação antes de injetar.
+Nádegas
+Coxa
+1 Destampe
+• Não remova a tampa da agulha até
+que esteja pronto para aplicar a
+injeção.
+• Remova a tampa da agulha e jogue-a
+no lixo comum.
+EMGA_V.1-24
+• Não coloque a tampa da agulha de
+volta - você pode danificar a agulha
+ou espetar-se por acidente.
+• Não toque na agulha.
+2 Insira
+• Aperte e segure levemente uma prega
+da pele onde você vai injetar.
+• Insira a agulha em um ângulo de 45
+graus.
+3 Injete
+• Pressione lentamente o apoio do
+polegar a fim de empurrar o êmbolo
+totalmente, até injetar todo o
+medicamento.
+• O êmbolo cinza da seringa deve ser
+empurrado totalmente até a
+extremidade da seringa.
+• Você deve ver a haste coral do êmbolo
+através do corpo da seringa quando a
+injeção estiver completa, conforme
+mostrado.
+Haste coral do êmbolo
+• Retire a agulha da pele e solte a pele
+com cuidado. Êmbolo cinza da seringa
+• Não coloque a tampa da agulha de
+volta na seringa preenchida.
+9. REAÇÕES ADVERSAS
+Dados de estudos clínicos:
+EMGA_V.1-24
+Sistema do corpo/reação adversa ao Muito Comum Comum Incomum
+medicamento (≥ 10%) (≥ 1% e < 10%) (≥ 0,1% e < 1%)
+Distúrbios do ouvido e do labirinto
+Vertigem 2 (1,2%)
+Distúrbios gastrointestinais
+Constipação 3 (1,8%)
+Distúrbios gerais e condições no local de administração
+Reações no local da injeção (excluindo 23 (13,9%)
+dor)
+Dor no local da injeção 17 (10,2%)
+Distúrbios da pele e do tecido subcutâneo
+Prurido 3 (1,8%)
+Urticária 0 (0,0%)
+Reações no local da injeção: dor no local da injeção foi o evento mais frequentemente relatado (≥ 10%). Outras
+reações adversas no local da injeção, relatadas em ≥ 1% dos casos, foram: reação local, eritema, prurido,
+hematoma, edema e rigidez. A maioria dos eventos foi de intensidade leve a moderada e não levou à
+descontinuação de galcanezumabe.
+Dados pós-comercialização:
+Os seguintes efeitos indesejáveis (reações adversas ao medicamento) são baseados em relatos espontâneos pós-
+comercialização:
+Distúrbios da pele e do tecido subcutâneo:
+Reação comum (≥ 1% e < 10%): rash.
+Distúrbios do sistema imunológico:
+Reação rara (≥ 0,01% e < 0,1%): anafilaxia e angioedema.
+Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado eficácia e
+segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos
+imprevisíveis ou desconhecidos. Nesse caso, notifique os eventos adversos pelo Sistema VigiMed,
+disponível no Portal da Anvisa.
+10. SUPERDOSE
+Doses de até 600 mg foram administradas pela via subcutânea em humanos, sem toxicidade limitante da dose.
+No caso de superdosagem, recomenda-se que o paciente seja monitorado quanto a quaisquer sinais ou sintomas
+de reações adversas e que o tratamento sintomático apropriado seja instituído imediatamente.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro: 1.0033.0224
+EMGALITY® é uma marca registrada da Eli Lilly and Company.
+Copyright © 2023, Eli Lilly and Company. Todos os direitos reservados
+Produzido por:
+Eli Lilly and Company - Indianápolis – EUA
+Importado e Registrado por:
+Libbs Farmacêutica Ltda.
+Av. Marquês de São Vicente, 2219, 2° andar – São Paulo – SP;
+CNPJ 61.230.314/0001-75
+EMGA_V.1-24
+Venda sob prescrição.
+Libbs SAC 0800 0135044
+libbs@libbs.com.br
+www.libbs.com.br
+Esta bula foi aprovada pela ANVISA em 02/10/2023.
+EMGA_V.1-24
+Histórico de alteração da bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do
+Nº Data do Nº do Data de Versões Apresentações
+expediente Assunto Assunto Itens de bula
+expediente expediente expediente aprovação (VP/VPS) relacionadas
+120 MG/ML SOL
+11201 – INJ
+PRODUTO CT 1 SER PREENC
+BIOLÓGICO – VD TRANS X 1 ML
+Inclusão inicial Solicitação de +
+05/01/2024 - de texto de bula – 27/07/2023 0780666232 Transferência de 02/10/2023 Versão Inicial VP/VPS 1 CAN APLIC
+RDC 60/12 Titularidade
+Registro 100 MG/ML SOL
+(operação INJ CT 3 SER
+comercial) PREENC VD
+TRANS X 1 ML

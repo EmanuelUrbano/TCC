@@ -1,0 +1,959 @@
+®
+Entresto
+(sacubitril valsartana sódica hidratada)
+Novartis Biociências SA
+comprimidos revestidos
+50 mg
+100 mg
+200 mg
+Bula Profissional
+ENTRESTO®
+sacubitril valsartana sódica hidratada
+APRESENTAÇÕES
+Entresto® 50 mg - embalagens contendo 28 comprimidos revestidos.
+Entresto® 100 mg - embalagens contendo 28 ou 60 comprimidos revestidos.
+Entresto® 200 mg - embalagens contendo 28 ou 60 comprimidos revestidos.
+VIA ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada comprimido revestido de Entresto® 50 mg contém 56,551 mg de sacubitril valsartana sódica hidratada (equivalente
+a 50 mg de ácido anidro livre).
+Cada comprimido revestido de Entresto® 100 mg contém 113,103 mg de sacubitril valsartana sódica hidratada
+(equivalente a 100 mg de ácido anidro livre).
+Cada comprimido revestido de Entresto® 200 mg contém 226,206 mg de sacubitril valsartana sódica hidratada
+(equivalente a 200 mg de ácido anidro livre).
+Entresto® contém sacubitril valsartana sódica hidratada que é um complexo de sal das formas aniônicas de sacubitril e
+valsartana, cátions de sódio e moléculas de água na razão molar de 1:1:3:2:5, respectivamente. Após a administração oral,
+Entresto® se dissocia em sacubitril (que é metabolizado adicionalmente ao LBQ657 [sacubitrilato]) e valsartana.
+Excipientes: celulose microcristalina, hiprolose, crospovidona, estearato de magnésio, talco e dióxido de silício.
+Excipientes do revestimento: hipromelose, macrogol, talco, dióxido de titânio, óxido de ferro vermelho, óxido de ferro
+preto (para 50 mg e 200 mg) e óxido de ferro amarelo (para 100 mg).
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Entresto® é indicado para reduzir o risco de morte cardiovascular e hospitalização por insuficiência cardíaca em pacientes
+adultos com insuficiência cardíaca crônica. Os benefícios são mais claramente evidentes em pacientes com fração de
+ejeção do ventrículo esquerdo (FEVE) abaixo do normal.
+O julgamento clínico deve ser usado para decidir quem tratar, uma vez que a FEVE é uma medida variável.
+2. RESULTADOS DE EFICÁCIA
+PARADIGM-HF
+PARADIGM-HF foi um estudo multinacional, randomizado, duplo-cego, com 8.442 pacientes1. Comparando Entresto®
+com enalapril, ambos administrados a pacientes adultos com insuficiência cardíaca crônica, classe II – IV da NYHA e
+fração de ejeção reduzida (fração de ejeção ventricular esquerda [FEVE] ≤ 40%, posteriormente alterada para ≤ 35%),
+além de outra terapia para insuficiência cardíaca2. O desfecho primário foi o composto de morte cardiovascular (CV) ou
+hospitalização por insuficiência cardíaca (HF)3.
+Antes da participação no estudo, os pacientes foram bem tratados com a terapia padrão, que incluiu inibidores no estudo,
+os pacientes foram bem tratados com a terapia padrão, que incluiu inibidores de ECA/BRAs (> 99%), betabloqueadores
+(94%), antagonistas mineralocorticoides (58%) e diuréticos (83%)4. A duração mediana do acompanhamento foi de 27
+meses e os pacientes foram tratados por até 4,3 anos5.
+Os pacientes precisavam descontinuar sua terapia atual com inibidor da ECA ou BRA e entrar em um período de
+introdução (run-in) simples-cego sequencial durante o qual receberam tratamento com enalapril 10 mg duas vezes ao dia,
+seguido pelo tratamento com Entresto® 100 mg duas vezes ao dia, aumentando para 200 mg duas vezes ao dia2. Os
+pacientes foram então randomizados para o período duplo-cego do estudo para receber Entresto® 200 mg ou enalapril 10
+mg duas vezes ao dia [Entresto® (n=4.209); enalapril (n=4.233) ]1.
+A idade média da população estudada foi de 64 anos e 19% tinham 75 anos ou mais. Na randomização, 70% dos pacientes
+eram classe II e 25% eram Classe III/IV da NYHA6. A FEVE média foi de 29% e houve 963 (11,4%) pacientes com
+FEVE basal de > 35% e ≤ 40%. No grupo Entresto®, 76% dos pacientes permaneceram na dose alvo de 200 mg duas
+vezes ao dia no final do estudo (dose média diária de 375 mg). No grupo enalapril, 75% dos pacientes permaneceram na
+dose alvo de 10 mg duas vezes ao dia no final do estudo (dose média diária de 18,9 mg)7.
+VPS13 Entresto_Bula_Profissional
+1
+Entresto® demonstrou superioridade clinicamente relevante e estatisticamente significativa em relação ao enalapril,
+reduzindo o risco de morte cardiovascular ou hospitalizações por insuficiência cardíaca em 20% (razão de risco (RR):
+0,80, IC 95% [0,73; 0,87], p unicaudal =0,0000002) versus enalapril8. Este efeito foi observado inicialmente e foi
+sustentado ao longo da duração do estudo9. A redução absoluta do risco foi de 4,69%10. Uma redução estatisticamente
+significativa para morte CV e primeira hospitalização HF foi observada (morte CV, RRR 20%, RR 0,80; IC 95% [0,71,
+0,89], p unicaudal= 0,00004; e hospitalização por insuficiência cardíaca RRR 21%; RR 0,79; IC 95% [0,71, 0,89], p
+unicaudal= 0,00004)8; vide Tabela 1 e figura 1. Morte súbita foi responsável por 45% das mortes cardiovasculares e foi
+reduzida em 20% nos pacientes tratados com Entresto® em comparação com pacientes tratados com enalapril (RR 0,80,
+p= 0,0082)11. Falência cardíaca foi responsável por 26% das mortes cardiovasculares e foi reduzida em 21% nos pacientes
+tratados com Entresto® em comparação com pacientes tratados com enalapril (RR 0,79, p= 0,0338)12.
+Esta redução de risco foi observada consistentemente entre subgrupos incluindo: idade, gênero, raça, geografia, classe
+NYHA, fração de ejeção, função renal, história de diabetes ou hipertensão, terapia anterior para insuficiência cardíaca e
+fibrilação atrial13.
+Entresto® também reduziu significativamente a mortalidade por todas as causas em 16% em comparação com enalapril
+(RRR 16%, RR 0,84; IC 95% [0,76 a 0,93], p unicaudal=0,0005) (Tabela 1). A redução absoluta de risco foi de 2,84%14.
+Tabela 1 - Efeito do tratamento para o desfecho composto primário, seus componentes e mortalidade por todas as
+causas – PARADIGM-HF8
+Entresto® enalapril Razão de Redução
+N = 4187♯ N = 4212♯ Risco de Risco Valor p***
+n (%) n (%) (IC 95%) Relativa
+Desfecho Composto
+Primário de Morte CV e 914 1117 0,80 (0,73,
+20% 0,0000002
+Hospitalizações por (21,83) (26,52) 0,87)
+Insuficiência Cardíaca*
+Componentes individuais do desfecho composto primário
+558 0,80 (0,71,
+Morte CV ** 693 (16,45) 20% 0,00004
+(13,33) 0,89)
+Primeira Hospitalização 537 0,79 (0,71,
+658 (15,62) 21% 0,00004
+por Insuficiência (12,83) 0,89)
+Cardíaca
+Desfecho secundário
+Mortalidade por todas as 711 0,84 (0,76,
+835 (19,82) 16% 0,0005
+causas 14 (16,98) 0,93)
+* O desfecho primário foi definido como o período até o primeiro evento.
+** Morte CV inclui todos os pacientes que morreram até a data de corte independentemente de hospitalização anterior.
+*** Valor p unicaudal.
+♯ Conjunto completo de análise
+O Kaplan-Meier apresentado na figura abaixo (esquerda) mostra o tempo até a primeira ocorrência do desfecho composto
+primário de morte CV ou hospitalização por insuficiência cardíaca. O efeito do tratamento com Entresto® foi evidente
+inicialmente e sustentado pela duração do estudo. A figura Kaplan-Meier apresentada abaixo (direita) mostra o tempo até
+o desfecho morte CV.
+VPS13 Entresto_Bula_Profissional
+2
+Figura 1 - Curvas Kaplan-Meier para o desfecho composto primário e o componente morte CV – PARADIGM-HF
+9, 15
+Em geral, houve menos hospitalizações por todas as causas em pacientes tratados com Entresto® em comparação com
+enalapril, incluindo uma redução no risco relativo de 12% para a primeira hospitalização (RR 0,88 [IC 95%: 0,82, 0,94],
+P<0,001), e uma redução da taxa relativa de 16% para o número total de hospitalizações (RR 0,84 [IC 95%: 0,78, 0,91],
+P<0,001)16, 17.
+Entresto® demonstrou uma pontuação de dados clínicos significativamente melhor para os domínios relacionados a
+sintomas de HF e limitações físicas avaliadas pelo Kansas City Cardiomyopathy Questionnaire (KCCQ) [Questionário de
+Cardiomiopatia de Kansas City], um questionário autoadministrado18. Mais pacientes melhoraram a classe funcional do
+NYHA do baseline até o Mês 8 com Entresto® (16%) em comparação com enalapril (14%) e menos pacientes apresentaram
+piora na classe funcional do NYHA (10% vs 13%, respectivamente)19.
+PARAGON-HF
+PARAGON-HF, foi um ensaio multicêntrico, randomizado, duplo-cego comparando Entresto® e valsartana em 4.796
+pacientes adultos com insuficiência cardíaca sintomática com fração de ejeção preservada (fração de ejeção do ventrículo
+esquerdo ≥45%) e doença cardíaca estrutural [aumento do átrio esquerdo ou hipertrofia ventricular esquerda (HVE)].
+Pacientes com pressão arterial sistólica <110 mmHg e pacientes com qualquer FEVE ecocardiográfica anterior <40% na
+triagem foram excluídos.
+O objetivo primário do PARAGON-HF foi o desfecho composto de hospitalizações totais (primeira e recorrentes) por
+insuficiência cardíaca (IC) e morte cardiovascular (CV).
+Após descontinuar o tratamento com iECA ou BRA, os pacientes entraram em períodos sequenciais de run-in abertos
+durante os quais receberam valsartana 80 mg duas vezes ao dia, seguidos de Entresto® 100 mg duas vezes ao dia. Os
+pacientes em baixas doses anteriores de um iECA ou BRA começaram o período de run-in recebendo valsartana 40 mg
+duas vezes ao dia por 1-2 semanas. Os pacientes que completaram com êxito os períodos de run-in sequenciais foram
+randomizados para receber Entresto® 200 mg (N = 2.419) duas vezes ao dia ou valsartana 160 mg (N = 2.403) duas vezes
+ao dia. A duração média do acompanhamento foi de 35 meses e os pacientes foram tratados por até 4,7 anos.
+A média de idade da população estudada foi de 73 anos e 52% eram do sexo feminino. Na randomização, 77% dos
+pacientes eram Classe II da NYHA, 19% eram Classe III da NYHA e 0,4% eram Classe IV da NYHA. A mediana da
+fração de ejeção do ventrículo esquerdo foi de 57%. A causa subjacente da insuficiência cardíaca foi de etiologia
+isquêmica em 36% dos pacientes. Além disso, 96% tinham história de hipertensão, 23% tinham história de infarto do
+miocárdio, 46% tinham eTFG <60 mL / min / 1,73 m2 e 43% tinham diabetes mellitus. A maioria dos pacientes estava
+em uso de betabloqueadores (80%) e diuréticos (95%).
+Em PARAGON-HF, Entresto® reduziu a taxa do desfecho composto de hospitalizações por IC total (primeira e
+recorrentes) e morte CV, com base em uma análise usando um modelo de taxas proporcionais, em 13% em comparação
+com valsartana (razão de taxas [RR]; 0,87; IC 95% [0,75, 1,01], p = 0,059). O efeito do tratamento foi impulsionado
+principalmente pela redução de 15% no total de hospitalizações por IC em pacientes randomizados para Entresto® (RR
+0,85; IC 95% [0,72, 1,00]).
+Entresto® reduziu em 14% a taxa do desfecho composto de agravamento da insuficiência cardíaca total (hospitalizações
+por IC e visitas urgentes por IC) e morte CV (RR 0,86; IC de 95% [0,75, 0,99])20,21.
+Uma ampla faixa de características demográficas, características de linha de base da doença e medicações concomitantes
+de linha de base foram examinadas quanto à sua influência nos resultados (Figura 2).
+VPS13 Entresto_Bula_Profissional
+3
+Figura 2: Desfecho composto primário de total de hospitalizações por IC e morte CV - Análise de subgrupo -
+PARAGON-HF20,21
+Nota: A figura acima apresenta efeitos em vários subgrupos, todos os quais são características de linha de base. Os limites de confiança de 95% mostrados
+não levam em consideração o número de comparações feitas e podem não refletir o efeito de um fator específico após o ajuste de todos os outros fatores.
+Em uma análise da relação entre a FEVE e o resultado em PARADIGM-HF e PARAGON-HF, os pacientes com FEVE
+abaixo do normal (até aproximadamente 60%) tratados com Entresto® apresentaram maior redução de risco (Tabela 2 e
+Figura 3, e Figura 4). A FEVE é uma medida variável que pode mudar com o tempo, e a faixa normal difere de acordo com
+as características do paciente e o método de avaliação; os prescritores devem usar o julgamento clínico para decidir quem
+tratar. Em ambos os estudos, o efeito do tratamento com Entresto® foi demonstrado precocemente e sustentado ao longo da
+duração dos ensaios (Figura 1 e 4).
+VPS13 Entresto_Bula_Profissional
+4
+Tabela 2 - Efeito do tratamento para desfechos compostos (primários e expandidos) e componentes para FEVE ≤
+60% - PARAGON-HF20,21
+Entresto® Valsartana Tamanho de efeito
+N = 1,688 N = 1,683 (95% CI)
+Desfechos de eficácia n Taxa do n Taxa do
+eventoa eventoa
+Desfecho composto do
+total de hospitalizações
+619 12.7 761 15.9 RR = 0.79 (0.67, 0.94)
+por IC (primeira e
+recorrentes) e morte CV
+Desfecho composto de 653 13.3 798 16.7 RR = 0.80 (0.67, 0.94)
+agravamento total por
+ICb e morte CV
+Componentes individuais dos desfechos compostos
+Hospitalizações totais 469 9.6 594 12.4 RR = 0.76 (0.62, 0.92)
+por IC
+Morte CV 150 3.1 167 3.5 HR = 0.88 (0.71, 1.10)
+Total de agravamento 503 10.3 631 13.2 RR = 0.75
+por HFb (0.62, 0.91)
+Desfechos secundários n/N Mudança em n/N Mudança em Diferença entre
+relação ao relação ao tratamentos
+basal (SE) basal (SE) (95% CI)
+Mudança na pontuação 1578/1677 -1.67 1571/1671 -2.71 LSM = 1.03
+do sumário clínico do (0.42) (0.42) (-0.13, 2.20)
+KCCQ aos 8 meses
+n/N Taxa do n/N Taxa do Diferença entre
+evento evento tratamentos
+(95% CI)
+Mudança favorável na 1481/1625 N/A 1452/1618 N/A OR = 1.42
+classe de NYHA aos 8 (1.08, 1.88)c
+meses
+Desfecho composto 22/1688 0.45 47/1683 0.99 HR = 0.45
+renald (0.27, 0.75)
+Mortalidade por todas 256/1688 5.23 267/1683 5.57 HR = 0.94
+as causas (0.79, 1.11)
+Abreviaturas: RT = razão de taxa (rate ratio), RR = razão de risco (hazard ratio), RC = razão de chances (odds ratio), SE
+= erro padrão
+a taxa de eventos por 100 pacientes-ano
+b O composto de agravamento da IC incluiu o total de visitas urgentes (primeira e recorrentes) por IC e hospitalizações por
+IC. Uma visita urgente por IC foi definida como uma avaliação urgente e não planejada por um médico, por ex. em um
+pronto-socorro, e necessitando de tratamento intravenoso.
+c O odds ratio para a mudança de classe da NYHA representa o odds ratio comum baseado em modelo de melhora e não
+piora, com OR> 1 refletindo mudanças favoráveis no grupo de Entresto®.
+d Definido como morte renal, alcance de doença renal em estágio final ou redução ≥50% na taxa de filtração glomerular
+estimada (eTFG) em relação à linha de base.
+VPS13 Entresto_Bula_Profissional
+5
+Figura 3: Número médio de eventos ao longo do tempo para o desfecho composto primário de hospitalizações totais
+por IC total e morte CV em pacientes com FEVE ≤ 60% - PARAGON-HF20,21.
+Figura 4: Efeito do tratamento para o desfecho composto de tempo até a primeira hospitalização por IC ou morte
+CV por FEVE no PARADIGM-HF e no PARAGON-HF20,21.
+TITRATION
+TITRATION foi um estudo de 12 semanas de segurança e tolerabilidade em 538 pacientes com insuficiência cardíaca
+crônica (NYHA classe II – IV) e disfunção sistólica (fração de ejeção ventricular esquerda ≤ 35%) virgens de terapia com
+inibidor da ECA ou BRA ou estavam recebendo doses variáveis de inibidores da ECA ou BRAs antes da entrada no
+estudo22,23. Os pacientes começaram com Entresto® 50 mg duas vezes ao dia, fizeram titulação crescente para 100 mg
+duas vezes ao dia e então para a dose alvo de 200 mg duas vezes ao dia com um regime de 3 semanas ou 6 semanas23.
+Em geral, 76% dos pacientes atingiram e mantiveram a dose alvo de Entresto® 200 mg duas vezes ao dia sem nenhuma
+interrupção da dose ou titulação decrescente ao longo de 12 semanas24. Mais pacientes que eram virgens de terapia anterior
+com inibidor da ECA ou BRA ou estavam recebendo terapia de baixa dose (equivalente a < 10 mg de enalapril/dia)
+conseguiram atingir e manter Entresto® 200 mg quando a titulação ascendente foi feita em 6 semanas versus 3 semanas25.
+PARAMOUNT
+PARAMOUNT, um estudo randomizado, duplo-cego, em pacientes com fração de ejeção ventricular esquerda ≥ 45%,
+comparando 200 mg de Entresto® (n=149) com 160 mg de valsartana (n=152) duas vezes ao dia, demonstrou redução
+estatisticamente maior (p= 0,0050) em NT pro-BNP desde o período basal até a Semana 1226,27,28. A redução desde o
+período basal em NT-proBNP foi semelhante nas Semanas 12 e 36 em pacientes tratados com Entresto®, enquanto o NT-
+proBNP diminuiu desde a Semana 12 a 36 em pacientes tratados com valsartana27. Reduções significativas no tamanho
+VPS13 Entresto_Bula_Profissional
+6
+atrial esquerdo, tanto do volume atrial esquerdo indexado (p=0,0069) como na dimensão atrial esquerda (p=0,0337) foram
+observadas na Semana 3630. Uma melhora estatisticamente significativa na classe NYHA foi observada na Semana 36
+(p=0,0488)31.
+Dados de segurança pré-clínicos
+Estudos de segurança pré-clínicos conduzidos com Entresto® incluíram a avaliação de farmacologia de segurança,
+toxicidade de doses repetidas, genotoxicidade, carcinogenicidade e toxicidade reprodutiva e do desenvolvimento;
+Entresto® não apresentou efeitos adversos nos sistemas orgânicos vitais. A maioria dos achados observados nos estudos
+de toxicidade repetida foi reversível e atribuível à farmacologia do bloqueio do receptor AT1.
+Carcinogenicidade, mutagênese e toxicidade genética
+Estudos de carcinogenicidade conduzidos em camundongos e ratos com sacubitril e valsartana não identificaram nenhum
+potencial carcinogênico para Entresto®. As doses de sacubitril estudadas (alta dose de 1.200 e 400 mg/kg/dia em
+camundongos e ratos, respectivamente) foram cerca de 29 e 19 vezes, respectivamente, a dose humana máxima
+recomendada (DHMR) em uma base mg/m2. As doses de valsartana estudadas (alta dose de 160 e 200 mg/kg/dia em
+camundongos e ratos, respectivamente) foram cerca de 4 e 10 vezes, respectivamente, a dose humana máxima
+recomendada em uma base mg/m2.
+Estudos de mutagenicidade e clastogenicidade conduzidos com Entresto®, sacubitril e valsartana não revelaram nenhum
+efeito em nível genético ou cromossômico.
+Toxicidade reprodutiva
+Entresto® não apresentou nenhum efeito na fertilidade ou desenvolvimento embrionário inicial em ratos em uma dose
+de até 150 mg/kg/dia (≤1,0 vez e ≤0,18 vez a DHMR com base na AUC de valsartana e sacubitrilato, respectivamente).
+O tratamento com Entresto® durante a organogênese resultou em letalidade embriofetal elevada em ratos a doses ≥100
+mg/kg/dia [≤0,72 vez a DHMR com base na AUC] e coelhos a doses ≥10 mg/kg/dia [2 vezes e 0,03 vez a DHMR com
+base na AUC de valsartana e sacubitrilato, respectivamente]. Entresto® é teratogênico com base em uma baixa
+incidência de hidrocefalia fetal, associada a doses maternalmente tóxicas, que foi observada em coelhos a uma dose de
+Entresto® ≥10 mg/kg/dia. Os efeitos embriofetais adversos de Entresto® são atribuídos à atividade do antagonista do
+receptor de angiotensina (vide “Advertências e precauções - Mulheres com potencial para engravidar (e medidas
+contraceptivas, se aplicáveis), Gravidez, Amamentação e Fertilidade”).
+Estudos de desenvolvimento pré e pós-natal em ratos, conduzidos com sacubitril a doses de até 750 mg/kg/dia [2,2 vezes
+a DHMR com base na AUC] e valsartana a doses de até 600 mg/kg/dia [0,86 vez a DHMR com base na AUC] indicam
+que o tratamento com Entresto® durante a organogênese, gestação e lactação podem afetar o desenvolvimento e sobrevida
+dos filhotes.
+Outros achados pré-clínicos
+Os efeitos de Entresto® nas concentrações de beta amiloide no líquido cefalorraquidiano (LCR) e tecido cerebral foram
+avaliados em macacos cynomolgus jovens (2 a 4 anos) tratados com Entresto® (50 mg/kg/dia) por 2 semanas. Neste estudo,
+Entresto® apresentou um efeito farmacodinâmico no clearance (depuração) de A no LCR em macacos cynomolgus,
+elevando os níveis de A-beta 1-40, 1-42 e 1-38 no LCR; não houve uma elevação correspondente nos níveis de A-beta no
+cérebro. Elevações no A-beta 1-40 e 1-42 no LCR não foram observados em um estudo com voluntários saudáveis de 2
+semanas em humanos (vide “Características farmacológicas”).
+Referências bibliográficas
+1. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.1- 1.1 [64].
+2. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Section 9.1 [19].
+3. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Section 8.1 [27].
+4. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.1- 3.2.a [92].
+5. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.3- 1.1 [36].
+6. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+VPS13 Entresto_Bula_Profissional
+7
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.1- 3.1 [93].
+7. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.3- 1.9 [66].
+8. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.2- 1.1.post.14 [94].
+9. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Figure14.2- 1.2 [98].
+10. [Clinical Overview] 2.5- EU 2.5 Table 4-1 [62].
+11. [Summary of Clinical Efficacy] 2.7.3- EU 2.7.3 Appendix 1 Table 14.2- 1.5 [78].
+12. [Summary of Clinical Efficacy] 2.7.3- EU 2.7.3 Appendix 1 Table 14.2- 1.4 [77].
+13. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Figure 11-6 [96].
+14. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.2- 2.1 [97].
+15. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Figure 14.2- 1.2.1 [99].
+16. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.2- 3.2 [100].
+17. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.2-3. 5 [101].
+18. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.2- 2.4 [102].
+19. [Study LCZ696B2314 report (2014)] : A multicenter, randomized, double-blind, parallel group, active-controlled
+study to evaluate the efficacy and safety of LCZ696 compared to enalapril on morbidity and mortality in patients
+with chronic heart failure (HF) and reduced ejection fraction. Table 14.2- 3.19.post.01 [103].
+20. [2.5 Clinical Overview in Chronic Heart Failure. Novartis. 2021]
+21. [2.7.3 Summary of Clinical Efficacy in Chronic Heart Failure. Novartis. 2021]
+22. [Study LCZ696B2228 report (2014)] A multicenter, randomized, double-blind, parallel group study to assess the
+safety and tolerability of initiating LCZ696 in heart failure patients comparing two titration regimens. Section 10.1
+[104].
+23. [Study LCZ696B2228 report (2014)] A multicenter, randomized,double-blind, parallel group study to assess the
+safety and tolerability of initiating LCZ696 in heart failure patients comparing two titration regimens. Section 9 [105].
+24. [Study LCZ696B2228 report (2014)] A multicenter, randomized, double-blind, parallel group study to assess the
+safety and tolerability of initiating LCZ696 in heart failure patients comparing two titration regimens. Table 14.2-
+2.8 [106].
+25. [Study LCZ696B2228 report (2014)] A multicenter, randomized, double-blind, parallel group study to assess the
+safety and tolerability of initiating LCZ696 in heart failure patients comparing two titration regimens. Table 14.2-
+2.1 [107].
+26. [Study LCZ696B2214 report (2013)] A 36-Week, randomized, double-blind, multi-center, parallel group, active
+controlled study to evaluate the efficacy, safety and tolerability of LCZ696 compared to valsartan in patients with
+CHF and preserved leftventricular ejection fraction Table10-1 [30].
+27. [Study LCZ696B2214 report (2013)]: A 36-Week, randomized, double-blind, multi-center, parallel group, active
+controlled study to evaluate the efficacy, safety and tolerability of LCZ696 compared to valsartan in patients with
+CHF and preserved leftventricular ejection fraction. Table 14.2- 1.1 [73].
+28. [Study LCZ696B2214 report (2013)]: A 36-Week, randomized, double-blind, multi-center, parallel group, active
+controlled study to evaluate the efficacy, safety and tolerability of LCZ696 compared to valsartan in patients with
+CHF and preserved leftventricular ejection fraction. Section 9.1 [76].
+29. [Study LCZ696B2214 report (2013)] A 36-Week, randomized, double-blind, multi-center, parallel group, active
+controlled study to evaluate the efficacy, safety and tolerability of LCZ696 compared to valsartan in patients with
+CHF and preserved leftventricular ejection fraction Figure 11.1 [109].
+VPS13 Entresto_Bula_Profissional
+8
+30. [Study LCZ696B2214 report (2013)] A 36-Week, randomized, double-blind, multi-center, parallel group, active
+controlled study to evaluate the efficacy, safety and tolerability of LCZ696 compared to valsartan in patients with
+CHF and preserved leftventricular ejection fraction Table 14.2- 4.1c ext. [110].
+31. [Study LCZ696B2214 report (2013)] A 36-Week, randomized, double-blind, multi-center, parallel group, active
+controlled study to evaluate the efficacy, safety and tolerability of LCZ696 compared to valsartan in patients with
+CHF and preserved leftventricular ejection fraction Table 14.2- 5.1a ext. [111]
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Grupo farmacoterapêutico: Agentes que atuam no sistema renina-angiotensina. Antagonistas da angiotensina II, outras
+combinações. Código ATC: C09DX04.
+Mecanismo de ação
+Entresto® exibe um mecanismo de ação inovador de um inibidor de neprilisina e do receptor da angiotensina (ARNI)
+inibindo simultaneamente a neprilisina (endopeptidase neutra; NEP) através do sacubitrilato, o metabólito ativo do pró-
+fármaco sacubitril, e bloqueando o receptor da angiotensina II tipo-1 (AT1) através da valsartana. Os benefícios
+cardiovasculares complementares e efeitos renais de Entresto® em pacientes com insuficiência cardíaca são atribuídos ao
+aumento dos peptídeos que são degradados pela neprilisina, como peptídeos natriuréticos (PN), pelo sacubitrilato e a
+inibição simultânea dos efeitos deletérios da angiotensina II pela valsartana. Os PNs exercem seus efeitos ativando
+receptores de guanilil ciclase acoplados à membrana, resultando em concentrações elevadas do segundo mensageiro
+guanosina monofosfato cíclica (cGMP), promovendo assim vasodilatação, natriurese e diurese, aumento da taxa de
+filtração glomerular e fluxo sanguíneo renal, inibição da liberação de renina e aldosterona, redução da atividade simpática
+e efeitos anti-hipertróficos e antifibróticos. A ativação contínua do sistema renina-angiotensina-aldosterona resulta em
+vasoconstrição, retenção de sódio renal e de fluidos, ativação de crescimento e proliferação celular e subsequente
+remodelagem cardiovascular de má adaptação. A valsartana inibe os efeitos cardiovasculares e renais prejudiciais da
+angiotensina II bloqueando seletivamente o receptor AT1 e também inibe a liberação de aldosterona dependente da
+angiotensina II.
+Farmacodinâmica
+Os efeitos farmacodinâmicos de Entresto® foram avaliados após administrações de doses únicas e múltiplas a indivíduos
+saudáveis e a pacientes com insuficiência cardíaca, e são consistentes com inibição da neprilisina e bloqueio do SRAA
+simultâneos. Em um estudo controlado de valsartana de 7 dias em pacientes com fração de ejeção (HFrEF) reduzida, a
+administração de Entresto® resultou em uma elevação não sustentada significativa na natriurese, aumento do cGMP na
+urina e MR-proANP e NT-proBNP plasmáticos diminuídos em comparação com valsartana. Em um estudo de 21 dias em
+pacientes HFrEF, Entresto® aumentou significativamente a ANP e cGMP na urina e cGMP no plasma, e diminuiu NT-
+proBNP, aldosterona e endotelina-1 no plasma em comparação com o período basal. Entresto® também bloqueou o
+receptor AT1 como evidenciado pela atividade aumentada da renina plasmática e concentrações de renina plasmática. No
+PARADIGM-HF, Entresto® diminuiu NT-proBNP no plasma e aumentou BNP no plasma e cGMP na urina em
+comparação com enalapril. No PARAGON-HF, Entresto® diminuiu NT-proBNP, troponina e o ST2 solúvel (sST2) e
+aumentou o cGMP na urina em comparação com a valsartana. Ao passo que BNP é um substrato da neprilisina, NT-
+proBNP não é, portanto, NT- proBNP (mas não BNP) é um biomarcador adequado para o monitoramento de pacientes
+com insuficiência cardíaca tratados com Entresto®.
+Em um estudo clínico de QTc detalhado em indivíduos saudáveis do sexo masculino, doses únicas de 194 mg/206 mg e
+583 mg/617 mg de Entresto® não apresentaram efeito na repolarização cardíaca.
+A neprilisina é uma das múltiplas enzimas envolvidas no clearance (depuração) de beta-amiloide (A-beta) do cérebro e
+líquido cefalorraquidiano (LCR). A administração de Entresto® 400 mg uma vez ao dia por 2 semanas a voluntários
+saudáveis foi associada a uma elevação no LCR A-beta 1-38 em comparação com placebo; não houve alterações nas
+concentrações de LCR A-beta 1-40 e 1-42. A relevância clínica deste achado é desconhecida (vide “Dados de segurança
+pré-clínicos”).
+Farmacocinética
+- Absorção
+Após a administração oral, Entresto® se dissocia em sacubitril e valsartana. Sacubitril é posteriormente metabolizado em
+LBQ657 (sacubitrilato). Sacubitril, sacubitrilato e valsartana atingem as concentrações plasmáticas máximas em 0,5 hora,
+2 horas e 1,5 hora, respectivamente. Estima-se que a biodisponibilidade oral absoluta de sacubitril e valsartana seja ≥ 60%
+e 23%, respectivamente.
+A valsartana de Entresto® é mais biodisponível que a valsartana em outras formulações de comprimidos comercializadas;
+26 mg, 51 mg, e 103 mg de valsartana no Entresto® é equivalente a 40 mg, 80 mg, e 160 mg de valsartana nas formulações
+de comprimidos comercializadas, respectivamente. Considere a biodisponibilidade aumentada da valsartana em Entresto®
+VPS13 Entresto_Bula_Profissional
+9
+quando da substituição de outras formulações comercializadas de valsartana.
+Após administrações duas vezes ao dia de Entresto®, os níveis no estado de equilíbrio de sacubitril, sacubitrilato e
+valsartana são atingidos em 3 dias. No estado de equilíbrio, sacubitril e valsartana não se acumulam significativamente,
+enquanto sacubitrilato se acumula em 1,6 vezes. A administração de Entresto® com alimentos não tem impacto
+clinicamente significativo nas exposições sistêmicas de sacubitril, sacubitrilato e valsartana. Embora haja uma diminuição
+na exposição de valsartana quando Entresto® é administrado com alimentos, essa diminuição não é acompanhada por uma
+redução clinicamente significativa no efeito terapêutico. Entresto® pode, portanto, ser administrado com ou sem alimentos.
+- Distribuição
+Entresto® é altamente ligado às proteínas plasmáticas (94% - 97%). Com base na comparação do plasma e das exposições
+de LCR, sacubitrilato cruza a barreira hematoencefálica em um grau limitado (0,28%). Entresto® tem um volume de
+distribuição aparente variando de 75 L a 103 L.
+- Biotransformação/metabolismo
+O sacubitril é prontamente convertido a sacubitrilato por esterases; sacubitrilato não é metabolizado adicionalmente em
+um grau significativo. A valsartana é minimamente metabolizada, já que apenas 20% da dose é recuperada como
+metabólitos. Um metabólito hidroxil foi identificado noplasma em baixas concentrações (< 10%). Já que o metabolismo
+mediado pela enzima CYP450 de sacubitril e valsartana é mínimo, não se espera que a coadministração com
+medicamentos que impactam as enzimas CYP450 impacte a farmacocinética.
+- Eliminação
+Após a administração oral, 52 a 68% de sacubitril (principalmente como sacubitrilato) e ~13% da valsartana e seus
+metabólitos são excretados na urina; 37-48% do sacubitril (principalmente como sacubitrilato) e 86% da valsartana e seus
+metabólitos são excretados nas fezes.
+O sacubitril, sacubitrilato e a valsartana são eliminados do plasma com uma meia-vida (T1/2) de eliminação média de
+aproximadamente 1,43 horas, 11,48 horas e 9,90 horas, respectivamente.
+- Linearidade/não linearidade
+A farmacocinética de sacubitril, sacubitrilato e valsartana são lineares no intervalo de dose testado (50 mg – 400 mg de
+Entresto®).
+Populações especiais
+- Pacientes idosos (com idade acima de 65 anos)
+As exposições ao sacubitrilato e valsartana são elevadas em indivíduos idosos em 42% e 30%, respectivamente, em
+comparação com indivíduos mais jovens. Entretanto, isto não está associado a efeitos clinicamente relevantes e, portanto,
+não é necessário nenhum ajuste de dose.
+- Pacientes pediátricos (com idade abaixo de 18 anos)
+Entresto® não foi estudado em pacientes pediátricos.
+- Função renal comprometida - Insuficiência renal
+Foi observada uma correlação entre a função renal e exposição sistêmica ao sacubitrilato, mas não à valsartana. Em
+pacientes com insuficiência renal leve (TFGe 60-90 mL/min/1,73 m2) a moderada (TFGe 30-60 mL/min/1,73 m2), a AUC
+para sacubitrilato foi até 2 vezes mais alta. Uma AUC 2,7 vezes mais alta para sacubitrilato foi observada em pacientes
+com insuficiência renal grave (TFGe < 30 mL/min/1,73 m2). Não é necessário ajuste de dose em pacientes com
+insuficiência renal leve (Taxa de Filtração Glomerular estimada [TFGe] 60-90mL/min/1,73m2). Uma dose inicial de 50
+mg duas vezes ao dia deve ser considerada em pacientes com insuficiência renal moderada (TFGe 30-60 mL/min/1,73m2).
+Como existem dados clínicos limitados em pacientes com insuficiência renal grave (TFGe <30 mL/min/1,73 m2);
+Entresto® deve ser administrado com cuidado, e a dose inicial recomendada é de 50 mg, duas vezes ao dia. Não há estudos
+em pacientes com doença renal em estágio terminal, portanto o uso não é recomendado.
+Não foi realizado nenhum estudo em pacientes sendo submetidos a diálise. Entretanto, sacubitrilato e valsartana são
+altamente ligados a proteínas plasmáticas e, portanto, é improvável que sejam removidos com eficácia por diálise.
+- Função hepática comprometida
+Em pacientes com insuficiência hepática leve a moderada, as exposições do sacubitril aumentaram em 1,5 e 3,4 vezes, o
+sacubitrilato aumentou em 1,5 e 1,9 vezes e a valsartana aumentou em 1,2 vezes e 2,1 vezes, respectivamente, em
+comparação com indivíduos saudáveis correspondentes. Nenhum ajuste de dose é necessário ao administrar Entresto® a
+pacientes com insuficiência hepática leve (Child-Pugh classificação A). Os estudos clínicos são limitados em pacientes
+com insuficiência hepática moderada (Child-Pugh classificação B) ou com valores de TGO/TGP superiores a duas vezes
+o limite superior do intervalo normal. Entresto® deve ser utilizado com cautela nestes pacientes e a dose inicial
+VPS13 Entresto_Bula_Profissional
+10
+recomendada é de 50 mg, duas vezes ao dia.
+Entresto® é contraindicado em pacientes com insuficiência hepática grave, cirrose biliar e colestase (Child-Pugh
+classificação C).
+- Grupos étnicos
+A farmacocinética de Entresto® (sacubitril, sacubitrilato e valsartana) é comparável entre diferentes grupos raciais e
+étnicos (Caucasianos, Negros, Asiáticos, Japoneses e outros).
+- Efeito do gênero
+A farmacocinética de Entresto® (sacubitril, sacubitrilato e valsartana) é semelhante entre indivíduos do sexo masculino e
+feminino.
+4. CONTRAINDICAÇÕES
+• Hipersensibilidade ao princípio ativo, a sacubitril, a valsartana ou a qualquer um dos excipientes;
+• Uso concomitante com inibidores da ECA (vide “Advertências e precauções”, “Posologia e modo de usar” e
+“Interações medicamentosas”). Entresto® não deve ser administrado em até 36 horas após a descontinuação da terapia
+com inibidor da ECA;
+• História conhecida de angioedema relacionado a terapia anterior com inibidor da ECA ou BRA;
+• Angioedema hereditário ou idiopático (vide “Advertências e precauções”);
+• Uso concomitante com alisquireno em pacientes com diabetes Tipo 2 (vide “Advertências e precauções”, e
+“Interações medicamentosas”);
+• Insuficiência hepática grave, cirrose biliar e colestase (vide “Advertências e precauções”);
+• Gravidez (vide “Advertências e precauções – gravidez – amamentação - fertilidade”).
+Este medicamento é contraindicado para uso por mulheres grávidas.
+Categoria de risco na gravidez: D
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica. Informe imediatamente
+seu médico em caso de suspeita de gravidez.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Bloqueio duplo do Sistema Renina-Angiotensina-Aldosterona (SRAA)
+• Entresto® não deve ser administrado com um inibidor da ECA devido ao risco de angioedema. Entresto® não
+deve ser iniciado em até 36 horas após tomar a última dose da terapia com inibidor da ECA. Se o tratamento com Entresto®
+for interrompido, a terapia com inibidor da ECA não deve ser iniciada em até 36 horas após a última dose de Entresto®
+(vide “Contraindicações”, “Posologia e modo de usar” e “Interações medicamentosas”);
+• É necessária cautela ao coadministrar Entresto® com inibidores diretos da renina, como alisquireno (vide
+“Contraindicações” e “Interações medicamentosas”). Entresto® não deve ser administrado com alisquireno em pacientes
+com diabetes Tipo 2 (vide “Contraindicações”);
+• Entresto® não deve ser coadministrado com um BRA devido à atividade de bloqueio do receptor de angiotensina
+II de Entresto® (vide “Posologia e modo de usar” e “Interações medicamentosas”).
+Hipotensão
+Casos de hipotensão sintomática foram relatados em pacientes tratados com Entresto® durante estudos clínicos,
+especialmente em pacientes ≥ 65 anos, pacientes com doença renal e pacientes com PAS baixa (< 112 mmHg). Quando
+iniciada a terapia ou durante a dosagem com Entresto®, deve-se monitorar rotineiramente a pressão arterial. Se ocorrer
+hipotensão, deve-se considerar o ajuste da dose de diuréticos, o uso de medicamentos anti-hipertensivos concomitantes e
+o tratamento de outras causas de hipotensão (p.ex.: hipovolemia). Se a hipotensão persistir apesar de tais medidas, a dose
+de Entresto® deve ser reduzida ou o medicamento deve ser temporariamente descontinuado (vide “Posologia e modo de
+usar”). Normalmente não é necessária a descontinuação permanente da terapia. A hipotensão sintomática tem uma
+probabilidade maior de ocorrer se o paciente sofreu depleção de volume, p.ex.: por terapia com diurético, restrição
+dietética de sal, diarreia ou vômitos. A depleção de sódio e/ou volume devem ser corrigidos antes do início do tratamento
+com Entresto®.
+Função renal comprometida
+A avaliação de pacientes com insuficiência cardíaca deve sempre incluir a avaliação da função renal. Pacientes com
+insuficiência renal leve e moderada têm mais riscos de desenvolver hipotensão (vide “Posologia e Modo de usar”). Os
+estudos clínicos em pacientes com insuficiência renal grave (TFG estimado <30mL/min/1,73m2) são limitados e estes
+pacientes podem apresentar maior risco de hipotensão (vide “Posologia e Modo de usar”). Não há estudos em pacientes
+com doença renal em estágio terminal, portanto o uso de Entresto® não é recomendado.
+VPS13 Entresto_Bula_Profissional
+11
+Piora da função renal
+O uso de Entresto® pode estar associado com função renal diminuída. O risco pode ser ainda maior quando há desidratação
+ou uso concomitante de anti-inflamatório não esteroidal (AINES) (vide “Interações medicamentosas”). A redução de dose
+deve ser considerada em pacientes que desenvolvem diminuição clinicamente significativa da função renal.
+Hipercalemia
+Como para qualquer medicamento que age no sistema renina-angiotensina-aldosterona, o uso de Entresto® pode estar
+associado a um risco elevado de hipercalemia. No estudo PARADIGM- HF, a incidência de hipercalemia clinicamente
+relevante foi baixa, resultando em descontinuação do tratamento em 0,26% de pacientes tratados com Entresto® em
+comparação com 0,35% de pacientes tratados com enalapril. Medicações que são conhecidas por aumentar os níveis de
+potássio (p.ex.: diuréticos poupadores de potássio, suplementos de potássio) devem ser usadas com cuidado na
+coadministração com Entresto®. Se ocorrer hipercalemia clinicamente significativa, medidas como a redução do potássio
+da dieta ou ajuste da dose de medicações concomitantes devem ser consideradas. O monitoramento de potássio sérico é
+recomendado especialmente em pacientes com fatores de risco como insuficiência renal grave, diabetes mellitus,
+hipoaldosteronismo ou que estejam recebendo uma dieta rica em potássio e em pacientes idosos (vide “Posologia e modo
+de usar”).
+Angioedema
+Angioedema foi relatado em pacientes tratados com Entresto®. Se ocorrer angioedema, Entresto® deve ser descontinuado
+imediatamente e devem ser fornecidos terapia e monitoramento adequados até que ocorra a resolução completa e
+sustentada dos sinais e sintomas. Entresto® não deve ser administrado novamente. Em casos de angioedema confirmado
+onde o inchaço estava confinado à face e lábios, a condição geralmente se resolveu sem tratamento, embora anti-
+histamínicos tenham sido úteis no alívio de sintomas.
+Angioedema associado a edema de laringe pode ser fatal. Onde há envolvimento da língua, glote ou laringe, com
+probabilidade de causar obstrução das vias aéreas, devem ser prontamente administradas terapia adequada, p.ex.: solução
+subcutânea de epinefrina/adrenalina 1:1000 (0,3 mL a 0,5 mL) e/ou medidas necessárias para garantir vias aéreas patentes.
+Pacientes com uma história anterior de angioedema não foram estudados. Como eles podem estar em risco mais alto de
+angioedema, recomenda-se cautela se Entresto® for usado nestes pacientes. Entresto® não deve ser usado em pacientes
+com uma história conhecida de angioedema relacionado à terapia anterior com inibidor da ECA ou BRA, ou em pacientes
+com angioedema hereditário (vide “Contraindicações”).
+Pacientes negros podem ter maior suscetibilidade para desenvolver angioedema.
+Pacientes com estenose da artéria renal
+Semelhante a outros medicamentos que afetam o sistema renina-angiotensina-aldosterona, Entresto® pode elevar os níveis
+de ureia sanguínea e creatinina sérica em pacientes com estenose da artéria renal bilateral ou unilateral. É necessário
+cuidado no uso em pacientes com estenose da artéria renal, e é recomendado o monitoramento da função renal.
+Mulheres com potencial para engravidar (e medidas contraceptivas, se aplicáveis)
+Mulheres com potencial para engravidar devem ser avisadas sobre as consequências da exposição ao Entresto® durante a
+gravidez. Recomenda-se a utilização de contracepção durante o tratamento com Entresto® e por 1 semana após sua última
+dose.
+Gravidez
+Assim como para outros medicamentos que também agem diretamente no SRAA, Entresto® não deve ser usado durante a
+gravidez (vide “Contraindicações”). Entresto® exerce seus efeitos através do antagonismo à angiotensina II. Como
+resultado, um risco ao feto não pode ser excluído. Houve relatos de dano ao feto em desenvolvimento (p.ex.: aborto
+espontâneo, oligohidrâmnio e disfunção renal do recém-nascido), quando mulheres grávidas tomaram valsartana.
+Pacientes devem ser orientados a procurar seu médico e descontinuar o uso de Entresto® assim que a gravidez for
+detectada.
+Amamentação
+Dados limitados mostram que o sacubitril e o sacubitrilato, um metabólito do sacubitril, são transferidos para o leite
+humano (vide Dados). Os componentes de Entresto®, sacubitril e valsartana, foram excretados no leite de ratas lactantes
+(vide “Dados de segurança pré-clínicos”). Por causa do risco potencial para reações adversas ao medicamento em recém-
+nascidos/bebês lactentes, Entresto® não é recomendado durante a amamentação. Deve ser tomada uma decisão de se abster
+da amamentação ou de descontinuar Entresto® enquanto amamenta, levando-se em consideração a importância de
+Entresto® para a mãe.
+Uso contraindicado no aleitamento ou na doação de leite humano.
+VPS13 Entresto_Bula_Profissional
+12
+Dados
+Um estudo clínico sobre lactação publicado envolvendo cinco participantes mostrou que o sacubitril e o sacubitrilato estão
+presentes no leite humano. A dose relativa estimada para bebês é de 0,01% para sacubitril e 0,46% para sacubitrilato
+quando administrado em uma dose de estado estacionário de sacubitril/valsartana, 50 mg, duas vezes ao dia. O estudo não
+relata níveis detectáveis (abaixo do limite de quantificação) de valsartana no leite humano.
+Fertilidade
+Não há dados disponíveis sobre o efeito de Entresto® na fertilidade humana. Nenhum comprometimento da fertilidade foi
+demonstrado em estudos com Entresto® em ratos machos e fêmeas (vide “Dados de segurança pré-clínicos”).
+Efeitos na habilidade de dirigir veículos e operar máquinas
+Não foram realizados estudos sobre efeitos na habilidade de dirigir veículos. Ao dirigir veículos ou operar máquinas deve-
+se levar em consideração que pode ocorrer tonturas.
+Informe ao seu paciente que ele deve evitar se levantar rapidamente, dirigir veículos e/ou operar máquinas,
+durante todo o tratamento.
+Atenção: Contém os corantes dióxido de titânio, oxido de ferro amarelo, óxido de ferro vermelho e óxido de ferro
+preto (apenas Entresto® 50 mg e 200 mg) que podem, eventualmente, causar reações alérgicas.
+6. INTERAÇÕES MEDICAMENTOSAS
+Interações previstas que resultam em contraindicação
+- inibidores da ECA: o uso concomitante de Entresto® com inibidores da ECA é contraindicado, uma vez que a inibição
+concomitante da neprilisina (NEP) e terapia com inibidor da ECA pode aumentar o risco de angioedema. Entresto® só
+deve ser iniciado 36 horas após tomar a última dose de terapia com inibidor da ECA. A terapia com inibidor da ECA só
+deve ser iniciada 36 horas após a última dose de Entresto® (vide “Contraindicações” e “Posologia e modo de usar”).
+- alisquireno: o uso concomitante de Entresto® com alisquireno é contraindicado em pacientes com diabetes Tipo 2 (vide
+“Contraindicações”).
+Interações previstas do uso concomitante que resultam na não recomendação
+Entresto® não deve ser coadministrado com um BRA devido à atividade de bloqueio do receptor de angiotensina II de
+Entresto® (vide “Advertências e precauções”).
+O uso concomitante com alisquireno deve ser evitado em pacientes com insuficiência renal (TFGe < 60 mL/min/1,73 m2)
+(vide “Advertências e precauções”).
+Interações observadas a serem consideradas
+- estatinas: dados in vitro indicam que o sacubitril inibe os transportadores OATP1B1 e OATP1B3. Entresto® pode,
+portanto, aumentar a exposição sistêmica dos substratos do OATP1B1 e OATP1B3, como as estatinas. A coadministração
+de Entresto® aumentou a Cmáx de atorvastatina e seus metabólitos em até 2 vezes e a AUC em até 1,3 vezes. Deve-se
+tomar cuidado na coadministração de Entresto® com estatinas. Não foi observado interação medicamentosa clinicamente
+relevante quando sinvastatina e Entresto® foram coadministrados.
+- sildenafila: a adição de uma dose única de sildenafila a Entresto® no estado de equilíbrio em pacientes com hipertensão
+foi associada a uma maior redução da pressão arterial em comparação com a administração de Entresto® sozinho. Portanto,
+deve-se tomar cuidado quando sildenafila ou outro inibidor do PDE-5 é iniciado em pacientes tratados com Entresto®.
+Interações previstas a serem consideradas
+- potássio: o uso concomitante de diuréticos poupadores de potássio (p.ex.: triantereno, amilorida), antagonistas
+mineralocorticoides (p.ex.: espironolactona, eplerenona), suplementos de potássio, ou substitutos do sal que contém
+potássio pode levar a elevações no potássio sérico e a aumentos na creatinina sérica. O monitoramento do potássio sérico
+é recomendado se Entresto® for coadministrado com estes agentes (vide “Advertências e precauções”).
+- agentes anti-inflamatórios não-esteroidais (AINEs), incluindo inibidores seletivos da ciclo- oxigenase-2 (inibidores
+da COX-2): em pacientes idosos, pacientes com depleção de volume (incluindo aqueles em terapia diurética) ou pacientes
+com função renal comprometida, o uso concomitante de Entresto® e AINEs pode levar a um risco elevado de piora da
+função renal. Portanto, o monitoramento da função renal é recomendado ao iniciar ou modificar o tratamento com
+Entresto® em pacientes que estão tomando AINEs concomitantemente.
+- lítio: o potencial para uma interação medicamentosa entre Entresto® e lítio não foi investigado. Elevações reversíveis
+nas concentrações séricas de lítio e toxicidade foram relatadas durante administração concomitante de lítio e inibidores
+VPS13 Entresto_Bula_Profissional
+13
+da ECA ou antagonistas do receptor de angiotensina II. Portanto, o monitoramento cuidadoso dos níveis séricos de lítio é
+recomendado durante o uso concomitante com Entresto®. Se um diurético também é usado, o risco de toxicidade do lítio
+pode ser aumentado ainda mais.
+- transportadores: o metabólito ativo de sacubitril (sacubitrilato) e valsartana são substratos do OATP1B1, OATP1B3 e
+OAT3; a valsartana também é um substrato do MRP2. Portanto, a coadministração de Entresto® com inibidores do
+OATP1B1, OATP1B3, OAT3 (p.ex.: rifampicina, ciclosporina) ou MRP2 (p.ex.: ritonavir) pode aumentar a exposição
+sistêmica ao sacubitrilato ou valsartana, respectivamente. Tenha cuidado adequado ao iniciar ou encerrar o tratamento
+concomitante com tais medicamentos.
+- furosemida: a administração concomitante de Entresto® e furosemida não teve nenhum efeito sobre a farmacocinética
+de Entresto®, mas reduziu a Cmáx e a AUC da furosemida em 50% e 28%, respectivamente. Embora não tenha havido
+nenhuma alteração relevante no volume de urina, a excreção urinária de sódio foi reduzida no período de 4 horas e 24
+horas após a administração concomitante. A dose diária média de furosemida permaneceu inalterada da linha basal até o
+final do estudo PARADIGM-HF nos pacientes tratados com Entresto®. Tenha cuidado adequado ao iniciar ou encerrar o
+tratamento concomitante com tal medicamento.
+Nenhuma interação significativa
+Nenhuma interação medicamentosa clinicamente significativa foi observada na coadministração de Entresto® e digoxina,
+varfarina, hidroclorotiazida, anlodipino, metformina, omeprazol, carvedilol, nitroglicerina intravenosa ou uma
+combinação de levonorgestrel/etinilestradiol. Não se espera nenhuma interação com atenolol, indometacina, gliburida ou
+cimetidina.
+Interações com a CYP450: Estudos de metabolismo in vitro indicam que o potencial para interações medicamentosas com
+base na CYP450 é baixo, já que há um metabolismo limitado de Entresto® através das enzimas da CYP450. Entresto® não
+induz nem inibe as enzimas da CYP450.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Entresto® deve ser conservado sob temperatura ambiente (entre 15 e 30°C). Proteger da umidade.
+O prazo de validade é de 36 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Entresto® é um comprimido revestido, disponível em 3 concentrações diferentes de 50 mg, 100 mg ou 200 mg.
+• Os comprimidos de 50 mg são violeta-claro, ovaloides biconvexos com bordas chanfradas, não sulcados, gravados com
+“NVR” de um lado e “LZ” do outro lado.
+• Os comprimidos de 100 mg são amarelo-claro, ovaloides biconvexos com bordas chanfradas, não sulcados, gravados
+com “NVR” de um lado e “L1” do outro lado.
+• Os comprimidos de 200 mg são rosa-claro ovaloides biconvexos com bordas chanfradas, não sulcados, gravados com
+“NVR” de um lado e “L11” do outro lado.
+Antes de usar, observe o aspecto do medicamento.
+TODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS.
+8. POSOLOGIA E MODO DE USAR
+A dose alvo de Entresto® é 200 mg duas vezes ao dia.
+A dose inicial recomendada de Entresto® é 100 mg duas vezes ao dia. Uma dose de início de 50 mg duas vezes ao dia é
+recomendada para pacientes que atualmente não estão tomando um inibidor da enzima conversora de angiotensina (ECA)
+ou um bloqueador do receptor da angiotensina II (BRA), e deve ser considerada para pacientes que tenham tomado
+anteriormente baixas doses destes agentes (vide “Resultados de eficácia”).
+A dose de Entresto® deve ser dobrada a cada 2-4 semanas até atingir a dose alvo de 200 mg duas vezes ao dia, conforme
+tolerada pelo paciente.
+Devido ao risco potencial de angioedema quando usado concomitantemente com um inibidor da ECA, Entresto® não deve
+ser iniciado em até 36 horas após a descontinuação da terapia com inibidor da ECA (vide “Contraindicações”).
+Entresto® não deve ser coadministrado com um BRA devido a atividade de bloqueio do receptor de angiotensina II de
+Entresto® (vide “Advertências e precauções” e “Interações medicamentosas”).
+Se os pacientes apresentarem problemas de tolerabilidade (hipotensão sintomática, hipercalemia, disfunção renal), deve-
+VPS13 Entresto_Bula_Profissional
+14
+se considerar o ajuste das medicações concomitantes, ou a titulação decrescente temporária de Entresto®.
+O tratamento não deve ser iniciado em pacientes com nível de potássio sérico >5,4 mmol/L ou com PAS <100 mmHg. O
+início da dose de 50 mg duas vezes ao dia deve ser considerado em pacientes com PAS ≥100 a 110 mmHg.
+Populações especiais
+- Insuficiência renal
+Não é necessário ajuste de dose em pacientes com insuficiência renal leve (TFGe 60-90 mL/min/1,73 m2). Uma dose
+inicial de 50 mg duas vezes ao dia deve ser considerada em pacientes com insuficiência renal moderada (TFGe 30-60
+mL/min/1,73 m2). Como existem dados clínicos limitados em pacientes com insuficiência renal grave (TFGe < 30
+mL/min/1,73 m2) (vide “Características farmacológicas”) Entresto® deve ser administrado com cuidado e a dose inicial
+recomendada é de 50 mg, duas vezes ao dia.
+Não há estudos em pacientes com doença renal em estágio terminal e o uso de Entresto® nestes pacientes não é
+recomendado.
+- Insuficiência hepática
+Nenhum ajuste de dose é necessário ao administrar Entresto® a pacientes com insuficiência hepática leve (Child-Pugh
+classificação A). Os estudos clínicos são limitados em pacientes com insuficiência hepática moderada (Child-Pugh
+classificação B) ou com valores de TGO/TGP superiores a duas vezes o limite superior do intervalo normal. Entresto®
+deve ser utilizado com cautela nestes pacientes e a dose inicial recomendada é de 50 mg, duas vezes ao dia (vide
+“Advertências e precauções” e “Características Farmacológicas”).
+Entresto® é contraindicado em pacientes com insuficiência hepática grave, cirrose biliar ou colestase (Child-Pugh
+classificação C) (vide “Contraindicações”).
+- Pacientes pediátricos
+A segurança e a eficácia de Entresto® em pacientes pediátricos com idade abaixo de 18 anos não foi estabelecida.
+- Pacientes idosos (com mais de 65 anos)
+A dose deve estar de acordo com a função renal do paciente idoso.
+Método de administração
+Para uso oral. Entresto® pode ser administrado com ou sem alimentos (vide “Características farmacológicas”).
+Este medicamento não deve ser partido, aberto ou mastigado.
+9. REAÇÕES ADVERSAS
+Resumo do perfil de segurança
+As reações adversas mais comuns reportadas durante o tratamento com Entresto® são hipotensão, hipercalemia, e função
+renal comprometida (vide “Advertências e Precauções”). Angioedema foi reportado para pacientes tratados com Entresto®
+(vide “Reações Adversas”).
+Um total de 6.622 pacientes com insuficiência cardíaca foram tratados com Entresto® nos ensaios clínicos PARADIGM-
+HF (vs. enalapril) e PARAGON-HF (vs. valsartan). Destes, 5.085 foram expostos por pelo menos 1 ano.
+PARADIGM-HF
+A segurança de Entresto® em pacientes com insuficiência cardíaca crônica com FEVE ≤ 40% (fração de ejeção reduzida)
+foi avaliada no estudo pivotal de fase 3 PARADIGM-HF, que comparou pacientes tratados duas vezes ao dia com
+Entresto® 200 mg (n=4.203) ou enalapril 10 mg (n=4.229). Pacientes randomizados para Entresto® receberam tratamento
+por até 4,3 anos, com uma duração mediana da exposição de 24 meses; 3.271 pacientes foram tratados por mais de um
+ano.
+No estudo PARADIGM-HF, os indivíduos foram previamente tratados com inibidores da ECA e/ou BRAs e também
+tiveram que completar com sucesso os períodos sequenciais de enalapril e Entresto® (exposição mediana dos
+medicamentos de 15 e 29 dias, respectivamente) antes do estudo randomizado duplo-cego. Durante o período de
+internação do enalapril, 1.102 pacientes (10,5%) foram permanentemente descontinuados do estudo, 5,6% devido a uma
+reação adversa, mais comumente disfunção renal (1,7%), hipercalemia (1,7%) e hipotensão (1,4%). Durante o período de
+execução de Entresto®, 10,4% dos pacientes foram permanentemente descontinuados, 5,9% devido a uma reação adversa,
+mais comumente disfunção renal (1,8%), hipotensão (1,7%) e hipercalemia (1,3%). Devido às descontinuações durante o
+período de execução, as taxas de reações adversas apresentadas na tabela abaixo podem ser inferiores às taxas de reações
+adversas esperadas na prática clínica.
+VPS13 Entresto_Bula_Profissional
+15
+A descontinuação da terapia devido a uma reação adversa (RA) no período duplo-cego do estudo PARADIGM-HF
+ocorreu em 450 pacientes tratados com Entresto® (10,71%) e em 516 pacientes recebendo enalapril (12,20%). As reações
+mais comumente associadas com o ajuste de dose ou interrupção do tratamento foram hipotensão, hipercalemia e
+comprometimento renal.
+PARAGON-HF
+A segurança de Entresto® em pacientes com insuficiência cardíaca crônica e FEVE ≥45% (fração de ejeção preservada)
+foi avaliada no estudo pivotal de fase 3 PARAGON-HF, que comparou pacientes tratados duas vezes ao dia com Entresto®
+200 mg (n = 2.419) ou valsartana 160 mg (n = 2.402). O perfil de segurança de Entresto® foi consistente com o perfil de
+segurança em pacientes com insuficiência cardíaca com fração de ejeção reduzida.
+Lista das reações adversas
+As reações adversas ao medicamento são classificadas por Classe de Sistemas de Órgãos e então por frequência, com as
+mais frequentes primeiro, usando a seguinte convenção: muito comum (≥ 1/10); comum (≥ 1/100 a < 1/10); incomum (≥
+1/1.000 a < 1/100); rara (≥ 1/10.000 a <1/1.000); muito rara (< 1/10.000), incluindo relatos isolados. Dentro de cada
+agrupamento de frequência, as reações adversas são classificadas em ordem decrescente de gravidade.
+Tabela 3 - Lista das reações adversas
+Reações adversas ao medicamento
+Termo preferido Categoria de frequência
+Distúrbios do sangue e sistema Anemia Comum
+linfático
+Distúrbios do sistema imunológico Hipersensibilidade Incomum
+Distúrbios do metabolismo e nutrição Hipercalemia* Muito comum
+Hipocalemia Comum
+Hipoglicemia Comum
+Distúrbios do sistema nervoso Tontura Comum
+Cefaleia Comum
+Síncope Comum
+Tontura postural Incomum
+Distúrbios do ouvido e labirinto Vertigem Comum
+Distúrbios vasculares Hipotensão* Muito comum
+Hipotensão ortostática Comum
+Distúrbios respiratórios, torácicos e Tosse Comum
+mediastinal
+Distúrbios gastrintestinais Diarreia Comum
+Náusea Comum
+Gastrite Comum
+Distúrbios cutâneos e do tecido Prurido Incomum
+subcutâneo
+Erupção cutânea Incomum
+Angioedema* Incomum
+Distúrbios renais e urinários Insuficiência renal* Muito comum
+Falência renal (falência Comum
+renal, falência renal aguda)
+VPS13 Entresto_Bula_Profissional
+16
+Distúrbios gerais e condições do local Fadiga Comum
+de administração
+Astenia Comum
+*ver descrição da reação adversa selecionada
+Reações adversas de relatos espontâneos e casos de literatura (frequência desconhecida)
+As seguintes reações adversas foram derivadas da experiência pós-comercialização de Entresto® através de relatos de
+casos espontâneos e casos de literatura. Como essas reações são relatadas voluntariamente a partir de uma população de
+tamanho incerto, não é possível estimar de forma confiável sua frequência, o que é categorizado como não conhecido.
+As reações adversas a medicamentos são listadas de acordo com a classe de sistemas de órgãos MedDRA.
+Tabela 4 – Reações adversas de relatos espontâneos e casos de literatura (frequência desconhecida)
+Hipersensibilidade (incluindo erupção cutânea, prurido e
+Distúrbios do sistema imunológico
+anafilaxia.
+Descrição das reações adversas selecionadas:
+- Angioedema
+Angioedema foi relatado em pacientes tratados com Entresto®. No estudo PARADIGM-HF, angiodema foi relatado em
+0,5% dos pacientes tratados com Entresto®, comparado com 0,2% dos pacientes tratados com enalapril. Foi observada
+uma alta incidência de angioedema em pacientes negros tratados com Entresto® (2,4%) e enalapril (0,5%) (vide
+“Advertências e Precauções”).
+- Hipercalemia e potássio sérico
+No estudo PARADIGM-HF, a hipercalemia e a concentração de potássio sérico >5,4 mmol/L foram relatadas em 11,6%
+e 19,7% em pacientes tratados com Entresto® e 14,0% e 21,1% nos pacientes tratados com enalapril, respectivamente.
+- Pressão arterial
+No estudo PARADIGM-HF, a hipotensão e a diminuição clinicamente relevante da pressão arterial sistólica (<90mmHg
+e redução do valor basal de >20mmHg) foram relatados em 17,6% e 4,76% em pacientes tratados com Entresto®
+comparada a 11,9% e 2,67% nos pacientes tratados com enalapril, respectivamente.
+- Insuficiência renal
+No estudo PARADIGM-HF, insuficiência renal foi relatada em 10,1% nos pacientes tratados com Entresto® e 11,5% nos
+pacientes tratados com enalapril.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Há dados limitados disponíveis em relação à superdose em indivíduos humanos com Entresto®. Em voluntários saudáveis,
+uma dose única de Entresto® 1200 mg e doses múltiplas de 900 mg (14 dias) foram estudadas e foram bem toleradas.
+Hipotensão é o sintoma mais provável de superdose, devido aos efeitos redutores da pressão arterial de Entresto®.
+Tratamento sintomático deve ser fornecido.
+É improvável que Entresto® seja removido por hemodiálise devido à alta ligação a proteínas.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro: 1.0068.1141
+Produzido por:
+Novartis Pharma Stein AG, Stein, Suíça ou Novartis Singapore Pharmaceutical, Cingapura ou Novartis Farma S.p.A.,
+Torre Annunziata, Itália (vide cartucho).
+Importado e Registrado por:
+Novartis Biociências S.A.
+Av. Prof. Vicente Rao, 90
+São Paulo - SP
+VPS13 Entresto_Bula_Profissional
+17
+CNPJ: 56.994.502/0001-30
+Indústria Brasileira
+® = Marca registrada de Novartis AG, Basileia, Suíça.
+VENDA SOB PRESCRIÇÃO
+CDS 28.11.24
+NA
+VPS13
+VPS13 Entresto_Bula_Profissional
+18
+Histórico de Alteração da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do N° do Data do N° do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+24 MG/26 MG ALU/ALU X 28
+- NA VP3
+MEDICAMENTO NOVO MEDICAMENTO 49 MG /51 MG ALU/ALU X 28
+– Inclusão Inicial de NOVO – Registro
+18/05/2017 0931254/17-4 03/06/2015 0494906151 08/05/2017 49 MG /51 MG ALU/ALU X 60
+Texto de Bula – RDC Eletrônico de
+60/12 Medicamento Novo 97 MG /103 MG ALU/ALU X 28
+- NA VPS3
+97 MG /103 MG ALU/ALU X 60
+24 MG/26 MG ALU/ALU X 28
+MEDICAMENTO NOVO - NA VP3
+MEDICAMENTO 49 MG /51 MG ALU/ALU X 28
+-Notificação de
+NOVO – Inclusão
+09/06/2017 1143175/17-0 Alteração de 09/06/2017 1143175/17-0 08/05/2017 49 MG /51 MG ALU/ALU X 60
+Inicial de Texto de
+Texto de Bula - RDC
+Bula – RDC 60/12 97 MG /103 MG ALU/ALU X 28
+60/12 - Posologia e Modo de usar VPS4
+97 MG /103 MG ALU/ALU X 60
+- Quando devo usar este
+medicamento
+VP4
+- Quais os males que este
+medicamento pode me causar
+24 MG/26 MG ALU/ALU X 28
+MEDICAMENTO NOVO MEDICAMENTO 49 MG /51 MG ALU/ALU X 28
+- Composição
+- Notificação de NOVO – Inclusão
+07/08/2017 1650298/17-1 07/08/2017 1650298/17-1 07/08/2017 49 MG /51 MG ALU/ALU X 60
+Alteração de Texto de Inicial de Texto de - Resultados de eficácia
+Bula – RDC Bula – RDC 60/12 97 MG /103 MG ALU/ALU X 28
+- Características farmacológicas
+VPS5 97 MG /103 MG ALU/ALU X 60
+- Advertências e Precauções
+- Interações Medicamentosas
+- Reações Adversas
+MEDICAMENTO NOVO
+- Notificação de RDC 73/2016 - NOVO 24 MG/26 MG ALU/ALU X 28
+30/11/2018 1132699/18-9 Alteração de Texto de 03/04/2018 0258237/18-6 - Inclusão de local de 03/04/2018 - Dizeres Legais VP5 49 MG /51 MG ALU/ALU X 28
+Bula – RDC fabricação de
+Entresto® (sacubitril valsartana sódica hidratada) / Comprimidos Revestidos / 50 mg - 100 mg - 200 mg
+medicamento de 49 MG /51 MG ALU/ALU X 60
+liberação convencional
+97 MG /103 MG ALU/ALU X 28
+- Dizeres Legais VPS6
+97 MG /103 MG ALU/ALU X 60
+- NA VP5 24 MG/26 MG ALU/ALU X 28
+MEDICAMENTO NOVO 11107 - RDC 73/2016 49 MG /51 MG ALU/ALU X 28
+- Notificação de - NOVO - Ampliação
+01/06/2020 1731097/20-1 04/09/2019 2111029/19-8 04/05/2020 49 MG /51 MG ALU/ALU X 60
+Alteração de Texto de do prazo de validade
+Bula – RDC do medicamento - Cuidados de armazenamento do 97 MG /103 MG ALU/ALU X 28
+medicamento VPS7 97 MG /103 MG ALU/ALU X 60
+- Reações adversas
+10451- - NA VP5
+24 MG/26 MG ALU/ALU X 28
+MEDICAMENTO
+MEDICAMENTO NOVO NOVO - Notificação de 49 MG /51 MG ALU/ALU X 28
+26/10/2020 3729418/20-1 - Notificação de 26/10/2020 3729418/20-1 Alteração de Texto de 26/10/2020 49 MG /51 MG ALU/ALU X 60
+Alteração de Texto de Bula – publicação no
+Bula – RDC Bulário RDC 60/12 97 MG /103 MG ALU/ALU X 28
+- Interações Medicamentosas VPS8 97 MG /103 MG ALU/ALU X 60
+24 MG/26 MG ALU/ALU X 28
+MEDICAMENTO NOVO MEDICAMENTO - NA VP5
+49 MG /51 MG ALU/ALU X 28
+- Notificação de NOVO - Notificação de
+07/04/2021 1331452/21-1 Alteração de Texto de 07/04/2021 1331452/21-1 Alteração de Texto de 07/04/2021 49 MG /51 MG ALU/ALU X 60
+Bula – publicação no Bula – publicação no
+97 MG /103 MG ALU/ALU X 28
+Bulário RDC 60/12 Bulário RDC 60/12 - Reações adversas VPS9
+97 MG /103 MG ALU/ALU X 60
+- Apresentações
+50 MG ALU/ALU X 28
+MEDICAMENTO NOVO MEDICAMENTO - Composição
+100 MG ALU/ALU X 28
+- Notificação de NOVO - Notificação de
+03/09/2021 3481327/21-8 Alteração de Texto de 03/09/2021 3481327/21-8 Alteração de Texto de 03/09/2021 - Onde, como e por quanto tempo VP6 100 MG ALU/ALU X 60
+Bula – publicação no Bula – publicação no posso guardar este medicamento
+200 MG ALU/ALU X 28
+Bulário RDC 60/12 Bulário RDC 60/12
+- Como devo usar este
+200 MG ALU/ALU X 60
+medicamento
+Entresto® (sacubitril valsartana sódica hidratada) / Comprimidos Revestidos / 50 mg - 100 mg - 200 mg
+-Apresentações
+-Composição
+-Resultados de eficácia
+-Características farmacológicas
+VPS10
+-Cuidados de armazenamento do
+medicamento
+-Posologia e modo de usar
+-Superdose
+-NA VP6
+50 MG ALU/ALU X 28
+MEDICAMENTO NOVO
+100 MG ALU/ALU X 28
+-Notificação de RDC 73/2016 - NOVO -Indicações
+14/10/2021 4065387213 Alteração de Texto de 16/07/2021 2804926/21-8 - AMPLIAÇÃO DE 04/10/2021 100 MG ALU/ALU X 60
+-Resultados de eficácia
+Bula – publicação no USO
+VPS11 200 MG ALU/ALU X 28
+Bulário RDC 60/12 -Características farmacológicas
+200 MG ALU/ALU X 60
+-Reações adversas
+- Quais os males que este
+VP7
+medicamento pode me causar?
+50 MG ALU/ALU X 28
+MEDICAMENTO NOVO MEDICAMENTO -Resultados de eficácia
+100 MG ALU/ALU X 28
+-Notificação de NOVO - Notificação de
+18/12/2024 1709760/24-9 Alteração de Texto de 18/12/2024 1709760/24-9 Alteração de Texto de 18/12/2024 -Características farmacológicas 100 MG ALU/ALU X 60
+Bula – publicação no Bula – publicação no
+200 MG ALU/ALU X 28
+Bulário RDC 60/12 Bulário RDC 60/12 -Advertências e precauções VPS12
+200 MG ALU/ALU X 60
+Reações adversas
+-O QUE DEVO SABER ANTES
+50 MG ALU/ALU X 28
+DE USAR ESTE MEDICAMENTO?
+MEDICAMENTO MEDICAMENTO VP8
+100 MG ALU/ALU X 28
+NOVO - Notificação de NOVO - Notificação de -DIZERES LEGAIS
+04/02/2025 NA Alteração de Texto de 21/05/2024 0676810/24-1 Alteração de Texto de 24/12/2024 100 MG ALU/ALU X 60
+Bula – publicação no Bula – publicação no -ADVERTÊNCIAS E
+200 MG ALU/ALU X 28
+Bulário RDC 60/12 Bulário RDC 60/12 PRECAUÇÕES
+VPS13
+200 MG ALU/ALU X 60
+-DIZERES LEGAIS
+Entresto® (sacubitril valsartana sódica hidratada) / Comprimidos Revestidos / 50 mg - 100 mg - 200 mg

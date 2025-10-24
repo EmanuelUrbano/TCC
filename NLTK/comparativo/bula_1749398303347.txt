@@ -1,0 +1,138 @@
+INDICAÇÕES Carcinoma de Ovário1
+- Terapia de primeira linha em combinação com um composto de platina para o tratamento do
+carcinoma avançado de ovário.
+- Terapia de segunda linha para o tratamento do carcinoma avançado de ovário.
+Câncer de Mama2
+- Tratamento adjuvante do câncer de mama linfonodo positivo, administrado em sequência a uma
+terapia padrão combinada.
+- Tratamento de primeira linha após recidiva da doença dentro de 6 meses de terapia adjuvante.
+A terapia anterior deve incluir uma antraciclina, a menos que clinicamente contraindicada.
+- Terapia de primeira linha em câncer avançado ou metastático de mama, em combinação com
+trastuzumabe, em pacientes com super expressão do HER-2 em níveis de 2+ e 3+ como
+determinado por imuno-histoquímica.
+- Terapia de segunda linha após falha da quimioterapia combinada para doença metastática. A
+terapia anterior deve incluir uma antraciclina, a menos que clinicamente contraindicada.
+Câncer de Não-pequenas Células do Pulmão3
+1
+EVOTAXEL_P01_01.04.2024_VPS01
+- Tratamento de primeira linha em combinação com um composto de platina ou como agente
+único para o tratamento do câncer de não- pequenas células do pulmão em pacientes que não
+são candidatos à cirurgia e/ou radioterapia com potencial de cura.
+Sarcoma de Kaposi
+- Tratamento de segunda linha no sarcoma de Kaposi relacionado à AIDS4.
+1 CID C56 - Neoplasia maligna do ovário.
+2 CID C50 - Neoplasia maligna da mama.
+3 CID C34 - Neoplasia maligna dos brônquios e dos pulmões.
+4 CID B21.0 - Doença pelo HIV resultando em sarcoma de Kaposi.
+2. RESULTADOS DE EFICÁCIA
+Carcinoma de ovário
+- Terapia de primeira linha: A segurança e eficácia do paclitaxel acompanhado por cisplatina
+em pacientes com carcinoma de ovário avançado e sem quimioterapia prévia foram avaliadas em
+2 estudos FASE III multicêntricos, randomizados e controlados. Em um estudo do
+INTERGRUPO conduzido pela Organização Europeia de Pesquisa e Tratamento de Câncer que
+envolve o Grupo Escandinavo NOCOVA, o Instituto Nacional de Câncer do Canadá e o Grupo
+Escocês, 680 pacientes com estágio da doença II , III ou IV (ressecção ampla ótima ou não
+B-C
+ótima) receberam infusão de paclitaxel 175 mg/m² em um período de 3 horas seguida por
+cisplatina 75 mg/m² (Tc) ou ciclofosfamida 750 mg/m² seguidos por cisplatina 75 mg/m² (Cc) por
+uma mediana de seis ciclos. Embora o protocolo permitisse uma terapia adicional, somente 15%
+dos pacientes receberam ambas as drogas por nove ou mais ciclos. Em um estudo conduzido pelo
+Grupo de Oncologia Ginecológica (GOG), 410 pacientes com Estágio III ou IV da doença (> 1
+cm de doença residual após laparotomia para estadiamento ou metástase à distância) receberam
+infusão de paclitaxel 135 mg/m² num período de 24 horas seguido por cisplatina
+75 mg/m² ou, senão ciclofosfamida 750 mg/m² seguido por cisplatina 75 mg/m² por 6 ciclos.
+Em ambos os estudos, pacientes tratados com paclitaxel em combinação com cisplatina tiveram
+uma taxa de resposta significativamente maior, um tempo maior para progressão e um tempo de
+sobrevida maior, comparado com a terapia padrão. Estas diferenças também foram significativas
+para o subgrupo de pacientes no estudo do Intergrupo com doença não otimamente ressecada,
+embora o estudo não tenha sido totalmente capacitado para análise de subgrupo (Tabelas 1 e 2).
+Tabela 1 - Eficácia em Estudo Fase 3 em Terapia de Primeira Linha para Carcinoma de
+Ovário
+Intergrupo
+Subgrupo de Pacientes com
+GOG-111
+ressecção
+ampla não ótima
+C750a
+T175/3a C750a T135/24a
+c75
+c75 c75 c75
+(n=218) (n=227) (n=196)
+(n=214)
+Resposta Clínicab (n=127)
+(n=153) (n=153) (n=113)
+Taxa (percentual) 48
+58 43 62
+valor de pc
+0,016 0,04
+2
+EVOTAXEL_P01_01.04.2024_VPS01
+Tempo de
+progressão
+mediana (meses) 13,0
+13,2 9,9 16,6
+valor de pc
+0,0060 0,0008
+razão de risco
+(HR)c 0,76 0,70
+95% ICc
+0,62-0,92 0,56-0,86
+Sobrevida
+mediana (meses) 24,2
+29,5 21,9 35,5
+valor de pc
+0,0057 0,0002
+razão de risco
+(HR)c 0,73 0,64
+95% ICc
+0,58-0,91 0,50-0,81
+a Dose de paclitaxel em mg/m²/duração da infusão em horas; Doses de ciclofosfamida e cisplatina
+em mg/m²
+b Pacientes apenas com doenças mensuráveis
+c Não-estratificado para o Estudo do Intergrupo, Estratificado para Estudo GOG-111
+HR - do inglês Hazard Ratio.
+Tabela 2 - Eficácia em Estudo Intergrupo de Fase III em Terapia de Primeira Linha para
+Carcinoma de Ovário
+T175/3a C750a
+c75 c75
+(n=342) (n=338)
+Resposta Clínicab
+(n=162) (n=161)
+taxa (percentual)
+59 45
+valor de pc
+0,014
+Tempo de Progressão
+mediana (meses)
+15,3 11,5
+valor de pc
+0,0005
+razão de risco (HR)c
+0,74
+95% ICc
+0,63-0,88
+Sobrevida
+3
+EVOTAXEL_P01_01.04.2024_VPS01
+mediana (meses)
+35,6 25,9
+valor de pc
+0,0016
+razão de risco (HR)c
+0,73
+95% ICc
+0,60-0,89
+a Dose de paclitaxel em mg/m²/duração da infusão em horas; doses de ciclofosfamida e cisplatina
+em mg/m²
+b Pacientes apenas com doenças mensuráveis
+c Não-estratificado
+O perfil de eventos adversos para os pacientes que receberam paclitaxel, em combinação com
+cisplatina nestes estudos, foi qualitativamente consistente com o que foi observado na análise dos
+dados dos 812 pacientes tratados unicamente com paclitaxel em 10 estudos clínicos.
+- Terapia de segunda linha: Dados de cinco estudos clínicos fase I e II (189 pacientes), um
+estudo de FASE III multicêntrico, randomizado (407 pacientes), assim como a análise dos dados
+de mais de 300 pacientes envolvidos em um programa de tratamento de um centro de referência
+foram usados para sustentar o uso de paclitaxel nos pacientes que tiveram falha inicial ou
+subsequente da quimioterapia para carcinoma de ovário metastático. Dois dos estudos FASE II
+(92 pacientes) utilizaram uma dose inicial de 135 a 170 mg/m² na maioria dos pacientes (> 90%),
+que receberam infusão contínua num período de 24 horas. As taxas de resposta destes dois estudos

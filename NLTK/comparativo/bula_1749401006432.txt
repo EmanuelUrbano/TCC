@@ -1,0 +1,53 @@
+INDICAÇÕES GEFIB® é indicado para o tratamento de pacientes com câncer de pulmão de não-pequenas células (CPNPC) localmente avançado
+ou metastático, que têm mutações de ativação do receptor de fator de crescimento epidérmico tirosina quinase (EGFR).
+2. RESULTADOS DE EFICÁCIA
+Estudo IPASS1
+Em um estudo clínico fase III conduzido na Ásia com 1217 pacientes com histologia de adenocarcinoma CPNPC avançado (estágio
+IIIB ou IV), ex-fumantes leves (pararam de fumar há mais de 15 anos e fumaram menos que 10 anos) ou que nunca fumaram e que
+não receberam quimioterapia anteriormente, o gefitinibe comprovou ser superior a carboplatina (área sob a curva [AUC] 5,0 ou
+6,0)/paclitaxel (200 mg/m2) em termos de Sobrevida Livre de Progressão (SLP) (Razão de Risco [HR] 0,741; intervalo de confiança
+[IC] 95%: 0,651 a 0,845; p<0,0001), que foi o desfecho primário do estudo. O efeito não foi constante ao longo do tempo, favorecendo
+inicialmente carboplatina/paclitaxel e em seguida favorecendo gefitinibe, direcionado pelas diferenças nos resultados SLP pelo status
+da mutação EGFR. O status da mutação EGFR foi um forte biomarcador preditivo para o efeito de gefitinibe comparado com
+carboplatina/paclitaxel.
+As Taxas de Resposta Objetiva (ORR) foram superiores com gefitinibe (43,0%) versus carboplatina/paclitaxel (32,2%) (Odds Ratio
+[OR] 1,59; IC 95%: 1,25 a 2,01; p=0,0001). Um número significativamente maior de pacientes tratados com gefitinibe apresentou
+uma melhora clínica importante na qualidade de vida (QOL) versus carboplatina/paclitaxel (score total para Avaliação Funcional da
+Terapia do Câncer de Pulmão [FACT-L]; 48% versus 41%, OR 1,34, IC 95% 1,06 a 1,69, p=0,0148; Índice dos Resultados do Estudo
+[TOI] 46% versus 33%, OR 1,78, IC 95% 1,40 a 2,26, p<0,0001). Proporções similares de pacientes em ambos os tratamentos
+apresentaram uma melhora nos sintomas de câncer de pulmão (FACT-L Subescala de Câncer de Pulmão [LCS]) de 52% para gefitinibe
+versus 49% para carboplatina/paclitaxel (OR 1,13; IC 95% 0,90 a 1,42; p=0,3037).
+Análises exploratórias pré-planejadas foram conduzidas nos dados de biomarcadores durante a análise primária. Um total de 437
+pacientes tiveram os dados avaliados para análise de mutação do EGFR. A Sobrevida Livre de Progressão (SLP) foi significativamente
+maior para gefitinibe do que para carboplatina/paclitaxel em pacientes com mutação positiva EGFR (n=261, HR 0,48, IC 95% 0,36 a
+0,64, p<0,0001), e significativamente maior para carboplatina/paclitaxel do que para gefitinibe em pacientes com mutação negativa
+do EGFR (n=176, HR 2,85, IC 95% 2,05 a 3,98, p<0,0001). Os pacientes foram considerados com mutação positiva do EGFR se uma
+das 29 mutações do EGFR fossem detectadas pelo Sistema de Amplificação Refratária de Mutação (ARMS) usando kit de detecção
+de mutação EGFR 29 DxS. Os pacientes foram considerados com mutação negativa do EGFR se as amostras fossem analisadas com
+sucesso e nenhuma das mutações do EGFR 29 fossem detectadas. Resultados de SLP no subgrupo com status de mutação do EGFR
+desconhecido (HR com gefitinibe, 0,68, IC 95% 0,58 a 0,81, p˂0,0001) foram similares aos da população geral.
+Em pacientes com mutação positiva do EGFR, ORR foi superior para gefitinibe (71,2%) versus carboplatina/paclitaxel (47,3%) (OR
+2,751, IC 95% 1,646 a 4,596, p=0,0001). Em pacientes com mutação negativa do EGFR, ORR foi superior para carboplatina/paclitaxel
+(23,5%) versus gefitinibe (1,1%) (OR 0,036, IC 95% 0,005 a 0,273, p=0,0013).
+Em pacientes com mutação positiva do EGFR, um número significativamente maior de pacientes tratados com gefitinibe apresentou
+uma melhora na qualidade de vida e nos sintomas de câncer de pulmão versus carboplatina/paclitaxel (score total FACT-L; 70,2%
+versus 44,5%, p<0,0001) (TOI 70,2% versus 38,3%, p<0,0001) (LCS 75,6% versus 53,9%, p=0,0003). Em pacientes com mutação
+negativa do EGFR, um número significativamente maior de pacientes tratados com carboplatina/paclitaxel apresentou uma melhora
+na qualidade de vida e nos sintomas de câncer de pulmão versus gefitinibe (score total FACT-L; 36,3% versus 14,6%, p=0,0021) (TOI
+28,8% versus 12,4%, p=0,0111), (LCS 47,5% versus 20,2%, p=0,0002).
+Uma análise da sobrevida global (SG) foi realizada após 954 mortes (maturidade de 78%), que demonstrou não haver diferença
+estatisticamente significativa em SG para gefitinibe versus carboplatina/paclitaxel na população total do estudo (HR 0,901, IC 95%
+0,793 a 1,023, p=0,1087). SG mediana: gefitinibe, 18,8 meses, carboplatina/paclitaxel, 17,4 meses.
+As análises de subgrupo da SG por status de mutação do EGFR não mostraram diferença significativa na SG para gefitinibe versus
+carboplatina/paclitaxel no subgrupo de pacientes sabidamente com tumores com mutação positiva (HR 1,002, IC 95% 0,756 a 1,328;
+SG mediana 21,6 meses vs. 21,9 meses) ou negativa (HR 1,181, IC 95% 0,857 a 1,628; SG mediana 11,2 meses versus 12,7 meses).
+Os resultados SG no subgrupo de pacientes com status de mutação desconhecido (HR 0,818, IC 95% 0,696 a 0,962; SG mediana 18,9
+meses versus 17,2 meses) foi consistente com a população geral.
+No estudo IPASS, gefitinibe demonstrou SLP, ORR, qualidade de vida e alívio dos sintomas superiores, sem diferença significativa
+na sobrevida global em comparação com carboplatina/paclitaxel em pacientes não tratados previamente, com CPNPC localmente
+avançado ou metastático, cujos tumores abrigaram mutações ativadoras da tirosina quinase EGFR.
+Estudo INTEREST2
+Em um estudo clínico fase III com 1466 pacientes com câncer de pulmão de não-pequenas células (CPNPC) localmente avançado ou
+metastático, que tinham recebido previamente quimioterapia à base de platina e eram elegíveis para quimioterapia, gefitinibe provou
+ser não-inferior ao docetaxel (75 mg/m2) em termos de sobrevida global (Razão de risco [HR]=1,020, intervalo de confiança [IC]
+96%: 0,905 a 1,150 [IC completamente abaixo do limite de não-inferioridade de 1.154], mediana de 7,6 versus 8,0 meses).

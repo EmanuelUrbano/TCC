@@ -1,0 +1,2072 @@
+Eliquis®
+Pfizer Brasil Ltda.
+Comprimido Revestido
+2,5 mg e 5 mg
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+Nome comercial: Eliquis®
+Nome genérico: apixabana
+APRESENTAÇÕES
+Eliquis® (apixabana) é apresentado na forma farmacêutica de comprimidos revestidos de 2,5 mg ou 5 mg em
+embalagens contendo 20 ou 60 comprimidos.
+USO ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada comprimido revestido de Eliquis® contém o equivalente a 2,5 mg ou 5 mg de apixabana.
+Excipientes: lactose anidra, celulose microcristalina, croscarmelose sódica, laurilsulfato de sódio, estearato de
+magnésio, hipromelose, lactose monoidratada, dióxido de titânio, triacetina, óxido férrico (amarelo) para
+comprimidos de 2,5 mg ou óxido férrico (vermelho) para comprimidos de 5 mg.
+Cada comprimido revestido de Eliquis® 2,5 mg contém 51 mg de lactose.
+Cada comprimido revestido de Eliquis® 5 mg contém 103 mg de lactose.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 1
+03/Set/2024
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Eliquis® (apixabana) comprimidos revestidos é indicado para:
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+Prevenção de eventos de tromboembolismo venoso (TEV) em pacientes adultos que foram submetidos à
+artroplastia eletiva de quadril ou de joelho.
+Prevenção de AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular
+Redução do risco de acidente vascular cerebral (AVC), embolia sistêmica e óbito em pacientes com fibrilação
+atrial não valvular.
+Tratamento de tromboembolismo venoso
+Tratamento da trombose venosa profunda (TVP) e embolia pulmonar (EP).
+Prevenção da TVP e EP recorrentes.
+2. RESULTADOS DE EFICÁCIA
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+O programa clínico de apixabana foi desenhado para demonstrar a eficácia e segurança de apixabana na
+prevenção de eventos de tromboembolismo venoso (TEV) em uma ampla gama de pacientes adultos submetidos
+à artroplastia eletiva de quadril ou de joelho. Um total de 8.464 pacientes foram randomizados em dois estudos
+multinacionais, duplo-cegos, pivotais, comparando a apixabana 2,5 mg administrado por via oral duas vezes ao
+dia com a enoxaparina 40 mg uma vez ao dia. Incluídos neste total, 1.262 pacientes tinham 75 anos ou mais,
+1.004 pacientes tinham baixo peso corporal (≤ 60 kg), 1.495 pacientes com IMC (índice de massa corporal) ≥ 33
+kg/m2 e 437 pacientes com insuficiência renal grave ou moderada. O estudo ADVANCE-3 incluiu 5.407
+pacientes submetidos à artroplastia eletiva de quadril, e o estudo ADVANCE-2 incluiu 3.057 pacientes
+submetidos à artroplastia eletiva de joelho. Os indivíduos receberam 2,5 mg de apixabana duas vezes ao dia por
+via oral ou 40 mg de enoxaparina uma vez ao dia por via subcutânea. A primeira dose da apixabana foi
+administrada 12 a 24 horas após a cirurgia, enquanto que a enoxaparina foi iniciada 9 a 15 horas antes da
+cirurgia. Tanto a apixabana quanto a enoxaparina foram administradas por 32-38 dias no estudo ADVANCE-3 e
+por 10-14 dias no estudo ADVANCE-2.
+A apixabana demonstrou uma redução estatisticamente superior no desfecho primário (uma combinação de todos
+os eventos de TEV e óbito por qualquer causa), e no desfecho de evento importante de TEV (uma combinação
+de trombose venosa profunda [TVP] proximal, embolia pulmonar [EP] não fatal e óbito relacionado com os
+eventos de TEV), em comparação com a enoxaparina em ambos os casos de artroplastia eletiva de quadril ou de
+joelho (vide Tabela 1).
+Tabela 1: Resultados de eficácia em estudos pivotais fase III
+Estudo ADVANCE-3 (quadril) ADVANCE-2 (joelho)
+Tratamento do estudo apixabana enoxaparina valor-p apixabana enoxaparina valor-p
+Dose 2,5 mg via 40 mg via 2,5 mg via 40 mg via
+oral, 2x dia subcutânea, oral, 2x dia subcutânea,
+1x dia 1x dia
+Duração do 35 ± 3 dias 35 ± 3 dias 12 ± 2 dias 12 ± 2 dias
+tratamento
+Todos os eventos de TEV/óbito por qualquer causa
+Número de 27/1949 74/1917 147/976 243/997
+eventos/indivíduos
+< <
+Taxa de eventos 1,39% 3,86% 15,06% 24,37%
+0,0001 0,0001
+Risco relativo 0,36 0,62
+IC 95% (0,22; 0,54) (0,51; 0,74)
+Evento importante de TEV
+Número de 10/2199 25/2195 13/1195 26/1199
+eventos/indivíduos
+0,0107 0,0373
+Taxa de eventos 0,45% 1,14% 1,09% 2,17%
+Risco relativo 0,40 0,50
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 2
+03/Set/2024
+IC 95% (0,15; 0,80) (0,26; 0,97)
+Os desfechos de segurança de sangramento maior, e a composição de sangramento maior e sangramento não
+maior clinicamente relevante (CRNMB), e de todos os sangramentos, apresentaram taxas semelhantes entre os
+pacientes tratados com 2,5 mg de apixabana quando comparados com a administração de 40 mg de enoxaparina
+(vide Tabela 2). Todos os critérios de sangramento incluíram sangramento no local da cirurgia.
+Em ambos os estudos de Fase III, o sangramento foi avaliado no início com a primeira dose do estudo duplo-
+cego, que administrou enoxaparina ou placebo injetável, 9 a 15 horas antes da cirurgia. Sangramento durante o
+período de tratamento incluiu eventos que ocorreram antes da primeira dose de apixabana, que foi dada 12-24
+horas após a cirurgia. Sangramento durante o período de tratamento pós-cirúrgico incluiu apenas os eventos que
+ocorreram após a primeira dose do medicamento do estudo após a cirurgia. Mais de metade dos relatos de
+sangramento maior no grupo da apixabana ocorreu antes da primeira dose de apixabana. A Tabela 2 mostra os
+resultados de sangramento do período de tratamento e do período de tratamento pós-cirúrgico.
+Tabela 2: Resultados de sangramento dos estudos pivotais fase III*
+ADVANCE-3 ADVANCE-2
+apixabana enoxaparina apixabana enoxaparina
+2,5 mg via oral, 2x 40 mg via 2,5 mg via oral, 2x 40 mg via
+dia subcutânea, 1x dia dia subcutânea, 1x dia
+35 ± 3 dias 35 ± 3 dias 12 ± 2 dias 12 ± 2 dias
+Total tratado n = 2.673 n = 2.659 n = 1.501 n = 1.508
+Durante o período de tratamento
+Grave 22 (0,8%) 18 (0,7%) 9 (0,6%) 14 (0,9%)
+Fatal 0 0 0 0
+Grave + CRNMB 129 (4,8%) 134 (5,0%) 53 (3,5%) 72 (4,8%)
+Total 313 (11,7%) 334 (12,6%) 104 (6,9%) 126 (8,4%)
+Durante o período de tratamento no pós-cirúrgico
+Grave 9 (0,3%) 11 (0,4%) 4 (0,3%) 9 (0,6%)
+Fatal 0 0 0 0
+Grave + CRNMB 96 (3,6%) 115 (4,3%) 41 (2,7%) 56 (3,7%)
+Total 261 (9,8%) 293 (11,0%) 89 (5,9%) 103 (6,8%)
+* todos os critérios de sangramento incluindo sangramento no local da cirurgia
+CRNMB = sangramento não maior clinicamente relevante
+Prevenção de AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular
+O programa clínico foi desenhado para demonstrar a eficácia e a segurança de apixabana na prevenção de
+acidente vascular cerebral (AVC) e embolia sistêmica em pacientes indicados para uso de AVK (antagonistas da
+vitamina K) (ARISTOTLE) e em pacientes não indicados para AVK (AVERROES). Ambos os estudos foram
+estudos controlados com ativo (versus varfarina no estudo ARISTOTLE e versus AAS [ácido acetilsalicílico] no
+estudo AVERROES), randomizados, duplo-cegos, de braços paralelos, multinacionais, em pacientes com
+fibrilação atrial (AF) não valvular, persistente, paroxística ou permanente ou flutter atrial (AFI) e um ou mais
+dos seguintes fatores de risco adicionais:
+ AVC ou ataque isquêmico transitório (AIT) prévio (também embolia sistêmica prévia no estudo
+ARISTOTLE)
+ Idade ≥ 75 anos
+ Hipertensão arterial que necessita de tratamento
+ Diabetes mellitus
+ Insuficiência cardíaca ≥ Classe 2 da New York Heart Association
+ Fração de ejeção ventricular esquerda reduzida (LVEF)
+ Doença arterial periférica documentada (somente estudo AVERROES)
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 3
+03/Set/2024
+Tabela 3: Características demográficas dos pacientes nos estudos clínicos
+ARISTOTLE AVERROES
+Indivíduos randomizados 18.201 5.598
+Média da idade 69,1 69,9
+≥ 65 anos 69,9% 69,3%
+≥ 75 anos 31,2% 33,8%
+Sexo
+Masculino 64,7% 58,5%
+Feminino 35,3% 41,5%
+Raça
+Branca/Caucasiana 82,6% 78,6%
+Asiática 14,5% 19,4%
+Negra/Afro-americana 1,2% 0,6%
+AVC ou AIT prévio 18,6% 13,6%
+Hipertensão 87,4% 86,4%
+Diabetes 25,0% 19,6%
+Insuficiência cardíaca (ou LVEF ≤ 40%) 35,4% (ou LVEF ≤ 35%) 33,7%
+Escore CHADS médio 2,1 2,0
+2
+CHADS ≤ 1 34,0% 38,3%
+2
+CHADS = 2 35,8% 35,2%
+2
+CHADS ≥ 3 30,2% 26,5%
+2
+CHADS – Estimativa de escore de risco de AVC utilizado para avaliar indicação de uso de anticoagulação em
+pacientes portadores de FA
+Estudo ARISTOTLE: Os pacientes foram randomizados para o tratamento com 5 mg de apixabana duas vezes
+ao dia (ou 2,5 mg duas vezes ao dia em pacientes selecionados, 4,7%) ou varfarina (faixa alvo de RNI [razão
+normalizada internacional] de 2,0-3,0) e foram acompanhados por uma mediana de 89,86 semanas para
+apixabana e 87,79 semanas para varfarina. A dose de 2,5 mg de apixabana duas vezes ao dia foi designada para
+pacientes com pelo menos 2 das seguintes características: idade ≥ 80 anos, peso corporal ≤ 60 kg ou creatinina
+sérica ≥ 1,5 mg/dL (133 micromoles/L). 43% foram virgens de tratamento AVK, definido como não tendo
+recebido previamente ou tendo recebido durante ≤ 30 dias consecutivos tratamento com varfarina ou outro AVK.
+Doença arterial coronariana estava presente em 33,2% dos pacientes.
+Para pacientes randomizados para varfarina, o percentual de tempo mediano na faixa terapêutica (RNI de 2-3) foi
+de 66%.
+O objetivo principal do estudo foi determinar se 5 mg de apixabana duas vezes ao dia (ou 2,5 mg duas vezes ao
+dia em pacientes selecionados) foi não inferior a varfarina na prevenção de AVC (isquêmico, hemorrágico ou
+não especificado) e embolia sistêmica. Avaliações de superioridade de apixabana versus varfarina também foram
+pré-especificadas para o desfecho primário e para óbito por qualquer causa.
+Os desfechos chave do estudo foram pré-especificados e testados de modo sequencial, hierárquico para manter o
+erro tipo 1 geral. A apixabana foi testada em comparação com varfarina para: (1) não inferioridade no desfecho
+composto de AVC e embolia sistêmica, (2) superioridade no desfecho composto de AVC e embolia sistêmica,
+(3) superioridade em sangramento maior e (4) superioridade em óbito por qualquer causa.
+No estudo, apixabana alcançou superioridade estatisticamente significativa no desfecho primário de prevenção
+de AVC (hemorrágico ou isquêmico) e embolia sistêmica (veja Tabela 4 e Figura 1). Também foi alcançada
+superioridade estatisticamente significativa em óbito por qualquer causa (veja Tabela 4), reduções numéricas
+foram observadas para óbitos por causa cardiovascular e não cardiovascular.
+A apixabana reduziu a incidência de AVCs comparado com varfarina dentro de cada categoria de gravidade,
+incluindo os menos graves (escore Rankin 0 a 2, HR = 0,89 [IC = 0,64; 1,26] e os AVCs clinicamente
+importantes, fatais ou incapacitantes (escore Rankin 3 a 6, HR = 0,71 [IC = 0,54; 0,94]. A redução na incidência
+de AVCs e embolias sistêmicas foi observada independentemente do risco de AVC na entrada classificado pelo
+escore CHADS .
+2
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 4
+03/Set/2024
+Tabela 4: Desfechos chave de eficácia em pacientes com fibrilação atrial no estudo ARISTOTLE
+apixabana varfarina Índice de risco
+N=9.120 N=9.081 (IC 95%) Valor-p
+n (%/ano) n (%/ano)
+AVC ou embolia 212 (1,27) 265 (1,60) 0,79 (0,66; 0,95) 0,0114
+sistêmica *
+AVC
+Isquêmico ou 162 (0,97) 175 (1,05) 0,92 (0,74; 1,13)
+não
+determinado
+Hemorrágico 40 (0,24) 78 (0,47) 0,51 (0,35; 0,75)
+Embolia 15 (0,09) 17 (0,10) 0,87 (0,44; 1,75)
+sistêmica
+Óbitos por qualquer 603 (3,52) 669 (3,94) 0,89 (0,80; 1,00) 0,0465
+causa*†
+* Avaliado por estratégia sequencial de testes para superioridade desenhada para controlar o erro tipo I geral no
+ensaio.
+† Desfecho secundário.
+Eventos associados com cada desfecho foram contados uma vez por indivíduo, mas os indivíduos podem ter
+contribuído para múltiplos desfechos.
+A taxa de infarto do miocárdio foi semelhante entre os grupos de tratamento de apixabana e de varfarina
+(0,53%/ano e 0,61%/ano, respectivamente).
+Figura 1: Estimativa da curva de Kaplan-Meier de tempo para a ocorrência do primeiro AVC ou embolia
+sistêmica no estudo ARISTOTLE
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 5
+03/Set/2024
+ailobme/CVA
+moc
+soudívidni
+ed
+oãçroporP
+acimêtsis
+Tempo até AVC/embolia sistêmica (meses)
+Número de indivíduos em risco
+Apixabana 9.120 8.726 8.440 6.051 3.464 1.754 600
+Varfarina 9.081 8.620 8.301 5.972 3.405 1.768 572
+Os centros foram classificados post-hoc pelo percentual de tempo durante o qual pacientes tratados com
+varfarina estavam dentro da faixa terapêutica (RNI 2-3). Os achados de AVC/embolia sistêmica, sangramentos
+maiores e óbito por qualquer causa são mostrados na Tabela 5 para centros abaixo e acima do nível mediano de
+controle de RNI. Os benefícios de apixabana em relação a varfarina foram consistentes em pacientes alocados
+em centros com RNI abaixo ou acima da mediana.
+Tabela 5: Controle de RNI por centro no estudo ARISTOTLE
+Centros com controle de RNI Centros com controle de RNI
+abaixo da mediana de 66% acima da mediana de 66%
+Índice de risco (IC 95%) Índice de risco (IC 95%)
+AVC/embolia sistêmica 0,78 (0,62; 0,98) 0,81 (0,61; 1,08)
+Sangramento maior 0,56 (0,45; 0,70) 0,82 (0,68; 1,00)
+Óbito por qualquer causa 0,86 (0,74; 1,00) 0,93 (0,79; 1,10)
+IC: Intervalo de Confiança
+Estudo AVERROES: Os pacientes foram randomizados para tratamento com 5 mg de apixabana por via oral
+duas vezes ao dia (ou 2,5 mg duas vezes ao dia em pacientes selecionados, 6,4%) ou 81 a 324 mg de AAS uma
+vez ao dia. A seleção da dose de AAS de 81, 162, 243 ou 324 mg foi a critério do investigador, com 90,5% dos
+indivíduos recebendo uma dose de 81 mg (64,3%) ou de 162 mg (26,2%) na randomização.
+No estudo, o tratamento com AVK tinha sido tentado, mas descontinuado em 40% dos pacientes antes da
+inclusão. As razões comuns para inadequação para o tratamento com AVK no estudo AVERROES incluíram
+incapaz/improvável de obter RNIs nos intervalos exigidos (42,6%), recusa do tratamento com AVK (37,4%),
+escore CHADS = 1 e não recomendação do tratamento com AVK pelo médico (21,3%), não se podia contar
+2
+com o paciente para aderir à instrução da medicação de AVK (15,0%) e dificuldade/dificuldade esperada para
+contatar o paciente em caso de mudança de dose urgente (11,7%).
+O objetivo principal do estudo foi determinar se 5 mg de apixabana duas vezes ao dia (2,5 mg duas vezes ao dia
+em pacientes selecionados) foi superior a AAS (81-324 mg uma vez ao dia) na prevenção do desfecho composto
+de AVC ou embolia sistêmica. Avaliações de superioridade de apixabana versus AAS também foram pré-
+especificadas para eventos vasculares maiores (desfecho composto de AVC, embolia sistêmica, infarto do
+miocárdio ou óbito vascular) e para óbito por qualquer causa.
+AVERROES foi interrompido precocemente de acordo com a recomendação da Comissão Independente de
+Monitoramento de Dados, que observou em uma análise intermediária predefinida evidências claras que
+apixabana proporcionou uma redução importante de AVCs e embolias sistêmicas e um perfil de segurança
+aceitável.
+No estudo, apixabana demonstrou superioridade estatisticamente significativa no desfecho primário de
+prevenção de AVC (hemorrágico ou isquêmico) e embolia sistêmica (veja Tabela 6 e Figura 2). Uma redução
+clinicamente importante foi observada no desfecho composto secundário de AVC, embolia sistêmica, infarto do
+miocárdio ou óbito vascular (veja Tabela 6).
+A apixabana reduziu a incidência de AVCs comparado com AAS dentro de cada categoria de gravidade do AVC
+(escore modificado de Rankin 0 a 2, HR = 0,51 [IC = 0,29; 0,91]; escore modificado de Rankin 3 a 6, HR = 0,43
+[IC = 0,28; 0,65]. A redução na incidência de AVCs foi independente do risco de AVC na inclusão, como
+classificado pelo escore CHADS .
+2
+A apixabana também reduziu a incidência de hospitalizações cardiovasculares em relação a AAS (HR = 0,79, IC
+= 0,69; 0,91).
+Tabela 6: Desfechos chave de eficácia em pacientes com fibrilação atrial no estudo AVERROES
+apixabana AAS
+Índice de risco
+N=2807 N=2791
+(95% IC) Valor-p
+n (%/ano) n (%/ano)
+AVC ou embolia sistêmica* 51 (1,62) 113 (3,63) 0,45 (0,32; 0,62) < 0,0001
+AVC
+Isquêmico ou não determinado 43 (1,37) 97 (3,11) 0,44 (0,31; 0,63)
+Hemorrágico 6 (0,19) 9 (0,28) 0,67 (0,24; 1,88)
+Embolia sistêmica 2 (0,06) 13 (0,41) 0,15 (0,03; 0,68)
+AVC, embolia sistêmica, infarto do 132 (4,21) 197 (6,35) 0,66 (0,53; 0,83) 0,003
+miocárdio ou óbito vascular *†
+Infarto do miocárdio 24 (0,76) 28 (0,89) 0,86 (0,50; 1,48)
+Óbito vascular 84 (2,65) 96 (3,03) 0,87 (0,65; 1,17)
+Óbito por qualquer causa*† 111 (3,51) 140 (4,42) 0,79 (0,62; 1,02) 0,068
+* Avaliado por estratégia sequencial de testes desenhada para controlar o erro tipo I geral no ensaio.
+† Desfecho secundário.
+Eventos associados com cada desfecho foram contados uma vez por indivíduo, mas os indivíduos podem ter
+contribuído para múltiplos desfechos.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 6
+03/Set/2024
+Figura 2: Estimativa da curva de Kaplan-Meier de tempo para a ocorrência do primeiro AVC ou embolia
+sistêmica no estudo AVERROES
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 7
+03/Set/2024
+ailobme/CVA
+moc
+soudívidni
+ed
+oãçroporP
+acimêtsis
+Dias desde a randomização
+Número de indivíduos em risco
+Apixabana 2.807 2.773 2.589 2.141 1.564 1.099 651 349 136 40
+AAS 2.791 2.725 2.547 2.129 1.588 1.100 662 324 124 33
+Sangramento em pacientes com fibrilação atrial
+Nos estudos ARISTOTLE e AVERROES, o desfecho primário de segurança foi sangramento maior, que foi
+definido como sangramento manifesto clinicamente agudo acompanhado de um ou mais dos seguintes critérios:
+uma redução de hemoglobina de 2 g/dL ou mais; uma transfusão de 2 ou mais unidades de concentrado de
+hemácias; sangramento que ocorreu em pelo menos um dos seguintes locais críticos: intracraniano, intraespinhal,
+intraocular, pericárdico, intra-articular, intramuscular com síndrome do compartimento, retroperitoneal;
+sangramento fatal. Hemorragia intracraniana incluiu sangramentos intracerebrais (incluindo AVC hemorrágico),
+subaracnoides e subdurais.
+Sangramento não maior clinicamente relevante (CRNMB) foi definido como sangramento manifesto
+clinicamente agudo que não satisfaz nenhum critério adicional para que o evento de sangramento seja definido
+como sangramento maior e atende a pelo menos um dos seguintes critérios: internação hospitalar pelo
+sangramento; tratamento médico ou cirúrgico do sangramento orientado por médico; mudança do tratamento
+antitrombótico (anticoagulante ou antiplaquetário).
+Estudo ARISTOTLE: Houve uma redução estatisticamente superior na incidência de sangramento maior
+conforme critérios ISTH (International Society on Thrombosis and Haemostasis) entre os grupos de tratamento
+de apixabana e de varfarina (veja Tabela 7). Também houve uma redução substancial na incidência de
+sangramento ISTH maior + CRNMB e todos os sangramentos.
+Tabela 7: Eventos de sangramento em pacientes com fibrilação atrial no estudo ARISTOTLE
+apixabana varfarina
+Índice de risco
+N=9.088 N=9.052 Valor-p
+(IC 95%)
+n (%/ano) n (%/ano)
+Maior* 327 (2,13) 462 (3,09) 0,69 (0,60; 0,80) < 0,0001
+Fatal 10 (0,06) 37 (0,24)
+Intracraniano 52 (0,33) 122 (0,80)
+Maior + CRNMB 613 (4,07) 877 (6,01) 0,68 (0,61; 0,75) < 0,0001
+Todos 2.356 (18,1) 3.060 (25,8) 0,71 (0,68; 0,75) < 0,0001
+* Avaliado por estratégia sequencial de testes desenhada para controlar o erro tipo I geral no ensaio.
+Eventos associados com cada desfecho foram contados uma vez por indivíduo, mas os indivíduos podem ter
+contribuído para múltiplos desfechos.
+Hemorragia intracraniana foi reduzida em > 50% com apixabana. Sangramentos graves e/ou maiores de acordo
+com os critérios GUSTO (Global Use of Strategies to Open Occluded Coronary Arteries) e TIMI (Thrombolysis
+in Myocardial Infarction) foram reduzidos > 40% com apixabana. Sangramento fatal foi reduzido em > 70%
+com apixabana.
+Descontinuação do tratamento por causa de reações adversas relacionadas a sangramento ocorreu em 1,7% e
+2,5% dos pacientes tratados com apixabana e varfarina, respectivamente.
+A incidência de sangramentos gastrintestinais maiores – critérios ISTH – (incluindo sangramento gastrintestinal
+superior, gastrintestinal inferior e retal) foi menor com apixabana (0,76%/ano) comparado com varfarina
+(0,86%/ano).
+A incidência de sangramento intraocular maior – critérios ISTH – foi maior com apixabana (0,18%/ano)
+comparado com varfarina (0,13%/ano).
+Estudo AVERROES: Houve um aumento na incidência de sangramento maior entre o grupo de tratamento com
+apixabana e o grupo de tratamento com AAS que não foi estatisticamente significativo (veja Tabela 8). A
+frequência de sangramento fatal e intracraniano foi semelhante nos 2 grupos de tratamento.
+Tabela 8: Eventos de sangramento em pacientes com fibrilação atrial no estudo AVERROES
+apixabana AAS
+Índice de risco
+N=2.798 N=2.780 Valor-p
+(IC 95%)
+n (%/ano) n (%/ano)
+Maior 45 (1,41) 29 (0,92) 1,54 (0,96; 2,45) 0,0716
+Fatal 5 (0,16) 5 (0,16)
+Intracraniano 11 (0,34) 11 (0,35)
+Maior + CRNMB 140 (4,46) 101 (3,24) 1,38 (1,07; 1,78) 0,0144
+Todos 325 (10,85) 250 (8,32) 1,30 (1,10; 1,53) 0,0017
+Eventos associados com cada desfecho foram contados uma vez por indivíduo, mas os indivíduos podem ter
+contribuído para múltiplos desfechos.
+Descontinuação do tratamento por causa de reações adversas relacionadas ao sangramento ocorreram em 1,5% e
+1,3% dos pacientes tratados com apixabana e com AAS, respectivamente.
+Análise de sub-populações
+No estudo ARISTOTLE, os resultados para o desfecho primário de eficácia e os resultados de sangramento
+maior foram geralmente consistentes em todos os subgrupos, incluindo idade, peso, escore CHADS , em
+2
+pacientes que não haviam utilizado varfarina antes, grau de insuficiência renal, designação para dose reduzida de
+apixabana e pacientes que usavam AAS na randomização (veja Figura 3).
+De modo semelhante, no estudo AVERROES, os resultados para o desfecho primário de eficácia e os resultados
+de sangramento maior foram consistentes em todos os subgrupos maiores, incluindo idade, escores CHADS ,
+2
+grau de insuficiência renal e uso ou recusa prévio de AVK (veja Figura 4).
+Notadamente, nos dois estudos, os resultados de eficácia e segurança nos pacientes idosos (incluindo aqueles
+com ≥ 75 anos) foram consistentes com a população em geral.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 8
+03/Set/2024
+Figura 3: Taxas de risco de ocorrência de AVC e embolia sistêmica (A) e sangramento (B) em relação às
+características basais dos grupos – ARISTOTLE
+A. Desfecho primário de eficácia: AVC e embolia sistêmica
+Subgrupo N° de apixabana varfarina Índice de risco com IC Valor-p
+pacientes n°eventos (% por ano) 95% para
+interação
+Todos pacientes 18.201 212 (1,27) 265 (1,60) 0,39
+varfarina/AVK prévio
+Experiente 10.401 102 (1,1) 138 (1,5)
+Virgem 7.800 110 (1,5) 127 (1,8)
+Idade 0,12
+< 65 anos 5.471 51 (1,0) 44 (0,9)
+≥ 65 anos 7.052 82 (1,3) 112 (1,7)
+≥ 75 anos 5.678 79 (1,6) 109 (2,2)
+Sexo 0,60
+Masculino 11.785 132 (1,2) 160 (1,5)
+Feminino 6.416 80 (1,4) 105 (1,8)
+Peso 0,26
+≤ 60 kg 1.985 34 (2,0) 52 (3,2)
+> 60 kg 16.154 177 (1,2) 212 (1,4)
+Tipo de fibrilação atrial 0,70
+Permanente/persistente 15.142 191 (1,4) 235 (1,7)
+Paroxística 2.786 21 (0,8) 30 (1,1)
+AVC ou AIT anterior 0,71
+Sim 3.436 73 (2,5) 98(3,2)
+Não 14.765 139 (1,0) 167 (1,2)
+Diabetes mellitus 0,71
+Sim 4.347 57 (1,4) 75 (1,9)
+Não 13.654 155 (1,2) 190 (1,5)
+Insuficiência cardíaca 0,50
+Sim 5.541 70 (1,4) 79 (1,6)
+Não 12.660 142 (1,2) 186 (1,6)
+Escore CHADS 0,45
+≤ 1 6.183 44 (0,7) 51 (0,9)
+= 2 6.516 74 (1,2) 82 (1,4)
+≥ 3 5.502 94 (1,9) 132 (2,8)
+Grau de insuficiência renal 0,72
+Grave ou moderada 3.017 54 (2,1) 69 (2,7)
+Leve 7.587 87 (1,2) 116 (1,7)
+Normal 7.518 70 (1,0) 79 (1,1)
+Dose de apixabana 0,22
+2,5 mg 2x dia ou 831 12 (1,7) 22 (3,3)
+placebo
+5 mg 2x dia ou placebo 17.370 200 (1,3) 243 (1,5)
+Região geográfica 0,44
+América do Norte 4.474 42 (1,0) 56 (1,3)
+América Latina 3.468 43 (1,4) 52 (1,8)
+Europa 7.343 75 (1,1) 77 (1,1)
+Ásia/Pacífico 2.916 52 (2,0) 80 (3,1)
+AAS na randomização 0,44
+Sim 5.632 70 (1,3) 94 (1,9)
+Não 12.569 142 (1,2) 171 (1,5)
+apixabana varfarina
+melhor melhor
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 9
+03/Set/2024
+B. Sangramento maior
+Subgrupo N° de apixabana varfarina Índice de risco com IC Valor-p
+pacientes n°eventos (% por ano) 95% para
+interação
+Todos pacientes 18.140 327 (2,13) 462 (3,09) 0,50
+varfarina/AVK prévio
+Experiente 10.376 185 (2,1) 274 (3,2)
+Virgem 7764 142 (2,2) 188 (3,0)
+Idade 0,64
+< 65 anos 5.455 56 (1,2) 72 (1,5)
+≥ 65 anos 7.030 120 (2,0) 166 (2,8)
+≥ 75 anos 5.655 151 (3,3) 224 (5,2)
+Sexo 0,08
+Masculino 11.747 225 (2,3) 294 (3,0)
+Feminino 6.393 102 (1,9) 168 (3,3)
+Peso 0,22
+≤ 60 kg 1.978 36 (2,3) 62 (4,3)
+> 60 kg 16.102 290 (2,1) 398 (3,0)
+Tipo de fibrilação atrial 0,75
+Permanente/persistente 15.361 283 (2,2) 402 (3,2)
+Paroxística 2.776 44 (1,9) 60 (2,6)
+AVC ou AIT anterior 0,71
+Sim 3.422 77 (2,8) 106 (3,9)
+Não 14.718 250 (2,0) 356 (2,9)
+Diabetes mellitus 0,003
+Sim 4.526 112 (3,0) 114 (3,1)
+Não 13.614 215 (1,9) 348 (3,1)
+Insuficiência cardíaca 0,30
+Sim 5.527 87 (1,9) 137 (3,1)
+Não 12.613 240 (2,2) 325 (3,1)
+Escore CHADS 0,40
+≤ 1 6.169 75 (1,4) 126 (2,3)
+= 2 6.492 125 (2,3) 163 (3,0)
+≥ 3 5.479 126 (2,9) 173 (4,2)
+Grau de insuficiência renal 0,03
+Grave ou moderada 3.005 72 (3,2) 142 (6,4)
+Leve 7.565 157 (2,5) 199 (3,2)
+Normal 7.496 96 (1,5) 119 (1,8)
+Dose de apixabana 0,21
+2,5 mg 2x dia ou 826 20 (3,3) 37 (6,7)
+placebo
+5 mg 2x dia ou placebo 17.314 307 (2,1) 425 (3,0)
+Região geográfica 0,16
+América do Norte 4.463 106 (2,8) 137 (3,6)
+América Latina 3.460 60 (2,1) 94 (3,5)
+Europa 7.313 110 (1,7) 135 (2,2)
+Ásia/Pacífico 2.904 51 (2,1) 96 (4,1)
+AAS na randomização 0,40
+Sim 5.608 129 (2,7) 164 (3,7)
+Não 12.532 198 (1,9) 298 (2,8)
+apixabana varfarina
+melhor melhor
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 10
+03/Set/2024
+Figura 4: Taxas de risco de ocorrência de AVC e embolia sistêmica (A) e sangramento (B) em relação às
+características basais dos grupos – AVERROES
+A. Desfecho primário de eficácia: AVC e embolia sistêmica
+Subgrupo N° de apixabana AAS Índice de risco com IC Valor-p
+pacientes n°eventos (% por ano) 95% para
+interaçã
+o
+Todos pacientes 5.598 51 (1,62) 113 (3,63)
+varfarina/AVK não adeq. 0,14
+Demonstrado 2.215 17 (1,4) 52 (4,2)
+Esperado 3.383 34 (1,8) 61 (3,3)
+Idade 0,11
+< 65 anos 1.720 7 (0,7) 19 (1,9)
+≥ 65 a < 75 anos 1.987 24 (2,0) 29 (2,8)
+≥ 75 anos 1.891 20 92,0) 65 (6,0)
+Sexo 0,43
+Masculino 3.277 26 (1,4) 49 (2,7)
+Feminino 2.321 25 (1,9) 64 (4,9)
+Peso 0,02
+≤ 60 kg 881 18 (3,9) 20 (4,6)
+> 60 kg 4.715 33 (1,2) 93 (3,5)
+AVC ou AIT anterior 0,18
+Sim 764 10 (2,5) 33 (8,3)
+Não 4.834 41 (1,5) 80 (3,0)
+Diabetes mellitus 0,17
+Sim 1.095 14 (2,4) 22 (3,5)
+Não 4.503 37 (1,4) 91 (3,7)
+Insuficiência cardíaca 0,52
+Sim 1.810 19 (1,8) 35 (3,5)
+Não 3.788 32 (1,5) 78 (3,7)
+Escore CHADS2 0,41
+≤ 1 2.142 12 (1,0) 19 (1,6)
+= 2 1.973 23 (2,0) 43 (4,0)
+≥ 3 1.483 16 (2,1) 51 (6,0)
+Grau de insuficiência 0,31
+renal
+Grave ou moderada 1.084 13 (2,3) 32 (5,6)
+Leve 2.149 22 (1,8) 58 (5,0)
+Normal 1.878 12 (1,1) 16 (1,5)
+Dose de apixabana 0,37
+2,5 mg 2x dia ou 361 3 (1,6) 12 (6,2)
+placebo
+5 mg 2x dia ou 5.237 48 (1,6) 101 (3,5)
+placebo
+Região geográfica 0,09
+América do Norte 804 5 (0,9) 18 (3,4)
+América Latina 1.185 8 (1,3) 31 (5,1)
+Europa 2.507 23 (1,6) 46 (3,2)
+Ásia/Pacífico 1.102 15 (2,9) 18 (3,4)
+apixabana AAS
+melhor melhor
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 11
+03/Set/2024
+B. Sangramento maior
+Subgrupo N° de apixabana AAS Índice de risco com Valor-p
+pacientes n°eventos (% por ano) IC 95% para
+interação
+Todos pacientes 5.578 45 (1,41) 29 (0,92)
+varfarina/AVK não adeq. 0,97
+Demonstrado 2.207 23 (1,8) 15 (1,2)
+Esperado 3.371 22 (1,1) 14 (0,7)
+Idade >0,99
+< 65 anos 1.717 8 (0,8) 5 (0,5)
+≥ 65 a < 75 anos 1.979 11 (0,9) 6 (0,6)
+≥ 75 anos 1.882 26 (2,7) 18 (1,7)
+Sexo 0,59
+Masculino 3.269 27 (1,4) 19 (1,0)
+Feminino 2.309 18 (1,4) 10 (0,8)
+Peso 0,55
+≤ 60 kg 876 9 (1,9) 4 (0,9)
+> 60 kg 4.701 36 (1,3) 25 (0,9)
+AVC ou AIT anterior 0,15
+Sim 763 15 (3,6) 5 (1,2)
+Não 4.815 30 (1,1) 24 (0,9)
+Diabetes mellitus 0,93
+Sim 1.092 10 (1,7) 7 (1,1)
+Não 4.486 35 (1,4) 22 (0,9)
+Insuficiência cardíaca 0,13
+Sim 1.803 13 (1,2) 13 (1,3)
+Não 3.775 32 (1,5) 16 (0,8)
+Escore CHADS2 0,39
+≤ 1 2.133 7 (0,6) 4 (0,3)
+= 2 1.967 15 (1,3) 13 (1,2)
+≥ 3 1.478 23 (3,0) 12 (1,4)
+Grau de insuficiência 0,25
+renal
+Grave ou moderada 1.080 20 (3,5) 9 (1,6)
+Leve 2.140 12 (1,0) 13 (1,1)
+Normal 1.872 8 (0,7) 4 (0,4)
+Dose de apixabana 0,34
+2,5 mg 2x dia ou 360 8 (4,5) 3 (1,6)
+placebo
+5 mg 2x dia ou 3.218 37 (1,2) 26 (0,9)
+placebo
+Região geográfica 0,54
+América do Norte 800 9 (1,8) 5 (1,0)
+América Latina 1.184 9 (1,4) 5 (0,8)
+Europa 2.498 20 (1,4) 10 (0,7)
+Ásia/Pacífico 1.096 7 (1,3) 9 (1,6)
+apixabana AAS
+melhor melhor
+Pacientes com FANV com SCA e/ou submetidos a ICP
+AUGUSTUS, um estudo aberto, fatorial 2 x 2, randomizado e controlado, envolveu 4614 pacientes com FANV
+(fibrilação atrial não valvular) que tiveram SCA (síndrome coronariana aguda) e/ou foram submetidos a ICP
+(intervenção coronária percutânea). Cinquenta e seis por cento foram submetidos a ICP e 43% desenvolveram
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 12
+03/Set/2024
+SCA na inclusão. Todos os pacientes receberam terapia de base com um inibidor de P2Y12 prescrito por padrão
+local de atendimento (90,3% dos pacientes receberam clopidogrel).
+Os pacientes foram randomizados até 14 dias após a SCA e/ou ICP para apixabana 5 mg duas vezes ao dia (2,5
+mg duas vezes ao dia se dois ou mais critérios de redução da dose foram atendidos; 4,2% receberam dose
+ajustada) ou AVK (alvo INR 2,0 a 3,0) e para o AAS (81 mg uma vez por dia) ou placebo. A idade média foi de
+69,9 anos, a mediana do escore CHA2DS2 VASc foi de 4,0 e a mediana do escore HAS-BLED foi de 2,0.
+O desfecho primário de segurança foi sangramento maior ou de sangramento CRNM conforme critérios da
+ISTH. Os desfechos secundários de eficácia foram: (a) morte por todas as causas ou hospitalização por todas as
+causas e (b) morte por todas as causas ou eventos isquêmicos (acidente vascular cerebral, infarto do miocárdio,
+trombose de stent, revascularização coronariana urgente). Esses resultados foram analisados por uma estratégia
+de teste hierárquica.
+Na comparação entre apixabana versus AVK, a apixabana demonstrou superioridade estatisticamente
+significativa no desfecho primário de sangramento maior ou sangramento CRNM conforme critérios ISTH
+adjudicado no sexto mês [HR = 0,69, IC 95%: 0,58, 0,82; 2 lados p <0,0001]. Consulte a Tabela 9 para os
+resultados de segurança primários e dos desfechos de eficácia secundários para a comparação entre apixabana e
+AVK.
+Tabela 9: Resultados no estudo AUGUSTUS - Apixabana vs AVK
+apixabana AVK Razão de Risco Valores de p
+(95% IC) dos dois lados
+Sangramento maior ou CRNM
+conforme critérios ISTH
+N 2290 2259
+Nº de pacientes com evento (%) 241 (10,5) 332 (14,7)
+0,69 (0,58-0,82) <0,0001
+Taxa de eventos por 100 pacientes 24,7 35,8
+- ano
+Morte ou re-hospitalização
+N 2306 2308
+Nº de pacientes com evento (%) 541 (23,5) 632 (27,4)
+0,84 (0,75-0,94) 0,003
+Taxa de eventos por 100 pacientes 57,2 69,2
+- ano
+Morte ou evento isquêmico
+N 2306 2308
+Nº de pacientes com evento (%) 170 (7,4) 182 (7,9)
+0,92 (0,75-1,13) 0,437*
+Taxa de eventos por 100 pacientes 15,9 17,2
+- ano
+Todos os indivíduos receberam um inibidor de P2Y12 com ou sem AAS.
+*valores de p não significativos
+Na comparação AAS versus placebo, AAS aumentou significativamente o risco de sangramento maior ou
+sangramento CRNM conforme critérios ISTH quando adicionado à anticoagulação (apixabana ou AVK) em
+cima do inibidor P2Y12. (HR = 1,88, dois lados p <0,0001). Especificamente, o uso concomitante de AAS
+aumentou o risco de sangramento maior ou CRNM em indivíduos tratados com apixabana de 16,4% por ano
+para 33,1% por ano (HR = 2,00) e aumentou o risco de hemorragia em indivíduos tratados com AVK de 26,1%
+por ano para 48,4% ao ano (HR = 1,80). Consulte as Tabelas 10 e 11 para os resultados de segurança primários e
+dos desfechos de eficácia secundários.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 13
+03/Set/2024
+Tabela 10: Resultados de segurança no estudo AUGUSTUS - AAS vs. Placebo
+Sangramento maior ou CRNM AAS Placebo Razão de risco Valores de p
+conforme critérios ISTH N=2277 N=2277 (95% IC) dos dois lados
+apixabana ou AVK
+Nº de pacientes com evento (%) 367 (16,2) 204 (9,0)
+1,88 (1,58-2,23) <0,0001
+Taxa de eventos por 100 pacientes
+40,5 21,0
+- ano
+apixabana*
+Nº de pacientes com evento (%) 157 (13,7) 83 (7,3)
+2,0 (1,5-2,6) -
+Taxa de eventos por 100 pacientes 33,1 16,4
+- ano
+AVK*
+Nº de paciente com evento (%) 209(18,6) 121(10,8)
+1.8
+-
+Taxa de eventos por 100 pacientes 48,4 26,1
+(1,4-2,3)
+- ano
+Todos os indivíduos receberam um inibidor de P2Y12 e um anticoagulante (apixabana ou AVK)
+*Análise de subgrupo
+Tabela 11: Resultados de eficácia no estudo AUGUSTUS - AAS vs. Placebo
+AAS Placebo Razão de Risco Valores de p
+dos dois lados
+N=2307 N=2307
+Morte ou re-hospitalização
+Nº de pacientes com evento (%) 604 (26,2) 569 (24,7)
+Taxa de eventos por 100 pacientes 1,07 (0,96-1,20) 0,222*
+65,7 60,6
+- ano
+Morte ou evento isquêmico
+Nº de pacientes com evento (%) 163 (7,1) 189 (8,2)
+0,86 (0,70-1,07) 0,174*
+Taxa de eventos por 100 pacientes 15,3 17,7
+- ano
+Todos os indivíduos receberam um inibidor de P2Y12 e um anticoagulante (apixabana ou AVK).
+*valores de p não foram significativos
+Pacientes submetidos à cardioversão
+O EMANATE, um estudo aberto multicêntrico, incluiu 1.500 pacientes pré-tratados ou que não receberam
+tratamento com anticoagulante oral com menos de 48 horas e que foram sujeitos a cardioversão para fibrilação
+atrial não valvular (FANV). Os pacientes foram randomizados 1:1 para apixabana ou para heparina e/ou AVK
+para a prevenção de eventos cardiovasculares. A cardioversão elétrica e/ou farmacológica foi realizada após pelo
+menos 5 doses de 5 mg duas vezes por dia de apixabana [ou 2,5 mg duas vezes por dia em pacientes
+selecionados (ver item 8. Posologia e Modo de Usar)] ou pelo menos 2 horas após uma dose de ataque de 10 mg
+[ou uma dose de ataque de 5 mg em pacientes selecionados (ver item 8. Posologia e Modo de Usar)] se for
+necessária cardioversão. No grupo apixabana, 342 pacientes receberam uma dose de ataque (331 pacientes
+receberam a dose de 10 mg e 11 pacientes receberam a dose de 5 mg).
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 14
+03/Set/2024
+Não houve AVC (0%) no grupo apixabana (n = 753) e houve 6 (0,80%) AVCs no grupo heparina e/ou AVK (n =
+747; RR 0,95% CI 0,00, 0,64) (p-valor nominal = 0.0151). Morte por qualquer causa ocorreu em 2 pacientes
+(0,27%) no grupo apixabana e 1 paciente (0,13%) no grupo heparina e/ou AVK (RR 1,98, 95% CI 0,19, 54,00).
+Não foram relatados eventos de embolismo sistêmico.
+Ocorreram hemorragia grave e eventos hemorrágicos CRNM em 3 (0,41%) e 11 (1,50%) pacientes,
+respectivamente, no grupo apixabana, em comparação com 6 (0,83%) e 13 (1,80%) pacientes no grupo heparina
+e/ou AVK.
+Este estudo exploratório mostrou eficácia e segurança comparáveis entre os grupos de tratamento com apixabana
+e heparina e/ou AVK no cenário da cardioversão.
+Tratamento de tromboembolismo venoso
+O programa clínico foi desenhado para demonstrar a eficácia e a segurança da apixabana para o tratamento de
+trombose venosa profunda (TVP) e embolia pulmonar (EP) (AMPLIFY), e estendeu a terapia para a prevenção
+de TVP e EP recorrentes após 6 a 12 meses de tratamento anticoagulante para TVP e/ou EP (AMPLIFY-EXT).
+Ambos os estudos foram estudos multinacionais, duplo-cegos, randomizados e de grupos paralelos, em pacientes
+com TVP proximal sintomática e/ou EP sintomática. Todos os desfechos de segurança e eficácia foram
+adjudicados por um comitê independente e cego.
+Tabela 12: Características demográficas dos pacientes nos estudos clínicos
+AMPLIFY AMPLIFY-EXT
+Pacientes randomizados 5.395 2.482
+Idade média 56,9 56,7
+> 75 anos 14,3% 13,3%
+Sexo (masculino) 58,7% 57,4%
+Raça
+Branca/Caucasiana 82,7% 85,3%
+Negra/ Afro-americana 3,8% 3,2%
+Asiática 8,4% 4,8%
+Tabela 13: Fatores de risco dos pacientes para TVP/EP nos estudos clínicos
+AMPLIFY AMPLIFY-EXT
+Eventos não provocados 89,8% 91,7%
+Episódio anterior de EP ou TVP proximal 16,2% n/a*
+Imobilização 6,4% 2,8%
+Câncer (ativo) 2,7% 1,7%
+Câncer (histórico) 9,7% 9,2%
+Função renal
+CrCl normal 64,5% 70,1%
+CrCl 50 -  80 mL/min 20,3% 21,6%
+CrCl 30 -  50 mL/min 5,7% 5,3%
+CrCl  30 mL/min 0,5% 0,2%
+Histórico de genótipo pró-trombótico 2,5% 3,8%
+*Todos os pacientes no AMPLIFY-EXT precisavam apresentar um episódio anterior de EP ou TVP proximal
+para entrar no estudo.
+CrCl: clearance de creatinina
+Estudo AMPLIFY: Os pacientes foram randomizados para tratamento com 10 mg de apixabana duas vezes ao
+dia, por via oral, durante 7 dias seguido por 5 mg de apixabana duas vezes ao dia, por via oral, durante 6 meses
+ou enoxaparina 1 mg/kg duas vezes ao dia, por via subcutânea, durante pelo menos 5 dias (até RNI [razão
+normalizada internacional]  2) e varfarina (intervalo de RNI alvo de 2,0-3,0), por via oral, durante 6 meses. Os
+pacientes que necessitaram de trombectomia, inserção de um filtro cava ou uso de um agente fibrinolítico, e
+pacientes com clearance de creatinina < 25 mL/min, doença hepática significativa ou sangramento ativo, foram
+retirados dos estudos. Foi permitido que os pacientes entrassem no estudo com ou sem anticoagulação parenteral
+anterior (até 48 horas).
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 15
+03/Set/2024
+Para os pacientes randomizados para a varfarina, o percentual médio de tempo no intervalo terapêutico (INR 2,0-
+3,0) foi de 60,9.
+O objetivo primário do estudo foi determinar se a apixabana era não inferior à terapia com enoxaparina/varfarina
+no desfecho combinado de eventos de tromboembolismo venoso (TEV) sintomático recorrente e adjudicado
+(TVP não fatal ou EP não fatal) ou óbito relacionado aos eventos de TEV durante 6 meses de terapia.
+No estudo, a apixabana demonstrou ser não inferior à enoxaparina/varfarina no desfecho combinado de eventos
+de TEV sintomático recorrente e adjudicado (TVP não fatal ou EP não fatal) ou óbito relacionado aos eventos de
+TEV (veja Tabela 14).
+Tabela 14: Resultados de eficácia no estudo AMPLIFY
+apixabana enoxaparina/varfarina
+Risco Relativo
+N=2.609 N=2.635
+(IC 95%)
+n(%) n(%)
+TEV ou óbito relacionado a TEV* 59 (2,3) 71 (2,7) 0,84 (0,60; 1,18)
+TVP 20 (0,7) 33 (1,2)
+EP 27 (1,0) 23 (0,9)
+Óbito relacionado a TEV 12 (0,4) 15 (0,6)
+TEV ou óbito por qualquer causa 84 (3,2) 104 (4,0) 0,82 (0,61; 1,08)
+TEV ou óbito relacionado a CV 61 (2,3) 77 (2,9) 0,80 (0,57; 1,11)
+TEV, óbito relacionado a TEVou 73 (2,8) 118 (4,5) 0,62 (0,47; 0,83)
+sangramento maior
+*Não inferior quando comparado com a enoxaparina/varfarina (valor-p < 0,0001)
+CV: causa cardiovascular
+A Figura 5 é um gráfico do tempo da randomização até a ocorrência do primeiro evento do desfecho primário de
+eficácia nos dois grupos de tratamento no estudo AMPLIFY.
+Figura 5: Estimativa de tempo de Kaplan-Meier até a primeira TVP ou EP, ou óbito relacionado aos eventos de
+TEV no estudo AMPLIFY (população com intenção de tratar)
+apixabana (eventos: 59/2.691)
+eno/var (eventos: 71/2.704)
+Tempo para eventos de TEV ou óbito relacionado aos eventos de TEV (dias)
+Número de indivíduos em risco
+Apixabana 2.691 2.606 2.586 2.563 2.541 2.523 62 4 1 0 0
+enoxaparina/varfarina 2.704 2.609 2.585 2.555 2.543 2.533 43 3 1 1 0
+A eficácia da apixabana no tratamento inicial de eventos de TEV foi consistente entre os pacientes que foram
+tratados para uma EP [Risco Relativo de 0,9, intervalo de confiança de 95% (0,5; 1,6)] ou TVP [Risco Relativo
+de 0,8, intervalo de confiança de 95% (0,5; 1,3)]. A eficácia entre os subgrupos, incluindo idade, sexo, função
+renal, índice de massa corporal (IMC), extensão do índice de EP, local do trombo da TVP e uso de heparina
+parenteral anterior, foi geralmente consistente (veja a Figura 6).
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 16
+03/Set/2024
+uo
+VET
+ed
+sotneve
+moc
+soudívidni
+ed
+oãçroporP
+VET
+ed
+sotneve
+soa
+odanoicaler
+otibó
+Figura 6: Eventos de TEV sintomático recorrente (TVP não fatal ou EP não fatal) ou risco relativo de óbito
+relacionado aos eventos de TEV pelas características basais
+Subgrupo apixabana enoxaparina/ Risco Relativo Valor-p
+varfarina (CI 95%) paraintera
+nº de nº de nº de nº de ção
+eventos pacientes eventos pacientes
+Geral 59 2.609 71 2.635
+Evento índice 0,8198
+EP (com ou 21 900 23 886
+sem TVP)
+TVP isolada 38 1.698 47 1.736
+Sexo 0,4514
+Masculino 35 1.524 38 1.557
+Feminino 24 1.085 33 1.078
+Idade 0,3427
+< 65 anos 39 1.678 47 1.714
+65 a < 75 anos 13 542 11 561
+≥ 75 anos 7 389 13 360
+Nível de 0,8757
+insuficiência
+renal
+Grave ou 7 169 7 158
+moderada
+Leve 14 531 12 530
+Função renal 38 1.676 42 1.719
+normal
+Peso 0,4344
+≤ 60 kg 6 225 10 232
+> 60 a < 100kg 42 1.870 43 1.892
+≥ 100 kg 11 509 18 508
+IMC 0,0639
+≤ 25 kg/m2 16 693 16 694
+> 25 a 30 kg/m2 27 985 26 1.014
+> 30 a 35kg/m2 9 568 16 575
+> 35 kg/m2 7 349 12 335
+Extensão 0,0569
+anatômica do
+índice EP
+Limitada 3 72 2 88
+Intermediária 13 382 7 385
+Extensa 5 351 12 318
+Extensão 0,2808
+anatômica do
+índice TVP
+Veia poplítea 9 412 12 437
+Veia femoral 11 556 7 571
+Femoral 18 730 26 725
+comum ou
+ilíaca
+Uso de HBPM/ 0,4576
+HNF
+Sem uso de 6 350 12 374
+HBPM/ HNF
+> 0 a 12 horas 7 361 10 329
+> 12 horas 46 1.893 49 1.927
+apixabana melhor eno/varfarina melhor
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 17
+03/Set/2024
+HBPM: heparina de baixo peso molecular
+HNF: heparina não fracionada
+O desfecho primário de segurança foi sangramento maior. No estudo, a apixabana foi estatisticamente superior à
+enoxaparina/varfarina no desfecho primário de segurança [Risco Relativo de 0,31, intervalo de confiança de 95%
+(0,17; 0,55), valor-p < 0,0001] (veja Tabela 15).
+Tabela 15: Resultados de sangramento no estudo AMPLIFY
+apixabana Enoxaparina/varfarina
+Risco Relativo
+N=2.676 N=2.689 Valor-p
+(IC 95%*)
+n(%) n(%)
+Maior 15 (0,6) 49 (1,8) 0,31 (0,17; 0,55) < 0,0001
+CRNMB† 103 (3,9) 215 (8,0) 0,48 (0,38; 0,60)
+Maior + CRNMB 115 (4,3) 261 (9,7) 0,44 (0,36; 0,55)
+Menor 313 (11,7) 505 (18,8) 0,62 (0,54; 0,70)
+Todos 402 (15,0) 676 (25,1) 0,59 (0,53; 0,66)
+* Intervalo de confiança.
+† CRNMB = sangramento não maior clinicamente relevante
+Eventos associados com cada desfecho foram contados uma vez por indivíduo, mas os indivíduos podem ter
+contribuído para múltiplos desfechos.
+O sangramento maior adjudicado e o sangramento CRNMB em qualquer local anatômico foi geralmente inferior
+no grupo da apixabana comparado com o grupo enoxaparina/varfarina. O sangramento gastrointestinal
+significativo ISTH (International Society on Thrombosis and Haemostasis) adjudicado ocorreu em 6 (0,2%) dos
+pacientes tratados com apixabana e 17 (0,6%) dos pacientes tratados com enoxaparina/varfarina.
+Durante os 6 meses do estudo, menos pacientes foram hospitalizados no grupo apixabana [153 (5,7%)] em
+comparação com os pacientes tratados com varfarina [190 (7,1%)].
+Estudo AMPLIFY-EXT: Os pacientes foram randomizados para o tratamento com 2,5 mg de apixabana duas
+vezes ao dia por via oral, 5 mg de apixabana duas vezes ao dia por via oral, ou placebo durante 12 meses após
+concluir 6 a 12 meses de tratamento inicial com anticoagulante. Aproximadamente um terço dos pacientes
+participou do estudo AMPLIFY antes da inclusão no estudo AMPLIFY-EXT.
+O objetivo primário do estudo foi determinar se a apixabana era superior ao placebo no desfecho combinado de
+eventos de TEV sintomático recorrente (TVP não fatal ou EP não fatal) ou óbito por qualquer causa.
+No estudo, ambas as doses de apixabana foram estatisticamente superiores ao placebo no desfecho primário de
+eventos de TEV sintomático recorrente ou óbito por qualquer causa (veja Tabela 16).
+Tabela 16: Resultados de eficácia no estudo AMPLIFY-EXT§
+apixabana apixabana Placebo Risco Relativo (IC 95%)
+5,0 mg apixabana apixabana
+2,5 mg Valor-p
+(N=813) (N=829) 2,5 mg 5,0 mg
+(N=840)
+n (%) vs. Placebo vs. Placebo
+TEV recorrente ou 19 (2,3) 14 (1,7) 77 (9,3) 0,24 0,19 < 0,0001
+óbito por qualquer (0,15; 0,40) (0,11; 0,33)
+causa
+TVP* 6 (0,7) 7 (0,9) 53 (6,4)
+EP* 7 (0,8) 4 (0,5) 13 (1,6)
+Óbito por 6 (0,7) 3 (0,4) 11 (1,3)
+qualquer causa
+TEV recorrente ou 14 (1,7) 14 (1,7) 73 (8,8) 0,19 0,20
+óbito relacionado a (0,11; 0,33) (0,11; 0,34)
+TEV
+TEV recorrente ou 14 (1,7) 14 (1,7) 76 (9,2) 0,18 0,19
+óbito relacionado a (0,10; 0,32) (0,11; 0,33)
+CV
+TVP não fatal† 6 (0,7) 8 (1,0) 53 (6,4) 0,11 0,15
+(0,05; 0,26) (0,07; 0,32)
+EP não fatal† 8 (1,0) 4 (0,5) 15 (1,8) 0,51 0,27
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 18
+03/Set/2024
+Tabela 16: Resultados de eficácia no estudo AMPLIFY-EXT§
+apixabana apixabana Placebo Risco Relativo (IC 95%)
+5,0 mg apixabana apixabana
+2,5 mg Valor-p
+(N=813) (N=829) 2,5 mg 5,0 mg
+(N=840)
+n (%) vs. Placebo vs. Placebo
+(0,22; 1,21) (0,09; 0,80)
+Óbito relacionado a 2 (0,2) 3 (0,4) 7 (0,8) 0,28 0,45
+TEV (0,06; 1,37) (0,12; 1,71)
+Óbito relacionado a 2 (0,2) 3 (0,4) 10 (1,2) 0,20 0,31
+CV (0,04; 0,90) (0,09; 1,11)
+§ Os dados apresentados referem-se a resultados do estudo sem a atribuição de resultados dos pacientes com
+dados faltantes.
+*Para os pacientes com mais de um evento contribuindo para o desfecho composto, apenas o primeiro evento foi
+relatado (por exemplo, se um indivíduo do experimento apresentou ambas TVP e depois uma EP, apenas a TVP
+foi relatada).
+† Indivíduos podem apresentar mais de um evento e ser representados em ambas as classificações.
+CV: causa cardiovascular
+A Figura 7 é um gráfico do tempo da randomização até a ocorrência do primeiro evento de desfecho primário de
+eficácia nos três grupos de tratamento no estudo AMPLIFY-EXT.
+Figura 7: Estimativa de tempo de Kaplan-Meier até a primeira TVP ou EP, ou óbito por qualquer causa no
+estudo AMPLIFY-EXT (população com intenção de tratar)
+apixabana 2,5 mg (eventos: 19/840)
+apixabana 5 mg (eventos: 14/813)
+placebo (eventos: 77/829)
+Número de indivíduos em risco
+apixabana 2,5 mg 840 835 830 823 818 811 533 0
+apixabana 5 mg 813 810 804 798 795 786 513 0
+Placebo 829 810 787 771 754 740 471 0
+A eficácia da apixabana para a prevenção de uma recidiva de eventos de TEV foi mantida entre os subgrupos,
+incluindo idade, sexo, IMC e função renal.
+O desfecho primário de segurança foi sangramento maior durante o período de tratamento. No estudo, a
+incidência de sangramento maior foi semelhante entre os grupos apixabana e placebo. Não houve uma diferença
+estatisticamente significativa na incidência de sangramento maior + CRNMB, menor e todos os sangramentos
+entre os grupos de tratamento com 2,5 mg de apixabana duas vezes ao dia e placebo. A frequência do
+sangramento maior + CRNMB no grupo de 5 mg de apixabana duas vezes ao dia não foi estatisticamente
+diferente do grupo placebo. A frequência do CRNMB, sangramento menor e todos os sangramentos no grupo de
+5 mg de apixabana duas vezes ao dia foi estatisticamente diferente do grupo placebo (veja Tabela 17).
+Tabela 17: Resultados de sangramento no estudo AMPLIFY-EXT
+apixabana apixabana Placebo Risco Relativo (IC* 95%)
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 19
+03/Set/2024
+0,10
+0,09
+0,08
+0,07
+0,06
+0,05
+0,04
+0,03
+0,02
+0,01
+0,00
+Tempo para a TEV/óbito por qualquer causa
+(dias)
+/VET
+moc
+soudívidni
+ed
+oãçroporP
+asuac
+reuqlauq
+rop
+otibó
+Tabela 17: Resultados de sangramento no estudo AMPLIFY-EXT
+apixabana apixabana Placebo Risco Relativo (IC* 95%)
+2,5 mg 5,0 mg apixabana 2,5 mg apixabana 5,0 mg
+(N=840) (N=811) (N=826) vs. Placebo vs. Placebo
+n (%)
+Maior 2 (0,2) 1 (0,1) 4 (0,5) 0,49 0,25
+(0,09; 2,64) (0,03; 2,24)
+CRNMB† 25 (3,0) 34 (4,2) 19 (2,3) 1,29 1,82
+(0,72; 2,33) (1,05; 3,18)
+Maior + 27 (3,2) 35 (4,3) 22 (2,7) 1,20 1,62
+CRNMB (0,69; 2,10) (0,96; 2,73)
+Menor 75 (8,9) 98 (12,1) 58 (7,0) 1,26 1,70
+(0,91; 1,75) (1,25, 2,31)
+Todos 94 (11,2) 121 (14,9) 74 (9,0) 1,24 1,65
+(0,93; 1,65) (1,26; 2,16)
+* Intervalo de confiança.
+† CRNMB = sangramento não maior clinicamente relevante.
+Eventos associados com cada desfecho foram contados uma vez por indivíduo, mas os indivíduos podem ter
+contribuído para múltiplos desfechos.
+A Figura 8 é um gráfico do tempo da randomização até a ocorrência do primeiro evento de sangramento maior
+clinicamente relevante ou não nos três grupos de tratamento no estudo AMPLIFY-EXT.
+Figura 8: Estimativa de Kaplan-Meier de sangramento maior clinicamente relevante ou não durante o período de
+tratamento no estudo AMPLIFY-EXT
+apixabana 2,5 mg (eventos: 27/840)
+apixabana 5 mg (eventos: 35/811)
+placebo (eventos: 22/826)
+Número de indivíduos em risco
+apixabana 2,5 840 806 774 759 743 728 515 0
+mg
+apixabana 5 mg 811 771 738 718 698 677 495 0
+Placebo 826 766 723 688 667 641 455 0
+O sangramento gastrointestinal maior ISTH ocorreu em 1 (0,1%) paciente tratado com apixabana na dose de 5
+mg duas vezes ao dia, em nenhum paciente na dose de 2,5 mg duas vezes ao dia e em 1 (0,1%) paciente tratado
+com placebo.
+Durante os 12 meses do estudo, menos pacientes foram hospitalizados nos grupos apixabana [42 (5%) no grupo
+de 2,5 mg duas vezes ao dia; 34 (4,2%) no grupo de 5 mg duas vezes ao dia] em comparação com os pacientes
+tratados com placebo [62 (7,5%)].
+Referências
+1. Estudo Advance-2:
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 20
+03/Set/2024
+otnemargnas
+moc
+soudívidni
+ed
+oãçroporP
+BMNRC/roiam
+Tempo para sangramento maior/CRNMB (dias)
+Lassen MR, et al. Apixaban versus enoxaparin for thromboprophylaxis after knee replacement
+(ADVANCE-2): a randomised double-blind trial. Lancet. 2010 Mar 6;375(9717):807-15.
+2. Estudo Advance-3:
+Lassen MR, et al. Apixaban versus enoxaparin for thromboprophylaxis after hip replacement. N Engl J
+Med. 2010 Dec 23;363(26):2487-98.
+3. Estudo Aristotle:
+Granger CB, et al. Apixaban versus warfarin in patients with atrial fibrillation. N Engl J Med. 2011 Sep
+15;365(11):981-92.
+4. Estudo Averroes:
+Connolly SJ, et al. Apixaban in patients with atrial fibrillation. N Engl J Med. 2011 Mar 3;364(9):806-
+17.
+5. Estudo Augustus:
+Lopes RD, et al. Antithrombotic Therapy after Acute Coronary Syndrome or PCI in Atrial Fibrillation.
+N Engl J Med. 2019;380:1509-24.
+6. Estudo Emanate:
+Ezekowitz MD et al. Apixaban compared to heparin/vitamin K antagonist in patients with atrial
+fibrillation scheduled for cardioversion: the EMANATE trial. European Heart Journal 39, 2959–2971,
+2018.
+7. Estudo Amplify:
+Agnelli G, et al. Oral apixaban for the treatment of acute thromboembolism. N Engl J Med 2013;369
+(9):799-808.
+8. Estudo Amplify-ext:
+Agnelli G, et al. Apixaban for extended treatment of venous thromboembolism. N Engl J Med 2013;368
+(8):699-708.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades farmacodinâmicas
+Os efeitos farmacodinâmicos da apixabana refletem o mecanismo de ação: inibição do fator X ativado (FXa).
+Como resultado da inibição do FXa, a apixabana prolonga testes de coagulação, como tempo de protrombina
+(TP), RNI (razão normalizada internacional) e tempo de tromboplastina parcial ativada (TTPA). As mudanças
+observadas nos testes de coagulação na dose terapêutica especificada são pequenas e sujeitas a um elevado grau
+de variabilidade. Eles não são recomendados para avaliar os efeitos farmacodinâmicos de apixabana. No teste de
+geração de trombina, a apixabana reduziu o Potencial de Trombina Endógena que é uma medida de formação de
+trombina no plasma humano.
+A apixabana também demonstrou atividade anti-FXa, como evidenciado pela redução na atividade da enzima do
+Fator Xa em testes de Heparina Rotachrom® cromogênico de estudos clínicos. A atividade anti-FXa exibe uma
+relação direta linear com a concentração plasmática da apixabana, atingindo valores máximos no momento do
+pico da concentração plasmática de apixabana. A relação entre a concentração plasmática de apixabana e a
+atividade anti-FXa é linear ao longo de uma vasta gama de doses de apixabana. As alterações observadas
+relacionadas à dose e à concentração após a administração de apixabana são mais pronunciadas, e menos
+variáveis, com atividade anti-FXa quando comparadas com os testes de coagulação.
+A Tabela 18 abaixo mostra a exposição prevista no estado de equilíbrio e a atividade anti-fator Xa para cada
+indicação. Em pacientes recebendo apixabana para a prevenção de eventos de tromboembolismo venoso (TEV)
+após artroplastia eletiva de quadril ou joelho, os resultados demonstram uma flutuação inferior a 1,6 vezes nos
+níveis do pico ao vale. Em pacientes com fibrilação atrial não valvular recebendo apixabana para a prevenção de
+acidente vascular cerebral (AVC) e embolia sistêmica, os resultados demonstram uma flutuação inferior a 1,7
+vezes nos níveis do pico ao vale. Em pacientes recebendo apixabana para o tratamento ou prevenção da recidiva
+de eventos de TEV, os resultados demonstram uma flutuação inferior a 2,2 vezes nos níveis do pico ao vale.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 21
+03/Set/2024
+Tabela 18: Exposição prevista no estado de equilíbrio de apixabana (ng/mL) e atividade anti-Xa (UI/mL)
+apixabana apixabana apixabana apixabana
+Cmáx Cmín Atividade anti-Xa Atividade anti-Xa
+máx. mín.
+Mediana [5º, 95º percentil]
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou joelho
+2,5 mg BID 77 [41, 146] 51 [23, 109] 1,3 [0,67, 2,4] 0,84 [0,37, 1,8]
+Prevenção de AVC e embolia sistêmica: fibrilação atrial não valvular
+2,5 mg BID* 123 [69, 221] 79 [34, 162] 1,8 [1,0, 3,3] 1,2 [0,51, 2,4]
+5 mg BID 171 [91, 321] 103 [41, 230] 2,6 [1,4, 4,8] 1,5 [0,61, 3,4]
+Tratamento de tromboembolismo venoso
+2,5 mg BID 67 [30, 153] 32 [11, 90] 1,1 [0,47, 2,4] 0,51 [0,17, 1,4]
+5 mg BID 132 [59, 302] 63 [22, 177] 2,1 [0,93, 4,8] 1,0 [0,35, 2,8]
+10 mg BID 251 [111, 572] 120 [41, 335] 4,0 [1,8, 9,1] 1,9 [0,65, 5,3]
+*Dose ajustada pela população com base em 2 dos 3 critérios de redução da dose no estudo ARISTOTLE.
+BID: duas vezes ao dia
+Embora o tratamento com apixabana não exija o monitoramento rotineiro da exposição, o teste anti-FXa
+quatitativamente calibrado pode ser útil em situações onde o conhecimento da exposição de apixabana pode
+auxiliar em decisões clínicas.
+Mecanismo de ação
+A apixabana é um inibidor potente, reversível, oral, direto e altamente seletivo e ativo no sítio de inibição do
+fator Xa. Não necessita da antitrombina III para a atividade antitrombótica. A apixabana inibe o fator Xa livre e
+ligado ao coágulo, e a atividade da protrombinase. A apixabana não tem efeitos diretos na agregação plaquetária,
+mas indiretamente inibe a agregação plaquetária induzida pela trombina. Ao inibir o fator Xa, a apixabana
+previne a geração de trombina e o desenvolvimento do trombo. Estudos pré-clínicos com apixabana em modelos
+animais demonstraram eficácia antitrombótica na prevenção de trombose arterial e venosa em doses que
+preservam a hemostasia.
+Propriedades farmacocinéticas
+Absorção
+A biodisponibilidade absoluta da apixabana é de cerca de 50% para doses de até 10 mg. A apixabana é
+rapidamente absorvida com concentração máxima (Cmáx) de 3 a 4 horas após a ingestão do comprimido. A
+apixabana pode ser administrada com ou sem alimentos. Embora a ingestão com refeição rica em gorduras
+resultou em uma redução de 20% e 15% na AUC e Cmáx de apixabana na dose de 5 mg, respectivamente, isto
+não é considerado clinicamente relevante, uma vez que a apixabana foi administrada sem considerar as refeições
+nos estudos fase III. A apixabana demonstrou farmacocinética linear com aumentos proporcionais na exposição
+para doses orais de até 10 mg. A apixabana apresenta absorção limitada com biodisponibilidade diminuída com
+doses ≥ 25 mg. Os parâmetros de exposição da apixabana apresentam variabilidade baixa a moderada refletida
+por uma variabilidade intra-indivíduo e inter-indivíduo de ~ 20% CV e ~ 30% CV, respectivamente.
+Após administração oral de 10 mg de apixabana como 2 comprimidos triturados de 5 mg em suspensão em 30
+mL de água, a exposição foi comparável à exposição pós administração oral de 2 comprimidos de 5 mg intactos.
+Após administração oral de 10 mg de apixabana como 2 comprimidos triturados de 5 mg misturados com 30 g de
+compota de maçã, a Cmax e a AUC foram 21% e 16% menores, respectivamente, quando comparados à
+administração de 2 comprimidos intactos de 5 mg.
+Após a administração de um comprimido de 5 mg de apixabana suspenso em 60 mL de D5W e administrado
+através de um tubo nasogástrico, a exposição foi semelhante à exposição observada em outros ensaios clínicos
+envolvendo indivíduos saudáveis que receberam uma única dose oral de comprimidos de 5 mg de apixabana.
+Distribuição
+A ligação às proteínas plasmáticas em humanos é de aproximadamente 87%. O volume de distribuição (Vss) é
+de aproximadamente 21 litros.
+Metabolismo e Eliminação
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 22
+03/Set/2024
+A apixabana apresenta várias vias de eliminação. Da dose administrada de apixabana em humanos,
+aproximadamente 25% foi recuperada como metabólitos, a maioria nas fezes. A excreção renal da apixabana
+soma aproximadamente 27% do clearance total. As contribuições adicionais da excreção biliar e intestinal direta
+foram observadas em estudos clínicos e não clínicos, respectivamente.
+A apixabana tem um clearance total de cerca de 3,3 L/h e uma meia-vida de aproximadamente 12 horas.
+A o-demetilação e a hidroxilação do grupo 3-oxo-piperidinil são os principais locais da biotransformação. A
+apixabana é metabolizada principalmente via CYP3A4/5 com contribuições menores da CYP1A2, 2C8, 2C9,
+2C19 e 2J2. A apixabana inalterada é o principal componente relacionado ao fármaco presente no plasma
+humano sem metabólitos ativos circulantes presentes. A apixabana é um substrato das proteínas de transporte,
+gpP e da proteína de resistência ao câncer de mama (BCRP).
+Insuficiência renal
+Não houve impacto da insuficiência renal sobre o pico de concentração da apixabana. Houve um aumento da
+exposição da apixabana correlacionada com a diminuição da função renal, como verificado pelo clearance da
+creatinina. Em indivíduos com insuficiência renal leve (clearance de creatinina 51-80 mL/min), moderada
+(clearance de creatinina 30-50 mL/min) e grave (clearance de creatinina 15-29 mL/min), as concentrações
+plasmáticas de apixabana (AUC) aumentaram 16, 29 e 44% respectivamente, quando comparadas com
+indivíduos com clearance de creatinina normal. A insuficiência renal não teve efeito evidente sobre a relação
+entre a concentração plasmática de apixabana e a atividade anti-FXa. Nenhum ajuste de dose é necessário em
+pacientes com insuficiência renal leve ou moderada, exceto conforme descrito no item 8. Posologia e Modo de
+Usar – Prevenção de AVC e Embolia Sistêmica: pacientes portadores de fibrilação atrial não valvular. A
+apixabana deve ser usada com cautela em pacientes com insuficiência renal grave. Devido à experiência clínica
+limitada em pacientes com clearance de creatinina < 15 mL/min e à ausência de dados de pacientes submetidos à
+diálise, a apixabana não é recomendada para esses pacientes (vide item 5. Advertências e Precauções e item 8.
+Posologia e Modo de Usar).
+Em pacientes com doença renal em estágio terminal, a AUC de apixabana sofreu aumento de 36% quando uma
+única dose de 5 mg de apixabana foi administrada imediatamente após a hemodiálise, comparado com o
+observado em pacientes com função renal normal. Hemodiálise, iniciada 2 horas após a administração de uma
+única dose de 5 mg de apixabana, causou diminuição da AUC de apixabana em 14% nesses pacientes com
+doença renal em estágio terminal, correspondendo a um clearance de apixabana por diálise de 18 mL/min.
+Insuficiência hepática
+A apixabana não foi estudada em pacientes com insuficiência hepática grave ou doença hepatobiliar ativa. A
+apixabana não é recomendada a pacientes com insuficiência hepática grave (vide item 5. Advertências e
+Precauções).
+Em um estudo comparativo com pacientes com insuficiência hepática leve e moderada (classificados como Child
+Pugh A e B, respectivamente) e indivíduos sadios como controle, a farmacocinética de dose única e a
+farmacodinâmica de apixabana 5 mg não foram alteradas nos indivíduos com insuficiência hepática. Alterações
+na atividade anti-FXa e RNI foram comparáveis entre os indivíduos com insuficiência hepática leve a moderada
+e indivíduos sadios. Nenhum ajuste da dose é necessário em pacientes com insuficiência hepática leve ou
+moderada, no entanto, dado o número limitado de indivíduos estudados, recomenda-se cautela quando se utiliza
+Eliquis® nesta população (vide item 5. Advertências e Precauções e item 8. Posologia e Modo de Usar).
+Idosos
+Os pacientes idosos (acima de 65 anos) apresentaram concentrações plasmáticas maiores em relação aos
+pacientes jovens, com valores médios de AUC aproximadamente 32% maior. Nenhum ajuste da dose é
+necessário, exceto conforme descrito no item 8. Posologia e Modo de Usar – Prevenção de AVC e Embolia
+Sistêmica: pacientes portadores de fibrilação atrial não valvular.
+Idade avançada pode aumentar o risco hemorrágico.
+Sexo
+A exposição de apixabana foi aproximadamente 18% maior em mulheres do que em homens. Nenhum ajuste de
+dose é necessário.
+Origem étnica
+Os resultados dos estudos fase I não mostraram diferença discernível na farmacocinética da apixabana entre
+indivíduos branco/caucasiano, asiático e negro/afro-americano. Resultados de uma análise farmacocinética
+populacional em pacientes que receberam apixabana foram consistentes com os resultados da fase I. Nenhum
+ajuste de dose é necessário.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 23
+03/Set/2024
+Peso corporal
+Comparando a exposição de apixabana em pacientes com peso corporal entre 65 e 85 kg, para pacientes com
+peso corporal > 120 kg foi associado uma exposição aproximadamente 30% menor e, para pacientes com peso
+corporal < 50 kg foi associado uma exposição aproximadamente 30% maior. Nenhum ajuste da dose é
+necessário, exceto conforme descrito no item 8. Posologia e Modo de Usar – Prevenção de AVC e Embolia
+Sistêmica: pacientes portadores de fibrilação atrial não valvular.
+Relação farmacocinética/farmacodinâmica
+A relação farmacocinética/farmacodinâmica entre a concentração plasmática de apixabana e vários desfechos
+farmacodinâmicos (atividade anti-FXa, RNI, TP, TTPA) foi avaliada após a administração de uma grande escala
+de doses (0,5-50 mg). A relação entre a concentração plasmática de apixabana e a atividade do anti-fator Xa foi
+melhor descrita por um modelo linear. A relação farmacocinética/farmacodinâmica observada em pacientes que
+receberam apixabana nos estudos clínicos fase II ou III foi coerente com o estabelecido em indivíduos sadios.
+Dados de segurança pré-clínicos
+Os dados pré-clínicos não revelam risco especial para humanos baseados em estudos convencionais de
+farmacologia de segurança, toxicidade de dose repetida, genotoxicidade, potencial carcinogênico, fertilidade e
+desenvolvimento embriofetal (vide item 5. Advertências e Precauções). Em filhotes de ratas grávidas tratadas
+com apixabana houve diminuição nos acasalamentos e na fertilidade. Estes efeitos foram mínimos e observados
+apenas em exposições consideradas suficientemente superiores à exposição humana máxima, indicando pouca
+relevância para o uso clínico.
+4. CONTRAINDICAÇÕES
+Eliquis® é contraindicado a pacientes que apresentam hipersensibilidade à apixabana ou a qualquer componente
+da fórmula.
+Eliquis® é contraindicado em casos de sangramento ativo clinicamente significativo e em pacientes com doença
+hepática associada à coagulopatia e ao risco de sangramento clinicamente relevante (vide item 3. Características
+Farmacológicas).
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Informe a seu paciente que a doação de sangue é absolutamente contraindicada durante o tratamento com
+apixabana e até 2-3 dias após a descontinuação, devido ao dano que esse medicamento pode causar ao
+receptor.
+Risco hemorrágico
+Assim como com outros anticoagulantes, os pacientes que utilizam Eliquis® devem ser cuidadosamente
+monitorados em relação aos sinais de sangramento. Eliquis® é recomendado para ser usado com precaução em
+condições de risco aumentado de hemorragia, tais como: distúrbios hemorrágicos congênitos ou adquiridos;
+doença ulcerativa gastrintestinal em atividade, endocardite bacteriana; trombocitopenia; disfunções plaquetárias;
+história de acidente vascular cerebral hemorrágico; hipertensão grave não controlada e cirurgia recente cerebral,
+da coluna vertebral ou oftalmológica. Eliquis® não é recomendado para pacientes com doença hepática associada
+à coagulopatia e ao risco de sangramento clinicamente relevante. A administração de Eliquis® deve ser
+interrompida se ocorrer hemorragia grave (vide item 10. Superdose).
+Em caso de complicações hemorrágicas, o tratamento com Eliquis® deve ser descontinuado e a origem do
+sangramento investigada. O início de tratamento adequado, por exemplo, hemostasia cirúrgica ou transfusão de
+plasma fresco congelado, deve ser considerado. Se o sangramento representar risco de vida e não puder ser
+controlado pelas medidas acima, a administração de concentrado de complexo protombínico (CCP) ou de fator
+recombinante VIIa pode ser considerada. A reversão dos efeitos farmacodinâmicos de Eliquis®, evidenciado
+pelas mudanças no teste de geração de trombina, foi demonstrada após administração de CCP com 4 fatores de
+coagulação em pacientes saudáveis. No entanto, não há experiência clínica do uso de CCP com 4 fatores de
+coagulação para reverter o sangramento em indivíduos que receberam Eliquis®. Atualmente não há experiência
+com o uso do fator recombinante VIIa em indivíduos que receberam apixabana.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 24
+03/Set/2024
+Descontinuação temporária de Eliquis®
+Descontinuar anticoagulantes, incluindo Eliquis®, devido a sangramento ativo, cirurgia eletiva ou procedimentos
+invasivos, pode colocar o paciente sob maior risco de trombose. Evitar lapsos na terapia e, se a anticoagulação
+com Eliquis® precisar ser temporariamente descontinuada por qualquer razão, deve-se retomar o tratamento o
+mais breve possível.
+Em caso de suspeita de dengue, ou quando associado a outros medicamentos que aumentem o efeito
+hemorrágico, a prescrição deste medicamento ou a manutenção do tratamento com ele deve ser
+reavaliada, devido a seu potencial hemorrágico.
+Insuficiência renal
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+Devido à experiência clínica limitada em pacientes com clearance de creatinina < 15 mL/min e à ausência de
+dados de pacientes submetidos à diálise, a apixabana não é recomendada para esses pacientes (vide item 3.
+Características Farmacológicas e item 8. Posologia e Modo de Usar).
+Prevenção de AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular
+Como não há dados de pacientes submetidos à diálise, a apixabana não é recomendada para esses pacientes (vide
+item 3. Características Farmacológicas).
+Em pacientes com fibrilação atrial não valvular com clearance de creatinina < 15 mL/min, uma dose
+recomendada não pode ser fornecida (vide item 8. Posologia e Modo de Usar).
+Dados clínicos limitados em pacientes com insuficiência renal grave (clearance de creatinina 15-29 mL/min)
+indicam concentrações plasmáticas maiores de apixabana nesta população. Portanto, Eliquis® como monoterapia
+ou combinado com ácido acetilsalicílico (AAS) deve ser administrado com cautela nestes pacientes devido ao
+risco potencialmente maior de sangramento (vide item 3. Características Farmacológicas e item 8. Posologia e
+Modo de Usar).
+Nenhum ajuste de dose é necessário em pacientes com insuficiência renal leve ou moderada (vide item 3.
+Características Farmacológicas).
+Tratamento de tromboembolismo venoso
+Devido à experiência clínica limitada em pacientes com clearance de creatinina < 15 mL/min e à ausência de
+dados de pacientes submetidos à diálise, a apixabana não é recomendada para esses pacientes (vide item 3.
+Características Farmacológicas).
+Insuficiência hepática
+Eliquis® é contraindicado a pacientes com doença hepática associada à coagulopatia e ao risco de sangramento
+clinicamente relevante (vide item 4. Contraindicações).
+Eliquis® não é recomendado a pacientes com insuficiência hepática grave (vide item 3. Características
+Farmacológicas).
+Eliquis® pode ser usado com cautela em pacientes com insuficiência hepática leve ou moderada (Child Pugh A
+ou B) (vide item 3. Características Farmacológicas e item 8. Posologia e Modo de Usar).
+Interação com fortes inibidores tanto do citocromo P450 3A4 (CYP3A4) quanto da glicoproteína P (gpP)
+Eliquis® não é recomendado em pacientes que recebem tratamento sistêmico concomitante com inibidores
+potentes do CYP3A4 e da gpP, tais como antifúngicos azólicos (por exemplo, cetoconazol, itraconazol,
+voriconazol e posaconazol) e inibidores da protease do HIV (por exemplo, ritonavir). Esses medicamentos
+podem aumentar a exposição à apixabana em duas vezes (vide item 6. Interações Medicamentosas) ou mais, na
+presença de fatores adicionais que aumentam a exposição à apixabana (por exemplo, insuficiência renal grave).
+No caso de medicamentos que não são considerados inibidores potentes de CYP3A4 e gpP, não é necessário
+ajuste de dose (vide item 6. Interações Medicamentosas).
+Interação com fortes indutores tanto do CYP3A4 quanto da gpP
+O uso concomitante de Eliquis® com indutores potentes do CYP3A4 e da gpP (por exemplo, rifampicina,
+fenitoína, carbamazepina, fenobarbital ou erva de São João) pode levar a uma redução de aproximadamente 50%
+na exposição da apixabana.
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho; e
+Prevenção de AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 25
+03/Set/2024
+Deve-se ter cautela na coadministração de Eliquis® e indutores potentes tanto do CYP3A4 quanto da gpP (vide
+item 6. Interações Medicamentosas).
+Tratamento de tromboembolismo venoso
+Para o tratamento de trombose venosa profunda (TVP) ou embolia pulmonar (EP), Eliquis® não é recomendado à
+pacientes recebendo tratamento sistêmico concomitante com indutores potentes tanto do CYP3A4 quanto da gpP
+(vide item 6. Interações Medicamentosas). Para a prevenção da TVP e EP recorrentes, deve-se ter cautela na
+coadministração de Eliquis® e indutores potentes tanto do CYP3A4 quanto da gpP (vide item 6. Interações
+Medicamentosas).
+Interações com outros medicamentos que afetam a hemostasia
+O uso concomitante de Eliquis® com agentes antiplaquetários aumenta o risco de sangramento. Cuidados devem
+ser tomados quando os pacientes são tratados concomitantemente com anti-inflamatórios não esteroidais
+(AINEs), incluindo ácido acetilsalicílico (AAS). O uso concomitante de outros inibidores da agregação
+plaquetária ou outros agentes antitrombóticos não são recomendados com Eliquis® após cirurgia (vide item 6.
+Interações Medicamentosas).
+Em pacientes com fibrilação atrial e uma condição que justifica um ou dois tratamentos antiplaquetários, uma
+avaliação cuidadosa dos potenciais benefícios em relação aos potenciais riscos deve ser feita antes de combinar
+este tratamento com Eliquis®. Em um estudo clínico de pacientes com fibrilação atrial, o uso concomitante de
+AAS aumentou o principal risco de sangramento com apixabana de 1,8% por ano para 3,4% por ano e aumentou
+o risco de sangramento com varfarina de 2,7% por ano para 4,6% por ano. Neste ensaio clínico houve uso
+limitado (2,3%) de tratamento antiplaquetário duplo concomitante com apixabana.
+Um ensaio clínico envolveu pacientes com fibrilação atrial que tiveram síndrome coronariana aguda (SCA) e /
+ou foram submetidos a intervenção coronária percutânea (ICP) e um período de tratamento planejado com um
+inibidor P2Y12, com ou sem AAS e anticoagulante oral (apixabana ou AVK) por 6 meses. O risco de
+sangramento maior ou CRNM conforme critérios ISTH (Clinicamente Relevante Não Maior) foi
+significativamente inferior nos indivíduos tratados com apixabana (24,7% por ano) em comparação com os
+indivíduos tratados com AVK (35,8% por ano). O uso concomitante de AAS aumentou o risco de sangramento
+maior ou CRNM conforme critérios ISTH de 21,0% ao ano para 40,5% ao ano, quando adicionado à
+anticoagulação (apixabana ou AVK) sobre o inibidor de P2Y12. Especificamente, o uso concomitante de AAS
+aumentou o risco de sangramento maior ou CRNM em indivíduos tratados com apixabana de 16,4% ao ano para
+33,1% ao ano e aumentou o risco de sangramento em indivíduos tratados com AVK de 26,1% ao ano para 48,4%
+ao ano.
+Em um ensaio clínico com pacientes com alto risco pós síndrome coronariana aguda, sem fibrilação atrial
+caracterizada por múltiplas comorbidades cardíacas e não cardíacas, que receberam AAS ou combinação de
+AAS e clopidogrel, foi relatado um aumento significativo do risco de sangramento por apixabana comparado
+com placebo.
+Punção ou anestesia espinhal/epidural
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+Quando a anestesia neuroaxial (anestesia espinhal/epidural) ou punção espinhal/epidural é realizada, pacientes
+tratados com agentes antitrombóticos para a prevenção de complicações tromboembólicas correm o risco de
+desenvolvimento de um hematoma epidural ou espinhal, que pode resultar em paralisia de longa duração ou
+permanente. O risco destes eventos pode ser aumentado com o uso pós-operatório de cateteres epidurais ou o uso
+concomitante de medicamentos que afetam a hemostasia. Cateteres por via epidural ou intratecal devem ser
+removidos pelo menos 5 horas antes da primeira dose do Eliquis®. O risco também pode ser aumentado por
+punção epidural ou espinhal traumática ou repetida. Os pacientes devem ser monitorados com frequência para os
+sinais e sintomas de comprometimento neurológico (por exemplo, dormência ou fraqueza nas pernas, disfunção
+da bexiga ou intestino). Se houver a percepção de comprometimento neurológico, é necessário diagnóstico e
+tratamento de urgência. Antes da intervenção neuroaxial, o médico deverá considerar o potencial benefício
+versus o risco em pacientes anticoagulados ou em pacientes a serem anticoagulados para tromboprofilaxia.
+Cirurgia de fratura de quadril
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+O uso de apixabana não foi estudado em ensaios clínicos em pacientes submetidos à cirurgia de fratura do
+quadril para avaliar a eficácia e a segurança nestes pacientes. Portanto, Eliquis® não é recomendado para esses
+pacientes.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 26
+03/Set/2024
+Pacientes com válvulas cardíacas protéticas
+A segurança e eficácia de Eliquis® não foram estudadas em pacientes com válvulas cardíacas protéticas, com ou
+sem fibrilação atrial, portanto, o uso de Eliquis® não é recomendado nesses pacientes.
+Embolia pulmonar aguda (EP) em pacientes hemodinamicamente instáveis ou pacientes que necessitem de
+trombólise ou embolectomia pulmonar
+ Tratamento de tromboembolismo venoso (TEV)
+Não é recomendado iniciar Eliquis® como alternativa à heparina não fracionada para o tratamento
+inicial de pacientes com EP que apresentem instabilidade hemodinâmica ou que possam ser submetidos
+a trombólise ou embolectomia pulmonar.
+Pacientes com Síndrome Antifosfolípide
+Os anticoagulantes orais de ação direta (DOACs), incluindo o Eliquis®, não são recomendados para pacientes
+com histórico de trombose diagnosticados com síndrome antifosfolípide (SAF). Em particular para doentes que
+são positivos triplo (para anticoagulante lúpico, anticorpos anticardiolipina e anticorpos anti-beta 2-glicoproteína
+I), o tratamento com DOACs pode estar associado a taxas aumentadas de eventos trombóticos recorrentes em
+comparação com a terapêutica antagonista da vitamina K. A eficácia e segurança de Eliquis® em pacientes com
+SAF ainda não foram estabelecidas.
+Informações sobre os excipientes
+Pacientes com problemas hereditários raros de intolerância à galactose, deficiência total de lactase ou má-
+absorção de glicose-galactose não devem tomar este medicamento. Este medicamento contém menos de 1 mmol
+de sódio (23 mg) por comprimido, ou seja, é praticamente “isento de sódio”.
+Atenção: contém lactose. Este medicamento não deve ser usado por pessoas com síndrome de má-absorção
+de glicose-galactose.
+2,5mg:
+Atenção: contém 51 mg de lactose por comprimido revestido.
+Atenção: contém os corantes dióxido de titânio e óxido de ferro amarelo que podem, eventualmente,
+causar reações alérgicas.
+5 mg:
+Atenção: contém 103 mg de lactose por comprimido revestido.
+Atenção: contém os corantes dióxido de titânio e óxido de ferro vermelho que podem, eventualmente,
+causar reações alérgicas.
+Uso durante a Gravidez
+Há dados limitados sobre a utilização de apixabana em mulheres grávidas. Os estudos em animais não indicam
+efeitos nocivos diretos ou indiretos no que diz respeito à toxicidade reprodutiva. A apixabana não é recomendada
+durante a gravidez.
+O uso deste medicamento no período da lactação depende da avaliação e acompanhamento do seu médico
+ou cirurgião-dentista.
+Categoria de risco de gravidez: B
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Uso durante a Lactação
+Não se sabe se a apixabana ou seus metabólitos são excretados no leite humano. Os dados disponíveis em
+animais revelaram excreção da apixabana no leite. O risco para recém-nascidos e lactentes não pode ser
+excluído.
+A decisão deve ser tomada entre interromper a amamentação ou descontinuar/abster-se do tratamento com
+apixabana.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 27
+03/Set/2024
+Fertilidade
+Estudos em animais tratados diretamente com apixabana não mostraram efeito na fertilidade.
+Uso em crianças
+A eficácia e segurança de Eliquis® em crianças menores de 18 anos de idade ainda não foram estabelecidas. Não
+existem dados disponíveis.
+Uso em idosos
+Idade avançada pode aumentar o risco hemorrágico.
+Efeitos na habilidade de dirigir e operar máquinas
+Eliquis® não tem influência, ou é desprezível, sobre a capacidade de dirigir e operar máquinas.
+6. INTERAÇÕES MEDICAMENTOSAS
+Efeito de outros fármacos sobre a apixabana
+Inibidores do CYP3A4 e gpP
+A coadministração de apixabana com cetoconazol (400 mg uma vez por dia), um inibidor forte tanto de CYP3A4
+quanto de gpP, levou a um aumento de 2 vezes em média na AUC de apixabana e um aumento de 1,6 vezes em
+média na Cmáx de apixabana. Com base nestes dados, apixabana não é recomendada a pacientes que recebem
+tratamento sistêmico concomitante com antimicóticos azólicos, como cetoconazol ou outros inibidores potentes
+do CYP3A4 e da gpP e inibidores da protease do HIV (por exemplo, ritonavir) (vide item 5. Advertências e
+Precauções).
+Espera-se que substâncias ativas não consideradas inibidores potentes de ambos CYP3A4 e gpP (por exemplo:
+diltiazem, naproxeno, claritromicina, amiodarona, verapamil, quinidina) causem um aumento das concentrações
+plasmáticas de apixabana em menor grau. Não é necessário ajuste de dose para apixabana quando co-
+administrado com agentes que não são inibidores fortes tanto de CYP3A4 como de gpP. Por exemplo, diltiazem
+(360 mg uma vez por dia), considerado um inibidor moderado de CYP3A4 e um inibidor fraco de gpP, levando a
+um aumento de 1,4 vezes em média na AUC da apixabana e um aumento de 1,3 vezes na Cmáx. O naproxeno
+(500 mg, dose única), um inibidor de gpP, mas não um inibidor de CYP3A4, provocou um aumento de 1,5 vezes
+e 1,6 vezes em média na AUC e na Cmáx da apixabana, respectivamente. A claritromicina (500 mg, duas vezes
+por dia), um inibidor da gpP e um forte inibidor da CYP3A4, levou a um aumento de 1,6 vezes e 1,3 vezes na
+AUC e Cmax de apixabana média, respectivamente.
+Indutores do CYP3A4 e gpP
+A coadministração de apixabana com rifampicina, um indutor potente tanto de CYP3A4 quanto de gpP, levou a
+uma diminuição de aproximadamente 54% e 42% em média na AUC e na Cmáx de apixabana, respectivamente.
+O uso concomitante de apixabana com outros indutores potentes de CYP3A4 e de gpP (por exemplo, fenitoína,
+carbamazepina, fenobarbital ou erva de São João) também podem levar a uma redução na concentração
+plasmática de apixabana. Nenhum ajuste de dose de apixabana é necessário durante o tratamento concomitante
+com tais agentes para a prevenção de eventos de tromboembolismo venoso (TEV) após artroplastia eletiva de
+quadril ou de joelho ou para a prevenção de AVC e embolia sistêmica em pacientes portadores de fibrilação
+atrial não valvular; no entanto, indutores potentes tanto de CYP3A4 quanto de gpP devem ser coadministrados
+com cautela (vide item 5. Advertências e Precauções).
+Para o tratamento de trombose venosa profunda (TVP) e embolia pulmonar (EP), não é recomendada terapia
+concomitante com indutores potentes tanto de CYP3A4 quanto de gpP (vide item 5. Advertências e Precauções).
+Para a prevenção da TVP e EP recorrentes, indutores potentes tanto de CYP3A4 quanto de gpP devem ser
+coadministrados com cautela (vide item 5. Advertências e Precauções).
+Anticoagulantes, inibidores da agregação plaquetária e AINEs
+Após a administração combinada de enoxaparina (40 mg em dose única) e apixabana (5 mg em dose única), um
+efeito aditivo sobre a atividade do anti-fator Xa foi observada.
+Interações farmacocinéticas ou farmacodinâmicas não foram evidentes em indivíduos saudáveis quando
+apixabana foi coadministrada com ácido acetilsalicílico 325 mg uma vez por dia.
+A apixabana quando coadministrada com clopidogrel (75 mg uma vez por dia), com a combinação de 75 mg de
+clopidogrel e 162 mg ácido acetilsalicílico uma vez por dia, ou com prasugrel (60 mg seguido de 10 mg uma vez
+por dia) nos estudos fase I, não mostrou um aumento relevante no tempo de sangramento, inibição da agregação
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 28
+03/Set/2024
+plaquetária, ou prolongamento nos testes de coagulação (TP, RNI e TTPA) quando comparado com a
+administração dos agentes antiplaquetários sem apixabana.
+O naproxeno (500 mg), um inibidor da gpP, levou a uma média de aumento de 1,5 vezes e 1,6 vezes na AUC e
+Cmáx de apixabana em indivíduos saudáveis, respectivamente. Correspondentes prolongamentos nos testes de
+coagulação foram observados para apixabana. Não foram observadas alterações no efeito do naproxeno sobre a
+agregação plaquetária induzida pelo ácido araquidônico e não foi observado prolongamento clinicamente
+relevante do tempo de sangramento após a administração concomitante de apixabana e naproxeno.
+Os pacientes com FANV com SCA e/ou submetidos a ICP podem ser tratados com Eliquis® em associação com
+antiagregantes plaquetários (vide item 5. Advertências e Precauções - Interações com outros medicamentos que
+afetam a hemostasia).
+Apesar desses achados, Eliquis® deve ser usado com cautela quando administrado concomitantemente com
+AINEs, AAS ou inibidores de P2Y12 porque estes medicamentos normalmente aumentam o risco de
+sangramento.
+Outros agentes relacionados com sangramentos graves não são recomendados concomitantemente com Eliquis®,
+tais como: heparina não fracionada e derivados de heparina (incluindo heparinas de baixo peso molecular
+(HBPM)), oligossacarídeos inibidores do fator Xa (por exemplo, fondaparinux), inibidores diretos da trombina
+(por exemplo, desirudina), agentes trombolíticos, antagonistas do receptor GPIIb/IIIa, dipiridamol, dextrana,
+sulfimpirazona, antagonistas da vitamina K e outros anticoagulantes orais. Note que a heparina não fracionada
+pode ser administrada em doses necessárias para manter a permeabilidade de um cateter central venoso ou
+arterial (vide item 5. Advertências e Precauções).
+Outras terapias concomitantes
+Não foram observadas interações clinicamente significativas na farmacocinética ou farmacodinâmica quando a
+apixabana foi coadministrada com atenolol ou famotidina. A coadministração de 10 mg de apixabana com
+atenolol 100 mg não teve efeito clinicamente relevante na farmacocinética de apixabana. Após a administração
+dos dois fármacos em conjunto, as médias de AUC e Cmáx de apixabana foram 15% e 18% menores do que
+quando administrados sozinhos. A administração de 10 mg de apixabana com 40 mg de famotidina não teve
+efeito sobre AUC e Cmáx de apixabana.
+Parâmetros laboratoriais
+Testes de coagulação (por exemplo, TP, RNI e TTPA) são afetados conforme o esperado pelo mecanismo de
+ação da apixabana (vide item 3. Características Farmacológicas). As mudanças observadas nesses testes de
+coagulação na dose terapêutica esperada são pequenas e sujeitas a um elevado grau de variabilidade (vide item 3.
+Características Farmacológicas).
+Pacientes pediátricos
+Os estudos de interação foram realizados somente em adultos.
+Efeito da apixabana sobre outros fármacos
+Estudos in vitro com apixabana não demonstraram efeitos inibitórios sobre a atividade do CYP1A2, CYP2A6,
+CYP2B6, CYP2C8, CYP2C9, CYP2D6 ou CYP3A4 (IC50 > 45 M) e mostraram efeito inibitório fraco sobre a
+atividade da CYP2C19 (IC50 > 20 M) nas concentrações que são significativamente maiores do que os picos
+das concentrações plasmáticas observados nos pacientes. A apixabana não induziu CYP1A2, CYP2B6,
+CYP3A4/5 em concentrações de até 20 M. Portanto, a apixabana não deve alterar o clearance metabólico de
+fármacos coadministrados que são metabolizados por estas enzimas. A apixabana não é um inibidor significativo
+de gpP.
+Em estudos realizados em indivíduos sadios, como descrito abaixo, a apixabana não alterou significativamente a
+farmacocinética da digoxina, naproxeno ou atenolol.
+- digoxina: a coadministração de apixabana (20 mg uma vez por dia) com digoxina (0,25 mg uma vez por dia),
+um substrato de gpP, não afetou a AUC ou a Cmáx da digoxina. Portanto, a apixabana não inibe o transporte de
+substratos de gpP.
+- naproxeno: a coadministração de dose única de apixabana (10 mg) com naproxeno (500 mg), um AINE
+comumente usado, não tem qualquer efeito sobre a AUC e Cmáx do naproxeno.
+- atenolol: a coadministração de uma dose única de apixabana (10 mg) com atenolol (100 mg), um beta-
+bloqueador comum, não alterou a farmacocinética do atenolol.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 29
+03/Set/2024
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Armazenar o produto em temperatura ambiente (de 15 °C a 30 °C).
+Prazo de validade: 36 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Comprimidos de 2,5 mg: comprimidos revestidos amarelos, redondos, biconvexos com “893” gravado de um
+lado e “2½” do outro lado.
+Comprimidos de 5 mg: comprimidos revestidos rosas, ovais, biconvexos com “894” gravado de um lado e “5”
+do outro lado.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Eliquis® deve ser utilizado por via oral, engolido com água, com ou sem alimentos.
+Uso em Adultos
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+A dose recomendada de Eliquis® é de 2,5 mg duas vezes ao dia, por via oral. A dose inicial deve ser tomada 12 a
+24 horas após a cirurgia.
+Os médicos podem considerar os potenciais benefícios da anticoagulação mais precoce para a profilaxia do
+tromboembolismo venoso, bem como os riscos de sangramento pós-cirúrgico ao decidirem sobre o momento de
+administração.
+Pacientes submetidos à artroplastia eletiva de quadril: a duração do tratamento recomendada é de 32 a 38 dias
+após a cirurgia.
+Pacientes submetidos à artroplastia eletiva de joelho: a duração do tratamento recomendada é de 10 a 14 dias
+após a cirurgia.
+Prevenção de AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular
+A dose recomendada de Eliquis® é de 5 mg duas vezes ao dia, por via oral.
+Idade, peso corporal, creatinina sérica: em pacientes com pelo menos 2 das características a seguir, idade ≥ 80
+anos, peso corporal ≤ 60 kg ou creatinina sérica ≥ 1,5 mg/dL (133 micromoles/L), a dose recomendada de
+Eliquis® é de 2,5 mg duas vezes ao dia.
+Tratamento de trombose venosa profunda (TVP) e embolia pulmonar (EP)
+A dose recomendada de Eliquis® é de 10 mg duas vezes ao dia, por via oral, durante 7 dias, seguida de dose de 5
+mg duas vezes ao dia, por via oral.
+Prevenção da TVP e EP recorrentes
+A dose recomendada de Eliquis® é de 2,5 mg duas vezes ao dia, por via oral, após pelo menos 6 meses de
+tratamento para a TVP ou EP.
+Uso em Crianças e Adolescentes
+A eficácia e segurança de Eliquis® em crianças abaixo de 18 anos de idade ainda não foram estabelecidas. Não
+existem dados disponíveis.
+Uso em Idosos
+Nenhum ajuste de dose é necessário, exceto conforme descrito em 8. Posologia e Modo de Usar - Prevenção de
+AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular (vide item 3. Características
+Farmacológicas).
+Idade avançada pode aumentar o risco hemorrágico.
+Uso em Pacientes com Insuficiência Renal
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 30
+03/Set/2024
+Nenhum ajuste de dose é necessário em pacientes com insuficiência renal leve ou moderada. Dados clínicos
+limitados em pacientes com insuficiência renal grave (clearance de creatinina 15 - 29 mL/min) indicam
+concentrações plasmáticas maiores de apixabana nesta população, portanto, Eliquis® deve ser administrado com
+cautela nestes pacientes (vide item 3. Características Farmacológicas).
+Devido à experiência clínica limitada em pacientes com clearance de creatinina < 15 mL/min e à ausência de
+dados de pacientes submetidos à diálise, a apixabana não é recomendada para estes pacientes (vide item 3.
+Características Farmacológicas e item 5. Advertências e Precauções).
+Clearance de creatinina (ClCr) Dose de Eliquis® para prevenção de TEV após cirurgia ortopédica
+ClCr ≥ 30 mL/min 2,5 mg via oral 2x/dia
+ClCr 15-29 mL/min 2,5 mg via oral 2x/dia (uso com cautela)
+ClCr < 15mL/min ou em diálise Não recomendado devido a experiência clínica limitada e ausência de dados
+Prevenção de AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular
+Nenhum ajuste de dose é recomendado em pacientes com clearance de creatinina 15-29 mL/min, exceto
+conforme descrito em 8. Posologia e Modo de Usar – Uso em Adultos – Prevenção de AVC e embolia sistêmica:
+pacientes portadores de fibrilação atrial não valvular. Como não há experiência clínica em pacientes com
+clearance de creatinina < 15 mL/min, não é possível estabelecer uma dose recomendada.
+Como não há dados de pacientes submetidos à diálise, a apixabana não é recomendada para esses pacientes (vide
+item 3. Características Farmacológicas).
+Dose de Eliquis® para prevenção de AVC e embolia sistêmica na fibrilação
+Clearance de creatinina (ClCr)
+atrial não valvular
+ClCr ≥ 30 mL/min 5 mg via oral 2x/dia; ou
+2,5 mg via oral 2x/dia para pacientes com pelo menos 2 das características a
+seguir: idade ≥ 80 anos, peso corporal ≤ 60 kg ou creatinina sérica ≥ 1,5
+mg/dL
+ClCr 15-29 mL/min 5 mg via oral 2x/dia (uso com cautela); ou
+2,5 mg via oral 2x/dia para pacientes com pelo menos 2 das características a
+seguir: idade ≥ 80 anos, peso corporal ≤ 60 kg ou creatinina sérica ≥ 1,5
+mg/dL (uso com cautela)
+ClCr < 15mL/min Não é possível estabelecer uma dose recomendada devido à ausência de
+experiência clínica
+Em diálise Não recomendado devido a ausência de experiência clínica e dados
+Tratamento de tromboembolismo venoso
+Nenhum ajuste de dose é necessário em pacientes com insuficiência renal leve, moderada ou severa (clearance
+de creatinina 15-29 mL/min) (vide item 3. Características Farmacológicas). Devido à experiência clínica limitada
+em pacientes com clearance de creatinina < 15 mL/min e à ausência de dados de pacientes submetidos à diálise,
+a apixabana não é recomendada para estes pacientes (vide item 3. Características Farmacológicas).
+Clearance de creatinina (ClCr) Dose de Eliquis® para tratamento de TVP e EP
+ClCr ≥ 30 mL/min 10 mg via oral 2x/dia durante 7 dias, seguida de 5 mg via oral 2x/dia
+ClCr 15-29 mL/min 10 mg via oral 2x/dia durante 7 dias, seguida de 5 mg via oral 2x/dia
+(uso com cautela)
+ClCr < 15mL/min ou em diálise Não recomendado devido a experiência clínica limitada e ausência de
+dados
+Clearance de creatinina (ClCr) Dose de Eliquis® para prevenção de TVP e EP recorrentes
+ClCr ≥ 30 mL/min 2,5 mg via oral 2x/dia após pelo menos 6 meses de tratamento para a
+TVP ou EP
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 31
+03/Set/2024
+ClCr 15-29 mL/min 2,5 mg via oral 2x/dia após pelo menos 6 meses de tratamento para a
+TVP ou EP (uso com cautela)
+ClCr < 15mL/min ou em diálise Não recomendado devido a experiência clínica limitada e ausência de
+dados
+Uso em Pacientes com Insuficiência Hepática
+Eliquis® pode ser usado com cautela em pacientes com insuficiência hepática leve ou moderada (Child Pugh A
+ou B). Nenhum ajuste da dose é necessário em pacientes com insuficiência hepática leve ou moderada (vide item
+3. Características Farmacológicas e item 5. Advertências e Precauções).
+Eliquis® não é recomendado em pacientes com insuficiência hepática grave (vide item 3. Características
+Farmacológicas e item 5. Advertências e Precauções).
+Eliquis® é contraindicado a pacientes com doença hepática associada à coagulopatia e ao risco de sangramento
+clinicamente relevante (vide item 4. Contraindicações).
+Pacientes com enzimas hepáticas elevadas (ALT/AST > 2 x LSN) ou bilirrubinas totais ≥ 1,5 x LSN foram
+excluídos dos estudos clínicos. Portanto, Eliquis® deve ser utilizado com cautela nesta população (vide item 5.
+Advertências e Precauções e item 3. Características Farmacológicas). A função hepática deve ser avaliada antes
+do início da terapia com Eliquis®.
+Peso Corporal
+Nenhum ajuste de dose é necessário, exceto conforme descrito em 8. Posologia e Modo de Usar – Prevenção de
+AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular (vide item 3. Características
+Farmacológicas).
+Gênero
+Nenhum ajuste de dose é necessário (vide item 3. Características Farmacológicas).
+Convertendo de ou para anticoagulantes parenterais
+Em geral, a mudança do tratamento de anticoagulantes parenterais para Eliquis® (e vice-versa) pode ser feita na
+próxima dose agendada.
+Convertendo de ou para varfarina ou outros antagonistas de vitamina K (AVK)
+Ao trocar a medicação dos pacientes de varfarina ou outro tratamento de AVK para Eliquis®, a varfarina ou o
+outro AVK deve ser descontinuado e a administração de Eliquis® deve ser iniciada quando a relação normalizada
+internacional (RNI) estiver abaixo de 2,0. Ao trocar a medicação de Eliquis® para varfarina ou outro tratamento
+de AVK, continuar a administração de Eliquis® por 48 horas após a primeira dose de varfarina ou do outro
+tratamento de AVK.
+Cirurgia e procedimentos invasivos
+Eliquis® deve ser descontinuado pelo menos 48 horas antes de cirurgia eletiva ou procedimentos invasivos com
+risco moderado ou alto de sangramento clinicamente significante. Eliquis® deve ser descontinuado pelo menos
+24 horas antes de uma cirurgia eletiva ou procedimentos invasivos com um risco baixo de sangramento ou, em
+caso de sangramento caracterizar área não crítica e de fácil controle. Se a cirurgia ou procedimento invasivo não
+pode ser adiado, os devidos cuidados devem ser tomados em relação ao risco aumentado de sangramento. Esse
+risco de sangramento deve ser considerado em relação à urgência da intervenção. Em pacientes portadores de
+fibrilação atrial não valvular, a anticoagulação ponte durante as 24 a 48 horas após a interrupção de Eliquis® e
+antes da intervenção geralmente não é necessária. Eliquis® deve ser reiniciado após os procedimentos cirúrgicos
+ou outros procedimentos assim que a hemostasia adequada for estabelecida.
+Eliquis® pode ser iniciado ou continuado em pacientes com fibrilação atrial não valvular que possam necessitar
+de cardioversão.
+Para pacientes não tratados previamente com anticoagulantes, pelo menos 5 doses de Eliquis® 5 mg duas vezes
+por dia [2,5 mg duas vezes por dia em pacientes que se qualificam para uma redução da dose (vide item anterior
+Idade, peso corporal, creatina sérica)] devem ser administradas antes da cardioversão para assegurar
+anticoagulação (vide item 2. Resultados de eficácia – Prevenção de AVC e embolia sistêmica: pacientes
+portadores de fibrilação atrial não valvular).
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 32
+03/Set/2024
+Se a cardioversão for necessária antes de serem administradas as 5 doses de Eliquis®, pode ser administrada uma
+dose de ataque de 10 mg, seguida de 5 mg duas vezes por dia. O regime de dose deve ser reduzido para uma dose
+de ataque de 5 mg, seguida de 2,5 mg duas vezes por dia se o paciente cumprir os critérios de redução da dose
+(vide item anterior Idade, peso corporal, creatina sérica). A administração da dose de ataque deve ser
+administrada pelo menos 2 horas antes da cardioversão (vide item 2. Resultados de eficácia – Prevenção de AVC
+e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular).
+Deve-se procurar confirmação antes da cardioversão de que o paciente tomou Eliquis® conforme prescrito. As
+decisões sobre o início e a duração do tratamento devem levar em consideração as diretrizes estabelecidas para o
+tratamento anticoagulante em pacientes submetidos a cardioversão.
+Descontinuação temporária de Eliquis®
+Descontinuar anticoagulantes, incluindo Eliquis®, devido a sangramentos ativos, cirurgias eletivas ou
+procedimentos invasivos, coloca os pacientes em risco aumentado de trombose.
+Evite lapsos na terapia, e se a anticoagulação com Eliquis® precisar ser descontinuada por qualquer motivo,
+reinicie a terapia o mais breve possível.
+Dose Esquecida
+Caso o paciente se esqueça de administrar Eliquis® no horário estabelecido, deve fazê-lo assim que lembrar e
+depois continuar com o esquema de doses duas vezes ao dia.
+Opções de Administração
+Para os pacientes que não conseguem engolir comprimidos inteiros, os comprimidos de Eliquis® podem ser
+triturados e suspensos em água, 5% de dextrose em água (D5W) ou suco de maçã, ou misturados com compota
+de maçã e prontamente administrados por via oral (vide item 3. Características Farmacológicas – Propriedades
+Farmacocinéticas). Alternativamente, os comprimidos de Eliquis® podem ser triturados e suspensos em 60 mL
+de água ou D5W e prontamente entregues através de um tubo nasogástrico (vide item 3. Características
+Farmacológicas – Propriedades Farmacocinéticas).
+Os comprimidos triturados de Eliquis® são estáveis em água, D5W, suco de maçã e compota de maçã por até 4
+horas.
+Este medicamento não deve ser partido, aberto ou mastigado.
+9. REAÇÕES ADVERSAS
+Experiência clínica
+Prevenção de tromboembolismo venoso: artroplastia eletiva de quadril ou de joelho
+A segurança de apixabana foi avaliada em um estudo fase II e três estudos fase III, incluindo 5.924 pacientes
+expostos a 2,5 mg de apixabana duas vezes por dia, submetidos a grandes cirurgias ortopédicas de membros
+inferiores (artroplastia eletiva de quadril ou de joelho), tratados por até 38 dias.
+No total, 11% dos pacientes tratados com 2,5 mg de apixabana duas vezes ao dia apresentaram reações adversas.
+Assim como com outros anticoagulantes, pode ocorrer sangramento durante o tratamento com apixabana na
+presença de fatores de risco associados, tais como lesões orgânicas susceptíveis a sangrar. Reações adversas
+comuns foram anemia, hemorragia, contusão e náusea. A incidência global de reações adversas como
+sangramento, anemia e anormalidades das transaminases (por exemplo, os níveis de alanina aminotransferase)
+foram numericamente menores em pacientes tratados com apixabana quando comparado com pacientes
+recebendo enoxaparina na fase II e III dos estudos envolvendo pacientes que foram submetidos à artroplastia
+eletiva de quadril ou de joelho. As reações adversas devem ser interpretadas dentro do contexto cirúrgico.
+Como acontece com qualquer anticoagulante, o uso de Eliquis® pode estar associado com um risco aumentado
+de sangramento oculto ou aparente de qualquer tecido ou órgão, que pode resultar em anemia pós-hemorrágica.
+Os sinais, sintomas e gravidade variam de acordo com a localização e o grau ou extensão do sangramento (vide
+item 3. Características Farmacológicas e item 5. Advertências e Precauções).
+As reações adversas em um estudo fase II e em três estudos fase III estão listadas na Tabela 19 baseados na
+classificação por sistema orgânico (MedDRA) e por frequência.
+Tabela 19: Reações adversas em pacientes no pós-cirúrgico ortopédico
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 33
+03/Set/2024
+Comum Incomum Rara
+(≥ 1/100 a < 1/10) (≥ 1/1.000 a < 1/100) (≥ 1/10.000 a < 1/1.000)
+Distúrbios do sangue e sistema linfático
+Anemia (incluindo anemia pós- Trombocitopenia (incluindo
+operatória e hemorrágica e os diminuição da contagem de
+respectivos parâmetros plaquetas)
+laboratoriais)
+Distúrbios do sistema imunológico
+Hipersensibilidade
+Distúrbios oculares
+Hemorragia ocular (incluindo
+hemorragia conjuntival)
+Distúrbios vasculares
+Hemorragia (incluindo hematoma e Hipotensão (incluindo hipotensão
+hemorragia vaginal e uretral) durante o precedimento cirúrgico)
+Distúrbios respiratórios, torácicos e mediastínicos
+Epistaxe Hemoptise
+Distúrbios gastrintestinais
+Náusea Hemorragia gastrintestinal Hemorragia retal, sangramento
+(incluindo hematêmese e melena), gengival
+hematoquezia
+Distúrbios hepatobiliares
+Aumentos das transaminases
+(incluindo a alanina
+aminotransferase aumentada e
+alanina aminotransferase anormal),
+aumento da aspartato
+aminotransferase, aumento da
+gama-glutamiltransferase, testes
+anormais da função hepática,
+aumento da fosfatase alcalina
+sanguínea, aumento da bilirrubina
+sanguínea
+Distúrbios músculoesqueléticos e do tecido conjuntivo
+Hemorragia muscular
+Distúrbios renais e urinários
+Hematúria (incluindo parâmetros
+laboratoriais respectivos)
+Lesões, intoxicações e complicações relacionadas ao procedimento
+Equimose Hemorragia pós-procedimento
+(incluindo hematoma pós-
+procedimento, hemorragia da
+ferida, hematoma no local da
+punção no vaso e hemorragia no
+local do cateter), secreção na ferida,
+hemorragia no local da incisão
+(incluindo hematoma no local da
+incisão), hemorragia operatória
+Prevenção de AVC e embolia sistêmica: pacientes portadores de fibrilação atrial não valvular
+A segurança de apixabana foi avaliada nos estudos ARISTOTLE e AVERROES, incluindo 11284 pacientes
+expostos a 5 mg de apixabana duas vezes ao dia e 602 pacientes expostos a 2,5 mg de apixabana duas vezes ao
+dia. As exposições a apixabana foram ≥ 12 meses para 9375 pacientes e ≥ 24 meses para 3369 pacientes nos dois
+estudos. No estudo ARISTOTLE, a duração média da exposição foi de 89,2 semanas com apixabana e 87,5
+semanas com varfarina; o total de pacientes-anos para a exposição foi de 15534 com apixabana e 15184 com
+varfarina. No AVERROES, a duração média da exposição foi de aproximadamente 59 semanas em ambos os
+grupos de tratamento; o total de pacientes-anos para a exposição foi de 3193 com apixabana e 3150 com ácido
+acetilsalicílico (AAS).
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 34
+03/Set/2024
+A taxa geral de descontinuação devida a reações adversas foi de 1,8% para apixabana e 2,6% para varfarina no
+estudo ARISTOTLE e foi de 1,5% para apixabana e 1,3% para AAS no estudo AVERROES. A incidência total
+de reações adversas relacionadas a sangramento foi numericamente menor em pacientes com apixabana
+comparado com varfarina no estudo ARISTOTLE (24,3% vs. 31,0%) e foi semelhante em pacientes com
+apixabana comparado com AAS no estudo AVERROES (9,6% vs. 8,5%).
+As reações adversas nos estudos ARISTOTLE e AVERROES estão listados na Tabela 20 por classificação por
+sistema orgânico (MedDRA) e por frequência. As indicações de frequência na Tabela 20 são baseadas
+primariamente nas frequências observadas no estudo ARISTOTLE. As reações adversas observadas no estudo
+AVERROES foram consistentes com aquelas observadas no estudo ARISTOTLE.
+Tabela 20: Reações adversas emergentes do tratamento em pacientes com fibrilação atrial não valvular
+Comum Incomum Rara
+(≥ 1/100 a < 1/10) (≥ 1/1.000 a < 1/100) (≥ 1/10.000 to < 1/1.000)
+Distúrbios do sistema imunológico
+Hipersensibilidade (incluindo
+hipersensibilidade medicamentosa,
+como rash cutâneo e reação
+anafilática, como edema alérgico)
+Distúrbios do sistema nervoso
+Hemorragia cerebral, outras
+hemorragias intracranianas ou
+intraespinhais (incluindo hematoma
+subdural, hemorragia subarracnoide
+e hematoma espinhal)
+Distúrbios oculares
+Hemorragia ocular (incluindo
+hemorragia conjuntival)
+Distúrbios vasculares
+Outras hemorragias, hematoma Hemorragia intra-abdominal
+Distúrbios respiratórios, torácicos e mediastínicos
+Epistaxe Hemoptise Hemorragia do trato respiratório
+(incluindo hemorragia alveolar
+pulmonar, hemorragia laríngea e
+hemorragia faríngea)
+Distúrbios gastrintestinais
+Hemorragia gastrintestinal Hemorragia hemorroidária, Hemorragia retroperitoneal
+(incluindo hematemese e melena), hematoquezia, hemorragia bucal
+hemorragia retal, sangramento
+gengival
+Distúrbios renais e urinários
+Hematúria
+Distúrbios do sistema reprodutivo e das mamas
+Hemorragia vaginal anormal,
+hemorragia urogenital
+Distúrbios gerais e condições no local de aplicação
+Sangramento no local de aplicação
+Investigações
+Sangue oculto positivo
+Lesões, intoxicações e complicações relacionadas ao procedimento
+Contusão Hemorragia traumática, hemorragia
+pós-procedimento, hemorragia do
+local de incisão
+Tratamento de tromboembolismo venoso
+A segurança da apixabana foi avaliada nos estudos AMPLIFY e AMPLIFY-EXT, incluindo 2.676 pacientes
+expostos à 10 mg de apixabana duas vezes ao dia, 3.359 pacientes expostos à 5 mg de apixabana duas vezes ao
+dia e 840 pacientes expostos à 2,5 mg de apixabana duas vezes ao dia. A duração média da exposição à
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 35
+03/Set/2024
+apixabana foi de 154 dias e à enoxaparina/varfarina foi de 152 dias no estudo AMPLIFY. A duração média da
+exposição à apixabana foi de aproximadamente 330 dias e ao placebo foi de 312 dias no estudo AMPLIFY-EXT.
+No estudo AMPLIFY, as reações adversas relacionadas ao sangramento ocorreram em 417 (15,6%) dos
+pacientes tratados com apixabana comparado com 661 (24,6%) dos pacientes tratados com
+enoxaparina/varfarina. A taxa de descontinuação devido aos eventos de sangramento foi de 0,7% nos pacientes
+tratados com apixabana comparada com 1,7% nos pacientes tratados com enoxaparina/varfarina no estudo
+AMPLIFY.
+No estudo AMPLIFY-EXT, as reações adversas relacionadas com sangramento ocorreram em 219 (13,3%) dos
+pacientes tratados com apixabana comparado com 72 (8,7%) dos pacientes tratados com placebo. A taxa de
+descontinuação devido aos eventos de sangramento foi de aproximadamente 1% nos pacientes tratados com
+apixabana comparado com 0,4% naqueles pacientes no grupo placebo no estudo AMPLIFY-EXT.
+As reações adversas comuns ( 1%) foram sangramento na gengiva, epistaxe, contusão, hematúria, hematoma e
+menorragia.
+As reações adversas nos estudos AMPLIFY e AMPLIFY-EXT estão listadas na Tabela 21 por classificação de
+sistema orgânico (MedDRA) e por frequência.
+Tabela 21: Reações adversas emergentes do tratamento em pacientes em tratamento de tromboembolismo venoso
+Comum Incomum Rara
+(≥ 1/100 a < 1/10) (≥ 1/1.000 a < 1/100) (≥ 1/10.000 a < /1.000)
+Distúrbios do sangue e sistema linfático
+Anemia hemorrágica, diátese
+hemorrágica, hematoma espontâneo
+Distúrbios do sistema nervoso
+Hemorragia cerebral, acidente
+vascular cerebral (AVC)
+hemorrágico
+Distúrbios oculares
+Hemorragia conjuntiva Hemorragia ocular, hemorragia
+retinal, hemorragia escleral,
+hemorragia vítrea
+Distúrbios auditivos e de labirinto
+Hemorragia auditiva
+Distúrbios cardíacos
+Hemorragia pericárdica
+Distúrbios vasculares
+Hematoma Hemorragia, hematoma intra-
+abdominal, choque hemorrágico
+Distúrbios respiratórios, torácicos e mediastínicos
+Epistaxe Hemoptise Hemorragia no alvéolo pulmonar
+Distúrbios gastrintestinais
+Sangramento gengival Hemorragia retal, hematoquezia, Melena, hemorragia anal,
+hemorragia hemorroidal, hemorragia hemorragia da úlcera gástrica,
+gastrintestinal, hematêmese hemorragia bucal, hemorragia da
+parede abdominal, síndrome de
+Mallory-Weiss, hemorragia gástrica,
+hemorragia da úlcera péptica,
+hemorragia do intestino delgado
+Distúrbios da pele e tecido subcutâneo
+Equimose, hemorragia cutânea, Petéquia, púrpura, tendência
+prurido aumentada ao sangramento, vesícula
+hemorrágica, hemorragia da úlcera
+cutânea
+Distúrbios musculoesqueléticos e do tecido conjuntivo
+Hemorragia muscular
+Distúrbios renais e urinários
+Hematúria Hemorragia do trato urinário
+Distúrbios do sistema reprodutivo e das mamas
+Menorragia Hemorragia vaginal, metrorragia Menometrorragia, hemorragia
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 36
+03/Set/2024
+Tabela 21: Reações adversas emergentes do tratamento em pacientes em tratamento de tromboembolismo venoso
+Comum Incomum Rara
+(≥ 1/100 a < 1/10) (≥ 1/1.000 a < 1/100) (≥ 1/10.000 a < /1.000)
+uterina, hemorragia genital,
+hematoma na mama,
+hematospermia, hemorragia pós-
+menopausa
+Distúrbios gerais e condições no local de aplicação
+Hematoma no local da injeção, Hemorragia no local da injeção,
+hematoma no local da venopunção hematoma no local da infusão
+Investigações
+Sangue presente na urina, positivo Sangue oculto, positivo para
+para sangue oculto eritrócitos na urina
+Lesões, intoxicações e complicações relacionadas ao procedimento
+Contusão Hemorragia da lesão, hemorragia Hematoma periorbital,
+pós-procedimento, hematoma pseudoaneurisma vascular,
+traumático hematoma subcutâneo, hematoma
+durante procedimento, hematoma
+pós-procedimento, hematúria pós-
+procedimento, hematoma extradural,
+hematoma renal, hemorragia
+subdural
+Atenção: Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da
+Anvisa.
+10. SUPERDOSE
+Não há antídoto para o Eliquis®. A superdose com Eliquis® pode resultar em um maior risco de sangramento.
+Em estudos clínicos controlados, a administração de apixabana por via oral a indivíduos sadios, em doses até 50
+mg por dia durante 3 a 7 dias (25 mg duas vezes ao dia durante 7 dias ou 50 mg uma vez por dia durante 3 dias)
+não teve reações adversas clinicamente relevantes.
+Administração de carvão ativado 2 e 6 horas após a ingestão de uma dose de 20 mg de apixabana reduziu a AUC
+média de apixabana em 50% e 27%, respectivamente, e não teve impacto no Cmáx. A meia-vida média da
+apixabana diminuiu de 13,4 horas quando foi administrada apenas apixabana para 5,3 horas e 4,9 horas,
+respectivamente, quando carvão ativado foi administrado 2 e 6 horas após a apixabana. Portanto, a administração
+de carvão ativado pode ser útil no gerenciamento de superdose com a apixabana ou ingestão acidental.
+É improvável que a hemodiálise seja um meio eficaz para gerenciar a superdosagem de apixabana (vide item 3.
+Características Farmacológicas)
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 37
+03/Set/2024
+III - DIZERES LEGAIS
+Registro: 1.2110.0464
+Produzido por:
+Pfizer Ireland Pharmaceuticals
+Co. Kildare – Irlanda
+Importado por:
+Pfizer Brasil Ltda.
+Rodovia Presidente Castelo Branco, n° 32501, km 32,5
+CEP 06696-000 – Itapevi – SP
+Registrado por:
+Pfizer Brasil Ltda.
+Rua Alexandre Dumas, 1860
+CEP 04717-904 – São Paulo – SP
+CNPJ n° 61.072.393/0001-33
+VENDA SOB PRESCRIÇÃO
+ELICOR_32
+LLD_Bra_CCDS_27Jun2019_SMPC_17Mai2021_v12_ELICOR_32_VPS 38
+03/Set/2024
+HISTÓRICO DE ALTERAÇÕES DE BULA
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do N° do Data do N° do Data de Versões
+Assunto Assunto Itens de bula Apresentações relacionadas
+expediente expediente expediente expediente aprovação (VP/VPS)
+18/09/2024 MEDICAMENTO 18/09/2024 MEDICAMENTO • IDENTIFICAÇÃO DO VP/VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - MEDICAMENTO TRANS X 20
+Notificação de Notificação de • ADVERTÊNCIAS E PRECAUÇÕES 2,5 MG COM REV CT BL AL PLAS
+Alteração de Alteração de • CUIDADOS DE TRANS X 60
+Texto de Bula – Texto de Bula – ARMAZENAMENTO DO 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 RDC 60/12 MEDICAMENTO TRANS X 20
+• O QUE DEVO SABER ANTES DE 5,0 MG COM REV CT BL AL PLAS
+USAR ESTE MEDICAMENTO? TRANS X 60
+• ONDE, COMO E POR QUANTO
+TEMPO POSSO GUARDAR ESTE
+MEDICAMENTO?
+• DIZERES LEGAIS
+07/11/2022 4910080228 MEDICAMENTO 30/07/2021 3008962210 10942 - RDC • QUAIS OS MALES QUE ESTE VP/VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - 73/2016 - NOVO - MEDICAMENTO PODE ME TRANS X 20
+Notificação de Inclusão de novo CAUSAR? 2,5 MG COM REV CT BL AL PLAS
+Alteração de fabricante do IFA • DIZERES LEGAIS TRANS X 60
+Texto de Bula – 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+31/08/2022 4634902222 MEDICAMENTO 29/08/2022 4618421220 11005 - RDC • DIZERES LEGAIS VP/VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - 73/2016 - NOVO - TRANS X 20
+Notificação de Alteração de 2,5 MG COM REV CT BL AL PLAS
+Alteração de razão social do TRANS X 60
+Texto de Bula – local de 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 fabricação do TRANS X 20
+medicamento 5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+ELICOR_32
+29/06/2021 2520835214 MEDICAMENTO 29/06/2021 2520835214 MEDICAMENTO • RESULTADOS DE EFICÁCIA VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - TRANS X 20
+Notificação de Notificação de 2,5 MG COM REV CT BL AL PLAS
+Alteração de Alteração de TRANS X 60
+Texto de Bula – Texto de Bula – 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 RDC 60/12 TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+13/05/2021 1846467210 MEDICAMENTO 13/05/2021 1846467210 MEDICAMENTO • RESULTADOS DE EFICÁCIA VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - TRANS X 20
+Notificação de Notificação de 2,5 MG COM REV CT BL AL PLAS
+Alteração de Alteração de TRANS X 60
+Texto de Bula – Texto de Bula – 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 RDC 60/12 TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+ELICOR_32
+09/02/2021 0528657213 MEDICAMENTO 09/02/2021 0528657213 MEDICAMENTO • COMPOSIÇÃO VP/VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - • O QUE DEVO SABER ANTES DE TRANS X 20
+Notificação de Notificação de USAR ESTE MEDICAMENTO? 2,5 MG COM REV CT BL AL PLAS
+Alteração de Alteração de • ADVERTÊNCIAS E PRECAUÇÕES TRANS X 60
+Texto de Bula – Texto de Bula – • POSOLOGIA E MODO DE USAR 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 RDC 60/12 TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+05/11/2020 3880908207 MEDICAMENTO 18/10/2019 2527700196 Alteração de 06/10/2020 • O QUE DEVO SABER ANTES DE VP/VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - texto de bula por USAR ESTE MEDICAMENTO? TRANS X 20
+Notificação de avaliação de • RESULTADOS DE EFICÁCIA 2,5 MG COM REV CT BL AL PLAS
+Alteração de dados clínicos - • ADVERTÊNCIAS E PRECAUÇÕES TRANS X 60
+Texto de Bula – GESEF • INTERAÇÕES 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 MEDICAMENTOSAS TRANS X 20
+05/11/2020 3880908207 MEDICAMENTO • QUAIS OS MALES QUE ESTE 5,0 MG COM REV CT BL AL PLAS
+NOVO - MEDICAMENTO PODE ME TRANS X 60
+Notificação de CAUSAR?
+Alteração de • REAÇÕES ADVERSAS
+Texto de Bula –
+RDC 60/12
+04/11/2020 3866438201 MEDICAMENTO 04/11/2020 3859650204 11005 - RDC • DIZERES LEGAIS VP/VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - 73/2016 - NOVO - TRANS X 20
+Notificação de Alteração de 2,5 MG COM REV CT BL AL PLAS
+Alteração de razão social do TRANS X 60
+Texto de Bula – local de 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 fabricação do TRANS X 20
+medicamento 5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+27/05/2020 1671397204 MEDICAMENTO 27/05/2020 1671397204 MEDICAMENTO • ADVERTÊNCIAS E PRECAUÇÕES VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - TRANS X 20
+Notificação de Notificação de 2,5 MG COM REV CT BL AL PLAS
+Alteração de Alteração de TRANS X 60
+Texto de Bula – Texto de Bula – 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 RDC 60/12 TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+ELICOR_32
+13/02/2020 0452099208 MEDICAMENTO 24/05/2019 0463104198 RDC 73/2016 - 10/02/2020 • CUIDADOS DE VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - ARMAZENAMENTO DO TRANS X 20
+Notificação de AMPLIAÇÃO DO MEDICAMENTO 2,5 MG COM REV CT BL AL PLAS
+Alteração de PRAZO DE • REAÇÕES ADVERSAS TRANS X 60
+Texto de Bula – VALIDADE DO 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 MEDICAMENTO TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+09/12/2019 3399952190 MEDICAMENTO 23/07/2019 0780570195 MEDICAMENTO 09/09/2019 • DIZERES LEGAIS VP e VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - TRANS X 20
+Notificação de Solicitação de 2,5 MG COM REV CT BL AL PLAS
+Alteração de Transferência de TRANS X 60
+Texto de Bula – Titularidade de 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 Registro TRANS X 20
+(Operação 5,0 MG COM REV CT BL AL PLAS
+Comercial) TRANS X 60
+01/07/2019 0576363/19-1 MEDICAMENTO 01/07/2019 0576363/19-1 MEDICAMENTO • IDENTIFICAÇÃO DO VP e VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - MEDICAMENTO TRANS X 20
+Notificação de Notificação de • O QUE DEVO SABER ANTES DE 2,5 MG COM REV CT BL AL PLAS
+Alteração de Alteração de USAR ESTE MEDICAMENTO? TRANS X 60
+Texto de Bula – Texto de Bula – • QUAIS OS MALES QUE ESTE 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 RDC 60/12 MEDICAMENTO PODE ME TRANS X 20
+CAUSAR? 5,0 MG COM REV CT BL AL PLAS
+• IDENTIFICAÇÃO DO TRANS X 60
+MEDICAMENTO
+• ADVERTÊNCIAS E PRECAUÇÕES
+• REAÇÕES ADVERSAS
+30/11/2018 1137264/18-8 RDC 73/2016 - 03/06/2019 • COMO DEVO USAR ESTE VP e VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - Alteração MEDICAMENTO? TRANS X 20
+de Posologia • CARACTERÍSTICAS 2,5 MG COM REV CT BL AL PLAS
+FARMACOLÓGICAS TRANS X 60
+• POSOLOGIA E MODO DE USAR 5,0 MG COM REV CT BL AL PLAS
+TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+ELICOR_32
+30/01/2019 0091755/19-9 MEDICAMENTO 06/07/2018 0555924/18-3 RDC 73/2016 - 14/01/2019 • COMO DEVO USAR ESTE VP e VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - Alteração MEDICAMENTO? TRANS X 20
+Notificação de de Posologia • RESULTADOS DE EFICÁCIA 2,5 MG COM REV CT BL AL PLAS
+Alteração de • POSOLOGIA E MODO DE USAR TRANS X 60
+Texto de Bula – • REAÇÕES ADVERSAS 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+22/10/2018 1017363/18-3 MEDICAMENTO 22/10/2018 1017363/18-3 MEDICAMENTO NA • DIZERES LEGAIS VP e VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO - TRANS X 20
+Notificação de Notificação de 2,5 MG COM REV CT BL AL PLAS
+Alteração de Alteração de TRANS X 60
+Texto de Bula – Texto de Bula – 5,0 MG COM REV CT BL AL PLAS
+RDC 60/12 RDC 60/12 TRANS X 20
+5,0 MG COM REV CT BL AL PLAS
+TRANS X 60
+16/10/2017 2112697/17-6 MEDICAMENTO 18/01/2017 0098141/17-2 MEDICAMENTO 03/07/2017 • DIZERES LEGAIS VP e VPS 2,5 MG COM REV CT BL AL PLAS
+NOVO - NOVO – TRANS X 20
+Notificação de 2,5 MG COM REV CT BL AL PLAS
+Solicitação de
+Alteração de TRANS X 60
+Transferência de
+Texto de Bula – 5,0 MG COM REV CT BL AL PLAS
+Titularidade de
+RDC 60/12 TRANS X 20
+Registro 5,0 MG COM REV CT BL AL PLAS
+(operação TRANS X 60
+comercial)
+ELICOR_32

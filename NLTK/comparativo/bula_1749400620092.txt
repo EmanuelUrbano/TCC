@@ -1,0 +1,103 @@
+INDICAÇÕES FEIBA é indicado para o tratamento e profilaxia de hemorragias em pacientes portadores de hemofilia A ou B com inibidores.
+Além disso, FEIBA pode ser usado para o tratamento e profilaxia de hemorragias em pacientes não portadores de hemofilia que
+desenvolveram inibidores para fatores VIII, IX e XI.
+Existem relatos isolados sobre o uso de FEIBA no tratamento de pacientes com inibidores adquiridos para os fatores X e XIII.
+FEIBA é utilizado também em combinação com o concentrado de fator VIII para uma terapia contínua de longo prazo, objetivando
+conseguir uma completa e permanente eliminação do inibidor do fator VIII, com o propósito de permitir o tratamento regular com
+concentrado de fator VIII, como ocorre em pacientes sem inibidor (imunotolerância).
+2. RESULTADOS DE EFICÁCIA
+Controle e Prevenção de Episódios Hemorrágicos
+A eficácia do FEIBA no tratamento de episódios hemorrágicos foi demonstrada por dois ensaios clínicos prospectivos.
+O primeiro estudo foi um estudo multicêntrico, randomizado, duplo-cego comparando o efeito de FEIBA com um concentrado de
+complexo de protrombina não ativado em 15 indivíduos com hemofilia A e inibidores do fator VIII. Os critérios de inclusão
+incluíram histórico de inibidores de títulos elevados, status de alta resposta, mais de 1 episódio de sangramento por mês no ano
+anterior e nenhum sinal de insuficiência hepática. Foram tratados um total de 150 episódios hemorrágicos, incluindo 117
+sangramentos articulares, 20 musculoesqueléticos e 4 mucocutâneos. Uma dose única de 88 U por kg de peso corporal foi utilizada
+uniformemente para os tratamentos com FEIBA. Um segundo tratamento foi permitido para sangramentos musculares após 12
+horas e 6 horas após sangramentos mucocutâneos, se necessário.
+Os pacientes e os investigadores do estudo avaliaram a eficácia hemostática com base em uma escala com os níveis eficaz,
+parcialmente eficaz, ineficaz ou incerto. Os critérios para avaliação da eficácia foram intensidade da dor, melhora subjetiva,
+circunferência do músculo ou articulação, restrição da mobilidade articular, cessação do sangramento aberto, início do
+ressangramento e quantidade e natureza dos analgésicos. FEIBA foi eficaz em 41% e parcialmente eficaz em 25% dos episódios
+(ou seja, eficácia combinada de 66%), enquanto o concentrado de complexo de protrombina foi classificado como eficaz em 25%
+e parcialmente eficaz em 21% dos episódios (ou seja, eficácia combinada de 46%).
+O segundo estudo com FEIBA foi um estudo multicêntrico randomizado e prospectivo. Este estudo foi conduzido em 44 pacientes
+com hemofilia A com inibidores, 3 pacientes com hemofilia B com inibidores e 2 pacientes com inibidor do fator VIII adquirido.
+O estudo foi desenhado para avaliar a eficácia de FEIBA no tratamento de episódios de hemorragias articulares, membranas
+mucosas, musculocutâneas e de emergência, como hemorragias do sistema nervoso central e hemorragias cirúrgicas. Os critérios
+de inclusão utilizados incluíram idade (> 4 anos), histórico de título de inibidor ≥ 4 Unidades Bethesda (BU) e ausência de doença
+hepática crônica. Os indivíduos foram excluídos se tivessem histórico de eventos tromboembólicos ou reações alérgicas ao FEIBA.
+Quarenta e nove (49) pacientes com títulos de inibidores superiores a 5 BU foram incluídos em nove centros de hemofilia
+cooperantes. Os indivíduos foram tratados com 50 U por kg de peso corporal, repetidos em intervalos de 12 horas (intervalos de 6
+horas em sangramentos de membrana mucosa), se necessário. Um total de 489 infusões foram administradas para o tratamento de
+165 episódios hemorrágicos (102 articulares, 33 musculares e de tecidos moles, 20 membranas mucosas e 10 sangramentos de
+emergência, incluindo 3 sangramentos do sistema nervoso central e 4 procedimentos cirúrgicos). O sangramento foi controlado
+em 153 episódios (93%). Em 130 (78%) dos episódios, a hemostasia foi alcançada com uma ou mais infusões em 36 horas. Destes,
+36% foram controlados com uma infusão em 12 horas. Adicionalmente 14% dos episódios responderam após mais de 36 horas.
+O estudo FENOC (FEIBA NovoSeven Comparison) prospectivo, randomizado, multicêntrico (N=66) comparou a eficácia
+hemostática de uma dose de FEIBA à 2 doses de fator VII ativado recombinante (rFVIIa) em pacientes com hemofilia com
+inibidores (>5 BU).
+Sangramentos pós-traumáticos ou sangramentos espontâneos, principalmente no tornozelo, joelho ou cotovelo foram avaliados. O
+efeito hemostático foi avaliado 2, 6, 12, 24, 36 e 49 horas após o tratamento. Quarenta e oito pacientes completaram ambos os
+tratamentos e foram avaliados quanto à eficácia. Seis horas após o tratamento, 80,9% dos pacientes tratados com FEIBA e 78,7%
+dos pacientes tratados com rFVIIa apresentaram controle do sangramento. (1)
+Vários estudos têm investigado a eficácia de FEIBA em hemorragias de mucosa e na articulação. No estudo do Sjamsoedin (1981)
+(2) uma dose única de FEIBA foi eficaz no estancamento de episódios de hemorragia em 64% dos casos. Dois estudos prospectivos
+de Hilgartner et al (1983 (3) e 1990 (4)) mostraram que FEIBA foi altamente eficaz no controle da hemorragia em 93% e 88% dos
+pacientes, respectivamente. Na análise retrospectiva de dados franceses (Negrier et al, 1997) (5) em 60 pacientes, FEIBA foi
+considerado como excelente em 81,3% dos casos e a eficácia nos sangramentos articulares foi de 81,9% após somente uma ou
+duas infusões.
+A eficácia de FEIBA foi mostrada em estudos prospectivos e retrospectivos em uma variedade de formas de tratamento. Gomperts
+et al (2004) (6) apresentou dados de eficácia em diferentes tratamentos – tratamento domiciliar (82%), pacientes não cirúrgicos
+internados (80%), profilaxia (70%) e cirurgia (90%).
+Profilaxia de Rotina
+Em um ensaio clínico multicêntrico, aberto, prospectivo e randomizado que comparou pacientes que receberam FEIBA para profilaxia
+com pacientes que receberam FEIBA para tratamento sob demanda, 36 pacientes com hemofilia A e B com inibidores do fator VIII ou
+IX foram analisados na intenção de análise do tratamento. A população do estudo incluiu 29 (80,6%) caucasianos, 3 (8,3%) asiáticos, 2
+(5,6%) negros/afro-americanos e 2 (5,6%) outros. Os critérios de inclusão incluíram indivíduos com histórico de inibidores de títulos
+altos ou títulos baixos refratários ao aumento da dosagem de fator VIII ou IX, faixa etária entre 4 e 65 anos e indivíduos recebendo
+agentes de bypass com ≥ 12 sangramentos nos 12 meses anteriores à entrada no estudo. Pacientes com histórico de eventos
+tromboembólicos, doença hepática sintomática ou contagem de plaquetas < 100.000/mL, e pacientes que receberam indução de tolerância
+imunológica ou profilaxia de rotina foram excluídos.
+Os indivíduos foram randomizados para receber 12 meses de tratamento profilático ou sob demanda de FEIBA. Dezessete indivíduos
+randomizados para o braço de profilaxia receberam 85 U/kg de FEIBA em dias alternados. Dezenove indivíduos randomizados para o
+braço sob demanda receberam FEIBA para o tratamento de episódios hemorrágicos agudos de acordo com a dose e regime de dosagem
+recomendados. As articulações-alvo foram definidas como ≥ 4 episódios de sangramento em 6 meses. Neste teste, tornozelos, joelhos,
+cotovelos e quadris foram os locais de articulação alvo. Articulações-alvo pré-existentes não foram consideradas como novas
+articulações-alvo.
+A eficácia hemostática para o tratamento de sangramentos agudos foi avaliada em 6 e 24 horas de acordo com uma escala pré-especificada
+de quatro pontos de excelente, bom, razoável ou nenhum. Uma avaliação de “nenhum” foi considerada uma falha do tratamento. Os
+critérios para avaliação da eficácia foram alívio da dor, cessação do sangramento e número de infusões necessárias para tratar um
+sangramento.
+Um total de 825 episódios hemorrágicos foram relatados, incluindo 196 ocorridos durante a profilaxia e 629 ocorridos durante a terapia
+sob demanda. A maioria (78%) dos 794 episódios hemorrágicos classificados quanto à eficácia foram tratados com 1 ou 2 infusões. A
+eficácia hemostática foi classificada como excelente ou boa para 74% dos episódios hemorrágicos avaliados 6 horas após a infusão e
+para 87% dos episódios hemorrágicos 24 horas após a infusão. Um total de 19 (2,4%) sangramentos foram classificados como “nenhum”
+6 horas após a infusão; 1 sangramento (0,1%) foi classificado como “nenhum” em 24 horas.
+A eficácia hemostática para profilaxia de rotina foi avaliada em pacientes que receberam terapia sob demanda.
+A taxa média anual de sangramento (ABR – annual bleed rate) para o braço sob demanda foi de 28,7 em comparação com 7,9 para o
+braço de profilaxia, o que representa uma redução de 72% na média de ABR com profilaxia. Quando analisado por local (por exemplo,
+articular, não articular) e causa do sangramento (por exemplo, espontâneo, traumático), o tratamento profilático com FEIBA resultou em
+uma redução superior a 50% no ABR. Houve menos pacientes no braço de profilaxia que desenvolveram novas articulações-alvo (7
+novas articulações-alvo em 5 pacientes tratados com profilaxia em comparação com 23 novas articulações-alvo em 11 pacientes no braço
+sob demanda). Articulações-alvo desenvolvidas em dois pacientes no braço sob demanda e três no braço de profilaxia que não relataram
+articulações-alvo na inscrição no estudo. Um total de 3 de 17 (18%) pacientes não tiveram episódios hemorrágicos na profilaxia. No
+braço sob demanda, todos os pacientes tiveram um episódio de sangramento.
+A ABR por categoria de idade entre os regimes sob demanda e profilaxia é apresentada na Tabela 1. Um paciente adolescente do grupo
+de regime de profilaxia apresentou uma taxa mais alta de sangramento, possivelmente devido ao aumento da atividade física após a
+inclusão no estudo.
+Tabela 1. Taxa média anual de sangramento (ABR) por idade
+Sob demanda Profilaxia
+Idade
+Número de Número de
+ABR Média ABR Média
+pacientes pacientes
+Crianças
+2 39,3 2 7,7
+(≥7 a <12 anos)
+Adolescent
+2 30,9 3 27,5
+(≥12 a <16 anos)
+Adult
+15 23,9 12 6,9
+(≥16 anos)

@@ -1,0 +1,70 @@
+INDICAÇÕES Epikabi® (hemitartarato de norepinefrina) é destinado ao controle da pressão sanguínea em certos estados hipotensivos agudos (por
+exemplo, feocromocitomectomia, simpatectomia, poliomielite, infarto do miocárdio, septicemia, transfusão sanguínea e reações a drogas).
+É indicado também como coadjuvante no tratamento da parada cardíaca e hipotensão profunda.
+2. RESULTADOS DE EFICÁCIA
+Em estudo clínico prospectivo, randomizado, aberto, realizado em uma unidade de terapia intensiva foi delineado para comparar dopamina
+à norepinefrina como o vasopressor inicial após reposição de volume líquido em 252 pacientes adultos com choque séptico.
+O endpoint primário de eficácia foi todas as causas de mortalidade em 28 dias. Os endpoints secundários incluíram disfunção orgânica,
+tempo de permanência em hospital ou na UTI, e segurança (principalmente ocorrência de arritmias). A taxa de mortalidade em 28 dias
+foi de 50% (67/134) com a dopamina como vasopressor inicial em comparação com 43% (51/118) para o tratamento da norepinefrina (p
+= 0,282).
+Houve uma incidência significativamente maior de taquicardia sinusal com dopamina [27,5% (33/120)] do que com norepinefrina [5,3%
+(7/132)] e arritmias observado com o tratamento de dopamina [23,3% (18/120)] quando comparada ao tratamento norepinefrina [5,3%
+(7/132)] (p <0,0001), respectivamente. A análise de regressão logística identificou o escore APACHE II (p <0,0001) e arritmia (p <0,015)
+como preditores significativos de resultado.
+Nesta estratégia de suporte vaso pressórica para pacientes em choque séptico, dopamina e norepinefrina foram igualmente eficazes como
+agentes iniciais para taxas de mortalidade em 28 dias. No entanto, houve um número significativamente maior de arritmias cardíacas com
+o tratamento dopamina. Os doentes que recebem dopamina devem ser monitorizados para o desenvolvimento de arritmias cardíacas.
+(PATEL, 2010)
+Em estudo multicêntrico, randomizado, duplo-cego, pacientes que tiveram choque séptico e estavam recebendo um mínimo de 5 μg de
+norepinefrina por minuto foram randomizados para receber uma dose baixa de vasopressina (0,01 a 0,03 UI por minuto) ou norepinefrina
+(5 a 15 μg por minuto), além dos vasopressores do período “open-label”. Todas as infusões vasopressoras foram tituladas e infundidas de
+acordo com protocolos vigentes para manter uma pressão arterial alvo. O desfecho primário foi a taxa de mortalidade de 28 dias após o
+início das infusões.
+Um total de 778 pacientes foi submetido à randomização e infundido com o fármaco em estudo (396 doentes receberam vasopressina e
+382 norepinefrina) e incluído na análise. Não houve diferença significativa entre os grupos vasopressina e norepinefrina na taxa de
+mortalidade em 28 dias (35,4% e 39,3%, respectivamente; P = 0,26) ou na mortalidade de 90 dias (43,9% e 49,6%, respectivamente; P =
+0,11). Não houve diferenças significativas nas taxas globais de eventos adversos graves (10,3% e 10,5%, respectivamente; P = 1,00). No
+estrato definido prospectivamente como choque séptico menos grave, a taxa de mortalidade foi significativamente menor no grupo de
+vasopressina do que no grupo norepinefrina aos 28 dias (26,5% versus 35,7%, P = 0,05); no estrato de choque séptico mais grave, não
+houve diferença significativa na mortalidade de 28 dias (44,0% e 42,5%, respectivamente; P = 0,76). Um teste para heterogeneidade entre
+estes dois estratos do estudo não foi significativo (P = 0,10).
+Em relação à análise de subgrupos, a significância estatística destas observações é incerta, especialmente pela realização de múltiplos
+testes estatísticos realizados, este achado deve ser considerado apenas como um gerador de hipótese para ser testado em futuros ensaios.
+Os autores concluíram que, vasopressina em baixa dose não reduziu as taxas de mortalidade quando comparado com a norepinefrina entre
+os pacientes com choque séptico que foram tratados com catecolaminas vasopressores (RUSSEL, 2008).
+Em estudo randomizado e controlado, delineado para comparar os efeitos da dopamina, noradrenalina, adrenalina, e a combinação de
+noradrenalina e dobutamina sobre o metabolismo da mucosa gástrica e oxigenação sistêmica em pacientes com choque séptico, cada
+paciente recebeu dopamina, em primeiro lugar, em seguida, numa sucessão aleatória epinefrina, norepinefrina, ou norepinefrina-
+dobutamina, a pressão arterial sistémica média foi mantida a > 9,31 kPa. Após 120 minutos de cada tratamento, os parâmetros,
+hemodinâmicos, taxa de oxigênio metabólico e da mucosa gástrica foram obtidos.
+Epinefrina induziu um aumento significativo na frequência cardíaca em comparação com os outros três grupos (P < 0,05), e um índice
+cardíaco significativamente maior em comparação com a noradrenalina sozinha e norepinefrina-dobutamina (P < 0,05). Os valores da
+relação de extração de oxigênio foram menores com infusão de epinefrina, em comparação com os outros três grupos (P < 0,05). As
+concentrações de lactato arterial diminuíram significativamente com norepinefrina-dobutamina, em comparação com as infusões de
+dopamina e epinefrina (P < 0,05). Em comparação com a infusão de epinefrina, os valores de pH gástricos intramucosa foram maiores
+com infusão de noradrenalina-dobutamina (7,25 ± 0,09 vs 7,14 ± 0,07, P < 0,05).
+Dopamina, noradrenalina, adrenalina, ou norepinefrina-dobutamina melhoraram a pressão arterial.
+Epinefrina e dopamina apresentaram efeito deletério sobre o metabolismo do oxigênio, enquanto a norepinefrina acrescida de uma dose
+baixa de dobutamina melhorou a perfusão e utilização de oxigênio na mucosa gástrica e nos tecidos (ZHOU, 2002).
+Em estudo multicêntrico, randomizado, foram incluídos pacientes com choque para receber dopamina ou norepinefrina como terapia
+vasopressora de primeira linha para restaurar e manter a pressão arterial.
+Quando a pressão arterial não pode ser mantida com uma dose de 20 μg por quilograma de peso corporal por minuto para os pacientes do
+braço da dopamina ou uma dose de 0,19 μg por quilograma por minuto para a norepinefrina, noradrenalina, adrenalina, ou vasopressina
+foram adicionadas (fase open-label). O desfecho primário foi a taxa de mortalidade em 28 dias após a aleatorização; desfechos secundários
+incluíram o número de dias sem necessidade de suporte de órgãos (sistêmico) e a ocorrência de eventos adversos.
+O estudo incluiu 1679 doentes, dos quais 858 no braço da dopamina e 821 no da norepinefrina. As características basais dos grupos foram
+semelhantes. Não houve diferença significativa entre os grupos na taxa de mortalidade aos 28 dias (52,5% no grupo de dopamina e de
+48,5% no grupo de norepinefrina; odds ratio com dopamina, 1,17; 95% intervalo de confiança, 0,97-1,42; P = 0,10). No entanto, ocorreu
+maior número de eventos arrítmicos entre os pacientes tratados com dopamina do que entre aqueles tratados com noradrenalina (207
+eventos [24,1%] versus 102 eventos [12,4%], P < 0,001).
+Uma análise de subgrupo mostrou que a dopamina, em comparação com norepinefrina, foi associada com um aumento da taxa de morte
+de 28 dias entre os 280 pacientes com choque cardiogênico, mas não entre os 1044 pacientes com choque séptico ou os 263 com choque
+hipovolêmico (P = 0,03 para choque cardiogênico, P = 0,19 para choque séptico, e P = 0,84 para choque hipovolêmico, em análises de
+Kaplan-Meier).
+Os autores concluíram que, embora não tenha havido diferença significativa na taxa de mortalidade entre os pacientes com choque que
+foram tratados com dopamina como agente vasopressor de primeira linha e aqueles que foram tratados com norepinefrina, a utilização de
+dopamina foi associada com um maior número de eventos adversos. (DE BACKER,2010)
+Com o objetivo de determinar se havia diferença entre epinefrina e norepinefrina na tentativa de estabilizar a pressão arterial média (PAM)
+em pacientes internados na unidade de terapia intensiva (UTI) com o diagnóstico de choque, os autores conduziram um estudo
+prospectivo, duplo-cego, randomizado e controlado.

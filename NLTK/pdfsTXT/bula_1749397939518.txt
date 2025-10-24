@@ -1,0 +1,735 @@
+®
+EGROTIB
+erlotinibe
+Dr. Reddy’s Farmacêutica do Brasil Ltda.
+Comprimidos revestidos
+25 mg
+100 mg
+150 mg
+Bula Profissional
+-1 -
+I – IDENTIFICAÇÃO DO MEDICAMENTO
+EGROTIB®
+erlotinibe
+Comprimidos Revestidos
+25 mg, 100 mg e 150 mg
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA
+APRESENTAÇÕES
+Comprimidos revestidos de 25 mg, 100 mg ou 150 mg em caixa com 30 comprimidos.
+USO ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada comprimido revestido de 25 mg contém: erlotinibe (equivalente a 27,32 mg de cloridrato de erlotinibe)
+. .................................................................................... 25 mg
+Cada comprimido revestido de 100 mg contém: erlotinibe (equivalente a 109,27 mg de cloridrato de erlotinibe)
+. ............................................................................... 100 mg
+Cada comprimido revestido de 150 mg contém: erlotinibe (equivalente a 163,90 mg de cloridrato de erlotinibe)
+. ............................................................................... 150 mg
+Excipientes: celulose microcristalina, lactose monoidratada, laurilsulfato de sódio, amidoglicolato de sódio, estearato de magnésio e opadry branco.
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Câncer de pulmão de não pequenas células
+O EGROTIB® (cloridrato de erlotinibe) é indicado para o tratamento de primeira linha e de manutenção de pacientes com câncer de pulmão do tipo não
+pequenas células (CPNPC), localmente avançado ou metastático, com mutações ativadoras de EGFR (receptor do fator de crescimento epidérmico).
+No tratamento de manutenção, nenhum benefício clinicamente relevante foi demonstrado em pacientes com CPNPC sem mutação ativadora de EGFR.
+O EGROTIB® também é indicado para o tratamento de pacientes com câncer de pulmão de não pequenas células (CPNPC), localmente avançado
+ou metastático (estadios IIIb e IV), após a falha de pelo menos um esquema quimioterápico prévio.
+Câncer de pâncreas
+O EGROTIB®, em combinação com gencitabina, é indicado para o tratamento de primeira linha de pacientes com câncer de pâncreas localmente
+avançado, irressecável ou metastático.
+2. RESULTADOS DE EFICÁCIA
+Eficácia/ estudos clínicos
+Câncer de pulmão de não pequenas células (CPNPC)
+Terapia de primeira linha para pacientes com mutações ativadoras de EGFR:
+A eficácia de cloridrato de erlotinibe no tratamento de primeira linha de pacientes com mutações ativadoras de EGFR em CPNPC foi demonstrada em
+um estudo clinico randomizado e aberto de fase III (ML20650, EURTAC). Esse estudo foi conduzido em pacientes caucasianos com CPNPC localmente
+avançado ou metastático (estadios IIIB e IV), os quais não haviam recebido previamente quimioterapia ou terapia sistêmica anti-tumoral para doença
+avançada e os quais apresentavam mutações no dominio da tirosina quinase do EGFR (deleção do éxon 19 ou mutação do éxon 21). Os pacientes foram
+randomizados 1:1 para receber cloridrato de erlotinibe 150mg ou quimioterapia baseada em esquemas duplos de platina.
+O objetivo primário foi avaliar a sobrevida livre de progressão (SLP), determinada em uma análise interina pré- planejada [n= 153, razão de risco (RR) =
+0,42; IC 95% 0,27 a 0,64; p < 0,0001 para o grupo de cloridrato de erlotinibe (n=77) relativamente ao grupo de quimioterapia (n=76)]. Foi observada
+redução de 58% no risco de progressão da doença ou morte. A mediana da SLP foi 9,4 e 5,2 meses e a taxa de resposta objetiva foi 54,5% e 10,5%, nos
+braços de cloridrato de erlotinibe e quimioterapia, respectivamente. Os resultados de SLP foram confirmados por uma revisão independente das
+imagens, a mediana da SLP foi 10,4 meses no grupo de cloridrato de erlotinibe, comparado com 5,4 meses no grupo de quimioterapia (RR=0,47; IC 95%
+0,27 a 0,78; p=0,003). Os dados de sobrevida global estavam imaturos quando foi feita a análise interina (RR=0,80; IC 95% 0,47 a 1,37, p=0,4170).
+Em uma análise atualizada com 62% de maturidade dos dados de sobrevida global (OS), a razão de risco (RR) foi de 0,93 (IC 95%: 0,64 – 1,36, p =
+0,7149). Observou-se uma alta taxa de cruzamento, onde 82% dos pacientes do grupo tratado com quimioterapia receberam, subsequentemente, terapia
+com um inibidor da tirosina quinase do EGFR e todos, menos dois desses pacientes, receberam cloridrato de erlotinibe subsequentemente. Na análise
+atualizada, os resultados da SLP permaneceram consistentes com os resultados da análise provisória. A mediana da SLP avaliada pelos investigadores foi
+de 10,4 e 5,1 meses no braço de cloridrato de erlotinibe e quimioterapia, respectivamente (RR = 0,34, IC 95%, 0,23 – 0,49, p
+<0,0001).5
+-2 -
+- Dados adicionais publicados
+Em uma análise prospectiva dos pacientes com CPNPC avançado, que apresentavam tumores com mutações ativadoras no domínio TK do EGFR, a
+SLP mediana para os 113 pacientes tratados com cloridrato de erlotinibe na primeira linha foi 14 meses (IC 95% 9,7 a 18,3 meses), e a
+mediana da sobrevida global foi 28,0 meses (IC 95%, 22,7 a 33 meses). A análise conjunta dos dados publicados a partir de pacientes com
+CPNPC demonstrou que pacientes com tumores com mutações ativadoras de EGFR tratados predominantemente com cloridrato de
+erlotinibe na primeira linha (n=70; 12, 5 meses; IC 95% 10,6 a 16,0) apresentaram uma mediana maior de SLP, comparada com aqueles
+tratados com quimioterapia (n=359; 6,0 meses; IC 95% 5,4 a 6,7).
+Terapia de manutenção de primeira linha
+A eficácia e a segurança de cloridrato de erlotinibe como terapia de manutenção de primeira linha em CPNPC foram demonstradas em
+estudo randomizado, duplo-cego e placebo controlado (BO18192). Esse estudo foi conduzido com 889 pacientes com CPNPC localmente
+avançado ou metastático que não progrediram durante 4 ciclos de quimioterapia baseada em esquemas duplos com platina. Os pacientes
+foram randomizados na proporção 1:1 com cloridrato de erlotinibe, 150 mg, ou placebo, por via oral, uma vez ao dia. O objetivo primário
+do estudo foi avaliar a sobrevida livre de progressão (SLP) em todos os pacientes e naqueles com tumor EGFR (receptor do fator de
+crescimento epidérmico) IHC (imunohistoquímica) positivo. As características demográficas e as características da doença foram bem
+equilibradas entre os dois braços de tratamento.
+No estudo BO18192 (SATURN), a população geral demonstrou benefício para o desfecho primário de SLP (RR = 0,71 p<0,0001) e para o
+desfecho secundário de SG (RR = 0,81 p=0,0088). No entanto, o maior benefício foi observado em uma análise exploratória pré definida
+em pacientes com mutações ativadoras de EGFR (n=49), demonstrando um benefício substancial na SLP (RR = 0,10, IC 95%, 0,04 a 0,25;
+p<0,0001) e uma razão de risco de SG de 0,83 (IC 95%, 0,34 a 2,02). No subgrupo de mutações positivas de EGFR, 67% dos pacientes
+com placebo receberam segunda linha de tratamento ou linhas adicionais com inibidores de EGFR. Nos pacientes com tumores do tipo
+EGFR selvagem (n = 388), a razão de risco de SLP foi 0,78 (IC 95%, 0,63 a 0,96; p = 0,0185) e razão de risco de SG foi de 0,77 (IC 95%,
+0,61 a 0,97; p = 0,0243).
+O estudo BO25460 (IUNO) foi conduzido em 643 pacientes com câncer de pulmão de não pequenas células avançado cujos tumores não
+possuíam mutação ativadora de EGFR (deleção do éxon 19 ou mutação no éxon 21 L858R) e que não apresentaram progressão da doença
+após 4 ciclos de quimioterapia baseada em platina.
+O objetivo do estudo foi comparar a SG da terapia de manutenção de primeira linha com erlotinibe versus erlotinibe administrado no
+momento da progressão da doença. O estudo não atingiu seu desfecho primário. A SG de cloridrato de erlotinibe na manutenção de primeira
+linha não foi superior à cloridrato de erlotinibe no tratamento de segunda linha
+em pacientes cujo tumor não possuía mutação ativadora de EGFR (RR = 1,02, IC 95%, 0,85 a 1,22, p = 0,82). O desfecho secundário de
+SLP não apresentou diferença entre cloridrato de erlotinibe e placebo no tratamento de manutenção (RR = 0,94, IC 95%, 0,80 a 1,11; p =
+0,48).
+Com base nos dados do estudo BO25460 (IUNO), o cloridrato de erlotinibe não é recomendado para o tratamento de manutenção de
+primeira linha em pacientes sem mutação ativadora de EGFR.
+Terapia de segunda/ terceira linha
+A eficácia e a segurança de cloridrato de erlotinibe como terapia de segunda/ terceira linha foram demonstradas em estudo randomizado,
+duplo-cego, controlado com placebo (BR.21). Esse estudo foi conduzido em 17 países, incluindo 731 pacientes com CPNPC localmente
+avançado ou metastático, após falha de pelo menos um esquema quimioterápico. Os pacientes foram randomizados na proporção de 2:1
+para receber cloridrato de erlotinibe 150 mg ou placebo via oral diariamente. Os objetivos do estudo incluíram avaliar a sobrevida global, o
+tempo até deterioração de sintomas relacionados ao câncer de pulmão (tosse, dispneia e dor), taxa de resposta, duração da resposta, sobrevida
+livre de progressão (SLP) e segurança. O objetivo primário foi a sobrevida global.
+Devido à randomização 2:1, 488 pacientes foram randomizados para cloridrato de erlotinibe e 243 pacientes para placebo. Os pacientes não
+foram selecionados por expressão imunohistoquímica HER1/EGFR, sexo, raça, história de tabagismo ou classificação histológica.
+As características demográficas foram bem equilibradas entre os dois braços de tratamento. Aproximadamente dois terços dos pacientes eram
+homens, um terço apresentava estado de desempenho ECOG basal de 2, e 9% dos pacientes apresentavam um ECOG basal de 3. Noventa e
+três por cento e 92% de todos os pacientes nos grupos cloridrato de erlotinibe e placebo, respectivamente, tinham recebido um esquema
+prévio com platina, e 36% e 37% de todos os pacientes, respectivamente, tinham recebido uma terapia prévia com taxano. Cinquenta por
+cento dos pacientes tinham recebido apenas um esquema prévio de quimioterapia.
+A sobrevida foi avaliada na população ITT. A mediana da sobrevida global aumentou em 42,5% e foi de 6,7 meses no grupo cloridrato de
+erlotinibe (IC 95%, 5,5 a 7,8 meses), em comparação com 4,7 meses no grupo placebo (IC 95%, 4,1 a 6,3 meses), resultando em uma
+diferença de dois meses entre os grupos. A análise de sobrevida primária foi ajustada para fatores de estratificação, como descrito no
+momento da randomização (ECOG PS, melhor resposta à terapia prévia, número de esquemas prévios e exposição prévia à platina) e
+expressão imunohistoquímica HER1/EGFR. Nessa análise primária, a razão de risco ajustada para óbito no grupo cloridrato de erlotinibe
+em relação ao grupo placebo foi de 0,73 (IC 95%, 0,60 a 0,87; p = 0,001). A porcentagem de pacientes vivos em 12 meses foi de 31,2% e
+21,5%, respectivamente.
+O benefício de sobrevida com o tratamento com cloridrato de erlotinibe foi observado na maioria dos subgrupos. Uma série de subgrupos de
+pacientes formada pela estratificação das diferentes características do estado basal dos pacientes, tais como expressão imunohistoquímica
+HER1/EGFR, exposição prévia a taxanos, história de tabagismo, sexo, idade, histologia, perda de peso prévia, tempo entre o diagnóstico
+inicial e a randomização e localização geográfica, foi examinada por análises univariadas exploratórias para avaliar a consistência do
+resultado de sobrevida global. Praticamente todas as razões de risco (RR) no grupo cloridrato de erlotinibe, em relação ao grupo placebo,
+foram menores que 1,0, sugerindo que o benefício de cloridrato de erlotinibe foi consistente entre os subgrupos. O benefício de sobrevida de
+cloridrato de erlotinibe foi comparável em pacientes com performance status (PS) ECOG basal de 2 – 3 (RR = 0,77) ou um PS de 0 – 1 (RR
+= 0,73) e pacientes que receberam um regime de quimioterapia (RR = 0,76) ou dois ou mais regimes (RR=0,76).
+O benefício de sobrevida de cloridrato de erlotinibe também foi observado em pacientes que não atingiram uma resposta objetiva do tumor
+(critério RECIST). Isso foi evidenciado por uma razão de risco para óbito de 0,83 entre pacientes cuja melhor resposta foi doença estável e
+0,85 entre pacientes cuja melhor resposta foi doença progressiva.
+-3 -
+Em uma análise detalhada de alguns desses subgrupos, podemos explicitar as diferenças em meses de sobrevida entre os pacientes que
+receberam cloridrato de erlotinibe ou placebo. No grupo de pacientes com ECOG 0 – 1, essa diferença foi de 1,45 mês (RR = 0,73) e com
+ECOG 2 – 3 de 0,39 mês (RR = 0,77); no grupo de pacientes que havia recebido um tratamento quimioterápico prévio, a diferença foi de
+0,83 mês (RR = 0,76) e de 2,18 meses (RR=0,76) no grupo que havia recebido dois ou mais tratamentos prévios.
+Entre os pacientes que nunca fumaram e que foram tratados com cloridrato de erlotinibe, o ganho de sobrevida foi mais que seis meses: a
+sobrevida mediana no grupo de pacientes não fumantes tratados com cloridrato de erlotinibe foi de 12,25 meses e no grupo de pacientes não
+fumantes que receberam placebo foi de 5,62 meses.
+Não se pode afirmar que houve benefício entre pacientes fumantes ou ex-fumantes: a sobrevida mediana obtida no grupo de pacientes
+fumantes ou ex-fumantes que foram tratados com cloridrato de erlotinibe foi de 5,52 meses e no grupo de pacientes fumantes ou ex-fumantes
+que receberam placebo foi de 4,63 meses, resultando em diferença de 0,89 mês.
+Houve benefício de sobrevida, e esse foi ainda superior em alguns grupos de pacientes: asiáticos, mulheres, pacientes com câncer de
+pulmão do tipo adenocarcinoma.
+A Tabela 1 resume os resultados para o estudo, incluindo sobrevida, tempo até deterioração de sintomas relacionados ao câncer de pulmão
+e sobrevida livre de progressão (SLP).
+Tabela 1: Resultados de eficácia do estudo BR.21
+cloridrato de erlotinibe
+Placebo (N
+(N = 488) Valor de p
+= 243)
+Sobrevida mediana 6,7 meses 4,7 meses
+–
+IC 95% (5,5 a 7,8) (4,1 a 6,3)
+Diferença entre curvas de
+0,001
+sobrevida
+Razão de risco*, mortalidade
+0,73
+(erlotinibe: placebo) –
+IC 95% (razão de riscos)
+(0,60 a 0,87)
+Tempo mediano até deterioração da
+28,1 semanas 15,7 semanas
+tosse*** 0,041
+IC 95%
+(16,1 a 40,0) (9,3 a 24,3)
+Tempo mediano até deterioração da
+20,4 semanas 12,1 semanas
+dispneia*** 0,031**
+IC 95%
+(16,3 a 28,3) (9,3 a 20,9)
+Tempo mediano até deterioração da dor***
+12,1 semanas 8,1 semanas
+IC 95% 0,040**
+(10,1 a 14,1) (7,7 a 12,3)
+Sobrevida livre de progressão
+9,7 semanas 8,0 semanas
+mediana
+IC 95% < 0,001
+(8,4 a 12,4) (7,9 a 8,0)
+* Ajustado para fatores de estratificação e expressão imunohistoquímica HER1/EGFR; um valor menor do que 1,00 favorece cloridrato de
+erlotinibe (análise primária).
+** Valor de p ajustado para múltiplos testes.
+*** Do Questionário de Qualidade de Vida EORTC QLQ-C30 e QLQ-LC13.
+A deterioração do sintoma foi medida usando os questionários de qualidade de vida EORTC QLQ-C30 e QLQ- LC13. Os escores basais dos
+sintomas: tosse, dispneia e dor foram semelhantes nos dois grupos de tratamento. O grupo de pacientes tratados com cloridrato de erlotinibe
+mostrou melhora nos sintomas por meio do aumento do tempo para deterioração da tosse de 12,4 semanas (RR = 0,75), da dispneia de 8,3
+semanas (RR = 0,72) e da dor de quatro semanas (RR = 0,77), quando comparado ao placebo. Esses benefícios sintomáticos não foram
+devidos a uso aumentado de radioterapia paliativa ou medicação concomitante no grupo cloridrato de erlotinibe.
+A mediana da sobrevida livre de progressão foi de 9,7 semanas no grupo cloridrato de erlotinibe (IC 95%, 8,4 a 12,4 semanas), em
+comparação com 8,0 semanas no grupo placebo (IC 95%, 7,9 a 8,1 semanas), resultando em diferença de 1,7 semana entre os grupos. A RR
+para progressão, ajustada para fatores de estratificação e expressão imunohistoquímica HER1/EGFR, foi de 0,61 (IC 95% 0,51 a 0,73; p <
+0,001). A porcentagem de pacientes livres de progressão aos 6 meses foi de 24,5% e 9,3%, respectivamente, para braços cloridrato de
+erlotinibe e placebo.
+A taxa de resposta objetiva por RECIST no grupo cloridrato de erlotinibe foi de 8,9% (IC 95% 6,4 a 12,0%). A duração mediana da resposta
+foi de 34,3 semanas, variando de 9,7 a 57,6+ semanas. Duas respostas (0,9%; IC 95% 0,1 a 3,4) foram relatadas no grupo placebo. A
+proporção de pacientes que apresentaram resposta completa, resposta parcial ou doença estável foi de 44,0% e 27,5%, respectivamente, para
+os grupos cloridrato de erlotinibe e placebo (p = 0,004).
+Em um estudo randomizado, duplo-cego, fase III, (MO22162, CURRENTS) foram comparadas duas doses de cloridrato de erlotinibe (300 mg versus
+-4 -
+150 mg) em fumantes ativos (média de 38 pacotes anos) com CPNPC localmente avançado ou metastático no tratamento de segunda linha após falha de
+quimioterapia. A dose de 300 mg de cloridrato de erlotinibe não demonstrou nenhum benefício na sobrevida livre de progressão (SLP) em relação à
+dose recomendada (7,00 versus 6,86 semanas, respectivamente). Os pacientes neste estudo não foram selecionados com base no estado da mutação
+EGFR8.
+Os dados de segurança foram comparáveis entre as doses de 300 mg e de 150 mg, no entanto houve um aumento numérico na incidência de erupção
+cutânea, de doença pulmonar intersticial e de diarreia nos pacientes que receberam a dose mais elevada de cloridrato de erlotinibe.
+Câncer de pâncreas (cloridrato de erlotinibe administrado simultaneamente com gencitabina)
+A eficácia e a segurança de cloridrato de erlotinibe em combinação com gencitabina como tratamento de primeira linha foram avaliadas em
+um estudo randomizado, duplo-cego, placebo controlado, em 569 pacientes com câncer de pâncreas localmente avançado, irressecável ou
+metastático. Os pacientes foram randomizados na proporção de 1:1 para receber cloridrato de erlotinibe (100 ou 150 mg) ou placebo, uma
+vez ao dia, em esquema contínuo, mais gencitabina IV (1.000 mg/m2, Ciclo 1 – Dias 1, 8, 15, 22, 29, 36 e 43 de um ciclo de oito semanas,
+Ciclo 2 e ciclos subsequentes – Dias 1, 8 e 15 de um ciclo de 4 semanas < dose aprovada e esquema para câncer de pâncreas, vide bula de
+gencitabina). O cloridrato de erlotinibe ou placebo foi ingerido uma vez ao dia até a progressão da doença ou toxicidade inaceitável. O
+objetivo do estudo incluiu sobrevida global, taxa de resposta e sobrevida livre de progressão (SLP). A duração da resposta também foi
+avaliada. O objetivo primário foi sobrevida. Um total de 285 pacientes foi randomizado para receber gencitabina mais cloridrato de
+erlotinibe (261 pacientes do grupo de 100 mg e 24 pacientes do grupo de 150 mg) e 284 pacientes foram randomizados para receber
+gencitabina mais placebo (260 pacientes do grupo de 100 mg e 24 pacientes no grupo de 150 mg). O pequeno número de pacientes na dose
+de 150 mg não permitiu conclusões.
+Características basais demográficas e da doença dos pacientes foram similares entre os dois grupos de tratamento, cloridrato de erlotinibe
+100 mg mais gencitabina ou placebo mais gencitabina, exceto para uma proporção levemente aumentada de mulheres no braço cloridrato de
+erlotinibe (51%) comparado com o braço placebo (44%). O tempo mediano do diagnóstico inicial para a randomização foi aproximadamente
+um mês. Aproximadamente metade dos pacientes teve performance status (PS) ECOG basal de 1, e 17% tiveram ECOG PS basal de 2. A
+maioria dos pacientes apresentou-se com doença metastática na entrada do estudo como manifestação inicial do câncer de pâncreas (77% no
+braço cloridrato de erlotinibe, 76% no braço placebo).
+A sobrevida foi avaliada na população com intenção de tratamento com base nos dados de acompanhamento de sobrevida, incluindo 551
+óbitos. Os resultados são apresentados para o grupo de dose de 100 mg (504 óbitos). A razão de risco ajustada para óbito no grupo cloridrato
+de erlotinibe relativo ao grupo placebo foi 0,82 (IC 95% 0,69 a 0,98; p = 0,028). A porcentagem de pacientes vivos aos 12 meses foi de
+23,8% no grupo cloridrato de erlotinibe comparado aos 19,4% no grupo placebo. O tratamento com cloridrato de erlotinibe esteve associado a
+discreto ganho de sobrevida global, estatisticamente significante. A sobrevida global mediana foi de 6,4 meses no grupo cloridrato de erlotinibe
+comparado com 6 meses no grupo placebo.
+A Tabela 2 resume os resultados do estudo.
+Tabela 2: Resultados de eficácia do estudo PA.3
+cloridrato de Placebo mais valor de p
+erlotinibe 100 mg gencitabina
+mais gencitabina (N = 260)
+(N = 261)
+Sobrevida mediana 6,4 meses 6 meses
+Razão de risco, mortalidade 0,82
+(erlotinibe: placebo) p = 0,028
+IC 95% (0,69 a 0,98)
+% de pacientes vivos aos 23,8 19,4
+12 meses
+A SLP mediana foi de 3,81 meses (16,5 semanas) no grupo cloridrato de erlotinibe (IC 95%, 3,58 a 4,93 meses), comparado com 3,55 meses
+(15,2 semanas) no grupo placebo (IC 95% 3,29 a 3,75 meses; p = 0,006).
+A duração mediana de resposta foi de 23,9 semanas, intervalo de 3,71 a 56+ semanas. A taxa de resposta objetiva (resposta completa e
+resposta parcial) foi de 8,6% no grupo cloridrato de erlotinibe e 7,9% no grupo placebo. A
+proporção de pacientes que apresentaram resposta completa, resposta parcial ou doença estável foi de 59% e 49,4%, respectivamente, para
+os grupos cloridrato de erlotinibe e placebo (p = 0,036).
+Referências bibliográficas
+1. Sheperd FA, Pereira JR, Ciuleanu T, et al. Erlotinib in previously treated non-small-cell lung cancer. N Engl J Med 2005;353:123-132.
+2. Moore MJ, Goldstein D, Hamm J, et al. Erlotinib plus gemcitabine compared with gemcitabine alone in patients with advanced
+pancreatic cancer: a phase III trial of the National Cancer Institute of Canada Clinical Trials Group. JCO 2007;26(15):1960-66.
+3. Clinical Study Report – BO18192 – A multi-centre, double-blind randomized, placebo-controlled Phase III study to evaluate the efficacy
+of Tarceva® following 4 cycles of standard platinum-based chemotherapy in patients with histologically documented, advanced, recurrent
+or metastatic (Stage IV) NSCLC who have not experienced disease progression or unacceptable toxicity during chemotherapy. Report No.
+1031460, February 2009.
+4. Clinical Study Report Addendum – Protocol BO18192 – A multi-centre, double-blind randomized, Phase III study to evaluate the efficacy
+of Tarceva® or placebo following 4 cycles of platinum-based chemotherapy in patients with histologically documented, advanced or
+recurrent (Stage IIIB and not amenable for combined modality treatment) or metastatic (Stage IV) non-small cell lung cancer (NSCLC)
+who have not experienced disease progression or unacceptable toxicity during chemotherapy. Report No. 1033732, August 2009.
+5. Clinical Study Report – ML20650 (EURTAC) Phase III, multicenter, open-label, randomized study of erlotinib (Tarceva®) treatment
+versus chemotherapy in patients with advanced non-small-cell carcinoma of the lung who present mutations in the tyrosine kinase (TK)
+-5 -
+domain of epidermal growth factor receptor (EGFR) / Report Number 1050832 / October, 2012
+6. Paz-Ares, L et al. Clinical outcome in non-small-cell lung cancer patients with EGFR mutations: pooled analysis. J Cell. Mol. Med. 2009
+XX;XX:1-19
+7. Data Summary: Summary of Clinical Efficacy and Summary of Clinical Safety – BO25460 (IUNO) A randomized, double-blind,
+placebo controlled Phase III study of first-line maintenance Tarceva vs. Tarceva at the time of disease progression in patients with advanced
+non−small cell lung cancer (NSCLC) who have not progressed following 4 cycles of platinum-based chemotherapy.
+8. Clinical Study Report – Protocol MO22162 – A prospective double-blind randomized phase III study of 300 mg versus 150 mg erlotinib in current
+smokers with locally advanced or metastatic NSCLC in second-line setting after failure on chemotherapy (CURRENTS). Report nº 1062520. July 9,
+2015.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Farmacodinâmica
+Erlotinibe potencialmente inibe a fosforilação intracelular do receptor HER1/EGFR. O receptor HER1/EGFR é expresso na superfície celular
+de células normais e de células cancerosas. Nos modelos não clínicos, a inibição da fosforilação do EGFR resulta em inibição da proliferação
+celular e/ou morte celular.
+Farmacocinética
+Após a dose oral de cloridrato de erlotinibe 150 mg, o tempo mediano para alcançar o estado de equilíbrio é de quatro horas, com a
+concentração plasmática mediana máxima em torno de 1,995 ng/mL. Antes da próxima dose em 24 horas, a concentração plasmática
+mediana mínima é de 1,238 ng/mL. A mediana da ASC observada durante os intervalos de dose no estado de equilíbrio é 41,300< g*h/mL.
+Absorção
+Erlotinibe oral é bem absorvido e tem fase de absorção ampliada, com média de concentrações plasmáticas máximas ocorrendo quatro horas
+depois da administração oral. Um estudo em voluntários saudáveis normais
+forneceu estimativa de biodisponibilidade de 59%. A exposição após uma dose oral pode ser aumentada ao ingerir alimentos.
+Depois da absorção, erlotinibe é altamente ligado no sangue, com aproximadamente 95% ligado aos componentes do sangue,
+principalmente proteínas plasmáticas (por exemplo, albumina e alfa-1 glicoproteína ácida [AAG]), com uma fração livre de
+aproximadamente 5%.
+Distribuição
+Erlotinibe tem um volume médio aparente de distribuição de 232 litros e se distribui para o tecido tumoral em humanos. Em um estudo em
+quatro pacientes (três com CPNPC e um com câncer de laringe) com cloridrato de erlotinibe 150 mg, por via oral, uma vez ao dia, amostras
+de tumor de excisões cirúrgicas, no dia 9 de tratamento, revelaram concentrações de erlotinibe em média de 1.185 ng/g de tecido. Isso
+corresponde à média geral de 63% do estado de equilíbrio observado em concentrações plasmáticas máximas. Os principais metabólitos
+ativos estavam presentes no tumor em concentrações médias de 160 ng/g de tecido, o que correspondeu à média total de 113% das
+concentrações plasmáticas máximas em estado de equilíbrio. Os estudos de distribuição nos tecidos que usaram radiografia corporal total,
+após a administração oral de erlotinibe marcado com [14C] em camundongos atímicos, com enxertos de tumor HN5, mostraram distribuição
+tecidual rápida e extensa, com concentrações máximas de droga marcada radioativamente (aproximadamente 73% da concentração no
+plasma) observada em uma hora.
+Metabolismo
+Erlotinibe é metabolizado no homem pelas enzimas hepáticas do citocromo P450, principalmente CYP3A4 e em menor extensão por
+CYP1A2. O metabolismo extra-hepático pelo CYP3A4 no intestino, CYP1A1 no pulmão e CYP1B1 no tecido tumoral potencialmente
+contribui para a depuração metabólica de erlotinibe. Estudos in vitro indicam que aproximadamente 80 a 95% do metabolismo de erlotinibe é
+realizado por meio do CYP3A4. Existem três principais vias metabólicas identificadas: 1) O-desmetilação de uma cadeia lateral ou ambas,
+seguida por oxidação para ácidos carboxílicos; 2) oxidação da molécula acetileno seguida por hidrólise em ácido aril carboxílico; e 3)
+hidroxilação aromática da molécula fenil-acetileno. Os metabólitos principais de erlotinibe produzidos por O-desmetilação de cada cadeia
+lateral apresentam potência comparável à de erlotinibe em ensaios não clínicos in vitro e modelos tumorais in vivo. Eles estão presentes no
+plasma em concentrações < 10% de erlotinibe e apresentam farmacocinética semelhante à de erlotinibe.
+Excreção
+Os metabólitos e traços de erlotinibe são excretados predominantemente por meio das fezes (> 90%), com a eliminação renal responsável por
+apenas uma pequena quantidade de uma dose oral.
+Depuração
+Uma análise farmacocinética populacional em 591 pacientes que receberam cloridrato de erlotinibe como monoterapia mostrou depuração
+aparente média de 4,47 L/h com meia-vida mediana de 36,2 horas. Portanto, é esperado que o tempo para atingir a concentração plasmática em
+estado de equilíbrio seja de, aproximadamente, sete ou oito dias. Não foram observadas relações significativas entre a depuração aparente
+prevista e idade, peso, sexo e etnia do paciente.
+Fatores do paciente, que se correlacionam com a farmacocinética de erlotinibe, são bilirrubina total sérica, concentrações de AAG e
+tabagismo atual. Concentrações séricas aumentadas de bilirrubinas totais e concentrações de AAG foram associadas com a depuração mais
+lenta de erlotinibe. Fumantes apresentaram depuração mais rápida de erlotinibe (vide item “Interações medicamentosas”).
+Uma segunda análise farmacocinética populacional foi conduzida incorporando os dados de erlotinibe de 204 pacientes com câncer
+pancreático tratados com erlotinibe mais gencitabina. Essa análise demonstrou que as covariáveis que afetam a depuração de creatinina nos
+pacientes do estudo pancreático foram muito similares àqueles vistos anteriormente na análise farmacocinética do agente isolado. Não
+foram identificadas novas covariáveis. A coadministração de gencitabina não afetou a depuração plasmática de erlotinibe.
+Farmacocinética em populações especiais
+Não houve nenhum estudo específico em pacientes de faixa etária pediátrica ou em idosos.
+-6 -
+Insuficiência hepática: erlotinibe é eliminado principalmente pelo fígado. A exposição a erlotinibe foi similar em pacientes com a função
+hepática moderadamente prejudicada (pontuação de Child-Pugh de 7 – 9) comparado com pacientes com a função hepática normal,
+incluindo pacientes com câncer de fígado primário ou metástases hepáticas.
+Insuficiência renal: erlotinibe e seus metabólitos não são significativamente excretados pelos rins, porque menos de 9% de uma dose única
+é excretada na urina. Nenhum estudo clínico foi conduzido em pacientes com função renal comprometida.
+Fumantes: um estudo de farmacocinética em indivíduos saudáveis não fumantes e fumantes de cigarros ativos mostrou que o tabagismo de
+cigarro leva à depuração aumentada de erlotinibe e diminui a exposição ao medicamento (vide item “Interações medicamentosas”). A
+ASC0-∞ em fumantes está em torno de 1/3 dos não fumantes (n = 16 em cada braço dos fumantes e não fumantes). Essa redução de
+exposição nos atualmente fumantes é presumidamente devido à indução do CYP1A1 no pulmão e CYP1A2 no fígado.
+Em estudo pivotal de fase III em CPNPC, concluiu-se que o estado de equilíbrio dos fumantes ativos está em torno de 0,65 µg/mL (n = 16),
+aproximadamente duas vezes menor que nos ex-fumantes ou pessoas que nunca fumaram (1,28 µg/mL, n = 108). Esse efeito foi
+acompanhado pelo aumento de 24% da depuração plasmática do erlotinibe.
+Em estudo fase I de escalonamento de dose em pacientes CPNPC fumantes ativos, as análises farmacocinéticas do estado de equilíbrio
+indicaram aumento proporcional da dose de exposição a erlotinibe, quando a dose de cloridrato de erlotinibe foi aumentada de 150 mg para
+300 mg, que é a dose máxima tolerada. As concentrações plasmáticas do estado de equilíbrio da dose de 300 mg em fumantes ativos nesse
+estudo foi de 1,22 µg/mL (n = 17) (vide item “Posologia e modo de usar” e “Interações medicamentosas”).
+Segurança não clínica
+Carcinogenicidade
+Evidências de potencial carcinogênico não foram constatadas nos estudos não clínicos. Erlotinibe não se mostrou genotóxico nem
+clastogênico em estudos de toxicidade genética. Estudos de carcinogênese de dois anos, conduzidos com erlotinibe em ratos e
+camundongos, com exposições excedendo a exposição terapêutica humana foram negativos.
+Genotoxicidade
+Erlotinibe mostrou-se negativo na série padrão de ensaios de genotoxicidade.
+Comprometimento da fertilidade
+Não foi observado comprometimento da fertilidade em estudos com ratos machos e fêmeas em doses próximas aos níveis DMT.
+Toxicidade reprodutiva
+Dados de exames de toxicologia reprodutiva em ratos e coelhos indicam que, depois da exposição a erlotinibe em doses próximas à DMT
+e/ou doses tóxicas para a mãe, existe embriotoxicidade, mas não houve nenhuma evidência de comprometimento de fertilidade,
+teratogenicidade ou anormalidade física pré ou pós-natal ou de desenvolvimento comportamental. A toxicidade materna em ratos e coelhos
+nesses estudos ocorreu em níveis de exposição plasmática semelhantes às que ocorrem no homem depois de uma dose de 150 mg de
+erlotinibe.
+Outros
+Os efeitos da administração crônica observados em pelo menos uma espécie animal ou em pelo menos um estudo incluíram efeitos sobre
+córnea (atrofia, ulceração), pele (degeneração folicular e inflamação, vermelhidão e alopecia), ovário (atrofia), fígado (necrose hepática),
+rins (necrose papilar renal e dilatação tubular) e trato gastrintestinal (esvaziamento gástrico retardado e diarreia). Houve redução nos
+valores de eritrócitos, hematócrito e hemoglobina e aumento dos reticulócitos. Os leucócitos, principalmente os neutrófilos, ficaram
+aumentados. Houve elevações de alanina aminotransferase (ALT), aspartato aminotransferase (AST) e bilirrubinas relacionadas ao
+tratamento.
+Estudos in vitro de erlotinibe mostraram inibição de canais hERG em concentrações pelo menos 20 vezes maiores que a concentração de
+droga livre no homem em doses terapêuticas. Estudos em cães não mostraram
+prolongamento de QT. Uma revisão centralizada sistemática de dados de ECG de 152 indivíduos de sete estudos com voluntários saudáveis
+não mostrou nenhuma evidência de prolongamento de QT e estudos clínicos não encontraram nenhuma evidência de arritmias associadas a
+prolongamento de QT.
+4. CONTRAINDICAÇÕES
+O EGROTIB® está contraindicado a pacientes com hipersensibilidade severa a erlotinibe ou a qualquer componente da fórmula.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Doença Pulmonar Intersticial: casos de doença pulmonar intersticial (DPI), incluindo óbitos, foram relatados de forma incomum em
+pacientes que receberam cloridrato de erlotinibe para o tratamento do CPNPC, câncer pancreático ou outros tumores sólidos avançados. No
+estudo de referência BR.21 em CPNPC, a incidência de eventos sérios tipo DPI foi de 0,8% em cada um dos braços de cloridrato de
+erlotinibe e de placebo. Em uma meta-análise de ensaios clínicos controlados randomizados com CPNPC, a incidência de eventos
+semelhantes a DPI foi de 0,9% em cloridrato de erlotinibe em comparação com 0,4% em pacientes nos braços de controle. Em estudo de
+câncer pancreático em combinação com gencitabina, a incidência de DPI-like foi de 2,5% no grupo de cloridrato de erlotinibe com
+gencitabina versus 0,4% no grupo tratado com placebo mais gencitabina. Alguns exemplos de diagnóstico descritos em pacientes com
+suspeita de eventos tipo DPI incluem pneumonite, pneumonite por radiação, pneumonite por hipersensibilidade, pneumonia intersticial,
+doença pulmonar intersticial, bronquiolite obliterante, fibrose pulmonar, Síndrome do Desconforto Respiratório Agudo, infiltrado pulmonar
+e alveolite. Esses eventos tipo DPI começaram poucos dias a vários meses após o início da terapia com cloridrato de erlotinibe. A maioria
+dos casos foi relacionada com fatores confundidores ou contribuintes, como quimioterapia concomitante ou prévia, radioterapia prévia,
+doença pulmonar parenquimatosa preexistente, doença pulmonar metastática ou infecções pulmonares.
+Em pacientes que desenvolvem início agudo de sintomas pulmonares inexplicados, novos e/ou progressivos, como dispneia, tosse e febre, a
+terapia com cloridrato de erlotinibe deve ser interrompida e deve-se aguardar avaliação diagnóstica. Em caso de diagnóstico de DPI,
+EGROTIB® deve ser descontinuado e iniciado tratamento apropriado se necessário (vide item “Reações adversas”).
+Diarreia, desidratação, desequilíbrio eletrolítico e insuficiência renal: ocorreu diarreia em pacientes que receberam cloridrato de
+-7 -
+erlotinibe. Diarreias moderadas ou graves devem ser tratadas com loperamida. Em alguns casos pode ser necessária a redução da dose. Em
+caso de diarreia grave ou persistente, náusea, anorexia ou vômitos associados à desidratação, o tratamento com EGROTIB® deve ser
+interrompido, e as medidas apropriadas devem ser instituídas para tratar a desidratação (vide item “Reações adversas”). Houve raros relatos
+de hipocalemia e insuficiência renal secundária (incluindo óbitos). Alguns relatos de insuficiência renal foram secundários à desidratação
+grave causada pela diarreia, vômito e/ou anorexia, enquanto outros foram confundidos pelo uso de quimioterapia concomitante. Em casos de
+diarreia grave ou persistente, que leva à desidratação, particularmente em grupos de pacientes com fatores de risco agravantes
+(medicamentos concomitantes, sintomas ou outras condições predispostas, incluindo idade avançada), a terapia de EGROTIB® deve ser
+interrompida, e medidas apropriadas devem ser tomadas para hidratação intravenosa intensiva dos pacientes. Além do mais, função renal e
+exames laboratoriais, incluindo o de potássio, devem ser monitorados em pacientes com risco de desidratação.
+O cloridrato de erlotinibe não foi testado em pacientes com metástases cerebrais sintomáticas, portanto, sua eficácia é desconhecida nesse
+grupo de pacientes.
+Hepatite, insuficiência hepática: casos raros de insuficiência hepática (incluindo óbitos) foram relatados durante o uso de cloridrato de
+erlotinibe. Fatores confundidores estavam presentes, como doença hepática preexistente ou medicação hepatotóxica concomitante. Portanto
+testes periódicos para verificar a função do fígado devem ser considerados. A dosagem de cloridrato de erlotinibe deve ser interrompida se
+ocorrerem mudanças graves na função hepática (vide item “Reações adversas”).
+Perfurações gastrintestinais: pacientes tratados com cloridrato de erlotinibe possuem risco aumentado de apresentar perfurações
+gastrointestinais, as quais foram observadas incomumente (incluindo alguns casos fatais). Pacientes que recebem agentes antiangiogênicos
+concomitantemente, corticosteroides, agentes anti-inflamatórios não estereoidais (AINEs) e/ou quimioterapia baseada em taxano ou com
+histórico de ulceração peptídica ou doença diverticular possuem risco maior de desenvolvê-las. O cloridrato de erlotinibe deve ser
+permanentemente descontinuado em pacientes que desenvolverem perfuração gastrintestinal (vide item “Reações adversas”).
+Distúrbios bolhosos e esfoliativos da pele: foram relatadas condições bolhosas, vesiculares ou esfoliativas da pele, incluindo muito
+raramente casos sugestivos de Síndrome de Stevens-Johnson/ necrólise epidérmica tóxica, os quais, em alguns casos, foram fatais (vide
+item “Reações adversas”). O tratamento com EGROTIB® deve ser interrompido ou descontinuado se o paciente apresentar graves
+condições bolhosas, vesiculares ou esfoliativas.
+Distúrbios na visão: casos muito raros de perfurações ou ulceração da córnea foram relatados durante o uso de cloridrato de erlotinibe. Outros
+distúrbios oculares, incluindo crescimento anormal dos cílios, ceratoconjuntivite sicca ou ceratite, foram observados no tratamento com
+cloridrato de erlotinibe, os quais também são fatores de risco para ulceração/ perfuração da córnea. O tratamento com EGROTIB® deve ser
+interrompido ou descontinuado em pacientes que apresentem distúrbios oftalmológicos graves ou agravamento de distúrbios oculares, tais
+como dor nos olhos (vide item “Reações adversas”).
+Interações medicamentosas: o EGROTIB® tem potencial para interações entre drogas clinicamente significativas (vide item “Interações
+medicamentosas”).
+Efeitos sobre a capacidade de dirigir veículos ou operar máquinas: erlotinibe não possui influência ou possui influência insignificante
+na capacidade de conduzir e utilizar máquinas.
+Uso em populações especiais
+Potencial reprodutivo feminino e masculino
+Contracepção:
+Pacientes do sexo feminino: métodos contraceptivos adequados devem ser usados durante a terapia e durante, pelo menos, duas semanas
+depois de completar a terapia.
+Gravidez: não existem estudos adequados ou bem controlados em gestantes que usaram cloridrato de erlotinibe. Estudos em animais
+mostraram alguma toxicidade reprodutiva (vide item “Segurança pré-clínica”). O potencial risco para humanos é desconhecido. Mulheres
+com possibilidade de engravidar devem ser alertadas para evitar a gravidez durante o tratamento com EGROTIB®. O tratamento somente
+deve ser mantido em gestantes se o potencial benefício para a mãe superar o risco para o feto.
+Categoria de risco na gravidez: C
+Os estudos em animais revelaram risco, mas não existem estudos adequados e bem controlados disponíveis realizados em mulheres grávidas.
+Este medicamento não deve ser utilizado por mulheres grávidas ou que possam ficar grávidas durante o tratamento.
+Lactação: não se sabe se erlotinibe é excretado no leite humano. Não foram realizados estudos para avaliar o impacto de cloridrato de
+erlotinibe a na produção de leite ou sua presença no leite materno. Como o potencial de perigo para o lactente é desconhecido, as mães
+devem ser orientadas a não amamentar enquanto recebem cloridrato de erlotinibe e pelo menos 2 semanas após a dose final.
+Uso pediátrico: a segurança e a eficácia de cloridrato de erlotinibe nas indicações aprovadas não foram estabelecidas para pacientes menores de
+18 anos (vide item “Características Farmacológicas” e “Posologia e Modo de Usar”).
+Uso geriátrico: vide item “Características Farmacológicas – Farmacocinética em populações especiais”.
+Insuficiência renal: vide item “Características Farmacológicas” e “Posologia e Modo de Usar”.
+Insuficiência hepática: a exposição a erlotinibe foi similar em pacientes com insuficiência moderada na função hepática (pontuação Child-
+Pugh de 7 – 9) em relação aos pacientes com função hepática normal, incluindo pacientes com câncer de fígado primário ou metástases
+hepáticas. A segurança e a eficácia não foram estudadas em pacientes com insuficiência hepática grave (vide item “Posologia e Modo de
+Usar”).
+Até o momento, não há informações de que erlotinibe possa causar doping.
+-8 -
+6. INTERAÇÕES MEDICAMENTOSAS
+EGROTIB® tem potencial para interações entre medicamentos clinicamente significativas.
+Erlotinibe é metabolizado no fígado, por meio dos citocromos hepáticos humanos, principalmente o CYP3A4 e, em menor extensão, o
+CYP1A2 e a isoforma pulmonar CYP1A1. Potenciais interações podem ocorrer com fármacos que são metabolizados por essas enzimas ou
+são inibidores ou indutores delas.
+Inibidores potentes de atividade do CYP3A4 reduzem o metabolismo de erlotinibe e aumentam as concentrações plasmáticas de erlotinibe.
+A inibição do metabolismo de CYP3A4 pelo cetoconazol (200 mg, VO, 2 vezes por dia, durante cinco dias) resultou em exposição
+aumentada do erlotinibe (86% em exposição mediana a erlotinibe [ASC]) e um aumento de 69% em Cmax quando comparado com erlotinibe
+apenas. Quando cloridrato de erlotinibe foi coadministrado com ciprofloxacina, um inibidor de CYP3A4 e CYP1A2, a exposição de
+erlotinibe (ASC) e a concentração máxima (Cmáx) aumentaram em, aproximadamente, 39% e 17%, respectivamente. Portanto, deve-se ter
+cuidado ao administrar EGROTIB® com inibidores potentes de CYP3A4 ou CYP3A4/CYP1A2 combinados. Nestas situações a dose de
+EGROTIB® deve ser reduzida se for observada toxicidade.
+Indutores potentes de atividade de CYP3A4 aumentam o metabolismo de erlotinibe e reduzem significativamente as concentrações
+plasmáticas de erlotinibe. A indução do metabolismo do CYP3A4 pela rifampicina (600 mg, VO, uma vez por dia, durante sete dias)
+resultou em redução de 69% na ASC mediana de erlotinibe, após uma dose de 150 mg de cloridrato de erlotinibe, em comparação com o uso
+de cloridrato de erlotinibe isolado.
+O pré-tratamento e coadmnistração de rifampicina com uma dose única de 450 mg de cloridrato de erlotinibe resultou em exposição média
+de cloridrato de erlotinibe (ASC) de 57,5% daquela após uma dose única de 150 mg de cloridrato de erlotinibe na ausência do tratamento
+com rifampicina. Tratamentos alternativos com ausência de medicamentos com atividade indutora potente de CYP3A4 devem ser
+considerados, quando possível. Para pacientes que requerem tratamento concomitante de EGROTIB® com um indutor potente da CYP3A4,
+tais como a rifampicina, deve-se considerar aumento para 300 mg na dose, com monitoramento rigoroso da segurança e, se bem tolerado
+por mais de duas semanas, pode se considerar aumento para 450 mg na dose, também com monitoramento rigoroso da segurança. Doses
+maiores não foram estudadas nesse cenário.
+O pré-tratamento ou coadministração de cloridrato de erlotinibe não alterou a depuração dos substratos prototípicos de CYP3A4 midazolam e
+eritromicina. Portanto, são improváveis interações significativas na depuração de outros substratos do CYP3A4. A biodisponibilidade oral
+de midazolam pareceu diminuir em aproximadamente até 24% dos casos, entretanto, não se atribuiu aos efeitos na atividade do CYP3A4.
+A solubilidade de erlotinibe é dependente do pH. A solubilidade de erlotinibe diminui com o aumento do pH. Medicamentos que alteram o
+pH do trato gastrintestinal superior podem alterar a solubilidade de erlotinibe e, por sua vez, sua biodisponibilidade. A coadministração de
+cloridrato de erlotinibe com omeprazol, um inibidor da bomba de próton, diminuiu a exposição de erlotinibe (ASC) e Cmáx em 46% e 61%,
+respectivamente. Não houve alterações no Tmáx ou meia-vida. A administração concomitante de cloridrato de erlotinibe com 300 mg de
+ranitidina, um antagonista do receptor H2, diminuiu a exposição de erlotinibe (ASC) e Cmáx em 33% e 54%, respectivamente. Portanto, a
+coadministração de medicamentos que reduzem a produção de ácido gástrico com EGROTIB® deve ser evitada, quando possível. Aumento na
+dose de cloridrato de erlotinibe, quando coadministrado com tais agentes, não parece compensar essa perda de exposição. No entanto,
+quando cloridrato de erlotinibe foi administrado de forma a não coincidir, duas horas antes ou dez horas após, com a ranitidina, 150 mg, duas
+vezes ao dia, a exposição a erlotinibe (ASC e Cmáx) diminuíram apenas 15% e 17%, respectivamente. Caso os pacientes necessitem ser
+tratados com esses medicamentos, um antagonista do receptor H2, como a ranitidina, deve então ser considerado e usado de maneira a não
+coincidir os horários das doses. O EGROTIB® deve ser ingerido duas horas antes ou dez horas após a ingestão de antagonista de receptores
+H2.
+Interações com outros anticoagulantes cumarínicos, incluindo varfarina, que levaram a aumento da Razão Normatizada Internacional (INR)
+e eventos hemorrágicos, fatais em alguns casos, foram relatados em pacientes que receberam cloridrato de erlotinibe. Pacientes em uso de
+anticoagulantes derivados de cumarina devem ser monitorados regularmente em relação a alterações no tempo de protrombina ou na INR.
+A combinação de cloridrato de erlotinibe com uma estatina pode aumentar o potencial de miopatia induzida por estatina, incluindo
+rabdomiólise, observada raramente.
+Os fumantes devem ser aconselhados a parar de fumar, pois o cigarro, um indutor do CYP1A1 e CYP1A2, mostrou reduzir a exposição de
+erlotinibe em 50% – 60% (vide item “Farmacocinética em populações especiais”).
+Em um estudo de fase Ib, não houve efeito significante de gencitabina na farmacocinética de erlotinibe nem efeito significativo de
+erlotinibe na farmacocinética de gencitabina.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+EGROTIB® comprimidos revestidos deve ser conservado em temperatura ambiente (entre 15ºC e 30ºC).
+Prazo de validade
+Este medicamento possui prazo de validade de 24 meses a partir da data de fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Descarte de medicamentos não utilizados e/ou com data de validade vencida
+O descarte de medicamentos no meio ambiente deve ser minimizado. Os medicamentos não devem ser descartados no esgoto, e o descarte
+em lixo doméstico deve ser evitado. Utilize o sistema de coleta local estabelecido, se disponível.
+Aspecto físico:
+EGROTIB® 25 mg ................................... comprimidos revestidos redondos, de cor branca a quase branca, com a letra E gravada de um lado e
+liso de outro lado.
+EGROTIB® 100 mg .................................. comprimidos revestidos redondos, de cor branca a quase branca, com a letra E gravada de um lado e
+“100” do outro lado.
+EGROTIB® 150 mg ................................... comprimidos revestidos redondos, de cor branca a quase branca, com a letra E gravada de um lado e
+-9 -
+“150” do outro lado.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Câncer de pulmão de não pequenas células
+O teste para verificação de mutações de EGFR deve ser realizado previamente ao início do tratamento de primeira linha ou de manutenção com cloridrato
+de erlotinibe, em pacientes com CPNPC localmente avançado ou metastático.
+A dose diária recomendada de EGROTIB® é de 150 mg, pelo menos uma hora antes ou duas horas depois da ingestão de alimentos.
+Câncer de pâncreas
+A dose diária recomendada de EGROTIB® é de 100 mg, pelo menos uma hora antes ou duas horas depois da ingestão de alimentos, em
+combinação com gencitabina (vide informações de gencitabina para a indicação de câncer de pâncreas).
+Este medicamento não deve ser partido ou mastigado.
+Instruções de dose especial
+Interações medicamentosas: O uso concomitante de substratos e moduladores de CYP3A4 pode exigir ajuste da dose (vide item “Interações
+medicamentosas”).
+Quando for necessário o ajuste de dose, recomenda-se reduzir em escala de 50 mg (vide itens “Advertências e precauções” e “Interações
+medicamentosas”).
+Insuficiência hepática: erlotinibe é eliminado por metabolismo hepático e excreção biliar. Embora a exposição a erlotinibe tenha sido
+similar em pacientes com insuficiência moderada na função hepática (pontuação Child-Pugh de 7 – 9) em relação aos pacientes com função
+hepática normal, deve-se ter cautela ao administrar EGROTIB® a pacientes com insuficiência hepática. A redução de dose ou interrupção do
+tratamento deve ser considerada se ocorrem efeitos adversos graves. A segurança e a eficácia não foram estudadas em pacientes com
+insuficiência hepática grave (vide itens “Farmacocinética em populações especiais” e “Advertências e precauções”).
+Insuficiência renal: a segurança e a eficácia de cloridrato de erlotinibe não foram estudadas em pacientes com insuficiência renal (vide item
+“Farmacocinética em populações especiais”).
+Uso Pediátrico: a segurança e a eficácia de cloridrato de erlotinibe para as indicações aprovadas não foram estabelecidas em pacientes com idade
+abaixo de 18 anos.
+Fumantes: o fumo de cigarros mostrou reduzir a exposição de erlotinibe em 50% a 60%. A dose máxima tolerada em pacientes fumantes
+ativos com CPNPC foi de 300 mg. A dose de 300 mg não demonstrou eficácia superior no tratamento de segunda linha após falha na
+quimioterapia comparada à dose recomendada de 150 mg em pacientes que continuam fumando cigarros (vide itens “Interações
+medicamentosas” e “Farmacocinética em populações especiais”).
+Os dados de segurança foram comparáveis entre as doses de 300 mg e de 150 mg; no entanto houve um aumento numérico na incidência de
+erupção cutânea, de doença pulmonar intersticial e de diarreia nos pacientes que receberam a dose mais elevada de cloridrato de erlotinibe.
+9. REAÇÕES ADVERSAS
+Experiência de estudos clínicos
+A avaliação de segurança de cloridrato de erlotinibe é baseada nos dados de mais de 1.500 pacientes tratados com pelos uma dose de 150 mg do
+medicamento em monoterapia e mais de 300 pacientes que receberam cloridrato de erlotinibe 150 mg ou 100 mg em combinação com gencitabina.
+A incidência de reações adversas ao medicamento (RAM) relatadas com cloridrato de erlotinibe isolado ou em combinação com
+quimioterapia está resumida nas tabelas a seguir, que são baseadas nos dados de estudos clínicos. As RAMs foram relatadas em pelo menos
+10% dos pacientes (no grupo de cloridrato de erlotinibe) e ocorreram mais frequentemente (≥ 3%) em pacientes tratados com cloridrato de
+erlotinibe em relação ao braço comparador.
+As reações adversas dos ensaios clínicos (Tabela 3) são listadas pela classe de órgãos do sistema MedDRA. A categoria de frequência
+correspondente para cada reação adversa ao medicamento é baseada na seguinte convenção: muito comum (≥1 / 10), comum (≥1 / 100 a
+<1/10), incomum (≥1 / 1.000 a <1/100), raro (≥1 / 10.000 a <1/1000), muito raro (<1 / 10.000).
+Câncer de pulmão de não pequenas células - cloridrato de erlotinibe administrado em monoterapia
+Tratamento de primeira linha de pacientes com mutações de EGFR
+A segurança de cloridrato de erlotinibe para o tratamento de primeira linha de pacientes com CPNPC com mutações ativadoras de
+EGFR foi avaliada em 75 pacientes, em um estudo aberto e randomizado de fase III, ML 20650, conduzido com 154 pacientes. Não foi observado novos
+sinais de segurança nestes pacientes.
+As reações adversas mais comuns observadas em pacientes tratados com cloridrato de erlotinibe no estudo ML 20650 foram erupção cutânea e diarreia
+(qualquer grau 80% e 57%, respectivamente), sendo a maioria de gravidade grau 1/2, sem necessidade de intervenção para o seu controle. Erupção
+cutânea e diarreia de grau 3 ocorreram em 9% a 4% dos pacientes, respectivamente. Nenhum evento de erupção cutânea ou diarreia de grau 4 foi
+observado. Erupção cutânea e diarreia resultaram em descontinuação de cloridrato de erlotinibe em 1% dos pacientes. Alterações de dose (interrupções
+ou reduções) para erupção cutânea e diarreia foram necessárias em 11% e 7% dos pacientes, respectivamente.
+Tratamento de manutenção
+Em outros dois estudos duplo-cegos, randomizados, placebo controlados de fase III (BO18192 e BO25460), conduzidos em um total de 1532
+-10 -
+pacientes com CPNPC avançado, recorrente ou metastático, seguindo a quimioterapia padrão de primeira linha baseada em platina, nenhum
+novo sinal de segurança foi identificado.
+As reações adversas mais frequentes observadas em pacientes tratados com cloridrato de erlotinibe nos estudos BO18192 e BO25460 foram
+erupção cutânea (BO18192: todos os graus 49,2%, grau 3: 6,0%; BO25460: todos os graus 39,4%, grau 3: 5,0%) e diarreia (BO18192:
+todos os graus 20,3%, grau 3: 1,8%; BO25460: todos os graus 24,2%, grau 3: 2,5%). Nenhum evento de diarreia e erupção cutânea grau 4
+foi observado em qualquer um dos estudos. Erupção cutânea e diarreia resultaram em descontinuação de cloridrato de erlotinibe em 1% e <
+1% dos pacientes, respectivamente, no estudo BO18192, enquanto nenhum paciente foi descontinuado no estudo BO25460 por erupção
+cutânea ou diarreia. Modificações de dose (interrupções ou reduções) para erupção cutânea e diarreia foram necessárias em 8,3% e 3% dos
+pacientes, respectivamente, no estudo BO18192 e 5,6% e 2,8% dos pacientes, respectivamente, no estudo BO25460.
+Tratamento de segunda e demais linhas
+As RAMs listadas na Tabela 3 são baseadas em dados de um estudo duplo-cego, randomizado (BR.21), conduzido em 731 pacientes com
+CPNPC metastático ou localmente avançado, após a falha de pelo menos um regime de quimioterapia prévio. Os pacientes foram
+randomizados na proporção 2:1 para receber cloridrato de erlotinibe 150 mg ou placebo. O medicamento estudado foi administrado por via
+oral, uma vez ao dia, até progressão da doença ou toxicidade inaceitável.
+As reações adversas mais frequentes foram erupção cutânea (rash) e diarreia (75% e 54%, respectivamente). A maioria foi de grau 1/ 2 e
+manejada sem intervenção. Erupção cutânea graus 3/4 e diarreia ocorreram em 9% e 6%, respectivamente, em pacientes tratados com
+cloridrato de erlotinibe, e cada evento resultou em descontinuação de 1% dos pacientes. A redução necessária da dose para erupção cutânea e
+diarreia foi de 6% e 1% dos pacientes, respectivamente. No estudo BR.21, o tempo mediano para início da erupção cutânea foi de oito dias, e
+o tempo mediano para início da diarreia foi 12 dias.
+Câncer pancreático - cloridrato de erlotinibe administrado concomitantemente com gencitabina
+As reações adversas listadas na Tabela 3 a seguir são baseadas nos dados do estudo clínico controlado (PA.3), com 259 pacientes com câncer
+pancreático que receberam cloridrato de erlotinibe 100 mg com gencitabina, comparado com 256 pacientes no braço placebo mais
+gencitabina.
+As reações adversas mais frequentes no estudo pivotal PA.3 em pacientes com câncer de pâncreas tratados com cloridrato de erlotinibe 100 mg
+mais gencitabina foram fadiga, erupção cutânea e diarreia. No braço cloridrato de erlotinibe mais gencitabina, erupção e diarreia de graus 3 e 4
+foram relatadas em 5% dos pacientes. O tempo mediano do início da erupção cutânea e diarreia foi de 10 dias e 15 dias, respectivamente.
+Erupção cutânea e diarreia resultaram em reduções de dose em 2% dos pacientes e resultaram em descontinuação do estudo de até 1% dos
+pacientes tratados com cloridrato de erlotinibe mais gencitabina.
+O grupo que utilizou cloridrato de erlotinibe 150 mg mais gencitabina (23 pacientes) foi associado à taxa maior de reações adversas de certa
+classe específica, incluindo erupção cutânea, e necessitou de redução ou interrupção da dose em maior frequência.
+Tabela 3: Reações adversas que ocorrem em ≥10% dos pacientes dos estudos BR.21 (tratados com cloridrato de erlotinibe) e PA.3
+(tratados com cloridrato de erlotinibe e gencitabina) e reações adversas que ocorrem com mais frequência (≥ 3%) do que no placebo
+nos estudos BR.21 (tratado com cloridrato de erlotinibe) e PA.3 (tratados com cloridrato de erlotinibe e gencitabina)
+cloridrato de cloridrato de Categoria de
+erlotinibe erlotinibe frequência de
+(BR.21) N=485 (PA.3) N=259 maior incidência
+Todos os Grau Grau Todos os Grau Grau
+Grau NCI-CTC
+graus 3 4 graus 3 4
+Termo preferido MedDRA % % % % % %
+Infecções e infestações Infecção*
+24 4 0 31 3 <1 muito comum
+Distúrbios do metabolismo e da
+nutrição
+Anorexia 52 8 1 -- -- -- muito comum
+Diminuição de peso -- -- -- 39 2 0 muito comum
+Distúrbios oculares Conjuntivite
+12 <1 0 -- -- -- muito comum
+Queratoconjuntivite sicca 12 0 0 -- -- -- muito comum
+Distúrbios psiquiátricos Depressão
+-- -- -- 19 2 0 muito comum
+Distúrbios do s istema
+nervoso muito comum
+Cefaleia -- -- -- 15 <1 0 muito comum
+-11 -
+Neuropatia -- -- -- 13 1 <1
+Distúrbios respiratórios,
+torácicos e mediastinais
+Dispneia 41 17 11 -- -- -- muito comum
+16 0 0 muito comum
+Tosse 33 4 0
+Distúrbios gastrintestinais Diarreia
+54 6 <1 48 5 <1 muito comum
+Náusea 33 3 0 -- -- -- muito comum
+Vômito 23 2 <1 -- -- -- muito comum
+Estomatite 17 <1 0 22 <1 0 muito comum
+Dor abdominal 11 2 <1 -- -- -- muito comum
+Dispepsia -- -- -- 17 <1 0 muito comum
+Flatulência -- -- -- 13 0 0 muito comum
+Pele e distúrbios do tecido
+subcutâneo
+Erupção cutânea 75 8 <1 69 5 0 muito comum
+Prurido 13 <1 0 -- -- -- muito comum
+Pele seca 12 0 0 -- -- -- muito comum
+Alopecia -- -- -- 14 0 0 muito comum
+Distúrbios gerais e condições do
+local de administração
+Fadiga 52 14 4 73 14 2 muito comum
+Febre -- -- -- 36 3 0 muito comum
+Rigidez -- -- -- 12 0 0 muito comum
+* Infecções graves, com ou sem neutropenia, incluíram pneumonia, sepse e celulite.
+-- corresponde ao percentual abaixo do limiar
+Informações adicionais de especial interesse das reações adversas
+As seguintes reações adversas foram observadas em pacientes que receberam cloridrato de erlotinibe 150 mg como monoterapia ou 100 mg ou
+150 mg em combinação com gencitabina.
+As reações adversas muito comuns foram apresentadas na Tabela 3, e as reações adversas por ordem de frequência são descritas a seguir:
+Distúrbios gastrintestinais
+Perfurações gastrintestinais foram relatadas com menor frequência incomum (em menos de 1% dos pacientes) em tratamento com cloridrato de
+erlotinibe, em alguns casos fatais (vide item “Advertências e precauções”).
+Casos de sangramento gastrintestinal foram comumente relatados (incluindo algumas fatalidades), alguns associados com administração
+concomitante de varfarina (vide item “Interações medicamentosas”) e outros com o uso concomitante de AINEs.
+Distúrbios hepatobiliares
+Alterações de provas de função hepática (incluindo elevação de TGO, TGP e bilirrubinas) foram observadas comumente em estudos
+clínicos de cloridrato de erlotinibe, inclusive no estudo PA.3. Foram principalmente leves ou moderadas em intensidade, de natureza
+transitória ou associadas com a presença de metástases hepáticas. Casos raros de insuficiência hepática, incluindo óbitos, foram relatados
+durante o uso de cloridrato de erlotinibe. Fatores confundidores incluem desordens preexistentes do fígado ou medicações hepatotóxicas
+concomitantes (vide item “Advertências e precauções”).
+Distúrbios oculares
+Ulcerações ou perfurações da córnea foram relatadas muito raramente em pacientes que receberam tratamento com cloridrato de erlotinibe.
+Ceratite e conjuntivite foram comumente relatadas com cloridrato de erlotinibe.
+Crescimento anormal dos cílios; cílios crescentes; crescimento excessivo e espessamento dos cílios foram relatados com frequência incomum
+(vide item “Advertências e precauções”).
+Distúrbios respiratórios, torácicos e mediastinais
+-12 -
+Houve relatos incomuns de doença pulmonar intersticial (DPI)-like grave, incluindo óbitos, em pacientes que receberam cloridrato de
+erlotinibe para tratamento de CPNPC ou outros tumores sólidos avançados (vide item “Advertências e precauções”).
+Casos de epistaxe foram relatados comumente em pacientes com câncer de pulmão tipo não pequenas células e câncer de pâncreas.
+Distúrbios de pele e tecido subcutâneo
+Erupção cutânea foi muito comumente relatada em pacientes que receberam cloridrato de erlotinibe e, em geral, manifesta- se como erupção
+cutânea eritematosa e papulopustular de intensidade suave ou moderada, que pode ocorrer ou piorar em áreas expostas ao sol. Para pacientes
+que se expõem ao sol, roupa para proteger a pele e/ ou uso de protetor solar (por exemplo, contendo minerais) é recomendável. Acne,
+dermatite acneiforme e foliculite foram comumente observados, sendo a maior parte destes eventos leves ou moderados e não sérios. Fissuras
+na pele, principalmente não sérias, foram comumente relatadas, e na maior parte dos casos foram associadas com erupção cutânea e pele
+ressecada. Outras reações suaves da pele como hiperpigmentação foi observada com frequência incomum (em menos de 1% dos pacientes).
+Condições cutâneas bolhosas, foliculares e esfoliativas foram relatadas, incluindo casos raros sugestivos de Síndrome de Stevens-
+Johnson/necrólise epidérmica tóxica, as quais, em alguns casos, foram fatais (vide item “Advertências e precauções”).
+Mudanças nas unhas e nos cabelos, em sua maior parte não sérias, foram relatadas nos estudos clínicos: paroníquia foi comumente relatada
+e hirsutismo, mudanças nos cílios/supercílios, irritação e perda das unhas foram relatadas com frequência incomum.
+Experiência pós-comercialização: as seguintes reações adversas a medicamentos foram identificadas a partir da experiência pós-
+comercialização com cloridrato de erlotinibe com base em relatos de casos espontâneos e casos de literatura.
+Tabela 4: Reações adversas observadas a partir da experiência pós-comercialização
+Reações adversas Categoria de frequencia
+Distúrbios oculares
+Uveíte desconhecida
+Pele e distúrbios do tecido subcutâneo
+Alterações do cabelo e das unhas, incomum
+principalmente não sérias, por
+exemplo, hirsutismo, mudanças de cílios /
+supercílios, paroníquia e
+unhas quebradiças e soltas
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Doses únicas orais de cloridrato de erlotinibe de até 1.000 mg em indivíduos saudáveis e de até 1.600 mg, recebidas como dose única uma
+vez por semana, em pacientes com câncer foram bem toleradas. Doses repetidas, duas vezes por dia, de 200 mg, em indivíduos saudáveis,
+foram mal toleradas após apenas alguns dias de administração. Com base nos dados desses estudos, sabe-se que eventos adversos graves,
+como diarreia, erupção cutânea e possivelmente elevação de transaminases hepáticas, podem ocorrer, quando utilizada dose acima da
+recomendada. Em caso de suspeita de superdosagem, cloridrato de erlotinibe deve ser suspenso, e tratamento sintomático deve ser
+administrado.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III - DIZERES LEGAIS
+MS – 1.5143. 0069
+Farm. Resp.: Meire H. Fujiwara CRF-SP N° 35.146
+Fabricado por:
+Dr. Reddy's Laboratories Ltd.
+FTO Unit VII, Andhra Pradesh, Índia.
+Importado por:
+Dr. Reddy’s Farmacêutica do Brasil Ltda.
+Av. Guido Caloi, 1985 - Galpão 11
+Jd. São Luís – São Paulo – SP
+CEP: 05802-140
+CNPJ nº 03.978.166/0001-75
+VENDA SOB PRESCRIÇÃO MÉDICA
+Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em 13/09/2022.
+-13 -
+ER_1222/BL-01PS
+-14 -
+Histórico de alteração para a bula
+Dados da submissão eletrônica Dados da Petição/notificação que altera bula Dados das alterações de bulas
+Data do N° do Assunto Data do N° do Assunto Data de Itens de bula Versão Apresentações relacionadas
+expediente expediente expediente expediente aprovação (VP/VPS)
+Versão Versão Atual 10457 - SIMILAR Versão Versão Atual 10457 - SIMILAR - Versão Atual Submissão eletrônica VP/VPS 25 MG COM REV CT BL AL
+Atual Atual para disponibilização PLAS PVC TRANS X 30
+do texto de bula no
+100 MG COM REV CT BL AL
+Bulário eletrônico
+PLAS PVC TRANS X 30
+ANVISA.
+150 MG COM REV CT BL AL
+PLAS PVC TRANS X 30
+- Inclusão Inicial Inclusão Inicial de
+de Texto de Bula - Texto de Bula -
+publicação no publicação no
+Bulário RDC Bulário RDC 60/12
+60/12

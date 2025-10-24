@@ -1,0 +1,58 @@
+INDICAÇÕES Este medicamento é um anti-histamínico destinado ao tratamento das manifestações alérgicas, tais como sintomas de rinite alérgica
+(incluindo espirros, obstrução nasal, prurido, coriza, conjuntivite alérgica e febre do feno) e urticária.
+2. RESULTADOS DE EFICÁCIA
+O cloridrato de fexofenadina inibiu a formação de pápula e o eritema provocados por injeção de histamina. Após dose única e doses
+de duas vezes ao dia de cloridrato de fexofenadina demonstrou-se que a droga apresenta rápido efeito anti-histamínico, iniciando-se
+dentro de 1 hora e alcançando seu efeito máximo dentro de 2 a 3 horas, prolongando-se no mínimo por 12 horas. Foi alcançada mais
+de 80% de inibição máxima nas áreas de formação de pápula e eritema. Não foi observada tolerância desses efeitos após 28 dias.
+Estudos clínicos conduzidos em rinite alérgica demonstraram que uma dose de 120 mg e 180 mg são suficientes para 24 horas de
+eficácia, utilizando-se a avaliação de pontuação total de sintomas como o objetivo primário. Em crianças com 6 a 11 anos de idade,
+os efeitos supressivos do cloridrato de fexofenadina sobre a pápula e eritema induzidos pela histamina, foram comparáveis àqueles
+em adultos com exposição similar.
+Em uma análise integrada de um estudo placebo-controlado, duplo-cego de fase III, envolvendo 1369 crianças de 6 a 11 anos de
+idade com rinite alérgica, o cloridrato de fexofenadina 30 mg duas vezes ao dia foi significativamente melhor que o placebo na
+redução da pontuação total dos sintomas (p = 0,0001). Todos os componentes individuais de sintomas incluindo coriza, tosse,
+prurido nos olhos/ olhos vermelhos/ olhos úmidos, prurido nasal/ palato/ garganta e congestão nasal apresentaram melhora
+significante (p = 0,0334 a p = 0,0001) com o cloridrato de fexofenadina.
+O início de ação para a redução da pontuação total dos sintomas foi observado em 60 minutos, comparado ao placebo, após
+administração de dose única de 60 mg para pacientes com rinite alérgica que foram expostos ao pólen em uma unidade de exposição
+ambiental.
+Em pacientes com rinite alérgica, que ingeriram doses de até 240 mg de cloridrato de fexofenadina, duas vezes ao dia, durante 2
+semanas, não foram observadas diferenças significativas no intervalo QTc, quando comparado com placebo. Também não foram
+observadas alterações no intervalo QTc em pacientes sadios que ingeriram até 400 mg de cloridrato de fexofenadina, duas vezes ao
+dia, durante 6,5 dias e 240 mg, uma vez ao dia durante 1 ano, quando comparado ao placebo. Em crianças com 6 a 11 anos de idade,
+não foram observadas diferenças significativas no intervalo QTc após administração de até 60 mg de cloridrato de fexofenadina,
+duas vezes ao dia, durante 2 semanas.
+Comparou-se a eficácia e segurança do uso de três diferentes concentrações de fexofenadina (40 mg, 60 mg e 120 mg) com placebo
+em um estudo multicêntrico, randomizado, duplo-cego, controlado, que tratou 545 pacientes com rinite alérgica sazonal. Os
+pacientes foram randomizados aos quatro grupos de tratamento e tratados duas vezes ao dia por 14 dias. O estudo evidenciou que os
+três grupos de pacientes que receberam fexofenadina tiveram resultados significativamente melhores na redução dos sintomas
+quando comparados ao placebo, tendo as doses de 60 e 120 mg duas vezes ao dia mostrado resultados mais rápidos. As três
+dosagens também foram bem toleradas pelos pacientes, não evidenciando efeitos no intervalo QTc do eletrocardiograma. Assim, o
+estudo conclui que as essas doses de fexofenadina são efetivas e seguras no alívio dos sintomas da rinite alérgica sazonal.
+Modelo de texto de bula
+Profissional de Saúde
+Em um estudo multicêntrico, controlado, envolvendo 861 pacientes, comparou-se a eficácia e a segurança de duas concentrações de
+fexofenadina (120 e 180 mg) em dose única diária com placebo no controle dos sintomas da rinite alérgica sazonal por 14 dias.
+Evidenciou-se que o grupos de pacientes que receberam fexofenadina, tanto na concetração de 120 ou de 180 mg, apresentaram
+significativa melhora no escore total de sintomas quando comparados ao placebo, tanto na mensuração instantânea quanto na
+reflectiva. Não houve diferença significativa quanto à eficácia entre as duas concentrações de fexofenadina. O estudo ainda revelou
+que não houve diferenças significativas em relação ao aparecimento de eventos adversos em relação aos grupos de fexofenadina e o
+grupo placebo. O estudo conclui que fexofenadina 120mg ou 180mg uma vez ao dia, é segura e eficaz no tratamento da rinite
+alérgica sazonal.
+Em um estudo duplo-cego, randomizado, controlado, envolvendo 255 pacientes com urticária idiopática crônica e com idade igual
+ou superior a 12 anos, avaliou-se a eficácia e segurança de fexofenadina (180 mg) por via oral 1 vez ao dia por 4 semanas. O estudo
+evidenciou que os pacientes que receberam fexofenadina apresentaram significativa redução do número de pápulas, bem como
+redução da intensidade diária de prurido quando comparados ao placebo (P<0,001). Houve ainda maior redução nos escores totais
+de sintomas no grupo da fexofenadina. O estudo evidenciou ainda que não houve diferença significativa em relação à frequência de
+eventos adversos entre os dois grupos de tratamento. O estudo conclui que fexofenadina em dose única diária de 180mg foi eficaz e
+bem tolerada para o alívio dos sintomas da urticária idiopática crônica.
+Foi realizado um estudo randomizado de fase 3, duplo-cego, monocêntrico, sequencial e de grupo paralelo, (NCT03664882) em 266
+indivíduos com rinite alérgica (251 na população ITT modificada) para demonstrar o agravamento dos sintomas de rinite alérgica
+(RA) na presença de poluentes [Diesel Exhaust Particulate /Partículas de Escapamento de Diesel (DEP)] e avaliar a eficácia do
+cloridrato de fexofenadina em indivíduos portadores de RA com sintomas agravados na presença de DEP.
+O estudo foi realizado utilizando uma Unidade de Exposição Ambiental em três exposições sequenciais por períodos de três horas
+[1. Pólen de ambrósia, 2. pólen de ambrósia mais DEP, 3. pólen de ambrósia mais DEP].
+O primeiro desfecho primário foi a alteração da linha de base na área sob a curva (AUC) para o escore total de sintomas nasais
+(TNSS, a soma de escores de rinorreia, prurido nasal e espirros) das horas 0 a 12 entre o período 2 e o período 1.
+A média do TNSS AUC0-12 foi significativamente maior no Período 2 em comparação ao Período 1 (41,22 vs 36,25,

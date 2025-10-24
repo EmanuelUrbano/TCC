@@ -1,0 +1,864 @@
+EMPAK
+Biolab Sanus Farmacêutica Ltda.
+Cápsula dura
+gabapentina
+300 mg
+EMPAK
+gabapentina
+IDENTIFICAÇÃO DO MEDICAMENTO
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA
+APRESENTAÇÕES
+Embalagens com 10 e 30 cápsulas de 300 mg.
+USO ORAL
+USO ADULTO E PEDIÁTRICO ACIMA DE 12 ANOS DE IDADE
+Dor neuropática: uso adulto acima de 18 anos de idade.
+Epilepsia: uso adulto e pediátrico acima de 12 anos de idade.
+COMPOSIÇÃO
+Cada cápsula de 300 mg contém:
+gabapentina......................................................................................................................................... 300 mg
+Excipientes (q.s.p para 1 cápsula): lactose monoidratada, amido e talco.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Epilepsia
+Empak é indicado como monoterapia no tratamento de crises parciais com ou sem generalização
+secundária, em adultos e em crianças a partir de 12 anos de idade. A segurança e eficácia da monoterapia
+em crianças com menos de 12 anos de idade não foram estabelecidas (vide item 8 – “Posologia e Modo
+de Usar – Pacientes adultos e pediátricos a partir de 12 anos de idade”).
+Empak também é indicado como terapêutica adjuvante no tratamento de crises parciais com ou sem
+generalização secundária em adultos e em crianças a partir de 12 anos de idade.
+Dor Neuropática
+Empak é indicado para o tratamento da dor neuropática em adultos a partir de 18 anos de idade. A
+segurança e eficácia em pacientes com menos de 18 anos não foi estabelecida.
+2. RESULTADOS DE EFICÁCIA
+Neuralgia pós-herpética
+A gabapentina foi avaliada para o controle da neuralgia pós-herpética (NPH) em dois estudos
+multicêntricos, randomizados, duplo-cegos, controlados por placebo, com N=563 total de pacientes
+randomizados que receberam pelo menos uma dose de gabapentina (ITT) (Tabela 1). Os pacientes eram
+admitidos no estudo se continuassem sentindo dor por mais de 3 meses após a resolução da erupção
+cutânea por herpes zoster.
+Biolab Sanus Empak (Profissional) – 03/2025
+TABELA 1
+Estudos Controlados de NPH: Duração, Doses e Número de Pacientes.
+Duração do gabapentina (mg/dia)a Pacientes tratados Pacientes tratados com
+Estudo
+Estudo Dose-Alvo com gabapentina placebo
+1 8 semanas 3.600 113 116
+2 7 semanas 1.800, 2.400 223 111
+Total 336 227
+a Dividido em 3 doses (3 vezes/dia)
+Cada estudo incluiu uma fase duplo-cega de 7 ou 8 semanas de duração (3 ou 4 semanas de titulação e 4
+semanas de dose fixa). Os pacientes iniciaram o tratamento com titulação 900 mg/dia de gabapentina
+durante 3 dias. As doses foram então tituladas em aumentos de 600 a 1.200 mg/dia, a intervalos de 3 a 7
+dias até a dose-alvo, por 3 a 4 semanas. Os pacientes registraram a dor em um diário por meio de uma
+escala numérica de gradação da dor de 11 pontos, variando de 0 (sem dor) a 10 (pior dor possível). Foi
+exigida para randomização uma pontuação média de dor durante a fase inicial de no mínimo 4. As
+análises foram conduzidas utilizando-se a população de intenção de tratamento (todos os pacientes
+randomizados que receberam pelo menos uma dose do medicamento em estudo).
+Os dois estudos apresentaram diferenças significativas de eficácia em comparação ao placebo em todas as
+doses testadas. Foi observada uma redução significativa nas pontuações médias semanais de dor durante a
+Semana 1 nos dois estudos e as diferenças significativas foram mantidas até o final do tratamento. Foram
+observados efeitos comparáveis em todos os braços ativos de tratamento. O modelo farmacocinético/
+farmacodinâmico forneceu evidências de eficácia em todas as doses. As figuras 1 e 2 mostram a escala de
+intensidade de dor para os Estudos 1 e 2.
+Biolab Sanus Empak (Profissional) – 03/2025
+Figura 1 – Média semanal da pontuação de dor (casos observados na população (ITT)): Estudo 1
+Figura 2 – Média semanal da pontuação de dor (casos observados na população (ITT)): Estudo 2
+A proporção de pacientes que responderam ao tratamento (pacientes que relataram melhora de pelo
+menos 50% no desfecho da pontuação da dor em comparação com a fase inicial) foi calculada para cada
+estudo (Figura 3).
+Biolab Sanus Empak (Profissional) – 03/2025
+Figura 3 – Proporção de respostas (pacientes com redução de pelo menos 50% na pontuação da dor) na
+visita final: Estudos controlados NPH
+Epilepsia
+A eficácia de gabapentina como terapia adjuvante (em combinação a outros anticonvulsivantes) foi
+estabelecida em estudos multicêntricos, controlados por placebo, duplo-cegos, de grupos paralelos
+conduzidos em pacientes adultos e pediátricos (a partir de 3 anos de idade) com crises parciais refratárias.
+Evidências da eficácia foram obtidas em três estudos conduzidos em 705 pacientes (a partir de 12 anos de
+idade). Os pacientes admitidos nos estudos apresentavam história de pelo menos 4 crises parciais por mês
+apesar de receberem um ou mais fármacos anticonvulsivantes em níveis terapêuticos e foram avaliados
+com seus respectivos esquemas terapêuticos estabelecidos durante um período inicial de 12 semanas (6
+semanas no estudo de pacientes pediátricos). Nos pacientes que continuaram a apresentar pelo menos 2
+(ou 4 em alguns estudos) crises por mês, a gabapentina ou placebo foram então adicionados à terapia
+existente durante um período de tratamento de 12 semanas. A eficácia foi avaliada principalmente com
+base na porcentagem de pacientes com redução igual ou superior a 50% na frequência de crises com o
+tratamento em relação ao basal (“taxa de pacientes responsivos”) e uma medida derivada denominada
+razão de resposta, uma medida da alteração definida como (T - B) / (T + B), em que B é a frequência de
+crises do paciente na fase inicial e T é a frequência de crises do paciente durante o tratamento. A razão de
+resposta distribui-se no intervalo de -1 a +1. O valor zero indica que não ocorreu alteração, ao passo que a
+eliminação completa das crises receberia um valor de -1 e o aumento das taxas de crises receberia valores
+positivos. A razão de resposta de -0,33 corresponde a uma redução de 50% na frequência de crises. Os
+resultados apresentados a seguir são para todas as crises parciais na população de intenção de tratamento
+(todos os pacientes que receberam qualquer dose de tratamento) em cada estudo, a menos que indicado de
+outra forma.
+Um estudo comparou gabapentina 1.200 mg/dia divididos em 3 doses ao dia com o placebo. A taxa de
+pacientes responsivos foi de 23% (14/61) no grupo que recebeu gabapentina e de 9% (6/66) no grupo que
+recebeu placebo.
+Biolab Sanus Empak (Profissional) – 03/2025
+A diferença entre os grupos foi estatisticamente significativa. A razão de resposta também foi melhor no
+grupo gabapentina (-0,199) do que no grupo placebo (-0,044), uma diferença que também atingiu
+significância estatística.
+Um segundo estudo comparou 1.200 mg/dia de gabapentina (N=101) divididos em três doses ao dia com
+o placebo (N=98). Grupos menores de doses adicionais de gabapentina (600 mg/dia, N=53; 1.800 mg/dia,
+N=54) também foram estudados para obter informações sobre a resposta à dose. A taxa de pacientes
+responsivos foi mais alta no grupo gabapentina 1.200 mg/dia (16%) do que no grupo placebo (8%),
+porém a diferença não foi estatisticamente significativa. A taxa de pacientes responsivos com 600 mg
+(17%) também não foi significativamente maior do que a do placebo, porém a taxa do grupo responsivo
+de 1.800 mg (26%) foi significativamente superior em relação ao grupo placebo. A razão de resposta foi
+melhor para o grupo gabapentina de 1.200 mg/dia (-0,103) do que para o placebo (-0,022); porém esta
+diferença também não foi significativa (p = 0,224). Foi observada resposta melhor nos grupos que
+recebiam gabapentina 600 mg/dia (-0,105) e 1.800 mg/dia (-0,222) do que no que recebia 1.200 mg/dia,
+com o grupo de 1.800 mg/dia atingindo significância estatística em comparação ao placebo.
+Um terceiro estudo comparou gabapentina 900 mg/dia divididos em três doses ao dia (N=111) e placebo
+(N=109).
+Um grupo adicional de gabapentina 1.200 mg/dia (N=52) forneceu dados de dose-resposta. Foi observada
+diferença estatisticamente significativa na taxa de pacientes responsivos para o grupo gabapentina de 900
+mg/dia (22%) em comparação ao grupo placebo (10%). A razão de resposta também foi
+significativamente superior para o grupo gabapentina 900 mg/dia (-0,119) em comparação ao placebo (-
+0,027), assim como ocorreu no grupo gabapentina de 1.200 mg/dia (-0,184) em comparação ao placebo.
+Também foram realizadas análises em cada estudo para examinar o efeito da gabapentina sobre a
+prevenção das crises tônico-clônicas generalizadas secundariamente. Os pacientes que apresentaram tais
+crises na fase inicial ou no período de tratamento nos três estudos controlados por placebo foram
+incluídos nestas análises. Houve várias comparações de razões de resposta que apresentaram vantagem
+estatisticamente significativa para a gabapentina em comparação ao placebo e tendências favoráveis para
+quase todas as comparações.
+A análise de pacientes responsivos utilizando dados combinados dos três estudos e de todas as doses
+(N=162, gabapentina; N=89, placebo) também demonstrou uma vantagem significativa para gabapentina
+sobre o placebo na redução da frequência de crises tônico-clônicas secundariamente generalizadas.
+Em dois dos três estudos controlados, foi utilizada mais do que uma dose de gabapentina. Dentro de cada
+estudo, os resultados não apresentaram uma resposta consistentemente elevada em relação à dose. No
+entanto, observando os estudos, fica evidente uma tendência para o aumento da eficácia com o aumento
+da dose (ver Figura 4).
+Biolab Sanus Empak (Profissional) – 03/2025
+Figura 4. Taxa de pacientes responsivos recebendo gabapentina, expressa como uma diferença em relação
+à dose de placebo por estudo: estudos de terapia adjuvante em pacientes 12 anos apresentando crises
+parciais.
+Na figura 4, está traçada a magnitude do efeito do tratamento, medida no eixo Y como a diferença na
+proporção de pacientes designados a receber gabapentina e placebo que atingiram redução igual ou
+superior a 50% na frequência de crises em relação à frequência inicial e à dose diária administrada de
+gabapentina (eixo X).
+Embora não tenha sido realizada análise formal por sexo, as estimativas de resposta (razão de resposta)
+dos estudos clínicos (398 homens, 307 mulheres) indicam que não existem diferenças importantes
+relativas ao gênero dos pacientes. Não houve padrão consistente indicativo de que a idade apresentasse
+qualquer efeito sobre a resposta à gabapentina. Não houve número suficiente de pacientes de outras etnias
+além da caucasiana que possibilitasse uma comparação de eficácia entre os grupos étnicos.
+Referências
+1. Physicians’ Desk Reference®. Medical Economics Company 2004; 58: 2559 – 2564.
+2.Rowbotham M, Harden N, Stacey B, Bernstein P, Magnus-Miller L. Gabapentin for the treatment of
+postherpetic neuralgia: a randomized controlled trial. JAMA. 1998 Dec 2;280(21):1837-42.
+3.Rice AS, Maton S; Postherpetic Neuralgia Study Group. Gabapentin in postherpetic neuralgia: a
+randomised, double blind, placebo controlled study. Pain. 2001 Nov;94(2):215-24
+4.US Gabapentin Study Group. Gabapentin as add-on therapy in refractory partial epilepsy: a double-
+blind,placebo-controlled, parallel-group study. The US Gabapentin Study Group No. 5. Neurology. 1993
+Nov;43(11):2292-8
+5.Anhut H, Ashman P, Feuerstein TJ, Sauermann W, Saunders M, Schmidt B. Gabapentin (Neurontin) as
+add-on therapy in patients with partial seizures: a double-blind, placebo-controlled study. The
+International Gabapentin Study Group. Epilepsia. 1994 Jul-Aug;35(4):795-801.
+6.Morris GL.Gabapentin. Epilepsia 1999;40 Suppl 5:S63-70 .
+Biolab Sanus Empak (Profissional) – 03/2025
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+A gabapentina penetra rapidamente no cérebro e previne convulsões em uma série de modelos animais de
+epilepsia. A gabapentina não possui afinidade pelos receptores GABA-A ou GABA-B nem altera o
+metabolismo do GABA. Não se liga a outros receptores ou sítios de neurotransmissão cerebral e não
+interage com os canais de sódio. A gabapentina liga-se com alta afinidade à subunidade α2δ (alfa-2-delta)
+dos canais de cálcio voltagem-dependentes propondo-se que a ligação à subunidade α2δ esteja envolvida
+nos efeitos anticonvulsivantes da gabapentina em animais. A triagem ampliada não sugere outro sítio de
+ação do fármaco além de α2δ.
+Evidências de vários modelos pré-clínicos atestam que a atividade farmacológica da gabapentina pode ser
+mediada pela ligação à α2δ através da redução da liberação de neurotransmissores excitatórios em regiões
+do sistema nervoso central. Tal atividade pode sustentar a atividade anticonvulsivante da gabapentina. A
+relevância dessas ações da gabapentina sobre os efeitos anticonvulsivantes em humanos ainda não foi
+estabelecida.
+A gabapentina também apresenta eficácia em vários modelos pré-clínicos animais de dor. Propõe-se que a
+ligação específica da gabapentina à subunidade α2δ resulta em várias ações diferentes que podem ser
+responsáveis pela ação analgésica em modelos animais. Os efeitos analgésicos da gabapentina podem
+ocorrer na medula espinhal, bem como em centros cerebrais superiores por meio de interações com as
+vias descendentes inibitórias da dor. A relevância dessas propriedades pré-clínicas para a ação terapêutica
+em humanos é desconhecida.
+Usuários de drogas recreacionais: um estudo clínico cruzado, randomizado, duplo-cego, de dose única
+conduzido em indivíduos saudáveis, não dependentes de drogas e usuários recreacionais de opioides (42
+indivíduos, com média de idade de 34 anos) investigou o potencial abuso quando gabapentina (600 mg ou
+1200 mg) foi administrada juntamente com oxicodona (20 mg liberação imediata) em comparação à
+administração de oxicodona isolada. O desfecho primário foi o nível de satisfação ou prazer utilizando a
+escala visual analógica (EVA). Na análise primária, ambas dosagens de gabapentina 600 mg e 1200 mg
+em conjunto com oxicodona apresentaram um efeito de nível de satisfação ou prazer que não pôde ser
+confirmado como sendo similar à oxicodona isolada.
+Nas análises secundárias, gabapentina 600 mg e 1200 mg isolada demonstrou um efeito de nível de
+satisfação ou prazer significativamente menor em comparação à oxicodona isolada. Gabapentina 600 mg
+isolada demonstrou um efeito de nível de satisfação ou prazer similar ao placebo, enquanto gabapentina
+1200 mg isolada demonstrou efeito de nível de satisfação ou prazer que não pôde ser confirmado como
+sendo similar ao placebo.
+Biolab Sanus Empak (Profissional) – 03/2025
+Propriedades Farmacocinéticas
+A biodisponibilidade da gabapentina não é proporcional à dose. Isto é, quando a dose aumenta, a
+biodisponibilidade diminui. Os picos de concentração plasmática de gabapentina são observados de 2 a 3
+horas após a administração oral. A biodisponibilidade absoluta de gabapentina cápsula é de
+aproximadamente 60%. A alimentação, incluindo dietas ricas em gorduras, não tem efeito sobre a
+farmacocinética da gabapentina.
+A eliminação plasmática da gabapentina é melhor descrita pela farmacocinética linear. A meia-vida de
+eliminação da gabapentina independe da dose e é, em média, de 5 a 7 horas.
+A farmacocinética da gabapentina não é afetada por administrações múltiplas e as concentrações
+plasmáticas no estado de equilíbrio são previsíveis a partir dos dados de dose única. Embora as
+concentrações plasmáticas da gabapentina nos ensaios clínicos tenham estado geralmente entre 2 g/mL e
+20 g/mL, tais concentrações não permitem prever a segurança ou a eficácia. As concentrações
+plasmáticas de gabapentina são proporcionais às doses de 300 mg ou de 400 mg, administradas a cada 8
+horas. Os parâmetros farmacocinéticos estão descritos na Tabela 2.
+TABELA 2
+Resumo dos parâmetros farmacocinéticos médios (% DP) da gabapentina, no estado de equilíbrio,
+após administração a cada 8 horas.
+300 mg 400 mg
+Parâmetro Farmacocinético
+(N = 7) (N = 11)
+C (g/mL) 4,02 (24) 5,50 (21)
+máx
+t (h) 2,7 (18) 2,1 (47)
+máx
+t (h) 5,2 (12) 6,1 (ND)
+1/2
+AUC (0-∞) (g.h/mL) 24,8 (24) 33,3 (20)
+Ae% NA (NA) 63,6 (14)
+% DP = Desvio padrão;
+ND = Não determinado;
+NA = Não disponível;
+Ae% = porcentagem de gabapentina inalterada que é excretada pela urina.
+A gabapentina não se liga às proteínas plasmáticas e possui um volume de distribuição equivalente a
+57,7L. Em pacientes com epilepsia, as concentrações de gabapentina no líquido cefalorraquidiano (LCR)
+são correspondentes a aproximadamente 20% da concentração plasmática no estado de equilíbrio. A
+gabapentina é eliminada exclusivamente pelos rins. Não há evidência de metabolismo em seres humanos.
+A gabapentina não induz as enzimas oxidativas hepáticas de função mista, responsáveis pelo metabolismo
+dos fármacos.
+Biolab Sanus Empak (Profissional) – 03/2025
+Em idosos e em portadores de insuficiência renal, o clearance plasmático da gabapentina é reduzido. A
+constante da taxa de eliminação, o clearance plasmático e o clearance renal da gabapentina são
+diretamente proporcionais ao clearance da creatinina.
+A gabapentina é removida do plasma por hemodiálise. Recomenda-se um ajuste da dose em pacientes
+com função renal comprometida ou sob hemodiálise (vide item 8. “Posologia e Modo de Usar - Ajuste de
+Dose na Insuficiência Renal em Pacientes com Dor Neuropática ou Epilepsia” e “Ajuste de Dose de
+Pacientes em Hemodiálise”).
+Em um estudo de farmacocinética com 24 lactentes e crianças saudáveis, pacientes pediátricos entre 1 e
+48 meses de vida, evidenciou exposição aproximadamente 30% menor (AUC) do que a observada em
+crianças com mais de 5 anos de idade. O C foi menor e o clearance por peso corporal foi maior em
+máx
+lactentes e em crianças.
+Dados de Segurança Pré-Clínicos
+Carcinogênese
+A gabapentina foi administrada na dieta de camundongos, nas doses de 200, 600 e 2000 mg/kg/dia e de
+ratos, nas doses de 250, 1000 e 2000 mg/kg/dia, durante 2 anos. Um aumento estatisticamente
+significativo na incidência de tumores de células acinares pancreáticas foi observado somente em ratos
+machos que receberam a dose mais elevada. Os picos das concentrações plasmáticas do fármaco em ratos,
+com a dose de 2000 mg/kg/dia, foram 10 vezes maiores que as concentrações plasmáticas em humanos
+que receberam a dose de 3600 mg/dia. As neoplasias de células acinares pancreáticas em ratos machos
+foram de baixo grau, que não afetaram a sobrevida, não resultaram metástases ou invadiram os tecidos
+vizinhos e foram semelhantes aos observados nos controles. Não está clara a relevância destes tumores de
+células acinares pancreáticas de ratos machos ao risco carcinogênico em humanos.
+Mutagênese
+A gabapentina não demonstrou potencial genotóxico. Não se mostrou mutagênica in vitro, em testes
+padrões empregando células de mamíferos ou modelos bacterianos. Também não induziu aberrações
+estruturais dos cromossomos em células de mamíferos in vitro ou in vivo e não induziu a formação de
+micronúcleos na medula óssea de hamsters.
+Alterações da Fertilidade
+Não foram observados efeitos adversos sobre a fertilidade ou sobre a reprodução em ratos, em doses de
+até 2000 mg/kg (aproximadamente 5 vezes a dose humana diária máxima na base de mg/m2).
+Teratogênese
+Comparando-se aos controles, a gabapentina não aumentou a incidência de malformações na prole de
+camundongos, ratos ou coelhos em doses de até 50, 30 e 25 vezes, respectivamente, a dose humana diária
+de 3600 mg (4, 5 ou 8 vezes, respectivamente, a dose diária humana na base de mg/m2).
+Biolab Sanus Empak (Profissional) – 03/2025
+A gabapentina induziu ossificação tardia do crânio, das vértebras e das patas dianteiras e traseiras de
+roedores, indicando um atraso do crescimento fetal. Estes efeitos ocorreram quando fêmeas prenhas de
+camundongo receberam doses orais de 1000 ou de 3000 mg/kg/dia durante a organogênese e em ratas nas
+quais foram administradas doses de 2000 mg/kg/dia antes e durante o acasalamento e durante toda a
+gestação. Estas doses são de aproximadamente 1 a 5 vezes a dose recomendada de 3600 mg para
+humanos na base de mg/m2.
+Não foram observados efeitos em fêmeas prenhas de camundongo que receberam 500 mg/kg/dia
+(aproximadamente metade da dose diária humana na base de mg/m2).
+Foi observado um aumento na incidência de hidroureter e/ou hidronefrose em ratas que receberam 2000
+mg/kg/dia em um estudo de reprodução geral e de fertilidade; 1500 mg/kg/dia em um estudo de
+teratogênese; e 500, 1000 e 2000 mg/kg/dia em um estudo peri e pós-natal. A significância destes
+resultados é desconhecida, mas foi associada ao retardo no desenvolvimento. Estas doses também são
+aproximadamente 1 a 5 vezes a dose humana de 3600 mg na base de mg/m2.
+Em um estudo de teratogênese em coelhos, observou-se um aumento na incidência de perda fetal pós-
+implantação em coelhas que receberam 60, 300 e 1500 mg/kg/dia durante a organogênese. Estas doses
+são aproximadamente ¼ a 8 vezes a dose diária humana de 3600 mg na base de mg/m2.
+4. CONTRAINDICAÇÕES
+Empak é contraindicado a pacientes com hipersensibilidade à gabapentina ou a outros componentes da
+fórmula.
+Este medicamento é contraindicado para menores de 12 anos.
+Este medicamento não deve ser usado por pessoas com síndrome de má-absorção de glicose-
+galactase.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Gerais
+Embora não haja evidência de crises de rebote com a gabapentina, a suspensão abrupta de
+anticonvulsivantes em pacientes epilépticos pode precipitar o estado de mal epiléptico (vide item 8.
+“Posologia e Modo de Usar”). Quando por julgamento clínico houver a necessidade de redução de dose,
+descontinuação ou substituição por um fármaco anticonvulsivante alternativo, isto deve ser feito
+gradualmente, durante no mínimo uma semana.
+Geralmente, a gabapentina não é considerada eficaz no tratamento de crises de ausência.
+Biolab Sanus Empak (Profissional) – 03/2025
+O tratamento com gabapentina tem sido associado com tonturas e sonolência, que podem aumentar a
+ocorrência de lesões acidentais (quedas). Há também relatos, na pós-comercialização, de confusão, perda
+de consciência e comprometimento mental. Assim, os pacientes devem ser avisados para tomarem
+precauções até que estejam familiarizados com os potenciais efeitos da medicação.
+Uso concomitante com opioides e outros depressores do SNC
+Pacientes que necessitem de tratamento concomitante com opioides podem apresentar aumentos das
+concentrações de gabapentina. Os pacientes que necessitam de tratamento concomitante com depressores
+do SNC (sistema nervoso central), incluindo opioides, devem ser observados cuidadosamente sobre sinais
+de depressão do SNC, como sonolência, sedação e depressão respiratória e as doses de gabapentina ou o
+tratamento concomitante com depressores do SNC, incluindo opioides, devem ser reduzidas
+apropriadamente (vide item 6. Interações Medicamentosas).
+Recomenda-se cautela ao prescrever gabapentina concomitantemente com opioides devido ao risco de
+depressão do SNC. Em um estudo de caso-controle observacional e aninhado de base populacional de
+usuários de opioides, a co-prescrição de opioides e gabapentina foi associada a um risco aumentado de
+morte relacionada aos opioides em comparação com o uso de prescrição de opioides sozinho (odds ratio
+ajustada [aOR], 1,49 [IC de 95%, 1,18 a 1,88, p <0,001]).
+Não se deve ultrapassar o intervalo de 12 horas entre as doses de Empak para prevenir a reincidência de
+convulsões.
+Reação alérgica com eosinofilia e sintomas sistêmicos
+Reações de hipersensibilidade sistêmica fatal grave, como rash com eosinofilia e sintomas sistêmicos
+(DRESS), têm sido relatadas em pacientes tomando antiepilépticos incluindo gabapentina.
+É importante notar que manifestações precoces de hipersensibilidade, tais como febre ou linfadenopatia,
+podem estar presentes mesmo que o rash não esteja. Caso esses sinais ou sintomas estejam presentes, o
+paciente deve ser avaliado imediatamente. Empak deve ser descontinuado se uma etiologia alternativa
+para os sinais ou sintomas não puder ser estabelecida.
+Anafilaxia
+Empak pode causar anafilaxia. Sinais e sintomas em casos relatados incluem: dificuldade em respirar,
+inchaço nos lábios, garganta e língua e hipotensão que requerem tratamento de emergência. Os pacientes
+devem ser instruídos a descontinuar imediatamente Empak caso notem sinais e sintomas de anafilaxia e
+deverão procurar atendimento médico imediato.
+Abuso e Dependência
+Casos de abuso e dependência foram relatados no banco de dados pós-comercialização. Como acontece
+com qualquer medicamento ativo no sistema nervoso central (SNC), avalie cuidadosamente os pacientes
+quanto a um histórico de abuso de medicamentos e/ou distúrbios psiquiátricos.
+Biolab Sanus Empak (Profissional) – 03/2025
+Deve-se ter cautela ao considerar o uso de gabapentina em pacientes que estão abusando de drogas ou
+possuem histórico prévio que possuem maior risco de abuso da gabapentina.
+Os pacientes tratados com gabapentina devem ser monitorados quanto a sinais e sintomas de abuso ou
+dependência da gabapentina (por exemplo, desenvolvimento de tolerância, aumento da dosagem e
+comportamento de procura de droga).
+Sintomas de abstinência
+Após a descontinuação do tratamento de curta e longa duração com gabapentina, foram observados
+sintomas de abstinência em alguns pacientes. Os sintomas de abstinência podem ocorrer logo após a
+descontinuação, geralmente dentro de 48 horas. Os sintomas relatados com mais frequência incluem
+ansiedade, insônia, náusea, dores, sudorese, tremor, dor de cabeça, depressão, sensação anormal, tontura e
+mal-estar.
+Mulheres com potencial para engravidar/Contracepção
+O uso de gabapentina no primeiro trimestre da gravidez pode causar defeitos congênitos graves no feto. A
+gabapentina não deve ser usada durante a gravidez, a menos que o benefício para a mãe supere
+claramente o risco potencial para o feto. As mulheres com potencial para engravidar devem fazer uso de
+método contraceptivo eficaz.
+Fertilidade
+Não há efeito sobre a fertilidade em estudos com animais. (vide item 3. “Características Farmacológicas”
+– “Dados de segurança pré-clínicos”).
+Uso Durante a Gravidez e Lactação
+Uso Durante a Gravidez
+Empak atravessa a placenta humana.
+O risco de defeitos no nascimento é aumentado pelo fator de 2-3 nos descendentes de mães tratadas com
+um medicamento antiepiléptico.
+Os dados de um estudo observacional, que incluiu mais de 1.700 gestações expostas à gabapentina com
+base em dados coletados rotineiramente de registros administrativos e médicos na Dinamarca, Finlândia,
+Noruega e Suécia, não sugerem riscos substancialmente aumentados de malformações congênitas graves,
+resultados adversos no parto, ou resultados anormais no neurodesenvolvimento pós-natal em gestações
+expostas à gabapentina.
+Para malformações congênitas maiores, as razões de prevalência ajustadas (aPRs) e intervalos de
+confiança (IC) de 95% na meta-análise padrão para gabapentina no primeiro trimestre exposta vs. não
+exposta à drogas antiepilépticas foi de 0,99 (0,80-1,23).
+Biolab Sanus Empak (Profissional) – 03/2025
+No geral, não houve achados estatisticamente significativos para natimorto, pequenos para a idade
+gestacional, baixo índice de Apgar e microcefalia. Os aPRs foram 1,21 (1,02-1,44) para baixo peso ao
+nascer, 1,16 (1,00-1,35) para parto prematuro.
+Na população pediátrica exposta no útero, o estudo não forneceu evidências de um risco aumentado para
+efeitos sobre o neurodesenvolvimento, como transtorno de déficit de atenção e hiperatividade (TDAH),
+transtornos do espectro autista (ASD) e deficiências intelectuais.
+A síndrome de abstinência neonatal foi relatada em recém-nascidos expostos no utero à gabapentina. A
+co-exposição à gabapentina e opioides durante a gravidez pode aumentar o risco de síndrome de
+abstinência neonatal.
+Estudos em animais demonstraram toxicidade reprodutiva (vide item 3. Características Farmacológicas –
+Dados de segurança pré-clínicos - teratogêneses).
+Empak não deve ser usado durante a gravidez, a menos que o benefício potencial para a mãe supere
+claramente o risco potencial para o feto.
+Uso Durante a Lactação
+Empak é excretado no leite materno. Devido ao efeito no lactente ser desconhecido, deve-se ter cuidado
+ao administrar gabapentina a lactantes. Empak deve ser utilizado em lactantes apenas se os benefícios
+superarem os riscos para o bebê.
+O uso deste medicamento no período da lactação depende da avaliação e acompanhamento do seu
+médico ou cirurgião-dentista.
+Empak é um medicamento classificado na categoria C de risco de gravidez, portanto, este
+medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Efeitos na Habilidade de Dirigir e Operar Máquinas
+O paciente deve ser orientado a não dirigir ou operar máquinas potencialmente perigosas até que se saiba
+que o medicamento não afeta suas habilidades de executar estas atividades.
+Durante o tratamento, o paciente não deve dirigir veículos ou operar máquinas, pois sua habilidade
+e atenção podem estar prejudicadas.
+Atenção: Contém lactose.
+6. INTERAÇÕES MEDICAMENTOSAS
+Existem relatos espontâneos e casos na literatura sobre depressão respiratória, sedação e morte associados
+à gabapentina quando co-administrado com depressores do SNC, incluindo opioides. Em alguns desses
+relatos, os autores consideraram a combinação de gabapentina com opioides uma preocupação particular
+em pacientes frágeis, em idosos, em pacientes com doença respiratória subjacente grave, com
+polifarmácia e naqueles pacientes com distúrbios de abuso de substâncias.
+Biolab Sanus Empak (Profissional) – 03/2025
+Morfina
+Em estudos envolvendo voluntários sadios (N=12), quando uma cápsula de liberação controlada de 60 mg
+de morfina foi administrada 2 horas antes de uma cápsula de 600 mg de gabapentina, a AUC média da
+gabapentina aumentou em 44% comparada a gabapentina administrada sem morfina. Isto foi associado a
+um aumento no limiar de dor (cold-pressor test). O significado clínico destas alterações não foi definido.
+Os valores dos parâmetros farmacocinéticos não foram afetados pela administração da gabapentina 2
+horas após a de morfina. Os efeitos colaterais observados, mediados por opioides associados à
+administração da gabapentina e da morfina não foram significativamente diferentes dos associados à
+morfina e ao placebo. A magnitude da interação em outras doses não é conhecida (vide item 5.
+“Advertências e Precauções – Gerais”).
+Não foram observadas interações entre a gabapentina e o fenobarbital, a fenitoína, o ácido valproico ou a
+carbamazepina. Os perfis farmacocinéticos da gabapentina no estado de equilíbrio são similares para
+indivíduos sadios e para pacientes epilépticos recebendo estes medicamentos anticonvulsivantes.
+A coadministração de gabapentina com contraceptivos orais contendo noretindrona e/ou etinilestradiol
+não influencia a farmacocinética no estado de equilíbrio de qualquer um dos componentes.
+A coadministração de gabapentina com antiácidos contendo alumínio e magnésio reduz a
+biodisponibilidade da gabapentina em cerca de 20%. Recomenda-se que a gabapentina seja administrada
+2 horas após a administração de antiácidos.
+A excreção renal da gabapentina não é alterada pela probenecida.
+Uma leve redução na excreção renal de gabapentina, que é observada quando este fármaco é
+coadministrado com cimetidina, parece não ter importância clínica.
+Exames laboratoriais
+Foram relatados resultados falso-positivos no teste Ames N-Multistix SG® quando a gabapentina foi
+associada a outros fármacos anticonvulsivantes. Para se determinar a proteinúria, recomenda-se o
+procedimento mais específico de precipitação do ácido sulfossalicílico.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Empak cápsulas deve ser conservado em temperatura ambiente (entre 15 e 30°C), protegido da luz e
+umidade.
+O produto tem prazo de validade de 24 meses a partir da data de fabricação impressa na embalagem.
+Biolab Sanus Empak (Profissional) – 03/2025
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Antes de usar, observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças
+Características físicas e organolépticas do produto:
+Empak 300 mg apresenta-se na forma de cápsulas de gelatina dura, amarelas, contendo um pó de
+coloração branca a quase branca.
+8. POSOLOGIA E MODO DE USAR
+Empak é administrado por via oral, podendo ser ingerido com ou sem alimentos.
+Geral
+Quando por julgamento clínico houver a necessidade de redução de dose, descontinuação ou substituição
+por um fármaco alternativo, isto deve ser feito gradualmente, nunca com menos de uma semana.
+Epilepsia
+Adultos e Pacientes pediátricos a partir de 12 anos de idade
+Em estudos clínicos, a faixa de dose eficaz variou de 900 mg/dia a 3600 mg/dia. O tratamento pode ser
+iniciado com a administração de 300 mg, três vezes ao dia no 1º dia, ou ajustando-se a dose (Tabela 3).
+Então, a dose pode ser aumentada em três doses igualmente divididas até um máximo de 3600 mg/dia.
+Doses de até 4800 mg/dia foram bem toleradas em estudos clínicos abertos de longo prazo. O intervalo
+máximo entre as doses no esquema de três vezes ao dia não deve ultrapassar 12 horas, para minimizar o
+risco de convulsões.
+TABELA 3
+Esquema de Dosagem - Titulação Inicial
+Dose Dia 1 Dia 2 Dia 3
+MANHÃ ------ 300 mg 300 mg
+TARDE ------ ------ 300 mg
+NOITE 300 mg 300 mg 300 mg
+Dor Neuropática
+Adultos
+A dose inicial é de 900 mg/dia, administrada em três doses igualmente divididas e aumentada se
+necessário com base na resposta ao tratamento até uma dose máxima de 3600 mg/dia. O tratamento deve
+ser iniciado titulando-se a dose (Tabela 3).
+Ajuste de dose na insuficiência renal em pacientes com dor neuropática ou epilepsia
+Biolab Sanus Empak (Profissional) – 03/2025
+O ajuste da dose é recomendado a pacientes com comprometimento de função renal (Tabela 4) e/ou em
+pacientes sob hemodiálise.
+TABELA 4
+Doses de gabapentina baseadas na função renal de adultos
+Clearance da creatinina (mL/min) Dose Diária Total a (mg/dia)
+≥ 80 900 – 3600
+50 – 79 600 – 1800
+30 – 49 300 – 900
+15 – 29 150b – 600
+< 15 150b – 300
+a a dose diária total deve ser administrada conforme a posologia de três vezes ao dia. As doses usadas para
+tratar os pacientes com função renal normal (clearance da creatinina > 80 mL/min) variam de 900 mg/dia
+a 3600 mg/dia. As doses devem ser reduzidas em pacientes com insuficiência renal (clearance da
+creatinina < 79 mL/min).
+b deve ser administrado 300 mg, em dias alternados.
+Ajuste de Dose em Pacientes Idosos
+As mesmas doses recomendadas para adultos, tanto para epilepsia como para dor neuropática, podem ser
+administradas em pacientes idosos. Para pacientes com função renal comprometida, a dose deve ser
+ajustada conforme a Tabela 4.
+Ajuste de Dose para Pacientes em Hemodiálise
+Para os pacientes submetidos à hemodiálise que nunca receberam gabapentina, é recomendada uma dose
+de ataque de 300 mg a 400 mg e, posteriormente doses de 200 mg a 300 mg de Empak após cada 4 horas
+de hemodiálise.
+Dose Omitida
+Caso o paciente esqueça de administrar Empak no horário estabelecido, deve fazê-lo assim que lembrar.
+Entretanto, se já estiver perto do horário de administrar a próxima dose, deve desconsiderar a dose
+esquecida e utilizar a próxima. Neste caso, o paciente não deve utilizar a dose duplicada para compensar
+doses esquecidas.
+O esquecimento da dose pode comprometer a eficácia do tratamento.
+Este medicamento não deve ser partido, aberto ou mastigado.
+9. REAÇÕES ADVERSAS
+Epilepsia
+A segurança de gabapentina foi avaliada em mais de 2000 indivíduos e em pacientes participantes de
+estudos de terapêutica de associação. O fármaco foi bem tolerado. Deste total, 543 pacientes participaram
+Biolab Sanus Empak (Profissional) – 03/2025
+de estudos clínicos controlados. Como gabapentina foi frequentemente administrada em associação a
+outros fármacos anticonvulsivantes, não foi possível determinar qual(is) fármaco(s), se algum, foi(ram)
+responsável(is) pelos eventos adversos.
+A gabapentina também foi avaliada como monoterapia em mais de 600 pacientes. Os eventos adversos
+observados foram geralmente de intensidade leve a moderada.
+Incidência em Estudos Clínicos Controlados com Terapêutica Combinada
+A Tabela 5 lista os sinais e sintomas que surgiram com o tratamento em pelo menos 1% dos pacientes
+com crises parciais que participaram de estudos placebo-controlados como terapêutica de associação.
+Nestes estudos, tanto a gabapentina quanto o placebo foram administrados a pacientes recebendo outros
+fármacos anticonvulsivantes.
+Os eventos adversos mais frequentemente relatados foram considerados de intensidade leve a moderada.
+TABELA 5
+Resumo dos sinais e sintomas que surgiram com o tratamento em ≥ 1% dos pacientes tratados com
+gabapentina em estudos placebo-controlados na terapia de associação
+gabapentina a placebo a
+COSTART
+(N = 543) (N = 378)
+Sistema / Eventos Adversos (EA)
+nº de pacientes % nº de pacientes %
+Geral
+Dor abdominal 10 1,8 9 2,4
+Dor lombar 10 1,8 2 0,5
+Fadiga 60 11,0 19 5,0
+Febre 7 1,3 5 1,3
+Cefaleia 44 8,1 34 9,0
+Infecção viral 7 1,3 8 2,1
+Cardiovascular
+Vasodilatação 6 1,1 1 0,3
+Sistema Digestório
+Constipação 8 1,5 3 0,8
+Anormalidades dentárias 8 1,5 1 0,3
+Diarreia 7 1,3 8 2,1
+Dispepsia 12 2,2 2 0,5
+Aumento do apetite 6 1,1 3 0,8
+Boca ou garganta seca 9 1,7 2 0,5
+Náusea e/ou vômito 33 6,1 27 7,1
+Hematológico e Linfático
+Leucopenia 6 1,1 2 0,5
+Diminuição da contagem de glóbulos brancos 6 1,1 2 0,5
+Biolab Sanus Empak (Profissional) – 03/2025
+Metabólico e Nutricional
+Edema periférico 9 1,7 2 0,5
+Ganho de peso 16 2,9 6 1,6
+Sistema Musculoesquelético
+Fratura 6 1,1 3 0,8
+Mialgia 11 2,0 7 1,9
+Sistema Nervoso
+Amnésia 12 2,2 0 0,0
+Ataxia 68 12,5 21 5,6
+Confusão 9 1,7 7 1,9
+Incoordenação 6 1,1 1 0,3
+Depressão 10 1,8 4 1,1
+Tontura 93 17,1 26 6,9
+Disartria 13 2,4 2 0,5
+Instabilidade emocional 6 1,1 5 1,3
+Insônia 6 1,1 7 1,9
+Nervosismo 13 2,4 7 1,9
+Nistagmo 45 8,3 15 4,0
+Sonolência 105 19,3 33 8,7
+Pensamento anormal 9 1,7 5 1,3
+Tremor 37 6,8 12 3,2
+Abalos musculares 7 1,3 2 0,5
+Sistema Respiratório
+Tosse 10 1,8 5 1,3
+Faringite 15 2,8 6 1,6
+Rinite 22 4,1 14 3,7
+Pele e Anexos
+Escoriação 7 1,3 0 0,0
+Acne 6 1,1 5 1,3
+Prurido 7 1,3 2 0,5
+Rash 8 1,5 6 1,6
+Sentidos Especiais
+Ambliopia 23 4,2 4 1,1
+Diplopia 32 5,9 7 1,9
+Sistema Urogenital
+Impotência 8 1,5 4 1,1
+a inclui tratamento concomitante com fármacos anticonvulsivantes.
+Outros eventos adversos observados durante todos os estudos clínicos
+Biolab Sanus Empak (Profissional) – 03/2025
+Terapêutica Combinada
+São resumidos a seguir os eventos que ocorreram em pelo menos 1% dos participantes do estudo com
+epilepsia, que receberam gabapentina em terapêutica combinada em qualquer estudo clínico e que não
+foram descritos no item anterior, como sinais e sintomas que frequentemente ocorreram durante os
+estudos placebo-controlados.
+ Geral: astenia, mal-estar, edema facial.
+ Sistema cardiovascular: hipertensão.
+ Sistema digestório: flatulência, anorexia, gengivite.
+ Sistemas hematológico e linfático: púrpura mais frequentemente descrita como contusões resultantes de
+trauma.
+ Sistema musculoesquelético: artralgia.
+ Sistema nervoso: vertigem; hipercinesia; aumento, diminuição ou ausência de reflexos; parestesia;
+ansiedade; hostilidade.
+ Sistema respiratório: pneumonia.
+ Sistema urogenital: infecção do trato urinário.
+ Sentidos especiais: visão anormal, mais frequentemente descrita como um distúrbio visual.
+Monoterapia
+Não foram relatados eventos adversos inesperados ou novos durante os estudos clínicos em monoterapia.
+Tonturas, ataxia, sonolência, parestesia e nistagmo correlacionaram-se à dose ao se comparar 300 mg/dia
+a 3600 mg/dia.
+Uso em Pacientes Idosos
+Cinquenta e nove indivíduos com idade a partir de 65 anos receberam gabapentina em estudos clínicos
+pré-comercialização. Os efeitos adversos relatados entre estes pacientes não diferiram do tipo de efeitos
+adversos relatados por indivíduos mais jovens. Para pacientes com a função renal comprometida, deve ser
+feito o ajuste da dose (vide item 8. “Posologia e Modo de Usar - Ajuste de Dose na Insuficiência Renal
+em Pacientes com Dor Neuropática ou Epilepsia” e “Ajuste de Dose de Pacientes em Hemodiálise”).
+Interrupção do Tratamento Devido a Eventos Adversos
+Terapêutica Combinada
+Aproximadamente 7% dos mais de 2000 voluntários sadios e pacientes com epilepsia, espasticidade ou
+enxaqueca, que receberam gabapentina em estudos clínicos, descontinuaram o tratamento devido a
+eventos adversos.
+Em todos os estudos clínicos, os eventos que ocorreram mais frequentemente e que contribuíram para a
+descontinuação do tratamento com a gabapentina incluíram sonolência, ataxia, tontura, fadiga e náusea
+e/ou vômito. Quase todos os participantes tiveram queixas múltiplas e nenhuma delas pôde ser
+caracterizada como primária.
+Biolab Sanus Empak (Profissional) – 03/2025
+Monoterapia
+Em estudos anteriores à comercialização, aproximadamente 8% dos 659 pacientes que receberam
+gabapentina como monoterapia ou passaram para a monoterapia, descontinuaram o tratamento devido a
+um evento adverso.
+Os eventos adversos mais comumente associados com a descontinuação foram tontura, nervosismo,
+ganho de peso, náusea e/ou vômito e sonolência.
+Dor Neuropática
+TABELA 6
+Resumo dos sinais e sintomas que surgiram com o tratamento em 1% de pacientes tratados com
+gabapentina em estudos de dor neuropática placebo-controlados
+gabapentina placebo
+COSTART
+(N = 821) (N = 537)
+Sistema/Eventos Adversos
+nº de pacientes % nº de pacientes %
+Geral
+Dor abdominal 23 2,8 17 3,2
+Lesão acidental 32 3,9 17 3,2
+Astenia 41 5,0 25 4,7
+Dor lombar 19 2,3 8 1,5
+Sintomas de gripe 21 2,6 14 2,6
+Cefaleia 45 5,5 33 6,1
+Infecção 38 4,6 40 7,4
+Dor 30 3,7 36 6,7
+Sistema Digestório
+Constipação 19 2,3 9 1,7
+Diarreia 46 5,6 24 4,5
+Boca seca 27 3,3 5 0,9
+Dispepsia 16 1,9 10 1,9
+Flatulência 14 1,7 6 1,1
+Náusea 45 5,5 29 5,4
+Vômito 16 1,9 13 2,4
+Metabólico e Nutricional
+Edema periférico 44 5,4 14 2,6
+Ganho de peso 14 1,7 0 0,0
+Sistema Nervoso
+Alteração da marcha 9 1,1 0 0,0
+Amnésia 15 1,8 3 0,6
+Biolab Sanus Empak (Profissional) – 03/2025
+Ataxia 19 2,3 0 0,0
+Confusão 15 1,8 5 0,9
+Tontura 173 21,1 35 6,5
+Hiperestesia 11 1,3 3 0,6
+Sonolência 132 16,1 27 5,0
+Pensamento anormal 12 1,5 0 0,0
+Tremor 9 1,1 6 1,1
+Vertigem 8 1,0 2 0,4
+Sistema Respiratório
+Dispneia 9 1,1 3 0,6
+Faringite 15 1,8 7 1,3
+Pele e Anexos
+Rash 14 1,7 4 0,7
+Sentidos Especiais
+Ambliopia 15 1,8 2 0,4
+Experiência Pós-Comercialização
+Foram relatadas mortes súbitas inexplicadas em que a relação causal com o tratamento com gabapentina
+não foi estabelecida.
+Os eventos adversos adicionais relatados pós-comercialização incluem aumento da creatinofosfoquinase
+sérica, rabdomiólise, insuficiência renal aguda, agitação, reação alérgica incluindo urticária, alopecia,
+anafilaxia, angioedema, hiperglicemia e hipoglicemia (mais frequente em pacientes diabéticos),
+hipertrofia da mama, dor no peito, rash com eosinofilia e sintomas sistêmicos (DRESS), elevação nos
+testes de função hepática (LFTs), eritema multiforme, queda, edema generalizado, ginecomastia,
+alucinações, hepatite, hipersensibilidade incluindo reações sistêmicas, hiponatremia, icterícia, perda de
+consciência, distúrbios de movimento tais como coreoatetose, discinesia e distonia, mioclonia, palpitação,
+pancreatite, disfunção sexual (incluindo alterações na libido, distúrbios de ejaculação e anorgasmia),
+síndrome de Stevens-Johnson, trombocitopenia, tinido e incontinência urinária.
+Após a descontinuação do tratamento de curta e longa duração com gabapentina, foram observados
+sintomas de abstinência em alguns pacientes. Os sintomas notificados com mais frequência incluem
+ansiedade, insônia, náuseas, dores, sudorese, tremores, dor de cabeça, depressão, sensação anormal,
+tontura e mal-estar.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Não foi observada toxicidade aguda com risco de vida nos casos de superdoses de gabapentina de até 49
+g. Os sintomas da superdose incluíram tontura, visão dupla, fala empastada, sonolência, perda de
+consciência, letargia e diarreia leve. Todos os pacientes se recuperaram totalmente com terapêutica de
+Biolab Sanus Empak (Profissional) – 03/2025
+suporte. A redução da absorção de gabapentina em doses maiores pode limitar a absorção do fármaco
+quando superdoses são ingeridas e, consequentemente, minimizar a toxicidade.
+Embora a gabapentina possa ser removida por hemodiálise, baseado em experiência prévia, este
+procedimento geralmente não é necessário. Entretanto, em pacientes com insuficiência renal grave, a
+hemodiálise pode ser indicada.
+Não foi identificada uma dose letal oral de gabapentina em camundongos e ratos que receberam doses de
+até 8000 mg/kg. Nos animais, os sinais de toxicidade aguda incluíram ataxia, dificuldade respiratória,
+ptose, hipoatividade ou excitação.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+Registro: 1.0974.0282
+Registrado por:
+Biolab Sanus Farmacêutica Ltda.
+Av. Paulo Ayres, 280 – Taboão da Serra - SP
+CEP: 06767-220
+CNPJ: 49.475.833/0001-06
+SAC 0800 724 6522
+Produzido por:
+Biolab Sanus Farmacêutica Ltda.
+Rua Solange Aparecida Montan, 49 – Jandira - SP
+CEP: 06610-015
+VENDA SOB PRESCRIÇÃO – SÓ PODE SER VENDIDO COM RETENÇÃO DA RECEITA
+Biolab Sanus Empak (Profissional) – 03/2025
+Histórico de Alterações de Texto de Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº do Data do Nº do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+VP
+3. Quando não 300 MG CAP
+devo usar este DURA CT BL
+medicamento AL PLAS
+10450 –
+4. O que devo TRANS X 10
+SIMILAR –
+saber antes de
+Notificação de
+05/03/2025 --- N/A N/A N/A N/A usar este VP/VPS
+Alteração de
+medicamento?
+Texto de Bula –
+300 MG CAP
+RDC 60/12
+VPS DURA CT BL
+4. AL PLAS
+Contraindicações TRANS X 30
+5. Advertências e
+precauções
+300 MG CAP
+VP:
+DURA CT BL
+4. O que devo
+AL PLAS
+10450 – saber antes de
+TRANS X 10
+SIMILAR – usar este
+Notificação de medicamento?
+14/08/2023 0850013/23-2 N/A N/A N/A N/A VP/VPS
+Alteração de
+Texto de Bula – VPS:
+300 MG CAP
+RDC 60/12 3. Características
+DURA CT BL
+Farmacológicas
+AL PLAS
+5. Advertências e
+TRANS X 30
+precauções
+Biolab Sanus Empak (Profissional) – 03/2025
+VP:
+4. O que devo
+300 MG CAP
+saber antes de
+DURA CT BL
+usar este
+AL PLAS
+10450 – medicamento?
+TRANS X 10
+SIMILAR – 8. Quais os males
+Notificação de que este
+05/04/2023 0345244/23-1 N/A N/A N/A N/A VP/VPS
+Alteração de medicamento
+Texto de Bula – pode me causar?
+300 MG CAP
+RDC 60/12
+DURA CT BL
+VPS:
+AL PLAS
+5. Advertências e
+TRANS X 30
+Precauções
+9. Reações
+Adversas
+300 MG CAP
+DURA CT BL
+O que devo saber
+AL PLAS
+10450 – antes de usar este
+TRANS X 10
+SIMILAR – medicamento?
+Notificação de
+15/07/2022 4431333/22-3
+Alteração de
+N/A N/A N/A N/A VP/VPS
+Texto de Bula –
+RDC 60/12 Advertências e 300 MG CAP
+DURA CT BL
+Precauções
+AL PLAS
+TRANS X 30
+300 MG CAP
+10450 –
+DURA CT BL
+SIMILAR –
+AL PLAS
+Notificação de
+18/05/2022 2822021/22-8 N/A N/A N/A N/A Apresentação VP/VPS TRANS X 10
+Alteração de
+Texto de Bula –
+300 MG CAP
+RDC 60/12
+DURA CT BL
+AL PLAS
+Biolab Sanus Empak (Profissional) – 03/2025
+TRANS X 30
+300 MG CAP
+DURA CT BL
+10450 –
+AL PLAS
+SIMILAR –
+TRANS X 6
+Notificação de
+08/12/2020 4337839/20-1 N/A N/A N/A N/A Reações Adversas VPS
+Alteração de
+300 MG CAP
+Texto de Bula –
+DURA CT BL
+RDC 60/12
+AL PLAS
+TRANS X 30
+300 MG CAP
+DURA CT BL
+10507 – AL PLAS
+10450 –
+SIMILAR – TRANS X 6
+SIMILAR –
+06/10/2020 3435405/20-1 01/10/2020 3365599/20-5 Modificação 01/10/2020 Dizeres Legais VP/VPS
+Notificação de
+Pós-registro – 300 MG CAP
+Alteração de
+Texto de Bula – CLONE DURA CT BL
+RDC 60/12 AL PLAS
+TRANS X 30
+300 MG CAP
+10756 – DURA CT BL
+SIMILAR – AL PLAS
+Notificação de TRANS X 6
+Identificação do
+01/07/2020 2106271/20-4 alteração de texto N/A N/A N/A N/A VP/VPS
+medicamento
+de bula para 300 MG CAP
+adequação a DURA CT BL
+intercambialidade AL PLAS
+TRANS X 30
+Biolab Sanus Empak (Profissional) – 03/2025
+300 MG CAP
+DURA CT BL
+10457 – 10490 – AL PLAS
+SIMILAR – SIMILAR – TRANS X 6
+01/07/2020 2105966/20-7 Inclusão Inicial de 02/07/2018 0524084/18-1 Registro de 15/07/2019 Versão inicial VP/VPS
+Texto de Bula – Produto – 300 MG CAP
+RDC 60/12 CLONE DURA CT BL
+AL PLAS
+TRANS X 30
+Biolab Sanus Empak (Profissional) – 03/2025

@@ -1,0 +1,72 @@
+INDICAÇÕES Emah (exemestano) é indicado para o tratamento adjuvante em mulheres pós-menopausadas com
+câncer de mama inicial com receptor de estrogênio positivo ou desconhecido tendo como objetivo a
+redução do risco de recorrência (distante e loco-regional) e a redução do risco de desenvolvimento de
+câncer na mama contralateral, após o tratamento com tamoxifeno durante 2 ou 3 anos.
+O tempo total do tratamento deve ser de 5 anos (sendo 2-3 anos com tamoxifeno e 3-2 anos de Emah,
+de modo sequencial).
+Emah é indicado para o tratamento de primeira linha do câncer de mama avançado com receptor
+hormonal positivo em mulheres com pós-menopausa natural ou induzida.
+Emah é indicado para o tratamento de segunda linha do câncer de mama avançado com receptor
+hormonal positivo em mulheres com pós-menopausa natural ou induzida em pacientes cuja doença
+progrediu após terapia antiestrogênica.
+Emah também é indicado para o tratamento de terceira linha do câncer de mama avançado em
+mulheres com pós-menopausa natural ou induzida, cuja doença progrediu após múltiplos tratamentos
+hormonais.
+2. RESULTADOS DE EFICÁCIA
+Modelo de bula – Profissional
+Emah 25 mg
+Tratamento Adjuvante de Câncer de Mama Inicial
+Em um estudo multicêntrico, randomizado, duplo-cego (Estudo de Intergrupo do exemestano [IES]),
+conduzido em 4724 pacientes na pós-menopausa com câncer de mama positivo para receptor de
+estrogênio ou com câncer de mama primário com status hormonal desconhecido, as pacientes que
+haviam permanecido livres da doença após receberem terapia adjuvante com tamoxifeno por 2 a 3
+anos foram randomizadas para receber 3 a 2 anos de exemestano (25 mg/dia) ou tamoxifeno (20 ou
+30 mg/dia) para completar um total de 5 anos de terapia hormonal. Após um acompanhamento médio
+de 30,6 meses, foram relatados 449 eventos iniciais (recorrência local ou metastática, câncer de mama
+contralateral ou morte), sendo 183 no grupo de exemestano e 266 no grupo de tamoxifeno. Em três
+anos após a randomização, o risco relativo não ajustado no grupo de exemestano em comparação com
+o grupo de tamoxifeno foi de 0,68 (intervalo de confiança de 95%, 0,56 a 0,82; P<0,001 pelo teste de
+log-rank), o que representa uma redução de 32% do risco e que corresponde a um benefício absoluto,
+em termo de sobrevida livre de doença, de 4,7% (95% IC, 2,6 a 6,8). A sobrevida global l não foi
+significativamente diferente nos dois grupos, com 93 mortes reportadas no grupo de exemestano e
+106 mortes no grupo de tamoxifeno. Efeitos tóxicos graves de exemestano foram raros. Câncer de
+mama contralateral ocorreu em 20 pacientes do grupo de tamoxifeno e 9 no grupo de exemestano
+(P=0,04). A sobrevida livre da doença após terapia com exemestano melhorou significativamente
+depois de dois ou três anos em comparação com os parâmetros de cinco anos de terapia com
+tamoxifeno.
+Acompanhamento mediano de 35 meses (Análise de eficácia primária)
+Após uma duração mediana de terapia de 27 meses e um período de acompanhamento mediano de
+35 meses, os resultados demonstraram que o tratamento sequencial com exemestano após 2 a 3 anos
+de terapia adjuvante com tamoxifeno foi associado a uma melhora clínica e estatisticamente
+significativa da sobrevida livre de doença (SLD) em comparação com a continuidade da terapia com
+o tamoxifeno. A análise demonstrou que durante o período de estudo observado, o exemestano
+reduziu o risco de recorrência de câncer de mama em 31% em comparação ao tamoxifeno (razão de
+risco de 0,69; p = 0,00003). O efeito benéfico do exemestano sobre o tamoxifeno em relação à
+sobrevida livre de doença foi evidente independentemente do status nodal ou da utilização de
+quimioterapia anterior.
+O exemestano também reduziu significativamente o risco de câncer de mama contralateral (razão de
+risco de 0,32, p = 0,0034) e prolongou significativamente a sobrevida livre de câncer de mama (razão
+de risco de 0,65, p < 0,00001) e a sobrevida livre de recorrência à distância (razão de risco de 0,70, p
+= 0,00083).
+No momento da análise, a sobrevida global não foi significativamente diferente nos dois grupos, com
+116 óbitos ocorrendo no grupo exemestano e 137 no grupo tamoxifeno (razão de risco de 0,86, p =
+0,23).
+Observou-se uma menor incidência de outros tipos de câncer (não de mama) primários diferentes em
+pacientes tratadas com o exemestano versus pacientes tratadas com o tamoxifeno (2,2% vs. 3,5%).
+Acompanhamento mediano de 52 meses
+Após duração mediana de terapia de cerca de 30 meses e um período de acompanhamento mediano
+de 52 meses, os resultados demonstraram que o tratamento adjuvante sequencial com exemestano
+Modelo de bula – Profissional
+Emah 25 mg
+após 2 a 3 anos de tamoxifeno foi associado a uma melhora significativa do ponto de vista estatístico
+e clínico da sobrevida livre de doença (SLD) em comparação com a continuidade da terapia com o
+tamoxifeno. A análise demonstrou que durante o período de estudo observado, o exemestano reduziu
+o risco de recorrência de câncer de mama em 24% em comparação ao tamoxifeno (razão de risco de
+0,76; p = 0,00015). O efeito benéfico do exemestano sobre o tamoxifeno em relação à sobrevida livre
+de doença foi evidente independentemente do status nodal ou de quimioterapia prévia.
+O exemestano também reduziu significativamente o risco de câncer de mama contralateral (razão de
+risco de 0,57, p = 0,04158) e prolongou significativamente a sobrevida livre de câncer de mama (razão
+de risco de 0,76, p = 0,00041) e a sobrevida livre de recorrência à distância (razão de risco de 0,83, p
+= 0,02621).
+Na população total do estudo, uma tendência para o aumento da sobrevida global foi observada no
+grupo tratado com exemestano (222 mortes) comparado com tamoxifeno (262 mortes) com razão de

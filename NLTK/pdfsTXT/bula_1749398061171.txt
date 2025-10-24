@@ -1,0 +1,425 @@
+Endonidazol
+(metronidazol)
+Fresenius Kabi Brasil LTDA.
+Solução Injetável 5 mg/mL
+1
+Endonidazol_BU09_PS
+®
+ENDONIDAZOL
+Metronidazol
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA
+APRESENTAÇÃO
+Solução injetável 5,0 mg/ml: frasco plástico de 100 ml de solução 0,5% (500 mg) de metronidazol.
+SISTEMA FECHADO
+USO INTRAVENOSO
+USO ADULTO E PEDIÁTRICO
+COMPOSIÇÃO:
+Cada frasco plástico de 100 ml contém:
+metronidazol............................................ 500 mg
+água para injetáveis q.s.p.............................100 mL
+Excipientes: cloreto de sódio, fosfato de sódio dibásico heptahidratado, ácido cítrico e água para injetáveis.
+Cada 1 ml de solução contém 5,0 mg de metronidazol.
+INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Endonidazol (metronidazol) solução injetável está indicado na profilaxia e tratamento das infecções causadas
+por bactérias anaeróbias como Bacteroides fragilis e outros bacteroides, Fusobacterium sp; Clostridium sp;
+Eubacterium sp; e cocos anaeróbios. Está indicado, também, na prevenção e tratamento das infecções pós-
+cirúrgicas, nas quais os anaeróbios tenham sido identificados ou suspeitados.
+Endonidazol (metronidazol) solução injetável deve ser administrada em pacientes para os quais a via oral
+está contraindicada ou impossibilitada.
+2. RESULTADOS DE EFICÁCIA
+A eficácia de metronidazol injetável é confirmada no estudo de Corder, onde foi usado o produto em
+pacientes com quadros clínicos de apendicite gangrenosa, perfurada ou com peritonite. Foram envolvidas
+nesse estudo comparativo com cefoxitina, 97 pacientes divididos em 2 grupos (48 pacientes no grupo tratado
+com metronidazol e 49 pacientes no grupo tratado com cefoxitina). Nesse estudo randomizado, o resultado
+final apresentado foi além de que o metronidazol, na apendicite grave se apresentou mais eficaz do que a
+cefoxitina, sendo também sua meia-vida maior em comparação a cefoxitina¹.
+Outro estudo realizado por Lansade confirmou a eficácia de metronidazol injetável em profilaxia de
+pacientes com apendicite aguda. Nesse estudo randomizado, realizado em um ano, foram analisadas 200
+crianças com apendicite, onde um grupo com 100 crianças recebeu metronidazol pré-operatório de
+apendicite aguda e outro grupo de 100 crianças não recebeu antibioticoterapia profilática. O resultado foi de
+que a eficácia de metronidazol foi confirmada com índice de complicações de 1% e no grupo que não
+recebeu antibioticoterapia profilática foi de 9%².
+Saario confirmou também a eficácia de metronidazol injetável em um estudo prospectivo controlado,
+envolvendo 203 pacientes com apendicite aguda em curso, onde um grupo recebeu, após a confirmação de
+apendicite gangrenosa ou inflamada, antibioticoterapia e outro controle não recebeu antibiótico. No grupo
+controle, a incidência de complicações foi de 17,5% e no grupo que recebeu metronidazol essa incidência
+ficou em apenas 3,4%, confirmando a eficácia de metronidazol injetável³.
+Referências Bibliográficas
+1. Corder AP, et al. Metronidazole v. cefoxitin in severe appendicitis--a trial to compare a single
+intraoperative dose of two antibiotics given intravenously. Postgrad Med J. 1983 Nov; 59(697):720-3.
+2
+Endonidazol_BU09_PS
+2. Lansade A, et al. Antibiotic prevention with a single dose of metronidazole in appendectomy in children.
+Ann Chir. 1989;43(3):207-9.
+3. Saario I, et al. Metronidazole prophylaxis against wound infection in patients undergoing
+appendicectomy. Ann Chir Gynaecol. 1981;70(2):71-4.
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades farmacodinâmicas
+O metronidazol é um anti-infeccioso da família dos nitro-5-imidazóis, que apresenta o seguinte espectro de
+atividade antimicrobiana:
+- Espécies habitualmente sensíveis (mais do que 90% das cepas da espécie são sensíveis):
+Peptostreptococcus, Clostridium perfringens, Clostridium difficile, Clostridium sp, Bacteroides sp,
+Bacteroides fragilis, Prevotella, Fusobacterium, Veillonella.
+- Espécies com sensibilidade variável: a porcentagem de resistência adquirida é variável. A sensibilidade é
+imprevisível na ausência de antibiograma. Bifidobacterium, Eubacterium.
+- Espécies habitualmente resistentes (pelo menos 50% das cepas da espécie são resistentes):
+Propionibacterium, Actinomyces, Mobiluncus.
+- Atividade antiparasitária: Entamoeba histolytica, Trichomonas vaginalis, Giardia intestinalis.
+Propriedades farmacocinéticas
+A absorção máxima ocorre ao final da infusão.
+Distribuição
+Após uma única infusão intravenosa de 500 mg de metronidazol em 20 minutos, o pico sérico médio é de 18
+μg/mL. Após infusões repetidas a cada 8 horas, o pico sérico médio é de 18 μg/mL. Após infusões repetidas
+a cada 12 horas, o pico sérico médio é de 13 μg/mL. A meia- vida plasmática é de 8 a 10 horas. A ligação às
+proteínas plasmáticas é baixa: menor que 10%.
+A distribuição é rápida e a concentração tecidual é alta nos seguintes tecidos: pulmões, rins, fígado, vesícula
+biliar, pele, LCR, saliva, líquido seminal, secreções vaginais. O metronidazol atravessa a barreira placentária
+e é excretado no leite.
+Biotransformação
+O metronidazol é metabolizado em 2 metabólitos conjugados, que apresentam uma atividade antimicrobiana
+de 10 a 30%.
+Excreção
+As concentrações hepática e biliar são altas, enquanto a concentração no cólon é baixa. A excreção é
+principalmente urinária (40 a 70% de metronidazol não metabolizado, considerando para 20% do total),
+causando uma coloração marrom ou avermelhada na urina. A eliminação fecal é baixa.
+Em pacientes com insuficiência renal, a meia-vida de eliminação é idêntica, não havendo necessidade de
+ajuste posológico. Em caso de hemodiálise, o metronidazol é rapidamente eliminado e a meia-vida de
+eliminação é reduzida a 2 horas e 30 minutos.
+4. CONTRAINDICAÇÕES
+Endonidazol (metronidazol) solução injetável é contraindicado em pacientes com histórico de
+hipersensibilidade ao metronidazol ou outro derivado imidazólico e/ou aos demais componentes do produto.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+O uso de Endonidazol (metronidazol) solução injetável para tratamento de duração prolongada deve ser
+cuidadosamente avaliado (ver itens Carcinogenicidade e Mutagenicidade).
+Caso o tratamento com metronidazol, por razões especiais, necessite de uma duração maior do que a
+geralmente recomendada, devem-se realizar testes hematológicos regularmente, principalmente contagem
+leucocitária, e o paciente deve ser monitorizado quanto ao aparecimento de reações adversas, como
+neuropatia central ou periférica, por exemplo: parestesia, ataxia, tontura, vertigem e crises convulsivas.
+Os pacientes devem ser alertados que metronidazol pode provocar escurecimento da urina (devido aos
+metabólitos de metronidazol).
+3
+Endonidazol_BU09_PS
+Os pacientes devem ser aconselhados a não ingerir bebidas alcoólicas ou medicamentos que contenham
+álcool em sua formulação durante e no mínimo 1 dia após o tratamento com metronidazol, devido à
+possibilidade de reação do tipo dissulfiram (efeito antabuse).
+Foram reportados casos de hepatotoxicidade/insuficiência hepática aguda, incluindo casos fatais, com início
+muito rápido após o começo do tratamento, em pacientes com Síndrome de Cockayne usando medicamento
+contendo metronidazol para uso sistêmico. Portanto, nesta população, o metronidazol deve ser utilizado após
+uma cuidadosa avaliação de risco-benefício e apenas se não houver tratamento alternativo disponível.
+Os testes da função hepática devem ser realizados imediatamente antes do início do tratamento, durante e
+após o término do tratamento até que a função hepática esteja dentro dos limites normais ou até que os
+valores basais sejam atingidos. Se os testes de função hepática se tornarem acentuadamente elevados durante
+o tratamento, o medicamento deve ser descontinuado.
+Os pacientes com Síndrome de Cockayne devem ser aconselhados a reportar imediatamente ao seu médico,
+quaisquer sintomas de potencial dano hepático tais como novo evento de dor abdominal constante, anorexia,
+náusea, vômito, febre, mal-estar, fadiga, icterícia, urina escurecida ou coceira e parar de usar metronidazol.
+Foram notificados casos de reações cutâneas bolhosas severas como síndrome de Stevens Johnson (SSJ),
+necrólise epidérmica tóxica (NET) ou pustulose exantemática generalizada aguda (PEGA) com metronidazol
+(ver item 9. Reações Adversas). Se estiverem presentes sintomas ou sinais de SSJ, NET ou PEGA, o
+tratamento com Endonidazol solução injetável deve ser imediatamente interrompido.
+Casos de ideação suicida com ou sem depressão têm sido relatados durante o tratamento com Endonidazol
+solução injetável. Os pacientes devem ser aconselhados a interromper o tratamento e entrar em contato
+imediatamente com seu médico se apresentarem sintomas psiquiátricos durante o tratamento.
+Gravidez e lactação
+O uso de metronidazol durante a gravidez deve ser cuidadosamente avaliado visto que este medicamento
+atravessa a barreira placentária e seus efeitos sobre a organogênese fetal humana ainda são desconhecidos.
+Categoria de risco na gravidez: B. Este medicamento não deve ser utilizado por mulheres grávidas
+sem orientação médica ou do cirurgião-dentista.
+Visto que o metronidazol é excretado no leite materno, a exposição desnecessária ao medicamento deve ser
+evitada.
+Populações especiais
+Não há advertências e recomendações especiais sobre o uso adequado desse medicamento em pacientes
+idosos.
+Endonidazol (metronidazol) solução injetável deve ser administrado com cautela em pacientes com
+encefalopatia hepática.
+Endonidazol (metronidazol) solução injetável deve ser utilizado com cautela em pacientes com doença
+severa, ativa ou crônica, do sistema nervoso central e periférico, devido ao risco de agravamento do quadro
+neurológico.
+Alterações na capacidade de dirigir veículos e operar máquinas
+Os pacientes devem ser alertados sobre a possibilidade de confusão, tontura, vertigem, alucinações,
+convulsões ou distúrbios visuais (ver item 9. Reações Adversas) e aconselhados a não dirigir veículos ou
+operar máquinas caso estes sintomas ocorram.
+Carcinogenicidade
+O metronidazol mostrou ser carcinogênico em camundongos e ratos. Contudo, estudos semelhantes em
+hamsters mostraram resultados negativos e estudos epidemiológicos em humanos não mostraram qualquer
+evidência de aumento do risco carcinogênico em humanos.
+Mutagenicidade
+O metronidazol mostrou ser mutagênico em bactérias in vitro. Em estudos conduzidos em células de
+mamíferos in vitro, assim como em roedores ou humanos in vivo, houve evidência inadequada de efeito
+mutagênico do metronidazol, com alguns estudos reportando efeitos mutagênicos enquanto outros não.
+4
+Endonidazol_BU09_PS
+Portanto, o uso de Endonidazol solução injetável em tratamento com duração prolongada deve ser
+cuidadosamente avaliado.
+Interferência com exames laboratoriais
+O metronidazol pode interferir com determinados tipos de exames de sangue (aminotransferase [ALT],
+aspartato aminotransferase [AST], lactato desidrogenase [LDH], triglicerídeos, glicose), o que pode levar a
+um falso negativo ou a um resultado anormalmente baixo. Essas determinações analíticas baseiam-se na
+diminuição da absorbância ultravioleta, fato que ocorre quando a nicotinamida adenina dinucleotídeo
+(NADH) é oxidada em dinucleótido de nicotinamida e adenina (NAD). A interferência ocorre devido à
+semelhança nos picos de absorção de NADH (340 nm) e metronidazol (322 nm) em pH 7.
+6. INTERAÇÕES MEDICAMENTOSAS
+Álcool: bebidas alcoólicas e medicamentos contendo álcool não devem ser ingeridos durante o tratamento
+com metronidazol e, no mínimo, 1 dia após o mesmo, devido à possibilidade de reação do tipo dissulfiram
+(efeito antabuse), com aparecimento de rubor, vômito e taquicardia.
+Dissulfiram: foram relatadas reações psicóticas em pacientes utilizando concomitantemente metronidazol e
+dissulfiram.
+Terapia com anticoagulante oral (tipo varfarina): potencialização do efeito anticoagulante e aumento do
+risco hemorrágico, causado pela diminuição do catabolismo hepático. Em caso de administração
+concomitante, deve-se monitorizar o tempo de protrombina com maior frequência e realizar ajuste
+posológico da terapia anticoagulante durante o tratamento com metronidazol.
+Lítio: os níveis plasmáticos de lítio podem ser aumentados pelo metronidazol. Deve-se, portanto,
+monitorizar as concentrações plasmáticas de lítio, creatinina e eletrólitos em pacientes recebendo tratamento
+com lítio, enquanto durar o tratamento com metronidazol.
+Ciclosporina: risco de aumento dos níveis plasmáticos de ciclosporina. Os níveis plasmáticos de
+ciclosporina e creatinina devem ser rigorosamente monitorizados quando a administração concomitante é
+necessária.
+Fenitoína ou fenobarbital: aumento da eliminação de metronidazol, resultando em níveis plasmáticos
+reduzidos.
+5-fluorouracil: diminuição do clearance do 5-fluorouracil, resultando em aumento da toxicidade do mesmo.
+Bussulfano: os níveis plasmáticos de bussulfano podem ser aumentados pelo metronidazol, o que pode levar
+a uma severa toxicidade do bussulfano.
+Medicamentos que prolongam o intervalo QT: foram relatados prolongamentos no intervalo QT,
+particularmente quando metronidazol foi administrado com outros medicamentos que possuem potencial de
+prolongar o intervalo QT.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Endonidazol (metronidazol) solução injetável deve ser mantido em temperatura ambiente (entre 15ºC e
+30ºC).
+Prazo de validade Endonidazol (metronidazol) solução injetável (frasco): 24 meses a partir da data de
+fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Depois de aberto, este medicamento deve ser utilizado imediatamente. Não é recomendado o
+reaproveitamento do seu conteúdo ou seu armazenamento em geladeiras para ser novamente reutilizado em
+pacientes.
+5
+Endonidazol_BU09_PS
+Características físicas e organolépticas
+Solução límpida, levemente amarelada e isenta de partículas.
+Isento de PVC e látex.
+Antes de usar observe o aspecto do medicamento.
+Todo medicamento deve ser mantido fora do alcance das crianças.
+8. POSOLOGIA E MODO DE USAR
+Endonidazol (metronidazol) solução injetável pode ser administrado isolado ou concomitantemente (mas
+separadamente) com outros agentes antibacterianos, por via intravenosa. A perfusão deve ser feita à razão de
+5 mL por minuto.
+- Tratamento
+Adultos e crianças maiores de 12 anos: 1 frasco plástico de 100 mL (500 mg de metronidazol) em perfusão
+intravenosa a cada 8 horas ou 3 frascos plásticos de 100 mL (1500 mg de metronidazol) em dose única. A
+medicação oral, 400 mg três vezes ao dia, deve ser instituída assim que for possível.
+Crianças menores de 12 anos: mesmo procedimento utilizado para o adulto, mas a dose intravenosa deve
+ser estabelecida à base de 1,5 mL (7,5 mg de metronidazol) a cada 8 horas ou 4,5 mL (22,5 mg de
+metronidazol) por quilograma de peso corporal (em dose única).
+- Prevenção
+Adultos e crianças maiores de 12 anos: 3 frascos plásticos de 100 mL (1500 mg de metronidazol) em
+perfusão intravenosa uma hora antes da cirurgia. Esta dosagem fornece níveis bactericidas por 24 horas.
+Quando ocorrer contaminação durante o ato cirúrgico ou deiscência da anastomose, deve-se repetir esta dose
+24 horas após.
+Crianças menores de 12 anos: mesmo esquema utilizado no adulto, sendo que a dose é de 4,5 mL (22,5 mg
+de metronidazol) por quilograma de peso.
+Não há estudos dos efeitos de Endonidazol (metronidazol) solução injetável administrado por vias não
+recomendadas. Portanto, por segurança e para garantir a eficácia deste medicamento, a administração deve
+ser somente por via intravenosa.
+INSTRUÇÕES DE USO:
+Observe figura 1.
+Técnica de Infusão:
+1. Identifique o sítio de conexão do equipo;
+2. Quebre o lacre do sítio de conexão do equipo;
+3. Feche a pinça reguladora de fluxo do equipo de infusão;
+4. Segure o frasco e introduza totalmente a ponta perfurante do equipo, utilizando técnica asséptica;
+5. Instale o frasco em um suporte de soro e proceda conforme a rotina adotada pelo serviço de saúde.
+9. REAÇÕES ADVERSAS
+Reação muito comum (> 1/10).
+Reação comum (> 1/100 e ≤ 1/10).
+6
+Endonidazol_BU09_PS
+Reação incomum (> 1/1.000 e ≤ 1/100).
+Reação rara (> 1/10.000 e ≤ 1.000).
+Reação muito rara (≤ 1/10.000).
+Distúrbios gastrintestinais:
+Desconhecida: dor epigástrica, náusea, vômito, diarreia, mucosite oral, alterações no paladar (incluindo
+gosto metálico), anorexia, casos reversíveis de pancreatite, descoloração da língua/sensação de língua áspera
+(devido ao crescimento de fungos, por exemplo).
+Distúrbios do sistema imunológico:
+Rara: choque anafilático.
+Desconhecida: angioedema.
+Distúrbios do sistema nervoso:
+Muito rara: relatos de encefalopatia (por exemplo confusão, vertigem) e síndrome cerebelar subaguda (por
+exemplo, ataxia, disartria, alteração da marcha, nistagmo e tremor), que podem ser resolvidos com a
+descontinuação do medicamento; cefaleia, convulsões, tontura.
+Desconhecida: neuropatia sensorial periférica, meningite asséptica.
+Distúrbios psiquiátricos:
+Muito rara: alterações psicóticas incluindo confusão e alucinações.
+Desconhecida: humor depressivo.
+Distúrbios visuais:
+Muito rara: alterações visuais transitórias como diplopia, miopia, visão borrada, diminuição da acuidade
+visual e alteração da visualização das cores.
+Desconhecida: neuropatia óptica/neurite.
+Distúrbios do ouvido e labirinto:
+Desconhecida: deficiência auditiva/perda da audição (incluindo neurossensorial), tinido.
+Distúrbios cardíacos:
+Desconhecida: foram relatados prolongamentos no intervalo QT, particularmente quando metronidazol foi
+administrado com outros medicamentos que possuem potencial de prolongar o intervalo QT.
+Distúrbios no sangue e no sistema linfático:
+Muito rara: foram relatados casos de agranulocitose, neutropenia e trombocitopenia.
+Distúrbios hepatobiliares:
+Muito rara: foram relatados casos de aumento das enzimas hepáticas (AST, ALT, fosfatase alcalina), hepatite
+colestática ou mista e lesão hepatocelular, algumas vezes com icterícia. Foram relatados casos de falência
+hepática necessitando de transplante hepático em pacientes tratados com metronidazol em associação com
+outros medicamentos antibióticos.
+Distúrbios na pele e tecido cutâneo:
+Muito rara: “rash”, erupções pustulosas, pustulose exantemática generalizada aguda, prurido, rubor,
+urticária.
+Desconhecida: erupção fixa medicamentosa, síndrome de Stevens-Johnson, necrólise epidérmica tóxica.
+Distúrbios gerais:
+Desconhecida: febre.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Apesar de a correta via de administração desta apresentação de Endonidazol (metronidazol) solução injetável
+ser intravenosa e, não se dispor de informações sobre casos de superdose por esta via, cabe informar que
+foram relatadas ingestões orais únicas de doses de até 12 g de metronidazol em tentativas de suicídio e
+superdoses acidentais. Os sintomas ficaram limitados a vômito, ataxia e desorientação leve. Não existe
+antídoto específico para superdose com metronidazol. Em caso de suspeita de superdose maciça, deve-se
+7
+Endonidazol_BU09_PS
+instituir tratamento sintomático e de suporte.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+DIZERES LEGAIS
+M.S. 1.0041.0129
+Farmacêutica Responsável: Cíntia M. P. Garcia CRF-SP 34871
+Fabricado por:
+Fresenius Kabi Brasil Ltda.
+Aquiraz - CE
+Registrado por:
+Fresenius Kabi Brasil Ltda.
+Av. Marginal Projetada, 1652 – Barueri – SP
+C.N.P.J. 49.324.221/0001-04 – Indústria Brasileira
+SAC 0800 7073855
+USO RESTRITO A HOSPITAIS
+VENDA SOB PRESCRIÇÃO MÉDICA
+8
+Endonidazol_BU09_PS
+Histórico de Alteração para a Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do Data do No. Data da Versões Apresentações
+No. expediente Assunto Assunto Itens de bula
+expediente expediente expediente aprovação (VP/VPS) relacionadas
+10457 - SIMILAR
+- Inclusão Inicial de
+04/04/2014 0256198/14-1 - - - - Todos VP e VPS Todas
+Texto de Bula –
+RDC 60/12
+10756 – SIMILAR
+– Notificação de
+I) IDENTIFIC AÇÃO DO
+14/07/2015 0629806/15-1 Alteração de texto de - - - - VP e VPS Todas
+MEDICAM ENTO
+bula para adequação a
+intercambialidade
+4. O QUE DEVO SABER
+ANTES DE USAR ESTE
+MEDICAM ENTO?
+10450 – Similar
+– Notificação de 8. QUAIS OS MALES QUE
+23/11/2016 2519414/16-3 - - - - VP e VPS Todas
+Alteração de Texto de ESTE MEDICAM
+bula – RDC 60/12 ENTO PODE ME
+CAUSAR?
+DIZERES LEGAIS
+5 MG/ML SOL
+4. O QUE DEVO SABER INJ CX FR
+10450 - SIMILAR -
+ANTES DE USAR ESTE PLAS TRANS
+Notificação de
+14/03/2017 0401744/17-7 - - - - MEDICAMENTO? VP SIST FECH X
+Alteração de Texto de
+6. COMO DEVO USAR 100 ML
+Bula - RDC 60/12
+ESTE MEDICAMENTO?
+5 MG/ML SOL
+Endonidazol_BU09_PS
+5. ADVERTÊNCIAS E INJ CX 80 FR
+PRECAUÇÕES PLAS TRANS
+VPS
+6. POSOLOGIA E MODO SIST FECH X
+DE USAR 100 ML
+1. IDENTIFICAÇÃO DO
+MEDICAMENTO
+4. O QUE DEVO SABER
+ANTES DE USAR ESTE
+MEDICAMENTO
+5. ONDE, COMO E POR
+VP
+QUANTO TEMPO POSSO
+5 MG/ML SOL
+GUARDAR ESTE
+INJ CX FR
+MEDICAMENTO?
+PLAS TRANS
+8. QUAIS OS MALES
+SIST FECH X
+ESTE MEDICAMENTO
+10450 – Similar 100 ML
+PODE ME CAUSAR?
+29/11/2018 1126534/18-5 – Notificação de - - - -
+Alteração de Texto 5 MG/ML SOL
+INJ CX 80 FR
+PLAS TRANS
+1. IDENTIFICAÇÃO DO
+SIST FECH X
+MEDICAMENTO
+100 ML
+5. ADVERTÊNCIAS E
+PRECAUÇÕES VPS
+7. CUIDADOS DE
+ARMAZENAMENTO DO
+MEDICAMENTO
+Endonidazol_BU09_PS
+1. IDENTIFICAÇÃO DO
+MEDICAMENTO
+5 MG/ML SOL
+4. O QUE DEVO SABER
+INJ CX FR
+ANTES DE USAR ESTE
+PLAS TRANS
+MEDICAMENTO VP
+SIST FECH X
+5. ONDE, COMO E POR
+10450 – Similar 100 ML
+QUANTO TEMPO POSSO
+01/03/2019 0196744/19-4 – Notificação de - - - -
+GUARDAR ESTE
+Alteração de Texto 5 MG/ML SOL
+MEDICAMENTO?
+INJ CX 80 FR
+PLAS TRANS
+7. CUIDADOS DE
+SIST FECH X
+ARMAZENAMENTO DO
+100 ML
+MEDICAMENTO VPS
+9. REAÇÕES ADVERSAS
+4. O QUE DEVO SABER
+5 MG/ML SOL
+ANTES DE USAR ESTE
+INJ CX FR
+MEDICAMENTO
+PLAS TRANS
+8. QUAIS OS MALES QUE VP
+SIST FECH X
+ESTE MEDICAMENTO
+10450 – Similar 100 ML
+PODE ME CAUSAR?
+20/12/2022 ----- – Notificação de - - - -
+Alteração de Texto 5 MG/ML SOL
+5. ADVERTÊNCIAS E
+INJ CX 80 FR
+PRECAUÇÕES
+PLAS TRANS
+6. INTERAÇÕES VPS
+SIST FECH X
+MEDICAMENTOSAS
+100 ML
+9. REAÇÕES ADVERSAS
+Endonidazol_BU09_PS

@@ -1,0 +1,921 @@
+EKSON
+(levodopa + cloridrato de benserazida)
+Aché Laboratórios Farmacêuticos S.A.
+comprimidos
+200 mg + 50 mg
+AAS
+BULA PARA PROFISSIONAL DE SAÚDE
+Bula de acordo com a Resolução-RDC nº 47/2009
+I – IDENTIFICAÇÃO DO MEDICAMENTO
+EKSON
+levodopa + cloridrato de benserazida
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA
+APRESENTAÇÕES
+Comprimidos de 200 mg + 50 mg: frascos com 10 ou 30 comprimidos.
+USO ORAL
+USO ADULTO A PARTIR DE 25 ANOS
+COMPOSIÇÃO
+Cada comprimido contém:
+levodopa .................................................................................................................................................................................................. 200 mg
+cloridrato de benserazida ............................................................................................................... 57 mg (equivalente a 50 mg de benserazida)
+Excipientes: manitol, celulose microcristalina, fosfato de cálcio dibásico di-hidratado, crospovidona, povidona, dióxido de silício, docusato de
+sódio, estearato de magnésio e óxido de ferro vermelho.
+II – INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Ekson é uma associação das substâncias levodopa e cloridrato de benserazida, indicado para o tratamento de pacientes com doença de
+Parkinson.
+2. RESULTADOS DE EFICÁCIA
+A levodopa é o tratamento estabelecido para todos os estágios da doença de Parkinson, promovendo melhora significativa dos sintomas motores
+e da qualidade de vida dos pacientes.
+Este medicamento é uma associação de duas substâncias (levodopa e benserazida), na proporção de 4:1, uma relação que foi demonstrada ideal
+em ensaios clínicos e confirmada por experiências subsequentes.
+Levodopa + benserazida foi introduzido em 1970 para compensar a depleção da dopamina no estriado como observado na doença de Parkinson.
+Um número considerável de estudos clínicos foi conduzido nesses anos para apenas confirmar e estabelecer a combinação levodopa + cloridrato
+de benserazida como um tratamento de referência da doença, embora um número de terapias adjuvantes tenha sido introduzido desde então.
+Uma revisão recente de Cochrane coletou resultados de 29 estudos totalizando mais de 5.200 pacientes incluídos nos estudos com levodopa,
+sendo a maioria deles se referindo ao levodopa + cloridrato de benserazida.
+Nos últimos anos, Katzenschlager et al. conduziram um estudo clínico multicêntrico, comparativo de 3 braços, aberto pragmático, no grupo de
+Pesquisa da Doença de Parkinson no Reino Unido. Entre 1985 e 1990, 782 pacientes foram randomizados para levodopa/inibidor da
+descarboxilase, levodopa/inibidor da descarboxilase mais selegilina, ou bromocriptina. O desfecho final foi mortalidade, incapacidade e
+complicações motoras. A qualidade de vida relacionada a saúde e função mental foram também avaliadas.
+A duração média do acompanhamento na avaliação final foi 14 anos em 166 (21%) dos pacientes sobreviventes que puderam ser contatados.
+Após ajustes para as características basais, as pontuações de incapacidade foram melhores no grupo com levodopa que no grupo da
+bromocriptina (Webster: 16,6 vs 19,8; p = 0,03; Northwestern University Disability: 34,3 vs 30,0, p = 0,05). Função física (diferença 20,8; IC
+95% 10,0, 31,6; p < 0,001) e pontuação física resumida (diferença 5,2; IC 95% 0,7, 9,7; p = 0,03) nos 36 itens da pesquisa de qualidade de
+vida em saúde, avaliada pelo formulário resumido, foi também superior para levodopa. Diferenças nas taxas de mortalidade, prevalência de
+discinesias, flutuações motoras e demência não foram significativamente diferentes entre os grupos.
+Os autores concluíram que o tratamento inicial com o agonista dopaminérgico, bromocriptina, não reduz a mortalidade ou a incapacidade
+motora e a redução inicial da frequência das complicações motoras não foi sustentada ao longo do tempo. Eles não encontraram evidências de
+benefício em longo prazo e de efeitos modificadores da doença clinicamente relevantes com o tratamento inicial com agonista dopaminérgico
+e concluíram que a associação de levodopa à benserazida permanece como o tratamento de primeira escolha para a Doença de Parkinson.
+Referências bibliográficas
+1. Agid Y. Levodopa:is toxicity a myth? Neurology 1999, 50:858-63.
+2. Parkinson Study Group. JAMA 2000; 284:231
+3. Gourdreau J., Ahlskog JE. Symptomatic Treatment of Parkinson´s Disease:Levodopa. Pág 713-28. In Parkinson´s Disease. Ebadi M e
+Pfeiffer RF eds., CRC Press, Estados Unidos, 2005.
+4. Fahn, Oakes, Shoulson et al and The Parkinson Study Group. Levodopa and the progression of Parkinson’s disease. N Engl J Med 2004;
+351: 2498-2508.
+5. Stowe RL, Ives NJ, Clarke C et al. Dopamine agonist therapy in early Parkinson's disease. Cochrane Database Syst Rev. 2008; (2):
+CD006564
+6. Katzenschlager R, Head J, Schrag A et al. Fourteen-year final report of the randomized PDRG-UK trial comparing three initial treatments
+in PD. Neurology. 2008; 71 (7): 474-80
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+A dopamina, que age como neurotransmissor no cérebro, não está presente em quantidades suficientes nos gânglios da base, em pacientes
+parkinsonianos. A levodopa ou L-dopa (3,4-diidroxi L-fenilalanina) é um intermediário na biossíntese da dopamina. A levodopa (precursora
+da dopamina) é usada como uma pró-droga para aumentar os níveis de dopamina, visto que ela pode atravessar a barreira hematoencefálica,
+enquanto que a dopamina não consegue. Uma vez dentro do Sistema Nervosos Central (SNC), a levodopa é metabolizada em dopamina pela
+L-aminoácido aromático descarboxilase.
+Ekson 200_BO06a_VPS
+Após sua administração, a levodopa é rapidamente descarboxilada à dopamina, tanto em tecidos extracerebrais como cerebrais. Deste modo, a
+maior parte da levodopa administrada não fica disponível aos gânglios da base e a dopamina produzida perifericamente frequentemente causa
+efeitos adversos. É, portanto, particularmente desejável inibir a descarboxilação extracerebral da levodopa. Isso pode ser obtido com a
+administração simultânea de levodopa e benserazida, um inibidor da descarboxilase periférica.
+O tempo médio estimado para o início da ação terapêutica de Ekson é de aproximadamente 25 minutos, para os quando o medicamento for
+ingerido em jejum.
+Propriedades Farmacocinéticas
+Absorção
+A levodopa é absorvida principalmente na região superior do intestino delgado e a absorção é independente do local. Concentrações plasmáticas
+máximas são atingidas aproximadamente uma hora após a ingestão de Ekson.
+A concentração plasmática máxima (C ) e a extensão de absorção (área sob a curva) de levodopa aumentam proporcionalmente com a dose
+máx
+(50 - 200 mg de levodopa).
+A ingestão de alimentos reduz a velocidade e a extensão de absorção da levodopa. A concentração plasmática máxima é 30% menor e demora
+mais para ser atingida, quando os comprimidos de levodopa + cloridrato de benserazida são administrados após uma refeição padrão. A
+extensão de absorção de levodopa é reduzida em 15%.
+Distribuição
+A levodopa atravessa a mucosa gástrica e a barreira hematoencefálica por um sistema de transporte saturável. Não se liga às proteínas
+plasmáticas e seu volume de distribuição é de 57 litros. A área sob a curva de levodopa no líquor é 12% do plasma.
+Ao contrário da levodopa, a benserazida em doses terapêuticas não atravessa a barreira hematoencefálica e concentra-se principalmente em
+rins, pulmões, intestino delgado e fígado.
+Biotransformação
+A levodopa é biotransformada por duas vias metabólicas principais (descarboxilação e O-metilação) e duas vias acessórias (transaminação e
+oxidação).
+A descarboxilase de aminoácidos aromáticos converte a levodopa em dopamina. Os principais produtos finais desta via são o ácido
+homovanílico e o ácido dihidroxifenilacético.
+A catecol-O-metiltransferase metila a levodopa, transformando-a em 3-O-metildopa. Este principal metabólito plasmático tem uma meia-vida
+de eliminação de 15 horas e se acumula em pacientes que recebem doses terapêuticas dos comprimidos de levodopa + cloridrato de benserazida.
+A redução da descarboxilação periférica de levodopa, quando administrada em associação à benserazida, se reflete em níveis plasmáticos mais
+elevados de levodopa e 3-O-metildopa e níveis mais baixos de catecolaminas (dopamina e noradrenalina) e ácidos fenolcarboxílicos (ácido
+homovanílico, ácido dihidroxifenilacético).
+A benserazida é hidroxilada a trihidroxibenzilhidrazina na mucosa intestinal e no fígado. Este metabólito é um potente inibidor da
+descarboxilase de aminoácidos aromáticos.
+Eliminação
+Na presença de levodopa-descarboxilase perifericamente inibida, a meia-vida de eliminação de levodopa é de aproximadamente 1,5 horas. A
+meia-vida de eliminação é discretamente mais longa (cerca de 25%) em pacientes geriátricos (65 a 78 anos de idade) com doença de Parkinson
+(vide item “Farmacocinética em populações especiais”). A depuração plasmática da levodopa é de cerca de 430 mL/min.
+A benserazida é quase completamente eliminada por biotransformação. Os metabólitos são principalmente excretados na urina (64%) e, em
+menor extensão nas fezes (24%).
+Farmacocinética em populações especiais
+Dados de farmacocinética em pacientes urêmicos e portadores de insuficiência hepática não estão disponíveis.
+Uso em casos de insuficiência renal
+Ekson é extensamente metabolizado e menos que 10% da levodopa é excretado sem alteração pelos rins.
+Dados de farmacocinética com levodopa em pacientes com insuficiência renal não estão disponíveis. Este medicamento é bem tolerado por
+pacientes urêmicos em esquema de hemodiálise.
+Uso em casos de insuficiência hepática
+A levodopa é metabolizada principalmente pela descarboxilase (aminoácido aromático) que está presente em abundância no trato intestinal,
+nos rins, no coração e também no fígado.
+Dados da farmacocinética da levodopa em pacientes com insuficiência hepática não estão disponíveis.
+Efeito da idade na farmacocinética de levodopa
+Em pacientes parkinsonianos idosos (65 - 78 anos de idade) tanto a meia-vida de eliminação de levodopa como a área sob a curva (ASC) são
+aproximadamente 25% superiores do que as observadas nos pacientes jovens (34 - 64 anos de idade).
+O efeito da idade, embora estatisticamente significante, é clinicamente desprezível e é de menor relevância para a programação das doses.
+Estudos Não Clínicos
+Carcinogenicidade
+Não foram realizados estudos de carcinogenicidade para estabelecer o potencial carcinogênico de Ekson.
+Mutagenicidade
+Não foi observada mutagenicidade de levodopa e cloridrato de benserazida e seus componentes pelo teste de Ames. Não há dados adicionais
+disponíveis.
+Fertilidade
+Não foram realizados estudos de fertilidade em animais para avaliar o efeito de Ekson.
+Toxicidade reprodutiva
+Nenhum efeito teratogênico foi demonstrado sobre o desenvolvimento do esqueleto em camundongos (400 mg/Kg), ratos (600 mg/Kg e 250
+mg/Kg) e coelhos (120 mg/Kg e 150 mg/Kg).
+Ekson 200_BO06a_VPS
+Na aplicação de doses tóxicas maternas, observou-se o aumento de mortes intrauterinas (em coelhos) e/ou a redução do peso fetal (em ratos).
+Outros
+Estudos toxicológicos gerais em ratos demonstraram a possibilidade de distúrbios no desenvolvimento do esqueleto.
+4. CONTRAINDICAÇÕES
+Ekson é contraindicado em:
+• pacientes com hipersensibilidade conhecida à levodopa, à benserazida ou a qualquer outro componente da formulação.
+• pacientes recebendo inibidores não seletivos da monoaminoxidase (IMAOs), devido ao risco de crise hipertensiva (vide “Advertências e
+Precauções”). Entretanto, inibidores seletivos da MAO-B, como a selegilina e rasagilina, ou inibidores seletivos da MAO-A, como a
+moclobemida, não são contraindicados. A combinação de inibidores da MAO-A e MAO-B é equivalente a IMAOs não-seletivos e, portanto,
+não deve ser administrada concomitantemente com Ekson (vide item “Interações medicamentosas”).
+• pacientes com função endócrina, renal ou hepática descompensadas, distúrbios cardíacos, doenças psiquiátricas com componente psicótico
+ou pacientes com glaucoma de ângulo fechado.
+• mulheres grávidas ou em idade fértil na ausência de método contraceptivo adequado (vide item “Advertências e Precauções”). Se ocorrer
+gravidez durante o tratamento com Ekson, o uso do medicamento deve ser descontinuado, conforme orientação de seu médico.
+Mães em tratamento com Ekson não devem amamentar (vide item “Gravidez e lactação”).
+Este medicamento é contraindicado para menores de 25 anos de idade (o desenvolvimento ósseo deve estar completo).
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Advertências relacionadas a reações imunológicas
+Reações de hipersensibilidade podem ocorrer em indivíduos predispostos.
+Advertências relacionadas a efeitos neurológicos e psiquiátricos
+Ekson não deve ser interrompido abruptamente. A interrupção abrupta pode resultar em um quadro semelhante à síndrome
+neuroléptica maligna (hiperpirexia, instabilidade autonômica, rigidez muscular, distúrbios psíquicos (como delírio), com
+possíveis alterações laboratoriais, incluindo aumento de creatinofosfoquinase sérica), e pode ser fatal. Caso ocorra uma
+combinação de tais sinais ou sintomas, o paciente deverá ser mantido em observação médica, se necessário, hospitalizado, e
+receber rapidamente o tratamento sintomático adequado, que pode incluir a reintrodução da terapia com Ekson após avaliação
+apropriada.
+Os pacientes devem ser cuidadosamente observados quanto a possíveis sintomas psiquiátricos indesejáveis. Depressão pode fazer parte
+do quadro clínico em pacientes com doença de Parkinson e pode também ocorrer em pacientes tratados com Ekson.
+O uso de levodopa tem sido associado com sonolência e episódios de sono de início repentino, que têm sido raramente relatados
+durante as atividades diárias, sem sinais de aviso ou percepção pelo paciente. Os pacientes devem ser informados sobre isso e
+aconselhados a ter cautela quando estiverem dirigindo ou operando máquinas durante o tratamento com levodopa. Pacientes que
+apresentaram sonolência e/ ou um episódio de sono repentino devem evitar dirigir e operar máquinas. Além disso, a redução de
+dose ou descontinuação da terapia devem ser consideradas (vide item “Efeitos sobre a capacidade de dirigir veículos e operar
+máquinas”).
+Medicamentos dopaminérgicos
+Transtornos de controle de impulsos como vício em jogos de azar, libido aumentada e hiperssexualidade têm sido relatados em
+pacientes com doença de Parkinson tratados com agonistas da dopamina. Não há relação causal estabelecida entre Ekson, que
+não é um agonista da dopamina, e estes eventos. Entretanto, recomenda-se precaução, pois Ekson é um medicamento
+dopaminérgico.
+Advertências relacionadas a efeitos oculares
+Em pacientes com glaucoma de ângulo aberto, recomenda-se medir regularmente a pressão intraocular, pois a levodopa
+teoricamente tem o potencial de aumentar a pressão intraocular.
+Advertências relacionadas a interações medicamentosas
+Se for necessária anestesia geral em um paciente em tratamento com levodopa, o tratamento com Ekson deve continuar até o
+momento mais próximo possível da cirurgia, exceto no caso de halotano. Em anestesia geral com halotano, deve-se descontinuar
+o uso de Ekson 12 a 48 horas antes da intervenção cirúrgica, pois variações da pressão arterial e / ou arritmias podem ocorrer. O
+tratamento com Ekson pode ser retomado após a cirurgia, com reintrodução gradual e elevação da dose até o nível posológico
+antes da cirurgia.
+Se Ekson for administrado a pacientes em uso de inibidores IMAOs não-seletivos irreversíveis, deve-se aguardar um intervalo
+mínimo de 2 semanas entre a interrupção do IMAO e o início do tratamento com Ekson. Caso contrário, possivelmente ocorrerão
+efeitos adversos como crise hipertensiva (vide itens “Contraindicações” e “Interações medicamentosas”).
+A administração concomitante de antipsicóticos com propriedades bloqueadoras do receptor da dopamina, particularmente
+antagonistas do receptor D2, pode antagonizar os efeitos antiparkinsonianos da levodopa - benserazida. A levodopa pode reduzir
+os efeitos antipsicóticos desses medicamentos. Estes medicamentos devem ser co-administrados com cautela (vide item
+“Interações medicamentosas”).
+Ekson não deve ser administrado concomitantemente a simpaticomiméticos (como a epinefrina, noradrenalina, isoproterenol ou
+anfetamina), uma vez que a levodopa pode potencializar os seus efeitos. Se houver necessidade de administração concomitante,
+é essencial monitoração rigorosa do sistema cardiovascular e pode ser necessária redução de dose dos agentes simpatomiméticos
+(vide item “Interações Medicamentosas”).
+Ao iniciar um tratamento adjuvante com um inibidor da COMT, uma redução da dosagem de Ekson pode ser necessária.
+Anticolinérgicos não devem ser retirados abruptamente quando a terapia com Ekson é instituída, pois o efeito da levodopa não
+é imediato.
+Ekson 200_BO06a_VPS
+A associação com anticolinérgicos, amantadina, selegilina, bromocriptina e agonistas da dopamina é permitida; entretanto, tanto
+os efeitos desejados como os efeitos adversos do tratamento podem ser intensificados. Pode ser necessária redução da dose de
+Ekson ou da outra substância (vide “Interações medicamentosas”).
+Testes laboratoriais
+Recomenda-se controle da contagem de células do sangue e de função hepática durante o tratamento (vide item “Experiência Pós
+Comercialização). Em pacientes diabéticos, monitorar com regularidade a glicemia e fazer os ajustes necessários na dose de hipoglicemiantes.
+Efeitos sobre a capacidade de dirigir veículos e operar máquinas
+Eksonpode ter uma grande influência na capacidade de dirigir e operar máquinas.
+Pacientes tratados com levodopa e que apresentam sonolência e/ou episódios de sono de início repentino devem ser advertidos para evitar
+dirigir veículos ou se engajar em atividades onde a desatenção pode colocá-los ou outros em risco de ferimento grave ou morte (por exemplo,
+operar máquinas) até que os episódios recorrentes e sonolência sejam resolvidos. Além disso, uma redução da dosagem ou término da terapia
+deve ser considerada.
+Dependência e abuso de drogas
+Síndrome de desregulação dopaminérgica (SDD): um pequeno número de pacientes sofre de distúrbio cognitivo e comportamental que pode
+ser diretamente atribuído à administração de doses crescentes do medicamento sem prescrição médica e muito além das doses requeridas para
+tratar os distúrbios motores dos pacientes.
+Uso em populações especiais
+Homens e mulheres com potencial reprodutivo
+Fertilidade
+Não foram realizados estudos sobre fertilidade (vide item “Resultados de eficácia – Estudos Não-Clínicos”).
+Gravidez
+Categoria de risco na gravidez: C.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião- -dentista.
+Recomenda-se que seja realizado um teste de gravidez antes do início do tratamento para excluir a possibilidade de gravidez.
+Método de contracepção adequado deve ser utilizado em mulheres com potencial para engravidar durante o tratamento com Ekson.
+Este medicamento é contraindicado para uso por mulheres grávidas ou em idade fértil na ausência de método contraceptivo adequado (vide
+item “Contraindicações”).
+Caso ocorra gravidez em uma mulher em tratamento com Ekson, o uso do mesmo deve ser descontinuado (conforme recomendação médica).
+O uso seguro de Ekson durante o trabalho de parto e no parto não foi estabelecido.
+Lactação
+A segurança do uso de Ekson na lactação não foi estabelecida.
+Não se sabe se a benserazida é excretada no leite materno humano. Mães em tratamento com Ekson não devem amamentar, pois
+a ocorrência de malformações no sistema esquelético da criança não pode ser excluída.
+Uso pediátrico
+Ekson é contraindicado para pacientes menores que 25 anos de idade (vide item “Contraindicações”).
+Uso geriátrico
+Vide item “Características Farmacológicas - Farmacocinética em populações especiais”.
+Insuficiência renal
+Vide itens “Características Farmacológicas - Farmacocinética em populações especiais” e “Posologia”.
+Insuficiência hepática
+Vide item “Características Farmacológicas - Farmacocinética em populações especiais”.
+Até o momento não há informações de que Ekson (levodopa + cloridrato de benserazida) possa causar doping.
+6. INTERAÇÕES MEDICAMENTOSAS
+Interações com outros medicamentos e outras formas de interação
+Interações farmacocinéticas
+A associação do anticolinérgico triexifenidil com comprimidos de Ekson reduz a taxa, mas não a extensão de absorção de levodopa.
+Sulfato ferroso reduz a concentração plasmática máxima e a área sob a curva de levodopa em 30 a 50%. As alterações farmacocinéticas
+observadas durante a coadministração de sulfato ferroso parecem ser clinicamente significantes em alguns, mas não em todos os pacientes.
+A metoclopramida aumenta a taxa de absorção de levodopa.
+A domperidona pode aumentar a biodisponibilidade da levodopa como resultado do aumento da absorção de levodopa no intestino.
+Interações farmacodinâmicas
+Neurolépticos, opioides e medicamentos anti-hipertensivos contendo reserpina inibem a ação de Ekson.
+Ekson não deve ser associado a inibidores da monoaminoxidase (IMAOs) não-seletivos. Se Ekson for administrado a pacientes em uso de
+IMAOs não-seletivos irreversíveis, deve-se aguardar um intervalo mínimo de 2 semanas entre a interrupção do IMAO e o início do tratamento
+com levodopa. Caso contrário, possivelmente ocorrerão efeitos adversos como crise hipertensiva (vide item “Contraindicações”). IMAOs-B
+seletivos, como a selegilina e rasagilina, e IMAOs-A seletivos, como a moclobemida, podem ser prescritos a pacientes em tratamento com
+Ekson; recomenda-se reajustar as doses de levodopa, conforme as necessidades individuais dos pacientes, em termos de tolerabilidade e
+eficácia. A combinação de inibidores seletivos de MAO-A e MAO-B é equivalente ao uso de IMAOs não-seletivos, e, portanto, não deverá
+ser administrada juntamente ao Ekson.
+Ekson não deve ser administrado concomitantemente a simpatomiméticos (como epinefrina, norepinefrina, isoproterenol ou anfetamina os
+quais estimulam o sistema nervoso simpático), pois a levodopa pode potencializar seus efeitos. Se houver necessidade de administração
+concomitante, é essencial monitoração rigorosa do sistema cardiovascular e pode ser necessária redução da dose dos agentes simpatomiméticos.
+Ekson 200_BO06a_VPS
+A associação com anticolinérgicos, amantadina, selegilina, bromocriptina e agonistas dopaminérgicos é permitida; entretanto, tanto os efeitos
+desejados como os efeitos adversos do tratamento podem ser intensificados. Pode ser necessária redução da dose de Ekson ou da outra
+substância.
+Quando iniciado o tratamento adjuvante com inibidor da COMT, pode ser necessária redução da dose de Ekson.
+Anticolinérgicos não devem ser retirados abruptamente quando se iniciar tratamento com Ekson, pois o efeito da levodopa não é imediato.
+A administração concomitante de antipsicóticos com propriedades bloqueadoras do receptor da dopamina, particularmente
+antagonistas do receptor D2, pode antagonizar os efeitos antiparkinsonianos da levodopa- benserazida. A levodopa pode reduzir
+os efeitos antipsicóticos desses medicamentos. Estes medicamentos devem ser co-administrados com cautela (vide item
+“Advertências e Precauções”).
+Anestesia geral com halotano: Eksondeve ser descontinuado 12 a 48 horas antes da intervenção cirúrgica que necessita de anestesia
+geral com halotano, pois variações da pressão arterial e / ou arritmias podem ocorrer. Para anestesia geral com outros anestésicos
+vide item “Advertências e Precauções”.
+Interações em testes laboratoriais
+A levodopa pode alterar os resultados de testes laboratoriais para catecolaminas, creatinina, ácido úrico e glicosúria. Os resultados
+para corpos cetônicos no teste de urina podem ser falsos positivos em pacientes que utilizam Ekson
+O resultado para o teste de Coombs pode dar falso-positivo nos pacientes em tratamento com Ekson.
+Interações com alimentos
+Observa-se redução do efeito do medicamento, quando Ekson é ingerido com uma refeição rica em proteínas.
+A levodopa é um aminoácido grande neutro (LNAA - Large neutral amino acids) e compete com os aminoácidos da proteína
+ingerida na dieta pelo transporte através da mucosa gástrica e da barreira hematoencefálica.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar em temperatura ambiente (entre 15 a 30ºC). Proteger da luz e umidade.
+Desde que respeitados os cuidados de armazenamento, o medicamento apresenta uma validade de 24 meses a contar da data de sua fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características do medicamento
+Este medicamento apresenta-se na forma de comprimido rosa, circular, monossectado em cruz.
+Antes de usar, observe o aspecto do medicamento.
+TODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS.
+Descarte de medicamentos não utilizados ou com data de validade vencida
+O descarte de medicamentos no meio ambiente deve ser minimizado. Os medicamentos não devem ser descartados no esgoto e
+o descarte no lixo doméstico deve ser evitado.
+Quaisquer medicamentos não utilizados ou resíduos devem ser eliminados de acordo com os requerimentos locais.
+8. POSOLOGIA E MODO DE USAR
+Ekson deve ser administrado por via oral. Quando possível, Ekson deve ser tomado no mínimo 30 minutos antes ou 1 hora após as refeições
+pois dessa forma o efeito competitivo da dieta proteica na absorção de levodopa pode ser evitado (vide item “Interações medicamentosas”) e
+para facilitar um início de ação mais rápido. Efeitos adversos gastrintestinais, que podem ocorrer principalmente nos estágios iniciais do
+tratamento, podem ser controlados, em grande parte, com a ingestão de Ekson com um lanche com baixo teor de proteína (por exemplo,
+biscoitos) ou líquido, ou com o aumento gradativo da dose.
+Modo de administração
+Os comprimidos de Ekson devem ser engolidos sem mastigar. Eles podem ser partidos (são birranhurados) para facilitar a deglutição e o ajuste
+posológico.
+Orientações sobre como deve ser partido o comprimido
+1) Ekson possui a tecnologia SNAP TAB, que possibilita a partição do comprimido para fácil deglutição e titulação de dose. A quebra do
+comprimido deverá ocorrer sempre sobre uma superfície plana e rígida. (Figura 1)
+2) A face lisa do comprimido deverá ser posicionada para cima. (Figura 2)
+3) Aplicar pressão com o dedo polegar, mantendo a força no centro do comprimido. (Figura 3)
+4) O comprimido deverá partir em quatro partes iguais (quatro quartos). Caso o comprimido não quebrar em 4 partes (quatro partes), deve-se
+manter o comprimido com a face lisa para cima e pressionar suavemente com o polegar no centro da(s) metade(s) restante(s). (Figura 4)
+5) Utilize a quantidade de quartos recomendada pelo seu médico. (Figura 5)
+Ekson 200_BO06a_VPS
+Posologia
+Dose usual
+O tratamento com Ekson deve ser iniciado gradualmente; a dose deve ser estabelecida individualmente e aumentada gradativamente até
+otimização do efeito. Portanto, as recomendações posológicas a seguir devem ser consideradas como sugestões.
+Tratamento inicial
+Nos estágios iniciais da doença de Parkinson, é recomendável iniciar o tratamento com ¼ de comprimido de Ekson (62,5 mg), três a quatro
+vezes ao dia. Assim que se confirmar a tolerabilidade ao esquema inicial, a dose pode ser aumentada lentamente, de acordo com a resposta do
+paciente.
+A otimização do efeito em geral é obtida com uma dose diária de Ekson correspondente a faixa de 300 - 800 mg de levodopa + 75 - 200 mg
+de benserazida, dividida em três ou mais administrações. Podem ser necessárias quatro a seis semanas para se atingir o efeito ideal. Se forem
+necessários incrementos adicionais, estes devem ser realizados em intervalos mensais.
+Tratamento de manutenção
+A dose média de manutenção é de ½ comprimido de Ekson (125 mg), três a seis vezes ao dia, ou seja, de 300 mg a 600 mg de levodopa ao dia.
+O número ideal de administrações (não inferior a três) e sua distribuição ao longo do dia devem ser titulados para um efeito ideal.
+Instruções posológicas especiais
+As doses devem ser aumentadas com cuidado em todos os pacientes. Pacientes em uso de outros agentes antiparkinsonianos podem receber
+Ekson. Entretanto, com a evolução do tratamento com Ekson e os efeitos terapêuticos tornando-se aparentes, pode ser necessário reduzir ou
+retirar gradualmente os outros medicamentos.
+Pacientes com grandes flutuações (variações) no efeito do medicamento ao longo do dia (fenômeno on-off) devem receber doses individuais
+menores e mais frequentes.
+Os pacientes devem ser cuidadosamente observados quanto a possíveis sintomas psiquiátricos indesejáveis.
+Uso em pacientes com insuficiência renal
+No caso de insuficiência renal leve ou moderada não é necessária a redução de dose (vide item Contraindicações).
+Uso em pacientes com insuficiência hepática
+A segurança e a eficácia de Ekson não foram estabelecidas em pacientes com insuficiência hepática (vide item “Contraindicações”).
+9. REAÇÕES ADVERSAS
+Ekson em geral é bem tolerado, mas eventualmente podem ocorrer efeitos indesejados, tais como movimentos involuntários, episódios
+psicóticos, angina pectoris, constipação, perda de peso e falta de ar.
+Pós-comercialização
+As seguintes reações adversas foram identificadas na experiência pós-comercialização com Ekson, com base em relatos de casos espontâneos
+e casos de literatura.
+A estimativa da categoria de frequência correspondente para cada reação adversa ao medicamento baseia-se na seguinte convenção: muito
+comum (≥1/10); comum (≥1/100 a < 1/10); incomum (≥1/1.000 a < 1/100); rara (≥1/10.000 a < 1/1.000); muito rara (< 1 / 10.000), desconhecida
+(essas reações são relatadas voluntariamente por uma população de tamanho incerto, portanto nem sempre é possível estimar com segurança
+sua frequência ou estabelecer uma relação causal com a exposição ao medicamento).
+Categoria de frequência desconhecida:
+Distúrbios nos sistemas sanguíneo e linfático: anemia hemolítica, leucopenia transitória e trombocitopenia têm sido relatadas. Como em todo
+tratamento de longo prazo com levodopa, recomenda-se monitoração periódica hematológica e de função hepática e renal.
+Distúrbios nutricionais e do metabolismo: anorexia foi relatada.
+Distúrbios psiquiátricos: depressão pode fazer parte do quadro clínico em pacientes com doença de Parkinson e podem também ocorrer em
+pacientes tratados com Ekson. Agitação, ansiedade, insônia, alucinações, delírios e desorientação temporária podem ocorrer particularmente
+em pacientes idosos e em pacientes com antecedentes psiquiátricos. A síndrome de desregulação dopaminérgica (SDD) foi relatada.
+Distúrbios do sistema nervoso: casos de ageusia ou disgeusia foram relatados. Em estágios tardios do tratamento, podem ocorrer discinesia
+(movimentos involuntários coreiformes, distônicos ou atetóticos). Esses, em geral, podem ser eliminados ou tornam-se suportáveis com a
+redução da dose. Com tratamento prolongado, podem ocorrer variações da resposta terapêutica, incluindo episódios de acinesia, episódios de
+congelamento da marcha, deterioração de final da dose e efeito “liga-desliga”. Esses podem ser eliminados ou são suportáveis, com ajuste da
+dose e administração de doses individuais menores mais frequentemente. Posteriormente, pode-se tentar aumentar a dose novamente, para
+intensificar o efeito terapêutico.
+O uso de Ekson pode ocasionar sonolência e tem sido associado, muito raramente, a sonolência excessiva durante o dia e episódios de sono de
+início repentino.
+Distúrbios cardíacos: arritmias cardíacas foram relatadas.
+Distúrbios vasculares: hipotensão ortostática foi relatada.
+Distúrbios ortostáticos: em geral, melhoram com redução da dose de Ekson.
+Distúrbios gastrintestinais: náusea, vômito, diarreia e descoloração da saliva, da língua, dos dentes e da mucosa oral foram relatados com
+Ekson. Efeitos adversos gastrintestinais indesejáveis podem ocorrer predominantemente em estágios iniciais do tratamento, e são em grande
+parte controláveis com a ingestão de Ekson com um lanche de baixo teor proteico ou líquidos, ou com aumento gradual da dose.
+Distúrbios do tecido subcutâneo e da pele: reações alérgicas como prurido, rash e hiperemia foram relatadas.
+Desordens do fígado e biliares: aumento de transaminases, fosfatase alcalina e gama-glutamiltransferase foi reportado.
+Desordens renais e urinárias: elevação dos níveis sanguíneos de ureia foi relatada.
+Pode ocorrer alteração da cor da urina (cromatúria), passando, em geral, por avermelhada, e tornando-se mais escura, após um tempo em
+repouso. Outros fluidos ou tecidos corporais também podem se descolorir ou se pigmentar, incluindo a saliva, a língua, os dentes ou a mucosa
+oral.
+Atenção: este produto é um medicamento que possui nova forma farmacêutica no país e, embora as pesquisas tenham indicado eficácia
+e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos imprevisíveis ou desconhecidos.
+Nesse caso, notifique os eventos adversos pelo Sistema VigiMed, disponível no Portal da Anvisa.
+Ekson 200_BO06a_VPS
+10. SUPERDOSE
+Sinais e sintomas
+Os sinais e sintomas de superdose são qualitativamente similares aos efeitos adversos de Ekson em doses terapêuticas, mas é provável que
+sejam mais graves. A superdose pode levar a: efeitos adversos cardiovasculares (por exemplo, arritmia cardíaca), distúrbios psiquiátricos (por
+exemplo, confusão e insônia), efeitos gastrintestinais (por exemplo, náusea e vômitos) e movimentos involuntários anormais.
+Tratamento
+Monitorar os sinais vitais do paciente e instituir medidas de suporte de acordo com o estado clínico do paciente. Determinados pacientes podem
+necessitar de tratamento sintomático para efeitos cardiovasculares (por exemplo, antiarrítmicos) ou efeitos no sistema nervoso central (por
+exemplo, estimulantes respiratórios e neurolépticos).
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III – DIZERES LEGAIS
+MS - 1.0573.0443
+Farmacêutica Responsável: Gabriela Mallmann - CRF-SP n° 30.138
+Registrado por:
+Aché Laboratórios Farmacêuticos S.A.
+Av. Brigadeiro Faria Lima, 201 – 20º andar
+São Paulo - SP
+CNPJ: 60.659.463/0029-92
+Indústria Brasileira
+Fabricado por:
+Aché Laboratórios Farmacêuticos S.A.
+Guarulhos - SP
+ou
+Embalado por:
+Serpac Comércio e Indústria Ltda.
+São Paulo - SP
+VENDA SOB PRESCRIÇÃO MÉDICA
+Ekson 200_BO06a_VPS
+EKSON
+(levodopa + cloridrato de benserazida)
+Aché Laboratórios Farmacêuticos S.A.
+comprimidos
+100 mg + 25 mg
+AAS
+BULA PARA PROFISSIONAL DE SAÚDE
+Bula de acordo com a Resolução-RDC nº 47/2009
+I- IDENTIFICAÇÃO DO MEDICAMENTO
+EKSON
+levodopa + cloridrato de benserazida
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA.
+APRESENTAÇÕES
+Comprimidos 100 + 25 mg: frasco com 10, 30 ou 60 comprimidos.
+USO ORAL
+USO ADULTO A PARTIR DE 25 ANOS
+COMPOSIÇÃO
+Cada comprimido de Ekson 100 + 25 mg contém:
+levodopa......................................................................................................................................................................................100 mg
+cloridrato de benserazida.................................................................................................28,5 mg (equivalente a 25 mg de benserazida)
+Excipientes: manitol, celulose microcristalina, fosfato de cálcio dibásico di-hidratado, crospovidona, povidona, dióxido de silício,
+docusato de sódio, estearato de magnésio e óxido de ferro vermelho.
+II- INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+Ekson é uma associação das substâncias levodopa e cloridrato de benserazida, indicado para o tratamento de pacientes com doença
+de Parkinson.
+2. RESULTADOS DE EFICÁCIA
+A levodopa é o tratamento estabelecido para todos os estágios da doença de Parkinson, promovendo melhora significativa dos
+sintomas motores e da qualidade de vida dos pacientes
+Ekson é uma associação de duas substâncias (levodopa e benserazida), na proporção de 4:1, uma relação que foi demonstrada ideal
+em ensaios clínicos e confirmada por experiências subsequentes.
+Esse medicamento foi introduzido em 1970 para compensar a depleção da dopamina no estriado como observado na doença de
+Parkinson. Um número considerável de estudos clínicos foi conduzido nesses anos para apenas confirmar e estabelecer a
+combinação levodopa + cloridrato de benserazida como um tratamento de referência da doença, embora um número de terapias
+adjuvantes tenha sido introduzido desde então. Uma revisão recente de Cochrane coletou resultados de 29 estudos totalizando mais
+de 5.200 pacientes incluídos nos estudos com levodopa.
+Nos últimos anos, Katzenschlager et al. conduziram um estudo clínico multicêntrico, comparativo de 3 braços, aberto pragmático,
+no grupo de Pesquisa da Doença de Parkinson no Reino Unido. Entre 1985 e 1990, 782 pacientes foram randomizados para
+levodopa/inibidor da descarboxilase, levodopa/inibidor da descarboxilase mais selegilina, ou bromocriptina. O desfecho final foi
+mortalidade, incapacidade e complicações motoras. A qualidade de vida relacionada à saúde e função mental foram também
+avaliadas.
+A duração média do acompanhamento na avaliação final foi 14 anos em 166 (21%) dos pacientes sobreviventes que puderam ser
+contatados. Após ajustes para as características basais, as pontuações de incapacidade foram melhores no grupo com levodopa que
+no grupo da bromocriptina (Webster: 16,6 vs 19,8; p = 0,03; Northwestern University Disability: 34,3 vs 30,0, p = 0,05). Função
+física (diferença 20,8; IC 95% 10,0, 31,6; p < 0,001) e pontuação física resumida (diferença 5,2; IC 95% 0,7, 9,7; p = 0,03) nos 36
+itens da pesquisa de qualidade de vida em saúde, avaliada pelo formulário resumido, foi também superior para levodopa. Diferenças
+nas taxas de mortalidade, prevalência de discinesias, flutuações motoras e demência não foram significativamente diferentes entre os
+grupos.
+Os autores concluíram que o tratamento inicial com o agonista dopaminérgico, bromocriptina, não reduz a mortalidade ou a
+incapacidade motora e a redução inicial da frequência das complicações motoras não foi sustentada ao longo do tempo. Eles não
+encontraram evidências de benefício em longo prazo e de efeitos modificadores da doença clinicamente relevantes com o tratamento
+inicial com agonista dopaminérgico e concluíram que a associação de levodopa à benserazida permanece como o tratamento de
+primeira escolha para a Doença de Parkinson.
+Ghika J e cols., conduziu estudo piloto, aberto, multicêntrico, com duração de 14 semanas, em 61 pacientes com doença de
+Parkinson: 5 (8%) eram pacientes recém diagnosticados; 39 (64%) apresentavam flutuações dos sintomas e 17 (28%) não
+apresentavam flutuações dos sintomas. Os pacientes apresentavam a doença na escala de Hoehn e Yahr de 2,6 com duração média
+da doença de 7,4 anos. O tratamento pré-estudo foi mantido estável por 2 semanas antes da admissão no primeiro período de 8
+semanas, no qual o tratamento padrão com levodopa poderia tanto ser substituído parcialmente, quanto totalmente, pela formulação
+de liberação dupla.
+Na medida do possível, esta foi mantida inalterada durante o segundo período do estudo com duração de 6 semanas, cujo objetivo
+foi avaliar a eficácia de levodopa / benserazida de liberação dupla. A substituição completa da formulação de levodopa foi atingida
+em 71% dos pacientes. Os 27% restantes combinaram a formulação de liberação dupla com a formulação padrão de liberação
+imediata e/ou com a levodopa de liberação lenta (prolongada). A eficácia do tratamento foi avaliada utilizando-se o escore de
+Webster e qualificada com uma diminuição média de 27% (p<0,001) entre a avaliação basal e a semana 14. Foi também observada
+uma significativa redução dos eventos adversos relatados, tais como, discinesia e acinesia de deterioração de final de dose (wearing-
+off) antes (27 pacientes, 44%) e depois (9 pacientes; 17%) da substituição (p<0,02). Esses resultados permitiram inferir que a
+formulação de liberação dupla é tão boa quanto, ou superior a qualquer outra formulação de levodopa administrada anteriormente.
+Os autores chegaram à conclusão que a formulação de liberação dupla poderia ser introduzida tanto na terapia inicial como na
+substituição, apresentando boa eficácia clínica e boa tolerabilidade em todos os estágios da evolução do tratamento da doença de
+Parkinson idiopática.
+Descombes, S e cols., em estudo publicado em 2001 randomizado, duplo-cego cruzado, comparou a administração de dose única
+matinal de levodopa + benserazida de liberação dupla com a preparação de levodopa + benserazida de liberação lenta (prolongada),
+em pacientes com doença de Parkinson, com sintomas motores decorrentes de flutuação plasmática da concentração da medicação.
+Ekson 125_BU 01a_VPS 1
+Os autores tiveram como objetivo melhorar a deterioração de final de dose (fenômeno wearing off) em pacientes com doença de
+Parkinson que eram tratados com uma formulação de levodopa + benserazida de liberação imediata que foi substituída por uma
+formulação de liberação lenta (prolongada), sem uma eficácia satisfatória. A proposta do estudo foi melhorar o controle da flutuação
+dos sintomas em pacientes com doença de Parkinson, por meio da administração de uma nova preparação contendo levodopa +
+benserazida de liberação dupla. Os resultados mostraram que o tempo médio para o início de ação foi menor com a formulação de
+liberação dupla (43±31 minutos) do que com a formulação de liberação lenta (prolongada) (81±39 minutos) (p<0,001), enquanto o
+tempo médio para voltar à condição off foi semelhante para ambas as formulações.
+Referências bibliográficas
+1. Agid Y. Levodopa: is toxicity a myth? Neurology 1999, 50:858-63.
+2. Parkinson Study Group. JAMA 2000; 284:231
+3. Gourdreau J., Ahlskog JE. Symptomatic Treatment of Parkinson´s Disease:Levodopa. Pág 713-28. In Parkinson´s Disease. Ebadi
+M e Pfeiffer RF eds., CRC Press, Estados Unidos, 2005.
+4. Fahn, Oakes, Shoulson et al and The Parkinson Study Group. Levodopa and the progression of Parkinson’s disease. N Engl J
+Med 2004; 351: 2498-2508.
+5. Stowe RL, Ives NJ, Clarke C et al. Dopamine agonist therapy in early Parkinson's disease. Cochrane Database Syst Rev. 2008;
+(2): CD006564
+6. Katzenschlager R, Head J, Schrag A et al. Fourteen-year final report of the randomized PDRG-UK trial comparing three initial
+treatments in PD. Neurology. 2008; 71 (7): 474-80
+7. Ghika J, Gachoud JP, Gasser U. Clinical efficacy andtolerability of a new levodopa/benserazide dual-release formulation in
+parkinsonian patients. L-Dopa Dual-Release Study Group. Clin Neuropharmacol. 1997 Apr;20(2):130-9.
+8. Descombes S., Bonnet, A.M., Gasser, UE., Thalamas, C., Dingemanse, J., Arnulf, I., Bareille, MP., Y. Agid, Y., and Rascol, O.
+Dual-release formulation, a novel principle in L-dopa treatment of Parkinson’s disease. Neurology, 2001;56:1239–1242
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Propriedades Farmacodinâmicas
+A dopamina, que age como neurotransmissor no cérebro, não está presente em quantidades suficientes nos gânglios da base, em
+pacientes parkinsonianos. A levodopa ou L-dopa (3,4-diidroxi L-fenilalanina) é um intermediário na biossíntese da dopamina. A
+levodopa (precursora da dopamina) é usada como uma pró-droga para aumentar os níveis de dopamina, visto que ela pode atravessar
+a barreira hematoencefálica, enquanto que a dopamina não consegue. Uma vez dentro do Sistema Nervosos Central (SNC), a
+levodopa é metabolizada em dopamina pela L-aminoácido aromático descarboxilase.
+Após sua administração, a levodopa é rapidamente descarboxilada à dopamina, tanto em tecidos extracerebrais como cerebrais.
+Deste modo, a maior parte da levodopa administrada não fica disponível aos gânglios da base e a dopamina produzida
+perifericamente frequentemente causa efeitos adversos. É, portanto, particularmente desejável inibir a descarboxilação extracerebral
+da levodopa. Isso pode ser obtido com a administração simultânea de levodopa e benserazida, um inibidor da descarboxilase
+periférica.
+O tempo médio estimado para o início da ação terapêutica Ekson é de aproximadamente 25 minutos para os comprimidos quando o
+medicamento for ingerido em jejum.
+Propriedades Farmacocinéticas
+Absorção
+A levodopa é absorvida principalmente na região superior do intestino delgado e a absorção é independente do local. Concentrações
+plasmáticas máximas são atingidas aproximadamente uma hora após a ingestão de Ekson.
+A concentração plasmática máxima (C ) e a extensão de absorção (área sob a curva) de levodopa aumentam proporcionalmente
+máx
+com a dose (50 - 200 mg de levodopa).
+A ingestão de alimentos reduz a velocidade e a extensão de absorção de levodopa. A concentração plasmática máxima é 30% menor
+e demora mais para ser atingida, quando os comprimidos de levodopa + cloridrato de benserazida são administrados após uma
+refeição padrão. A extensão de absorção de levodopa é reduzida em 15%.
+Distribuição
+A levodopa atravessa a mucosa gástrica e a barreira hematoencefálica por um sistema de transporte saturável.
+Não se liga às proteínas plasmáticas e seu volume de distribuição é de 57 litros. A área sob a curva de levodopa no líquor é 12% da
+do plasma.
+Ao contrário da levodopa, a benserazida em doses terapêuticas não atravessa a barreira hematoencefálica e concentra-se
+principalmente em rins, pulmões, intestino delgado e fígado.
+Biotransformação
+A levodopa é biotransformada por duas vias metabólicas principais (descarboxilação e O-metilação) e duas vias acessórias
+(transaminação e oxidação).
+A descarboxilase de aminoácidos aromáticos converte a levodopa em dopamina. Os principais produtos finais desta via são o ácido
+homovanílico e o ácido dihidroxifenilacético.
+A catecol-O-metiltransferase metila a levodopa, transformando-a em 3-O-metildopa. Este principal metabólito plasmático tem uma
+meia-vida de eliminação de 15 horas e se acumula em pacientes que recebem doses terapêuticas de levodopa + cloridrato de
+benserazida.
+A redução da descarboxilação periférica de levodopa, quando administrada em associação à benserazida, se reflete em níveis
+plasmáticos mais elevados de levodopa e 3-O-metildopa e níveis mais baixos de catecolaminas (dopamina e noradrenalina) e ácidos
+fenolcarboxílicos (ácido homovanílico, ácido dihidroxifenilacético).
+A benserazida é hidroxilada a trihidroxibenzilhidrazina na mucosa intestinal e no fígado. Este metabólito é um potente inibidor da
+descarboxilase de aminoácidos aromáticos.
+Eliminação
+Na presença de levodopa-descarboxilase perifericamente inibida, a meia-vida de eliminação de levodopa é de aproximadamente 1,5
+horas. A meia-vida de eliminação é discretamente mais longa (cerca de 25%) em pacientes geriátricos (65 a 78 anos de idade) com
+doença de Parkinson (vide item “Farmacocinética em populações especiais”). A depuração plasmática da levodopa é de cerca de
+430 mL/min.
+A benserazida é quase completamente eliminada por biotransformação. Os metabólitos são principalmente excretados na urina
+(64%) e, em menor extensão, nas fezes (24%).
+Ekson 125_BU 01a_VPS 2
+Farmacocinética em populações especiais
+Dados de farmacocinética em pacientes urêmicos e portadores de insuficiência hepática não estão disponíveis.
+Uso em casos de insuficiência renal
+Levodopa + cloridrato de benserazida é extensamente metabolizado e menos que 10% da levodopa é excretado sem alteração pelos
+rins.
+Dados de farmacocinética com levodopa em pacientes com insuficiência renal não estão disponíveis. Levodopa + cloridrato de
+benserazida é bem tolerado por pacientes urêmicos em esquema de hemodiálise.
+Uso em casos de insuficiência hepática
+A levodopa é metabolizada principalmente pela descarboxilase (aminoácido aromático) que está presente em abundância no trato
+intestinal, nos rins, no coração e também no fígado.
+Dados da farmacocinética da levodopa em pacientes com insuficiência hepática não estão disponíveis.
+Efeito da idade na farmacocinética de levodopa
+Em pacientes parkinsonianos idosos (65 - 78 anos de idade) tanto a meia-vida de eliminação de levodopa como a área sob a curva
+(ASC) são aproximadamente 25% superiores do que as observadas nos pacientes jovens (34 - 64 anos de idade).
+O efeito da idade, embora estatisticamente significante, é clinicamente desprezível e é de menor relevância para a programação das
+doses.
+Estudos Não-Clínicos
+Carcinogenicidade
+Não foram realizados estudos de carcinogenicidade para estabelecer o potencial carcinogênico de levodopa + benserazida.
+Mutagenicidade
+Não foi observada mutagenicidade de levodopa + benserazida e seus componentes pelo teste de Ames. Não há dados adicionais
+disponíveis.
+Fertilidade
+Não foram realizados estudos de fertilidade em animais para avaliar o efeito de levodopa + benserazida.
+Toxicidade reprodutiva
+Nenhum efeito teratogênico foi demonstrado sobre o desenvolvimento do esqueleto em camundongos (400 mg/kg), ratos (600
+mg/kg e 250 mg/kg) e coelhos (120 mg/kg e 150 mg/kg).
+Na aplicação de doses tóxicas maternas, observou-se o aumento de mortes intrauterinas (em coelhos) e/ou a redução do peso fetal
+(em ratos).
+Outros
+Estudos toxicológicos gerais em ratos demonstraram a possibilidade de distúrbios no desenvolvimento do esqueleto.
+4. CONTRA-INDICAÇÕES
+Ekson é contraindicado em:
+· pacientes com hipersensibilidade conhecida a levodopa, a benserazida ou a qualquer outro componente da formulação.
+· pacientes recebendo inibidores não-seletivos da monoaminoxidase (IMAOs), devido ao risco de crise hipertensiva (vide
+“Advertências e Precauções”). Entretanto, inibidores seletivos da MAO-B, como a selegilina e rasagilina, ou inibidores seletivos da
+MAO-A, como a moclobemida, não são contraindicados. A combinação de inibidores da MAO-A e MAO-B é equivalente a IMAOs
+não-seletivos e, portanto, não deve ser administrada concomitantemente com Ekson (vide item “Interações medicamentosas”).
+· pacientes com função endócrina, renal ou hepática descompensadas, distúrbios cardíacos, doenças psiquiátricas com componente
+psicótico ou pacientes com glaucoma de ângulo fechado.
+· mulheres grávidas ou em idade fértil na ausência de método contraceptivo adequado (vide item “Advertências e Precauções”). Se
+ocorrer gravidez durante o tratamento com Ekson, o uso do medicamento deve ser descontinuado, conforme orientação de seu
+médico.
+Mães em tratamento com Ekson não devem amamentar (vide item “Gravidez e “lactação”).
+Este medicamento é contraindicado para menores de 25 anos de idade (o desenvolvimento ósseo deve estar completo).
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Advertências relacionadas a reações imunológicas
+Reações de hipersensibilidade podem ocorrer em indivíduos predispostos.
+Advertências relacionadas a efeitos neurológicos e psiquiátricos
+Ekson não deve ser interrompido abruptamente. A interrupção abrupta pode resultar em um quadro semelhante à síndrome
+neuroléptica maligna (hiperpirexia, instabilidade autonômica, rigidez muscular, distúrbios psíquicos (como delírio), com possíveis
+alterações laboratoriais, incluindo aumento de creatinofosfoquinase sérica), e pode ser fatal. Caso ocorra uma combinação de tais
+sinais ou sintomas, o paciente deverá ser mantido em observação médica, se necessário, hospitalizado, e receber rapidamente o
+tratamento sintomático adequado, que pode incluir a reintrodução da terapia com levodopa + cloridrato de benserazida após
+avaliação apropriada.
+Os pacientes devem ser cuidadosamente observados quanto a possíveis sintomas psiquiátricos indesejáveis.
+Depressão pode fazer parte do quadro clínico em pacientes com doença de Parkinson e pode também ocorrer em pacientes tratados
+com levodopa + cloridrato de benserazida.
+O uso de levodopa tem sido associado com sonolência e episódios de sono de início repentino, que têm sido raramente relatados
+durante as atividades diárias, sem sinais de aviso ou percepção pelo paciente. Os pacientes devem ser informados sobre isso e
+aconselhados a ter cautela quando estiverem dirigindo ou operando máquinas durante o tratamento com levodopa. Pacientes que
+apresentaram sonolência e / ou um episódio de sono repentino devem evitar dirigir e operar máquinas. Além disso, a redução de
+dose ou descontinuação da terapia devem ser consideradas (vide item “Efeitos sobre a capacidade de dirigir veículos e operar
+máquinas”).
+Ekson 125_BU 01a_VPS 3
+Medicamentos dopaminérgicos
+Transtornos de controle de impulsos como vício em jogos de azar, libido aumentada e hipersexualidade têm sido relatados em
+pacientes com doença de Parkinson tratados com agonistas da dopamina. Não há relação causal estabelecida entre levodopa +
+benserazida, que não é um agonista da dopamina, e estes eventos. Entretanto, recomenda-se precaução, pois levodopa + cloridrato
+de benserazida é um medicamento dopaminérgico.
+Advertências relacionadas a efeitos oculares
+Em pacientes com glaucoma de ângulo aberto, recomenda-se medir regularmente a pressão intraocular, pois a levodopa
+teoricamente tem o potencial de aumentar a pressão intraocular.
+Advertências relacionadas a interações medicamentosas
+Se for necessária anestesia geral em um paciente em tratamento com levodopa, o tratamento com Ekson deve continuar até o
+momento mais próximo possível da cirurgia, exceto no caso de halotano. Em anestesia geral com halotano, deve-se descontinuar o
+uso de Ekson 12 a 48 horas antes da intervenção cirúrgica, pois variações da pressão arterial e / ou arritmias podem ocorrer. O
+tratamento com Ekson pode ser retomado após a cirurgia, com reintrodução gradual e elevação da dose até o nível posológico antes
+da cirurgia.
+Se Ekson for administrado a pacientes em uso de inibidores IMAOs não-seletivos irreversíveis, deve-se aguardar um intervalo
+mínimo de 2 semanas entre a interrupção do IMAO e o início do tratamento com Ekson. Caso contrário, possivelmente ocorrerão
+efeitos adversos como crise hipertensiva (vide itens “Contraindicações” e “Interações medicamentosas”).
+A administração concomitante de antipsicóticos com propriedades bloqueadoras do receptor da dopamina, particularmente
+antagonistas do receptor D2, pode antagonizar os efeitos antiparkinsonianos da levodopa-benserazida. A levodopa pode reduzir os
+efeitos antipsicóticos desses medicamentos. Estes medicamentos devem ser co-administrados com cautela (vide item “Interações
+medicamentosas”).
+Ekson não deve ser administrado concomitantemente a simpaticomiméticos (como a epinefrina, noradrenalina, isoproterenol ou
+anfetamina), uma vez que a levodopa pode potencializar os seus efeitos. Se houver necessidade de administração concomitante, é
+essencial monitoração rigorosa do sistema cardiovascular e pode ser necessária redução de dose dos agentes simpatomiméticos (vide
+item “Interações Medicamentosas”).
+Ao iniciar um tratamento adjuvante com um inibidor da COMT, uma redução da dosagem de Ekson pode ser necessária.
+Anticolinérgicos não devem ser retirados abruptamente quando a terapia com Ekson é instituída, pois o efeito da levodopa não é
+imediato.
+A associação com anticolinérgicos, amantadina, selegilina, bromocriptina e agonistas da dopamina é permitida; entretanto, tanto os
+efeitos desejados como os efeitos adversos do tratamento podem ser intensificados. Pode ser necessária redução da dose de Ekson
+ou da outra substância (vide “Interações medicamentosas”).
+Testes laboratoriais
+Recomenda-se controle da contagem de células do sangue e de função hepática durante o tratamento (vide item “Experiência Pós
+Comercialização”). Em pacientes diabéticos, monitorar com regularidade a glicemia e fazer os ajustes necessários na dose de
+hipoglicemiantes.
+Efeitos sobre a capacidade de dirigir veículos e operar máquinas
+Ekson pode ter uma grande influência na capacidade de dirigir e operar máquinas.
+Pacientes tratados com levodopa e que apresentam sonolência e / ou episódios de sono de início repentino devem ser advertidos para
+evitar dirigir veículos ou se engajar em atividades onde a desatenção pode coloca-los ou colocar outros em risco de ferimento grave
+ou morte (por exemplo, operar máquinas) até que os episódios recorrentes e sonolência sejam resolvidos. Além disso, uma redução
+da dosagem ou término da terapia deve ser considerada.
+Dependência e abuso de drogas
+Síndrome de desregulação dopaminérgica (SDD): um pequeno número de pacientes sofre de distúrbio cognitivo e comportamental
+que pode ser diretamente atribuído à administração de doses crescentes do medicamento sem prescrição médica e muito além das
+doses requeridas para tratar os distúrbios motores dos pacientes.
+Uso em populações especiais
+Homens e mulheres com potencial reprodutivo
+Fertilidade
+Não foram realizados estudos sobre fertilidade (vide item “Resultados de eficácia – Estudos Não-Clínicos”).
+Gravidez
+Categoria de risco na gravidez: C.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista.
+Recomenda-se que seja realizado um teste de gravidez antes do início do tratamento para excluir a possibilidade de gravidez.
+Método de contracepção adequado deve ser utilizado em mulheres com potencial para engravidar durante o tratamento com Ekson.
+Este medicamento é contraindicado para uso por mulheres grávidas ou em idade fértil na ausência de método contraceptivo
+adequado (vide item “Contraindicações”).
+Caso ocorra gravidez em uma mulher em tratamento com Ekson, o uso de Ekson deve ser descontinuado (conforme recomendação
+médica).
+O uso seguro de levodopa + benserazida durante o trabalho de parto e no parto não foi estabelecido.
+Lactação
+A segurança do uso de levodopa + benserazida na lactação não foi estabelecida.
+Não se sabe se a benserazida é excretada no leite materno humano. Mães em tratamento com levodopa + cloridrato de benserazida
+não devem amamentar, pois a ocorrência de malformações no sistema esquelético da criança não pode ser excluída.
+Uso pediátrico
+Ekson é contraindicado para pacientes menores que 25 anos de idade (vide item “Contraindicações”).
+Uso geriátrico
+Vide item “Características Farmacológicas - Farmacocinética em populações especiais”.
+Ekson 125_BU 01a_VPS 4
+Insuficiência renal
+Vide itens “Características Farmacológicas - Farmacocinética em populações especiais” e “Posologia”.
+Insuficiência hepática
+Vide item “Características Farmacológicas - Farmacocinética em populações especiais”.
+Até o momento não há informações de que levodopa + cloridrato de benserazida possa causar doping.
+6. INTERAÇÕES MEDICAMENTOSAS
+Interações com outros medicamentos e outras formas de interação
+Interações farmacocinéticas
+A associação do anticolinérgico triexifenidil com comprimidos de levodopa + cloridrato de benserazida reduz a taxa, mas não a
+extensão de absorção de levodopa.
+Sulfato ferroso reduz a concentração plasmática máxima e a área sob a curva de levodopa em 30 a 50%. As alterações
+farmacocinéticas observadas durante a coadministração de sulfato ferroso parecem ser clinicamente significantes em alguns, mas
+não em todos os pacientes.
+A metoclopramida aumenta a taxa de absorção de levodopa.
+A domperidona pode aumentar a biodisponibilidade da levodopa como resultado do aumento da absorção de levodopa no intestino.
+Interações farmacodinâmicas
+Neurolépticos, opioides e medicamentos anti-hipertensivos contendo reserpina inibem a ação de levodopa + cloridrato de
+benserazida.
+Levodopa + cloridrato de benserazida não deve ser associado a inibidores da monoaminoxidase (IMAOs) não-seletivos. Se levodopa
++ cloridrato de benserazida for administrado a pacientes em uso de IMAOs não-seletivos irreversíveis, deve-se aguardar um
+intervalo mínimo de 2 semanas entre a interrupção do IMAO e o início do tratamento com Ekson. Caso contrário, possivelmente
+ocorrerão efeitos adversos como crise hipertensiva (vide item “Contraindicações”). IMAOs-B seletivos, como a selegilina e
+rasagilina, e IMAOs-A seletivos, como a moclobemida, podem ser prescritos a pacientes em tratamento com Ekson; recomenda-se
+reajustar as doses de levodopa, conforme as necessidades individuais dos pacientes, em termos de tolerabilidade e eficácia. A
+combinação de inibidores seletivos de MAO-A e MAO-B é equivalente ao uso de IMAOs não-seletivos e, portanto, não deverá ser
+administrada juntamente a Ekson.
+Levodopa + cloridrato de benserazida não deve ser administrado concomitantemente a simpatomiméticos (como epinefrina,
+norepinefrina, isoproterenol ou anfetamina, os quais estimulam o sistema nervoso simpático), pois a levodopa pode potencializar
+seus efeitos. Se houver necessidade de administração concomitante, é essencial monitoração rigorosa do sistema cardiovascular e
+pode ser necessária redução da dose dos agentes simpatomiméticos.
+A associação com anticolinérgicos, amantadina, selegilina, bromocriptina e agonistas dopaminérgicos é permitida; entretanto, tanto
+os efeitos desejados como os efeitos adversos do tratamento podem ser intensificados. Pode ser necessária redução da dose de Ekson
+ou da outra substância.
+Quando iniciado o tratamento adjuvante com inibidor da COMT, pode ser necessária redução da dose de Ekson.
+Anticolinérgicos não devem ser retirados abruptamente quando se iniciar tratamento com Ekson, pois o efeito da levodopa não é
+imediato.
+A administração concomitante de antipsicóticos com propriedades bloqueadoras do receptor da dopamina, particularmente
+antagonistas do receptor D2, pode antagonizar os efeitos antiparkinsonianos da levodopa + benserazida. A levodopa pode reduzir os
+efeitos antipsicóticos desses medicamentos. Estes medicamentos devem ser co-administrados com cautela (vide item “Advertências
+e Precauções”).
+Anestesia geral com halotano: Ekson deve ser descontinuado 12 a 48 horas antes da intervenção cirúrgica que necessita de anestesia
+geral com halotano, pois variações da pressão arterial e / ou arritmias podem ocorrer.
+Para anestesia geral com outros anestésicos vide item “Advertências e Precauções”.
+Interações em testes laboratoriais
+A levodopa pode alterar os resultados de testes laboratoriais para catecolaminas, creatinina, ácido úrico e glicosúria. Os resultados
+para corpos cetônicos no teste de urina podem ser falsos positivos em pacientes que utilizam Ekson.
+O resultado para o teste de Coombs pode dar falso-positivo nos pacientes em tratamento com levodopa + cloridrato de benserazida.
+Interações com alimentos
+Observa-se redução do efeito do medicamento, quando levodopa + cloridrato de benserazida é ingerido com uma refeição rica em
+proteínas.
+A levodopa é um aminoácido grande neutro (LNAA - Large neutral amino acids) e compete com os aminoácidos da proteína
+ingerida na dieta pelo transporte através da mucosa gástrica e da barreira hematoencefálica.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar em temperatura ambiente (entre 15 a 30ºC). Proteger da luz, umidade e calor.
+Desde que respeitados os cuidados de armazenamento, o medicamento apresenta uma validade de 24 meses a contar da data de sua
+fabricação.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características do medicamento
+Ekson é um comprimido rosa, circular, monossectado em cruz em uma face e liso na outra face.
+Antes de usar, observe o aspecto do medicamento.
+TODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS.
+Ekson 125_BU 01a_VPS 5
+8. POSOLOGIA E MODO DE USAR
+Ekson deve ser administrado por via oral. Quando possível, Ekson deve ser tomado no mínimo 30 minutos antes ou 1 hora após as
+refeições, pois dessa forma o efeito competitivo da dieta proteica na absorção de levodopa pode ser evitado (vide item “Interações
+medicamentosas”) e para facilitar um início de ação mais rápido. Efeitos adversos gastrointestinais, que podem ocorrer
+principalmente nos estágios iniciais do tratamento, podem ser controlados, em grande parte, com a ingestão de Ekson com um
+lanche com baixo teor de proteína (por exemplo, biscoitos) ou líquido, ou com o aumento gradativo da dose.
+Modo de administração
+Os comprimidos de Ekson devem ser engolidos sem mastigar. Eles podem ser partidos (são birranhurados) para facilitar a
+deglutição e o ajuste posológico.
+Posologia
+Dose usual
+O tratamento com Ekson deve ser iniciado gradualmente; a dose deve ser estabelecida individualmente e aumentada gradativamente
+até otimização do efeito. Portanto, as recomendações posológicas a seguir devem ser consideradas como sugestões.
+Tratamento inicial
+Nos estágios iniciais da doença de Parkinson, é recomendável iniciar o tratamento com ½ comprimido de Ekson 125 mg, três a
+quatro vezes ao dia. Assim que se confirmar a tolerabilidade ao esquema inicial, a dose pode ser aumentada lentamente, de acordo
+com a resposta do paciente.
+A otimização do efeito em geral é obtida com uma dose diária de levodopa + cloridrato de benserazida correspondente à faixa de
+300 - 800 mg de levodopa + 75 - 200 mg de benserazida, dividida em três ou mais administrações. Podem ser necessárias quatro a
+seis semanas para se atingir o efeito ideal. Se forem necessários incrementos adicionais, estes devem ser realizados em intervalos
+mensais.
+Tratamento de manutenção
+A dose média de manutenção é de 1 comprimido de Ekson 125 mg, três a seis vezes ao dia, ou seja, de 300 mg a 600 mg de
+levodopa ao dia. O número ideal de administrações (não inferior a três) e sua distribuição ao longo do dia devem ser titulados para
+um efeito ideal.
+Instruções posológicas especiais
+As doses devem ser aumentadas com cuidado em todos os pacientes. Pacientes em uso de outros agentes antiparkinsonianos podem
+receber Ekson. Entretanto, com a evolução do tratamento com Ekson e os efeitos terapêuticos tornando-se aparentes, pode ser
+necessário reduzir ou retirar gradualmente os outros medicamentos.
+Pacientes com grandes flutuações (variações) no efeito do medicamento ao longo do dia (fenômeno on-off) devem receber doses
+individuais menores e mais frequentes.
+Uso em pacientes com insuficiência renal
+No caso de insuficiência renal leve ou moderada não é necessária a redução de dose (vide item “Contraindicações”).
+Uso em pacientes com insuficiência hepática
+A segurança e a eficácia de levodopa + benserazida não foram estabelecidas em pacientes com insuficiência hepática (vide item
+“Contraindicações”).
+9. REAÇÕES ADVERSAS
+Ekson em geral é bem tolerado, mas eventualmente podem ocorrer efeitos indesejados, tais como movimentos involuntários,
+episódios psicóticos, angina pectoris, constipação, perda de peso e falta de ar.
+- Pós-comercialização
+As seguintes reações adversas foram identificadas na experiência pós-comercialização com levodopa + benserazida, com base em
+relatos de casos espontâneos e casos de literatura.
+A estimativa da categoria de frequência correspondente para cada reação adversa ao medicamento baseia-se na seguinte convenção:
+muito comum (≥1/10); comum (≥1/100 a <1/10); incomum (≥1/1.000 a <1/100); rara (≥1/10.000 a <1/1.000); muito rara (<1 /
+10.000), desconhecida (essas reações são relatadas voluntariamente por uma população de tamanho incerto, portanto nem sempre é
+possível estimar com segurança sua frequência ou estabelecer uma relação causal com a exposição ao medicamento).
+Categoria de frequência desconhecida:
+Distúrbios nos sistemas sanguíneo e linfático: anemia hemolítica, leucopenia transitória e trombocitopenia têm sido relatadas.
+Como em todo tratamento de longo prazo com levodopa, recomenda-se monitoração periódica hematológica e de função hepática e
+renal.
+Distúrbios nutricionais e do metabolismo: anorexia foi relatada.
+Distúrbios psiquiátricos: depressão pode fazer parte do quadro clínico em pacientes com doença de Parkinson e podem também
+ocorrer em pacientes tratados com Ekson. Agitação, ansiedade, insônia, alucinações, delírios e desorientação temporária podem
+ocorrer particularmente em pacientes idosos e em pacientes com antecedentes psiquiátricos. A síndrome de desregulação
+dopaminérgica (SDD) foi relatada.
+Distúrbios do sistema nervoso: casos de ageusia ou disgeusia foram relatados. Em estágios tardios do tratamento, podem ocorrer
+discinesia (movimentos involuntários coreiformes, distônicos ou atetóticos). Esses, em geral, podem ser eliminados ou tornam-se
+suportáveis com a redução da dose. Com tratamento prolongado, podem ocorrer variações da resposta terapêutica, incluindo
+episódios de acinesia, episódios de congelamento da marcha, deterioração de final da dose e efeito “liga-desliga”. Esses podem ser
+eliminados ou são suportáveis, com ajuste da dose e administração de doses individuais menores mais frequentemente.
+Posteriormente, pode-se tentar aumentar a dose novamente para intensificar o efeito terapêutico. O uso de levodopa + cloridrato de
+benserazida pode ocasionar sonolência e tem sido associado, muito raramente, à sonolência excessiva durante o dia e episódios de
+sono de início repentino.
+Distúrbios cardíacos: arritmias cardíacas foram relatadas.
+Ekson 125_BU 01a_VPS 6
+Distúrbios vasculares: hipotensão ortostática foi relatada. Distúrbios ortostáticos, em geral, melhoram com redução da dose de
+levodopa + cloridrato de benserazida.
+Distúrbios gastrintestinais: náusea, vômito, diarreia e descoloração da saliva, da língua, dos dentes e da mucosa oral foram
+relatados com levodopa + cloridrato de benserazida. Efeitos adversos gastrointestinais indesejáveis podem ocorrer
+predominantemente em estágios iniciais do tratamento, e são em grande parte controláveis com a ingestão de Ekson com um lanche
+de baixo teor proteico ou líquidos, ou com aumento gradual da dose.
+Distúrbios do tecido subcutâneo e da pele: reações alérgicas como prurido, rash e hiperemia foram relatadas.
+Desordens do fígado e biliares: aumento de transaminases, fosfatase alcalina e gama-glutamiltransferase foi reportado.
+Desordens renais e urinárias: elevação dos níveis sanguíneos de ureia foi relatada.
+Pode ocorrer alteração da cor da urina (cromatúria), passando em geral por avermelhada e tornando-se mais escura após um tempo
+em repouso. Outros fluidos ou tecidos corporais também podem se descolorir ou se pigmentar, incluindo a saliva, a língua, os dentes
+ou a mucosa oral.
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Sinais e sintomas
+Os sinais e sintomas de superdose são qualitativamente similares aos efeitos adversos de levodopa + cloridrato de benserazida em
+doses terapêuticas, mas é provável que sejam mais graves. A superdose pode levar a efeitos adversos cardiovasculares (por exemplo,
+arritmia cardíaca), distúrbios psiquiátricos (por exemplo, confusão e insônia), efeitos gastrointestinais (por exemplo, náusea e
+vômitos) e movimentos involuntários anormais.
+Tratamento
+Monitorar os sinais vitais do paciente e instituir medidas de suporte de acordo com o estado clínico do paciente.
+Determinados pacientes podem necessitar de tratamento sintomático para efeitos cardiovasculares (por exemplo, antiarrítmicos) ou
+efeitos no sistema nervoso central (por exemplo, estimulantes respiratórios e neurolépticos).
+Além disso, para formulações de liberação controlada, uma maior absorção deve ser evitada utilizando método adequado.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III- DIZERES LEGAIS
+MS - 1.0573.0443
+Farmacêutica Responsável: Gabriela Mallmann – CRF-SP nº 30.138
+Registrado por:
+Aché Laboratórios Farmacêuticos S.A.
+Av. Brigadeiro Faria Lima, 201 - 20º andar
+São Paulo - SP
+CNPJ 60.659.463/0029-92
+Indústria Brasileira
+Fabricado por:
+Aché Laboratórios Farmacêuticos S.A.
+Guarulhos – SP
+Embalado por:
+Serpac Comércio e Indústria Ltda.
+São Paulo – SP
+VENDA SOB PRESCRIÇÃO MÉDICA
+Ekson 125_BU 01a_VPS 7
+Histórico de Alterações da Bula
+Dados da submissão eletrônica Dados da petição/notificação que altera a bula Dados das alterações de bulas
+Data do Nº do Data do Nº do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+10457 – SIMILAR Comprimidos
+02/03/2021 - – Inclusão inicial NA NA NA NA Inclusão Inicial VP/VPS 100 mg + 25 mg
+de texto de bula
+VP
+3. QUANDO NÃO DEVO USAR
+ESTE MEDICAMENTO?
+4.O QUE DEVO SABER ANTES DE
+USAR ESTE MEDICAMENTO?
+6. COMO DEVO USAR ESTE
+MEDICAMENTO?
+7. CUIDADOS DE
+ARMAZENAMENTO DO
+MEDICAMENTO
+10450 - SIMILAR
+–Notificação de 8. QUAIS OS MALES QUE ESTE Comprimidos
+28/08/2018 0844196/18-1 Alteração de N/A N/A N/A N/A MEDICAMENTO PODE ME VP/VPS 200 mg + 50 mg
+Texto de Bula –
+CAUSAR?
+RDC 60/12
+VPS
+3. CARACTERÍSTICAS
+FARMACOLÓGICAS
+4.CONTRAINDICAÇÕES
+5. ADVERTÊNCIAS E
+PRECAUÇÕES
+6. INTERAÇÕES
+MEDICAMENTOSAS
+8.POSOLOGIA E MODO DE USAR
+9.REAÇÕES ADVERSAS
+10450 - SIMILAR
+– Notificação de Comprimidos
+11/10/2017 2105079/17-1 Alteração de N/A N/A N/A N/A DIZERES LEGAIS VP/VPS 200 mg + 50 mg
+Texto de Bula –
+RDC 60/12
+10756 - SIMILAR
+- Notificação de
+alteração de Comprimidos
+IDENTIFICAÇÃO DO
+15/12/2015 1091072/15-7 texto de bula N/A N/A N/A N/A VP/VPS 200 mg + 50 mg
+MEDICAMENTO
+para adequação
+a
+intercambialidade
+4. O QUE DEVO SABER ANTES
+10450 - SIMILAR
+DE USAR ESTE MEDICAMENTO?
+– Notificação de Comprimidos
+23/04/2015 0350625/15-8 Alteração de N/A N/A N/A N/A VP/VPS 200 mg + 50 mg
+8. QUAIS OS MALES QUE ESTE
+Texto de Bula –
+MEDICAMENTO PODE ME
+RDC 60/12
+CAUSAR?
+10457 - SIMILAR
+Comprimidos
+- Inclusão Inicial
+07/11/2013 0941453/13-3 N/A N/A N/A N/A N/A – Inclusão Inicial VP/VPS 200 mg + 50 mg
+de Texto de Bula
+– RDC 60/12

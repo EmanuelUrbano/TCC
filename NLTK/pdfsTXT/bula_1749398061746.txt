@@ -1,0 +1,433 @@
+ENTARKIN®
+entacapona
+EMS SIGMA PHARMA LTDA
+Comprimido revestido
+200 mg
+I - IDENTIFICAÇÃO DO MEDICAMENTO
+ENTARKIN®
+entacapona
+MEDICAMENTO SIMILAR EQUIVALENTE AO MEDICAMENTO DE REFERÊNCIA.
+APRESENTAÇÕES
+Comprimido revestido de 200 mg. Embalagem contendo 20, 30, 40, 60 ou 100* unidades.
+*Embalagem hospitalar
+USO ORAL
+USO ADULTO
+COMPOSIÇÃO
+Cada comprimido revestido de 200 mg contém:
+entacapona....................................................................................................................................................200 mg
+excipiente* q.s.p.......................................................................................................................................1 com rev
+*celulose microcristalina, amidoglicolato de sódio, dióxido de silício, beenato de glicerila, talco, hipromelose,
+macrogol, dióxido de titânio, óxido de ferro amarelo, óxido de ferro vermelho.
+II - INFORMAÇÕES TÉCNICAS AOS PROFISSIONAIS DE SAÚDE
+1. INDICAÇÕES
+A entacapona é indicada como adjuvante na preparação padrão de levodopa/benserazida ou
+levodopa/carbidopa em pacientes com doença de Parkinson e flutuações motoras de fim de dose que não
+podem ser estabilizadas por estas associações.
+2. RESULTADOS DE EFICÁCIA
+Estudos clínicos
+Em estudos duplo-cegos de fase III envolvendo 376 pacientes portadores da doença de Parkinson e flutuações
+motoras de final de dose, foram administrados entacapona ou placebo com cada dose de levodopa/inibidor da
+dopa descarboxilase. Os resultados são apresentados na tabela 1 abaixo. No estudo I, o período “ON” (horas)
+foi mensurado diariamente na residência e no estudo II, foi mensurada a proporção diária do período “ON”.
+Tabela 1: Período “ON” diário (Média ± Desvio Padrão)
+Estudo I: Período “ON” diário (horas)
+entacapona (n=85) placebo (n=86) diferença
+nível basal 9,3 ± 2,2 9,2 ± 2,5
+semana 8-24 10,7 ± 2,2 9,4 ± 2,6 1 h 20 min
+(8,3%)
+Cl 45 min, 1 h 56
+95%
+min
+Estudo II: Proporção diária do período “ON” (%)
+entacapona (n=103) placebo (n=102) diferença
+nível basal 60,0 ± 15,2 60,8 ± 14,0
+semana 8-24 66,8 ± 14,5 62,8 ± 16,8 4,5% (0h 35 min)
+Cl 0,93%, 7,97%
+95%
+Houve uma diminuição correspondente do período “OFF”.
+No estudo I, o período “OFF” foi reduzido em 24%, comparado com 0% no grupo placebo.
+No estudo II, o período “OFF” foi reduzido em 18%, comparado com 5% no grupo placebo.
+Referências bibliográficas
+1 - Parkinson Study Group (1997) Entacapone improves motor fluctuations in levodopa-treated Parkisnon’s
+disease patients. Ann Neurol; 42:747-755. [10]
+2 - Rinne UK, Larsen JP, Siden A et al (1998) Entacapone enhances the response to levodopa in parkinsonian
+patients with motor fluctuations. Neurology; 51: 1309-1314. [12]
+3. CARACTERÍSTICAS FARMACOLÓGICAS
+Farmacodinâmica
+A entacapona pertence a uma nova classe terapêutica, a dos inibidores da catecol-O-metil transferase (COMT)
+e é um inibidor reversível da COMT, específico e de atuação principalmente periférica, concebido para
+administração concomitante com preparações de levodopa. A entacapona diminui a perda metabólica da
+levodopa para 3-O-metildopa (3-OMD) pela inibição da enzima COMT. Isso leva a um aumento da
+biodisponibilidade de levodopa e uma maior quantidade de levodopa disponível no cérebro. A entacapona
+prolonga então a resposta clínica à levodopa.
+A entacapona inibe a COMT principalmente em tecidos periféricos. A inibição de COMT nos glóbulos
+vermelhos sanguíneos é proporcional à concentração plasmática da entacapona, indicando claramente a
+natureza reversível da inibição da COMT.
+Farmacocinética
+Absorção
+Existem grandes variações intra e interindividuais na absorção da entacapona.
+O pico de concentração plasmática (C ) é habitualmente alcançado cerca de uma hora após a administração
+máx
+de um comprimido de 200 mg de entacapona. O fármaco é sujeito a extenso metabolismo de primeira
+passagem. A biodisponibilidade da entacapona é cerca de 35% após uma dose oral. O alimento não afeta a
+absorção da entacapona de forma significativa.
+Distribuição
+Após absorção pelo trato gastrintestinal, a entacapona é rapidamente distribuída pelos tecidos periféricos com
+um volume de distribuição no steady-state (estado de equilíbrio) de 20 litros. Aproximadamente 92% da dose é
+eliminada durante a fase beta com meia-vida de eliminação curta de 30 minutos. O clearance (depuração) total
+da entacapona é de cerca de 800 mL/min.
+A entacapona liga-se extensivamente às proteínas plasmáticas, principalmente à albumina. No plasma humano,
+a fração não ligada é cerca de 2% na faixa de concentrações terapêuticas. Em concentrações terapêuticas, a
+entacapona não desloca outros fármacos extensivamente ligados (por ex., varfarina, ácido salicílico,
+fenilbutazona e diazepam) nem é deslocada significativamente por nenhum desses fármacos em concentrações
+terapêuticas ou em concentrações mais elevadas.
+Metabolismo
+Uma pequena quantidade de entacapona, o (E)-isômero, é convertida no seu (Z)-isômero. O (E)-isômero
+contribui para 95% da AUC (área sob a curva) da entacapona e o (Z)-isômero e traços de outros metabólitos
+contribuem para os restantes 5%.
+Dados de estudos in vitro utilizando preparações microssomais do fígado humano indicam que entacapona
+inibe o citocromo P450 2C9 (IC50~4 microM). A entacapona mostrou pequena ou nenhuma inibição de outros
+tipos de isoenzimas P450 (CYP1A2, CYP2A6, CYP2D6, CYP2E1, CYP3A e CYP2C19) (vide “Interações
+Medicamentosas”).
+Eliminação
+A eliminação da entacapona ocorre principalmente por vias metabólicas não renais. É estimado que 80 a 90%
+das doses são excretadas nas fezes, mas este dado não foi confirmado nos seres humanos. Aproximadamente
+10-20% são excretados na urina. Encontram-se apenas traços de entacapona como fármaco inalterado na urina.
+A maior parte (95%) do fármaco excretado na urina conjuga-se com ácido glucurônico. Dentre os metabólitos
+encontrados na urina apenas cerca de 1% se formou por oxidação.
+Características nos pacientes
+As propriedades farmacocinéticas da entacapona são semelhantes tanto em adultos jovens como em idosos. O
+metabolismo do fármaco é retardado em pacientes com insuficiência hepática de leve a moderada (classe A e B
+da escala Child-Pugh), o que leva a um aumento da concentração plasmática de entacapona em ambas as fases
+de absorção e eliminação (vide “Contraindicações”). A insuficiência renal não afeta a farmacocinética da
+entacapona. A necessidade de um intervalo maior entre as administrações deve igualmente ser lembrada no
+tratamento de pacientes submetidos à diálise.
+Dados de segurança pré-clínicos
+Os dados pré-clínicos não demonstraram riscos especiais para humanos baseados nos estudos convencionais de
+segurança farmacológica, toxicidade com doses repetidas, genotoxicidade e potencial carcinogênico.
+Em estudos de toxicidade de doses repetidas, foi observada anemia em virtude da propriedade de quelação do
+ferro pela entacapona.
+Estudos de toxicidade na reprodução demonstraram uma diminuição do peso fetal e leve retardo no
+desenvolvimento ósseo de coelhos em níveis de exposição sistêmica sob doses terapêuticas.
+4. CONTRAINDICAÇÕES
+- Hipersensibilidade conhecida à entacapona ou a outros componentes da formulação.
+- Disfunção hepática.
+- Pacientes com feocromocitoma por causa do risco aumentado de crise hipertensiva.
+- História prévia de síndrome neuroléptica maligna (SNM) e/ou rabdomiólise não-traumática.
+- Uso concomitante de entacapona com os inibidores não-seletivos da monoaminoxidase (MAO-A e MAO-B),
+(por ex.: fenelzina, tranilcipromina).
+- Uso concomitante de um inibidor seletivo de MAO-A com um inibidor seletivo de MAO-B e entacapona
+(vide “Interações Medicamentosas”).
+5. ADVERTÊNCIAS E PRECAUÇÕES
+Foram observadas raramente em pacientes com doença de Parkinson, rabdomiólise secundária à discinesia
+grave ou síndrome neuroléptica maligna (SNM). Casos isolados de rabdomiólise têm sido relatados no
+tratamento com entacapona.
+SNM, inclusive rabdomiólise e hipertermia, são caracterizados por sintomas motores (rigidez, mioclonia,
+tremor), alterações mentais (por ex: agitação, confusão, coma), hipertermia, disfunção autonômica (taquicardia,
+pressão arterial instável) e elevação da creatinina-fosfoquinase (CPK) sérica. Em casos individuais, somente
+alguns desses sintomas e/ou achados foram evidentes.
+Casos isolados de SNM têm sido relatados, especialmente após redução abrupta ou descontinuação da
+entacapona e outras medicações dopaminérgicas. Quando necessário, a descontinuação do tratamento com
+entacapona e outro dopaminérgico deve ser lenta e se sinais e/ou sintomas ocorrerem, a interrupção deve ser
+desconsiderada e um aumento na dosagem de levodopa deve ser efetuado.
+A entacapona deve ser administrada com cautela em pacientes com doença cardíaca isquêmica.
+Por seu mecanismo de ação, a entacapona pode interferir com o metabolismo de fármacos que contenham um
+grupo catecol, potencializando sua ação. Assim, a entacapona deve ser administrada com cautela a pacientes
+em tratamento com fármacos metabolizados pela COMT, como rimiterol, isoprenalina, adrenalina,
+noradrenalina, dopamina, dobutamina, alfa-metildopa e apomorfina (vide “Interações Medicamentosas”).
+A entacapona é sempre administrada como adjuvante no tratamento com levodopa. Assim, as precauções
+aplicadas ao tratamento com levodopa devem ser levadas em conta no tratamento com entacapona. A
+entacapona aumenta a biodisponibilidade da levodopa das preparações padrões de 5 a 10% de
+levodopa/benserazida, mais do que nas preparações de levodopa/carbidopa. Consequentemente, os efeitos
+dopaminérgicos indesejáveis podem ser mais frequentes quando entacapona é associada ao tratamento com
+levodopa/benserazida (vide “Reações Adversas”). Para reduzir as reações adversas dopaminérgicas relatadas
+com levodopa, é necessário fazer o ajuste de dosagem nos primeiros dias, às primeiras semanas, após o início
+do tratamento com entacapona, de acordo com o estado clínico do paciente (vide “Posologia” e “Reações
+Adversas”).
+A entacapona pode agravar a hipotensão ortostática induzida por levodopa, portanto deve ser administrada com
+cautela em pacientes que recebem outros medicamentos que causam hipotensão ortostática.
+Em estudos clínicos, os efeitos colaterais dopaminérgicos (por ex: discinesia), são mais comuns em pacientes
+que recebem entacapona e agonistas dopaminérgicos (como bromocriptina), selegilina ou amantadina
+comparados aos outros que recebem placebo com essas combinações. As dosagens de outros medicamentos
+antiparkinsonianos devem ser ajustadas quando for iniciado o tratamento com entacapona.
+A entacapona usada em combinação com levodopa tem sido associada com sonolência e episódios repentinos
+de início de sono em pacientes com doença de Parkinson e, portanto, deve-se ter cuidado ao dirigir e operar
+máquinas.
+Para pacientes com diarreia decorrente do tratamento com entacapona, recomenda-se um monitoramento do
+peso para que o decréscimo excessivo de peso seja evitado. Diarreia persistente ou prolongada com suspeita de
+estar relacionada com entacapona pode ser sinal de colite. Em caso de diarreia persistente ou prolongada, a
+entacapona deve ser descontinuada e deve-se considerar terapias médicas e investigações apropriadas.
+Para pacientes que apresentem anorexia progressiva, astenia e perda de peso dentro de um curto período de
+tempo, uma avaliação médica geral incluindo função hepática deve ser considerada.
+Os pacientes devem ser monitorados regularmente para o desenvolvimento de distúrbios do controle de
+impulso.
+Pacientes e cuidadores devem estar cientes de que sintomas comportamentais de distúrbios do controle de
+impulsos, incluindo jogo patológico, aumento da libido, hipersexualidade, gasto ou compra compulsiva, binge
+eating e compulsão alimentar podem ocorrer em pacientes tratados com agonistas da dopamina e/ou outros
+tratamentos dopaminérgicos como entacapona em associação com a levodopa. É recomendada a revisão do
+tratamento se tais sintomas se desenvolverem.
+Gravidez e lactação
+Gravidez: não se observaram efeitos teratogênicos ou fetotóxicos primários em estudos realizados em animais,
+com a utilização de entacapona em doses maiores que as terapêuticas. Como não há experiências em mulheres
+grávidas, a entacapona não deve ser utilizada durante a gravidez.
+Lactação: Estudos em animais comprovaram que entacapona é excretada no leite. As mulheres em tratamento
+com entacapona não devem amamentar. A segurança de entacapona em crianças não é conhecida.
+Este medicamento pertence à categoria de risco na gravidez C.
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-
+dentista.
+Efeitos sobre a habilidade de dirigir veículos e/ou operar máquinas: ENTARKIN® em associação com
+levodopa pode ter grande influência na habilidade de dirigir veículos e/ou operar máquinas. Pacientes em
+tratamento com entacapona em associação com levodopa e que sentem sonolência e/ou episódios repentinos de
+início de sono, devem ser orientados a não dirigir e a não exercer atividades em que o estado de alerta
+prejudicado possa colocá-los em risco de acidentes graves ou morte (por ex.: operar máquinas) até que tais
+episódios recorrentes tenham sido resolvidos (vide “Advertências e Precauções”).
+6. INTERAÇÕES MEDICAMENTOSAS
+Não se observou interação da entacapona com a carbidopa no esquema posológico recomendado. Interações
+farmacocinéticas com benserazida não foram estudadas.
+Em estudos de dose única em voluntários sadios, não se observaram interações entre a entacapona e a
+imipramina ou entre a entacapona e a moclobemida. Analogamente, não se observaram interações entre a
+entacapona e a selegilina em estudos de dose repetida em pacientes com parkinsonismo. Contudo, a
+experiência da utilização clínica de entacapona com vários fármacos, inclusive inibidores da MAO-A,
+antidepressivos tricíclicos, inibidores da recaptação de noradrenalina como, desipramina, maprotilina e
+venlafaxina, e fármacos que são metabolizados pela COMT (por ex.: compostos com grupo catecol: rimiterol,
+isoprenalina, adrenalina, noradrenalina, dopamina, dobutamina, alfa-metildopa, apomorfina e paroxetina) é
+ainda limitada. Portanto, não é recomendado o uso concomitante de entacapona com qualquer um desses
+fármacos (vide “Advertências e Precauções”).
+A entacapona pode ser utilizada com selegilina (inibidor seletivo da MAO-B), mas a dose diária de selegilina
+não deve exceder 10 mg.
+A entacapona pode formar quelantes com ferro no trato gastrintestinal. A entacapona e preparações de ferro
+devem ser administradas separadamente em intervalos de no mínimo 2 a 3 horas (vide “Reações Adversas”).
+As ligações de entacapona ao sítio II de ligação à albumina humana também se liga a outros fármacos,
+inclusive diazepam e ibuprofeno. Estudos de interações clínicas com diazepam e anti-inflamatórios não-
+esteroides não foram realizados. De acordo com estudos in vitro, não se espera um deslocamento significativo
+nas concentrações terapêuticas dos medicamentos.
+Devido à sua afinidade ao citocromo P450 2C9 in vitro (vide “Farmacocinética”), a entacapona pode interferir
+potencialmente com drogas cujo metabolismo é dependente desta isoenzima, tal como a S-varfarina.
+Entretanto, em um estudo de interação em voluntários sadios, a entacapona não alterou os níveis plasmáticos
+de S-varfarina, enquanto que a AUC de R-varfarina aumentou em média por 18% (CI 11 a 26%). O valor de
+90
+INR foi reduzido em média por 13% (CI 6 a 19%). Deste modo, o controle do INR é recomendado quando o
+90
+tratamento com entacapona é iniciado em pacientes recebendo varfarina.
+7. CUIDADOS DE ARMAZENAMENTO DO MEDICAMENTO
+Conservar em temperatura ambiente (temperatura entre 15 e 30°C). Proteger da luz e umidade.
+O prazo de validade do medicamento a partir da data de fabricação é de 24 meses.
+Número de lote e datas de fabricação e validade: vide embalagem.
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original.
+Características físicas e organolépticas:
+Comprimido revestido na cor salmão a alaranjado, oblongo.
+Antes de usar, observe o aspecto do medicamento.
+TODO MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE DAS CRIANÇAS.
+8. POSOLOGIA E MODO DE USAR
+A entacapona é administrada por via oral e em combinação com doses de levodopa/carbidopa ou
+levodopa/benserazida.
+A prescrição para essas preparações de levodopa é aplicável ao uso concomitante das mesmas com entacapona.
+A entacapona pode ser administrada com ou sem alimentos (vide “Farmacocinética”).
+Administra-se um comprimido de 200 mg com cada dose de levodopa/inibidor da dopa descarboxilase. A dose
+máxima recomendada é de 200 mg, 10 vezes por dia, isto é, 2 g de entacapona.
+A entacapona aumenta os efeitos da levodopa. Assim, para reduzir as reações adversas dopaminérgicas
+relacionadas com a levodopa, por ex., discinesias, náuseas, vômitos e alucinações, é frequentemente necessário
+ajustar-se a dose de levodopa durante os primeiros dias ou as primeiras semanas após o início do tratamento
+com entacapona. A dose diária de levodopa deve ser reduzida em cerca de 10% a 30% pelo aumento dos
+intervalos entre as administrações e/ou pela redução da quantidade de levodopa por dose, de acordo com a
+condição clínica do paciente.
+Se o tratamento com entacapona for interrompido, é necessário ajustar-se a dose dos outros tratamentos
+antiparkinsonianos, especialmente o da levodopa, para se alcançar um nível de controle suficiente dos
+sintomas.
+A entacapona aumenta a biodisponibilidade da levodopa nas preparações padrões de levodopa/benserazida um
+pouco mais (5 a 10%) do que nas preparações levodopa/carbidopa. Portanto, pacientes que recebem
+preparações convencionais levodopa/benserazida devem ter uma redução da dose de levodopa quando o
+tratamento com entacapona for iniciado.
+A insuficiência renal não afeta a farmacocinética da entacapona, não havendo nesse caso necessidade de ajuste
+da dose.
+Contudo, para pacientes submetidos à diálise, um intervalo maior entre as doses deve ser considerado (vide
+“Farmacocinética”).
+Disfunção hepática: vide “Contraindicações”.
+Uso em idosos: Não é necessário o ajuste de doses em pacientes idosos.
+Uso em crianças: ENTARKIN não é recomendado para o uso em crianças com idade abaixo de 18 anos,
+devido à falta de dados de segurança e eficácia.
+Este medicamento não deve ser partido, aberto ou mastigado.
+9. REAÇÕES ADVERSAS
+Nos estudos realizados na fase III duplo-cego, placebo-controlado, as reações adversas muito comuns
+encontradas foram: discinesia, náusea e urina anormal (veja a seguir).
+As reações adversas comuns encontradas nos estudos na fase III duplo-cego, placebo-controlado são: diarreia,
+agravamento do parkinsonismo, tontura, dor abdominal, insônia, boca seca, fadiga, alucinações, constipação,
+distonia, aumento da transpiração, hipercinesia, cefaleia, câimbras nas pernas, confusão, pesadelos, queda,
+hipotensão postural, vertigem e tremor.
+Muitos dos efeitos adversos causados por entacapona relacionam-se à atividade dopaminérgica aumentada e
+ocorrem mais frequentemente no início do tratamento. A redução da dose da levodopa diminui a frequência e a
+gravidade desses efeitos. A outra classe principal de eventos adversos são sintomas gastrintestinais, inclusive
+náuseas, vômitos, dores abdominais, constipação e diarreia. A cor da urina pode alterar-se para castanho-
+avermelhado pela entacapona, mas esse fenômeno é inofensivo.
+Geralmente os efeitos adversos provocados pela entacapona são de natureza leve a moderada. Os eventos
+adversos mais comuns que levam à interrupção do tratamento com entacapona são sintomas gastrintestinais
+(por ex., diarreia, 2,5%) e sintomas dopaminérgicos (por ex., discinesias, 1,7%).
+Em estudos clínicos foram relatados, após a administração de entacapona, com frequência maior do que o
+placebo, discinesias (27%), náusea (11%), diarreia (8%), dor abdominal (7%) e boca seca (4,2%).
+Alguns dos eventos adversos, como discinesia, náusea e dores abdominais, podem ser mais comuns com doses
+mais elevadas (1,4 a 2,0 g por dia) do que com doses mais baixas de entacapona.
+Uma leve diminuição da hemoglobina, contagem de eritrócito e hematócrito foi relatada durante o tratamento
+com entacapona. O mecanismo de base envolve diminuição na absorção de ferro no trato gastrintestinal. Foi
+observado, durante um período prolongado de tratamento (6 meses) com entacapona, uma diminuição clínica
+significativa de hemoglobina em 1,5% dos pacientes.
+Foram relatados aumentos clínicos significativos das enzimas hepáticas em casos raros.
+As seguintes reações adversas, listadas abaixo na Tabela 2, têm sido acumuladas dos estudos clínicos com
+entacapona e desde a introdução de entacapona no mercado.
+Tabela 2
+As reações adversas estão dispostas das mais frequentes para as menos e estimadas da seguinte forma: muito
+comum (≥ 1/10); comum (≥ 1/100, < 1/10); incomum (≥ 1/1.000, < 1/100); rara (≥ 1/10.000, < 1/1.000); muito
+rara (< 1/10.000); desconhecida (a frequência não pode ser estimada a partir dos dados disponíveis devido a
+nenhuma estimativa válida ter sido inferida dos estudos clínicos e epidemiológicos).
+Distúrbios psiquiátricos
+Comuns Insônia, alucinações, confusão, pesadelos
+Muito rara Agitação
+Distúrbios no sistema nervoso
+Muito comum Discinesia
+Comuns Agravamento do parkinsonismo, vertigem, distonia,
+hipercinesia
+Distúrbios cardíacos
+Comum Eventos de doença cardíaca isquêmica além de infarto do
+miocárdio* (p. ex. angina pectoris)
+Incomum Infarto do miocárdio*
+Distúrbios gastrintestinais
+Muito comum Náusea
+Comuns Diarreia, dor abdominal, boca seca, constipação, vômito
+Muito rara Anorexia, colites
+Distúrbios hepatobiliares
+Raras Testes anormais da função hepática
+Desconhecida Hepatite com características principalmente colestáticas
+Distúrbios do tecido subcutâneo e pele
+Rara Rash maculopapular ou eritematoso
+Muito rara Urticária
+Desconhecida Descoloração de pele, cabelo, barba e unhas
+Distúrbios renais e urinários
+Muito comum Mudança de cor da urina
+Distúrbios gerais e condições do local de administração
+Comuns Fadiga, aumento da transpiração, queda
+Muito rara Diminuição do peso
+* A taxa de incidência de infarto do miocárdio e outros eventos de doença cardíaca isquêmica (0,43% e 1,54%,
+respectivamente), são derivados de uma análise de 13 estudos duplo-cegos envolvendo 2082 pacientes com
+flutuações motoras de fim de dose recebendo entacapona.
+A entacapona usada em combinação com levodopa tem sido associada com casos isolados de sonolência diurna
+excessiva e episódios repentinos de início de sono (vide “Efeitos sobre a habilidade de dirigir veículos e/ou
+operar máquinas”).
+Casos isolados de síndrome neuroléptica maligna (SNM) têm sido relatados, especialmente após redução
+abrupta ou descontinuação da entacapona e outras medicações dopaminérgicas.
+Casos isolados de rabdomiólise têm sido relatados.
+Transtornos do controle do impulso: jogo patológico, aumento da libido, hipersexualidade, gasto ou compra
+compulsiva, binge eating e compulsão alimentar podem ocorrer em pacientes tratados com agonistas da
+dopamina e/ou outros tratamentos dopaminérgicos como entacapona em associação com levodopa (vide
+“Advertências e Precauções”).
+Em casos de eventos adversos, notifique pelo Sistema VigiMed, disponível no Portal da Anvisa.
+10. SUPERDOSE
+Dados de pós-comercialização incluem casos isolados de superdose nos quais, a dose de entacapona mais alta
+relatada foi de 16.000 mg. Os sinais e sintomas agudos nestes casos de superdose incluem confusão,
+diminuição da atividade, sonolência, hipotonia, descoloração da pele e urticária.
+O tratamento da superdose aguda é sintomático.
+Em caso de intoxicação ligue para 0800 722 6001, se você precisar de mais orientações.
+III - DIZERES LEGAIS
+MS-1.3569.0587
+Farm.Resp.: Dr. Adriano Pinheiro Coelho
+CRF-SP nº 22.883
+Registrado por: EMS SIGMA PHARMA LTDA
+Rod. Jornalista Francisco Aguirre Proença, KM 08
+Bairro Chácara Assay
+Hortolândia/SP-CEP: 13186-901
+CNPJ: 00.923.140/0001-31
+INDÚSTRIA BRASILEIRA
+Fabricado, embalado e comercializado por: EMS S/A
+Hortolândia/SP
+VENDA SOB PRESCRIÇÃO MÉDICA
+SÓ PODE SER VENDIDO COM RETENÇÃO DA RECEITA
+Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em 08/03/2022.
+bula-prof-357797-SIG-080322
+Histórico de alteração da bula
+Dados da submissão eletrônica Dados da petição/notificação que altera bula Dados das alterações de bulas
+Data do N° do Data do N° do Data de Versões Apresentações
+Assunto Assunto Itens de bula
+expediente expediente expediente expediente aprovação (VP/VPS) relacionadas
+Não houve
+alteração no texto
+de bula.
+(10457) – SIMILAR – Submissão Comprimido revestido
+Inclusão Inicial de eletrônica apenas de 200 mg.
+08/07/2013 0549522/13-9 N/A N/A N/A Todos os Itens VP/VPS
+Texto de Bula para 20, 30, 40, 60 e 100*
+disponibilização do *Embalagem
+texto de bula no Hospitalar
+Bulário eletrônico
+da ANVISA.
+4. O QUE DEVO
+SABER ANTES DE
+Inclusão de local de USAR ESTE Comprimido revestido
+(10450) – SIMILAR - fabricação de MEDICAMENTO? de 200 mg.
+17/03/2014
+Notificação de Alteração 0011575/14- medicamento de 8. QUAIS OS 20, 30, 40, 60 e 100*
+14/04/2014 0284641/14-1 26/12/2013 (RE Nº VP/VPS
+de Texto de Bula – RDC 4 liberação MALES QUE ESTE *Embalagem
+900)
+60/12 convencional com MEDICAMENTO Hospitalar
+prazo de análise PODE ME
+CAUSAR?
+-DIZERES LEGAIS
+Comprimido revestido
+Não houve
+(10450) – SIMILAR - de 200 mg.
+alteração no texto
+Notificação de Alteração 20, 30, 40, 60 e 100*
+13/05/2014 0369447/14-0 N/A N/A de bula, apenas N/A -DIZERES LEGAIS VP/VPS
+de Texto de Bula – RDC *Embalagem
+alteração nos
+60/12 Hospitalar
+dizeres legais.
+(10756) – SIMILAR – Comprimido revestido
+Notificação de alteração de 200 mg:
+0236953/15-2 Adequação a
+18/03/2015 de texto de bula para N/A N/A N/A N/A VP/VPS Embalagem contendo
+intercambialidade
+adequação a 20, 30, 40, 60 e 100*
+intercambialidade comprimidos
+revestidos..
+Comprimido revestido
+Não houve
+(10450) – SIMILAR - de 200 mg.
+alteração no texto
+Notificação de Alteração 20, 30, 40, 60 e 100*
+15/01/2020 0143298/20-2 N/A N/A de bula, apenas N/A -DIZERES LEGAIS VP/VPS
+de Texto de Bula – RDC *Embalagem
+alteração nos
+60/12 Hospitalar
+dizeres legais.
+VP-
+III - DIZERES
+LEGAIS Comprimido revestido
+(10450) – SIMILAR - de 200 mg.
+Notificação de Alteração VPS 20, 30, 40, 60 e 100*
+29/01/2021 0381664/21-8 N/A N/A N/A N/A VP/VPS
+de Texto de Bula – RDC 9. REAÇÕES *Embalagem
+60/12 ADVERSAS Hospitalar
+III - DIZERES
+LEGAIS
+VP- Comprimido revestido
+III - DIZERES de 200 mg.
+(10450) – SIMILAR -
+LEGAIS 20, 30, 40, 60 e 100*
+Notificação de Alteração
+17/06/2021 2347820/21-4 N/A N/A N/A N/A VP/VPS unidades.
+de Texto de Bula – RDC
+VPS *Embalagem
+60/12
+III - DIZERES Hospitalar
+LEGAIS
+Comprimido revestido
+de 200 mg.
+10450 - SIMILAR –
+Embalagem contendo
+Notificação de Alteração
+20, 30, 40, 60 ou 100*
+- - de Texto de Bula - N/A N/A N/A N/A DIZERES LEGAIS VP/VPS
+unidades.
+publicação no Bulário
+*Embalagem
+RDC 60/12
+hospitalar
